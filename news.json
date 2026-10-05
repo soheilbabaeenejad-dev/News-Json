@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-10-05T21:34:00Z",
+  "items": [
+    {
+      "id": "n-001",
+      "title": "راه‌اندازی مخزن News-Json",
+      "summary": "اولین مجموعه اخبار نمونه برای این مخزن اضافه شد.",
+      "category": "general",
+      "published_at": "2026-10-05T21:34:00Z",
+      "source": "local",
+      "url": null,
+      "tags": ["news", "json", "sample"]
+    },
+    {
+      "id": "n-002",
+      "title": "فرمت استاندارد اخبار",
+      "summary": "هر آیتم شامل شناسه، عنوان، خلاصه، دسته، تاریخ انتشار و برچسب‌هاست.",
+      "category": "meta",
+      "published_at": "2026-10-05T21:34:00Z",
+      "source": "local",
+      "url": null,
+      "tags": ["schema", "format"]
+    }
+  ]
+}
