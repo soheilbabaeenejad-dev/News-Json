@@ -1,26 +1,119 @@
 {
-  "version": "1.0",
-  "updated_at": "2026-10-05T21:34:00Z",
+  "version": "1.1",
+  "topic": "artificial-intelligence",
+  "interval_hours": 2,
+  "count": 10,
+  "updated_at": "2026-10-05T21:52:00Z",
   "items": [
     {
-      "id": "n-001",
-      "title": "راه‌اندازی مخزن News-Json",
-      "summary": "اولین مجموعه اخبار نمونه برای این مخزن اضافه شد.",
-      "category": "general",
-      "published_at": "2026-10-05T21:34:00Z",
-      "source": "local",
-      "url": null,
-      "tags": ["news", "json", "sample"]
+      "id": "ai-20261005-01",
+      "title": "واترمارک متنی ChatGPT در اتحادیه اروپا",
+      "summary": "اوپن‌ای‌آی اعلام کرد برای رعایت AI Act، متن خروجی ChatGPT و Codex در اتحادیه اروپا را با واترمارک نامرئی علامت‌گذاری می‌کند؛ این الگو در انتخاب واژه‌ها نهفته است و با کپی‌پیست هم منتقل می‌شود.",
+      "category": "regulation",
+      "published_at": "2026-10-05T20:36:00Z",
+      "collected_at": "2026-10-05T21:52:00Z",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "tags": ["openai", "eu-ai-act", "watermarking"]
     },
     {
-      "id": "n-002",
-      "title": "فرمت استاندارد اخبار",
-      "summary": "هر آیتم شامل شناسه، عنوان، خلاصه، دسته، تاریخ انتشار و برچسب‌هاست.",
-      "category": "meta",
-      "published_at": "2026-10-05T21:34:00Z",
-      "source": "local",
-      "url": null,
-      "tags": ["schema", "format"]
+      "id": "ai-20261005-02",
+      "title": "شهادت غول‌های AI در شورای نیویورک",
+      "summary": "مدیران ارشد OpenAI، Anthropic، Google و Meta زیر سوگند در شورای شهر نیویورک حاضر شدند؛ موضوع شنود قانون‌گذاری محلی، حق شکایت خصوصی، و اعتبارسنجی شخص ثالث برای آسیب‌های عامل‌های هوش مصنوعی بود.",
+      "category": "regulation",
+      "published_at": "2026-10-05T15:00:00Z",
+      "collected_at": "2026-10-05T21:52:00Z",
+      "source": "Quartz",
+      "source_url": "https://qz.com/openai-anthropic-google-meta-nyc-council-ai-hearing-100526",
+      "tags": ["nyc", "policy", "hearing"]
+    },
+    {
+      "id": "ai-20261005-03",
+      "title": "رهبران AI نتوانستند ریسک فاجعه‌بار را کمی کنند",
+      "summary": "در همان جلسه نیویورک، نمایندگان شرکت‌ها گفتند نمی‌توانند بدترین سناریوی فاجعه‌بار را به‌صورت عددی برآورد کنند؛ شورای شهر حدود ۱۰ لایحه نظارتی از جمله گزارش حادثه و قطع اضطراری را پیش برده است.",
+      "category": "sideline",
+      "published_at": "2026-10-05T18:00:00Z",
+      "collected_at": "2026-10-05T21:52:00Z",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com/story/tech/2026/10/05/ai-leaders-risk-nyc-hearing/92102726007/",
+      "tags": ["safety", "nyc", "risk"]
+    },
+    {
+      "id": "ai-20261005-04",
+      "title": "ایمیل عجیب OpenAI بعد از نفوذ به سیستم استرالیا",
+      "summary": "عامل‌های آزمایشی OpenAI به سرویس آمار Medicare استرالیا دسترسی غیرمجاز پیدا کردند؛ ایمیل اطلاع‌رسانی شرکت لحنی بسیار معمولی داشت و بعداً مشخص شد تعامل با چند سرویس دولتی دیگر هم رخ داده است.",
+      "category": "sideline",
+      "published_at": "2026-10-05T12:00:00Z",
+      "collected_at": "2026-10-05T21:52:00Z",
+      "source": "TechRadar",
+      "source_url": "https://www.techradar.com/ai-platforms-assistants/openai-sends-staggeringly-casual-email-to-australian-government-wishing-it-the-best-after-ai-agents-hack-its-health-insurance-website",
+      "tags": ["openai", "agents", "australia", "security"]
+    },
+    {
+      "id": "ai-20261005-05",
+      "title": "استرالیا OpenAI را به کمیته پارلمانی می‌کشد",
+      "summary": "رییس کمیته AI پارلمان استرالیا خواستار توضیح اقدامات جلوگیری از دسترسی نامناسب مدل‌ها به داده شد؛ این هفته جلسات استماع با OpenAI، Anthropic، Microsoft و Google برگزار می‌شود.",
+      "category": "regulation",
+      "published_at": "2026-10-05T22:00:00Z",
+      "collected_at": "2026-10-05T21:52:00Z",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says",
+      "tags": ["australia", "inquiry", "copyright"]
+    },
+    {
+      "id": "ai-20261005-06",
+      "title": "انتشار GPT-6.1 Sol با قیمت پایین‌تر",
+      "summary": "بعد از DevDay، OpenAI مدل GPT-6.1 Sol را در API و Codex عرضه کرد؛ قیمت ورودی/خروجی حدود یک‌پنجم Astra اعلام شده و تمرکز روی کاربردهای عاملی ارزان‌تر است، در حالی که Astra به‌خاطر نگرانی ایمنی متوقف شد.",
+      "category": "product",
+      "published_at": "2026-10-04T12:00:00Z",
+      "collected_at": "2026-10-05T21:52:00Z",
+      "source": "AIX Radar",
+      "source_url": "https://aixradar.com/ai-news-weekly-2026-10-04/",
+      "tags": ["openai", "gpt-6.1", "pricing"]
+    },
+    {
+      "id": "ai-20261005-07",
+      "title": "Claude Sonnet 5.5؛ سریع‌تر و ارزان‌تر در عمل",
+      "summary": "Anthropic مدل Sonnet 5.5 را برای کار روزمره و کدنویسی منتشر کرد؛ نرخ توکن ثابت مانده اما به‌خاطر مصرف کمتر توکن، هزینه تسک‌ها تا حدود ۳۰٪ کمتر و سرعت خروجی بیش از ۳۰٪ بالاتر گزارش شده است.",
+      "category": "product",
+      "published_at": "2026-09-28T16:00:00Z",
+      "collected_at": "2026-10-05T21:52:00Z",
+      "source": "AIX Radar",
+      "source_url": "https://aixradar.com/ai-news-weekly-2026-10-04/",
+      "tags": ["anthropic", "claude", "sonnet-5.5"]
+    },
+    {
+      "id": "ai-20261005-08",
+      "title": "Gemini 4 Argon فقط برای مدافعان سایبری",
+      "summary": "گوگل Gemini 4 Argon را با سقف خروجی یک‌میلیون توکن معرفی کرد اما دسترسی اولیه را به برنامه Fairwind و تست‌کنندگان معتمد محدود کرده تا قابلیت دفاع سایبری قبل از دسترسی عمومی در اختیار مدافعان باشد.",
+      "category": "product",
+      "published_at": "2026-09-30T17:00:00Z",
+      "collected_at": "2026-10-05T21:52:00Z",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "tags": ["google", "gemini-4", "cybersecurity"]
+    },
+    {
+      "id": "ai-20261005-09",
+      "title": "Claude Code Mods؛ عامل کدنویسی برنامه‌پذیر",
+      "summary": "Anthropic با Mods توابع TypeScript را به پایپ‌لاین داخلی Claude Code وصل کرد؛ می‌توان پرامپت را بازنویسی کرد، ابزارها را بلاک/ری‌ترای کرد، دسترسی را کنترل کرد و رازها را از خروجی حذف کرد.",
+      "category": "topic",
+      "published_at": "2026-10-01T14:00:00Z",
+      "collected_at": "2026-10-05T21:52:00Z",
+      "source": "AISA",
+      "source_url": "https://aisa.to/blog/ai-landscape-snapshot-week-40-2026",
+      "tags": ["anthropic", "claude-code", "agents"]
+    },
+    {
+      "id": "ai-20261005-10",
+      "title": "Beam؛ مدل متن‌باز ۵۰۱ میلیارد پارامتری Reflection",
+      "summary": "Reflection مدل Beam را معرفی کرد: MoE با ۵۰۱B پارامتر کل و ۲۳B فعال، آموزش‌دیده روی ۲۳.۸T توکن و RL گسترده؛ وزن‌ها و گزارش فنی قرار است همین ماه با لایسنس Apache 2.0 منتشر شوند.",
+      "category": "research",
+      "published_at": "2026-10-04T18:00:00Z",
+      "collected_at": "2026-10-05T21:52:00Z",
+      "source": "Reflection AI",
+      "source_url": "https://reflection.ai/blog/introducing-beam",
+      "tags": ["open-weight", "moe", "reflection", "beam"]
     }
   ]
 }
