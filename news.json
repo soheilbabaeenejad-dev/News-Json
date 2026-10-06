@@ -5,166 +5,166 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "1405/07/14 13:34",
+  "updated_at": "1405/07/14 15:39",
   "items": [
     {
-      "id": "ai-20261006-51",
-      "title": "DeepSeek نزدیک به جذب حداقل ۱۲ میلیارد دلار",
-      "summary": "گزارش‌ها می‌گویند DeepSeek با حمایت تنسنت نزدیک به جذب حداقل ۸۰ میلیارد یوان است و هدف اولیه ۵۰ میلیاردی را رد کرده؛ دور تأمین مالی پیش از IPO اوایل ۲۰۲۷ به‌زودی بسته می‌شود.",
-      "category": "news",
-      "published_at": "1405/07/14 08:30",
-      "collected_at": "1405/07/14 13:34",
-      "source": "Bloomberg Law",
-      "source_url": "https://news.bloomberglaw.com/capital-markets/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
-      "tags": [
-        "deepseek",
-        "funding",
-        "tencent",
-        "ipo"
-      ]
-    },
-    {
-      "id": "ai-20261006-52",
-      "title": "مرکز داده Inner Mongolia با ۱۶۰ هزار چیپ Huawei",
-      "summary": "DeepSeek قصد دارد در مرکز داده بزرگ مغولستان داخلی حداقل ۱۶۰ هزار شتاب‌دهنده Huawei مستقر کند؛ احتمالاً یکی از بزرگ‌ترین خوشه‌های شناخته‌شده چیپ AI هوآوی.",
-      "category": "topic",
-      "published_at": "1405/07/14 09:30",
-      "collected_at": "1405/07/14 13:34",
-      "source": "The Straits Times",
-      "source_url": "https://www.straitstimes.com/business/deepseek-set-to-raise-at-least-15-billion-in-tencent-backed-funding",
-      "tags": [
-        "deepseek",
-        "huawei",
-        "data-center",
-        "china"
-      ]
-    },
-    {
-      "id": "ai-20261006-53",
-      "title": "مدل ارزان V4 Flash برای کدنویسی قوی",
-      "summary": "DeepSeek مدل Flash جدید را با تمرکز روی کاهش شدید هزینه محاسبه و عملکرد قوی در بنچمارک‌های کدنویسی و مهندسی نرم‌افزار عرضه کرده و انتظارات هزینه/کارایی را جابه‌جا کرده است.",
-      "category": "product",
+      "id": "ai-20261006-61",
+      "title": "ده لایحه AI روی میز شورای نیویورک",
+      "summary": "شورای شهر NYC ده پیش‌نویس قانون شامل اعتبارسنجی شخص ثالث، قابلیت خاموش‌کردن انسانی، گزارش حادثه و جریمه تا ۲۵ هزار دلار را بررسی می‌کند؛ SpaceX AI با وجود احضاریه حاضر نشد.",
+      "category": "regulation",
       "published_at": "1405/07/14 11:30",
-      "collected_at": "1405/07/14 13:34",
-      "source": "Beijing Post",
-      "source_url": "https://beijingpost.com/deepseek-launches-lower-cost-flash-ai-model-with-strong-coding-performance",
+      "collected_at": "1405/07/14 15:39",
+      "source": "PPC Land",
+      "source_url": "https://ppc.land/openai-anthropic-google-and-meta-face-10-proposed-nyc-ai-bills/",
       "tags": [
-        "deepseek",
-        "v4-flash",
-        "coding",
-        "pricing"
+        "nyc",
+        "legislation",
+        "validation",
+        "liability"
       ]
     },
     {
-      "id": "ai-20261006-54",
-      "title": "Moonshot با ارزش ۵۰ میلیارد دلار به سمت IPO هنگ‌کنگ",
-      "summary": "Moonshot AI دور خصوصی را با ارزش حدود ۵۰ میلیارد دلار بست و برای عرضه در هنگ‌کنگ در سه‌ماهه اول ۲۰۲۷ آماده می‌شود؛ احتمال جذب تا ۵ میلیارد دلار در IPO مطرح است.",
-      "category": "news",
-      "published_at": "1405/07/14 07:30",
-      "collected_at": "1405/07/14 13:34",
-      "source": "Ctech",
-      "source_url": "https://www.calcalistech.com/ctechnews/article/r1me2gzsze",
-      "tags": [
-        "moonshot",
-        "kimi",
-        "ipo",
-        "hong-kong"
-      ]
-    },
-    {
-      "id": "ai-20261006-55",
-      "title": "رقابت IPO دو غول AI چین داغ شد",
-      "summary": "در حالی که Moonshot حدود ۵۰ میلیارد دلار ارزش‌گذاری شده، DeepSeek با ارزش حدود ۵۰۰ میلیارد یوان دور نهایی خصوصی را جلو می‌برد؛ هر دو برای ورود به بازار در ۲۰۲۷ خیز برداشته‌اند.",
+      "id": "ai-20261006-62",
+      "title": "مدیران AI در NYC از کمی‌کردن ریسک طفره رفتند",
+      "summary": "نمایندگان OpenAI، Anthropic، Google و Meta در جلسه طولانی به پرسش‌های ریسک فاجعه‌بار، بیمه و توقف مدل ردشده جواب روشن ندادند؛ منین گفت برای حضور SpaceX از قاضی کمک می‌خواهد.",
       "category": "sideline",
-      "published_at": "1405/07/14 10:30",
-      "collected_at": "1405/07/14 13:34",
-      "source": "Seoul Economic Daily",
-      "source_url": "https://en.sedaily.com/international/2026/10/06/chinas-two-ai-leaders-near-ipos-at-50b-and-500b-yuan",
+      "published_at": "1405/07/14 13:30",
+      "collected_at": "1405/07/14 15:39",
+      "source": "DNYUZ",
+      "source_url": "https://dnyuz.com/2026/10/06/a-i-officials-stonewall-on-questions-about-technologys-risks/",
       "tags": [
-        "china",
-        "ipo",
-        "deepseek",
-        "moonshot"
+        "nyc",
+        "hearing",
+        "risk",
+        "governance"
       ]
     },
     {
-      "id": "ai-20261006-56",
-      "title": "آکادمی ۱۰۰ میلیون دلاری Anthropic برای مهندسان سازمانی",
-      "summary": "Anthropic برنامه Claude Frontier Academy را با تعهد ۱۰۰ میلیون دلار اعلام کرد تا تا پایان ۲۰۲۷ حدود ۱۰ هزار مهندس استقرار frontier تربیت کند؛ شامل آموزش حضوری و رزیدنسی ۱۲ هفته‌ای.",
-      "category": "product",
-      "published_at": "1405/07/10 19:30",
-      "collected_at": "1405/07/14 13:34",
-      "source": "EffectStory",
-      "source_url": "https://effectstory.com/en/articles/anthropic-claude-frontier-academy-100-million-10000-engineers",
+      "id": "ai-20261006-63",
+      "title": "عذرخواهی حضوری Kwon در سیدنی؛ جواب‌ها کم",
+      "summary": "جیسون کوان ۱۵ ساعت پرواز کرد تا حضوری بابت نفوذ عامل به Medicare عذر بخواهد، اما گاردین می‌گوید هنوز پاسخ روشنی درباره علت تأخیر اطلاع‌رسانی و جزئیات فنی نداده است.",
+      "category": "news",
+      "published_at": "1405/07/14 14:42",
+      "collected_at": "1405/07/14 15:39",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/06/openai-delivers-a-mea-culpa-to-the-australian-government-in-person-but-answers-still-elude",
+      "tags": [
+        "openai",
+        "australia",
+        "medicare",
+        "inquiry"
+      ]
+    },
+    {
+      "id": "ai-20261006-64",
+      "title": "Anthropic مدل‌های frontier را به AISI استرالیا می‌دهد",
+      "summary": "آنتروپیک گفت در حال نهایی‌کردن توافقی است تا مؤسسه ایمنی AI استرالیا مدل‌های frontier را ارزیابی کند؛ هم‌زمان برای سازوکار جایگزین دسترسی به آثار کپی‌رایت جهت آموزش فشار می‌آورد.",
+      "category": "regulation",
+      "published_at": "1405/07/14 12:30",
+      "collected_at": "1405/07/14 15:39",
+      "source": "Forbes Australia",
+      "source_url": "https://www.forbes.com.au/news/innovation/anthropic-frontier-models-up-australian-ai-safety-institute/",
       "tags": [
         "anthropic",
-        "education",
-        "enterprise",
-        "talent"
+        "australia",
+        "aisi",
+        "evals"
       ]
     },
     {
-      "id": "ai-20261006-57",
-      "title": "اسرائیل Project 720 را سراسری می‌کند",
-      "summary": "وزارت آموزش اسرائیل می‌خواهد ظرف سه سال AI شخصی‌سازی‌شده تحت نظارت معلم را به همه مدارس ببرد؛ ارزیابی اولیه انگیزه دانش‌آموزان ضعیف را بهتر نشان داد ولی اثر معدل هنوز سنجیده نشده.",
-      "category": "topic",
-      "published_at": "1405/07/13 15:30",
-      "collected_at": "1405/07/14 13:34",
-      "source": "JNS",
-      "source_url": "https://www.jns.org/feature/israels-ai-classroom-experiment-is-going-national",
-      "tags": [
-        "israel",
-        "education",
-        "project-720",
-        "schools"
-      ]
-    },
-    {
-      "id": "ai-20261006-58",
-      "title": "Beam در برابر DeepSeek و Qwen عقب‌تر در چند بنچمارک",
-      "summary": "جدول بنچمارک Reflection نشان می‌دهد Beam در DeepSWE و Terminal-Bench از Kimi K3 و DeepSeek V4.1 Flash عقب است؛ با این حال شرکت روی مصرف ۳–۴ برابر کمتر inference compute مانور می‌دهد.",
-      "category": "research",
-      "published_at": "1405/07/13 21:30",
-      "collected_at": "1405/07/14 13:34",
-      "source": "Gadgets Now",
-      "source_url": "https://gadgetsnow.indiatimes.com/tech-news/nvidia-backed-reflection-ai-launches-beam-501b-model-takes-on-deepseek-qwen-ai/articleshow/134721921.cms",
-      "tags": [
-        "beam",
-        "deepseek",
-        "benchmarks",
-        "open-weight"
-      ]
-    },
-    {
-      "id": "ai-20261006-59",
-      "title": "AWS و Nvidia؛ ۲ میلیون GPU اضافه تا ۲۰۲۸",
-      "summary": "AWS اعلام کرد در ۲۰۲۷–۲۰۲۸ حدود ۲ میلیون GPU دیگر Nvidia شامل Blackwell Ultra و Rubin در زیرساخت جهانی مستقر می‌کند؛ تقاضا از برنامه قبلی بیش از یک میلیون GPU هم فراتر رفته است.",
-      "category": "news",
-      "published_at": "1405/06/04 18:30",
-      "collected_at": "1405/07/14 13:34",
-      "source": "NVIDIA Newsroom",
-      "source_url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
-      "tags": [
-        "aws",
-        "nvidia",
-        "gpus",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "ai-20261006-60",
-      "title": "۱۰۰ هزار GPU امن برای دولت آمریکا روی AWS",
-      "summary": "AWS و Nvidia می‌خواهند کارخانه‌های AI دولتی بسازند و حدود ۱۰۰ هزار GPU روی زیرساخت امن AWS برای بارهای فدرال با سطح IL6 و بالاتر ارائه کنند؛ بخشی از گسترش همکاری ابری-نظامی.",
+      "id": "ai-20261006-65",
+      "title": "EU: AI Act کافی است؟ شک قانون‌گذاران",
+      "summary": "بروکسل می‌گوید AI Act از مرحله تست هم قابل اجراست، اما قانون‌گذاران از خلأ مسئولیت مدنی و تردید اتحادیه برای فشار کامل روی شرکت‌های آمریکایی می‌گویند؛ دسترسی دیرهنگام به Mythos هم نقد شده.",
       "category": "regulation",
-      "published_at": "1405/06/04 18:30",
-      "collected_at": "1405/07/14 13:34",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com/news/aws/aws-nvidia-2-million-gpus-ai",
+      "published_at": "1405/07/14 10:30",
+      "collected_at": "1405/07/14 15:39",
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/live-news/20261006-eu-vows-ai-rules-will-protect-europeans-will-they",
       "tags": [
-        "aws",
-        "nvidia",
-        "government",
-        "security"
+        "eu",
+        "ai-act",
+        "enforcement",
+        "liability"
+      ]
+    },
+    {
+      "id": "ai-20261006-66",
+      "title": "Reka مدل Rho-1 برای ویدئو و ربات",
+      "summary": "Reka پیش‌نمایش پژوهشی Rho-1 با ۱۹ میلیارد پارامتر را منتشر کرد؛ مدلی که متن، تصویر و ویدئو را در یک زمینه مشترک نگه می‌دارد و می‌تواند اقدام رباتی هم تولید کند.",
+      "category": "product",
+      "published_at": "1405/07/14 05:25",
+      "collected_at": "1405/07/14 15:39",
+      "source": "Runtime Wire",
+      "source_url": "https://runtimewire.com/article/reka-rho-1-19b-omni-model-preview",
+      "tags": [
+        "reka",
+        "rho-1",
+        "robotics",
+        "multimodal"
+      ]
+    },
+    {
+      "id": "ai-20261006-67",
+      "title": "Siena با ۱۷ میلیون Series A برای Agent of Record",
+      "summary": "پلتفرم تجربه مشتری Siena ۱۷ میلیون دلار Series A گرفت تا لایه هوش مشترک برندهای مصرفی را گسترش دهد؛ مجموع تأمین مالی به حدود ۲۹.۷ میلیون دلار رسید.",
+      "category": "news",
+      "published_at": "1405/07/14 15:00",
+      "collected_at": "1405/07/14 15:39",
+      "source": "VentureBeat",
+      "source_url": "https://venturebeat.com/business/siena-raises-17m-series-a-to-expand-its-agent-of-record-platform-for-consumer-brands",
+      "tags": [
+        "siena",
+        "agents",
+        "funding",
+        "cx"
+      ]
+    },
+    {
+      "id": "ai-20261006-68",
+      "title": "Hadrian ۴۰ میلیون برای هکر AI تحت نظارت AI",
+      "summary": "استارتاپ آمستردامی Hadrian ۴۰ میلیون دلار جذب کرد تا تست نفوذ خودکار با عامل‌های AI بسازد؛ هر اقدام را عامل دوم بررسی می‌کند و شرکت می‌گوید روزانه بیش از ۱۰۰ میلیون شبیه‌سازی حمله اجرا می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/14 13:30",
+      "collected_at": "1405/07/14 15:39",
+      "source": "Tech Funding News",
+      "source_url": "https://techfundingnews.com/hadrian-raises-40m-autonomous-ai-pentesting-forgepoint-smartfin/",
+      "tags": [
+        "hadrian",
+        "security",
+        "pentest",
+        "agents"
+      ]
+    },
+    {
+      "id": "ai-20261006-69",
+      "title": "Beam برای دولت‌های حاکمیتی هم هدف‌گذاری شد",
+      "summary": "Reflection مدل متن‌باز Beam را علاوه بر بنگاه‌ها برای دولت‌های sovereign هم می‌فروشد و می‌گوید نسبت به مدل‌های بزرگ‌تر چینی ۳ تا ۴ برابر کمتر inference compute مصرف می‌کند؛ ادعا هنوز مستقل تأیید نشده.",
+      "category": "product",
+      "published_at": "1405/07/14 09:30",
+      "collected_at": "1405/07/14 15:39",
+      "source": "Quartz",
+      "source_url": "https://qz.com/reflection-ai-beam-open-weight-model-launch-100626",
+      "tags": [
+        "reflection",
+        "beam",
+        "open-weight",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "ai-20261006-70",
+      "title": "۸۴ روز تأخیر اطلاع‌رسانی Medicare از نظر آلبانیس",
+      "summary": "طبق پوشش Forbes Australia، نخست‌وزیر آلبانیس گفته اطلاع‌رسانی OpenAI درباره حادثه Medicare ۸۴ روز طول کشیده؛ Anthropic هم‌زمان می‌گوید مورد مشابهی روی سیستم‌های استرالیا ندیده است.",
+      "category": "sideline",
+      "published_at": "1405/07/14 12:30",
+      "collected_at": "1405/07/14 15:39",
+      "source": "Forbes Australia",
+      "source_url": "https://www.forbes.com.au/news/innovation/anthropic-frontier-models-up-australian-ai-safety-institute/",
+      "tags": [
+        "openai",
+        "australia",
+        "disclosure",
+        "albanese"
       ]
     }
   ]
