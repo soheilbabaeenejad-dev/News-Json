@@ -5,166 +5,166 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "1405/07/14 19:31",
+  "updated_at": "1405/07/14 21:31",
   "items": [
     {
-      "id": "ai-20261006-81",
-      "title": "Google Earth AI برای پیش‌بینی شیوع بیماری",
-      "summary": "گوگل با ترکیب تصاویر ماهواره‌ای، داده تحرک و مدل‌های بنیادین Earth AI، ابزارهایی برای پیش‌بینی شیوع بیماری و حمایت از تصمیم بهداشت عمومی معرفی کرد؛ نمونه آن پیش‌بینی دنگی در مکزیک است.",
-      "category": "research",
-      "published_at": "1405/07/14 18:30",
-      "collected_at": "1405/07/14 19:31",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
-      "tags": [
-        "google",
-        "earth-ai",
-        "health",
-        "geospatial"
-      ]
-    },
-    {
-      "id": "ai-20261006-82",
-      "title": "بودجه AI مایکروسافت از ۱۰۰ هزار به ۱۰ هزار دلار",
-      "summary": "گزارش‌ها می‌گویند سقف مصرف ماهانه مدل‌های AI برای بیشتر کارکنان مایکروسافت از حدود ۱۰۰ هزار دلار به حدود ۱۰ هزار دلار کاهش یافته؛ هزینه داخلی Anthropic هم بیش از یک‌سوم افت کرده است.",
-      "category": "sideline",
-      "published_at": "1405/07/14 17:30",
-      "collected_at": "1405/07/14 19:31",
-      "source": "Tech Startups",
-      "source_url": "https://techstartups.com/2026/10/06/meta-cuts-claude-users-by-50-as-microsoft-slashes-ai-budgets-from-100k-to-10k-per-employee-ahead-of-anthropic-ipo/",
-      "tags": [
-        "microsoft",
-        "anthropic",
-        "budget",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "ai-20261006-83",
-      "title": "کاربران Claude Code در متا نصف شد",
-      "summary": "تعداد کارکنان متا که Claude Code می‌زنند از حدود ۶۰ هزار به ۳۰ هزار رسیده؛ بخشی به‌خاطر اخراج‌هاست ولی شرکت مهندسان را به MetaCode و Muse Code داخلی هل می‌دهد.",
-      "category": "news",
-      "published_at": "1405/07/14 17:30",
-      "collected_at": "1405/07/14 19:31",
-      "source": "Tech Startups",
-      "source_url": "https://techstartups.com/2026/10/06/meta-cuts-claude-users-by-50-as-microsoft-slashes-ai-budgets-from-100k-to-10k-per-employee-ahead-of-anthropic-ipo/",
-      "tags": [
-        "meta",
-        "claude",
-        "muse",
-        "coding-agents"
-      ]
-    },
-    {
-      "id": "ai-20261006-84",
-      "title": "چارچوب Sovereign AI مایکروسافت با Nvidia",
-      "summary": "مایکروسافت چارچوب Sovereign AI را با اصول کنترل، انتخاب، انعطاف و تاب‌آوری رسمی کرد و سطوح Public/Private Cloud را همراه Foundry و مرجع سخت‌افزاری Nvidia معرفی نمود.",
+      "id": "ai-20261006-91",
+      "title": "Mistral Large 4 با لقب Le Chonk آمد",
+      "summary": "استودیوی فرانسوی Mistral مدل چندرسانه‌ای یک‌تریلیون پارامتری Large 4 را معرفی کرد؛ فعلاً از API با گاردریل در دسترس است و ادعا می‌کند قوی‌ترین مدل متن‌باز خارج از چین است.",
       "category": "product",
-      "published_at": "1405/07/14 14:30",
-      "collected_at": "1405/07/14 19:31",
-      "source": "AI Weekly",
-      "source_url": "https://aiweekly.co/ai-news-today",
+      "published_at": "1405/07/14 18:03",
+      "collected_at": "1405/07/14 21:31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
       "tags": [
-        "microsoft",
+        "mistral",
+        "le-chonk",
+        "open-weight",
+        "europe"
+      ]
+    },
+    {
+      "id": "ai-20261006-92",
+      "title": "وزن‌های ML4 قرار است ۲۷ اکتبر منتشر شوند",
+      "summary": "Mistral می‌گوید نسخه کامل وزن‌ها بعد از تست ایمنی و RL بیشتر در ۲۷ اکتبر آزاد می‌شود؛ فعلاً نسخه محدودتر با قابلیت سایبری گسترده‌تر فقط به شرکای منتخب داده شده است.",
+      "category": "product",
+      "published_at": "1405/07/14 19:30",
+      "collected_at": "1405/07/14 21:31",
+      "source": "Axios",
+      "source_url": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
+      "tags": [
+        "mistral",
+        "weights",
+        "safety",
+        "release"
+      ]
+    },
+    {
+      "id": "ai-20261006-93",
+      "title": "آموزش Le Chonk فقط با ۴۰۰۰ GPU در اروپا",
+      "summary": "مدل روی ۴۰۰۰ تراشه Nvidia Grace Blackwell در دیتاسنترهای خود Mistral در اروپا طی دو ماه آموزش دیده؛ شرکت می‌گوید این ۲ تا ۳ برابر کمتر از رقبای چینی است.",
+      "category": "topic",
+      "published_at": "1405/07/14 18:03",
+      "collected_at": "1405/07/14 21:31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "tags": [
+        "mistral",
         "nvidia",
-        "sovereign-ai",
-        "cloud"
+        "training",
+        "sovereign-ai"
       ]
     },
     {
-      "id": "ai-20261006-85",
-      "title": "Muse Spark هم‌نویس شش مقاله ریاضی شد",
-      "summary": "طبق خلاصه AI Weekly، عامل Muse Spark متا در شش مقاله ریاضی هم‌نویس بوده و پنج مسئله باز را حل کرده؛ حاشیه‌ای که بحث نقش عامل‌ها در پژوهش علمی را داغ کرده است.",
-      "category": "research",
-      "published_at": "1405/07/14 15:30",
-      "collected_at": "1405/07/14 19:31",
-      "source": "AI Weekly",
-      "source_url": "https://aiweekly.co/ai-news-today",
-      "tags": [
-        "meta",
-        "muse-spark",
-        "math",
-        "science"
-      ]
-    },
-    {
-      "id": "ai-20261006-86",
-      "title": "جمینای رایگان از ۹ اکتبر فقط Flash-Lite",
-      "summary": "گوگل دسترسی کاربران رایگان Gemini را از ۹ اکتبر به Flash-Lite محدود می‌کند؛ مشترک‌های Pro/Ultra مدل‌های کامل را نگه می‌دارند و Argon همچنان برای مدافعان سایبری گیت شده است.",
-      "category": "product",
-      "published_at": "1405/07/14 16:30",
-      "collected_at": "1405/07/14 19:31",
-      "source": "AI Briefing",
-      "source_url": "https://aibriefing.dev/",
-      "tags": [
-        "google",
-        "gemini",
-        "pricing",
-        "flash-lite"
-      ]
-    },
-    {
-      "id": "ai-20261006-87",
-      "title": "بریتانیا هر ۴۴ توصیه کمیسیون AI سلامت را پذیرفت",
-      "summary": "دولت بریتانیا همه ۴۴ توصیه کمیسیون ملی تنظیم AI در مراقبت‌های بهداشتی را پذیرفت و می‌گوید نقشه راه اجرا تا بهار ۲۰۲۷ منتشر می‌شود؛ MHRA هم راهنمای مدیریت تغییرات مدل را تا دسامبر پیش‌نویس می‌کند.",
-      "category": "regulation",
-      "published_at": "1405/07/14 13:30",
-      "collected_at": "1405/07/14 19:31",
-      "source": "GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
-      "tags": [
-        "uk",
-        "nhs",
-        "healthcare",
-        "regulation"
-      ]
-    },
-    {
-      "id": "ai-20261006-88",
-      "title": "فاز سوم AI Airlock برای نظارت پس از بازار",
-      "summary": "MHRA فراخوان فاز سوم سندباکس AI Airlock را باز کرد؛ تمرکز روی پایش پس از بازار و تنظیم چرخه حیات دستگاه‌های پزشکی مبتنی بر AI است و سه سال بودجه اضافه گرفته.",
-      "category": "regulation",
-      "published_at": "1405/07/14 13:30",
-      "collected_at": "1405/07/14 19:31",
-      "source": "GOV.UK",
-      "source_url": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
-      "tags": [
-        "mhra",
-        "ai-airlock",
-        "medtech",
-        "uk"
-      ]
-    },
-    {
-      "id": "ai-20261006-89",
-      "title": "RefFree-Phaser؛ فاز ژنوم بدون پنل مرجع",
-      "summary": "پژوهشگران UTHealth مدل ترنسفورمر RefFree-Phaser را معرفی کردند که genotype phasing را بدون پنل مرجع عظیم انجام می‌دهد؛ گامی برای جمعیت‌هایی که در داده‌های مرجع کمتر نمایندگی شده‌اند.",
-      "category": "research",
-      "published_at": "1405/06/07 15:30",
-      "collected_at": "1405/07/14 19:31",
-      "source": "Scienmag",
-      "source_url": "https://scienmag.com/ai-learns-to-phase-genomes-without-any-reference-panel/",
-      "tags": [
-        "genomics",
-        "transformer",
-        "research",
-        "health"
-      ]
-    },
-    {
-      "id": "ai-20261006-90",
-      "title": "Muse به ۶۴۲ هزار کاربر روزانه رسید",
-      "summary": "گزارش‌ها می‌گویند عامل Muse متا ظرف حدود ۱۲ روز به ۶۴۲ هزار کاربر روزانه رسیده و در رشد سهام سه‌ماهه سوم هم نقش داشته؛ هم‌زمان فشار حریم خصوصی روی دسترسی به Messages ادامه دارد.",
+      "id": "ai-20261006-94",
+      "title": "Hugging Face برای دفاع به مدل چینی پناه برد",
+      "summary": "CNBC می‌گوید وقتی عامل‌های OpenAI به Hugging Face حمله کردند، ابتدا مدل‌های بسته آمریکایی را زد ولی گاردریل‌ها مانع شدند؛ در نهایت به GLM چینی روی آورد.",
       "category": "sideline",
-      "published_at": "1405/07/14 16:30",
-      "collected_at": "1405/07/14 19:31",
-      "source": "AI Briefing",
-      "source_url": "https://aibriefing.dev/",
+      "published_at": "1405/07/14 18:30",
+      "collected_at": "1405/07/14 21:31",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
       "tags": [
-        "meta",
-        "muse",
-        "growth",
-        "privacy"
+        "hugging-face",
+        "glm",
+        "openai",
+        "open-weight"
+      ]
+    },
+    {
+      "id": "ai-20261006-95",
+      "title": "بازگشت غرب به رقابت مدل‌های متن‌باز",
+      "summary": "Axios می‌گوید با Beam و Mistral Large 4، لبزهای غربی دوباره فاصله باز مدل‌های متن‌باز چین را کم می‌کنند و گزینه‌ای غیربسته و غیروابسته به پکن برای بنگاه‌ها می‌سازند.",
+      "category": "topic",
+      "published_at": "1405/07/14 19:30",
+      "collected_at": "1405/07/14 21:31",
+      "source": "Axios",
+      "source_url": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
+      "tags": [
+        "open-weight",
+        "china",
+        "mistral",
+        "reflection"
+      ]
+    },
+    {
+      "id": "ai-20261006-96",
+      "title": "شکایت یوتیوبرها علیه ByteDance پیش رفت",
+      "summary": "قاضی فدرال کالیفرنیا دعوای DMCA یوتیوبرها علیه ByteDance را رد نکرد؛ ادعا این است که برای آموزش AI از روی YouTube، تدابیر فنی دسترسی دور زده شده است.",
+      "category": "regulation",
+      "published_at": "1405/07/10 21:30",
+      "collected_at": "1405/07/14 21:31",
+      "source": "Trademark Lawyer Magazine",
+      "source_url": "https://trademarklawyermagazine.com/bytedance-must-face-youtubers-ai-training-suit-over-alleged-youtube-scraping/",
+      "tags": [
+        "bytedance",
+        "youtube",
+        "dmca",
+        "training-data"
+      ]
+    },
+    {
+      "id": "ai-20261006-97",
+      "title": "دادگاه دعوای برچسب NoAI علیه Roblox را رد کرد",
+      "summary": "قاضی فدرال شکایت هنرمند ۳D از Roblox بابت حذف برچسب NoAI و استفاده برای آموزش GenAI را رد کرد ولی اجازه اصلاح شکایت ظرف ۳۰ روز را داد.",
+      "category": "regulation",
+      "published_at": "1405/07/13 23:30",
+      "collected_at": "1405/07/14 21:31",
+      "source": "Courthouse News Service",
+      "source_url": "https://www.courthousenews.com/roblox-ducks-lawsuit-for-ignoring-artists-noai-tag/",
+      "tags": [
+        "roblox",
+        "noai",
+        "copyright",
+        "lawsuit"
+      ]
+    },
+    {
+      "id": "ai-20261006-98",
+      "title": "شایعه ارزش ۲ تریلیون دلاری IPO آنتروپیک",
+      "summary": "فرانس ۲۴ به نقل از گزارش‌ها نوشت Anthropic ممکن است در هفته‌های آینده با ارزش حدود ۲ تریلیون دلار وارد بازار سهام شود؛ رقمی خیلی بالاتر از ارزش فعلی Mistral.",
+      "category": "sideline",
+      "published_at": "1405/07/14 15:30",
+      "collected_at": "1405/07/14 21:31",
+      "source": "France 24",
+      "source_url": "https://www.france24.com/en/live-news/20261006-france-s-mistral-unveils-latest-model-in-sovereign-ai-push",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "valuation",
+        "markets"
+      ]
+    },
+    {
+      "id": "ai-20261006-99",
+      "title": "صندلی خالی SpaceXAI خشم شورای NYC",
+      "summary": "در جلسه سوگند لبزها، SpaceXAI با وجود احضاریه حاضر نشد؛ منین جواب «نمی‌دانیم و مهم نیست» درباره ریسک فاجعه را در بهترین حالت سرسری خواند.",
+      "category": "news",
+      "published_at": "1405/07/14 20:30",
+      "collected_at": "1405/07/14 21:31",
+      "source": "UseCarly",
+      "source_url": "https://www.usecarly.com/blog/ai-news-2026-10-06/",
+      "tags": [
+        "nyc",
+        "spacexai",
+        "hearing",
+        "subpoena"
+      ]
+    },
+    {
+      "id": "ai-20261006-100",
+      "title": "کلود تا هفته پیش هنوز در Maven پنتاگون بود",
+      "summary": "با وجود اعلام توقف، منابع گفتند Claude تا هفته گذشته در Maven Smart System برای کار اطلاعاتی و عملیات علیه ایران استفاده می‌شده؛ درس این است که مدل جاسازی‌شده مثل اشتراک ساده قطع نمی‌شود.",
+      "category": "sideline",
+      "published_at": "1405/07/14 20:30",
+      "collected_at": "1405/07/14 21:31",
+      "source": "UseCarly",
+      "source_url": "https://www.usecarly.com/blog/ai-news-2026-10-06/",
+      "tags": [
+        "anthropic",
+        "pentagon",
+        "maven",
+        "defense"
       ]
     }
   ]
