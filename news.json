@@ -1,119 +1,171 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "topic": "artificial-intelligence",
+  "calendar": "jalali",
+  "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "2026-10-06T04:01:00Z",
+  "updated_at": "1405/07/14 09:01",
   "items": [
     {
       "id": "ai-20261006-21",
       "title": "هشدار DeepMind: داریم دشمن خودمان را می‌سازیم",
       "summary": "الکس ترنر، پژوهشگر سابق Google DeepMind، در جلسه شورای نیویورک گفت چین تنها رقیب نیست و با احتمال قابل‌توجه در حال ساخت دشمن داخلی یعنی AI ناهم‌تراز هستیم که روزی ممکن است از چین هم قدرتمندتر شود.",
       "category": "sideline",
-      "published_at": "2026-10-06T02:00:00Z",
-      "collected_at": "2026-10-06T04:01:00Z",
+      "published_at": "1405/07/14 05:30",
+      "collected_at": "1405/07/14 09:01",
       "source": "Ya Libnan",
       "source_url": "https://yalibnan.com/2026/10/06/ai-researcher-warns-we-are-racing-to-build-and-grow-our-own-adversary-in-nyc-hearing/",
-      "tags": ["deepmind", "nyc", "misalignment", "safety"]
+      "tags": [
+        "deepmind",
+        "nyc",
+        "misalignment",
+        "safety"
+      ]
     },
     {
       "id": "ai-20261006-22",
       "title": "باگ Muse متا: لینک مخرب به VM شخصی",
       "summary": "گزارش‌ها می‌گویند متا بعد از کشف ریسک عامل Muse هشدارها را تقویت کرده؛ درخواست خلاصه‌کردن لینک یک سایت مخرب می‌توانست به ماشین مجازی ابری شخصی کاربر دسترسی بیرونی بدهد.",
       "category": "sideline",
-      "published_at": "2026-10-06T01:32:00Z",
-      "collected_at": "2026-10-06T04:01:00Z",
+      "published_at": "1405/07/14 05:02",
+      "collected_at": "1405/07/14 09:01",
       "source": "Seoul Economic Daily",
       "source_url": "https://en.sedaily.com/finance/2026/10/06/openai-pulls-gpt-61-launch-as-ai-agent-risks-mount",
-      "tags": ["meta", "muse", "agents", "privacy"]
+      "tags": [
+        "meta",
+        "muse",
+        "agents",
+        "privacy"
+      ]
     },
     {
       "id": "ai-20261006-23",
       "title": "استنفورد: خودارزیابی Big Tech مثل نمره دادن به خود",
       "summary": "راب رایش استاد استنفورد خودارزیابی ایمنی شرکت‌های بزرگ را به «دانش‌آموزی که تکلیف خودش را نمره می‌دهد» تشبیه کرد و خواستار نهاد مستقل ارزیابی شخص ثالث برای سیستم‌های پیشرفته AI شد.",
       "category": "topic",
-      "published_at": "2026-10-06T01:32:00Z",
-      "collected_at": "2026-10-06T04:01:00Z",
+      "published_at": "1405/07/14 05:02",
+      "collected_at": "1405/07/14 09:01",
       "source": "Seoul Economic Daily",
       "source_url": "https://en.sedaily.com/finance/2026/10/06/openai-pulls-gpt-61-launch-as-ai-agent-risks-mount",
-      "tags": ["evaluation", "governance", "stanford", "third-party"]
+      "tags": [
+        "evaluation",
+        "governance",
+        "stanford",
+        "third-party"
+      ]
     },
     {
       "id": "ai-20261006-24",
       "title": "متا تیم Virtue AI را بعد از ۴ ماه کنار گذاشت",
       "summary": "متا مؤسسان و کارکنان Virtue AI را که فقط چهار ماه پیش برای تقویت ایمنی در Superintelligence Labs جذب کرده بود اخراج کرد؛ Bo Li، Dawn Song و Sanmi Koyejo از جمله افراد جداشده‌اند.",
       "category": "sideline",
-      "published_at": "2026-10-06T03:00:00Z",
-      "collected_at": "2026-10-06T04:01:00Z",
+      "published_at": "1405/07/14 06:30",
+      "collected_at": "1405/07/14 09:01",
       "source": "People Matters",
       "source_url": "https://www.peoplematters.in/news/strategic-hr/meta-hired-an-ai-safety-team-four-months-later-it-fired-its-co-founders-and-employees-52524",
-      "tags": ["meta", "virtue-ai", "safety", "talent"]
+      "tags": [
+        "meta",
+        "virtue-ai",
+        "safety",
+        "talent"
+      ]
     },
     {
       "id": "ai-20261006-25",
       "title": "شاخص ایمنی FLI: Mistral و xAI مردود",
       "summary": "شاخص تابستان ۲۰۲۶ Future of Life Institute آنتروپیک را بالاترین نمره داد؛ DeepMind C، Meta D+، و xAI، DeepSeek و Mistral نمره F گرفتند؛ چرخش صنعت به سمت شراکت نظامی هم به‌عنوان ریسک نوظهور ثبت شد.",
       "category": "research",
-      "published_at": "2026-10-01T12:00:00Z",
-      "collected_at": "2026-10-06T04:01:00Z",
+      "published_at": "1405/07/09 15:30",
+      "collected_at": "1405/07/14 09:01",
       "source": "Future of Life Institute",
       "source_url": "https://futureoflife.org/ai-safety-index-summer-2026/",
-      "tags": ["fli", "safety-index", "mistral", "xai"]
+      "tags": [
+        "fli",
+        "safety-index",
+        "mistral",
+        "xai"
+      ]
     },
     {
       "id": "ai-20261006-26",
       "title": "Safeworld برای تست ایمنی ربات ۱۲.۲ میلیون گرفت",
       "summary": "استارتاپ Safeworld با حمایت Shine Capital و a16z Speedrun از استیلث خارج شد؛ شبیه‌سازی برخورد ربات‌های gen-AI با انسان‌های واقعی را می‌سازد تا قبل از استقرار روی زمین، سناریوهای خطرناک کشف شود.",
       "category": "product",
-      "published_at": "2026-10-05T12:00:00Z",
-      "collected_at": "2026-10-06T04:01:00Z",
+      "published_at": "1405/07/13 15:30",
+      "collected_at": "1405/07/14 09:01",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "tags": ["safeworld", "robotics", "funding", "simulation"]
+      "tags": [
+        "safeworld",
+        "robotics",
+        "funding",
+        "simulation"
+      ]
     },
     {
       "id": "ai-20261006-27",
       "title": "Beltic لایه Know Your Agent می‌سازد",
       "summary": "Beltic با حدود ۸.۸ میلیون دلار بودجه، لایه KYA برای عامل‌های AI می‌سازد تا هویت پشت عامل، مجوز اقدام و تطبیق تراکنش با نیت اصلی کاربر را در زمان واقعی چک کند.",
       "category": "product",
-      "published_at": "2026-09-30T16:00:00Z",
-      "collected_at": "2026-10-06T04:01:00Z",
+      "published_at": "1405/07/08 19:30",
+      "collected_at": "1405/07/14 09:01",
       "source": "Startuply.vc",
       "source_url": "https://startuply.vc/article/beltic-s-8-8-million-seed-funds-a-kya-layer-for-ai-agents-1rtfd7",
-      "tags": ["beltic", "kya", "agents", "identity"]
+      "tags": [
+        "beltic",
+        "kya",
+        "agents",
+        "identity"
+      ]
     },
     {
       "id": "ai-20261006-28",
       "title": "SafeAgent؛ شبیه‌ساز ریسک خودکار برای عامل‌ها",
       "summary": "مقاله ACL ۲۰۲۶ چارچوب SafeAgent را معرفی می‌کند که با تولید داده مصنوعی و مدل تهدید OTS، ایمنی عامل‌های LLM را به‌طور میانگین حدود ۴۵٪ بهتر می‌کند بدون جمع‌آوری داده خطرناک واقعی.",
       "category": "research",
-      "published_at": "2026-10-01T10:00:00Z",
-      "collected_at": "2026-10-06T04:01:00Z",
+      "published_at": "1405/07/09 13:30",
+      "collected_at": "1405/07/14 09:01",
       "source": "ACL Anthology",
       "source_url": "https://aclanthology.org/2026.acl-long.1501.pdf",
-      "tags": ["safeagent", "research", "agents", "alignment"]
+      "tags": [
+        "safeagent",
+        "research",
+        "agents",
+        "alignment"
+      ]
     },
     {
       "id": "ai-20261006-29",
       "title": "HiddenLayer صد میلیون Series B گرفت",
       "summary": "در موج تأمین مالی ایمنی AI، HiddenLayer با ۱۰۰ میلیون دلار Series B برای امنیت مدل و عامل‌ها برجسته شد؛ سرمایه‌گذاران به‌سمت کنترل runtime و پایش عامل‌های خودمختار چرخیده‌اند.",
       "category": "news",
-      "published_at": "2026-09-02T14:00:00Z",
-      "collected_at": "2026-10-06T04:01:00Z",
+      "published_at": "1405/06/11 17:30",
+      "collected_at": "1405/07/14 09:01",
       "source": "New Market Pitch",
       "source_url": "https://newmarketpitch.com/blogs/news/ai-safety-funding-news",
-      "tags": ["hiddenlayer", "funding", "security", "agents"]
+      "tags": [
+        "hiddenlayer",
+        "funding",
+        "security",
+        "agents"
+      ]
     },
     {
       "id": "ai-20261006-30",
       "title": "Outerlimit ۱۶ میلیون برای مجوزدهی عامل‌ها",
       "summary": "استارتاپ Outerlimit با ۱۶ میلیون pre-seed لایه authorization و امنیت runtime برای عامل‌های خودمختار می‌سازد؛ بخشی از روند سرمایه‌گذاری سپتامبر روی کنترل دسترسی عامل قبل از اجرای عمل است.",
       "category": "news",
-      "published_at": "2026-09-22T15:00:00Z",
-      "collected_at": "2026-10-06T04:01:00Z",
+      "published_at": "1405/06/31 18:30",
+      "collected_at": "1405/07/14 09:01",
       "source": "New Market Pitch",
       "source_url": "https://newmarketpitch.com/blogs/news/ai-safety-funding-news",
-      "tags": ["outerlimit", "authorization", "agents", "funding"]
+      "tags": [
+        "outerlimit",
+        "authorization",
+        "agents",
+        "funding"
+      ]
     }
   ]
 }
