@@ -5,166 +5,166 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "1405/07/14 23:31",
+  "updated_at": "1405/07/15 01:31",
   "items": [
     {
-      "id": "ai-20261006-101",
-      "title": "OpenAI و Ironclad برای قراردادهای پیچیده",
-      "summary": "اوپن‌ای‌آی با Ironclad روی آموزش عامل‌ها برای پیکربندی توافق‌ها و گردش‌کار حقوقی کار می‌کند؛ Astra در ۱۱ تسک پژوهشی میانگین ۵۵٪ گرفت در برابر ۴۱.۶٪ برای GPT-5.6 Sol.",
+      "id": "ai-20261006-111",
+      "title": "Claude وارد Google Workspace شد",
+      "summary": "Anthropic بتای عمومی Claude برای Docs، Sheets و Slides را روی پلن‌های پولی باز کرد؛ کاربر می‌تواند داخل فایل بازشده با sidebar کار کند و کانکتورهای جدید از چت Claude فایل بسازند.",
       "category": "product",
-      "published_at": "1405/07/14 13:30",
-      "collected_at": "1405/07/14 23:31",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "tags": [
-        "openai",
-        "ironclad",
-        "agents",
-        "contracts"
-      ]
-    },
-    {
-      "id": "ai-20261006-102",
-      "title": "EmbeddingGemma 2؛ پنج مودالیتی در یک فضا",
-      "summary": "DeepMind مدل متن‌باز ۷۴۰ میلیون پارامتری EmbeddingGemma 2 را منتشر کرد که متن، کد، تصویر، ویدئو و صدا را در فضای ۷۶۸بعدی مشترک نگاشت می‌کند و روی سخت‌افزار مصرفی هم اجرا می‌شود.",
-      "category": "product",
-      "published_at": "1405/07/14 19:30",
-      "collected_at": "1405/07/14 23:31",
+      "published_at": "1405/07/14 23:34",
+      "collected_at": "1405/07/15 01:31",
       "source": "Unite.AI",
-      "source_url": "https://www.unite.ai/deepmind-debuts-embeddinggemma-2-mapping-five-modalities-into-one-space/",
+      "source_url": "https://www.unite.ai/claude-ai-assistant-arrives-in-google-workspace-as-public-beta/",
       "tags": [
-        "deepmind",
-        "embeddings",
-        "multimodal",
-        "open-source"
+        "anthropic",
+        "claude",
+        "google-workspace",
+        "productivity"
       ]
     },
     {
-      "id": "ai-20261006-103",
-      "title": "پروتکل Personal Agent با متا و Sierra",
-      "summary": "Sierra استاندارد باز Personal Agent Protocol را با Meta و شرکایی مثل Shopify، Stripe و Walmart اعلام کرد؛ مشخصات v0.1 قرار است اواخر اکتبر منتشر شود.",
-      "category": "topic",
-      "published_at": "1405/07/14 20:30",
-      "collected_at": "1405/07/14 23:31",
-      "source": "Unite.AI",
-      "source_url": "https://www.unite.ai/sierra-unveils-personal-agent-protocol-built-with-meta-and-partners/",
+      "id": "ai-20261006-112",
+      "title": "لبزها تضمین ایمنی مطلق ندادند",
+      "summary": "نمایندگان OpenAI، Anthropic، Meta و Google در شورای NYC گفتند نمی‌توانند تضمین کنند عامل‌ها همیشه گاردریل را رعایت کنند؛ دویر: «هیچ فناوری‌ای بدون ریسک نیست.»",
+      "category": "regulation",
+      "published_at": "1405/07/14 21:30",
+      "collected_at": "1405/07/15 01:31",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06",
       "tags": [
-        "sierra",
-        "meta",
-        "agents",
-        "protocol"
+        "nyc",
+        "safety",
+        "guardrails",
+        "hearing"
       ]
     },
     {
-      "id": "ai-20261006-104",
-      "title": "آمازون دستیار Quick را روی موبایل گسترش داد",
-      "summary": "آمازون دستیار AI به‌نام Quick را روی موبایل گسترده‌تر کرد تا با پیشنهادهای مایکروسافت و گوگل در دستیارهای همراه رقابت کند.",
-      "category": "product",
-      "published_at": "1405/07/14 18:30",
-      "collected_at": "1405/07/14 23:31",
-      "source": "GeekWire via Technology Notes",
-      "source_url": "https://technologynotes.com/story/amazon-expands-its-quick-ai-assistant-on-mobile-in-challenge-to-microsoft-and-go-81b4bd0e-483a-45a1-8759-7ecd083262cc",
+      "id": "ai-20261006-113",
+      "title": "گوگل: غیرقانونی با AI هم غیرقانونی است",
+      "summary": "آلیس فرند از گوگل به قانون‌گذاران NYC گفت قوانین موجود باید روی AI هم اعمال شود: «اگر بدون AI غیرقانونی است، با AI هم غیرقانونی است»؛ وعده کمال محصول را هم غیرممکن دانست.",
+      "category": "regulation",
+      "published_at": "1405/07/14 21:30",
+      "collected_at": "1405/07/15 01:31",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06",
       "tags": [
-        "amazon",
-        "quick",
-        "mobile",
-        "assistant"
+        "google",
+        "nyc",
+        "liability",
+        "policy"
       ]
     },
     {
-      "id": "ai-20261006-105",
-      "title": "قرارداد هسته‌ای ۲۰ساله آمازون با Constellation",
-      "summary": "آمازون قرارداد ۲۰ساله برای ۶۹۰ مگاوات از نیروگاه هسته‌ای Calvert Cliffs بست؛ شامل uprate ۱۹۰ مگاواتی که بین ۲۰۳۰ تا ۲۰۳۲ آنلاین می‌شود.",
-      "category": "news",
-      "published_at": "1405/07/14 20:30",
-      "collected_at": "1405/07/14 23:31",
-      "source": "UseCarly",
-      "source_url": "https://www.usecarly.com/blog/ai-news-2026-10-06/",
-      "tags": [
-        "amazon",
-        "nuclear",
-        "energy",
-        "data-centers"
-      ]
-    },
-    {
-      "id": "ai-20261006-106",
-      "title": "Zeroset با ۵.۲ میلیون عامل‌ها را با شرکت آشنا می‌کند",
-      "summary": "استارتاپ Zeroset از Gradient Ventures ۵.۲ میلیون دلار گرفت تا مدل‌هایی بسازد که تصویر به‌روز عملیات شرکت را از ابزارهایی مثل Outlook و GitHub به عامل‌های AI بدهند.",
-      "category": "news",
-      "published_at": "1405/07/14 15:31",
-      "collected_at": "1405/07/14 23:31",
+      "id": "ai-20261006-114",
+      "title": "کاکسون: هدف اصلی لبزها خودکارسازی پژوهشگر است",
+      "summary": "جیکوب کاکسون گفت خودکارسازی پژوهش AI هدف اصلی لبزهای frontier شده و در OpenAI برای پژوهشگر خودکار حدود ۲۰۲۷–۲۰۲۸ مایل‌استون داشته‌اند؛ «در حال خودکار کردن خودم بودم.»",
+      "category": "sideline",
+      "published_at": "1405/07/14 22:30",
+      "collected_at": "1405/07/15 01:31",
       "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com/zeroset-startup-funding-ai-agents-gradient-ventures-enterprise-2026-10",
+      "source_url": "https://www.businessinsider.com/former-anthropic-openai-jacob-coxon-self-automatation-research-work-2026-10",
       "tags": [
-        "zeroset",
-        "agents",
-        "enterprise",
+        "coxon",
+        "automation",
+        "research",
+        "safety"
+      ]
+    },
+    {
+      "id": "ai-20261006-115",
+      "title": "Doosan پروژه ۹۸.۹ میلیارد وونی رباتیک AI گرفت",
+      "summary": "Doosan Robotics دو پروژه دولتی کره را برای ساخت پلتفرم Physical AI با SoC روی‌دستگاه و کوبات‌های ۵ تا ۲۰ کیلویی برد؛ تجاری‌سازی تا ۲۰۳۱ هدف‌گذاری شده است.",
+      "category": "news",
+      "published_at": "1405/07/14 08:28",
+      "collected_at": "1405/07/15 01:31",
+      "source": "The Korea Herald",
+      "source_url": "https://www.koreaherald.com/article/10894269",
+      "tags": [
+        "doosan",
+        "robotics",
+        "korea",
+        "physical-ai"
+      ]
+    },
+    {
+      "id": "ai-20261006-116",
+      "title": "جوشکاری هسته‌ای با کوبات و digital twin",
+      "summary": "پروژه دوم Doosan کوبات، AI و digital twin را برای جوش دقیق قطعات انرژی هسته‌ای ترکیب می‌کند؛ هدف تطبیق حرکت ۹۵٪ با جوشکار انسانی و کاهش ۵۰٪ زمان تولید است.",
+      "category": "topic",
+      "published_at": "1405/07/14 08:28",
+      "collected_at": "1405/07/15 01:31",
+      "source": "The Korea Herald",
+      "source_url": "https://www.koreaherald.com/article/10894269",
+      "tags": [
+        "doosan",
+        "nuclear",
+        "welding",
+        "digital-twin"
+      ]
+    },
+    {
+      "id": "ai-20261006-117",
+      "title": "Minerva Humanoids با ۱۰ میلیون از استیلث آمد",
+      "summary": "استارتاپ ربات انسان‌نما Minerva با رهبری General Catalyst حدود ۱۰ میلیون pre-seed گرفت تا برای مشاغل خطرناک نفت‌وگاز و ایمنی عمومی ربات بسازد؛ پایلوت‌های پولی از پاییز شروع می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/14 17:30",
+      "collected_at": "1405/07/15 01:31",
+      "source": "GlobeNewswire",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/06/3375277/0/en/minerva-humanoids-emerges-from-stealth-with-10m-pre-seed-round-led-by-general-catalyst-to-build-humanoid-robots-for-the-world-s-most-dangerous-jobs.html",
+      "tags": [
+        "minerva",
+        "humanoids",
+        "robotics",
         "funding"
       ]
     },
     {
-      "id": "ai-20261006-107",
-      "title": "doxx.net با ۳۸ میلیون شبکه امن برای عامل‌ها",
-      "summary": "پلتفرم شبکه‌ی خصوصی doxx.net با رهبری a16z سری A ۳۸ میلیون دلاری گرفت و ADN را باز کرد؛ در بتای بسته ادعا می‌کند بیش از ۳۸ میلیون تهدید را در لایه DNS متوقف کرده است.",
-      "category": "product",
+      "id": "ai-20261006-118",
+      "title": "نمایش Minerva در مرکز EOD ناتو",
+      "summary": "Minerva قبل از لانچ رسمی در مرکز تعالی خنثی‌سازی مهمات منفجره ناتو در اسلواکی نمایش داد و با MBZUAI و Waterloo برای کار در انرژی و محیط‌های بدون دید همکاری پژوهشی دارد.",
+      "category": "sideline",
       "published_at": "1405/07/14 17:30",
-      "collected_at": "1405/07/14 23:31",
-      "source": "FinTech Global",
-      "source_url": "https://fintech.global/2026/10/06/doxx-net-raises-38m-as-ai-agents-face-new-network-risks/",
+      "collected_at": "1405/07/15 01:31",
+      "source": "GlobeNewswire",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/06/3375277/0/en/minerva-humanoids-emerges-from-stealth-with-10m-pre-seed-round-led-by-general-catalyst-to-build-humanoid-robots-for-the-world-s-most-dangerous-jobs.html",
       "tags": [
-        "doxx",
-        "networking",
-        "agents",
-        "security"
+        "minerva",
+        "nato",
+        "eod",
+        "energy"
       ]
     },
     {
-      "id": "ai-20261006-108",
-      "title": "متا در ۲۸ روز بیش از ۱۰۵ میلیون برای Claude Code",
-      "summary": "با وجود نصف‌شدن صندلی‌های Claude Code، گزارش‌ها می‌گویند متا در یک بازه ۲۸روزه اخیر بیش از ۱۰۵ میلیون دلار برای همان ابزار خرج کرده؛ همزمان مهندسان را به ابزارهای داخلی می‌کشاند.",
-      "category": "sideline",
-      "published_at": "1405/07/14 20:30",
-      "collected_at": "1405/07/14 23:31",
-      "source": "UseCarly",
-      "source_url": "https://www.usecarly.com/blog/ai-news-2026-10-06/",
+      "id": "ai-20261006-119",
+      "title": "رقابت Cadence ChipStack با GPT-Synopsys",
+      "summary": "در حالی که OpenAI مدل اختصاصی برای ابزارهای Synopsys می‌سازد، Cadence عامل ChipStack را با Gemini و Nemotron به‌سمت خودمختاری Level-5 پیش می‌برد؛ مسیر دوم نرم‌افزار عامل روی مدل‌های عمومی است.",
+      "category": "topic",
+      "published_at": "1405/07/14 15:30",
+      "collected_at": "1405/07/15 01:31",
+      "source": "Tom's Hardware",
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-synopsys-partner-to-build-gpt-synopsys-for-autonomous-chip-design-specialized-ai-model-will-operate-eda-tools-allowing-engineers-to-deliver-more-sophisticated-chips-faster",
       "tags": [
-        "meta",
-        "claude",
-        "spending",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "ai-20261006-109",
-      "title": "حقوق ۱۸ میلیون دلاری Amodei در ۲۰۲۵",
-      "summary": "به نقل از دفترچه IPO، رویترز حقوق ۲۰۲۵ داریو آمودی را حدود ۱۸ میلیون دلار گزارش کرده؛ هم‌زمان Anthropic برای خرید تراشه بدهی عظیمی از مسیر Broadcom ترتیب می‌دهد.",
-      "category": "sideline",
-      "published_at": "1405/07/14 20:30",
-      "collected_at": "1405/07/14 23:31",
-      "source": "UseCarly",
-      "source_url": "https://www.usecarly.com/blog/ai-news-2026-10-06/",
-      "tags": [
-        "anthropic",
-        "amodei",
-        "ipo",
-        "compensation"
-      ]
-    },
-    {
-      "id": "ai-20261006-110",
-      "title": "Astra ۴۸٪ سریع‌تر از Sol در تسک‌های Ironclad",
-      "summary": "در ارزیابی مشترک با Ironclad، زمان متوسط هر تلاش Astra از ۳۷ دقیقه Sol به ۱۹.۲ دقیقه رسید؛ مدل داخلی مرتبط با توسعه Astra حتی به ۶۳.۷٪ امتیاز هم رسیده است.",
-      "category": "research",
-      "published_at": "1405/07/14 13:30",
-      "collected_at": "1405/07/14 23:31",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "tags": [
-        "openai",
-        "astra",
-        "benchmarks",
+        "cadence",
+        "chipstack",
+        "eda",
         "agents"
+      ]
+    },
+    {
+      "id": "ai-20261006-120",
+      "title": "محدودیت بتای Claude در Workspace: بدون فایرفاکس",
+      "summary": "بتای sidebar کلود در Chrome، Edge و Safari کار می‌کند ولی Firefox پشتیبانی نمی‌شود؛ دیکته صوتی نیست و گوگل هر عملیات را بعد از شش دقیقه قطع می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/14 23:34",
+      "collected_at": "1405/07/15 01:31",
+      "source": "Unite.AI",
+      "source_url": "https://www.unite.ai/claude-ai-assistant-arrives-in-google-workspace-as-public-beta/",
+      "tags": [
+        "claude",
+        "google-workspace",
+        "beta",
+        "limits"
       ]
     }
   ]
