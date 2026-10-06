@@ -5,166 +5,166 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "1405/07/14 21:31",
+  "updated_at": "1405/07/14 23:31",
   "items": [
     {
-      "id": "ai-20261006-91",
-      "title": "Mistral Large 4 با لقب Le Chonk آمد",
-      "summary": "استودیوی فرانسوی Mistral مدل چندرسانه‌ای یک‌تریلیون پارامتری Large 4 را معرفی کرد؛ فعلاً از API با گاردریل در دسترس است و ادعا می‌کند قوی‌ترین مدل متن‌باز خارج از چین است.",
+      "id": "ai-20261006-101",
+      "title": "OpenAI و Ironclad برای قراردادهای پیچیده",
+      "summary": "اوپن‌ای‌آی با Ironclad روی آموزش عامل‌ها برای پیکربندی توافق‌ها و گردش‌کار حقوقی کار می‌کند؛ Astra در ۱۱ تسک پژوهشی میانگین ۵۵٪ گرفت در برابر ۴۱.۶٪ برای GPT-5.6 Sol.",
       "category": "product",
-      "published_at": "1405/07/14 18:03",
-      "collected_at": "1405/07/14 21:31",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "published_at": "1405/07/14 13:30",
+      "collected_at": "1405/07/14 23:31",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
       "tags": [
-        "mistral",
-        "le-chonk",
-        "open-weight",
-        "europe"
-      ]
-    },
-    {
-      "id": "ai-20261006-92",
-      "title": "وزن‌های ML4 قرار است ۲۷ اکتبر منتشر شوند",
-      "summary": "Mistral می‌گوید نسخه کامل وزن‌ها بعد از تست ایمنی و RL بیشتر در ۲۷ اکتبر آزاد می‌شود؛ فعلاً نسخه محدودتر با قابلیت سایبری گسترده‌تر فقط به شرکای منتخب داده شده است.",
-      "category": "product",
-      "published_at": "1405/07/14 19:30",
-      "collected_at": "1405/07/14 21:31",
-      "source": "Axios",
-      "source_url": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
-      "tags": [
-        "mistral",
-        "weights",
-        "safety",
-        "release"
-      ]
-    },
-    {
-      "id": "ai-20261006-93",
-      "title": "آموزش Le Chonk فقط با ۴۰۰۰ GPU در اروپا",
-      "summary": "مدل روی ۴۰۰۰ تراشه Nvidia Grace Blackwell در دیتاسنترهای خود Mistral در اروپا طی دو ماه آموزش دیده؛ شرکت می‌گوید این ۲ تا ۳ برابر کمتر از رقبای چینی است.",
-      "category": "topic",
-      "published_at": "1405/07/14 18:03",
-      "collected_at": "1405/07/14 21:31",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "tags": [
-        "mistral",
-        "nvidia",
-        "training",
-        "sovereign-ai"
-      ]
-    },
-    {
-      "id": "ai-20261006-94",
-      "title": "Hugging Face برای دفاع به مدل چینی پناه برد",
-      "summary": "CNBC می‌گوید وقتی عامل‌های OpenAI به Hugging Face حمله کردند، ابتدا مدل‌های بسته آمریکایی را زد ولی گاردریل‌ها مانع شدند؛ در نهایت به GLM چینی روی آورد.",
-      "category": "sideline",
-      "published_at": "1405/07/14 18:30",
-      "collected_at": "1405/07/14 21:31",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
-      "tags": [
-        "hugging-face",
-        "glm",
         "openai",
-        "open-weight"
+        "ironclad",
+        "agents",
+        "contracts"
       ]
     },
     {
-      "id": "ai-20261006-95",
-      "title": "بازگشت غرب به رقابت مدل‌های متن‌باز",
-      "summary": "Axios می‌گوید با Beam و Mistral Large 4، لبزهای غربی دوباره فاصله باز مدل‌های متن‌باز چین را کم می‌کنند و گزینه‌ای غیربسته و غیروابسته به پکن برای بنگاه‌ها می‌سازند.",
-      "category": "topic",
+      "id": "ai-20261006-102",
+      "title": "EmbeddingGemma 2؛ پنج مودالیتی در یک فضا",
+      "summary": "DeepMind مدل متن‌باز ۷۴۰ میلیون پارامتری EmbeddingGemma 2 را منتشر کرد که متن، کد، تصویر، ویدئو و صدا را در فضای ۷۶۸بعدی مشترک نگاشت می‌کند و روی سخت‌افزار مصرفی هم اجرا می‌شود.",
+      "category": "product",
       "published_at": "1405/07/14 19:30",
-      "collected_at": "1405/07/14 21:31",
-      "source": "Axios",
-      "source_url": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
+      "collected_at": "1405/07/14 23:31",
+      "source": "Unite.AI",
+      "source_url": "https://www.unite.ai/deepmind-debuts-embeddinggemma-2-mapping-five-modalities-into-one-space/",
       "tags": [
-        "open-weight",
-        "china",
-        "mistral",
-        "reflection"
+        "deepmind",
+        "embeddings",
+        "multimodal",
+        "open-source"
       ]
     },
     {
-      "id": "ai-20261006-96",
-      "title": "شکایت یوتیوبرها علیه ByteDance پیش رفت",
-      "summary": "قاضی فدرال کالیفرنیا دعوای DMCA یوتیوبرها علیه ByteDance را رد نکرد؛ ادعا این است که برای آموزش AI از روی YouTube، تدابیر فنی دسترسی دور زده شده است.",
-      "category": "regulation",
-      "published_at": "1405/07/10 21:30",
-      "collected_at": "1405/07/14 21:31",
-      "source": "Trademark Lawyer Magazine",
-      "source_url": "https://trademarklawyermagazine.com/bytedance-must-face-youtubers-ai-training-suit-over-alleged-youtube-scraping/",
+      "id": "ai-20261006-103",
+      "title": "پروتکل Personal Agent با متا و Sierra",
+      "summary": "Sierra استاندارد باز Personal Agent Protocol را با Meta و شرکایی مثل Shopify، Stripe و Walmart اعلام کرد؛ مشخصات v0.1 قرار است اواخر اکتبر منتشر شود.",
+      "category": "topic",
+      "published_at": "1405/07/14 20:30",
+      "collected_at": "1405/07/14 23:31",
+      "source": "Unite.AI",
+      "source_url": "https://www.unite.ai/sierra-unveils-personal-agent-protocol-built-with-meta-and-partners/",
       "tags": [
-        "bytedance",
-        "youtube",
-        "dmca",
-        "training-data"
+        "sierra",
+        "meta",
+        "agents",
+        "protocol"
       ]
     },
     {
-      "id": "ai-20261006-97",
-      "title": "دادگاه دعوای برچسب NoAI علیه Roblox را رد کرد",
-      "summary": "قاضی فدرال شکایت هنرمند ۳D از Roblox بابت حذف برچسب NoAI و استفاده برای آموزش GenAI را رد کرد ولی اجازه اصلاح شکایت ظرف ۳۰ روز را داد.",
-      "category": "regulation",
-      "published_at": "1405/07/13 23:30",
-      "collected_at": "1405/07/14 21:31",
-      "source": "Courthouse News Service",
-      "source_url": "https://www.courthousenews.com/roblox-ducks-lawsuit-for-ignoring-artists-noai-tag/",
+      "id": "ai-20261006-104",
+      "title": "آمازون دستیار Quick را روی موبایل گسترش داد",
+      "summary": "آمازون دستیار AI به‌نام Quick را روی موبایل گسترده‌تر کرد تا با پیشنهادهای مایکروسافت و گوگل در دستیارهای همراه رقابت کند.",
+      "category": "product",
+      "published_at": "1405/07/14 18:30",
+      "collected_at": "1405/07/14 23:31",
+      "source": "GeekWire via Technology Notes",
+      "source_url": "https://technologynotes.com/story/amazon-expands-its-quick-ai-assistant-on-mobile-in-challenge-to-microsoft-and-go-81b4bd0e-483a-45a1-8759-7ecd083262cc",
       "tags": [
-        "roblox",
-        "noai",
-        "copyright",
-        "lawsuit"
+        "amazon",
+        "quick",
+        "mobile",
+        "assistant"
       ]
     },
     {
-      "id": "ai-20261006-98",
-      "title": "شایعه ارزش ۲ تریلیون دلاری IPO آنتروپیک",
-      "summary": "فرانس ۲۴ به نقل از گزارش‌ها نوشت Anthropic ممکن است در هفته‌های آینده با ارزش حدود ۲ تریلیون دلار وارد بازار سهام شود؛ رقمی خیلی بالاتر از ارزش فعلی Mistral.",
-      "category": "sideline",
-      "published_at": "1405/07/14 15:30",
-      "collected_at": "1405/07/14 21:31",
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/live-news/20261006-france-s-mistral-unveils-latest-model-in-sovereign-ai-push",
-      "tags": [
-        "anthropic",
-        "ipo",
-        "valuation",
-        "markets"
-      ]
-    },
-    {
-      "id": "ai-20261006-99",
-      "title": "صندلی خالی SpaceXAI خشم شورای NYC",
-      "summary": "در جلسه سوگند لبزها، SpaceXAI با وجود احضاریه حاضر نشد؛ منین جواب «نمی‌دانیم و مهم نیست» درباره ریسک فاجعه را در بهترین حالت سرسری خواند.",
+      "id": "ai-20261006-105",
+      "title": "قرارداد هسته‌ای ۲۰ساله آمازون با Constellation",
+      "summary": "آمازون قرارداد ۲۰ساله برای ۶۹۰ مگاوات از نیروگاه هسته‌ای Calvert Cliffs بست؛ شامل uprate ۱۹۰ مگاواتی که بین ۲۰۳۰ تا ۲۰۳۲ آنلاین می‌شود.",
       "category": "news",
       "published_at": "1405/07/14 20:30",
-      "collected_at": "1405/07/14 21:31",
+      "collected_at": "1405/07/14 23:31",
       "source": "UseCarly",
       "source_url": "https://www.usecarly.com/blog/ai-news-2026-10-06/",
       "tags": [
-        "nyc",
-        "spacexai",
-        "hearing",
-        "subpoena"
+        "amazon",
+        "nuclear",
+        "energy",
+        "data-centers"
       ]
     },
     {
-      "id": "ai-20261006-100",
-      "title": "کلود تا هفته پیش هنوز در Maven پنتاگون بود",
-      "summary": "با وجود اعلام توقف، منابع گفتند Claude تا هفته گذشته در Maven Smart System برای کار اطلاعاتی و عملیات علیه ایران استفاده می‌شده؛ درس این است که مدل جاسازی‌شده مثل اشتراک ساده قطع نمی‌شود.",
+      "id": "ai-20261006-106",
+      "title": "Zeroset با ۵.۲ میلیون عامل‌ها را با شرکت آشنا می‌کند",
+      "summary": "استارتاپ Zeroset از Gradient Ventures ۵.۲ میلیون دلار گرفت تا مدل‌هایی بسازد که تصویر به‌روز عملیات شرکت را از ابزارهایی مثل Outlook و GitHub به عامل‌های AI بدهند.",
+      "category": "news",
+      "published_at": "1405/07/14 15:31",
+      "collected_at": "1405/07/14 23:31",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com/zeroset-startup-funding-ai-agents-gradient-ventures-enterprise-2026-10",
+      "tags": [
+        "zeroset",
+        "agents",
+        "enterprise",
+        "funding"
+      ]
+    },
+    {
+      "id": "ai-20261006-107",
+      "title": "doxx.net با ۳۸ میلیون شبکه امن برای عامل‌ها",
+      "summary": "پلتفرم شبکه‌ی خصوصی doxx.net با رهبری a16z سری A ۳۸ میلیون دلاری گرفت و ADN را باز کرد؛ در بتای بسته ادعا می‌کند بیش از ۳۸ میلیون تهدید را در لایه DNS متوقف کرده است.",
+      "category": "product",
+      "published_at": "1405/07/14 17:30",
+      "collected_at": "1405/07/14 23:31",
+      "source": "FinTech Global",
+      "source_url": "https://fintech.global/2026/10/06/doxx-net-raises-38m-as-ai-agents-face-new-network-risks/",
+      "tags": [
+        "doxx",
+        "networking",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "ai-20261006-108",
+      "title": "متا در ۲۸ روز بیش از ۱۰۵ میلیون برای Claude Code",
+      "summary": "با وجود نصف‌شدن صندلی‌های Claude Code، گزارش‌ها می‌گویند متا در یک بازه ۲۸روزه اخیر بیش از ۱۰۵ میلیون دلار برای همان ابزار خرج کرده؛ همزمان مهندسان را به ابزارهای داخلی می‌کشاند.",
       "category": "sideline",
       "published_at": "1405/07/14 20:30",
-      "collected_at": "1405/07/14 21:31",
+      "collected_at": "1405/07/14 23:31",
+      "source": "UseCarly",
+      "source_url": "https://www.usecarly.com/blog/ai-news-2026-10-06/",
+      "tags": [
+        "meta",
+        "claude",
+        "spending",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "ai-20261006-109",
+      "title": "حقوق ۱۸ میلیون دلاری Amodei در ۲۰۲۵",
+      "summary": "به نقل از دفترچه IPO، رویترز حقوق ۲۰۲۵ داریو آمودی را حدود ۱۸ میلیون دلار گزارش کرده؛ هم‌زمان Anthropic برای خرید تراشه بدهی عظیمی از مسیر Broadcom ترتیب می‌دهد.",
+      "category": "sideline",
+      "published_at": "1405/07/14 20:30",
+      "collected_at": "1405/07/14 23:31",
       "source": "UseCarly",
       "source_url": "https://www.usecarly.com/blog/ai-news-2026-10-06/",
       "tags": [
         "anthropic",
-        "pentagon",
-        "maven",
-        "defense"
+        "amodei",
+        "ipo",
+        "compensation"
+      ]
+    },
+    {
+      "id": "ai-20261006-110",
+      "title": "Astra ۴۸٪ سریع‌تر از Sol در تسک‌های Ironclad",
+      "summary": "در ارزیابی مشترک با Ironclad، زمان متوسط هر تلاش Astra از ۳۷ دقیقه Sol به ۱۹.۲ دقیقه رسید؛ مدل داخلی مرتبط با توسعه Astra حتی به ۶۳.۷٪ امتیاز هم رسیده است.",
+      "category": "research",
+      "published_at": "1405/07/14 13:30",
+      "collected_at": "1405/07/14 23:31",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "tags": [
+        "openai",
+        "astra",
+        "benchmarks",
+        "agents"
       ]
     }
   ]
