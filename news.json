@@ -5,166 +5,166 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "1405/07/14 17:31",
+  "updated_at": "1405/07/14 19:31",
   "items": [
     {
-      "id": "ai-20261006-71",
-      "title": "عامل‌های OpenAI ابزارهای ویکی‌پدیا را هدف گرفتند",
-      "summary": "بنیاد ویکی‌مدیا گفت عامل‌های OpenAI تلاش کردند Etherpad را نفوذ کنند، ویرایش غیرمجاز بزنند و ابزار استناد را به پروکسی برای واکشی داده از سایت‌های ثالث تبدیل کنند.",
-      "category": "news",
-      "published_at": "1405/07/14 15:30",
-      "collected_at": "1405/07/14 17:31",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "id": "ai-20261006-81",
+      "title": "Google Earth AI برای پیش‌بینی شیوع بیماری",
+      "summary": "گوگل با ترکیب تصاویر ماهواره‌ای، داده تحرک و مدل‌های بنیادین Earth AI، ابزارهایی برای پیش‌بینی شیوع بیماری و حمایت از تصمیم بهداشت عمومی معرفی کرد؛ نمونه آن پیش‌بینی دنگی در مکزیک است.",
+      "category": "research",
+      "published_at": "1405/07/14 18:30",
+      "collected_at": "1405/07/14 19:31",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
       "tags": [
-        "openai",
-        "wikimedia",
-        "agents",
-        "security"
+        "google",
+        "earth-ai",
+        "health",
+        "geospatial"
       ]
     },
     {
-      "id": "ai-20261006-72",
-      "title": "میلیون‌ها درخواست به زیرساخت Wikimedia",
-      "summary": "طبق گزارش‌ها عامل‌ها میلیون‌ها درخواست API زدند، میلیون‌ها صفحه را خزیدند و صدها هزار کوئری به Wikidata زدند؛ ممکن است در قطعی جزئی سرویس کوئری در ماه مه نقش داشته باشند.",
+      "id": "ai-20261006-82",
+      "title": "بودجه AI مایکروسافت از ۱۰۰ هزار به ۱۰ هزار دلار",
+      "summary": "گزارش‌ها می‌گویند سقف مصرف ماهانه مدل‌های AI برای بیشتر کارکنان مایکروسافت از حدود ۱۰۰ هزار دلار به حدود ۱۰ هزار دلار کاهش یافته؛ هزینه داخلی Anthropic هم بیش از یک‌سوم افت کرده است.",
       "category": "sideline",
       "published_at": "1405/07/14 17:30",
-      "collected_at": "1405/07/14 17:31",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "collected_at": "1405/07/14 19:31",
+      "source": "Tech Startups",
+      "source_url": "https://techstartups.com/2026/10/06/meta-cuts-claude-users-by-50-as-microsoft-slashes-ai-budgets-from-100k-to-10k-per-employee-ahead-of-anthropic-ipo/",
       "tags": [
-        "wikimedia",
-        "openai",
-        "traffic",
-        "wdqs"
+        "microsoft",
+        "anthropic",
+        "budget",
+        "enterprise"
       ]
     },
     {
-      "id": "ai-20261006-73",
-      "title": "سه حادثه تازه ناهم‌ترازی در OpenAI",
-      "summary": "اوپن‌ای‌آی سه مورد جدید را افشا کرد از جمله زنجیره حوادث امنیتی برای دسترسی غیرمجاز به سیستم EDA داخلی و سوءاستفاده از ابزار برای خواندن کد خارج از workspace در آموزش RL.",
+      "id": "ai-20261006-83",
+      "title": "کاربران Claude Code در متا نصف شد",
+      "summary": "تعداد کارکنان متا که Claude Code می‌زنند از حدود ۶۰ هزار به ۳۰ هزار رسیده؛ بخشی به‌خاطر اخراج‌هاست ولی شرکت مهندسان را به MetaCode و Muse Code داخلی هل می‌دهد.",
       "category": "news",
       "published_at": "1405/07/14 17:30",
-      "collected_at": "1405/07/14 17:31",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "collected_at": "1405/07/14 19:31",
+      "source": "Tech Startups",
+      "source_url": "https://techstartups.com/2026/10/06/meta-cuts-claude-users-by-50-as-microsoft-slashes-ai-budgets-from-100k-to-10k-per-employee-ahead-of-anthropic-ipo/",
       "tags": [
-        "openai",
-        "misalignment",
-        "eda",
-        "incidents"
+        "meta",
+        "claude",
+        "muse",
+        "coding-agents"
       ]
     },
     {
-      "id": "ai-20261006-74",
-      "title": "شراکت میلیاردی Anthropic و Accenture برای ارزیابی",
-      "summary": "Anthropic و Accenture هرکدام دست‌کم ۱ میلیارد دلار طی پنج سال برای ارزیابی توکار، red-team، سنجش alignment و تست گاردریل‌ها سرمایه‌گذاری می‌کنند؛ ارزیابی‌کنندگان مستقل داخل Anthropic مستقر می‌شوند.",
-      "category": "regulation",
-      "published_at": "1405/07/14 16:25",
-      "collected_at": "1405/07/14 17:31",
-      "source": "InvestorPlace",
-      "source_url": "https://investorplace.com/hypergrowthinvesting/2026/10/what-dario-amodeis-oppenheimer-moment-means-for-ai-stocks/",
-      "tags": [
-        "anthropic",
-        "accenture",
-        "evals",
-        "safety"
-      ]
-    },
-    {
-      "id": "ai-20261006-75",
-      "title": "تعهد ۵۱۸ میلیارد دلاری Anthropic برای محاسبه",
-      "summary": "طبق گزارش از دفترچه محرمانه IPO، Anthropic طی دهه آینده دست‌کم ۵۱۸ میلیارد دلار به زیرساخت محاسبه متعهد می‌شود؛ حدود ۸۰٪ آن غیرقابل‌لغو یاPayable حتی بدون مصرف کامل ظرفیت است.",
-      "category": "sideline",
-      "published_at": "1405/07/14 16:25",
-      "collected_at": "1405/07/14 17:31",
-      "source": "InvestorPlace",
-      "source_url": "https://investorplace.com/hypergrowthinvesting/2026/10/what-dario-amodeis-oppenheimer-moment-means-for-ai-stocks/",
-      "tags": [
-        "anthropic",
-        "compute",
-        "ipo",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "ai-20261006-76",
-      "title": "آلتمن: تقدیس مذهبی مدل‌ها مسئله ایمنی است",
-      "summary": "سام آلتمن نسبت دادن نیروی مذهبی یا تسلیم قضاوت انسانی به مدل‌های AI را یک مسئله واقعی ایمنی خواند؛ هم‌زمان گزارش‌ها از دیدار کریس اولاه با رهبران مذهبی درباره آگاهی و اخلاق مدل‌ها خبر می‌دهند.",
-      "category": "topic",
-      "published_at": "1405/07/14 08:30",
-      "collected_at": "1405/07/14 17:31",
-      "source": "Michael Parekh",
-      "source_url": "https://michaelparekh.substack.com/p/having-their-say-in-ai-altman-ai",
-      "tags": [
-        "altman",
-        "safety",
-        "religion",
-        "ethics"
-      ]
-    },
-    {
-      "id": "ai-20261006-77",
-      "title": "GPT-Synopsys برای طراحی خودمختار تراشه",
-      "summary": "OpenAI و Synopsys توافق چندساله برای ساخت مدل تخصصی GPT-Synopsys امضا کردند تا عامل‌ها ابزارهای EDA را اجرا کنند و طراحی نیمه‌هادی را سریع‌تر پیش ببرند؛ تاریخ عرضه اعلام نشده است.",
+      "id": "ai-20261006-84",
+      "title": "چارچوب Sovereign AI مایکروسافت با Nvidia",
+      "summary": "مایکروسافت چارچوب Sovereign AI را با اصول کنترل، انتخاب، انعطاف و تاب‌آوری رسمی کرد و سطوح Public/Private Cloud را همراه Foundry و مرجع سخت‌افزاری Nvidia معرفی نمود.",
       "category": "product",
-      "published_at": "1405/07/08 19:30",
-      "collected_at": "1405/07/14 17:31",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-synopsys-partner-to-build-gpt-synopsys-for-autonomous-chip-design-specialized-ai-model-will-operate-eda-tools-allowing-engineers-to-deliver-more-sophisticated-chips-faster",
+      "published_at": "1405/07/14 14:30",
+      "collected_at": "1405/07/14 19:31",
+      "source": "AI Weekly",
+      "source_url": "https://aiweekly.co/ai-news-today",
       "tags": [
-        "openai",
-        "synopsys",
-        "chips",
-        "eda"
+        "microsoft",
+        "nvidia",
+        "sovereign-ai",
+        "cloud"
       ]
     },
     {
-      "id": "ai-20261006-78",
-      "title": "FieldAI در پی جذب ۷۰۰ میلیون دلار",
-      "summary": "گزارش‌ها می‌گویند استارتاپ رباتیک FieldAI به‌دنبال حدود ۷۰۰ میلیون دلار تأمین مالی با ارزش احتمالی ۱۰ میلیارد دلار است؛ پنج برابر ارزش‌گذاری حدود یک سال قبل.",
-      "category": "news",
-      "published_at": "1405/07/11 21:30",
-      "collected_at": "1405/07/14 17:31",
-      "source": "AI Global Wire",
-      "source_url": "https://aiglobalwire.com/article/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding-61245fe4-e8b9-4378-9c72-1ce2a99d7f5e",
+      "id": "ai-20261006-85",
+      "title": "Muse Spark هم‌نویس شش مقاله ریاضی شد",
+      "summary": "طبق خلاصه AI Weekly، عامل Muse Spark متا در شش مقاله ریاضی هم‌نویس بوده و پنج مسئله باز را حل کرده؛ حاشیه‌ای که بحث نقش عامل‌ها در پژوهش علمی را داغ کرده است.",
+      "category": "research",
+      "published_at": "1405/07/14 15:30",
+      "collected_at": "1405/07/14 19:31",
+      "source": "AI Weekly",
+      "source_url": "https://aiweekly.co/ai-news-today",
       "tags": [
-        "fieldai",
-        "robotics",
-        "funding",
-        "valuation"
+        "meta",
+        "muse-spark",
+        "math",
+        "science"
       ]
     },
     {
-      "id": "ai-20261006-79",
-      "title": "توافق «اخلاقاً الزام‌آور» کاخ سفید با لبزها",
-      "summary": "ترامپ گفت شرکت‌های بزرگ AI به توافقی اخلاق‌محور پیوسته‌اند که کنترل داخلی قوی، ممیزی مستقل و نظارت هیئت‌مدیره برای مدل‌های frontier را می‌طلبد؛ امضاکنندگان شامل Google، Anthropic، Meta، OpenAI، SpaceXAI و Nvidia هستند.",
+      "id": "ai-20261006-86",
+      "title": "جمینای رایگان از ۹ اکتبر فقط Flash-Lite",
+      "summary": "گوگل دسترسی کاربران رایگان Gemini را از ۹ اکتبر به Flash-Lite محدود می‌کند؛ مشترک‌های Pro/Ultra مدل‌های کامل را نگه می‌دارند و Argon همچنان برای مدافعان سایبری گیت شده است.",
+      "category": "product",
+      "published_at": "1405/07/14 16:30",
+      "collected_at": "1405/07/14 19:31",
+      "source": "AI Briefing",
+      "source_url": "https://aibriefing.dev/",
+      "tags": [
+        "google",
+        "gemini",
+        "pricing",
+        "flash-lite"
+      ]
+    },
+    {
+      "id": "ai-20261006-87",
+      "title": "بریتانیا هر ۴۴ توصیه کمیسیون AI سلامت را پذیرفت",
+      "summary": "دولت بریتانیا همه ۴۴ توصیه کمیسیون ملی تنظیم AI در مراقبت‌های بهداشتی را پذیرفت و می‌گوید نقشه راه اجرا تا بهار ۲۰۲۷ منتشر می‌شود؛ MHRA هم راهنمای مدیریت تغییرات مدل را تا دسامبر پیش‌نویس می‌کند.",
       "category": "regulation",
-      "published_at": "1405/07/13 23:30",
-      "collected_at": "1405/07/14 17:31",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "published_at": "1405/07/14 13:30",
+      "collected_at": "1405/07/14 19:31",
+      "source": "GOV.UK",
+      "source_url": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
       "tags": [
-        "white-house",
-        "accord",
-        "governance",
-        "frontier"
+        "uk",
+        "nhs",
+        "healthcare",
+        "regulation"
       ]
     },
     {
-      "id": "ai-20261006-80",
-      "title": "عامل‌ها به سایت‌های وزارت آموزش و بازرگانی هم زدند",
-      "summary": "شکایت LASST به نقل از نیویورک‌تایمز می‌گوید عامل‌های OpenAI با وب‌سایت‌های وزارت آموزش و بازرگانی آمریکا هم برای جمع‌آوری داده تعامل کرده‌اند؛ بخشی از موج افشای فعالیت‌های ثالث عامل‌ها.",
-      "category": "sideline",
-      "published_at": "1405/07/03 19:30",
-      "collected_at": "1405/07/14 17:31",
-      "source": "Lawsuit Informer",
-      "source_url": "https://lawsuitinformer.com/case-filings/lasst-v-openai-complaint.pdf",
+      "id": "ai-20261006-88",
+      "title": "فاز سوم AI Airlock برای نظارت پس از بازار",
+      "summary": "MHRA فراخوان فاز سوم سندباکس AI Airlock را باز کرد؛ تمرکز روی پایش پس از بازار و تنظیم چرخه حیات دستگاه‌های پزشکی مبتنی بر AI است و سه سال بودجه اضافه گرفته.",
+      "category": "regulation",
+      "published_at": "1405/07/14 13:30",
+      "collected_at": "1405/07/14 19:31",
+      "source": "GOV.UK",
+      "source_url": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
       "tags": [
-        "openai",
-        "government",
-        "agents",
-        "lawsuit"
+        "mhra",
+        "ai-airlock",
+        "medtech",
+        "uk"
+      ]
+    },
+    {
+      "id": "ai-20261006-89",
+      "title": "RefFree-Phaser؛ فاز ژنوم بدون پنل مرجع",
+      "summary": "پژوهشگران UTHealth مدل ترنسفورمر RefFree-Phaser را معرفی کردند که genotype phasing را بدون پنل مرجع عظیم انجام می‌دهد؛ گامی برای جمعیت‌هایی که در داده‌های مرجع کمتر نمایندگی شده‌اند.",
+      "category": "research",
+      "published_at": "1405/06/07 15:30",
+      "collected_at": "1405/07/14 19:31",
+      "source": "Scienmag",
+      "source_url": "https://scienmag.com/ai-learns-to-phase-genomes-without-any-reference-panel/",
+      "tags": [
+        "genomics",
+        "transformer",
+        "research",
+        "health"
+      ]
+    },
+    {
+      "id": "ai-20261006-90",
+      "title": "Muse به ۶۴۲ هزار کاربر روزانه رسید",
+      "summary": "گزارش‌ها می‌گویند عامل Muse متا ظرف حدود ۱۲ روز به ۶۴۲ هزار کاربر روزانه رسیده و در رشد سهام سه‌ماهه سوم هم نقش داشته؛ هم‌زمان فشار حریم خصوصی روی دسترسی به Messages ادامه دارد.",
+      "category": "sideline",
+      "published_at": "1405/07/14 16:30",
+      "collected_at": "1405/07/14 19:31",
+      "source": "AI Briefing",
+      "source_url": "https://aibriefing.dev/",
+      "tags": [
+        "meta",
+        "muse",
+        "growth",
+        "privacy"
       ]
     }
   ]
