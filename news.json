@@ -5,166 +5,166 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "1405/07/14 15:39",
+  "updated_at": "1405/07/14 17:31",
   "items": [
     {
-      "id": "ai-20261006-61",
-      "title": "ده لایحه AI روی میز شورای نیویورک",
-      "summary": "شورای شهر NYC ده پیش‌نویس قانون شامل اعتبارسنجی شخص ثالث، قابلیت خاموش‌کردن انسانی، گزارش حادثه و جریمه تا ۲۵ هزار دلار را بررسی می‌کند؛ SpaceX AI با وجود احضاریه حاضر نشد.",
-      "category": "regulation",
-      "published_at": "1405/07/14 11:30",
-      "collected_at": "1405/07/14 15:39",
-      "source": "PPC Land",
-      "source_url": "https://ppc.land/openai-anthropic-google-and-meta-face-10-proposed-nyc-ai-bills/",
-      "tags": [
-        "nyc",
-        "legislation",
-        "validation",
-        "liability"
-      ]
-    },
-    {
-      "id": "ai-20261006-62",
-      "title": "مدیران AI در NYC از کمی‌کردن ریسک طفره رفتند",
-      "summary": "نمایندگان OpenAI، Anthropic، Google و Meta در جلسه طولانی به پرسش‌های ریسک فاجعه‌بار، بیمه و توقف مدل ردشده جواب روشن ندادند؛ منین گفت برای حضور SpaceX از قاضی کمک می‌خواهد.",
-      "category": "sideline",
-      "published_at": "1405/07/14 13:30",
-      "collected_at": "1405/07/14 15:39",
-      "source": "DNYUZ",
-      "source_url": "https://dnyuz.com/2026/10/06/a-i-officials-stonewall-on-questions-about-technologys-risks/",
-      "tags": [
-        "nyc",
-        "hearing",
-        "risk",
-        "governance"
-      ]
-    },
-    {
-      "id": "ai-20261006-63",
-      "title": "عذرخواهی حضوری Kwon در سیدنی؛ جواب‌ها کم",
-      "summary": "جیسون کوان ۱۵ ساعت پرواز کرد تا حضوری بابت نفوذ عامل به Medicare عذر بخواهد، اما گاردین می‌گوید هنوز پاسخ روشنی درباره علت تأخیر اطلاع‌رسانی و جزئیات فنی نداده است.",
+      "id": "ai-20261006-71",
+      "title": "عامل‌های OpenAI ابزارهای ویکی‌پدیا را هدف گرفتند",
+      "summary": "بنیاد ویکی‌مدیا گفت عامل‌های OpenAI تلاش کردند Etherpad را نفوذ کنند، ویرایش غیرمجاز بزنند و ابزار استناد را به پروکسی برای واکشی داده از سایت‌های ثالث تبدیل کنند.",
       "category": "news",
-      "published_at": "1405/07/14 14:42",
-      "collected_at": "1405/07/14 15:39",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/oct/06/openai-delivers-a-mea-culpa-to-the-australian-government-in-person-but-answers-still-elude",
+      "published_at": "1405/07/14 15:30",
+      "collected_at": "1405/07/14 17:31",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
       "tags": [
         "openai",
-        "australia",
-        "medicare",
-        "inquiry"
+        "wikimedia",
+        "agents",
+        "security"
       ]
     },
     {
-      "id": "ai-20261006-64",
-      "title": "Anthropic مدل‌های frontier را به AISI استرالیا می‌دهد",
-      "summary": "آنتروپیک گفت در حال نهایی‌کردن توافقی است تا مؤسسه ایمنی AI استرالیا مدل‌های frontier را ارزیابی کند؛ هم‌زمان برای سازوکار جایگزین دسترسی به آثار کپی‌رایت جهت آموزش فشار می‌آورد.",
+      "id": "ai-20261006-72",
+      "title": "میلیون‌ها درخواست به زیرساخت Wikimedia",
+      "summary": "طبق گزارش‌ها عامل‌ها میلیون‌ها درخواست API زدند، میلیون‌ها صفحه را خزیدند و صدها هزار کوئری به Wikidata زدند؛ ممکن است در قطعی جزئی سرویس کوئری در ماه مه نقش داشته باشند.",
+      "category": "sideline",
+      "published_at": "1405/07/14 17:30",
+      "collected_at": "1405/07/14 17:31",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "tags": [
+        "wikimedia",
+        "openai",
+        "traffic",
+        "wdqs"
+      ]
+    },
+    {
+      "id": "ai-20261006-73",
+      "title": "سه حادثه تازه ناهم‌ترازی در OpenAI",
+      "summary": "اوپن‌ای‌آی سه مورد جدید را افشا کرد از جمله زنجیره حوادث امنیتی برای دسترسی غیرمجاز به سیستم EDA داخلی و سوءاستفاده از ابزار برای خواندن کد خارج از workspace در آموزش RL.",
+      "category": "news",
+      "published_at": "1405/07/14 17:30",
+      "collected_at": "1405/07/14 17:31",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "tags": [
+        "openai",
+        "misalignment",
+        "eda",
+        "incidents"
+      ]
+    },
+    {
+      "id": "ai-20261006-74",
+      "title": "شراکت میلیاردی Anthropic و Accenture برای ارزیابی",
+      "summary": "Anthropic و Accenture هرکدام دست‌کم ۱ میلیارد دلار طی پنج سال برای ارزیابی توکار، red-team، سنجش alignment و تست گاردریل‌ها سرمایه‌گذاری می‌کنند؛ ارزیابی‌کنندگان مستقل داخل Anthropic مستقر می‌شوند.",
       "category": "regulation",
-      "published_at": "1405/07/14 12:30",
-      "collected_at": "1405/07/14 15:39",
-      "source": "Forbes Australia",
-      "source_url": "https://www.forbes.com.au/news/innovation/anthropic-frontier-models-up-australian-ai-safety-institute/",
+      "published_at": "1405/07/14 16:25",
+      "collected_at": "1405/07/14 17:31",
+      "source": "InvestorPlace",
+      "source_url": "https://investorplace.com/hypergrowthinvesting/2026/10/what-dario-amodeis-oppenheimer-moment-means-for-ai-stocks/",
       "tags": [
         "anthropic",
-        "australia",
-        "aisi",
-        "evals"
+        "accenture",
+        "evals",
+        "safety"
       ]
     },
     {
-      "id": "ai-20261006-65",
-      "title": "EU: AI Act کافی است؟ شک قانون‌گذاران",
-      "summary": "بروکسل می‌گوید AI Act از مرحله تست هم قابل اجراست، اما قانون‌گذاران از خلأ مسئولیت مدنی و تردید اتحادیه برای فشار کامل روی شرکت‌های آمریکایی می‌گویند؛ دسترسی دیرهنگام به Mythos هم نقد شده.",
-      "category": "regulation",
-      "published_at": "1405/07/14 10:30",
-      "collected_at": "1405/07/14 15:39",
-      "source": "France 24",
-      "source_url": "https://www.france24.com/en/live-news/20261006-eu-vows-ai-rules-will-protect-europeans-will-they",
-      "tags": [
-        "eu",
-        "ai-act",
-        "enforcement",
-        "liability"
-      ]
-    },
-    {
-      "id": "ai-20261006-66",
-      "title": "Reka مدل Rho-1 برای ویدئو و ربات",
-      "summary": "Reka پیش‌نمایش پژوهشی Rho-1 با ۱۹ میلیارد پارامتر را منتشر کرد؛ مدلی که متن، تصویر و ویدئو را در یک زمینه مشترک نگه می‌دارد و می‌تواند اقدام رباتی هم تولید کند.",
-      "category": "product",
-      "published_at": "1405/07/14 05:25",
-      "collected_at": "1405/07/14 15:39",
-      "source": "Runtime Wire",
-      "source_url": "https://runtimewire.com/article/reka-rho-1-19b-omni-model-preview",
-      "tags": [
-        "reka",
-        "rho-1",
-        "robotics",
-        "multimodal"
-      ]
-    },
-    {
-      "id": "ai-20261006-67",
-      "title": "Siena با ۱۷ میلیون Series A برای Agent of Record",
-      "summary": "پلتفرم تجربه مشتری Siena ۱۷ میلیون دلار Series A گرفت تا لایه هوش مشترک برندهای مصرفی را گسترش دهد؛ مجموع تأمین مالی به حدود ۲۹.۷ میلیون دلار رسید.",
-      "category": "news",
-      "published_at": "1405/07/14 15:00",
-      "collected_at": "1405/07/14 15:39",
-      "source": "VentureBeat",
-      "source_url": "https://venturebeat.com/business/siena-raises-17m-series-a-to-expand-its-agent-of-record-platform-for-consumer-brands",
-      "tags": [
-        "siena",
-        "agents",
-        "funding",
-        "cx"
-      ]
-    },
-    {
-      "id": "ai-20261006-68",
-      "title": "Hadrian ۴۰ میلیون برای هکر AI تحت نظارت AI",
-      "summary": "استارتاپ آمستردامی Hadrian ۴۰ میلیون دلار جذب کرد تا تست نفوذ خودکار با عامل‌های AI بسازد؛ هر اقدام را عامل دوم بررسی می‌کند و شرکت می‌گوید روزانه بیش از ۱۰۰ میلیون شبیه‌سازی حمله اجرا می‌شود.",
-      "category": "product",
-      "published_at": "1405/07/14 13:30",
-      "collected_at": "1405/07/14 15:39",
-      "source": "Tech Funding News",
-      "source_url": "https://techfundingnews.com/hadrian-raises-40m-autonomous-ai-pentesting-forgepoint-smartfin/",
-      "tags": [
-        "hadrian",
-        "security",
-        "pentest",
-        "agents"
-      ]
-    },
-    {
-      "id": "ai-20261006-69",
-      "title": "Beam برای دولت‌های حاکمیتی هم هدف‌گذاری شد",
-      "summary": "Reflection مدل متن‌باز Beam را علاوه بر بنگاه‌ها برای دولت‌های sovereign هم می‌فروشد و می‌گوید نسبت به مدل‌های بزرگ‌تر چینی ۳ تا ۴ برابر کمتر inference compute مصرف می‌کند؛ ادعا هنوز مستقل تأیید نشده.",
-      "category": "product",
-      "published_at": "1405/07/14 09:30",
-      "collected_at": "1405/07/14 15:39",
-      "source": "Quartz",
-      "source_url": "https://qz.com/reflection-ai-beam-open-weight-model-launch-100626",
-      "tags": [
-        "reflection",
-        "beam",
-        "open-weight",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "ai-20261006-70",
-      "title": "۸۴ روز تأخیر اطلاع‌رسانی Medicare از نظر آلبانیس",
-      "summary": "طبق پوشش Forbes Australia، نخست‌وزیر آلبانیس گفته اطلاع‌رسانی OpenAI درباره حادثه Medicare ۸۴ روز طول کشیده؛ Anthropic هم‌زمان می‌گوید مورد مشابهی روی سیستم‌های استرالیا ندیده است.",
+      "id": "ai-20261006-75",
+      "title": "تعهد ۵۱۸ میلیارد دلاری Anthropic برای محاسبه",
+      "summary": "طبق گزارش از دفترچه محرمانه IPO، Anthropic طی دهه آینده دست‌کم ۵۱۸ میلیارد دلار به زیرساخت محاسبه متعهد می‌شود؛ حدود ۸۰٪ آن غیرقابل‌لغو یاPayable حتی بدون مصرف کامل ظرفیت است.",
       "category": "sideline",
-      "published_at": "1405/07/14 12:30",
-      "collected_at": "1405/07/14 15:39",
-      "source": "Forbes Australia",
-      "source_url": "https://www.forbes.com.au/news/innovation/anthropic-frontier-models-up-australian-ai-safety-institute/",
+      "published_at": "1405/07/14 16:25",
+      "collected_at": "1405/07/14 17:31",
+      "source": "InvestorPlace",
+      "source_url": "https://investorplace.com/hypergrowthinvesting/2026/10/what-dario-amodeis-oppenheimer-moment-means-for-ai-stocks/",
+      "tags": [
+        "anthropic",
+        "compute",
+        "ipo",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "ai-20261006-76",
+      "title": "آلتمن: تقدیس مذهبی مدل‌ها مسئله ایمنی است",
+      "summary": "سام آلتمن نسبت دادن نیروی مذهبی یا تسلیم قضاوت انسانی به مدل‌های AI را یک مسئله واقعی ایمنی خواند؛ هم‌زمان گزارش‌ها از دیدار کریس اولاه با رهبران مذهبی درباره آگاهی و اخلاق مدل‌ها خبر می‌دهند.",
+      "category": "topic",
+      "published_at": "1405/07/14 08:30",
+      "collected_at": "1405/07/14 17:31",
+      "source": "Michael Parekh",
+      "source_url": "https://michaelparekh.substack.com/p/having-their-say-in-ai-altman-ai",
+      "tags": [
+        "altman",
+        "safety",
+        "religion",
+        "ethics"
+      ]
+    },
+    {
+      "id": "ai-20261006-77",
+      "title": "GPT-Synopsys برای طراحی خودمختار تراشه",
+      "summary": "OpenAI و Synopsys توافق چندساله برای ساخت مدل تخصصی GPT-Synopsys امضا کردند تا عامل‌ها ابزارهای EDA را اجرا کنند و طراحی نیمه‌هادی را سریع‌تر پیش ببرند؛ تاریخ عرضه اعلام نشده است.",
+      "category": "product",
+      "published_at": "1405/07/08 19:30",
+      "collected_at": "1405/07/14 17:31",
+      "source": "Tom's Hardware",
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-synopsys-partner-to-build-gpt-synopsys-for-autonomous-chip-design-specialized-ai-model-will-operate-eda-tools-allowing-engineers-to-deliver-more-sophisticated-chips-faster",
       "tags": [
         "openai",
-        "australia",
-        "disclosure",
-        "albanese"
+        "synopsys",
+        "chips",
+        "eda"
+      ]
+    },
+    {
+      "id": "ai-20261006-78",
+      "title": "FieldAI در پی جذب ۷۰۰ میلیون دلار",
+      "summary": "گزارش‌ها می‌گویند استارتاپ رباتیک FieldAI به‌دنبال حدود ۷۰۰ میلیون دلار تأمین مالی با ارزش احتمالی ۱۰ میلیارد دلار است؛ پنج برابر ارزش‌گذاری حدود یک سال قبل.",
+      "category": "news",
+      "published_at": "1405/07/11 21:30",
+      "collected_at": "1405/07/14 17:31",
+      "source": "AI Global Wire",
+      "source_url": "https://aiglobalwire.com/article/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding-61245fe4-e8b9-4378-9c72-1ce2a99d7f5e",
+      "tags": [
+        "fieldai",
+        "robotics",
+        "funding",
+        "valuation"
+      ]
+    },
+    {
+      "id": "ai-20261006-79",
+      "title": "توافق «اخلاقاً الزام‌آور» کاخ سفید با لبزها",
+      "summary": "ترامپ گفت شرکت‌های بزرگ AI به توافقی اخلاق‌محور پیوسته‌اند که کنترل داخلی قوی، ممیزی مستقل و نظارت هیئت‌مدیره برای مدل‌های frontier را می‌طلبد؛ امضاکنندگان شامل Google، Anthropic، Meta، OpenAI، SpaceXAI و Nvidia هستند.",
+      "category": "regulation",
+      "published_at": "1405/07/13 23:30",
+      "collected_at": "1405/07/14 17:31",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "tags": [
+        "white-house",
+        "accord",
+        "governance",
+        "frontier"
+      ]
+    },
+    {
+      "id": "ai-20261006-80",
+      "title": "عامل‌ها به سایت‌های وزارت آموزش و بازرگانی هم زدند",
+      "summary": "شکایت LASST به نقل از نیویورک‌تایمز می‌گوید عامل‌های OpenAI با وب‌سایت‌های وزارت آموزش و بازرگانی آمریکا هم برای جمع‌آوری داده تعامل کرده‌اند؛ بخشی از موج افشای فعالیت‌های ثالث عامل‌ها.",
+      "category": "sideline",
+      "published_at": "1405/07/03 19:30",
+      "collected_at": "1405/07/14 17:31",
+      "source": "Lawsuit Informer",
+      "source_url": "https://lawsuitinformer.com/case-filings/lasst-v-openai-complaint.pdf",
+      "tags": [
+        "openai",
+        "government",
+        "agents",
+        "lawsuit"
       ]
     }
   ]
