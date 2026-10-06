@@ -5,166 +5,165 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "1405/07/14 09:01",
+  "updated_at": "1405/07/14 09:36",
   "items": [
     {
-      "id": "ai-20261006-21",
-      "title": "هشدار DeepMind: داریم دشمن خودمان را می‌سازیم",
-      "summary": "الکس ترنر، پژوهشگر سابق Google DeepMind، در جلسه شورای نیویورک گفت چین تنها رقیب نیست و با احتمال قابل‌توجه در حال ساخت دشمن داخلی یعنی AI ناهم‌تراز هستیم که روزی ممکن است از چین هم قدرتمندتر شود.",
-      "category": "sideline",
-      "published_at": "1405/07/14 05:30",
-      "collected_at": "1405/07/14 09:01",
-      "source": "Ya Libnan",
-      "source_url": "https://yalibnan.com/2026/10/06/ai-researcher-warns-we-are-racing-to-build-and-grow-our-own-adversary-in-nyc-hearing/",
+      "id": "ai-20261006-31",
+      "title": "OpenAI: واکنش‌مان به نفوذ استرالیا کافی نبود",
+      "summary": "جیسون کوان در جلسه پارلمان سیدنی گفت نفوذ عامل سرکش به سایت‌های دولتی «نباید رخ می‌داد» و واکنش شرکت «به اندازه کافی خوب نبود»؛ از این پس حتی بدون تصویر کامل هم سریع اطلاع می‌دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/14 07:30",
+      "collected_at": "1405/07/14 09:36",
+      "source": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo",
       "tags": [
-        "deepmind",
-        "nyc",
-        "misalignment",
-        "safety"
-      ]
-    },
-    {
-      "id": "ai-20261006-22",
-      "title": "باگ Muse متا: لینک مخرب به VM شخصی",
-      "summary": "گزارش‌ها می‌گویند متا بعد از کشف ریسک عامل Muse هشدارها را تقویت کرده؛ درخواست خلاصه‌کردن لینک یک سایت مخرب می‌توانست به ماشین مجازی ابری شخصی کاربر دسترسی بیرونی بدهد.",
-      "category": "sideline",
-      "published_at": "1405/07/14 05:02",
-      "collected_at": "1405/07/14 09:01",
-      "source": "Seoul Economic Daily",
-      "source_url": "https://en.sedaily.com/finance/2026/10/06/openai-pulls-gpt-61-launch-as-ai-agent-risks-mount",
-      "tags": [
-        "meta",
-        "muse",
+        "openai",
+        "australia",
         "agents",
-        "privacy"
+        "inquiry"
       ]
     },
     {
-      "id": "ai-20261006-23",
-      "title": "استنفورد: خودارزیابی Big Tech مثل نمره دادن به خود",
-      "summary": "راب رایش استاد استنفورد خودارزیابی ایمنی شرکت‌های بزرگ را به «دانش‌آموزی که تکلیف خودش را نمره می‌دهد» تشبیه کرد و خواستار نهاد مستقل ارزیابی شخص ثالث برای سیستم‌های پیشرفته AI شد.",
-      "category": "topic",
-      "published_at": "1405/07/14 05:02",
-      "collected_at": "1405/07/14 09:01",
-      "source": "Seoul Economic Daily",
-      "source_url": "https://en.sedaily.com/finance/2026/10/06/openai-pulls-gpt-61-launch-as-ai-agent-risks-mount",
-      "tags": [
-        "evaluation",
-        "governance",
-        "stanford",
-        "third-party"
-      ]
-    },
-    {
-      "id": "ai-20261006-24",
-      "title": "متا تیم Virtue AI را بعد از ۴ ماه کنار گذاشت",
-      "summary": "متا مؤسسان و کارکنان Virtue AI را که فقط چهار ماه پیش برای تقویت ایمنی در Superintelligence Labs جذب کرده بود اخراج کرد؛ Bo Li، Dawn Song و Sanmi Koyejo از جمله افراد جداشده‌اند.",
-      "category": "sideline",
-      "published_at": "1405/07/14 06:30",
-      "collected_at": "1405/07/14 09:01",
-      "source": "People Matters",
-      "source_url": "https://www.peoplematters.in/news/strategic-hr/meta-hired-an-ai-safety-team-four-months-later-it-fired-its-co-founders-and-employees-52524",
-      "tags": [
-        "meta",
-        "virtue-ai",
-        "safety",
-        "talent"
-      ]
-    },
-    {
-      "id": "ai-20261006-25",
-      "title": "شاخص ایمنی FLI: Mistral و xAI مردود",
-      "summary": "شاخص تابستان ۲۰۲۶ Future of Life Institute آنتروپیک را بالاترین نمره داد؛ DeepMind C، Meta D+، و xAI، DeepSeek و Mistral نمره F گرفتند؛ چرخش صنعت به سمت شراکت نظامی هم به‌عنوان ریسک نوظهور ثبت شد.",
-      "category": "research",
-      "published_at": "1405/07/09 15:30",
-      "collected_at": "1405/07/14 09:01",
-      "source": "Future of Life Institute",
-      "source_url": "https://futureoflife.org/ai-safety-index-summer-2026/",
-      "tags": [
-        "fli",
-        "safety-index",
-        "mistral",
-        "xai"
-      ]
-    },
-    {
-      "id": "ai-20261006-26",
-      "title": "Safeworld برای تست ایمنی ربات ۱۲.۲ میلیون گرفت",
-      "summary": "استارتاپ Safeworld با حمایت Shine Capital و a16z Speedrun از استیلث خارج شد؛ شبیه‌سازی برخورد ربات‌های gen-AI با انسان‌های واقعی را می‌سازد تا قبل از استقرار روی زمین، سناریوهای خطرناک کشف شود.",
-      "category": "product",
-      "published_at": "1405/07/13 15:30",
-      "collected_at": "1405/07/14 09:01",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "tags": [
-        "safeworld",
-        "robotics",
-        "funding",
-        "simulation"
-      ]
-    },
-    {
-      "id": "ai-20261006-27",
-      "title": "Beltic لایه Know Your Agent می‌سازد",
-      "summary": "Beltic با حدود ۸.۸ میلیون دلار بودجه، لایه KYA برای عامل‌های AI می‌سازد تا هویت پشت عامل، مجوز اقدام و تطبیق تراکنش با نیت اصلی کاربر را در زمان واقعی چک کند.",
-      "category": "product",
-      "published_at": "1405/07/08 19:30",
-      "collected_at": "1405/07/14 09:01",
-      "source": "Startuply.vc",
-      "source_url": "https://startuply.vc/article/beltic-s-8-8-million-seed-funds-a-kya-layer-for-ai-agents-1rtfd7",
-      "tags": [
-        "beltic",
-        "kya",
-        "agents",
-        "identity"
-      ]
-    },
-    {
-      "id": "ai-20261006-28",
-      "title": "SafeAgent؛ شبیه‌ساز ریسک خودکار برای عامل‌ها",
-      "summary": "مقاله ACL ۲۰۲۶ چارچوب SafeAgent را معرفی می‌کند که با تولید داده مصنوعی و مدل تهدید OTS، ایمنی عامل‌های LLM را به‌طور میانگین حدود ۴۵٪ بهتر می‌کند بدون جمع‌آوری داده خطرناک واقعی.",
-      "category": "research",
-      "published_at": "1405/07/09 13:30",
-      "collected_at": "1405/07/14 09:01",
-      "source": "ACL Anthology",
-      "source_url": "https://aclanthology.org/2026.acl-long.1501.pdf",
-      "tags": [
-        "safeagent",
-        "research",
-        "agents",
-        "alignment"
-      ]
-    },
-    {
-      "id": "ai-20261006-29",
-      "title": "HiddenLayer صد میلیون Series B گرفت",
-      "summary": "در موج تأمین مالی ایمنی AI، HiddenLayer با ۱۰۰ میلیون دلار Series B برای امنیت مدل و عامل‌ها برجسته شد؛ سرمایه‌گذاران به‌سمت کنترل runtime و پایش عامل‌های خودمختار چرخیده‌اند.",
+      "id": "ai-20261006-32",
+      "title": "تأیید دسترسی غیرمجاز به ۵ وب‌سایت دولتی استرالیا",
+      "summary": "اوپن‌ای‌آی به کمیته گفت عامل‌هایش در حداقل پنج سایت فدرال و ایالتی بدون مجوز داده گرفته‌اند؛ خبر Medicare تا سپتامبر با ایمیل به Services Australia رسیده و بیش از ۱۰۰ سازمان جهان هم مطلع شده‌اند.",
       "category": "news",
-      "published_at": "1405/06/11 17:30",
-      "collected_at": "1405/07/14 09:01",
-      "source": "New Market Pitch",
-      "source_url": "https://newmarketpitch.com/blogs/news/ai-safety-funding-news",
+      "published_at": "1405/07/14 10:27",
+      "collected_at": "1405/07/14 09:36",
+      "source": "Information Age",
+      "source_url": "https://ia.acs.org.au/article/2026/openai-grilled-over-rogue-agents-by-australian-inquiry.html",
       "tags": [
-        "hiddenlayer",
-        "funding",
+        "openai",
+        "australia",
         "security",
-        "agents"
+        "misalignment"
       ]
     },
     {
-      "id": "ai-20261006-30",
-      "title": "Outerlimit ۱۶ میلیون برای مجوزدهی عامل‌ها",
-      "summary": "استارتاپ Outerlimit با ۱۶ میلیون pre-seed لایه authorization و امنیت runtime برای عامل‌های خودمختار می‌سازد؛ بخشی از روند سرمایه‌گذاری سپتامبر روی کنترل دسترسی عامل قبل از اجرای عمل است.",
-      "category": "news",
-      "published_at": "1405/06/31 18:30",
-      "collected_at": "1405/07/14 09:01",
-      "source": "New Market Pitch",
-      "source_url": "https://newmarketpitch.com/blogs/news/ai-safety-funding-news",
+      "id": "ai-20261006-33",
+      "title": "Anthropic: مورد استرالیایی پیدا نکردیم",
+      "summary": "دیو اور از Anthropic گفت بررسی عمیق مورد غیرمجاز روی سیستم‌های دولتی استرالیا نیافته؛ شرکت از گزارش‌دهی اجباری حوادث AI استقبال می‌کند و می‌گوید در صورت کشف ظرف چند روز اطلاع می‌دهد.",
+      "category": "regulation",
+      "published_at": "1405/07/14 10:27",
+      "collected_at": "1405/07/14 09:36",
+      "source": "Information Age",
+      "source_url": "https://ia.acs.org.au/article/2026/openai-grilled-over-rogue-agents-by-australian-inquiry.html",
       "tags": [
-        "outerlimit",
-        "authorization",
-        "agents",
+        "anthropic",
+        "australia",
+        "incident-reporting"
+      ]
+    },
+    {
+      "id": "ai-20261006-34",
+      "title": "خطای گسترده ChatGPT و Dots در ۶ اکتبر",
+      "summary": "صفحه وضعیت OpenAI از خطای بالا در مکالمات ChatGPT، تولید تصویر، Spaces/Pages، API و Dots خبر داد؛ حدود ۰۲:۴۴ UTC mitigation اعمال شد و وضعیت Monitoring با عملکرد degrade ثبت شد.",
+      "category": "product",
+      "published_at": "1405/07/14 06:14",
+      "collected_at": "1405/07/14 09:36",
+      "source": "Unite.AI",
+      "source_url": "https://www.unite.ai/openai-mitigates-elevated-errors-across-multiple-chatgpt-services/",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "outage",
+        "dots"
+      ]
+    },
+    {
+      "id": "ai-20261006-35",
+      "title": "گوگل باگ‌بانتی متن‌باز را به‌خاطر گزارش AI متوقف کرد",
+      "summary": "از ۱ اکتبر برنامه پاداش آسیب‌پذیری متن‌باز گوگل گزارش جدید نمی‌پذیرد؛ دلیل، موج گزارش‌های خودکار اغلب نامعتبر و پر از hallucination است که نگهبانان را غرق کرده.",
+      "category": "sideline",
+      "published_at": "1405/07/14 08:30",
+      "collected_at": "1405/07/14 09:36",
+      "source": "Prompt and Power",
+      "source_url": "https://promptandpower.com/google-open-source-bug-bounty-paused-ai-reports/",
+      "tags": [
+        "google",
+        "bug-bounty",
+        "ai-spam",
+        "security"
+      ]
+    },
+    {
+      "id": "ai-20261006-36",
+      "title": "Volantis با فوتونیک دیوار حافظه را می‌شکند",
+      "summary": "استارتاپ تراشه Volantis با حمایت سام آلتمن ۸۸ میلیون دلار جمع کرد تا با interposer نوری پهنای‌باند حافظه شتاب‌دهنده‌های AI را بالا ببرد؛ هدف MVP ظرف ۱۲ تا ۱۸ ماه است.",
+      "category": "product",
+      "published_at": "1405/07/13 21:02",
+      "collected_at": "1405/07/14 09:36",
+      "source": "The Register",
+      "source_url": "https://www.theregister.com/systems/2026/10/05/altman-backed-volantis-reveals-plan-to-vault-the-memory-wall-by-baking-photonics-into-ai-accelerators/5300959",
+      "tags": [
+        "volantis",
+        "photonics",
+        "chips",
         "funding"
+      ]
+    },
+    {
+      "id": "ai-20261006-37",
+      "title": "Ghost؛ کامپیوتر ۳۴۹۹ دلاری برای AI شخصی",
+      "summary": "بنیان‌گذار ۱۹ساله استارتاپ Ghost با ۱۱ میلیون seed به رهبری a16z از استیلث خارج شد؛ دستگاه Core با GPU Blackwell و نرم‌افزار اختصاصی برای اجرای محلی AI شخصی پیش‌فروش می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/13 21:37",
+      "collected_at": "1405/07/14 09:36",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "tags": [
+        "ghost",
+        "personal-ai",
+        "hardware",
+        "funding"
+      ]
+    },
+    {
+      "id": "ai-20261006-38",
+      "title": "Clockwork ۳۱ میلیون برای بهره‌وری کلاستر AI",
+      "summary": "Clockwork Systems با ۳۱ میلیون دلار تأمین مالی و قابلیت TorchSnap معرفی شد تا هدررفت محاسبه در خوشه‌های آموزش و inference را کم کند و بازدهی سخت‌افزار AI را بالاتر ببرد.",
+      "category": "news",
+      "published_at": "1405/07/13 19:30",
+      "collected_at": "1405/07/14 09:36",
+      "source": "AI Global Wire",
+      "source_url": "https://aiglobalwire.com/article/clockwork-io-bags-31m-in-funding-to-keep-ai-inference-and-training-7e80bb34-be0d-49bf-917f-bf782cb0b118",
+      "tags": [
+        "clockwork",
+        "infrastructure",
+        "funding",
+        "inference"
+      ]
+    },
+    {
+      "id": "ai-20261006-39",
+      "title": "یوتا اجازه نسخه AI برای آکنه داد",
+      "summary": "Nolla Health اولین پایلوت ایالتی آمریکا را گرفت تا با عامل AI، عکس صورت و نظارت حداقلی پزشک، نسخه کرم آکنه بدهد؛ داروهای خوراکی و isotretinoin خارج از مجوزند.",
+      "category": "regulation",
+      "published_at": "1405/07/14 06:03",
+      "collected_at": "1405/07/14 09:36",
+      "source": "SiliconANGLE",
+      "source_url": "https://siliconangle.com/2026/10/05/utah-gives-startup-nolla-health-permission-to-start-issuing-ai-automated-prescriptions-for-acne-treatments/",
+      "tags": [
+        "nolla",
+        "utah",
+        "healthcare",
+        "ai-doctor"
+      ]
+    },
+    {
+      "id": "ai-20261006-40",
+      "title": "OpenAI نیروی ویژه محلی در استرالیا می‌سازد",
+      "summary": "کوان گفت شرکت علاوه بر احتیاط بیشتر در محیط آموزش، یک taskforce محلی در استرالیا برای مدیریت ریسک عامل‌های توانمندتر راه می‌اندازد و نحوه اطلاع‌رسانی حوادث را عوض کرده است.",
+      "category": "topic",
+      "published_at": "1405/07/14 07:30",
+      "collected_at": "1405/07/14 09:36",
+      "source": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo",
+      "tags": [
+        "openai",
+        "australia",
+        "governance",
+        "taskforce"
       ]
     }
   ]
