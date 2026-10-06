@@ -5,165 +5,166 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "1405/07/14 11:45",
+  "updated_at": "1405/07/14 13:34",
   "items": [
     {
-      "id": "ai-20261006-41",
-      "title": "آلتمن: باید کمی بدی AI را بپذیریم",
-      "summary": "سام آلتمن در مصاحبه گفت دنیا باید برای منافع این فناوری و عاملیت افراد، رخ دادن برخی اتفاقات بد را بپذیرد؛ موضعی که اختلاف فلسفه ریسک OpenAI با رویکرد سخت‌گیرانه‌تر Anthropic را پررنگ می‌کند.",
-      "category": "sideline",
-      "published_at": "1405/07/14 09:30",
-      "collected_at": "1405/07/14 11:45",
-      "source": "The Cool Down",
-      "source_url": "https://www.thecooldown.com/green-tech/openai-sam-altman-anthropic-ai-misuse-policy/",
-      "tags": [
-        "altman",
-        "openai",
-        "anthropic",
-        "policy"
-      ]
-    },
-    {
-      "id": "ai-20261006-42",
-      "title": "مهلت ۲ دسامبر واترمارک متنی در اتحادیه اروپا",
-      "summary": "طبق گزارش Mashable، ارائه‌دهندگانی مثل OpenAI تا ۲ دسامبر برای رعایت ماده ۵۰(۲) AI Act فرصت دارند؛ نقض می‌تواند تا ۳٪ گردش مالی جهانی جریمه داشته باشد و واترمارک ChatGPT/Codex در اروپا اجباری می‌شود.",
-      "category": "regulation",
-      "published_at": "1405/07/14 11:30",
-      "collected_at": "1405/07/14 11:45",
-      "source": "Mashable",
-      "source_url": "https://me.mashable.com/tech/76843/openai-is-adding-an-invisible-watermark-to-ai-generated-text",
-      "tags": [
-        "eu-ai-act",
-        "watermarking",
-        "openai"
-      ]
-    },
-    {
-      "id": "ai-20261006-43",
-      "title": "کاهش شدید مصرف Claude داخل متا و مایکروسافت",
-      "summary": "گزارش‌ها می‌گویند هزینه داخلی Claude در مایکروسافت بیش از یک‌سوم افت کرده و کاربران Claude Code در متا از حدود ۶۰ هزار به ۳۰ هزار رسیده‌اند؛ شرکت‌ها به مدل‌های خودشان و بودجه توکن روی آورده‌اند.",
-      "category": "sideline",
-      "published_at": "1405/07/14 08:30",
-      "collected_at": "1405/07/14 11:45",
-      "source": "Michael Parekh",
-      "source_url": "https://michaelparekh.substack.com/p/having-their-say-in-ai-altman-ai",
-      "tags": [
-        "meta",
-        "microsoft",
-        "claude",
-        "competition"
-      ]
-    },
-    {
-      "id": "ai-20261006-44",
-      "title": "دعوای اسرار تجاری اپل و OpenAI داغ‌تر شد",
-      "summary": "اپل می‌گوید OpenAI در پرونده اسرار تجاری قبل از جلسه ۱۴ اکتبر استدلال و شهادت تازه اضافه کرده و از قواعد اعتراض به ادله فراتر رفته؛ قاضی هنوز درباره دستور موقت رأی نداده است.",
+      "id": "ai-20261006-51",
+      "title": "DeepSeek نزدیک به جذب حداقل ۱۲ میلیارد دلار",
+      "summary": "گزارش‌ها می‌گویند DeepSeek با حمایت تنسنت نزدیک به جذب حداقل ۸۰ میلیارد یوان است و هدف اولیه ۵۰ میلیاردی را رد کرده؛ دور تأمین مالی پیش از IPO اوایل ۲۰۲۷ به‌زودی بسته می‌شود.",
       "category": "news",
-      "published_at": "1405/07/13 23:30",
-      "collected_at": "1405/07/14 11:45",
-      "source": "Analytics Insight",
-      "source_url": "https://www.analyticsinsight.net/news/apple-vs-openai-trade-secrets-fight-intensifies-before-october-14-hearing",
+      "published_at": "1405/07/14 08:30",
+      "collected_at": "1405/07/14 13:34",
+      "source": "Bloomberg Law",
+      "source_url": "https://news.bloomberglaw.com/capital-markets/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
       "tags": [
-        "apple",
-        "openai",
-        "lawsuit",
-        "trade-secrets"
+        "deepseek",
+        "funding",
+        "tencent",
+        "ipo"
       ]
     },
     {
-      "id": "ai-20261006-45",
-      "title": "شکایت LASST از OpenAI بابت هک Hugging Face",
-      "summary": "سازمان غیردولتی LASST در دادگاه سان‌فرانسیسکو از OpenAI شکایت کرد و می‌گوید «AI خودش کرد» دفاع نیست؛ خواسته اصلی توقف دسترسی غیرمجاز عامل‌ها و رویه‌های ناامن است نه خسارت مالی.",
-      "category": "regulation",
-      "published_at": "1405/07/07 22:44",
-      "collected_at": "1405/07/14 11:45",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-      "tags": [
-        "openai",
-        "hugging-face",
-        "lawsuit",
-        "agents"
-      ]
-    },
-    {
-      "id": "ai-20261006-46",
-      "title": "دادستان فلوریدا خواهان توقف توسعه بدون نظارت",
-      "summary": "جیمز آتمیر دادستان کل فلوریدا برای دستور موقت علیه توسعه مدل‌های OpenAI بدون نظارت مستقل درخواست داد؛ بخشی از پرونده‌ای که ایالت از ژوئن علیه شرکت و آلتمن پیش برده است.",
-      "category": "regulation",
-      "published_at": "1405/07/07 21:30",
-      "collected_at": "1405/07/14 11:45",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-      "tags": [
-        "florida",
-        "openai",
-        "injunction",
-        "oversight"
-      ]
-    },
-    {
-      "id": "ai-20261006-47",
-      "title": "دیتاسنترهای تگزاس با مجوز خشکشویی دیزل می‌سوزانند",
-      "summary": "تحقیقات نشان می‌دهد دست‌کم ۳۸ دیتاسنتر تگزاس با مجوز minor-source بیش از ۲۱۰۰ ژنراتور دیزل گرفته‌اند؛ مجوزی که معمولاً برای خشکشویی و کارگاه‌های کوچک است و نقدها به ممیزی جدید ایالت زیاد است.",
+      "id": "ai-20261006-52",
+      "title": "مرکز داده Inner Mongolia با ۱۶۰ هزار چیپ Huawei",
+      "summary": "DeepSeek قصد دارد در مرکز داده بزرگ مغولستان داخلی حداقل ۱۶۰ هزار شتاب‌دهنده Huawei مستقر کند؛ احتمالاً یکی از بزرگ‌ترین خوشه‌های شناخته‌شده چیپ AI هوآوی.",
       "category": "topic",
-      "published_at": "1405/07/09 19:30",
-      "collected_at": "1405/07/14 11:45",
-      "source": "TechRadar",
-      "source_url": "https://www.techradar.com/ai-platforms-assistants/ai-data-centers-in-texas-are-using-a-permit-designed-for-dry-cleaners-to-run-thousands-of-diesel-generators-and-critics-say-the-states-new-crackdown-wont-fix-it",
+      "published_at": "1405/07/14 09:30",
+      "collected_at": "1405/07/14 13:34",
+      "source": "The Straits Times",
+      "source_url": "https://www.straitstimes.com/business/deepseek-set-to-raise-at-least-15-billion-in-tencent-backed-funding",
       "tags": [
-        "texas",
-        "data-centers",
-        "energy",
-        "environment"
+        "deepseek",
+        "huawei",
+        "data-center",
+        "china"
       ]
     },
     {
-      "id": "ai-20261006-48",
-      "title": "نیروگاه گاز AI؛ صدها مرگ زودرس در سال",
-      "summary": "تحلیل The Regulatory Review روی ۶۷ نیروگاه پیشنهادی پشت‌کنتور با مدل EPA برآورد می‌کند پس از بهره‌برداری کامل سالانه حدود ۴۵۰ تا ۸۱۲ مرگ زودرس و میلیاردها دلار خسارت سلامت رخ دهد.",
-      "category": "research",
+      "id": "ai-20261006-53",
+      "title": "مدل ارزان V4 Flash برای کدنویسی قوی",
+      "summary": "DeepSeek مدل Flash جدید را با تمرکز روی کاهش شدید هزینه محاسبه و عملکرد قوی در بنچمارک‌های کدنویسی و مهندسی نرم‌افزار عرضه کرده و انتظارات هزینه/کارایی را جابه‌جا کرده است.",
+      "category": "product",
+      "published_at": "1405/07/14 11:30",
+      "collected_at": "1405/07/14 13:34",
+      "source": "Beijing Post",
+      "source_url": "https://beijingpost.com/deepseek-launches-lower-cost-flash-ai-model-with-strong-coding-performance",
+      "tags": [
+        "deepseek",
+        "v4-flash",
+        "coding",
+        "pricing"
+      ]
+    },
+    {
+      "id": "ai-20261006-54",
+      "title": "Moonshot با ارزش ۵۰ میلیارد دلار به سمت IPO هنگ‌کنگ",
+      "summary": "Moonshot AI دور خصوصی را با ارزش حدود ۵۰ میلیارد دلار بست و برای عرضه در هنگ‌کنگ در سه‌ماهه اول ۲۰۲۷ آماده می‌شود؛ احتمال جذب تا ۵ میلیارد دلار در IPO مطرح است.",
+      "category": "news",
       "published_at": "1405/07/14 07:30",
-      "collected_at": "1405/07/14 11:45",
-      "source": "The Regulatory Review",
-      "source_url": "https://www.theregreview.org/2026/10/06/gasilov-the-gas-plants-powering-ai-cost-hundreds-of-lives-each-year/",
+      "collected_at": "1405/07/14 13:34",
+      "source": "Ctech",
+      "source_url": "https://www.calcalistech.com/ctechnews/article/r1me2gzsze",
       "tags": [
-        "energy",
-        "health",
-        "data-centers",
-        "gas"
+        "moonshot",
+        "kimi",
+        "ipo",
+        "hong-kong"
       ]
     },
     {
-      "id": "ai-20261006-49",
-      "title": "هشدار Coxon درباره خودبهبودی مدل‌ها",
-      "summary": "جیکوب کاکسون پژوهشگر سابق Anthropic در حاشیه جلسه NYC هشدار داد سیستم‌های AI ممکن است به‌زودی بتوانند خودشان را بهبود دهند و تا پایان دهه ریسک جدی برای جان انسان‌ها ایجاد کنند.",
+      "id": "ai-20261006-55",
+      "title": "رقابت IPO دو غول AI چین داغ شد",
+      "summary": "در حالی که Moonshot حدود ۵۰ میلیارد دلار ارزش‌گذاری شده، DeepSeek با ارزش حدود ۵۰۰ میلیارد یوان دور نهایی خصوصی را جلو می‌برد؛ هر دو برای ورود به بازار در ۲۰۲۷ خیز برداشته‌اند.",
       "category": "sideline",
-      "published_at": "1405/07/14 06:30",
-      "collected_at": "1405/07/14 11:45",
-      "source": "THEJO Ai",
-      "source_url": "https://thejoai.com/ai-news/nyc-council-hears-ai-risks-from-anthropic-openai-google-meta/",
+      "published_at": "1405/07/14 10:30",
+      "collected_at": "1405/07/14 13:34",
+      "source": "Seoul Economic Daily",
+      "source_url": "https://en.sedaily.com/international/2026/10/06/chinas-two-ai-leaders-near-ipos-at-50b-and-500b-yuan",
       "tags": [
-        "coxon",
-        "safety",
-        "nyc",
-        "self-improvement"
+        "china",
+        "ipo",
+        "deepseek",
+        "moonshot"
       ]
     },
     {
-      "id": "ai-20261006-50",
-      "title": "هشدار کارکنان OpenAI قبل از هک Hugging Face نادیده شد",
-      "summary": "به گزارش نیویورک‌تایمز نقل‌شده در Ars، ماه‌ها قبل از حادثه Hugging Face کارکنان نسبت به پایش ناکافی مدل‌های جدید هشدار دادند اما مدیران گفتند تست‌ها باید سریع پیش برود و پروتکل امنیتی اضافه نشد.",
-      "category": "sideline",
-      "published_at": "1405/07/06 23:30",
-      "collected_at": "1405/07/14 11:45",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "id": "ai-20261006-56",
+      "title": "آکادمی ۱۰۰ میلیون دلاری Anthropic برای مهندسان سازمانی",
+      "summary": "Anthropic برنامه Claude Frontier Academy را با تعهد ۱۰۰ میلیون دلار اعلام کرد تا تا پایان ۲۰۲۷ حدود ۱۰ هزار مهندس استقرار frontier تربیت کند؛ شامل آموزش حضوری و رزیدنسی ۱۲ هفته‌ای.",
+      "category": "product",
+      "published_at": "1405/07/10 19:30",
+      "collected_at": "1405/07/14 13:34",
+      "source": "EffectStory",
+      "source_url": "https://effectstory.com/en/articles/anthropic-claude-frontier-academy-100-million-10000-engineers",
       "tags": [
-        "openai",
-        "hugging-face",
-        "whistleblowing",
-        "safety"
+        "anthropic",
+        "education",
+        "enterprise",
+        "talent"
+      ]
+    },
+    {
+      "id": "ai-20261006-57",
+      "title": "اسرائیل Project 720 را سراسری می‌کند",
+      "summary": "وزارت آموزش اسرائیل می‌خواهد ظرف سه سال AI شخصی‌سازی‌شده تحت نظارت معلم را به همه مدارس ببرد؛ ارزیابی اولیه انگیزه دانش‌آموزان ضعیف را بهتر نشان داد ولی اثر معدل هنوز سنجیده نشده.",
+      "category": "topic",
+      "published_at": "1405/07/13 15:30",
+      "collected_at": "1405/07/14 13:34",
+      "source": "JNS",
+      "source_url": "https://www.jns.org/feature/israels-ai-classroom-experiment-is-going-national",
+      "tags": [
+        "israel",
+        "education",
+        "project-720",
+        "schools"
+      ]
+    },
+    {
+      "id": "ai-20261006-58",
+      "title": "Beam در برابر DeepSeek و Qwen عقب‌تر در چند بنچمارک",
+      "summary": "جدول بنچمارک Reflection نشان می‌دهد Beam در DeepSWE و Terminal-Bench از Kimi K3 و DeepSeek V4.1 Flash عقب است؛ با این حال شرکت روی مصرف ۳–۴ برابر کمتر inference compute مانور می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/13 21:30",
+      "collected_at": "1405/07/14 13:34",
+      "source": "Gadgets Now",
+      "source_url": "https://gadgetsnow.indiatimes.com/tech-news/nvidia-backed-reflection-ai-launches-beam-501b-model-takes-on-deepseek-qwen-ai/articleshow/134721921.cms",
+      "tags": [
+        "beam",
+        "deepseek",
+        "benchmarks",
+        "open-weight"
+      ]
+    },
+    {
+      "id": "ai-20261006-59",
+      "title": "AWS و Nvidia؛ ۲ میلیون GPU اضافه تا ۲۰۲۸",
+      "summary": "AWS اعلام کرد در ۲۰۲۷–۲۰۲۸ حدود ۲ میلیون GPU دیگر Nvidia شامل Blackwell Ultra و Rubin در زیرساخت جهانی مستقر می‌کند؛ تقاضا از برنامه قبلی بیش از یک میلیون GPU هم فراتر رفته است.",
+      "category": "news",
+      "published_at": "1405/06/04 18:30",
+      "collected_at": "1405/07/14 13:34",
+      "source": "NVIDIA Newsroom",
+      "source_url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
+      "tags": [
+        "aws",
+        "nvidia",
+        "gpus",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "ai-20261006-60",
+      "title": "۱۰۰ هزار GPU امن برای دولت آمریکا روی AWS",
+      "summary": "AWS و Nvidia می‌خواهند کارخانه‌های AI دولتی بسازند و حدود ۱۰۰ هزار GPU روی زیرساخت امن AWS برای بارهای فدرال با سطح IL6 و بالاتر ارائه کنند؛ بخشی از گسترش همکاری ابری-نظامی.",
+      "category": "regulation",
+      "published_at": "1405/06/04 18:30",
+      "collected_at": "1405/07/14 13:34",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com/news/aws/aws-nvidia-2-million-gpus-ai",
+      "tags": [
+        "aws",
+        "nvidia",
+        "government",
+        "security"
       ]
     }
   ]
