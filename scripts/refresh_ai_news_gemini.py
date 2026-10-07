@@ -28,8 +28,8 @@ from zoneinfo import ZoneInfo
 
 import jdatetime
 
-DEFAULT_MODEL = "gemini-3.8-flash"
-FALLBACK_MODELS = ("gemini-3.5-flash-lite",)
+DEFAULT_MODEL = "gemini-3.5-flash-lite"
+FALLBACK_MODELS = ("gemini-3.8-flash",)
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", DEFAULT_MODEL).strip() or DEFAULT_MODEL
 REPO_ROOT = Path(__file__).resolve().parents[1]
 TEHRAN = ZoneInfo("Asia/Tehran")
@@ -269,8 +269,8 @@ def call_gemini_with_fallback(prompt: str, system: str) -> tuple[str, str]:
                 last_error = exc
                 msg = str(exc)
                 print(msg, file=sys.stderr)
-                # 404 on model: skip to next model immediately
-                if "HTTP 404" in msg:
+                # 404 / daily quota: skip to next model immediately
+                if "HTTP 404" in msg or "HTTP 429" in msg:
                     break
                 time.sleep(min(8 * attempt, 24))
     raise SystemExit(str(last_error) if last_error else "Gemini call failed")
