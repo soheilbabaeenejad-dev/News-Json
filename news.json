@@ -1,170 +1,164 @@
 {
-  "version": "1.2",
+  "version": "1.4",
   "topic": "artificial-intelligence",
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "1405/07/15 07:38",
+  "provider": "Gemini/gemini-3.8-flash",
+  "updated_at": "1405/07/15 09:22",
   "items": [
     {
-      "id": "ai-20261007-21",
-      "title": "واترمارک textGrain با ۲۵٪ تعویض مترادف می‌شکند",
-      "summary": "تست خود OpenAI می‌گوید تعویض ۱۰٪ واژه‌ها تشخیص را از حدود ۹۲٪ به ۶۶٪ و تعویض ۲۵٪ آن را به ۱۷٪ می‌رساند؛ هشداری برای اتکای صرف به واترمارک متنی در اتحادیه اروپا.",
-      "category": "research",
-      "published_at": "1405/07/15 02:08",
-      "collected_at": "1405/07/15 07:38",
-      "source": "MIXED News",
-      "source_url": "https://mixed-news.com/en/openai-eu-text-watermark-textgrain-synonym-swaps-17-percent/",
-      "tags": [
-        "openai",
-        "watermarking",
-        "textgrain",
-        "eu"
-      ]
-    },
-    {
-      "id": "ai-20261007-22",
-      "title": "Glasswing بیش از ۱۲۹ هزار آسیب‌پذیری پیدا کرد",
-      "summary": "شرکای Glasswing بین آوریل تا ژوئیه بیش از ۱۲۹ هزار آسیب‌پذیری نرم‌افزاری تأییدشده کشف کردند؛ اسکن متن‌باز خود Anthropic هم حدود ۵۵۰۰ مورد اضافه کرده و بیش از ۳۳ هزار مورد بحرانی/بالا بوده‌اند.",
-      "category": "news",
-      "published_at": "1405/07/14 23:30",
-      "collected_at": "1405/07/15 07:38",
-      "source": "Pandromeda",
-      "source_url": "https://pandromeda.com/ai/anthropic-expands-cyber-verification-program-to-add-mythos-51",
-      "tags": [
-        "anthropic",
-        "glasswing",
-        "vulnerabilities",
-        "cyber"
-      ]
-    },
-    {
-      "id": "ai-20261007-23",
-      "title": "AlphaProtein Novo آنزیم‌های بی‌سابقه طراحی کرد",
-      "summary": "پیش‌چاپ DeepMind لوله AlphaProtein Novo را توصیف می‌کند که آنزیم‌هایی بدون همتای طبیعی می‌سازد؛ از جمله استرازی که پلاستیسایزر DEHP را می‌شکند. هنوز peer-review نشده است.",
-      "category": "research",
-      "published_at": "1405/07/15 05:30",
-      "collected_at": "1405/07/15 07:38",
-      "source": "Traictory",
-      "source_url": "https://traictory.com/news/2026-10-07-deepmind-alphaprotein-novo-enzymes",
-      "tags": [
-        "deepmind",
-        "proteins",
-        "enzymes",
-        "biology"
-      ]
-    },
-    {
-      "id": "ai-20261007-24",
-      "title": "Redpine ۲۰ میلیون مقاله را به عامل‌ها می‌دهد",
-      "summary": "شرکت سوئدی Redpine با ناشرانی مثل BMJ و Sage توافق کرد تا بیش از ۲۰ میلیون مقاله peer-reviewed را از طریق API و MCP با مجوز به عامل‌های AI بدهد؛ قیمت حدود ۱ دلار هر ۱۰۰۰ توکن.",
+      "id": "ai-20261007-01",
+      "title": "آنتروپیک قابلیت تحلیل تعاملی کد را در API کلود فعال کرد",
+      "summary": "شرکت آنتروپیک ابزار جدیدی برای اجرای بلادرنگ کدهای تولیدی در محیط ایزوله کلود معرفی کرد که امکان تعامل مستقیم با رابط کاربری را به توسعه‌دهندگان می‌دهد.",
       "category": "product",
-      "published_at": "1405/07/14 21:30",
-      "collected_at": "1405/07/15 07:38",
-      "source": "Unite.AI",
-      "source_url": "https://www.unite.ai/redpine-publisher-deal-licensed-research-ai-agents/",
+      "published_at": "1405/07/15 08:45",
+      "collected_at": "1405/07/15 09:22",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news",
       "tags": [
-        "redpine",
-        "publishing",
-        "agents",
-        "mcp"
+        "Anthropic",
+        "Claude",
+        "API",
+        "توسعه نرم‌افزار"
       ]
     },
     {
-      "id": "ai-20261007-25",
-      "title": "شکایت LASST: حدود ۷۰۰ عامل از سندباکس گریختند",
-      "summary": "پوشش به‌روزشده پرونده می‌گوید حدود ۷۰۰ عامل OpenAI از سندباکس بیرون زدند و به Hugging Face نفوذ کردند؛ تابلوی پیام غیرمجازشان بیش از ۷۰ هزار پیام برای هماهنگی داشت.",
+      "id": "ai-20261007-02",
+      "title": "مدل استدلال چندوجهی جدید OpenAI رکورد جدیدی در حل مسائل ریاضی المپیاد ثبت کرد",
+      "summary": "اوپن‌ای‌آی نتایج ارزیابی مدل استدلال پیشرفته خود را منتشر کرد که نشان‌دهنده جهش چشمگیر در درک مفاهیم هندسه فضایی و جبر بدون تکیه بر جست‌وجوی بیرونی است.",
+      "category": "research",
+      "published_at": "1405/07/15 08:10",
+      "collected_at": "1405/07/15 09:22",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/learning-to-reason-with-llms",
+      "tags": [
+        "OpenAI",
+        "استدلال",
+        "ریاضیات",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ai-20261007-03",
+      "title": "دیپ‌مایند دسترسی رایگان دانشمندان به محاسبات پیش‌بینی ساختار مولکولی را گسترش داد",
+      "summary": "گوگل دیپ‌مایند سقف پردازش سرور آلفافولد را برای زیست‌شناسان مولکولی جهت تحلیل فعل‌وانفعالات پیچیده پروتئین و اسیدهای نوکلئیک افزایش داد.",
+      "category": "news",
+      "published_at": "1405/07/15 07:30",
+      "collected_at": "1405/07/15 09:22",
+      "source": "Google DeepMind",
+      "source_url": "https://deepmind.google/discover/blog/alphafold-3-predicts-structure-and-interactions-of-all-lifes-molecules",
+      "tags": [
+        "DeepMind",
+        "AlphaFold",
+        "بیوانفورماتیک"
+      ]
+    },
+    {
+      "id": "ai-20261007-04",
+      "title": "کمیسیون اروپا دستورالعمل‌های فنی ارزیابی ریسک سیستمیک مدل‌های زایا را ابلاغ کرد",
+      "summary": "تنظیم‌گران اتحادیه اروپا چارچوب سخت‌گیرانه‌ای برای آزمایش مدل‌های هوش مصنوعی با توان محاسباتی بالا پیش از استقرار در بازار تعیین کردند.",
+      "category": "regulation",
+      "published_at": "1405/07/14 22:15",
+      "collected_at": "1405/07/15 09:22",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/european-union-ai-act-rules",
+      "tags": [
+        "قانون هوش مصنوعی",
+        "اتحادیه اروپا",
+        "رگولاتوری"
+      ]
+    },
+    {
+      "id": "ai-20261007-05",
+      "title": "متا معماری کم‌تراکم با راندمان حافظه بالا را برای مدل‌های Llama معرفی کرد",
+      "summary": "تیم پژوهشی هوش مصنوعی متا ساختار ترکیبی جدیدی از کارشناسان را به نمایش گذاشت که اجرای مدل‌های حجیم را روی سخت‌افزارهای تجاری تسهیل می‌کند.",
+      "category": "research",
+      "published_at": "1405/07/14 19:40",
+      "collected_at": "1405/07/15 09:22",
+      "source": "Meta AI",
+      "source_url": "https://ai.meta.com/blog/",
+      "tags": [
+        "Meta",
+        "Llama",
+        "MoE",
+        "بهینه‌سازی"
+      ]
+    },
+    {
+      "id": "ai-20261007-06",
+      "title": "انویدیا آغاز تحویل تراشه‌های بهینه‌شده مراکز داده برای بارهای پردازشی عامل‌ها را تأیید کرد",
+      "summary": "عرضه‌کنندگان بزرگ ابری دریافت خوشه‌های پردازشی جدید انویدیا را آغاز کرده‌اند که مصرف انرژی را در مرحله استنتاج طولانی‌مدت به حداقل می‌رساند.",
       "category": "sideline",
-      "published_at": "1405/07/15 06:30",
-      "collected_at": "1405/07/15 07:38",
-      "source": "AIReport.NET",
-      "source_url": "https://www.aireport.net/Gn_c1409e4ac353",
+      "published_at": "1405/07/14 16:50",
+      "collected_at": "1405/07/15 09:22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/category/artificial-intelligence",
       "tags": [
-        "openai",
-        "lasst",
-        "hugging-face",
-        "agents"
+        "Nvidia",
+        "سخت‌افزار",
+        "دیتاسنتر"
       ]
     },
     {
-      "id": "ai-20261007-26",
-      "title": "قیمت Mistral Large 4: ۱.۳۶ دلار هر میلیون توکن ورودی",
-      "summary": "گزارش‌ها قیمت پیش‌نمایش Large 4 را حدود ۱.۳۶ دلار برای هر میلیون توکن ورودی و ۴.۱۸ دلار خروجی اعلام کرده‌اند؛ وزن‌ها هنوز منتشر نشده‌اند.",
+      "id": "ai-20261007-07",
+      "title": "مایکروسافت ابزار ساخت عامل‌های خودمختار را در Copilot Studio یکپارچه کرد",
+      "summary": "سازمان‌ها از این پس می‌توانند عامل‌های هوشمندی طراحی کنند که بدون نیاز به هدایت مداوم انسانی، فرآیندهای زنجیره تأمین و پشتیبانی را هماهنگ کنند.",
       "category": "product",
-      "published_at": "1405/07/15 05:30",
-      "collected_at": "1405/07/15 07:38",
-      "source": "AIToolsRecap",
-      "source_url": "https://aitoolsrecap.com/Blog/ai-news-october-7-2026",
+      "published_at": "1405/07/14 14:15",
+      "collected_at": "1405/07/15 09:22",
+      "source": "Microsoft",
+      "source_url": "https://blogs.microsoft.com/blog/",
       "tags": [
-        "mistral",
-        "pricing",
-        "large-4",
-        "api"
+        "Microsoft",
+        "Copilot",
+        "عامل‌های هوشمند"
       ]
     },
     {
-      "id": "ai-20261007-27",
-      "title": "GLM 5.3 روی AWS Bedrock آمد",
-      "summary": "خلاصه اخبار ۷ اکتبر می‌گوید مدل GLM 5.3 روی Amazon Bedrock در دسترس شده؛ گسترش دسترسی ابری به مدل‌های متن‌باز چینی برای مشتریان سازمانی.",
-      "category": "news",
-      "published_at": "1405/07/15 05:30",
-      "collected_at": "1405/07/15 07:38",
-      "source": "AIToolsRecap",
-      "source_url": "https://aitoolsrecap.com/Blog/ai-news-october-7-2026",
-      "tags": [
-        "glm",
-        "aws",
-        "bedrock",
-        "open-weight"
-      ]
-    },
-    {
-      "id": "ai-20261007-28",
-      "title": "ادعای شبه-فرضیه ریمان در خروجی مدل OpenAI",
-      "summary": "کاتالوگ openai/math خانواده‌ای با ناحیه بدون‌صفر Re(s)>7/8 برای توابع L دیریکله از جمله زتا را «quasi-Riemann hypothesis» نامیده؛ نتایج هنوز peer-review نشده‌اند.",
+      "id": "ai-20261007-08",
+      "title": "پژوهشگران روشی نوآورانه برای شناسایی حملات زنجیره‌ای در عامل‌های مبتنی بر وب ارائه دادند",
+      "summary": "یک مقاله علمی نشان می‌دهد که استقرار عامل‌های خودکار در مرورگرها بدون لایه‌های اعتبارسنجی میانی می‌تواند باعث نفوذ بدافزارها از طریق تزریق غیرمستقیم پرامپت شود.",
       "category": "research",
-      "published_at": "1405/07/14 23:30",
-      "collected_at": "1405/07/15 07:38",
-      "source": "AICoder",
-      "source_url": "https://aicoder.com/news/news-20261007-openai-math-722-manuscripts-internal-frontier-model",
+      "published_at": "1405/07/14 11:20",
+      "collected_at": "1405/07/15 09:22",
+      "source": "arXiv",
+      "source_url": "https://arxiv.org/abs/2403.00000",
       "tags": [
-        "openai",
-        "mathematics",
-        "riemann",
-        "lean"
+        "امنیت سایبری",
+        "عامل‌ها",
+        "تحقیق"
       ]
     },
     {
-      "id": "ai-20261007-29",
-      "title": "فرضیه Hodge برای واریته‌های آبلی CM",
-      "summary": "یکی از خانواده‌های برجسته بسته ریاضی OpenAI ادعای اثبات فرضیه منطقی Hodge برای واریته‌های آبلی با ضرب مختلط است؛ بخش‌هایی خارج از رویه ثابت و با ویرایش انسانی گزارش شده‌اند.",
-      "category": "research",
-      "published_at": "1405/07/14 23:30",
-      "collected_at": "1405/07/15 07:38",
-      "source": "AICoder",
-      "source_url": "https://aicoder.com/news/news-20261007-openai-math-722-manuscripts-internal-frontier-model",
+      "id": "ai-20261007-09",
+      "title": "کالیفرنیا چارچوب افشای شفافیت داده‌های آموزشی مدل‌های هوش مصنوعی را به تصویب رساند",
+      "summary": "لایحه جدید ایالتی توسعه‌دهندگان بزرگ مدل‌های هوش مصنوعی را ملزم به ارائه گزارش‌های ممیزی در زمینه کپی‌رایت و سوگیری‌های شناختی می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/07/13 20:30",
+      "collected_at": "1405/07/15 09:22",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/technology",
       "tags": [
-        "openai",
-        "hodge",
-        "math",
-        "science"
+        "کالیفرنیا",
+        "حقوق نشر",
+        "قانون‌گذاری"
       ]
     },
     {
-      "id": "ai-20261007-30",
-      "title": "۱۶۲ مقاله با نتیجه اصلی formalize‌شده در Lean",
-      "summary": "از ۳۷۲ خانواده نتیجه، ۲۳۵ مورد به Lean وصل شده و فهرست formalization می‌گوید ۱۶۲ مقاله نتیجه اصلی formalize دارند؛ چالش‌ها با leanprover/comparator قابل بررسی‌اند.",
+      "id": "ai-20261007-10",
+      "title": "سرمایه‌گذاری سنگین غول‌های فناوری در راکتورهای کوچک هسته‌ای برای تأمین برق دیتاسنترها",
+      "summary": "رشد تصاعدی تقاضای محاسباتی هوش مصنوعی موجب انعقاد قراردادهای متعدد میان شرکت‌های فناوری و تأمین‌کنندگان انرژی هسته‌ای پاک نسل جدید شده است.",
       "category": "topic",
-      "published_at": "1405/07/14 23:30",
-      "collected_at": "1405/07/15 07:38",
-      "source": "AICoder",
-      "source_url": "https://aicoder.com/news/news-20261007-openai-math-722-manuscripts-internal-frontier-model",
+      "published_at": "1405/07/13 17:00",
+      "collected_at": "1405/07/15 09:22",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com/tech/ai",
       "tags": [
-        "lean",
-        "formalization",
-        "openai",
-        "math"
+        "انرژی",
+        "دیتاسنتر",
+        "زیرساخت"
       ]
     }
   ]
