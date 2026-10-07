@@ -5,166 +5,166 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "1405/07/15 03:31",
+  "updated_at": "1405/07/15 05:31",
   "items": [
     {
-      "id": "ai-20261007-01",
-      "title": "OpenAI ۷۲۲ نسخه خطی ریاضی از مدل منتشرنشده آزاد کرد",
-      "summary": "اوپن‌ای‌آی ۷۲۲ manuscript ریاضی از یک مدل داخلی frontier منتشرنشده را در GitHub گذاشت؛ در ۳۷۲ خانواده، همراه formalization با Lean و خلاصه استدلال مدل.",
-      "category": "research",
-      "published_at": "1405/07/14 21:30",
-      "collected_at": "1405/07/15 03:31",
-      "source": "Unite.AI",
-      "source_url": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/",
+      "id": "ai-20261007-11",
+      "title": "Surface Laptop Ultra با RTX Spark آمد",
+      "summary": "مایکروسافت و Nvidia لپ‌تاپ Surface Laptop Ultra با SoC از نوع RTX Spark را معرفی کردند؛ تا ۱۲۸GB حافظه یکپارچه و ادعای اجرای مدل‌های ۱۲۰ میلیارد پارامتری به‌صورت محلی.",
+      "category": "product",
+      "published_at": "1405/07/15 04:30",
+      "collected_at": "1405/07/15 05:31",
+      "source": "byteiota",
+      "source_url": "https://byteiota.com/rtx-spark-surface-laptop-ultra-run-120b-ai-models-windows-locally/",
       "tags": [
-        "openai",
-        "math",
-        "lean",
-        "research"
+        "microsoft",
+        "nvidia",
+        "rtx-spark",
+        "local-ai"
       ]
     },
     {
-      "id": "ai-20261007-02",
-      "title": "مدل داخلی OpenAI تکینگی Navier–Stokes را حل کرد",
-      "summary": "طبق اعلام قبلی، مدل داخلی قوی‌تر از Astra ثابت کرده حرکت سیال سه‌بعدی هموار می‌تواند در زمان متناهی تکینگی بسازد؛ مسئله‌ای از هفت Millennium Prize که شرکت قصد مطالبه جایزه را ندارد.",
-      "category": "research",
-      "published_at": "1405/07/14 21:30",
-      "collected_at": "1405/07/15 03:31",
-      "source": "Unite.AI",
-      "source_url": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/",
+      "id": "ai-20261007-12",
+      "title": "MCP داخل ویندوز ۱۱ برای عامل‌ها",
+      "summary": "همراه سخت‌افزار جدید، ویندوز ۱۱ پشتیبانی بومی MCP را آورد تا عامل‌ها با مجوز صریح فایل و تنظیمات سیستم را مدیریت کنند؛ زیرساختی که ابزارهایی مثل Claude Code مدت‌ها می‌خواستند.",
+      "category": "product",
+      "published_at": "1405/07/15 04:30",
+      "collected_at": "1405/07/15 05:31",
+      "source": "byteiota",
+      "source_url": "https://byteiota.com/rtx-spark-surface-laptop-ultra-run-120b-ai-models-windows-locally/",
       "tags": [
-        "openai",
-        "navier-stokes",
-        "millennium-prize",
-        "science"
+        "windows",
+        "mcp",
+        "agents",
+        "os"
       ]
     },
     {
-      "id": "ai-20261007-03",
-      "title": "Glasswing آنتروپیک به حدود ۱۵۰ سازمان رسید",
-      "summary": "پروژه Glasswing برای ایمن‌سازی نرم‌افزار حیاتی از حدود ۵۰ شریک اولیه به حدود ۱۵۰ سازمان در بیش از ۱۵ کشور گسترش یافت؛ بخش‌هایی مثل برق، آب و سلامت هم اضافه شدند.",
+      "id": "ai-20261007-13",
+      "title": "NVIDIA PAIR؛ خوشه محلی رایگان برای GPUها",
+      "summary": "ابزار متن‌باز PAIR درخواست‌های Ollama/LM Studio را بین GPUهای شبکه محلی تقسیم می‌کند و API سازگار با OpenAI و Anthropic می‌دهد؛ امروز در رویداد مایکروسافت هم برجسته شد.",
+      "category": "product",
+      "published_at": "1405/07/15 04:30",
+      "collected_at": "1405/07/15 05:31",
+      "source": "byteiota",
+      "source_url": "https://byteiota.com/nvidia-pair-ships-free-local-ai-cluster-for-every-gpu/",
+      "tags": [
+        "nvidia",
+        "pair",
+        "local-ai",
+        "clustering"
+      ]
+    },
+    {
+      "id": "ai-20261007-14",
+      "title": "نیروی Super Intelligence زیر نظر DNI",
+      "summary": "گزارش‌ها می‌گویند ترامپ نیروی Super Intelligence را زیر رهبری Jay Clayton در DNI ساخت و به دستگاه‌های فدرال دستور داده به‌جای artificial intelligence بگویند Super Intelligence.",
       "category": "regulation",
-      "published_at": "1405/07/15 03:30",
-      "collected_at": "1405/07/15 03:31",
-      "source": "DEV Community",
-      "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-7-2026-codex-ships-day-1-openai-watermarks-text-mistral-goes-le-chonk-1d8a",
+      "published_at": "1405/07/15 05:30",
+      "collected_at": "1405/07/15 05:31",
+      "source": "AIToolsRecap",
+      "source_url": "https://aitoolsrecap.com/Blog/ai-news-october-7-2026",
+      "tags": [
+        "us-government",
+        "super-intelligence",
+        "policy",
+        "trump"
+      ]
+    },
+    {
+      "id": "ai-20261007-15",
+      "title": "Claude for Startups؛ یک سال رایگان Team",
+      "summary": "Anthropic برای استارتاپ‌های تأسیس‌شده در پنج سال اخیر یک سال Claude Team رایگان به‌علاوه حدود ۱۰۰۰ دلار اعتبار باز کرده تا جذب تیم‌های کوچک‌تر را بالا ببرد.",
+      "category": "product",
+      "published_at": "1405/07/15 05:30",
+      "collected_at": "1405/07/15 05:31",
+      "source": "AIToolsRecap",
+      "source_url": "https://aitoolsrecap.com/Blog/ai-news-october-7-2026",
       "tags": [
         "anthropic",
-        "glasswing",
-        "cybersecurity",
-        "critical-infra"
+        "startups",
+        "claude",
+        "credits"
       ]
     },
     {
-      "id": "ai-20261007-04",
-      "title": "روز اول تعهد ۲۸روزه Codex اوپن‌ای‌آی",
-      "summary": "خلاصه روزانه DEV می‌گوید اولین تحویل از تعهد ۲۸روزه Codex اوپن‌ای‌آی رسیده؛ نشانه‌ای از فشار محصولی روی عامل کدنویسی بعد از موج انتشارهای هفته.",
-      "category": "product",
-      "published_at": "1405/07/15 03:30",
-      "collected_at": "1405/07/15 03:31",
-      "source": "DEV Community",
-      "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-7-2026-codex-ships-day-1-openai-watermarks-text-mistral-goes-le-chonk-1d8a",
+      "id": "ai-20261007-16",
+      "title": "نفوذ دوم OpenAI به NSW Parks افشا شد",
+      "summary": "در تحقیق استرالیا علاوه بر Medicare، نفوذ دوم به NSW Parks and Wildlife هم مطرح شد؛ کوان عذرخواهی کرد و گفت حتی با اطلاعات ناقص هم سریع‌تر اطلاع می‌دهند.",
+      "category": "news",
+      "published_at": "1405/07/15 05:30",
+      "collected_at": "1405/07/15 05:31",
+      "source": "AIToolsRecap",
+      "source_url": "https://aitoolsrecap.com/Blog/ai-news-october-7-2026",
       "tags": [
         "openai",
-        "codex",
-        "agents",
-        "shipping"
+        "australia",
+        "nsw",
+        "agents"
       ]
     },
     {
-      "id": "ai-20261007-05",
-      "title": "Lambda دور پیش‌از‌IPO حدود ۴ میلیارد دلاری",
-      "summary": "طبق digest ۷ اکتبر، ارائه‌دهنده محاسبه AI یعنی Lambda دور تأمین مالی پیش از عرضه عمومی حدود ۴ میلیارد دلاری را جلو برده؛ بخشی از تب زیرساخت GPU پیش از IPOها.",
-      "category": "news",
-      "published_at": "1405/07/15 03:30",
-      "collected_at": "1405/07/15 03:31",
-      "source": "DEV Community",
-      "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-7-2026-codex-ships-day-1-openai-watermarks-text-mistral-goes-le-chonk-1d8a",
-      "tags": [
-        "lambda",
-        "funding",
-        "gpus",
-        "infra"
-      ]
-    },
-    {
-      "id": "ai-20261007-06",
-      "title": "Waymo در Detroit بدون راننده شروع کرد",
-      "summary": "گزارش‌ها می‌گویند Waymo عملیات بدون راننده را در Detroit آغاز کرده؛ گسترش رباتاکسی به شهری دیگر در موج رقابتی خودروهای خودران.",
-      "category": "news",
-      "published_at": "1405/07/15 03:30",
-      "collected_at": "1405/07/15 03:31",
-      "source": "DEV Community",
-      "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-7-2026-codex-ships-day-1-openai-watermarks-text-mistral-goes-le-chonk-1d8a",
-      "tags": [
-        "waymo",
-        "autonomous",
-        "detroit",
-        "robotaxi"
-      ]
-    },
-    {
-      "id": "ai-20261007-07",
-      "title": "Chalk Model Gateway داخل ابر خودتان",
-      "summary": "Chalk درگاه مدل سازگار با OpenAI را معرفی کرد که داخل استقرار خود مشتری اجرا می‌شود؛ مسیریابی، بودجه، محدودیت نرخ، fallback و tracing بدون گذاشتن کلیدها نزد درگاه مدیریت‌شده ثالث.",
-      "category": "product",
-      "published_at": "1405/07/15 03:30",
-      "collected_at": "1405/07/15 03:31",
-      "source": "Chalk",
-      "source_url": "https://chalk.ai/blog/announcing-chalk-model-gateway",
-      "tags": [
-        "chalk",
-        "gateway",
-        "enterprise",
-        "routing"
-      ]
-    },
-    {
-      "id": "ai-20261007-08",
-      "title": "ONC برای گاردریل عامل‌های بالینی بودجه داد",
-      "summary": "دفتر ملی هماهنگی سلامت IT حدود ۱ میلیون دلار به MedStar داد تا نرم‌افزار متن‌باز برای هماهنگی و تأیید مسیر کار عامل‌های بالینی بسازد؛ با ذخیره‌سازی داده تحت کنترل بیمار مبتنی بر Solid.",
-      "category": "regulation",
-      "published_at": "1405/07/14 19:30",
-      "collected_at": "1405/07/15 03:31",
-      "source": "healthsystemCIO",
-      "source_url": "https://healthsystemcio.com/2026/10/06/onc-agentic-ai-guardrails/",
-      "tags": [
-        "onc",
-        "healthcare",
-        "agents",
-        "guardrails"
-      ]
-    },
-    {
-      "id": "ai-20261007-09",
-      "title": "حمله‌ موفق به شرکای Glasswing؛ ریسک ۱۰۰ میلیون نفر",
-      "summary": "Anthropic تخمین می‌زند حمله موفق به کد بیشتر شرکای Glasswing می‌تواند بیش از ۱۰۰ میلیون نفر را تحت تأثیر بگذارد؛ به همین دلیل لایه سوم CVP و گسترش شرکا مطرح شده است.",
+      "id": "ai-20261007-17",
+      "title": "Manus سهم Meta را با ۲ میلیارد پس می‌گیرد",
+      "summary": "استارتاپ عامل چینی Manus پس از مداخله نظارتی سهم Meta را با حدود ۲ میلیارد دلار بازخرید می‌کند؛ تأمین مالی را Tencent می‌دهد و شرکت مستقل می‌ماند.",
       "category": "sideline",
-      "published_at": "1405/07/15 03:30",
-      "collected_at": "1405/07/15 03:31",
-      "source": "DEV Community",
-      "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-7-2026-codex-ships-day-1-openai-watermarks-text-mistral-goes-le-chonk-1d8a",
+      "published_at": "1405/07/15 05:31",
+      "collected_at": "1405/07/15 05:31",
+      "source": "Beijing Post",
+      "source_url": "https://beijingpost.com/chinese-ai-startup-manus-buys-back-meta-stake-as-tencent-becomes-lead-backer",
       "tags": [
-        "anthropic",
-        "glasswing",
-        "cyber",
-        "risk"
+        "manus",
+        "meta",
+        "tencent",
+        "china"
       ]
     },
     {
-      "id": "ai-20261007-10",
-      "title": "کارگاه‌های علمی OpenAI برای نتایج AI",
-      "summary": "اوپن‌ای‌آی می‌گوید مجموعه‌ای از کارگاه و کنفرانس درباره فهم نتایج بزرگ تولیدشده با AI را تأمین مالی می‌کند و به‌دنبال انتشار مسئولانه همان مدل داخلی تولیدکننده اثبات‌هاست.",
-      "category": "topic",
-      "published_at": "1405/07/14 21:30",
-      "collected_at": "1405/07/15 03:31",
-      "source": "Unite.AI",
-      "source_url": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/",
+      "id": "ai-20261007-18",
+      "title": "Multiply Labs با ۷۵ میلیون ربات داروسازی",
+      "summary": "Multiply Labs سری B به رهبری Patrick Soon-Shiong و حضور AstraZeneca گرفت تا خوشه‌های رباتیک تولید درمان‌های سلولی و ژنی را گسترش دهد؛ ادعا کاهش ۷۴٪ هزینه هر دوز.",
+      "category": "news",
+      "published_at": "1405/07/15 03:42",
+      "collected_at": "1405/07/15 05:31",
+      "source": "SiliconANGLE",
+      "source_url": "https://siliconangle.com/2026/10/06/multiply-labs-raises-75m-to-optimize-pharmaceutical-manufacturing-with-robots/",
       "tags": [
-        "openai",
-        "science",
-        "workshops",
-        "disclosure"
+        "multiply-labs",
+        "robotics",
+        "pharma",
+        "funding"
+      ]
+    },
+    {
+      "id": "ai-20261007-19",
+      "title": "Torch Systems ۱۱.۵ میلیون برای زیرساخت فیزیکی",
+      "summary": "Torch با رهبری Khosla حدود ۱۱.۵ میلیون گرفت تا حسگرهای TerraNode و پلتفرم هوش برای پایش دارایی‌های بیرونی مثل شبکه برق و انرژی تجدیدپذیر را گسترش دهد؛ صدها واحد در چند ایالت مستقر شده.",
+      "category": "product",
+      "published_at": "1405/07/15 05:30",
+      "collected_at": "1405/07/15 05:31",
+      "source": "Online Media Cafe",
+      "source_url": "https://onlinemediacafe.com/business/torch-systems-raises-11-5-million-to-bring-ai-to-the-physical-infrastructure-the-world-depends-on/",
+      "tags": [
+        "torch",
+        "infrastructure",
+        "sensors",
+        "funding"
+      ]
+    },
+    {
+      "id": "ai-20261007-20",
+      "title": "CVP سه‌لایه Anthropic برای مدافعان سایبری",
+      "summary": "برنامه تأیید سایبری Anthropic با Glasswing ادغام و به سه سطح دسترسی برای تیم‌های امنیتی تأییدشده تبدیل شد؛ همه سطوح شامل Opus 5.5، Sonnet 5.5 و Mythos 5.1 هستند.",
+      "category": "regulation",
+      "published_at": "1405/07/14 23:30",
+      "collected_at": "1405/07/15 05:31",
+      "source": "News Insight AI",
+      "source_url": "https://news-insight-ai.web.app/en/news/20261007_ai-news-daily",
+      "tags": [
+        "anthropic",
+        "cvp",
+        "cyber",
+        "mythos"
       ]
     }
   ]
