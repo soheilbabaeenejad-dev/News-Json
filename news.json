@@ -5,166 +5,166 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 2,
   "count": 10,
-  "updated_at": "1405/07/15 01:31",
+  "updated_at": "1405/07/15 03:31",
   "items": [
     {
-      "id": "ai-20261006-111",
-      "title": "Claude وارد Google Workspace شد",
-      "summary": "Anthropic بتای عمومی Claude برای Docs، Sheets و Slides را روی پلن‌های پولی باز کرد؛ کاربر می‌تواند داخل فایل بازشده با sidebar کار کند و کانکتورهای جدید از چت Claude فایل بسازند.",
-      "category": "product",
-      "published_at": "1405/07/14 23:34",
-      "collected_at": "1405/07/15 01:31",
+      "id": "ai-20261007-01",
+      "title": "OpenAI ۷۲۲ نسخه خطی ریاضی از مدل منتشرنشده آزاد کرد",
+      "summary": "اوپن‌ای‌آی ۷۲۲ manuscript ریاضی از یک مدل داخلی frontier منتشرنشده را در GitHub گذاشت؛ در ۳۷۲ خانواده، همراه formalization با Lean و خلاصه استدلال مدل.",
+      "category": "research",
+      "published_at": "1405/07/14 21:30",
+      "collected_at": "1405/07/15 03:31",
       "source": "Unite.AI",
-      "source_url": "https://www.unite.ai/claude-ai-assistant-arrives-in-google-workspace-as-public-beta/",
+      "source_url": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/",
+      "tags": [
+        "openai",
+        "math",
+        "lean",
+        "research"
+      ]
+    },
+    {
+      "id": "ai-20261007-02",
+      "title": "مدل داخلی OpenAI تکینگی Navier–Stokes را حل کرد",
+      "summary": "طبق اعلام قبلی، مدل داخلی قوی‌تر از Astra ثابت کرده حرکت سیال سه‌بعدی هموار می‌تواند در زمان متناهی تکینگی بسازد؛ مسئله‌ای از هفت Millennium Prize که شرکت قصد مطالبه جایزه را ندارد.",
+      "category": "research",
+      "published_at": "1405/07/14 21:30",
+      "collected_at": "1405/07/15 03:31",
+      "source": "Unite.AI",
+      "source_url": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/",
+      "tags": [
+        "openai",
+        "navier-stokes",
+        "millennium-prize",
+        "science"
+      ]
+    },
+    {
+      "id": "ai-20261007-03",
+      "title": "Glasswing آنتروپیک به حدود ۱۵۰ سازمان رسید",
+      "summary": "پروژه Glasswing برای ایمن‌سازی نرم‌افزار حیاتی از حدود ۵۰ شریک اولیه به حدود ۱۵۰ سازمان در بیش از ۱۵ کشور گسترش یافت؛ بخش‌هایی مثل برق، آب و سلامت هم اضافه شدند.",
+      "category": "regulation",
+      "published_at": "1405/07/15 03:30",
+      "collected_at": "1405/07/15 03:31",
+      "source": "DEV Community",
+      "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-7-2026-codex-ships-day-1-openai-watermarks-text-mistral-goes-le-chonk-1d8a",
       "tags": [
         "anthropic",
-        "claude",
-        "google-workspace",
-        "productivity"
+        "glasswing",
+        "cybersecurity",
+        "critical-infra"
       ]
     },
     {
-      "id": "ai-20261006-112",
-      "title": "لبزها تضمین ایمنی مطلق ندادند",
-      "summary": "نمایندگان OpenAI، Anthropic، Meta و Google در شورای NYC گفتند نمی‌توانند تضمین کنند عامل‌ها همیشه گاردریل را رعایت کنند؛ دویر: «هیچ فناوری‌ای بدون ریسک نیست.»",
-      "category": "regulation",
-      "published_at": "1405/07/14 21:30",
-      "collected_at": "1405/07/15 01:31",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06",
+      "id": "ai-20261007-04",
+      "title": "روز اول تعهد ۲۸روزه Codex اوپن‌ای‌آی",
+      "summary": "خلاصه روزانه DEV می‌گوید اولین تحویل از تعهد ۲۸روزه Codex اوپن‌ای‌آی رسیده؛ نشانه‌ای از فشار محصولی روی عامل کدنویسی بعد از موج انتشارهای هفته.",
+      "category": "product",
+      "published_at": "1405/07/15 03:30",
+      "collected_at": "1405/07/15 03:31",
+      "source": "DEV Community",
+      "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-7-2026-codex-ships-day-1-openai-watermarks-text-mistral-goes-le-chonk-1d8a",
       "tags": [
-        "nyc",
-        "safety",
-        "guardrails",
-        "hearing"
+        "openai",
+        "codex",
+        "agents",
+        "shipping"
       ]
     },
     {
-      "id": "ai-20261006-113",
-      "title": "گوگل: غیرقانونی با AI هم غیرقانونی است",
-      "summary": "آلیس فرند از گوگل به قانون‌گذاران NYC گفت قوانین موجود باید روی AI هم اعمال شود: «اگر بدون AI غیرقانونی است، با AI هم غیرقانونی است»؛ وعده کمال محصول را هم غیرممکن دانست.",
-      "category": "regulation",
-      "published_at": "1405/07/14 21:30",
-      "collected_at": "1405/07/15 01:31",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06",
-      "tags": [
-        "google",
-        "nyc",
-        "liability",
-        "policy"
-      ]
-    },
-    {
-      "id": "ai-20261006-114",
-      "title": "کاکسون: هدف اصلی لبزها خودکارسازی پژوهشگر است",
-      "summary": "جیکوب کاکسون گفت خودکارسازی پژوهش AI هدف اصلی لبزهای frontier شده و در OpenAI برای پژوهشگر خودکار حدود ۲۰۲۷–۲۰۲۸ مایل‌استون داشته‌اند؛ «در حال خودکار کردن خودم بودم.»",
-      "category": "sideline",
-      "published_at": "1405/07/14 22:30",
-      "collected_at": "1405/07/15 01:31",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com/former-anthropic-openai-jacob-coxon-self-automatation-research-work-2026-10",
-      "tags": [
-        "coxon",
-        "automation",
-        "research",
-        "safety"
-      ]
-    },
-    {
-      "id": "ai-20261006-115",
-      "title": "Doosan پروژه ۹۸.۹ میلیارد وونی رباتیک AI گرفت",
-      "summary": "Doosan Robotics دو پروژه دولتی کره را برای ساخت پلتفرم Physical AI با SoC روی‌دستگاه و کوبات‌های ۵ تا ۲۰ کیلویی برد؛ تجاری‌سازی تا ۲۰۳۱ هدف‌گذاری شده است.",
+      "id": "ai-20261007-05",
+      "title": "Lambda دور پیش‌از‌IPO حدود ۴ میلیارد دلاری",
+      "summary": "طبق digest ۷ اکتبر، ارائه‌دهنده محاسبه AI یعنی Lambda دور تأمین مالی پیش از عرضه عمومی حدود ۴ میلیارد دلاری را جلو برده؛ بخشی از تب زیرساخت GPU پیش از IPOها.",
       "category": "news",
-      "published_at": "1405/07/14 08:28",
-      "collected_at": "1405/07/15 01:31",
-      "source": "The Korea Herald",
-      "source_url": "https://www.koreaherald.com/article/10894269",
+      "published_at": "1405/07/15 03:30",
+      "collected_at": "1405/07/15 03:31",
+      "source": "DEV Community",
+      "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-7-2026-codex-ships-day-1-openai-watermarks-text-mistral-goes-le-chonk-1d8a",
       "tags": [
-        "doosan",
-        "robotics",
-        "korea",
-        "physical-ai"
+        "lambda",
+        "funding",
+        "gpus",
+        "infra"
       ]
     },
     {
-      "id": "ai-20261006-116",
-      "title": "جوشکاری هسته‌ای با کوبات و digital twin",
-      "summary": "پروژه دوم Doosan کوبات، AI و digital twin را برای جوش دقیق قطعات انرژی هسته‌ای ترکیب می‌کند؛ هدف تطبیق حرکت ۹۵٪ با جوشکار انسانی و کاهش ۵۰٪ زمان تولید است.",
-      "category": "topic",
-      "published_at": "1405/07/14 08:28",
-      "collected_at": "1405/07/15 01:31",
-      "source": "The Korea Herald",
-      "source_url": "https://www.koreaherald.com/article/10894269",
+      "id": "ai-20261007-06",
+      "title": "Waymo در Detroit بدون راننده شروع کرد",
+      "summary": "گزارش‌ها می‌گویند Waymo عملیات بدون راننده را در Detroit آغاز کرده؛ گسترش رباتاکسی به شهری دیگر در موج رقابتی خودروهای خودران.",
+      "category": "news",
+      "published_at": "1405/07/15 03:30",
+      "collected_at": "1405/07/15 03:31",
+      "source": "DEV Community",
+      "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-7-2026-codex-ships-day-1-openai-watermarks-text-mistral-goes-le-chonk-1d8a",
       "tags": [
-        "doosan",
-        "nuclear",
-        "welding",
-        "digital-twin"
+        "waymo",
+        "autonomous",
+        "detroit",
+        "robotaxi"
       ]
     },
     {
-      "id": "ai-20261006-117",
-      "title": "Minerva Humanoids با ۱۰ میلیون از استیلث آمد",
-      "summary": "استارتاپ ربات انسان‌نما Minerva با رهبری General Catalyst حدود ۱۰ میلیون pre-seed گرفت تا برای مشاغل خطرناک نفت‌وگاز و ایمنی عمومی ربات بسازد؛ پایلوت‌های پولی از پاییز شروع می‌شود.",
+      "id": "ai-20261007-07",
+      "title": "Chalk Model Gateway داخل ابر خودتان",
+      "summary": "Chalk درگاه مدل سازگار با OpenAI را معرفی کرد که داخل استقرار خود مشتری اجرا می‌شود؛ مسیریابی، بودجه، محدودیت نرخ، fallback و tracing بدون گذاشتن کلیدها نزد درگاه مدیریت‌شده ثالث.",
       "category": "product",
-      "published_at": "1405/07/14 17:30",
-      "collected_at": "1405/07/15 01:31",
-      "source": "GlobeNewswire",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/06/3375277/0/en/minerva-humanoids-emerges-from-stealth-with-10m-pre-seed-round-led-by-general-catalyst-to-build-humanoid-robots-for-the-world-s-most-dangerous-jobs.html",
+      "published_at": "1405/07/15 03:30",
+      "collected_at": "1405/07/15 03:31",
+      "source": "Chalk",
+      "source_url": "https://chalk.ai/blog/announcing-chalk-model-gateway",
       "tags": [
-        "minerva",
-        "humanoids",
-        "robotics",
-        "funding"
+        "chalk",
+        "gateway",
+        "enterprise",
+        "routing"
       ]
     },
     {
-      "id": "ai-20261006-118",
-      "title": "نمایش Minerva در مرکز EOD ناتو",
-      "summary": "Minerva قبل از لانچ رسمی در مرکز تعالی خنثی‌سازی مهمات منفجره ناتو در اسلواکی نمایش داد و با MBZUAI و Waterloo برای کار در انرژی و محیط‌های بدون دید همکاری پژوهشی دارد.",
+      "id": "ai-20261007-08",
+      "title": "ONC برای گاردریل عامل‌های بالینی بودجه داد",
+      "summary": "دفتر ملی هماهنگی سلامت IT حدود ۱ میلیون دلار به MedStar داد تا نرم‌افزار متن‌باز برای هماهنگی و تأیید مسیر کار عامل‌های بالینی بسازد؛ با ذخیره‌سازی داده تحت کنترل بیمار مبتنی بر Solid.",
+      "category": "regulation",
+      "published_at": "1405/07/14 19:30",
+      "collected_at": "1405/07/15 03:31",
+      "source": "healthsystemCIO",
+      "source_url": "https://healthsystemcio.com/2026/10/06/onc-agentic-ai-guardrails/",
+      "tags": [
+        "onc",
+        "healthcare",
+        "agents",
+        "guardrails"
+      ]
+    },
+    {
+      "id": "ai-20261007-09",
+      "title": "حمله‌ موفق به شرکای Glasswing؛ ریسک ۱۰۰ میلیون نفر",
+      "summary": "Anthropic تخمین می‌زند حمله موفق به کد بیشتر شرکای Glasswing می‌تواند بیش از ۱۰۰ میلیون نفر را تحت تأثیر بگذارد؛ به همین دلیل لایه سوم CVP و گسترش شرکا مطرح شده است.",
       "category": "sideline",
-      "published_at": "1405/07/14 17:30",
-      "collected_at": "1405/07/15 01:31",
-      "source": "GlobeNewswire",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/06/3375277/0/en/minerva-humanoids-emerges-from-stealth-with-10m-pre-seed-round-led-by-general-catalyst-to-build-humanoid-robots-for-the-world-s-most-dangerous-jobs.html",
+      "published_at": "1405/07/15 03:30",
+      "collected_at": "1405/07/15 03:31",
+      "source": "DEV Community",
+      "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-7-2026-codex-ships-day-1-openai-watermarks-text-mistral-goes-le-chonk-1d8a",
       "tags": [
-        "minerva",
-        "nato",
-        "eod",
-        "energy"
+        "anthropic",
+        "glasswing",
+        "cyber",
+        "risk"
       ]
     },
     {
-      "id": "ai-20261006-119",
-      "title": "رقابت Cadence ChipStack با GPT-Synopsys",
-      "summary": "در حالی که OpenAI مدل اختصاصی برای ابزارهای Synopsys می‌سازد، Cadence عامل ChipStack را با Gemini و Nemotron به‌سمت خودمختاری Level-5 پیش می‌برد؛ مسیر دوم نرم‌افزار عامل روی مدل‌های عمومی است.",
+      "id": "ai-20261007-10",
+      "title": "کارگاه‌های علمی OpenAI برای نتایج AI",
+      "summary": "اوپن‌ای‌آی می‌گوید مجموعه‌ای از کارگاه و کنفرانس درباره فهم نتایج بزرگ تولیدشده با AI را تأمین مالی می‌کند و به‌دنبال انتشار مسئولانه همان مدل داخلی تولیدکننده اثبات‌هاست.",
       "category": "topic",
-      "published_at": "1405/07/14 15:30",
-      "collected_at": "1405/07/15 01:31",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-synopsys-partner-to-build-gpt-synopsys-for-autonomous-chip-design-specialized-ai-model-will-operate-eda-tools-allowing-engineers-to-deliver-more-sophisticated-chips-faster",
-      "tags": [
-        "cadence",
-        "chipstack",
-        "eda",
-        "agents"
-      ]
-    },
-    {
-      "id": "ai-20261006-120",
-      "title": "محدودیت بتای Claude در Workspace: بدون فایرفاکس",
-      "summary": "بتای sidebar کلود در Chrome، Edge و Safari کار می‌کند ولی Firefox پشتیبانی نمی‌شود؛ دیکته صوتی نیست و گوگل هر عملیات را بعد از شش دقیقه قطع می‌کند.",
-      "category": "product",
-      "published_at": "1405/07/14 23:34",
-      "collected_at": "1405/07/15 01:31",
+      "published_at": "1405/07/14 21:30",
+      "collected_at": "1405/07/15 03:31",
       "source": "Unite.AI",
-      "source_url": "https://www.unite.ai/claude-ai-assistant-arrives-in-google-workspace-as-public-beta/",
+      "source_url": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/",
       "tags": [
-        "claude",
-        "google-workspace",
-        "beta",
-        "limits"
+        "openai",
+        "science",
+        "workshops",
+        "disclosure"
       ]
     }
   ]
