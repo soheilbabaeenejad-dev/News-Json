@@ -68,7 +68,7 @@ Return ONLY a valid JSON object (no markdown fences, no commentary) with exactly
     {{
       "id": "ai-YYYYMMDD-NN",
       "title": "Persian title",
-      "summary": "Persian summary, 1-2 sentences",
+      "summary": "Persian summary, about 280-350 characters (roughly 3-4 sentences)",
       "category": "news|product|regulation|research|topic|sideline",
       "published_at": "YYYY/MM/DD HH:MM",
       "source": "outlet or org name",
@@ -82,6 +82,7 @@ Rules:
 - Exactly 10 items about AI (models, labs, agents, research, regulation, industry sidelines).
 - Prefer fresh, real recent stories with real canonical source_url values.
 - title and summary MUST be Persian.
+- Each summary MUST be substantially longer than one short line: target ~280-350 Persian characters (about 3-4 sentences), roughly double a single-sentence blurb. Include what happened, why it matters, and one concrete detail (product/model/org/number) when available. Do not pad with filler.
 - published_at MUST be Jalali calendar + Asia/Tehran as YYYY/MM/DD HH:MM.
 - published_at must not be after collected_at={collected_at}.
 - id must be unique like ai-20261007-01 .. ai-20261007-10 using today's Gregorian date in the id prefix.
