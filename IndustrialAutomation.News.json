@@ -6,166 +6,175 @@
   "interval_hours": 2,
   "count": 10,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/16 05:40",
+  "updated_at": "1405/07/16 07:45",
   "items": [
     {
       "id": "ia-20261008-01",
-      "title": "نسخه جدید سیستم کنترل صنعتی SIMATIC PCS neo برای مهندسی ابری",
-      "summary": "شرکت زیمنس نسخه جدید پلتفرم کنترل توزیع‌شده SIMATIC PCS neo را با قابلیت‌های پیشرفته مهندسی ابری معرفی کرد. این نرم‌افزار به تیم‌های مهندسی اجازه می‌دهد به‌صورت همزمان روی پروژه‌های پیچیده فرآیندی کار کنند و هزینه‌های راه‌اندازی را کاهش دهند. این راهکار نقش مهمی در تسریع دیجیتالی‌سازی صنایع شیمیایی و داروسازی ایفا می‌کند.",
+      "title": "معرفی نسل جدید ماژول‌های ورودی و خروجی فایلسیم زیمنس برای محیط‌های سخت صنعتی",
+      "summary": "شرکت زیمنس از ماژول‌های جدید SIMATIC ET 200pro با قابلیت مقاومت در برابر شرایط محیطی شدید و درجه حفاظت IP67 رونمایی کرد. این تجهیزات توزیع‌شده به مهندسان اجازه می‌دهند تا کنترل‌کننده‌ها را مستقیماً در زمین کارخانه و بدون نیاز به تابلوهای برق سنتی نصب کنند. این نوآوری باعث کاهش چشمگیر هزینه‌های کابل‌کشی و سرعت بخشیدن به راه‌اندازی خطوط تولید می‌شود.",
       "category": "product",
-      "published_at": "1405/07/16 05:40",
-      "collected_at": "1405/07/16 05:40",
+      "published_at": "1405/07/16 06:30",
+      "collected_at": "1405/07/16 07:45",
       "source": "Siemens Press",
-      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-pcs-neo",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-et200pro-ip67",
       "tags": [
-        "Siemens",
-        "SIMATIC PCS neo",
-        "DCS",
-        "Cloud Engineering"
+        "SIMATIC",
+        "ET 200pro",
+        "IO modules",
+        "IP67",
+        "Siemens"
       ]
     },
     {
       "id": "ia-20261008-02",
-      "title": "ارتقای امنیت شبکه OT با تجهیزات حفاظتی جدید سری SCALANCE",
-      "summary": "خط تولید تجهیزات شبکه صنعتی زیمنس با معرفی روترهای امنیتی جدید سری SCALANCE گسترش یافت. این محصولات با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته، از زیرساخت‌های حیاتی در برابر تهدیدات سایبری محافظت می‌کنند. این ماژول‌ها برای یکپارچه‌سازی با استانداردهای امنیت شبکه IEC 62443 بهینه‌سازی شده‌اند.",
+      "title": "آپدیت جدید TIA Portal V19 با امکانات پیشرفته برای برنامه‌نویسی شیءگرا",
+      "summary": "زیمنس نسخه بروزرسانی نرم‌افزار مهندسی TIA Portal V19 را با تمرکز بر توسعه قابلیت‌های شیءگرا و همکارانه منتشر کرد. این نسخه ابزارهای مدیریت کتابخانه پیشرفته و تست خودکار کد را برای برنامه‌نویسان PLC فراهم می‌کند. این تغییرات زمان مهندسی پروژه را تا بیست درصد کاهش داده و کیفیت نرم‌افزار سیستم‌های اتوماسیون را ارتقا می‌دهد.",
       "category": "product",
-      "published_at": "1405/07/16 05:40",
-      "collected_at": "1405/07/16 05:40",
-      "source": "Industrial Cybersecurity Pulse",
-      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance",
+      "published_at": "1405/07/16 05:45",
+      "collected_at": "1405/07/16 07:45",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/plc/news/siemens-tia-portal-v19-update",
       "tags": [
-        "OT Security",
-        "SCALANCE",
+        "TIA Portal",
+        "PLC programming",
+        "Engineering",
         "Siemens",
-        "Industrial Network"
+        "Software"
       ]
     },
     {
       "id": "ia-20261008-03",
-      "title": "بهره‌گیری از هوش مصنوعی لبه‌ای در کنترل‌کننده‌های SIMATIC S7-1500",
-      "summary": "توسعه‌دهندگان زیمنس ماژول‌های هوش مصنوعی جدیدی را برای پیاده‌سازی یادگیری ماشین در کنترل‌کننده‌های منطقی برنامه‌پذیر معرفی کردند. این ماژول‌ها امکان پردازش داده‌های ارسالی از سنسورهای خط تولید را در لبه شبکه فراهم می‌آورند. این فناوری زمان توقف تجهیزات را به طور چشمگیری کاهش می‌دهد.",
-      "category": "news",
-      "published_at": "1405/07/16 05:40",
-      "collected_at": "1405/07/16 05:40",
-      "source": "Automation World",
-      "source_url": "https://www.automationworld.com/factory/plc/article/siemens-s7-1500-ai",
+      "title": "گسترش ارتباطات صنعتی با سوئیچ‌های مدیریت‌شده جدید سری SCALANCE X",
+      "summary": "زیمنس سبد محصولات شبکه خود را با عرضه سوئیچ‌های صنعتی SCALANCE X-300 مجهز به قابلیت‌های امنیت سایبری لایه دو و سه تقویت کرد. این محصولات با استاندارد IEC 62443 سازگار بوده و امنیت ارتباطات را در زیرساخت‌های حیاتی تضمین می‌کنند. استفاده از این تجهیزات از حملات سایبری به لایه کنترل صنعتی جلوگیری به عمل می‌آورد.",
+      "category": "product",
+      "published_at": "1405/07/16 05:15",
+      "collected_at": "1405/07/16 07:45",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/networking/scalance-x300-industrial-switches",
       "tags": [
-        "SIMATIC S7-1500",
-        "Edge AI",
-        "PLC",
+        "SCALANCE",
+        "Industrial Ethernet",
+        "OT Security",
+        "Networking",
         "Siemens"
       ]
     },
     {
       "id": "ia-20261008-04",
-      "title": "توسعه دوقلوهای دیجیتال در صنایع خودروسازی با نرم‌افزار NX",
-      "summary": "یک خودروساز بزرگ اروپایی خطوط مونتاژ خود را با استفاده از راهکارهای دوقلوی دیجیتال زیمنس بازطراحی کرد. با بهره‌گیری از نرم‌افزار NX و پلتفرم Xcelerator، زمان راه‌اندازی خط تولید جدید سی درصد کاهش یافت. این پروژه نمونه‌ای بارز از تاثیر فناوری‌های مجازی بر کاهش هزینه‌های ساخت است.",
-      "category": "industry",
-      "published_at": "1405/07/16 05:40",
-      "collected_at": "1405/07/16 05:40",
-      "source": "Manufacturing Global",
-      "source_url": "https://www.manufacturingglobal.com/smart-manufacturing/siemens-nx-digital-twin",
+      "title": "بهبود کارایی خطوط انتقال مواد با نسل تازه مبدل‌های فرکانس SINAMICS G120X",
+      "summary": "سری جدید درایوهای SINAMICS G120X زیمنس به‌طور ویژه برای کاربردهای پمپ، فن و کمپرسور در صنایع فرایندی بهینه‌سازی شده‌اند. این تجهیزات با بهره‌گیری از الگوریتم‌های پیشرفته کنترل مصرف انرژی، تلفات الکتریکی را به حداقل می‌رسانند. این درایوها به‌راحتی با سیستم‌های کنترل مرکزی از طریق پروتکل‌های استاندارد صنعتی یکپارچه می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/16 04:30",
+      "collected_at": "1405/07/16 07:45",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/news/siemens-sinamics-g120x-updates",
       "tags": [
-        "Digital Twin",
-        "NX",
-        "Siemens Xcelerator",
-        "Automotive"
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Inverter",
+        "Siemens"
       ]
     },
     {
       "id": "ia-20261008-05",
-      "title": "افزایش بهره‌وری خطوط بسته‌بندی با درایوهای سروو SINAMICS S210",
-      "summary": "نسل جدید درایوهای سروو SINAMICS S210 زیمنس با قابلیت‌های ایمنی یکپارچه بهبود یافته‌اند. این درایوها دقت فوق‌العاده‌ای در کنترل حرکت ماشین‌آلات بسته‌بندی پرسرعت ارائه می‌دهند. نصب آسان و پیکربندی سریع از طریق محیط TIA Portal از مزایای کلیدی این تجهیزات است.",
-      "category": "product",
-      "published_at": "1405/07/16 05:40",
-      "collected_at": "1405/07/16 05:40",
-      "source": "Control Engineering",
-      "source_url": "https://www.controleng.com/articles/siemens-sinamics-s210-update",
+      "title": "نقش پلتفرم Industrial Edge در پردازش داده‌های ابری محلی برای خطوط مونتاژ",
+      "summary": "استفاده از سیستم Industrial Edge زیمنس در کارخانجات خودروسازی به تحلیل بلادرنگ داده‌های حسگرهای ارتعاشی کمک شایانی کرده است. این تکنولوژی محاسبات ابری را به لایه فیزیکی کارخانه نزدیک‌تر کرده و تاخیر زمانی را از بین می‌برد. مدیران تولید می‌توانند با استفاده از این تحلیل‌ها خطاهای احتمالی تجهیزات را پیش‌بینی کنند.",
+      "category": "news",
+      "published_at": "1405/07/16 03:50",
+      "collected_at": "1405/07/16 07:45",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/edge-computing/siemens-industrial-edge-automotive",
       "tags": [
-        "SINAMICS",
-        "Servo Drive",
-        "TIA Portal",
-        "Motion Control"
+        "Industrial Edge",
+        "Edge Computing",
+        "Predictive Maintenance",
+        "Industry 4.0"
       ]
     },
     {
       "id": "ia-20261008-06",
-      "title": "همکاری زیمنس و انвиدیا برای توسعه متاورس صنعتی واقعی",
-      "summary": "شرکت زیمنس در همکاری راهبردی با انویدیا، پلتفرم گرافیکی پیشرفته‌ای را برای مدل‌سازی سه‌بعدی کارخانجات ارائه کرد. این بستر به مهندسان اجازه می‌دهد محیط‌های صنعتی را در مقیاس وسیع و با فیزیک واقعی شبیه‌سازی کنند. این نوآوری گامی بزرگ در جهت تحقق کارخانجات خودکار و بدون اپراتور است.",
-      "category": "company",
-      "published_at": "1405/07/16 05:40",
-      "collected_at": "1405/07/16 05:40",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/siemens-nvidia-industrial-metaverse",
-      "tags": [
-        "Industrial Metaverse",
-        "NVIDIA",
-        "Siemens",
-        "Simulation"
-      ]
-    },
-    {
-      "id": "ia-20261008-07",
-      "title": "مدیریت یکپارچه انرژی در کارخانجات با پلتفرم Insights Hub",
-      "summary": "پلتفرم ابری Insights Hub زیمنس ابزارهای جدیدی برای پایش مصرف انرژی و کاهش ردپای کربن ارائه داده است. کارخانجات صنعتی می‌توانند با اتصال کنتورهای هوشمند و درایوهای صنعتی، الگوهای مصرف انرژی را تحلیل کنند. این گزارش‌ها به مدیران کمک می‌کند تا به اهداف توسعه پایدار دست یابند.",
-      "category": "topic",
-      "published_at": "1405/07/16 05:40",
-      "collected_at": "1405/07/16 05:40",
-      "source": "IoT World Today",
-      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-energy",
-      "tags": [
-        "Insights Hub",
-        "Energy Management",
-        "Sustainability",
-        "IIoT"
-      ]
-    },
-    {
-      "id": "ia-20261008-08",
-      "title": "استانداردسازی ارتباطات صنعتی با توسعه پروتکل PROFINET Gbit",
-      "summary": "انجمنPROFIBUS & PROFINET با همکاری زیمنس نسخه‌های پرسرعت گیگابایتی پروتکل PROFINET را توسعه داد. این پهنای باند جدید امکان انتقال حجم عظیمی از داده‌های ویدئویی و سنسوری را در شبکه‌های کارگاهی فراهم می‌کند. این فناوری زیرساخت لازم برای کارخانجات هوشمند نسل آینده را تامین می‌نماید.",
+      "title": "توسعه ربات‌های مشارکتی با قابلیت اتصال مستقیم به سیستم‌های کنترل زیمنس",
+      "summary": "شرکت Universal Robots با همکاری زیمنس رابط‌های نرم‌افزاری جدیدی را ارائه کرده است که برنامه‌نویسی بازوها را از طریق محیط TIA Portal ساده می‌سازد. این همکاری امکان هماهنگی دقیق‌تر میان ربات‌های همکار و خطوط انتقال صلب را در محیط‌های صنعتی فراهم می‌کند. اپراتورها اکنون می‌توانند مسیرهای حرکتی ربات را مستقیماً از روی پنل‌های SIMATIC HMI کنترل کنند.",
       "category": "news",
-      "published_at": "1405/07/16 05:40",
-      "collected_at": "1405/07/16 05:40",
-      "source": "Industrial Ethernet",
-      "source_url": "https://www.industrialein.com/profinet-gbit-siemens",
+      "published_at": "1405/07/16 03:10",
+      "collected_at": "1405/07/16 07:45",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/universal-robots-siemens-integration",
       "tags": [
-        "PROFINET",
-        "Industrial Ethernet",
-        "Networking",
+        "Robotics",
+        "Cobots",
+        "TIA Portal",
+        "HMI",
         "Automation"
       ]
     },
     {
-      "id": "ia-20261008-09",
-      "title": "رباتیک صنعتی هوشمند با قابلیت برنامه‌نویسی مستقیم در TIA Portal",
-      "summary": "زیمنس با ارائه بسته‌های نرم‌افزاری جدید، امکان کنترل و برنامه‌نویسی بازوهای رباتیک را مستقیماً درون محیط TIA Portal فراهم کرده است. این رویکرد نیاز به نرم‌افزارهای جانبی پیچیده را از بین برده و زمان یکپارچه‌سازی سلول‌های رباتیک را کاهش می‌دهد. مهندسان اتوماسیون اکنون می‌توانند کل خط را از یک پنل مرکزی مدیریت کنند.",
+      "id": "ia-20261008-07",
+      "title": "افزایش قابلیت اطمینان در پست‌های برق هوشمند با رله‌های حفاظتی SIPROTEC 5",
+      "summary": "نسخه جدید سیستم‌های حفاظتی SIPROTEC 5 زیمنس با پشتیبانی از استانداردهای نوین ارتباطی شبکه‌های هوشمند عرضه شد. این رله‌ها توانایی تشخیص سریع خطاهای شبکه و جداسازی بخش‌های آسیب‌دیده را در کسری از ثانیه دارند. این تجهیزات امنیت پایداری شبکه توزیع برق را در مقیاس‌های بزرگ شهری و صنعتی تضمین می‌کنند.",
       "category": "product",
-      "published_at": "1405/07/16 05:40",
-      "collected_at": "1405/07/16 05:40",
-      "source": "Robotics Tomorrow",
-      "source_url": "https://www.roboticstomorrow.com/siemens-tia-portal-robotics",
+      "published_at": "1405/07/16 02:40",
+      "collected_at": "1405/07/16 07:45",
+      "source": "Power Engineering",
+      "source_url": "https://www.power-eng.com/smart-grid/siemens-siprotec-5-update",
       "tags": [
-        "Robotics",
-        "TIA Portal",
-        "Siemens",
-        "System Integration"
+        "SIPROTEC",
+        "Smart Grid",
+        "Power Automation",
+        "Protection",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261008-08",
+      "title": "بهینه‌سازی مصرف آب در صنایع شیمیایی با ابزارهای دوقلوی دیجیتال زیمنس",
+      "summary": "کارخانه پتروشیمی بایر با به‌کارگیری نرم‌افزار طراحی و شبیه‌سازی فرایند زیمنس توانسته است مصرف آب خود را ۱۵ درصد کاهش دهد. دوقلوی دیجیتال این امکان را به مهندسان می‌دهد که رفتار سیالات را در شرایط مختلف فشار و دما مدل‌سازی کنند. این رویکرد نقش مهمی در پایداری زیست‌محیطی و کاهش هزینه‌های عملیاتی واحد تولیدی ایفا می‌کند.",
+      "category": "research",
+      "published_at": "1405/07/16 02:00",
+      "collected_at": "1405/07/16 07:45",
+      "source": "Chemical Processing",
+      "source_url": "https://www.chemicalprocessing.com/articles/siemens-digital-twin-water-saving",
+      "tags": [
+        "Digital Twin",
+        "Process Industry",
+        "Sustainability",
+        "Simulation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261008-09",
+      "title": "رشد تجهیزات اندازه‌گیری ابزار دقیق با معرفی نسل جدید ترانسمیترهای Sitrans",
+      "summary": "زیمنس خانواده ترانسمیترهای فشار و سطح Sitrans P و Sitrans LC را با قابلیت عیب‌یابی خودکار گسترش داد. این حسگرها اطلاعات تشخیصی دقیقی درباره وضعیت سایش و رسوب‌گذاری مواد روی غشاء ارسال می‌کنند. این قابلیت توقف‌های ناخواسته خط تولید ناشی از خرابی سنسورها را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/16 01:20",
+      "collected_at": "1405/07/16 07:45",
+      "source": "InTech Magazine",
+      "source_url": "https://www.intechmag.com/siemens-sitrans-transmitters-update",
+      "tags": [
+        "Sitrans",
+        "Instrumentation",
+        "Sensors",
+        "Diagnostics",
+        "Siemens"
       ]
     },
     {
       "id": "ia-20261008-10",
-      "title": "نقش کنترل‌کننده‌های SIMATIC ET 200SP در معماری توزیع‌شده",
-      "summary": "سیستم‌های I/O توزیع‌شده سری SIMATIC ET 200SP زیمنس به دلیل طراحی ماژولار و انعطاف‌پذیری بالا مورد استقبال صنایع قرار گرفته‌اند. این تجهیزات فضای کم تابلویی اشغال کرده و سرعت تبادل اطلاعات با PLC را به حداکثر می‌رسانند. استفاده از این ماژول‌ها در خطوط تولید پیوسته به پایداری سیستم کمک شایانی می‌کند.",
-      "category": "product",
-      "published_at": "1405/07/16 05:40",
-      "collected_at": "1405/07/16 05:40",
-      "source": "Processing Magazine",
-      "source_url": "https://www.processingmagazine.com/siemens-simatic-et200sp",
+      "title": "گسترش استاندارد PROFINET در تجهیزات اتوماسیون کارخانه‌ای بر اساس گزارش PI",
+      "summary": "انجمن بین‌المللی PROFINET اعلام کرد که سهم بازار این پروتکل ارتباطی صنعتی در سال گذشته رشد چشمگیری داشته است. تجهیزات سازگار با این استاندارد ساخت شرکت‌هایی نظیر زیمنس، به دلیل سرعت بالا و قابلیت‌های تشخیصی پیشرفته انتخاب اول سازندگان ماشین‌آلات هستند. این استاندارد ستون فقرات ارتباطی کارخانه‌های هوشمند امروزی را تشکیل می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/16 00:45",
+      "collected_at": "1405/07/16 07:45",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/profinet-market-growth-report",
       "tags": [
-        "SIMATIC ET 200SP",
-        "Distributed I/O",
-        "Siemens",
-        "Industrial Automation"
+        "PROFINET",
+        "Fieldbus",
+        "Industrial Communication",
+        "PI",
+        "Standardization"
       ]
     }
   ]
