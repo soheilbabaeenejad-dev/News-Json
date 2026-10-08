@@ -6,166 +6,166 @@
   "interval_hours": 2,
   "count": 10,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/16 03:31",
+  "updated_at": "1405/07/16 05:40",
   "items": [
     {
       "id": "ia-20261008-01",
-      "title": "نسخه جدید نرم‌افزار TIA Portal با ابزارهای پیشرفته مدیریت پروژه",
-      "summary": "شرکت زیمنس نسخه جدید محیط مهندسی TIA Portal را با تمرکز بر بهبود ابزارهای مدیریت پروژه و کاهش زمان مهندسی عرضه کرد. این نسخه امکانات ویژه‌ای برای تست خودکار کدهای پی‌ال‌سی سیماتیک فراهم می‌کند. کارشناسان اتوماسیون صنعتی می‌توانند از قابلیت‌های جدید برای یکپارچه‌سازی سریع‌تر سیستم‌های کنترل استفاده کنند.",
+      "title": "نسخه جدید سیستم کنترل صنعتی SIMATIC PCS neo برای مهندسی ابری",
+      "summary": "شرکت زیمنس نسخه جدید پلتفرم کنترل توزیع‌شده SIMATIC PCS neo را با قابلیت‌های پیشرفته مهندسی ابری معرفی کرد. این نرم‌افزار به تیم‌های مهندسی اجازه می‌دهد به‌صورت همزمان روی پروژه‌های پیچیده فرآیندی کار کنند و هزینه‌های راه‌اندازی را کاهش دهند. این راهکار نقش مهمی در تسریع دیجیتالی‌سازی صنایع شیمیایی و داروسازی ایفا می‌کند.",
       "category": "product",
-      "published_at": "1405/07/15 10:30",
-      "collected_at": "1405/07/16 03:31",
+      "published_at": "1405/07/16 05:40",
+      "collected_at": "1405/07/16 05:40",
       "source": "Siemens Press",
-      "source_url": "https://press.siemens.com/global/en/pressrelease/tia-portal-v19-update",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-pcs-neo",
       "tags": [
-        "TIA Portal",
         "Siemens",
-        "SIMATIC",
-        "Engineering"
+        "SIMATIC PCS neo",
+        "DCS",
+        "Cloud Engineering"
       ]
     },
     {
       "id": "ia-20261008-02",
-      "title": "معرفی کنترل‌کننده‌های لبه شبکه صنعتی سری SIMATIC IPC برای تحلیل داده",
-      "summary": "تجهیزات سخت‌افزاری جدید SIMATIC IPC زیمنس برای پردازش داده‌های ابری و لبه شبکه به بازار صنعتی معرفی شدند. این سخت‌افزارها با پلتفرم Industrial Edge کاملاً سازگار هستند و امکان تحلیل داده‌های بلادرنگ را در کف کارخانه فراهم می‌کنند. این فناوری به مدیران صنعتی کمک می‌کند تا تصمیمات بهینه‌تری اتخاذ نمایند.",
+      "title": "ارتقای امنیت شبکه OT با تجهیزات حفاظتی جدید سری SCALANCE",
+      "summary": "خط تولید تجهیزات شبکه صنعتی زیمنس با معرفی روترهای امنیتی جدید سری SCALANCE گسترش یافت. این محصولات با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته، از زیرساخت‌های حیاتی در برابر تهدیدات سایبری محافظت می‌کنند. این ماژول‌ها برای یکپارچه‌سازی با استانداردهای امنیت شبکه IEC 62443 بهینه‌سازی شده‌اند.",
       "category": "product",
-      "published_at": "1405/07/15 12:15",
-      "collected_at": "1405/07/16 03:31",
-      "source": "Automation World",
-      "source_url": "https://www.automationworld.com/factory/edge-computing/siemens-simatic-ipc",
+      "published_at": "1405/07/16 05:40",
+      "collected_at": "1405/07/16 05:40",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance",
       "tags": [
-        "Industrial Edge",
-        "SIMATIC IPC",
-        "OT",
-        "Siemens"
+        "OT Security",
+        "SCALANCE",
+        "Siemens",
+        "Industrial Network"
       ]
     },
     {
       "id": "ia-20261008-03",
-      "title": "توسعه رباتیک مشارکتی در خطوط تولید خودکار با پلتفرم کنترل زیمنس",
-      "summary": "یکپارچه‌سازی ربات‌های مشارکتی با سیستم‌های کنترل SIMATIC S7-1500 خطوط مونتاژ صنعتی را متحول کرده است. این راهکار جدید ایمنی اپراتورها را در کنار افزایش سرعت تولید به طور چشمگیری ارتقا می‌دهد. شرکت‌های خودروسازی از پیشگامان اصلی به‌کارگیری این فناوری پیشرفته در کارخانجات خود هستند.",
+      "title": "بهره‌گیری از هوش مصنوعی لبه‌ای در کنترل‌کننده‌های SIMATIC S7-1500",
+      "summary": "توسعه‌دهندگان زیمنس ماژول‌های هوش مصنوعی جدیدی را برای پیاده‌سازی یادگیری ماشین در کنترل‌کننده‌های منطقی برنامه‌پذیر معرفی کردند. این ماژول‌ها امکان پردازش داده‌های ارسالی از سنسورهای خط تولید را در لبه شبکه فراهم می‌آورند. این فناوری زمان توقف تجهیزات را به طور چشمگیری کاهش می‌دهد.",
       "category": "news",
-      "published_at": "1405/07/15 14:00",
-      "collected_at": "1405/07/16 03:31",
-      "source": "Robotics Tomorrow",
-      "source_url": "https://www.roboticstomorrow.com/story/2026/10/siemens-collaborative-robots/23450/",
+      "published_at": "1405/07/16 05:40",
+      "collected_at": "1405/07/16 05:40",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/plc/article/siemens-s7-1500-ai",
       "tags": [
-        "Robotics",
         "SIMATIC S7-1500",
-        "Automation",
-        "Safety"
+        "Edge AI",
+        "PLC",
+        "Siemens"
       ]
     },
     {
       "id": "ia-20261008-04",
-      "title": "راهکار جامع امنیت سایبری برای تجهیزات اتوماسیون صنعتی OT",
-      "summary": "زیمنس بسته امنیتی جدیدی را برای حفاظت از زیرساخت‌های حیاتی در برابر تهدیدات سایبری معرفی کرد. این راهکار شامل ابزارهای مانیتورینگ پیشرفته برای شبکه‌های صنعتی و تجهیزات اسکادا است. هدف از ارائه این پکیج، به حداقل رساندن آسیب‌پذیری‌های امنیتی در کارخانجات متصل به اینترنت است.",
-      "category": "regulation",
-      "published_at": "1405/07/15 16:20",
-      "collected_at": "1405/07/16 03:31",
-      "source": "Control Global",
-      "source_url": "https://www.controlglobal.com/security/article/siemens-cybersecurity-ot-2026",
+      "title": "توسعه دوقلوهای دیجیتال در صنایع خودروسازی با نرم‌افزار NX",
+      "summary": "یک خودروساز بزرگ اروپایی خطوط مونتاژ خود را با استفاده از راهکارهای دوقلوی دیجیتال زیمنس بازطراحی کرد. با بهره‌گیری از نرم‌افزار NX و پلتفرم Xcelerator، زمان راه‌اندازی خط تولید جدید سی درصد کاهش یافت. این پروژه نمونه‌ای بارز از تاثیر فناوری‌های مجازی بر کاهش هزینه‌های ساخت است.",
+      "category": "industry",
+      "published_at": "1405/07/16 05:40",
+      "collected_at": "1405/07/16 05:40",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/smart-manufacturing/siemens-nx-digital-twin",
       "tags": [
-        "Cybersecurity",
-        "OT",
-        "SCADA",
-        "Siemens"
+        "Digital Twin",
+        "NX",
+        "Siemens Xcelerator",
+        "Automotive"
       ]
     },
     {
       "id": "ia-20261008-05",
-      "title": "بهینه‌سازی مصرف انرژی در کارخانجات سیمان با درایوهای پیشرفته Sinamics",
-      "summary": "استفاده از نسل جدید درایوهای فرکانس متغیر Sinamics سهم بسزایی در کاهش مصرف برق صنایع سنگین داشته است. این تجهیزات با الگوریتم‌های پیشرفته کنترل موتور، راندمان مکانیکی خطوط تولید را بهبود می‌بخشند. کارخانجات سیمان با این تجهیزات توانسته‌اند هزینه‌های انرژی خود را به میزان قابل توجهی کاهش دهند.",
-      "category": "industry",
-      "published_at": "1405/07/16 03:31",
-      "collected_at": "1405/07/16 03:31",
-      "source": "Industrial Technology",
-      "source_url": "https://www.industrialtechnology.co.uk/siemens-sinamics-energy-efficiency",
+      "title": "افزایش بهره‌وری خطوط بسته‌بندی با درایوهای سروو SINAMICS S210",
+      "summary": "نسل جدید درایوهای سروو SINAMICS S210 زیمنس با قابلیت‌های ایمنی یکپارچه بهبود یافته‌اند. این درایوها دقت فوق‌العاده‌ای در کنترل حرکت ماشین‌آلات بسته‌بندی پرسرعت ارائه می‌دهند. نصب آسان و پیکربندی سریع از طریق محیط TIA Portal از مزایای کلیدی این تجهیزات است.",
+      "category": "product",
+      "published_at": "1405/07/16 05:40",
+      "collected_at": "1405/07/16 05:40",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sinamics-s210-update",
       "tags": [
-        "Sinamics",
-        "Energy Efficiency",
-        "Drives",
-        "Siemens"
+        "SINAMICS",
+        "Servo Drive",
+        "TIA Portal",
+        "Motion Control"
       ]
     },
     {
       "id": "ia-20261008-06",
-      "title": "نقش سیستم‌های DCS در پایداری مجتمع‌های بزرگ پتروشیمی",
-      "summary": "استفاده از سیستم کنترل توزیع‌شده پلتفرم SIMATIC PCS neo مدیریت فرآیندهای پیچیده شیمیایی را ایمن‌تر کرده است. این سیستم با معماری ابری خود امکان نظارت همه‌جانبه بر تمام واحدهای پالایشگاهی را فراهم می‌سازد. مهندسان بهره‌برداری می‌توانند تغییرات پارامترهای حیاتی را به صورت لحظه‌ای رصد کنند.",
-      "category": "industry",
-      "published_at": "1405/07/16 03:31",
-      "collected_at": "1405/07/16 03:31",
-      "source": "Hydrocarbon Processing",
-      "source_url": "https://www.hydrocarbonprocessing.com/news/2026/october/siemens-dcs-petrochemical",
+      "title": "همکاری زیمنس و انвиدیا برای توسعه متاورس صنعتی واقعی",
+      "summary": "شرکت زیمنس در همکاری راهبردی با انویدیا، پلتفرم گرافیکی پیشرفته‌ای را برای مدل‌سازی سه‌بعدی کارخانجات ارائه کرد. این بستر به مهندسان اجازه می‌دهد محیط‌های صنعتی را در مقیاس وسیع و با فیزیک واقعی شبیه‌سازی کنند. این نوآوری گامی بزرگ در جهت تحقق کارخانجات خودکار و بدون اپراتور است.",
+      "category": "company",
+      "published_at": "1405/07/16 05:40",
+      "collected_at": "1405/07/16 05:40",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/siemens-nvidia-industrial-metaverse",
       "tags": [
-        "DCS",
-        "SIMATIC PCS neo",
-        "Process Automation",
-        "Siemens"
+        "Industrial Metaverse",
+        "NVIDIA",
+        "Siemens",
+        "Simulation"
       ]
     },
     {
       "id": "ia-20261008-07",
-      "title": "گسترش کاربرد هوش مصنوعی در تعمیرات پیشگیرانه ماشین‌آلات صنعتی",
-      "summary": "تلفیق الگوریتم‌های یادگیری ماشین با نرم‌افزارهای نگهداری و تعمیرات زیمنس خطاهای تجهیزات را پیش‌بینی می‌کند. این رویکرد جدید از توقف‌های ناخواسته خطوط تولید جلوگیری کرده و عمر مفید قطعات را افزایش می‌دهد. صنایع گوناگون با اتکا به این سیستم‌ها هزینه‌های تعمیراتی خود را بهینه کرده‌اند.",
-      "category": "research",
-      "published_at": "1405/07/16 03:31",
-      "collected_at": "1405/07/16 03:31",
-      "source": "Automation.com",
-      "source_url": "https://www.automation.com/en-us/articles/2026-10/siemens-ai-predictive-maintenance",
+      "title": "مدیریت یکپارچه انرژی در کارخانجات با پلتفرم Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس ابزارهای جدیدی برای پایش مصرف انرژی و کاهش ردپای کربن ارائه داده است. کارخانجات صنعتی می‌توانند با اتصال کنتورهای هوشمند و درایوهای صنعتی، الگوهای مصرف انرژی را تحلیل کنند. این گزارش‌ها به مدیران کمک می‌کند تا به اهداف توسعه پایدار دست یابند.",
+      "category": "topic",
+      "published_at": "1405/07/16 05:40",
+      "collected_at": "1405/07/16 05:40",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-energy",
       "tags": [
-        "Artificial Intelligence",
-        "Predictive Maintenance",
         "Insights Hub",
-        "Industry 4.0"
+        "Energy Management",
+        "Sustainability",
+        "IIoT"
       ]
     },
     {
       "id": "ia-20261008-08",
-      "title": "پروتکل‌های ارتباطی صنعتی جدید برای سرعت‌بخشی به شبکه Profinet",
-      "summary": "نسخه جدید پروتکل Profinet با پهنای باند بالاتر برای ارتباطات صنعتی همزمان منتشر شد. این استاندارد ارتباطی بستر مناسبی را برای انتقال حجم عظیمی از داده‌های سنسورها به کنترلرها فراهم می‌کند. شرکت‌های سازنده تجهیزات اتوماسیون به سرعت در حال تطبیق محصولات خود با این فناوری هستند.",
+      "title": "استانداردسازی ارتباطات صنعتی با توسعه پروتکل PROFINET Gbit",
+      "summary": "انجمنPROFIBUS & PROFINET با همکاری زیمنس نسخه‌های پرسرعت گیگابایتی پروتکل PROFINET را توسعه داد. این پهنای باند جدید امکان انتقال حجم عظیمی از داده‌های ویدئویی و سنسوری را در شبکه‌های کارگاهی فراهم می‌کند. این فناوری زیرساخت لازم برای کارخانجات هوشمند نسل آینده را تامین می‌نماید.",
       "category": "news",
-      "published_at": "1405/07/16 03:31",
-      "collected_at": "1405/07/16 03:31",
+      "published_at": "1405/07/16 05:40",
+      "collected_at": "1405/07/16 05:40",
       "source": "Industrial Ethernet",
-      "source_url": "https://www.industrialein.com/profinet-update-2026-siemens",
+      "source_url": "https://www.industrialein.com/profinet-gbit-siemens",
       "tags": [
-        "Profinet",
+        "PROFINET",
+        "Industrial Ethernet",
         "Networking",
-        "Fieldbus",
-        "Siemens"
+        "Automation"
       ]
     },
     {
       "id": "ia-20261008-09",
-      "title": "طراحی دیجیتال کارخانجات آینده با نرم‌افزار Tecnomatix زیمنس",
-      "summary": "مجموعه نرم‌افزاری Tecnomatix ابزارهای نوین شبیه‌سازی سه‌بعدی را برای مهندسان طراح خط تولید فراهم آورده است. این ابزارها امکان بهینه‌سازی چیدمان تجهیزات و ارزیابی ارگونومی ایستگاه‌های کاری را پیش از ساخت فیزیکی میسر می‌سازند. این امر موجب صرفه‌جویی کلان در هزینه‌های راه‌اندازی پروژه‌های صنعتی می‌شود.",
+      "title": "رباتیک صنعتی هوشمند با قابلیت برنامه‌نویسی مستقیم در TIA Portal",
+      "summary": "زیمنس با ارائه بسته‌های نرم‌افزاری جدید، امکان کنترل و برنامه‌نویسی بازوهای رباتیک را مستقیماً درون محیط TIA Portal فراهم کرده است. این رویکرد نیاز به نرم‌افزارهای جانبی پیچیده را از بین برده و زمان یکپارچه‌سازی سلول‌های رباتیک را کاهش می‌دهد. مهندسان اتوماسیون اکنون می‌توانند کل خط را از یک پنل مرکزی مدیریت کنند.",
       "category": "product",
-      "published_at": "1405/07/16 03:31",
-      "collected_at": "1405/07/16 03:31",
-      "source": "Manufacturing Tomorrow",
-      "source_url": "https://www.manufacturingtomorrow.com/story/2026/10/siemens-tecnomatix-simulation/18900/",
+      "published_at": "1405/07/16 05:40",
+      "collected_at": "1405/07/16 05:40",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-tia-portal-robotics",
       "tags": [
-        "Tecnomatix",
-        "Digital Twin",
-        "Simulation",
-        "Siemens"
+        "Robotics",
+        "TIA Portal",
+        "Siemens",
+        "System Integration"
       ]
     },
     {
       "id": "ia-20261008-10",
-      "title": "همکاری دانشگاه و صنعت برای تربیت متخصصان جدید اتوماسیون صنعتی",
-      "summary": "برنامه آموزشی مشترک زیمنس با دانشگاه‌های فنی مهندسی برای تربیت نیروی متخصص اتوماسیون آغاز شد. در این طرح دانشجویان با آخرین فناوری‌های پی‌ال‌سی و نرم‌افزارهای مهندسی در محیط‌های آزمایشگاهی آشنا می‌شوند. این اقدام گامی مهم برای برطرف کردن کمبود نیروی ماهر در حوزه صنعت هوشمند است.",
-      "category": "society",
-      "published_at": "1405/07/16 03:31",
-      "collected_at": "1405/07/16 03:31",
-      "source": "Education Technology News",
-      "source_url": "https://www.edtech-industrial.com/news/siemens-university-partnership-2026",
+      "title": "نقش کنترل‌کننده‌های SIMATIC ET 200SP در معماری توزیع‌شده",
+      "summary": "سیستم‌های I/O توزیع‌شده سری SIMATIC ET 200SP زیمنس به دلیل طراحی ماژولار و انعطاف‌پذیری بالا مورد استقبال صنایع قرار گرفته‌اند. این تجهیزات فضای کم تابلویی اشغال کرده و سرعت تبادل اطلاعات با PLC را به حداکثر می‌رسانند. استفاده از این ماژول‌ها در خطوط تولید پیوسته به پایداری سیستم کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/16 05:40",
+      "collected_at": "1405/07/16 05:40",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-simatic-et200sp",
       "tags": [
-        "Education",
-        "Training",
+        "SIMATIC ET 200SP",
+        "Distributed I/O",
         "Siemens",
-        "Workforce"
+        "Industrial Automation"
       ]
     }
   ]
