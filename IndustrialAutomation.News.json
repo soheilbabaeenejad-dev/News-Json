@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 30,
+  "count": 40,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 15:01",
+  "updated_at": "1405/07/23 16:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -487,6 +487,166 @@
         "TIA Portal",
         "Workforce Development",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-001",
+      "title": "معرفی ماژول امنیتی جدید SCALANCE SC-600 برای محافظت از شبکه‌های صنعتی",
+      "summary": "شرکت زیمنس از نسل جدید فایروال‌های صنعتی سری SCALANCE SC-600 رونمایی کرد که برای secure کردن ارتباطات OT و تجهیزات مانیتورینگ طراحی شده‌اند. این ماژول‌ها با پشتیبانی از پروتکل‌های امنیتی روز و استاندارد IEC 62443، از خطوط تولید در برابر نفوذهای سایبری محافظت می‌کنند. استفاده از این تجهیزات به مدیران شبکه اجازه می‌دهد تا بخش‌های مختلف کارخانه را به راحتی ایزوله کنند.",
+      "category": "product",
+      "published_at": "1405/07/23 08:30",
+      "collected_at": "1405/07/23 16:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-scalance-sc600-release",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Cybersecurity",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261015-002",
+      "title": "بهه‌سازی خطوط مونتاژ با درایوهای سروو جدید SINAMICS S210",
+      "summary": "نسخه به‌روزرسانی شده درایوهای سروو SINAMICS S210 زیمنس با قابلیت کنترل دقیق‌تر حرکت و زمان پاسخ‌دهی سریع‌تر عرضه شد. این سری جدید به مهندسان اتوماسیون کمک می‌کند تا ربات‌های کارگاهی و میزهای گردان را با دقت میکرومتری کنترل کنند. این محصول نقش مهمی در افزایش سرعت خطوط بسته‌بندی و مونتاژ الکترونیک ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 16:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sinamics-s210-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Motion Control",
+        "Servo Drive"
+      ]
+    },
+    {
+      "id": "ia-20261015-003",
+      "title": "گسترش قابلیت‌های مانیتورینگ ابری در پلتفرم Insights Hub زیمنس",
+      "summary": "پلتفرم ابری Insights Hub که پیش‌تر با نام MindSphere شناخته می‌شد، به قابلیت‌های جدید تحلیل داده‌های مصرف انرژی مجهز شد. کارخانه‌ها می‌توانند با اتصال کنتورهای دیجیتال و PLCهای سیماتیک به این بستر، هدررفت انرژی را به صورت لحظه‌ای رصد کنند. این ابزار به صنایع کمک می‌کند تا اهداف توسعه پایدار و کاهش کربن را سریع‌تر محقق سازند.",
+      "category": "news",
+      "published_at": "1405/07/23 10:00",
+      "collected_at": "1405/07/23 16:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-update",
+      "tags": [
+        "Insights Hub",
+        "MindSphere",
+        "Cloud",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261015-004",
+      "title": "توسعه ماژول‌های ورودی/خروجی توزیع‌شده SIMATIC ET 200pro برای محیط‌های سخت",
+      "summary": "زیمنس خانواده ماژول‌های I/O توزیع‌شده SIMATIC ET 200pro را با درجه حفاظت IP67 برای کاربردهای بدون تابلو برق توسعه داد. این تجهیزات در برابر رطوبت شدید، گرد و غبار و لرزش‌های مداوم صنعتی مقاومت بالایی از خود نشان می‌دهند. این ویژگی باعث کاهش هزینه‌های کابل‌کشی و افزایش انعطاف‌پذیری در سالن‌های تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/23 10:45",
+      "collected_at": "1405/07/23 16:00",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/siemens-et200pro-expansion",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200pro",
+        "Distributed I/O"
+      ]
+    },
+    {
+      "id": "ia-20261015-005",
+      "title": "ارتقای سیستم‌های اسکادا با انتشار نسخه جدید WinCC Unified V19 Update 3",
+      "summary": "بسته به‌روزرسانی سوم برای نرم‌افزار جامع مانیتورینگ WinCC Unified V19 با امکانات گرافیکی پیشرفته‌تر و پایداری بیشتر منتشر شد. این نسخه ابزارهای بهتری برای طراحی پنل‌های وب‌محور و تحلیل آلارم‌ها در اختیار اپراتورها قرار می‌دهد. مهندسین کنترل می‌توانند پروژه‌های بزرگ را با سرعت بیشتری در محیط TIA Portal پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/23 11:30",
+      "collected_at": "1405/07/23 16:00",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/siemens-wincc-unified-v19-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261015-006",
+      "title": "نقش کلیدی هوش مصنوعی مولد در نسل جدید محیط مهندسی TIA Portal",
+      "summary": "شرکت زیمنس قابلیت‌های دستیار هوش مصنوعی را برای تولید کدهای ساختاریافته (SCL) در محیط TIA Portal گسترش داد. برنامه‌نویسان کنترل‌کننده‌های صنعتی اکنون می‌توانند با توصیف متنی فرآیند، کدهای اولیه PLC را به صورت خودکار دریافت کنند. این نوآوری زمان توسعه و تست خطوط اتوماسیون را به طور چشمگیری کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/23 12:15",
+      "collected_at": "1405/07/23 16:00",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-tia-portal-ai",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Artificial Intelligence",
+        "PLC Programming"
+      ]
+    },
+    {
+      "id": "ia-20261015-007",
+      "title": "همکاری زیمنس و فستو برای استانداردسازی تجهیزات پنوماتیک هوشمند",
+      "summary": "دو شرکت بزرگ زیمنس و فستو توافقنامه‌ای را برای یکپارچه‌سازی تجهیزات پنوماتیک با کنترل‌کننده‌های SIMATIC به امضا رساندند. این همکاری امکان مانیتورینگ مستقیم مصرف هوا و وضعیت سلامت شیرهای برقی را از طریق شبکه Profinet فراهم می‌کند. مهندسان می‌توانند اطلاعات تشخیصی دقیق‌تری را مستقیماً در سیستم کنترل مرکزی دریافت کنند.",
+      "category": "company",
+      "published_at": "1405/07/23 13:00",
+      "collected_at": "1405/07/23 16:00",
+      "source": "IEB Media",
+      "source_url": "https://www.iebmedia.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Profinet",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261015-008",
+      "title": "افزایش قابلیت‌های پردازش لبه‌ای با رایانه‌های صنعتی SIMATIC IPC",
+      "summary": "نسخه جدید رایانه‌های صنعتی SIMATIC IPC با پردازنده‌های قدرتمند اینتل برای اجرای بارهای کاری لبه شبکه (Edge) معرفی شدند. این سخت‌افزارها برای پردازش تصاویر دوربین‌های بازرسی کیفیت و اجرای مدل‌های یادگیری ماشین در کنار خط تولید به کار می‌روند. این راهکار به صنایع کمک می‌کند تصمیم‌گیری‌های حیاتی را بدون نیاز به ارسال داده به ابر انجام دهند.",
+      "category": "product",
+      "published_at": "1405/07/23 13:45",
+      "collected_at": "1405/07/23 16:00",
+      "source": "Robotics & Automation News",
+      "source_url": "https://www.roboticsandautomationnews.com/siemens-simatic-ipc-edge",
+      "tags": [
+        "Siemens",
+        "SIMATIC IPC",
+        "Edge Computing",
+        "Industrial PC"
+      ]
+    },
+    {
+      "id": "ia-20261015-009",
+      "title": "گسترش کاربرد دوقلوی دیجیتال در صنایع داروسازی با نرم‌افزار Tecnomatix",
+      "summary": "شرکت زیمنس از راهکار جدید دوقلوی دیجیتال برای طراحی و اعتبارسنجی خطوط تولید دارو رونمایی کرد. با استفاده از مجموعه نرم‌افزارهای Tecnomatix و Xcelerator، مهندسان می‌توانند کل فرآیند ساخت قرص و بسته‌بندی را پیش از ساخت فیزیکی شبیه‌سازی کنند. این رویکرد خطاهای اجرایی را به حداقل رسانده و زمان ورود دارو به بازار را تسریع می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/23 14:30",
+      "collected_at": "1405/07/23 16:00",
+      "source": "Pharmaceutical Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-tecnomatix-pharma",
+      "tags": [
+        "Siemens",
+        "Tecnomatix",
+        "Digital Twin",
+        "Pharma"
+      ]
+    },
+    {
+      "id": "ia-20261015-010",
+      "title": "بهبود قابلیت‌های ایمنی ماشین‌آلات با رله‌های حفاظتی Sirius 3SK2",
+      "summary": "سری جدید رله‌های ایمنی قابل برنامه‌ریزی Sirius 3SK2 زیمنس با قابلیت پیکربندی نرم‌افزاری آسان‌تر به بازار عرضه شدند. این تجهیزات امکان اتصال سنسورهای ایمنی مختلف و توقف اضطراری را با بالاترین سطح استاندارد SIL 3 فراهم می‌کنند. استفاده از این رله‌ها سیم‌کشی تابلوهای برق را ساده‌تر کرده و ایمنی اپراتورها را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/23 15:15",
+      "collected_at": "1405/07/23 16:00",
+      "source": "Machine Design",
+      "source_url": "https://www.machinedesign.com/siemens-sirius-3sk2-safety",
+      "tags": [
+        "Siemens",
+        "Sirius",
+        "Safety Integrated",
+        "Machine Safety"
       ]
     }
   ]
