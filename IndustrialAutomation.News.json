@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 138,
+  "count": 148,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 20:03",
+  "updated_at": "1405/07/23 21:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2196,6 +2196,156 @@
         "SIRIUS",
         "ایمنی ماشین‌آلات",
         "SIL 3"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسخه جدید محیط مهندسی TIA Portal V20 با ابزارهای همکاری ابری",
+      "summary": "شرکت زیمنس نسخه جدید محیط مهندسی خود یعنی TIA Portal V20 را با تمرکز بر ابزارهای همکاری ابری تیمی منتشر کرد. این نسخه امکان کار همزمان مهندسان بر روی پروژه‌های بزرگ اتوماسیون را فراهم کرده و زمان توسعه را کاهش می‌دهد. این پلتفرم جدید به تیم‌ها اجازه می‌دهد تا کدهای PLC را با امنیت بالا در فضای ابری به اشتراک بگذارند.",
+      "category": "product",
+      "published_at": "1405/07/23 08:30",
+      "collected_at": "1405/07/23 21:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-tia-portal-v20-release",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "معرفی کنترل‌کننده صنعتی SIMATIC S7-1500 با پردازنده هوش مصنوعی",
+      "summary": "زیمنس کنترل‌کننده پیشرفته SIMATIC S7-1500 را با قابلیت‌های پردازش هوش مصنوعی داخلی معرفی کرد. این پردازنده جدید به خطوط تولید اجازه می‌دهد تا خطاهای کیفی را به صورت بلادرنگ در لبه شبکه شناسایی کنند. این نوآوری نقش مهمی در ارتقای دقت و کاهش توقفات ناخواسته در خطوط مونتاژ پیچیده صنعتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 21:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-s7-1500-ai-processor",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه قابلیت‌های مانیتورینگ در اسکادا WinCC Unified V19 SP2",
+      "summary": "آپدیت جدید سیستم اسکادا WinCC Unified V19 SP2 توسط زیمنس برای بهبود قابلیت‌های مانیتورینگ بلادرنگ عرضه شد. این نسخه ابزارهای گرافیکی پیشرفته‌تری برای طراحی داشبوردهای صنعتی در اختیار اپراتورها قرار می‌دهد. همچنین امنیت تبادل داده‌ها در این نسخه به طور چشمگیری تقویت شده است.",
+      "category": "product",
+      "published_at": "1405/07/23 10:00",
+      "collected_at": "1405/07/23 21:00",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/wincc-unified-v19-sp2",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "اینورترهای پیشرفته SINAMICS G280 برای کنترل دقیق درایوهای سنگین",
+      "summary": "سری جدید اینورترهای SINAMICS G280 زیمنس برای کنترل دقیق درایوهای سنگین صنعتی به بازار معرفی شدند. این تجهیزات با بهره‌گیری از الگوریتم‌های پیشرفته کنترل برداری، تلفات انرژی را به حداقل می‌رسانند. این اینورترها گزینه‌ای ایده‌آل برای کاربردهای نیازمند گشتاور بالا در صنایع معدنی و فلزی محسوب می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/23 11:20",
+      "collected_at": "1405/07/23 21:00",
+      "source": "Drive & Control",
+      "source_url": "https://www.driveandcontrol.com/sinamics-g280-launch",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش راهکارهای امنیت سایبری با فایروال‌های SCALANCE SC-800",
+      "summary": "زیمنس نسل جدید فایروال‌های صنعتی SCALANCE SC-800 را برای حفاظت از شبکه‌های OT معرفی کرد. این تجهیزات به مدیران شبکه اجازه می‌دهند تا ترافیک داده‌ها را در لایه صنعتی با دقت بالا کنترل کنند. این فایروال‌ها نقش کلیدی در انابق با استانداردهای سخت‌گیرانه IEC 62443 ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/23 12:45",
+      "collected_at": "1405/07/23 21:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/scalance-sc800-firewall",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "افزایش قابلیت‌های پردازش لبه‌ای با رایانه‌های صنعتی SIMATIC IPC 1027E",
+      "summary": "رایانه‌های صنعتی قدرتمند SIMATIC IPC 1027E برای پردازش‌های سنگین لبه شبکه معرفی شدند. این سخت‌افزارها توانایی اجرای برنامه‌های تحلیل داده‌های حجیم را در محیط‌های خشن کارگاهی دارند. استفاده از این IPCها بهینه‌سازی فرآیندهای تولید را از طریق تجزیه و تحلیل محلی داده‌ها ممکن می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/23 13:30",
+      "collected_at": "1405/07/23 21:00",
+      "source": "Embedded Computing",
+      "source_url": "https://www.embedded-computing.com/simatic-ipc-1027e",
+      "tags": [
+        "SIMATIC IPC",
+        "Edge Computing",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه ماژول‌های ورودی و خروجی SIMATIC ET 200SP HA برای صنایع فرآیندی",
+      "summary": "زیمنس خانواده ماژول‌های توزیع‌شده SIMATIC ET 200SP HA را برای استفاده در محیط‌های فرآیندی توسعه داد. این ماژول‌ها امکان نصب در محیط‌های مستعد انفجار را داشته و دارای قابلیت تعویض در زمان کار هستند. این ویژگی باعث افزایش پایداری و کاهش زمان توقف در کارخانه‌های پتروشیمی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/23 14:10",
+      "collected_at": "1405/07/23 21:00",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/et200sp-ha-expansion",
+      "tags": [
+        "SIMATIC ET 200",
+        "Process Automation",
+        "I/O"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهینه‌سازی مصرف انرژی کارخانه‌ها با نسخه جدید Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس با قابلیت‌های جدید تحلیل مصرف انرژی به‌روزرسانی شد. این ابزار به مدیران کارخانه‌ها کمک می‌کند تا نقاط اتلاف انرژی را در خطوط تولید شناسایی کنند. این راهکار ابری نقش مهمی در کمک به صنایع برای دستیابی به اهداف پدایداری و کاهش کربن دارد.",
+      "category": "news",
+      "published_at": "1405/07/23 15:00",
+      "collected_at": "1405/07/23 21:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/insights-hub-energy-update",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری راهبردی زیمنس و فستو برای ارتقای پنوماتیک هوشمند",
+      "summary": "زیمنس و فستو شراکت راهبردی خود را برای توسعه استانداردهای مشترک در تجهیزات پنوماتیک هوشمند اعلام کردند. این همکاری بر یکپارچه‌سازی تیره‌وتبارهای بادی با سیستم‌های کنترل SIMATIC متمرکز است. هدف این پروژه تسهیل راه‌اندازی و نگهداری سیستم‌های ترکیبی الکترومکانیکی و پنوماتیک است.",
+      "category": "company",
+      "published_at": "1405/07/23 16:30",
+      "collected_at": "1405/07/23 21:00",
+      "source": "Robotics & Automation News",
+      "source_url": "https://www.roboticsandautomationnews.com/siemens-festo-partnership",
+      "tags": [
+        "Partnership",
+        "Festo",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش دوقلوی دیجیتال در داروسازی با نسخه جدید نرم‌افزار Tecnomatix",
+      "summary": "نسخه جدید نرم‌افزار Tecnomatix زیمنس با تمرکز بر شبیه‌سازی پیشرفته در صنعت داروسازی عرضه شد. این نرم‌افزار به مهندسان اجازه می‌دهد تا خطوط تولید دارو را پیش از ساخت فیزیکی به صورت کامل مدل‌سازی کنند. این رویکرد به کاهش خطاهای انسانی و تسریع روند اخذ تاییدیه‌های قانونی کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/23 17:45",
+      "collected_at": "1405/07/23 21:00",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/tecnomatix-pharma-update",
+      "tags": [
+        "Tecnomatix",
+        "Digital Twin",
+        "Pharma"
       ]
     }
   ]
