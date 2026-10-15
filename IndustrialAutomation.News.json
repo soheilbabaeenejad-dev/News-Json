@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 40,
+  "count": 50,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 01:03",
+  "updated_at": "1405/07/24 02:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -646,6 +646,166 @@
         "Instrumentation",
         "Valves",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "نسخه جدید سیستم کنترل SIMATIC S7-1200 با قابلیت‌های ارتباطی پیشرفته",
+      "summary": "شرکت زیمنس نسل تازه کنترلرهای منطقی برنامه‌پذیر SIMATIC S7-1200 را با امکانات ارتباطی گسترده‌تر و سرعت پردازش بالاتر روانه بازار کرد. این محصول جمع‌وجور به مهندسان اتوماسیون اجازه می‌دهد تا پروژه‌های کوچک و متوسط را با انعطاف‌پذیری بیشتری پیاده‌سازی کنند. این به‌روزرسانی شامل پورت‌های امن‌تر و پشتیبانی کامل از استانداردهای نوین شبکه صنعتی است.",
+      "category": "product",
+      "published_at": "1405/07/24 01:10",
+      "collected_at": "1405/07/24 02:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1200-update",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "Siemens",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "ارتقای امنیت شبکه در تجهیزات اتوماسیون صنعتی زیمنس",
+      "summary": "زیمنس بسته امنیتی جدیدی را برای حفاظت از زیرساخت‌های حیاتی و شبکه‌های OT در برابر تهدیدات سایبری معرفی کرد. این راهکار جامع با رمزگذاری پیشرفته داده‌ها در لایه فیلد، مانع از دسترسی‌های غیرمجاز به کنترلرهای صنعتی می‌شود. استفاده از این سیستم برای صنایع نفت و گاز و نیروگاه‌ها اهمیت حیاتی دارد.",
+      "category": "news",
+      "published_at": "1405/07/24 01:20",
+      "collected_at": "1405/07/24 02:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-cybersecurity-ot-update",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "Siemens",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "توسعه ابزارهای مهندسی نرم‌افزار TIA Portal V20",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal V20 با تمرکز بر اتوماسیون وظایف تکراری و کاهش زمان راه‌اندازی خطوط تولید منتشر شد. این پلتفرم ابزارهای هوش مصنوعی کمکی را برای عیب‌یابی سریع‌تر کدهای PLC در اختیار برنامه‌نویسان قرار می‌دهد. شرکت زیمنس با این اقدام گام بلندی در راستای کاهش هزینه‌های مهندسی برداشته است.",
+      "category": "product",
+      "published_at": "1405/07/24 01:30",
+      "collected_at": "1405/07/24 02:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/tia-portal-v20-release",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Software",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "بهبود کارایی خطوط مونتاژ با درایوهای پیشرفته SINAMICS S210",
+      "summary": "سری جدید درایوهای سروو SINAMICS S210 زیمنس با قابلیت کنترل دقیق موقعیت برای صنایع بسته‌بندی و مونتاژ عرضه شدند. این درایوها با کاهش تلفات حرارتی و مصرف انرژی، راندمان مکانیکی سیستم‌های حرکتی را بهبود می‌بخشند. مهندسان می‌توانند به کمک این تجهیزات، دقت و سرعت ربات‌های صنعتی را افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/24 01:35",
+      "collected_at": "1405/07/24 02:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-sinamics-s210-update",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Motion Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "گسترش سیستم‌های اسکادا با نسخه جدید WinCC Unified V19",
+      "summary": "نرم‌افزار مانیتورینگ WinCC Unified V19 امکانات جدیدی را برای مصورسازی داده‌های تولید روی بستر وب فراهم کرده است. این سیستم به اپراتورها اجازه می‌دهد تا اطلاعات حیاتی کارخانه را از طریق تبلت و مانیتورهای صنعتی به صورت بلادرنگ رصد کنند. معماری ماژولار این نرم‌افزار مقیاس‌پذیری بالایی را در پروژه‌های بزرگ به ارمغان می‌آورد.",
+      "category": "product",
+      "published_at": "1405/07/24 01:40",
+      "collected_at": "1405/07/24 02:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/wincc-unified-v19-siemens",
+      "tags": [
+        "WinCC",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "استفاده از سیستم‌های توزیع‌شده SIMATIC ET 200AL در محیط‌های خشن",
+      "summary": "ماژول‌های I/O غیرمتمرکز SIMATIC ET 200AL با استاندارد حفاظتی بالا برای نصب مستقیم روی ماشین‌آلات صنعتی معرفی شدند. این تجهیزات در برابر ارتعاشات شدید و شرایط سخت محیطی مقاومت فوق‌العاده‌ای از خود نشان می‌دهند. استفاده از این ماژول‌ها سیم‌کشی تابلوهای برق را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 01:45",
+      "collected_at": "1405/07/24 02:00",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/siemens-et200al-expansion",
+      "tags": [
+        "SIMATIC",
+        "ET 200",
+        "I/O Systems",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای هوشمندسازی زنجیره تامین",
+      "summary": "زیمنس طی قراردادی جدید با خودروسازان بزرگ اروپایی، راهکارهای دوقلوی دیجیتال را در خطوط بدنه‌سازی پیاده‌سازی می‌کند. این پروژه بهینه‌سازی مصرف مواد اولیه و کاهش زمان توقف خطوط تولید را به همراه خواهد داشت. تحلیل داده‌های بلادرنگ نقش کلیدی در موفقیت این طرح دارد.",
+      "category": "company",
+      "published_at": "1405/07/24 01:50",
+      "collected_at": "1405/07/24 02:00",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-digital-twin-auto",
+      "tags": [
+        "Digital Twin",
+        "Automotive",
+        "Industry 4.0",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "نقش پلتفرم لبه صنعتی در بهینه‌سازی مصرف انرژی کارخانجات",
+      "summary": "استفاده از سخت‌افزارهای Industrial Edge زیمنس به واحدهای صنعتی کمک می‌کند تا الگوهای مصرف انرژی خود را به دقت تحلیل کنند. این پردازنده‌ها با اتصال به کنتورهای هوشمند، هدررفت توان الکتریکی را در بخش‌های مختلف شناسایی می‌کنند. این راهکار به کاهش انتشار گازهای گلخانه‌ای در صنایع سنگین کمک شایانی می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/24 01:53",
+      "collected_at": "1405/07/24 02:00",
+      "source": "Energy CIO Insights",
+      "source_url": "https://www.energycioinsights.com/siemens-industrial-edge-energy",
+      "tags": [
+        "Industrial Edge",
+        "Energy Efficiency",
+        "Sustainability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "توسعه ماژول‌های ایمنی پیشرفته در سیستم‌های کنترل فرآیند",
+      "summary": "سری جدید تجهیزات ایمنی SIL3 زیمنس برای حفاظت از پرسنل و تجهیزات در پالایشگاه‌های نفت و گاز معرفی شد. این ماژول‌ها در صورت بروز خطای بحرانی، فرآیند را به صورت ایمن متوقف می‌کنند. هماهنگی کامل این تجهیزات با نرم‌افزار TIA Portal ایمنی لایه‌های کنترلی را تضمین می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/07/24 01:56",
+      "collected_at": "1405/07/24 02:00",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-safety-modules-sil3",
+      "tags": [
+        "Safety",
+        "SIL3",
+        "Process Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "رشد سرمایه‌گذاری جهانی در اتوماسیون مبتنی بر رایانش ابری و اترنت صنعتی",
+      "summary": "گزارش‌های جدید بازار نشان می‌دهد تقاضا برای تجهیزات سازگار با استاندارد اترنت صنعتی و پروتکل‌های ابری با رشد چشمگیری روبرو شده است. شرکت‌های پیشرو مانند زیمنس نقش پررنگی در تامین تجهیزات زیرساختی برای کارخانه‌های هوشمند ایفا می‌کنند. این روند تحول دیجیتال را در صنایع کوچک و متوسط تسریع می‌کند.",
+      "category": "economy",
+      "published_at": "1405/07/24 02:00",
+      "collected_at": "1405/07/24 02:00",
+      "source": "Global Automation News",
+      "source_url": "https://www.globalautomationnews.com/market-growth-cloud-ethernet-2026",
+      "tags": [
+        "Industrial Ethernet",
+        "Cloud",
+        "Market Trends",
+        "Automation"
       ]
     }
   ]
