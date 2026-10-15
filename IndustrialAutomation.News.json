@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 59,
+  "count": 67,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 16:05",
+  "updated_at": "1405/07/23 17:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -951,6 +951,134 @@
         "Tecnomatix",
         "Xcelerator",
         "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261015-001",
+      "title": "معرفی کنترل‌کننده پرقدرت SIMATIC S7-1500 با پردازنده عصبی داخلی",
+      "summary": "شرکت زیمنس از نسل جدید کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 همراه با واحد پردازش عصبی اختصاصی رونمایی کرد. این پردازنده جدید به مهندسان اجازه می‌دهد مدل‌های هوش مصنوعی سبک را مستقیماً روی PLC اجرا کنند. این فناوری دقت پیش‌بینی خطاهای تجهیزات را به شکل قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/23 09:30",
+      "collected_at": "1405/07/23 17:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-npv",
+      "tags": [
+        "SIMATIC S7-1500",
+        "PLC",
+        "Siemens",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261015-002",
+      "title": "بروزرسانی جامع محیط مهندسی TIA Portal V20 با ابزارهای همکاری ابری",
+      "summary": "بسته‌ی نرم‌افزاری مهندسی TIA Portal V20 زیمنس با امکانات وسیع برای کار تیمی ابری و مهندسی همزمان منتشر شد. این نسخه ابزارهای پیشرفته‌ای را برای کاهش زمان راه‌اندازی خطوط تولید و مدیریت متمرکز پروژه‌ها فراهم می‌کند. کاربران اکنون می‌توانند کتابخانه‌های ممیزی‌شده را بین تیم‌های مختلف به اشتراک بگذارند.",
+      "category": "product",
+      "published_at": "1405/07/23 10:15",
+      "collected_at": "1405/07/23 17:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/tia-portal-v20-release",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Engineering",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261015-003",
+      "title": "گسترش قابلیت‌های مانیتورینگ بلادرنگ با نسخه‌ی جدید WinCC Unified V19",
+      "summary": "نسخه‌ی جدید سیستم اسکادای زیمنس یعنی WinCC Unified V19 قابلیت‌های جدیدی را برای تحلیل گرافیکی داده‌های فرآیندی ارائه کرده است. این سیستم با پشتیبانی بهتر از پروتکل‌های وب و امنیت لایه انتقال، نظارت بر کارخانه‌ها را تسهیل می‌کند. اپراتورها اکنون می‌توانند داشبوردهای سفارشی را با سرعت بیشتری ایجاد نمایند.",
+      "category": "product",
+      "published_at": "1405/07/23 11:00",
+      "collected_at": "1405/07/23 17:00",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/wincc-unified-v19-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "Siemens",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261015-004",
+      "title": "تقویت امنیت شبکه‌های صنعتی با سوئیچ‌های مدیریت‌شده جدید SCALANCE",
+      "summary": "سری جدید سوئیچ‌های صنعتی SCALANCE زیمنس با پشتیبانی از پروتکل‌های امنیتی پیشرفته IEC 62443 به بازار معرفی شدند. این تجهیزات ارتباط پایدار و امن را در زیرساخت‌های حیاتی اتوماسیون صنعتی تضمین می‌کنند. استفاده از این سوئیچ‌ها نفوذ به لایه‌های شبکه OT را به شدت دشوار می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/23 11:45",
+      "collected_at": "1405/07/23 17:00",
+      "source": "Automationcom",
+      "source_url": "https://www.automation.com/en-us/articles/scalance-switches-security",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Siemens",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261015-006",
+      "title": "معرفی اینورترهای پیشرفته SINAMICS G260 برای کنترل دقیق درایوها",
+      "summary": "شرکت زیمنس خانواده‌ی جدید اینورترهای فرکانسی SINAMICS G260 را برای کاربردهای سنگین صنعتی به بازار عرضه کرد. این سری از درایوها با قابلیت کنترل برداری پیشرفته، دقت بالایی در تنظیم سرعت الکتروموتورها فراهم می‌کنند. طراحی فشرده این تجهیزات نصب آن‌ها را در تابلوهای کنترل با فضای محدود ساده‌تر می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/23 13:10",
+      "collected_at": "1405/07/23 17:00",
+      "source": "Drive & Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/siemens-sinamics-g260",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Inverter",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-008",
+      "title": "گسترش کاربرد دوقلوی دیجیتال در خودروسازی با نرم‌افزار Tecnomatix",
+      "summary": "یک خودروساز بزرگ اروپایی خطوط تولید خود را با استفاده از نرم‌افزار دوقلوی دیجیتال Tecnomatix زیمنس شبیه‌سازی و بهینه‌سازی کرد. این فناوری امکان تست ربات‌ها و مسیرهای لجستیکی را قبل از اجرای فیزیکی فراهم آورد. به کمک این راهکار، زمان راه‌اندازی خط مونتاژ جدید نزدیک به بیست درصد کاهش یافت.",
+      "category": "industry",
+      "published_at": "1405/07/23 14:45",
+      "collected_at": "1405/07/23 17:00",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/smart-manufacturing/siemens-tecnomatix-automotive",
+      "tags": [
+        "Tecnomatix",
+        "Digital Twin",
+        "Automotive",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-009",
+      "title": "افزایش قابلیت‌های پردازش لبه‌ای با رایانه‌های صنعتی SIMATIC IPC 547G",
+      "summary": "نسخه ارتقایافته رایانه‌های صنعتی SIMATIC IPC 547G با پردازنده‌های نسل جدید اینتل برای پردازش‌های لبه‌ای معرفی شد. این سیستم‌ها به صنایع اجازه می‌دهند داده‌های حجیم سنسورها را در محل کارخانه پردازش کنند. پایداری بالا در شرایط کار مداوم بیست و چهار ساعته از مزایای اصلی این رایانه‌هاست.",
+      "category": "product",
+      "published_at": "1405/07/23 15:30",
+      "collected_at": "1405/07/23 17:00",
+      "source": "Industrial PC News",
+      "source_url": "https://www.industrialpcnews.com/siemens-ipc-547g-edge",
+      "tags": [
+        "SIMATIC IPC",
+        "Edge Computing",
+        "Siemens",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261015-010",
+      "title": "همکاری زیمنس و فستو برای ارتقای استانداردهای پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو در پروژه‌ای مشترک برای توسعه ارتباطات یکپارچه بین سیستم‌های کنترل و تجهیزات پنوماتیک به توافق رسیدند. این همکاری بر پایه استانداردهای ارتباطی باز مانند OPC UA شکل گرفته است تا تبادل داده‌ها را آسان‌تر کند. هدف نهایی این پروژه تسهیل پیاده‌سازی مفاهیم صنعت چهار صفر در کارخانه‌ها است.",
+      "category": "news",
+      "published_at": "1405/07/23 16:15",
+      "collected_at": "1405/07/23 17:00",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/siemens-festo-partnership",
+      "tags": [
+        "Partnership",
+        "Industry 4.0",
+        "OPC UA",
+        "Siemens"
       ]
     }
   ]
