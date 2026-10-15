@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 67,
+  "count": 76,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 17:00",
+  "updated_at": "1405/07/23 17:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1079,6 +1079,150 @@
         "Industry 4.0",
         "OPC UA",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی کنترل‌کننده صنعتی SIMATIC S7-1500 جدید با قابلیت‌های پردازش هوش مصنوعی در لبه شبکه",
+      "summary": "شرکت زیمنس از نسخه جدید کنترل‌کننده SIMATIC S7-1500 مجهز به واحدهای پردازش عصبی داخلی رونمایی کرد. این فناوری به مهندسان اجازه می‌دهد تا الگوریتم‌های یادگیری ماشین را مستقیماً روی PLC اجرا کنند و زمان پاسخگویی سیستم را به شدت کاهش دهند. این ارتقا نقش مهمی در پیش‌بینی خرابی‌ها و افزایش بهره‌وری خطوط تولید خودکار ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/23 08:30",
+      "collected_at": "1405/07/23 17:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-ai-controller",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "آپدیت بزرگ محیط مهندسی TIA Portal V20 با ابزارهای برنامه‌نویسی ابری تیمی",
+      "summary": "زیمنس انتشار نسخه جدید پلتفرم مهندسی TIA Portal V20 را با تمرکز بر همکاری‌های ابری همزمان اعلام کرد. این نسخه ابزارهای مدیریت پروژه پیشرفته‌ای را برای تیم‌های توزیع‌شده فراهم می‌آورد تا سرعت توسعه کدهای اتوماسیون را تا سی درصد افزایش دهند. این به‌روزرسانی گامی بزرگ در جهت تحقق مهندسی یکپارچه و دیجیتال در صنایع تولیدی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 17:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/plc/news/siemens-tia-portal-v20-release",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Software",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش راهکارهای امنیت سایبری صنعتی با نسل جدید فایروال‌های SCALANCE SC-800",
+      "summary": "خط تولید تجهیزات ارتباطی زیمنس با معرفی فایروال‌های صنعتی SCALANCE SC-800 تقویت شد تا امنیت شبکه‌های OT به بالاترین سطح برسد. این ماژول‌ها با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته، از زیرساخت‌های حیاتی در برابر تهدیدات سایبری فزاینده محافظت می‌کنند. نصب آسان و مدیریت متمرکز از ویژگی‌های کلیدی این تجهیزات امنیتی جدید است.",
+      "category": "product",
+      "published_at": "1405/07/23 10:00",
+      "collected_at": "1405/07/23 17:01",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-sc800",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT",
+        "Network"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی کارخانه‌ها با نسخه توسعه‌یافته پلتفرم Insights Hub",
+      "summary": "نسخه جدید پلتفرم ابری Insights Hub زیمنس ابزارهای تحلیلی جدیدی را برای پایش دقیق مصرف انرژی در کارخانه‌ها ارائه کرده است. این سیستم با جمع‌آوری داده‌های لحظه‌ای از کنتورها و درایوها، الگوهای هدررفت انرژی را شناسایی و راهکارهای بهینه‌سازی ارائه می‌دهد. این راهکار ابری به صنایع کمک می‌کند تا به اهداف پردستاوردهای کربن‌زدایی خود سریع‌تر دست یابند.",
+      "category": "industry",
+      "published_at": "1405/07/23 10:45",
+      "collected_at": "1405/07/23 17:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-insights-hub-energy-update",
+      "tags": [
+        "Insights Hub",
+        "Energy Efficiency",
+        "Cloud",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی اینورترهای پیشرفته SINAMICS G280 برای کنترل دقیق درایوهای سنگین صنعتی",
+      "summary": "زیمنس خانواده مبدل‌های فرکانسی خود را با معرفی مدل SINAMICS G280 برای کاربردهای سنگین توسعه داد. این سری جدید با بهره‌گیری از الگوریتم‌های پیشرفته کنترل بردار، راندمان مصرف موتورهای الکتریکی را به طور چشمگیری افزایش می‌دهد. این اینورترها به ویژه برای صنایع سیمان، فولاد و پمپاژهای بزرگ با شرایط سخت محیطی طراحی شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/23 11:30",
+      "collected_at": "1405/07/23 17:01",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesandcontrols.com/news/fullstory/siemens-launches-sinamics-g280",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Inverter",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه ماژول‌های ورودی/خروجی توزیع‌شده SIMATIC ET 200SP HA برای محیط‌های فرآیندی",
+      "summary": "خانواده سیستم‌های توزیع‌شده SIMATIC ET 200SP HA زیمنس با ماژول‌های جدید برای صنایع فرآیندی گسترش یافت. این تجهیزات با قابلیت Hot Swapping و پوشش حفاظتی مقاوم در برابر خوردگی، پایداری شبکه‌های کنترلی را تضمین می‌کنند. این ماژول‌ها برای استفاده در صنایع نفت، گاز و پتروشیمی که به بالاترین سطح دسترسی نیاز دارند، بهینه‌سازی شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/23 13:00",
+      "collected_at": "1405/07/23 17:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/automation/siemens-et-200sp-ha-expansion",
+      "tags": [
+        "SIMATIC ET 200",
+        "Process Automation",
+        "I/O",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "افزایش قابلیت‌های پردازش لبه‌ای با رایانه‌های صنعتی جدید SIMATIC IPC 1027E",
+      "summary": "زیمنس رایانه صنعتی قدرتمند SIMATIC IPC 1027E را برای پردازش‌های سنگین در لبه شبکه معرفی کرد. این دستگاه با پردازنده‌های نسل جدید اینتل و طراحی بدون فن، عملکرد پایداری را در محیط‌های پر از لرزش و گردوغبار کارخانه ارائه می‌دهد. این سخت‌افزار بستر مناسبی برای اجرای برنامه‌های تحلیل داده و یادگیری ماشین در کارخانه‌های هوشمند فراهم می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/23 13:45",
+      "collected_at": "1405/07/23 17:01",
+      "source": "Industrial PC News",
+      "source_url": "https://www.industrial-pc-news.com/siemens-ipc-1027e-launch",
+      "tags": [
+        "SIMATIC IPC",
+        "Edge Computing",
+        "Hardware",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری راهبردی زیمنس و فستو برای ارتقای استانداردهای پنوماتیک هوشمند در خطوط تولید",
+      "summary": "شرکت‌های زیمنس و فستو توافق‌نامه همکاری جدیدی را برای یکپارچه‌سازی تجهیزات پنوماتیک با کنترل‌کننده‌های SIMATIC امضا کردند. این همکاری منجر به توسعه بلوک‌های نرم‌افزاری استاندارد در TIA Portal برای کنترل دقیق و بهینه‌سازی مصرف هوای فشرده می‌شود. این اقدام به خودکارسازان کمک می‌کند تا زمان طراحی سیستم‌های ترکیبی الکترومکانیکی و پنوماتیکی را به نصف کاهش دهند.",
+      "category": "company",
+      "published_at": "1405/07/23 14:30",
+      "collected_at": "1405/07/23 17:01",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/siemens-festo-pneumatics-partnership",
+      "tags": [
+        "Partnership",
+        "Pneumatics",
+        "Festo",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش کاربرد دوقلوی دیجیتال در صنعت داروسازی با نسخه جدید نرم‌افزار Tecnomatix",
+      "summary": "زیمنس از قابلیت‌های جدید نرم‌افزار Tecnomatix برای شبیه‌سازی پیشرفته خطوط تولید دارویی رونمایی کرد. این ابزار به شرکت‌های داروسازی امکان می‌دهد تا چیدمان اتاق‌های تمیز و مسیرهای انتقال مواد را پیش از ساخت فیزیکی اعتبارسنجی کنند. این راهکار به طور چشمگیری زمان ورود داروهای جدید به بازار را تسریع کرده و هزینه‌های انطباق با استانداردهای GMP را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/23 15:15",
+      "collected_at": "1405/07/23 17:01",
+      "source": "Pharmaceutical Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-tecnomatix-pharma-digital-twin",
+      "tags": [
+        "Tecnomatix",
+        "Digital Twin",
+        "Pharma",
+        "Simulation"
       ]
     }
   ]
