@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 20,
+  "count": 30,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 15:00",
+  "updated_at": "1405/07/23 15:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -327,6 +327,166 @@
         "محیط زیست",
         "Siemens",
         "صنایع سبز"
+      ]
+    },
+    {
+      "id": "ia-20261015-001",
+      "title": "معرفی نسل جدید ماژول‌های ارتباطی SCALANCE برای شبکه‌های صنعتی پرسرعت",
+      "summary": "شرکت زیمنس از نسل جدید سوئیچ‌ها و ماژول‌های ارتباطی سری SCALANCE با پشتیبانی از پروتکل‌های امنیتی پیشرفته رونمایی کرد. این تجهیزات به مدیران شبکه اجازه می‌دهند تا تبادل داده‌ها را در محیط‌های صنعتی سخت با بالاترین سرعت و پایداری انجام دهند. این توسعه نقش مهمی در یکپارچه‌سازی امن زیرساخت‌های فناوری عملیاتی و شبکه سازمانی ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/23 10:30",
+      "collected_at": "1405/07/23 15:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/scalance-new-industrial-security",
+      "tags": [
+        "SCALANCE",
+        "Industrial Ethernet",
+        "OT Security",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-002",
+      "title": "ارتقای قابلیت‌های هوش مصنوعی در محیط مهندسی TIA Portal V19 SP1",
+      "summary": "بسته‌ی به‌روزرسانی جدید برای نرم‌افزار جامع مهندسی TIA Portal V19 منتشر شد که ابزارهای کمکی مبتنی بر هوش مصنوعی را توسعه می‌دهد. مهندسان اتوماسیون اکنون می‌توانند کدهای پی‌ال‌سی را با سرعت بیشتری عیب‌یابی کرده و ساختار پروژه‌های بزرگ را بهینه سازند. این قابلیت نوآورانه زمان توقف خطوط تولید را به طور قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/23 11:15",
+      "collected_at": "1405/07/23 15:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/plc/news/siemens-tia-portal-v19-sp1-ai",
+      "tags": [
+        "TIA Portal",
+        "SIMATIC",
+        "Engineering",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261015-003",
+      "title": "گسترش راهکارهای دوقلوی دیجیتال در صنایع داروسازی با پلتفرم Xcelerator",
+      "summary": "زیمنس قرارداد همکاری جدیدی برای پیاده‌سازی دوقلوی دیجیتال فرآیندی با یکی از شرکت‌های پیشرو داروسازی امضا کرد. این پروژه با استفاده از نرم‌افزار Tecnomatix و Insights Hub طراحی خطوط تولید را پیش از ساخت فیزیکی اعتبارسنجی می‌کند. این رویکرد نوآورانه سرعت ورود داروهای جدید به بازار را تسریع می‌بخشد.",
+      "category": "industry",
+      "published_at": "1405/07/23 12:00",
+      "collected_at": "1405/07/23 15:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-xcelerator-pharma-digital-twin",
+      "tags": [
+        "Digital Twin",
+        "Xcelerator",
+        "Pharma",
+        "Tecnomatix"
+      ]
+    },
+    {
+      "id": "ia-20261015-004",
+      "title": "بهینه‌سازی مصرف آب و انرژی در کارخانه‌ها با سیستم مانیتورینگ WinCC Unified",
+      "summary": "نسخه جدید سیستم اسکادا WinCC Unified امکانات ویژه‌ای برای پایش دقیق منابع مصرفی و پایداری محیطی اضافه کرده است. اپراتورها قادر خواهند بود داده‌های انرژی را به صورت بلادرنگ روی پنل‌های لمسی و مرورگرهای وب تحلیل کنند. این راهکار به صنایع کمک می‌کند تا به اهداف کربن‌زدایی و کاهش هزینه‌های عملیاتی دست یابند.",
+      "category": "product",
+      "published_at": "1405/07/23 12:45",
+      "collected_at": "1405/07/23 15:01",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/news/siemens-wincc-unified-energy-monitoring",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "Energy Efficiency",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261015-005",
+      "title": "توسعه روبات‌های متحرک خودران با سیستم کنترل ایمنی SIMATIC Safety Integrated",
+      "summary": "نسل جدید AGVها و AMRهای صنعتی به کنترل‌کننده‌های ایمنی یکپارچه SIMATIC مجهز شدند تا در محیط‌های شلوغ کارگاهی با امنیت کامل تردد کنند. این ماژول‌های ایمنی کوچک امکان توقف اضطراری دقیق و تشخیص موانع را با استانداردهای SIL 3 فراهم می‌سازند. این تحول لجستیک داخلی کارخانه‌ها را به شدت متحول می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/23 13:20",
+      "collected_at": "1405/07/23 15:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/2026/10/siemens-safety-integrated-amr/24510/",
+      "tags": [
+        "AGV",
+        "Safety Integrated",
+        "SIMATIC",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261015-006",
+      "title": "افزایش قابلیت‌های لبه‌ی شبکه با سخت‌افزارهای جدید Industrial Edge برای پردازش محلی",
+      "summary": "دستگاه‌های سخت‌افزاری جدید زیمنس برای پردازش‌های لبه شبکه (Edge Computing) با قدرت پردازشی بالاتر عرضه شدند. این سیستم‌ها به صنایع اجازه می‌دهند الگوریتم‌های یادگیری ماشین را مستقیماً روی ماشین‌آلات اجرا کنند. این فرآیند وابستگی به سرورهای ابری را کاهش داده و زمان پاسخگویی را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/23 13:50",
+      "collected_at": "1405/07/23 15:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/edge-computing/siemens-expands-industrial-edge-hardware",
+      "tags": [
+        "Industrial Edge",
+        "Edge Computing",
+        "Machine Learning",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-007",
+      "title": "استانداردسازی ارتباطات صنعتی با توسعه پروتکل‌های مبتنی بر OPC UA TSN",
+      "summary": "کنسرسیوم‌های بین‌المللی اتوماسیون با همکاری زیمنس نسخه‌های جدیدی از استاندارد ارتباطی OPC UA over TSN را برای تجهیزات سطح فیلد نهایی کردند. این فناوری بستر ارتباطی قطعی و بی‌درنگ را برای اتصال تجهیزات مختلف برندها فراهم می‌سازد. این اقدام گامی بزرگ در جهت تحقق اینترنت اشیاء صنعتی باز و یکپارچه است.",
+      "category": "regulation",
+      "published_at": "1405/07/23 14:10",
+      "collected_at": "1405/07/23 15:01",
+      "source": "Automation Magazine",
+      "source_url": "https://www.automation.com/en-us/articles/2026-10/opc-ua-tsn-standardization-update",
+      "tags": [
+        "OPC UA",
+        "TSN",
+        "Fieldbus",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261015-008",
+      "title": "بهبود پایداری شبکه توزیع نیرو با ماژول‌های ارتباطی جدید SIMATIC ET 200AL",
+      "summary": "ماژول‌های I/O توزیع‌شده سری SIMATIC ET 200AL با بدنه‌های مقاوم در برابر شرایط محیطی سخت برای پروژه‌های توزیع انرژی معرفی شدند. این ماژول‌ها نصب سیم‌کشی را در تابلوهای برق به حداقل رسانده و عیب‌یابی را از راه دور ساده‌تر می‌کنند. این تجهیزات نقش کلیدی در هوشمندسازی پست‌های توزیع برق دارند.",
+      "category": "product",
+      "published_at": "1405/07/23 14:30",
+      "collected_at": "1405/07/23 15:01",
+      "source": "Electrical Construction",
+      "source_url": "https://www.ecmag.com/section/systems/siemens-et200al-distributed-io-expansion",
+      "tags": [
+        "SIMATIC ET 200",
+        "Decentralized Peripherals",
+        "Power Distribution",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-009",
+      "title": "نقش مبدل‌های فرکانسی SINAMICS G180 در کاهش تلفات انرژی پمپ‌ها و فن‌ها",
+      "summary": "نسل جدید اینورترهای صنعتی SINAMICS G180 با راندمان انرژی بالاتر برای کاربردهای سنگین در صنایع نفت و گاز معرفی شدند. این درایوها با کنترل دقیق سرعت موتورهای القایی، مصرف برق را تا سی درصد کاهش می‌دهند. این تجهیزات با نرم‌افزارهای مهندسی زیمنس سازگاری کامل دارند.",
+      "category": "product",
+      "published_at": "1405/07/23 14:45",
+      "collected_at": "1405/07/23 15:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sinamics-g180-energy-saving",
+      "tags": [
+        "SINAMICS",
+        "Inverter",
+        "Drive Systems",
+        "Energy Saving"
+      ]
+    },
+    {
+      "id": "ia-20261015-010",
+      "title": "آموزش نسل آینده مهندسان اتوماسیون با تجهیز آزمایشگاه‌های دانشگاهی به فناوری TIA Portal",
+      "summary": "شرکت زیمنس در قالب یک برنامه‌ی جهانی، تجهیزات اتوماسیون صنعتی شامل پی‌ال‌سی‌های SIMATIC و نرم‌افزارهای مهندسی را به دانشگاه‌های صنعتی اهدا کرد. این ابتکار به دانشجویان اجازه می‌دهد تا با استانداردهای روز دنیای صنعت آشنا شوند. هدف از این طرح رفع کمبود نیروی متخصص ماهر در حوزه دیجیتال‌سازی کارخانه‌ها است.",
+      "category": "society",
+      "published_at": "1405/07/23 15:00",
+      "collected_at": "1405/07/23 15:01",
+      "source": "Education Technology",
+      "source_url": "https://www.edtechmagazine.com/highered/article/siemens-university-automation-lab-partnership",
+      "tags": [
+        "Education",
+        "TIA Portal",
+        "Workforce Development",
+        "Siemens"
       ]
     }
   ]
