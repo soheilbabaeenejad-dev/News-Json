@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 49,
+  "count": 59,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 16:01",
+  "updated_at": "1405/07/23 16:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -791,6 +791,166 @@
         "Tecnomatix",
         "Digital Twin",
         "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی کنترل‌کننده جدید SIMATIC S7-1500 با پردازنده‌های هوش مصنوعی داخلی",
+      "summary": "شرکت زیمنس از نسل تازه کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 مجهز به پردازنده‌های عصبی برای اجرای الگوریتم‌های هوش مصنوعی رونمایی کرد. این پردازنده‌ها امکان تحلیل داده‌های سنسورها را مستقیماً در لبه شبکه فراهم می‌کنند. این نوآوری زمان واکنش سیستم را به شدت کاهش داده و به پیش‌بینی خرابی تجهیزات صنعتی پیش از وقوع کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/23 08:30",
+      "collected_at": "1405/07/23 16:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-ai-controllers",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "بروزرسانی اساسی پلتفرم مهندسی TIA Portal V20 با ابزارهای ابری مشترک",
+      "summary": "نسخه جدید پلتفرم مهندسی اتوماسیون زیمنس یعنی TIA Portal V20 با قابلیت‌های پیشرفته مدیریت پروژه ابری منتشر شد. این نسخه امکان کار تیمی همزمان مهندسان نرم‌افزار و سخت‌افزار را روی یک پروژه واحد فراهم می‌سازد. به‌کارگیری این ابزار جدید باعث افزایش بهره‌وری و کاهش چشمگیر زمان راه‌اندازی خطوط تولید در کارخانه‌های هوشمند می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 16:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/software/news/siemens-tia-portal-v20",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Software",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش راهکارهای امنیت سایبری OT با نسل جدید فایروال‌های SCALANCE S",
+      "summary": "زیمنس سبد محصولات امنیت شبکه صنعتی خود را با معرفی سری جدید فایروال‌های SCALANCE S تقویت کرد. این تجهیزات برای حفاظت از شبکه‌های حساس صنعتی در برابر حملات سایبری پیچیده طراحی شده‌اند و از استانداردهای سخت‌گیرانه IEC 62443 پیروی می‌کنند. استفاده از این ماژول‌ها پایداری ارتباطات در زیرساخت‌های حیاتی اتوماسیون را تضمین می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/23 10:00",
+      "collected_at": "1405/07/23 16:05",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-s-firewall",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی کارخانه‌ها با نسخه توسعه‌یافته Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به قابلیت‌های جدیدی برای پایش لحظه‌ای و تحلیل مصرف انرژی در واحدهای صنعتی مجهز شد. این ابزار با جمع‌آوری داده‌های مصرف از کنتورها و اینورترها، راهکارهای بهینه‌سازی خودکار را پیشنهاد می‌دهد. این سیستم به شرکت‌ها کمک می‌کند تا علاوه بر کاهش هزینه‌های عملیاتی، به اهداف کربن‌زدایی خود دست یابند.",
+      "category": "news",
+      "published_at": "1405/07/23 10:45",
+      "collected_at": "1405/07/23 16:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/article/siemens-insights-hub-energy",
+      "tags": [
+        "Insights Hub",
+        "Energy Efficiency",
+        "Cloud",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی اینورترهای پیشرفته SINAMICS G240 برای کنترل دقیق درایوهای صنعتی",
+      "summary": "شرکت زیمنس اینورترهای فرکانسی جدید سری SINAMICS G240 را برای کاربردهای نیازمند دقت بالا در کنترل حرکت معرفی کرد. این مدل‌ها دارای قابلیت‌های ایمنی یکپارچه گسترده و ارتباطات پروفینت پرسرعت هستند. طراحی ماژولار این درایوها نصب و نگهداری آن‌ها را در فضاهای محدود صنعتی بسیار آسان‌تر کرده است.",
+      "category": "product",
+      "published_at": "1405/07/23 11:20",
+      "collected_at": "1405/07/23 16:05",
+      "source": "Drive & Control",
+      "source_url": "https://www.driveandcontrol.co.uk/news/siemens-sinamics-g240",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Inverter",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای سیستم‌های اسکادا با انتشار نسخه جدید WinCC Unified V19 SP1",
+      "summary": "بسته‌ی نرم‌افزاری WinCC Unified V19 SP1 با امکانات گرافیکی نوین و وب‌پایه توسط زیمنس عرضه شد. این نسخه ابزارهای گزارش‌گیری پیشرفته‌تری را برای اپراتورهای خطوط تولید فراهم می‌کند و سازگاری بهتری با دستگاه‌های موبایل دارد. این توسعه مانیتورینگ فرآیندهای صنعتی را از راه دور امن‌تر و کاربرپسندتر می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/23 12:05",
+      "collected_at": "1405/07/23 16:05",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-wincc-unified-v19-sp1",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه رایانه‌های صنعتی قدرتمند SIMATIC IPC 547G برای پردازش‌های لبه‌ای",
+      "summary": "نسخه جدید رایانه‌های صنعتی SIMATIC IPC با پردازنده‌های نسل جدید اینتل برای پردازش‌های سنگین در محیط کارخانه معرفی شد. این سیستم‌ها برایتون‌گذاری در شرایط سخت محیطی مانند لرزش و گرد و غبار بالا طراحی شده‌اند. این سخت‌افزارها بستری مطمئن برای اجرای نرم‌افزارهای Industrial Edge و دوقلوهای دیجیتال محلی فراهم می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/23 13:00",
+      "collected_at": "1405/07/23 16:05",
+      "source": "Industrial PC",
+      "source_url": "https://www.industrial-pc.com/news/siemens-simatic-ipc-edge",
+      "tags": [
+        "SIMATIC IPC",
+        "Industrial Edge",
+        "Hardware",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش ماژول‌های توزیع‌شده SIMATIC ET 200AL برای نصب در فضاهای فشرده",
+      "summary": "زیمنس سری جدید ماژول‌های ورودی و خروجی توزیع‌شده SIMATIC ET 200AL را با درجه حفاظتی بالا عرضه کرد. این ماژول‌ها بدون نیاز به تابلوی برق و مستقیماً روی بدنه ماشین‌آلات نصب می‌شوند. این ویژگی باعث کاهش طول کابل‌کشی، صرفه‌جویی در فضای فیزیکی و کاهش هزینه‌های نصب در خطوط تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/23 13:40",
+      "collected_at": "1405/07/23 16:05",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/story/siemens-et-200al-distributed",
+      "tags": [
+        "SIMATIC ET 200",
+        "I/O",
+        "Fieldbus",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری راهبردی زیمنس و فستو در توسعه استانداردهای پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو توافقنامه جدیدی را برای یکپارچه‌سازی تجهیزات پنوماتیک با شبکه‌های اتوماسیون مبتنی بر PROFINET امضا کردند. این همکاری به توسعه ماژول‌های کنترلی مشترک برای مانیتورینگ وضعیت مصرف هوا منجر می‌شود. هدف از این پروژه کاهش اتلاف انرژی و افزایش ضریب اطمینان در ماشین‌آلات بسته‌بندی است.",
+      "category": "news",
+      "published_at": "1405/07/23 14:30",
+      "collected_at": "1405/07/23 16:05",
+      "source": "Design World",
+      "source_url": "https://www.designworld.com/siemens-festo-pneumatics-partnership",
+      "tags": [
+        "Partnership",
+        "PROFINET",
+        "Pneumatics",
+        "Festo"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "پیاده‌سازی موفق دوقلوی دیجیتال در خطوط مونتاژ باتری خودروهای برقی",
+      "summary": "یکی از خودروسازان بزرگ اروپایی با استفاده از نرم‌افزار Tecnomatix و پلتفرم Xcelerator زیمنس، خط تولید باتری خود را شبیه‌سازی کرد. این دوقلوی دیجیتال امکان تست و بهینه‌سازی فرآیندهای رباتیک را پیش از راه‌اندازی فیزیکی فراهم کرد. این پروژه زمان ورود محصول جدید به بازار را به نصف کاهش داد.",
+      "category": "industry",
+      "published_at": "1405/07/23 15:15",
+      "collected_at": "1405/07/23 16:05",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-digital-twin-ev",
+      "tags": [
+        "Digital Twin",
+        "Tecnomatix",
+        "Xcelerator",
+        "Automotive"
       ]
     }
   ]

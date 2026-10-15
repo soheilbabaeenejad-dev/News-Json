@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 50,
+  "count": 51,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 16:01",
+  "updated_at": "1405/07/23 16:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -778,6 +778,21 @@
         "استاندارد",
         "دیپ‌فیک",
         "اخبار جعلی"
+      ]
+    },
+    {
+      "id": "ai-20261015-001",
+      "title": "معرفی مدل زبانی جدید Mistral با قابلیت پردازش بومی اسناد تصویری",
+      "summary": "شرکت میسترال AI نسخه جدیدی از مدل زبانی خود را با تمرکز بر درک همزمان متن و تصویر معرفی کرد. این مدل قادر است اسناد پیچیده گرافیکی و نمودارها را با دقت بالایی تحلیل کند. این قابلیت جدید به توسعه‌دهندگان اجازه می‌دهد تا اپلیکیشن‌های تحلیل داده کارآمدتری بسازند.",
+      "category": "product",
+      "published_at": "1405/07/23 10:15",
+      "collected_at": "1405/07/23 16:05",
+      "source": "Mistral Blog",
+      "source_url": "https://mistral.ai/news/new-multimodal-model",
+      "tags": [
+        "Mistral",
+        "مدل چندوجهی",
+        "هوش مصنوعی"
       ]
     }
   ]
