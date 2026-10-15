@@ -1,12 +1,13 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "topic": "industrial-automation",
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
-  "interval_hours": 2,
-  "count": 10,
+  "interval_hours": 1,
+  "count": 20,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 14:04",
+  "updated_at": "1405/07/23 15:00",
+  "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
       "id": "ia-20261015-01",
@@ -166,6 +167,166 @@
         "HMI",
         "Panel",
         "Process Industry"
+      ]
+    },
+    {
+      "id": "ia-20261015-001",
+      "title": "آپدیت جدید TIA Portal V19 با ابزارهای هوش مصنوعی مهندسی",
+      "summary": "شرکت زیمنس نسخه جدید محیط مهندسی TIA Portal V19 را با امکانات پیشرفته هوش مصنوعی عرضه کرد. این بروزرسانی به مهندسان کمک می‌کند تا کدهای PLC را با سرعت بیشتری نوشته و خطاهای منطقی را به‌طور خودکار شناسایی کنند. این قابلیت نقش مهمی در کاهش زمان راه‌اندازی خطوط تولید و بهینه‌سازی پروژه‌های بزرگ صنعتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/23 08:30",
+      "collected_at": "1405/07/23 15:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/siemens-tia-portal-v19-ai",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "PLC",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ia-20261015-002",
+      "title": "معرفی کنترل‌کننده صنعتی SIMATIC S7-1200 G2 با قابلیت‌های ارتباطی نوین",
+      "summary": "نسخه جدید پی‌ال‌سی‌های فشرده سیماتیک با نام SIMATIC S7-1200 G2 معرفی شد. این تجهیزات از پروتکل‌های ارتباطی پیشرفته صنعتی و امنیت سایبری داخلی پشتیبانی می‌کنند. این کنترل‌کننده برای ماشین‌سازان و اتوماسیون مقیاس کوچک طراحی شده است تا کارایی را افزایش دهد.",
+      "category": "product",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 15:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/hardware/controllers/simatic-s7-1200-g2",
+      "tags": [
+        "SIMATIC S7-1200",
+        "Siemens",
+        "کنترل‌کننده",
+        "سخت‌افزار"
+      ]
+    },
+    {
+      "id": "ia-20261015-003",
+      "title": "گسترش قابلیت‌های مانیتورینگ در سیستم‌های اسکادا WinCC Unified",
+      "summary": "پلتفرم نرم‌افزاری SIMATIC WinCC Unified زیمنس بروزرسانی تازه‌ای برای پایش فرآیندهای صنعتی دریافت کرد. این سیستم قابلیت‌های وب‌بیس را تقویت کرده و امکان دسترسی امن اپراتورها را به تصاویر گرافیکی فراهم می‌سازد. این تغییرات موجب بهبود نظارت بر خطوط تولید و تصمیم‌گیری سریع‌تر مدیران می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/23 10:00",
+      "collected_at": "1405/07/23 15:00",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/news/siemens-wincc-unified-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "مانیتورینگ"
+      ]
+    },
+    {
+      "id": "ia-20261015-004",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با راهکار جدید Insights Hub",
+      "summary": "راهکار ابری Insights Hub زیمنس برای مدیریت انرژی و پایداری صنعتی توسعه یافت. این ابزار داده‌های مصرف برق و گاز را از تجهیزات میدانی جمع‌آوری و تحلیل می‌کند. این فناوری به واحدهای تولیدی کمک می‌کند تا ردپای کربن خود را کاهش داده و هزینه‌های عملیاتی را به حداقل برسانند.",
+      "category": "industry",
+      "published_at": "1405/07/23 10:45",
+      "collected_at": "1405/07/23 15:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/smart-manufacturing/insights-hub-energy-management",
+      "tags": [
+        "Insights Hub",
+        "MindSphere",
+        "انرژی",
+        "اینترنت اشیاء"
+      ]
+    },
+    {
+      "id": "ia-20261015-005",
+      "title": "همکاری راهبردی زیمنس و ان‌ویدیا در توسعه دوقلوی دیجیتال صنعتی",
+      "summary": "شرکت‌های زیمنس و ان‌ویدیا همکاری خود را برای توسعه محیط‌های صنعتی سه‌بعدی و متاورس صنعتی گسترش دادند. این پلتفرم مشترک امکان شبیه‌سازی دقیق کارخانه‌ها را با کمک هوش مصنوعی فراهم می‌سازد. این فناوری خطاهای طراحی را پیش از ساخت فیزیکی کاهش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/23 11:20",
+      "collected_at": "1405/07/23 15:00",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/siemens-nvidia-digital-twin",
+      "tags": [
+        "دوقلوی دیجیتال",
+        "NVIDIA",
+        "Siemens",
+        "شبیه‌سازی"
+      ]
+    },
+    {
+      "id": "ia-20261015-006",
+      "title": "افزایش امنیت سایبری تجهیزات OT با ماژول‌های حفاظتی جدید SCALANCE",
+      "summary": "سیمنس خانواده تجهیزات شبکه صنعتی SCALANCE را با استانداردهای امنیتی سخت‌گیرانه‌تری عرضه کرد. این سوئیچ‌ها و روترها از شبکه‌های زیرساختی در برابر حملات سایبری محافظت می‌کنند. این رویکرد برای حفاظت از شبکه‌های اتوماسیون صنعتی در برابر تهدیدات مدرن حیاتی است.",
+      "category": "regulation",
+      "published_at": "1405/07/23 12:00",
+      "collected_at": "1405/07/23 15:00",
+      "source": "Industrial Cyber",
+      "source_url": "https://www.industrialcyber.co/siemens-scalance-security-modules",
+      "tags": [
+        "SCALANCE",
+        "امنیت سایبری",
+        "OT",
+        "شبکه صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261015-007",
+      "title": "معرفی اینورترهای پیشرفته SINAMICS G220 برای کنترل حرکت دقیق",
+      "summary": "نسخه‌های جدید اینورترهای فرکانسی SINAMICS G220 با قابلیت اتصال کامل به محیط دیجیتال معرفی شدند. این درایوها از پلتفرم TIA Portal پشتیبانی کرده و نصب و راه‌اندازی را ساده‌تر می‌کنند. این تجهیزات راندمان سیستم‌های حرکتی و موتورهای الکتریکی را به طور چشمگیری افزایش می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/23 12:40",
+      "collected_at": "1405/07/23 15:00",
+      "source": "Drive & Control",
+      "source_url": "https://www.driveandcontrol.co.uk/news/sinamics-g220-launch",
+      "tags": [
+        "SINAMICS",
+        "درایو",
+        "اینورتر",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-008",
+      "title": "نقش ربات‌های صنعتی متحرک در لجستیک هوشمند کارخانه‌های سیمنس",
+      "summary": "کارخانه‌های هوشمند زیمنس در آلمان از سیستم‌های رباتیک متحرک مستقل برای حمل قطعات استفاده می‌کنند. این ربات‌ها با سیستم‌های برنامه‌ریزی تولید یکپارچه شده‌اند تا جریان مواد را تسریع کنند. این فناوری انعطاف‌پذیری خطوط مونتاژ را به شکل قابل توجهی بهبود بخشیده است.",
+      "category": "industry",
+      "published_at": "1405/07/23 13:10",
+      "collected_at": "1405/07/23 15:00",
+      "source": "Factory Automation",
+      "source_url": "https://www.factoryautomation.com/amr-smart-factory-logistics",
+      "tags": [
+        "رباتیک",
+        "AGV",
+        "لجستیک",
+        "هوشمندسازی"
+      ]
+    },
+    {
+      "id": "ia-20261015-009",
+      "title": "توسعه ماژول‌های توزیع‌شده SIMATIC ET 200SP برای محیط‌های سخت",
+      "summary": "سیمنس سبد محصولات I/O توزیع‌شده خود را با ماژول‌های جدید SIMATIC ET 200SP توسعه داد. این تجهیزات مقاومت بالایی در برابر لرزش و دماهای شدید دارند و فضای کم تابلویی اشغال می‌کنند. این ویژگی‌ها باعث کاهش هزینه‌های سیم‌کشی و افزایش پایداری سیستم‌های کنترل می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/23 13:50",
+      "collected_at": "1405/07/23 15:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-et-200sp-expansion",
+      "tags": [
+        "SIMATIC ET 200SP",
+        "I/O",
+        "Siemens",
+        "تابلو برق"
+      ]
+    },
+    {
+      "id": "ia-20261015-010",
+      "title": "راهکارهای جدید زیمنس برای گذار به صنایع پایدار و سبز",
+      "summary": "مدیران ارشد زیمنس در نشست اخیر فناوری‌های سبز بر اهمیت دیجیتالی‌سازی برای کاهش انتشار کربن تأکید کردند. این شرکت راهکارهای جدیدی را برای بازiابی انرژی در فرآیندهای صنعتی معرفی نمود. این اقدامات به صنایع سنگین کمک می‌کند تا به اهداف توسعه پایدار دست یابند.",
+      "category": "economy",
+      "published_at": "1405/07/23 14:30",
+      "collected_at": "1405/07/23 15:00",
+      "source": "CleanTech News",
+      "source_url": "https://www.cleantechnews.com/siemens-sustainable-industry-solutions",
+      "tags": [
+        "پایداری",
+        "محیط زیست",
+        "Siemens",
+        "صنایع سبز"
       ]
     }
   ]
