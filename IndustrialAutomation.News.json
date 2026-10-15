@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 59,
+  "count": 65,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 02:01",
+  "updated_at": "1405/07/24 02:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -950,6 +950,96 @@
         "SCALANCE",
         "Cybersecurity",
         "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "عرضه ماژول‌های ارتباطی جدید برای کنترلرهای SIMATIC S7-1500",
+      "summary": "شرکت زیمنس ماژول‌های ارتباطی جدیدی را برای خانواده کنترلرهای قابل برنامه‌ریزی SIMATIC S7-1500 معرفی کرد. این ماژول‌ها امکان تبادل داده با سرعت بالا را در شبکه‌های صنعتی فراهم کرده و امنیت سایبری را بهبود می‌بخشند. مهندسان اتوماسیون می‌توانند با استفاده از این تجهیزات، یکپارچه‌سازی سیستم‌های کنترل را با حداقل رساندن هزینه‌ها در پروژه‌های صنعتی.txt سهولت بیشتری انجام دهند.",
+      "category": "product",
+      "published_at": "1405/07/24 01:10",
+      "collected_at": "1405/07/24 02:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s71500-communication-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای پلتفرم مانیتورینگ WinCC Unified برای نظارت پیشرفته",
+      "summary": "نسخه جدید نرم‌افزار مانیتورینگ WinCC Unified زیمنس با امکانات ویژه‌ای برای اتاق‌های فرمان صنعتی عرضه شد. این نسخه ابزارهای تجسم‌سازی پیشرفته و سازگاری بهتری با وب ارائه می‌دهد. این تغییرات نظارت بر خطوط تولید بزرگ را دقیق‌تر ساخته و زمان پاسخگویی اپراتورها را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/24 01:20",
+      "collected_at": "1405/07/24 02:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-wincc-unified-update",
+      "tags": [
+        "SCADA",
+        "WinCC Unified",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف انرژی در کمپرسورها با درایورهای SINAMICS G150",
+      "summary": "استفاده از درایورهای صنعتی SINAMICS G150 زیمنس در صنایع پتروشیمی موجب کاهش چشمگیر تلفات انرژی شده است. این تجهیزات با کنترل دقیق دور موتور، راندمان کلی سیستم‌های پمپاژ را افزایش می‌دهند. این فناوری گامی مهم در راستای پایداری و کاهش هزینه‌های عملیاتی کارخانجات بزرگ محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/24 01:30",
+      "collected_at": "1405/07/24 02:04",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-sinamics-g150-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش سیستم‌های I/O توزیع‌شده با سری SIMATIC ET 200SP HA",
+      "summary": "سری جدید تجهیزات I/O توزیع‌شده SIMATIC ET 200SP HA زیمنس برای محیط‌های سخت پردازشی معرفی شدند. این ماژول‌ها طراحی فشرده‌ای دارند و قابلیت اطمینان بالایی در شرایط سخت محیطی ارائه می‌دهند. این تجهیزات زیرساخت مناسبی برای توسعه سیستم‌های کنترل توزیع‌شده یا همان DCS فراهم می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 01:45",
+      "collected_at": "1405/07/24 02:04",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-simatic-et200sp-ha",
+      "tags": [
+        "SIMATIC",
+        "DCS",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo با مهندسی ابری",
+      "summary": "نسخه‌ به‌روزشده سیستم کنترل فرآیند SIMATIC PCS neo زیمنس با قابلیت‌های کامل مهندسی مبتنی بر وب و ابر منتشر شد. این پلتفرم به تیم‌های مهندسی امکان می‌دهد از هر نقطه‌ای به طور همزمان روی پروژه‌های بزرگ کار کنند. این ویژگی همکاری تیمی را تقویت کرده و زمان اجرای پروژه‌های فرآیندی را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 01:50",
+      "collected_at": "1405/07/24 02:04",
+      "source": "Automationcom",
+      "source_url": "https://www.automation.com/siemens-simatic-pcs-neo-update",
+      "tags": [
+        "SIMATIC PCS neo",
+        "Process Automation",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه کدهای اتوماسیون با ابزارهای هوش مصنوعی در TIA Portal",
+      "summary": "زیمنس در آخرین به‌روزرسانی محیط مهندسی TIA Portal، دستیارهای مبتنی بر هوش مصنوعی را برای تولید کدهای PLC اضافه کرده است. این ابزارها خطاهای برنامه‌نویسی را کاهش داده و فرآیند تست و عیب‌یابی را تسریع می‌کنند. این تحول مهندسان را قادر می‌سازد نرم‌افزار ماشین‌آلات را با کیفیت و سرعت بالاتری توسعه دهند.",
+      "category": "research",
+      "published_at": "1405/07/24 02:04",
+      "collected_at": "1405/07/24 02:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-tia-portal-ai-coding",
+      "tags": [
+        "TIA Portal",
+        "AI",
+        "Engineering"
       ]
     }
   ]
