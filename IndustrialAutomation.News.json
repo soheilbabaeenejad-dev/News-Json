@@ -4,7 +4,7 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 113,
+  "count": 123,
   "provider": "Gemini/gemini-3.5-flash-lite",
   "updated_at": "1405/07/23 19:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
@@ -1815,6 +1815,156 @@
         "Inverter",
         "Drives",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسخه جدید سیستم اسکادا WinCC Unified V19 با امکانات تحلیل داده پیشرفته",
+      "summary": "شرکت زیمنس نسخه جدید سیستم اسکادا WinCC Unified V19 را با قابلیت‌های تحلیلی پیشرفته و ابزارهای تجسم‌سازی تحت وب منتشر کرد. این نسخه به اپراتورها اجازه می‌دهد داده‌ها را با سرعت بالاتری مانیتور کرده و خطاهای تولید را سریع‌تر شناسایی کنند. این به‌روزرسانی گامی مهم در جهت هوشمندسازی بیشتر سالن‌های تولید و افزایش بهره‌وری عملیاتی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/23 08:30",
+      "collected_at": "1405/07/23 19:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-wincc-unified-v19-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های پردازش هوش مصنوعی در کنترل‌کننده‌های SIMATIC S7-1500",
+      "summary": "زیمنس قابلیت‌های پردازش هوش مصنوعی را به کنترل‌کننده‌های صنعتی SIMATIC S7-1500 اضافه کرد تا تصمیم‌گیری در لبه شبکه با دقت بیشتری انجام شود. این ماژول‌های جدید به خطوط تولید کمک می‌کنند تا ناهنجاری‌ها را بدون نیاز به ارسال داده‌ها به ابر شناسایی کنند. این فناوری تأثیر چشمگیری در کاهش زمان توقف ماشین‌آلات و بهینه‌سازی فرآیندها دارد.",
+      "category": "product",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 19:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-simatic-s7-1500-ai",
+      "tags": [
+        "SIMATIC S7-1500",
+        "PLC",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "معرفی ماژول‌های ارتباطی جدید SCALANCE برای شبکه‌های پرسرعت صنعتی",
+      "summary": "خانواده تجهیزات شبکه SCALANCE زیمنس با معرفی ماژول‌های ارتباطی جدید برای شبکه‌های صنعتی پرسرعت گسترش یافت. این تجهیزات امنیت سایبری لایه‌های OT را تقویت کرده و تبادل امن داده‌ها را تضمین می‌کنند. استفاده از این ماژول‌ها برای زیرساخت‌های حیاتی و کارخانه‌های هوشمند بسیار ضروری است.",
+      "category": "product",
+      "published_at": "1405/07/23 10:00",
+      "collected_at": "1405/07/23 19:01",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrial-ethernet.com/siemens-scalance-new-modules",
+      "tags": [
+        "SCALANCE",
+        "Industrial Network",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با راهکار ابری Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس ابزارهای جدیدی برای پایش و کاهش مصرف انرژی در واحدهای صنعتی بزرگ ارائه داد. این راهکار به مدیران کارخانه‌ها اجازه می‌دهد تا مصرف برق و آب تجهیزات را به صورت لحظه‌ای تحلیل کنند. چنین اقداماتی به صنایع در مسیر دستیابی به اهداف پدارهای سبز و کاهش هزینه‌ها کمک می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/23 11:20",
+      "collected_at": "1405/07/23 19:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-energy",
+      "tags": [
+        "Insights Hub",
+        "Energy Efficiency",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی اینورترهای پیشرفته SINAMICS G230 برای کنترل دقیق درایوهای صنعتی",
+      "summary": "سری جدید مبدل‌های فرکانسی SINAMICS G230 توسط زیمنس برای کنترل دقیق سرعت و گشتاور موتورهای الکتریکی معرفی شد. این اینورترها با طراحی فشرده، نصب و راه‌اندازی در تابلوهای برق را بسیار ساده‌تر می‌کنند. بهره‌گیری از این تجهیزات نقش بسزایی در کاهش تلفات انرژی در پمپ‌ها و فن‌های صنعتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/23 12:45",
+      "collected_at": "1405/07/23 19:01",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-g230",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Inverter"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه تجهیزات توزیع‌شده SIMATIC ET 200SP برای محیط‌های سخت صنعتی",
+      "summary": "ماژول‌های ورودی و خروجی توزیع‌شده SIMATIC ET 200SP با گواهی‌های جدید برای محیط‌های خشن و با دمای بالا به‌روز شدند. این ماژول‌ها انعطاف‌پذیری بالایی در سیم‌کشی و کاهش فضای تابلوهای کنترل به همراه دارند. این ویژگی‌ها باعث افزایش دوام سیستم‌های اتوماسیون در صنایع نفت، گاز و پتروشیمی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/23 13:30",
+      "collected_at": "1405/07/23 19:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-et-200sp-update",
+      "tags": [
+        "SIMATIC ET 200SP",
+        "Distributed I/O",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "نقش رایانه‌های صنعتی SIMATIC IPC در پردازش لبه‌ای خطوط تولید",
+      "summary": "رایانه‌های صنعتی قدرتمند SIMATIC IPC زیمنس بستر مناسبی را برای اجرای الگوریتم‌های پردازش لبه‌ای فراهم کرده‌اند. این سخت‌افزارها با پردازنده‌های نسل جدید، توانایی تحلیل حجم عظیمی از داده‌های سنسورها را در محل دارند. این راهکار وابستگی به سرورهای ابری را کاهش داده و تاخیر زمانی را به حداقل می‌رساند.",
+      "category": "news",
+      "published_at": "1405/07/23 14:15",
+      "collected_at": "1405/07/23 19:01",
+      "source": "Embedded Computing",
+      "source_url": "https://www.embedded-computing.com/siemens-simatic-ipc-edge",
+      "tags": [
+        "SIMATIC IPC",
+        "Edge Computing",
+        "Industrial PC"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "ارتقای نرم‌افزار مهندسی TIA Portal با ابزارهای همکاری تیمی ابری",
+      "summary": "محیط مهندسی TIA Portal زیمنس قابلیت‌های جدیدی برای کار تیمی مهندسان روی پروژه‌های بزرگ اتوماسیون دریافت کرد. این ابزارها امکان ویرایش همزمان کدهای PLC و صفحات HMI را به صورت ابری فراهم می‌کنند. این رویکرد زمان توسعه پروژه‌ها را به طور قابل توجهی کاهش داده و هماهنگی تیم‌ها را بهبود می‌بخشد.",
+      "category": "news",
+      "published_at": "1405/07/23 15:05",
+      "collected_at": "1405/07/23 19:01",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-tia-portal-cloud-team",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گسترش کاربرد دوقلوی دیجیتال با نرم‌افزار Tecnomatix در صنایع خودرویی",
+      "summary": "شرکت‌های خودروسازی بزرگ از نسخه جدید نرم‌افزار Tecnomatix زیمنس برای شبیه‌سازی کامل خطوط مونتاژ استفاده می‌کنند. این ابزار دوقلوی دیجیتال به مهندسان اجازه می‌دهد پیش از راه‌امدازی فیزیکی، هرگونه نقص رباتیک را برطرف کنند. این فناوری سرعت ورود محصولات جدید به بازار را به شکل چشمگیری افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/23 16:20",
+      "collected_at": "1405/07/23 19:01",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-tecnomatix-automotive",
+      "tags": [
+        "Tecnomatix",
+        "Digital Twin",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "بهبود استانداردهای ایمنی ماشین‌آلات با رله‌های حفاظتی Sirius 3SK2",
+      "summary": "رله‌های حفاظتی قابل برنامه‌ریزی Sirius 3SK2 زیمنس راه‌کار جدیدی برای ارتقای سطح ایمنی اپراتورها در خطوط تولید ارائه می‌دهند. این تجهیزات به راحتی با کنترل‌کننده‌ها یکپارچه شده و واکنش سریعی در مواقع اضطراری نشان می‌دهند. استفاده از این رله‌ها انطباق با سخت‌گیرانه‌ترین استانداردهای ایمنی صنعتی را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/23 17:50",
+      "collected_at": "1405/07/23 19:01",
+      "source": "Machine Design",
+      "source_url": "https://www.machinedesign.com/siemens-sirius-3sk2-safety",
+      "tags": [
+        "Sirius",
+        "Safety",
+        "Protection"
       ]
     }
   ]
