@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 148,
+  "count": 149,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 21:00",
+  "updated_at": "1405/07/23 21:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2346,6 +2346,22 @@
         "Tecnomatix",
         "Digital Twin",
         "Pharma"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "معرفی کنترل‌کننده صنعتی SIMATIC S7-1500 جدید با قابلیت‌های پردازش هوش مصنوعی",
+      "summary": "زیمنس نسل جدیدی از کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 را با قابلیت‌های پیشرفته پردازش هوش مصنوعی در لبه شبکه معرفی کرد. این پردازنده‌ها امکان اجرای الگوریتم‌های یادگیری ماشین را به صورت مستقیم بر روی PLC فراهم می‌کنند. این ویژگی به خطوط تولید کمک می‌کند تا ناهماهنگی‌ها را به صورت بلادرنگ شناسایی و برطرف نمایند.",
+      "category": "product",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 21:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/plc/siemens-simatic-s7-1500-ai",
+      "tags": [
+        "SIMATIC S7-1500",
+        "AI",
+        "PLC",
+        "Edge Computing"
       ]
     }
   ]
