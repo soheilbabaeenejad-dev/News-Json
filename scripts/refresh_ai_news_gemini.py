@@ -4,6 +4,11 @@
 Looks for API key in env (in order): Gemini, GEMINI_API_KEY, GOOGLE_API_KEY.
 Does not call Cursor models or web search.
 
+Behavior:
+  - Hourly cycles APPEND new items to each feed.
+  - During Asia/Tehran 00:00-00:59, CLEAR each feed and write a fresh batch.
+  - That daily clear+rebuild cycle repeats every 24 hours.
+
 Default outputs:
   AI.News.json
   Sport.News.json
@@ -33,6 +38,8 @@ FALLBACK_MODELS = ("gemini-3.8-flash",)
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", DEFAULT_MODEL).strip() or DEFAULT_MODEL
 REPO_ROOT = Path(__file__).resolve().parents[1]
 TEHRAN = ZoneInfo("Asia/Tehran")
+ITEMS_PER_CYCLE = 10
+INTERVAL_HOURS = 1
 
 COMMON_CATEGORIES = {
     "news",
@@ -145,31 +152,73 @@ def feed_path(feed: dict) -> Path:
     return REPO_ROOT / feed["filename"]
 
 
-def load_previous_titles(path: Path) -> list[str]:
+def is_tehran_midnight_reset() -> bool:
+    """True during 00:00-00:59 Asia/Tehran: wipe feeds and start a new day."""
+    return datetime.now(TEHRAN).hour == 0
+
+
+def load_existing_doc(path: Path) -> dict | None:
     if not path.exists():
-        return []
+        return None
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
+        return None
+    return data if isinstance(data, dict) else None
+
+
+def load_existing_items(path: Path) -> list[dict]:
+    data = load_existing_doc(path)
+    if not data:
         return []
+    items = data.get("items") or []
+    return [item for item in items if isinstance(item, dict)]
+
+
+def load_previous_titles(path: Path) -> list[str]:
     titles = []
-    for item in data.get("items") or []:
+    for item in load_existing_items(path):
         title = item.get("title")
         if isinstance(title, str) and title.strip():
             titles.append(title.strip())
     return titles
 
 
-def build_prompt(feed: dict, collected_at: str, previous_titles: list[str]) -> str:
-    avoid = "\n".join(f"- {t}" for t in previous_titles[:10]) or "- (none)"
+def next_item_start_index(existing: list[dict], id_prefix: str, gregorian: str) -> int:
+    prefix = f"{id_prefix}-{gregorian}-"
+    max_n = 0
+    for item in existing:
+        item_id = str(item.get("id") or "")
+        if not item_id.startswith(prefix):
+            continue
+        suffix = item_id[len(prefix) :]
+        if suffix.isdigit():
+            max_n = max(max_n, int(suffix))
+    return max(max_n, len(existing)) + 1
+
+
+def build_prompt(
+    feed: dict,
+    collected_at: str,
+    previous_titles: list[str],
+    *,
+    reset_day: bool,
+) -> str:
+    avoid_n = 80 if previous_titles else 0
+    avoid = "\n".join(f"- {t}" for t in previous_titles[:avoid_n]) or "- (none)"
     prefix = feed["id_prefix"]
+    mode = (
+        "This is the daily midnight reset (Asia/Tehran 00:00). Produce a fresh batch; older items are cleared."
+        if reset_day
+        else "This is an hourly append cycle. Produce NEW stories only; they will be appended to existing items."
+    )
     return f"""You are a news desk for {feed["desk"]}.
 
 Return ONLY a valid JSON object (no markdown fences, no commentary) with exactly this shape:
 {{
   "items": [
     {{
-      "id": "{prefix}-YYYYMMDD-NN",
+      "id": "{prefix}-YYYYMMDD-NNN",
       "title": "Persian title",
       "summary": "Persian summary, about 280-350 characters (roughly 3-4 sentences)",
       "category": "news|product|regulation|research|topic|sideline|match|transfer|result|politics|economy|society|world|industry|company",
@@ -182,13 +231,15 @@ Return ONLY a valid JSON object (no markdown fences, no commentary) with exactly
 }}
 
 Rules:
+- {mode}
+- Produce exactly {ITEMS_PER_CYCLE} items.
 - {feed["scope"]}
 - Prefer fresh, real recent stories with real canonical source_url values.
 - title and summary MUST be Persian.
 - Each summary MUST be substantially longer than one short line: target ~280-350 Persian characters (about 3-4 sentences), roughly double a single-sentence blurb. Include what happened, why it matters, and one concrete detail (product/model/org/number) when available. Do not pad with filler.
 - published_at MUST be Jalali calendar + Asia/Tehran as YYYY/MM/DD HH:MM.
 - published_at must not be after collected_at={collected_at}.
-- id must be unique like {prefix}-20261007-01 .. {prefix}-20261007-10 using today's Gregorian date in the id prefix.
+- id must be unique like {prefix}-20261007-001 using today's Gregorian date in the id prefix.
 - Avoid repeating these previous titles when possible:
 {avoid}
 """
@@ -294,10 +345,16 @@ def extract_json_object(text: str) -> dict:
     return data
 
 
-def normalize_items(raw_items: list, collected_at: str, id_prefix: str) -> list[dict]:
-    if not isinstance(raw_items, list) or len(raw_items) != 10:
+def normalize_items(
+    raw_items: list,
+    collected_at: str,
+    id_prefix: str,
+    *,
+    start_index: int = 1,
+) -> list[dict]:
+    if not isinstance(raw_items, list) or len(raw_items) != ITEMS_PER_CYCLE:
         raise ValueError(
-            f"expected exactly 10 items, got "
+            f"expected exactly {ITEMS_PER_CYCLE} items, got "
             f"{len(raw_items) if isinstance(raw_items, list) else type(raw_items)}"
         )
 
@@ -305,11 +362,12 @@ def normalize_items(raw_items: list, collected_at: str, id_prefix: str) -> list[
     out: list[dict] = []
     seen_ids: set[str] = set()
 
-    for idx, item in enumerate(raw_items, start=1):
+    for offset, item in enumerate(raw_items):
+        idx = start_index + offset
         if not isinstance(item, dict):
             raise ValueError(f"item {idx} is not an object")
 
-        default_id = f"{id_prefix}-{gregorian}-{idx:02d}"
+        default_id = f"{id_prefix}-{gregorian}-{idx:03d}"
         item_id = str(item.get("id") or default_id).strip()
         if item_id in seen_ids:
             item_id = default_id
@@ -355,21 +413,51 @@ def normalize_items(raw_items: list, collected_at: str, id_prefix: str) -> list[
 def refresh_feed(feed: dict) -> Path:
     path = feed_path(feed)
     collected_at = tehran_jalali_now()
-    previous = load_previous_titles(path)
-    prompt = build_prompt(feed, collected_at, previous)
+    reset_day = is_tehran_midnight_reset()
+    existing = [] if reset_day else load_existing_items(path)
+    previous_titles = [str(i.get("title") or "").strip() for i in existing if i.get("title")]
+    if reset_day:
+        print(f"Midnight reset (Asia/Tehran): clearing {path.name}", file=sys.stderr)
+    else:
+        print(
+            f"Hourly append for {path.name}: keeping {len(existing)} existing items",
+            file=sys.stderr,
+        )
+
+    prompt = build_prompt(
+        feed, collected_at, previous_titles, reset_day=reset_day
+    )
     raw, model_used = call_gemini_with_fallback(prompt, feed["system"])
     parsed = extract_json_object(raw)
-    items = normalize_items(parsed.get("items"), collected_at, feed["id_prefix"])
+    gregorian = datetime.now(TEHRAN).strftime("%Y%m%d")
+    start_index = 1 if reset_day else next_item_start_index(
+        existing, feed["id_prefix"], gregorian
+    )
+    new_items = normalize_items(
+        parsed.get("items"),
+        collected_at,
+        feed["id_prefix"],
+        start_index=start_index,
+    )
+
+    existing_title_set = {t.strip().lower() for t in previous_titles if t.strip()}
+    unique_new = [
+        item
+        for item in new_items
+        if item["title"].strip().lower() not in existing_title_set
+    ]
+    items = unique_new if reset_day else existing + unique_new
 
     doc = {
-        "version": "1.4",
+        "version": "1.5",
         "topic": feed["topic"],
         "calendar": "jalali",
         "timezone": "Asia/Tehran",
-        "interval_hours": 2,
-        "count": 10,
+        "interval_hours": INTERVAL_HOURS,
+        "count": len(items),
         "provider": f"Gemini/{model_used}",
         "updated_at": collected_at,
+        "reset_policy": "clear_at_tehran_midnight_append_hourly",
         "items": items,
     }
     path.write_text(
@@ -377,7 +465,8 @@ def refresh_feed(feed: dict) -> Path:
         encoding="utf-8",
     )
     print(
-        f"Wrote {path} with {len(items)} items via Gemini/{model_used}",
+        f"Wrote {path} with {len(items)} items "
+        f"(+{len(unique_new)} new) via Gemini/{model_used}",
         file=sys.stderr,
     )
     return path
