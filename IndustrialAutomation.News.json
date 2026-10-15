@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 65,
+  "count": 69,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 02:04",
+  "updated_at": "1405/07/24 03:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1040,6 +1040,70 @@
         "TIA Portal",
         "AI",
         "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "افزایش بهره‌وری خطوط مونتاژ با کنترلرهای لبه صنعتی زیمنس",
+      "summary": "پلتفرم Industrial Edge زیمنس با قابلیت‌های جدید پردازش داده‌های سنسورها در خطوط تولید عرضه شد. این ماژول‌ها خطاهای مونتاژ را پیش از بروز بحران شناسایی و به اپراتور گزارش می‌دهند. کاهش زمان توقف ماشین‌آلات از مزایای اصلی به‌کارگیری این فناوری لبه است.",
+      "category": "industry",
+      "published_at": "1405/07/24 02:40",
+      "collected_at": "1405/07/24 03:00",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/smart-manufacturing/siemens-industrial-edge-assembly",
+      "tags": [
+        "Industrial Edge",
+        "Smart Factory",
+        "Analytics",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "تقویت امنیت شبکه‌های صنعتی با نسل جدید تجهیزات SCALANCE",
+      "summary": "شرکت زیمنس سوئیچ‌ها و روترهای صنعتی سری SCALANCE را برای مقابله با تهدیدات سایبری OT به‌روزرسانی کرد. این تجهیزات از استانداردهای سخت‌گیرانه امنیتی برای حفاظت از زیرساخت‌های حیاتی پشتیبانی می‌کنند. مدیران شبکه می‌توانند ترافیک داده را با دقت بالاتری فیلتر و مانیتور کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 02:45",
+      "collected_at": "1405/07/24 03:00",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-security",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Industrial Ethernet",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "بهبود دقت اندازه‌گیری در ابزار دقیق با تجهیزات جدید SIPART",
+      "summary": "مبدل‌های دیجیتال و پوزیشنرهای جدید SIPART زیمنس برای کنترل دقیق ولوها در صنایع نفت و گاز معرفی شدند. این تجهیزات مجهز به قابلیت‌های عیب‌یابی خودکار هستند و نیاز به کالیبراسیون دستی را کاهش می‌دهند. پایداری بالا در برابر شرایط محیطی خورنده از ویژگی‌های بارز آن‌هاست.",
+      "category": "product",
+      "published_at": "1405/07/24 02:50",
+      "collected_at": "1405/07/24 03:00",
+      "source": "Automation Inside",
+      "source_url": "https://www.automation.com/en-us/products/siemens-sipart-positioners",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش کاربرد ربات‌های صنعتی با پلتفرم SIMATIC Robot Integrator",
+      "summary": "ابزار نرم‌افزاری SIMATIC Robot Integrator زیمنس اتصال بازوهای رباتیک برندهای مختلف را به سیستم‌های کنترل تسهیل کرد. این راهکار مهندسان را قادر می‌سازد بدون نیاز به دانش تخصصی پیچیده، ربات‌ها را در خطوط تولید پیاده‌سازی کنند. این رویکرد انعطاف‌پذیری سلول‌های تولیدی را به طور چشمگیری افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/24 03:00",
+      "collected_at": "1405/07/24 03:00",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/siemens-robot-integrator-expansion",
+      "tags": [
+        "Robot Integrator",
+        "Robotics",
+        "SIMATIC",
+        "Siemens"
       ]
     }
   ]
