@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 30,
+  "count": 40,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 01:01",
+  "updated_at": "1405/07/24 01:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -486,6 +486,165 @@
         "Education",
         "TIA Portal",
         "SIMATIC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "معرفی ماژول ارتباطی جدید زیمنس برای پشتیبانی از پروتکل‌های شبکه TSN",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید خود برای شبکه‌های صنعتی با پشتیبانی کامل از استاندارد TSN رونمایی کرد. این فناوری امکان تبادل همزمان داده‌های قطعی و غیرقطعی را با سرعت گیگابیتی در خطوط تولید فراهم می‌سازد. استفاده از این تجهیزات جدید، تاخیر شبکه را به شدت کاهش داده و کارایی سیستم‌های کنترل SIMATIC را به شکل چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 00:15",
+      "collected_at": "1405/07/24 01:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-tsn-module-2026",
+      "tags": [
+        "Siemens",
+        "TSN",
+        "SIMATIC",
+        "Network"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "ارتقای پلتفرم Insights Hub با قابلیت‌های تحلیل پیشرفته ابری",
+      "summary": "زیمنس نسخه بروزرسانی شده پلتفرم ابری Insights Hub را با ابزارهای جدید یادگیری ماشین عرضه کرد. این تغییرات به مهندسین نگهداری و تعمیرات اجازه می‌دهد تا داده‌های ارسالی از سنسورهای کارگاهی را به صورت بلادرنگ تحلیل کنند. این راهکار ابری نقش مهمی در پیشگیری از توقفات ناخواسته ماشین‌آلات و کاهش هزینه‌های تعمیراتی کارخانجات دارد.",
+      "category": "news",
+      "published_at": "1405/07/24 00:30",
+      "collected_at": "1405/07/24 01:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/insights-hub-update-2026",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "گسترش کاربرد روبات‌های صنعتی با کنترلرهای یکپارچه SIMATIC Robot Integrator",
+      "summary": "ابزار نرم‌افزاری SIMATIC Robot Integrator زیمنس اکنون از برندهای بیشتری از بازوهای روباتیک پشتیبانی می‌کند. اینپارچه‌سازی برنامه‌نویسی روبات و PLC در محیط TIA Portal زمان راه‌اندازی خطوط مونتاژ را تا چهل درصد کاهش می‌دهد. این پیشرفت گامی بزرگ برای تسریع اتوماسیون انعطاف‌پذیر در صنایع خودروسازی و الکترونیک محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 00:42",
+      "collected_at": "1405/07/24 01:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-robot-integrator-2026",
+      "tags": [
+        "SIMATIC",
+        "Robotics",
+        "TIA Portal",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "بهینه‌سازی مصرف انرژی در پمپ‌های صنعتی با درایورهای SINAMICS G120X",
+      "summary": "استفاده از درایورهای دورمتغیر SINAMICS G120X زیمنس در پروژه‌های آب و فاضلاب موجب کاهش چشمگیر مصرف انرژی شده است. این تجهیزات با الگوریتم‌های پیشرفته کنترل توان، هماهنگی بی‌نظیری با سیستم‌های اتوماسیون فرآیند دارند. این راهکار نقش کلیدی در دستیابی صنایع به اهداف توسعه پایدار و کاهش انتشار کربن ایفا می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/24 00:50",
+      "collected_at": "1405/07/24 01:03",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/sinamics-g120x-energy-2026",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "راهکارهای جدید زیمنس برای امنیت سایبری سیستم‌های کنترل صنعتی OT",
+      "summary": "همزمان با افزایش تهدیدات سایبری، زیمنس بسته امنیتی جدیدی را برای حفاظت از کنترل‌کننده‌های SIMATIC S7 ارائه داد. این بسته شامل ابزارهای رمزگذاری پیشرفته و پایش مداوم ترافیک شبکه برای شناسایی ناهنجاری‌های امنیتی است. کارشناسان امنیت شبکه معتقدند این محصولات استاندارد دفاعی زیرساخت‌های حیاتی را به طور قابل توجهی ارتقا می‌دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/24 00:55",
+      "collected_at": "1405/07/24 01:03",
+      "source": "Industrial Cyber",
+      "source_url": "https://www.industrialcyber.co/siemens-ot-security-2026",
+      "tags": [
+        "Cybersecurity",
+        "OT/ICS",
+        "SIMATIC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "توسعه سیستم‌های مانیتورینگ WinCC Unified برای نظارت بر خطوط تولید بزرگ",
+      "summary": "نسخه جدید نرم‌افزار مانیتورینگ WinCC Unified زیمنس با پنل‌های وب‌محور پیشرفته روانه بازار شد. این پلتفرم به اپراتورها اجازه می‌دهد تا اطلاعات فرآیندی را از طریق مرورگرهای مختلف با کیفیت گرافیکی بالا رصد کنند. انعطاف‌پذیری بالا و معماری مقیاس‌پذیر از مزیت‌های کلیدی این سیستم اسکادا در کارخانجات مدرن است.",
+      "category": "product",
+      "published_at": "1405/07/24 01:00",
+      "collected_at": "1405/07/24 01:03",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/wincc-unified-update-2026",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "همکاری زیمنس و شرکت‌های داروسازی برای هوشمندسازی خطوط بسته‌بندی",
+      "summary": "زیمنس طی قراردادی جدید، فناوری اتوماسیون لبه (Industrial Edge) را برای کنترل کیفیت در صنعت داروسازی توسعه می‌دهد. این سیستم با استفاده از بینایی ماشین و پردازش تصویر، خطاهای بسته‌بندی را به صورت آنی تشخیص می‌دهد. این نوآوری کیفیت محصول نهایی را تضمین کرده و از هدر رفت مواد اولیه جلوگیری می‌کند.",
+      "category": "company",
+      "published_at": "1405/07/24 01:02",
+      "collected_at": "1405/07/24 01:03",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-pharma-edge-2026",
+      "tags": [
+        "Industrial Edge",
+        "Pharma",
+        "Quality Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "افزایش بهره‌وری تولید با سیستم کنترل توزیع‌شده SIMATIC PCS neo",
+      "summary": "پلتفرم SIMATIC PCS neo زیمنس به عنوان اولین سیستم DCS بومی وب در جهان، پروژه مهندسی شیمی را به سرانجام رساند. این سیستم امکان کار تیمی همزمان مهندسان را از راه دور روی یک پایگاه داده واحد فراهم می‌سازد. این رویکرد نوین، زمان مهندسی و پیاده‌سازی پروژه‌های بزرگ پتروشیمی را به میزان چشمگیری کاهش داده است.",
+      "category": "industry",
+      "published_at": "1405/07/24 01:03",
+      "collected_at": "1405/07/24 01:03",
+      "source": "Chemical Engineering",
+      "source_url": "https://www.chemengonline.com/siemens-pcs-neo-2026",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "توسعه سخت‌افزارهای پسیو و ماژول‌های ایمنی SIMATIC ET 200MP",
+      "summary": "خانواده I/Oهای توزیع‌شده SIMATIC ET 200MP زیمنس با ماژول‌های ایمنی جدید (Failsafe) گسترش یافت. این ماژول‌ها استانداردهای امنیتی سخت‌گیرانه SIL3 را در محیط‌های پرخطر صنعتی برآورده می‌کنند. نصب آسان و عیب‌یابی سریع از ویژگی‌های بارز این تجهیزات در تابلوهای فرمان اتوماسیون است.",
+      "category": "product",
+      "published_at": "1405/07/24 01:03",
+      "collected_at": "1405/07/24 01:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-et200mp-safety-2026",
+      "tags": [
+        "SIMATIC",
+        "ET 200MP",
+        "Safety",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "نقش تجهیزات ابزار دقیق SIPART در بهبود دقت اندازه‌گیری جریان سیالات",
+      "summary": "مبدل‌های حرارتی و پوزیشنرهای شیر صنعتی SIPART زیمنس با قابلیت‌های دیجیتال جدید عرضه شدند. این تجهیزات ارتباط پروتکل HART را برای پایش سلامت تجهیزات فیلد به صورت خودکار فراهم می‌کنند. استفاده از این ابزار دقیق پیشرفته، دقت کنترل فرایند را در صنایع نفت، گاز و پتروشیمی به بالاترین حد می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/24 01:03",
+      "collected_at": "1405/07/24 01:03",
+      "source": "Flow Control",
+      "source_url": "https://www.flowcontrolnetwork.com/siemens-sipart-2026",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Valves",
         "Siemens"
       ]
     }
