@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 87,
+  "count": 94,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 18:01",
+  "updated_at": "1405/07/23 18:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1399,6 +1399,118 @@
         "Siemens",
         "SIMATIC",
         "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسخه جدید سیستم اسکادا WinCC Unified V19 با امکانات پیشرفته تجسم داده‌ها",
+      "summary": "شرکت زیمنس نسخه به‌روزرسانی شده نرم‌افزار تجسم داده‌ها و اسکادا WinCC Unified V19 را با ابزارهای تحلیل پیشرفته معرفی کرد. این نسخه جدید به اپراتورها اجازه می‌دهد تا داده‌های تولیدی خطوط صنعتی را با سرعت بالاتر و پایداری بیشتری رصد کنند. ارتقای قابلیت‌های وب‌سرور و امنیت ارتباطی از مهم‌ترین ویژگی‌های این آپدیت به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 18:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/wincc-unified-v19",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "Siemens",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "معرفی کنترل‌کننده صنعتی جدید SIMATIC S7-1500F با قابلیت‌های امنیتی پیشرفته",
+      "summary": "نسخه جدید کنترل‌کننده‌های ایمنی SIMATIC S7-1500F زیمنس برای خطوط رباتیک پیچیده و خطوط مونتاژ اتوماتیک روانه بازار شد. این کنترل‌کننده با پشتیبانی از پروتکل‌های امنیتی سخت‌گیرانه، حفاظت از ماشین‌آلات را به سطح بالاتری ارتقا می‌دهد. کاهش زمان پاسخگویی و پردازش ایمن‌تر از مزایای کلیدی این سخت‌افزار جدید است.",
+      "category": "product",
+      "published_at": "1405/07/23 10:30",
+      "collected_at": "1405/07/23 18:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/simatic-s7-1500f-new",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "Safety Integrated",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه زیرساخت‌های شبکه صنعتی با سوئیچ‌های مدولار جدید SCALANCE X",
+      "summary": "سری جدید سوئیچ‌های مدولار شبکه صنعتی SCALANCE X توسط زیمنس برای پشتیبانی از حجم بالای داده در کارخانه‌های هوشمند عرضه شد. این تجهیزات قابلیت کار در شرایط سخت محیطی را داشته و پایداری ارتباطات شبکه را تضمین می‌کنند. این توسعه به مدیران شبکه کمک می‌کند تا معماری زیرساخت OT خود را به شکل بهینه‌تری مدیریت کنند.",
+      "category": "product",
+      "published_at": "1405/07/23 11:45",
+      "collected_at": "1405/07/23 18:03",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/scalance-x-modular",
+      "tags": [
+        "SCALANCE",
+        "Industrial Ethernet",
+        "Networking",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "افزایش قابلیت‌های پردازش لبه‌ای با رایانه‌های صنعتی جدید SIMATIC IPC",
+      "summary": "نسخه جدید رایانه‌های صنعتی قدرتمند SIMATIC IPC زیمنس برای پردازش‌های لبه‌ای و هوش مصنوعی در محیط کارخانه عرضه شد. این سخت‌افزارها با برخورداری از پردازنده‌های مدرن، توانایی تحلیل داده‌های بلادرنگ سنسورها را در محل تولید دارند. این رویکرد بار ترافیکی شبکه ابری را کاهش داده و تصمیم‌گیری‌های محلی را سرعت می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/23 14:00",
+      "collected_at": "1405/07/23 18:03",
+      "source": "Embedded Computing",
+      "source_url": "https://www.embedded-computing.com/simatic-ipc-edge",
+      "tags": [
+        "SIMATIC IPC",
+        "Edge Computing",
+        "Industrial PC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "همکاری راهبردی زیمنس و فستو برای ارتقای استانداردهای پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو در پروژه‌ای مشترک برای توسعه تجهیزات پنوماتیک هوشمند و هماهنگ با استانداردهای TIA Portal توافق کردند. این همکاری به مهندسان اتوماسیون اجازه می‌دهد تا عملگرهای پنوماتیک را با ease بیشتری به کنترل‌کننده‌های صنعتی متصل کنند. این استانداردسازی جدید خطاهای پیکربندی سیستم‌های ترکیبی را به شدت کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/23 15:10",
+      "collected_at": "1405/07/23 18:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/siemens-festo-partnership",
+      "tags": [
+        "Partnership",
+        "Festo",
+        "TIA Portal",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه ماژول‌های ورودی/خروجی توزیع‌شده SIMATIC ET 200SP HA برای صنایع فرآیندی",
+      "summary": "خانواده ماژول‌های توزیع‌شده SIMATIC ET 200SP HA زیمنس با قابلیت نصب در محیط‌های سخت فرآیندی توسعه یافت. این ماژول‌ها با طراحی فشرده و قابلیت تعویض در زمان کارکرد، پایداری سایت‌های پتروشیمی و پالایشگاهی را تضمین می‌کنند. پشتیبانی از پروتکل‌های ارتباطی استاندارد از مزایای اصلی این تجهیزات است.",
+      "category": "product",
+      "published_at": "1405/07/23 16:05",
+      "collected_at": "1405/07/23 18:03",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/et-200sp-ha-update",
+      "tags": [
+        "SIMATIC ET 200",
+        "Distributed I/O",
+        "Process Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی فایروال‌های صنعتی نسل جدید SCALANCE SC-800 برای امنیت سایبری OT",
+      "summary": "زیمنس از سری جدید تجهیزات امنیت سایبری صنعتی با نام SCALANCE SC-800 رونمایی کرد تا از شبکه تجهیزات اتوماسیون محافظت کند. این فایروال‌ها با قابلیت تفکیک ناحیه‌های شبکه و مانیتورینگ ترافیک، از نفوذهای مخرب جلوگیری می‌کنند. پیاده‌سازی این تجهیزات برای انطباق با استانداردهای امنیتی سخت‌گیرانه IEC 62443 ضروری است.",
+      "category": "product",
+      "published_at": "1405/07/23 17:00",
+      "collected_at": "1405/07/23 18:03",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/scalance-sc800",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "IEC 62443",
+        "Siemens"
       ]
     }
   ]
