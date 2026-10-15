@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 70,
+  "count": 71,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 03:02",
+  "updated_at": "1405/07/24 03:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1120,6 +1120,22 @@
         "SCALANCE",
         "Industrial Cybersecurity",
         "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "عرضه ماژول‌های ارتباطی جدید برای پلتفرم SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از ماژول‌های ارتباطی جدید برای کنترلرهای SIMATIC S7-1500 رونمایی کرد که تبادل داده‌ها را در شبکه‌های صنعتی به شدت تسریع می‌کنند. این قطعات جدید با پشتیبانی از پروتکل‌های پیشرفته، امنیت تبادل اطلاعات را در لایه فیلد ارتقا می‌دهند. این اقدام به مهندسان کمک می‌کند تا ساختار اتوماسیون کارخانه‌ها را با انعطاف بیشتری توسعه دهند.",
+      "category": "product",
+      "published_at": "1405/07/24 01:10",
+      "collected_at": "1405/07/24 03:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-comm-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "PLC",
+        "Industrial Communication"
       ]
     }
   ]
