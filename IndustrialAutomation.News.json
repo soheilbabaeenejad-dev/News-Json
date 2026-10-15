@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 20,
+  "count": 30,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 01:00",
+  "updated_at": "1405/07/24 01:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -326,6 +326,166 @@
         "AR",
         "SCADA",
         "Power Systems",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "نسخه جدید پلتفرم SIMATIC PCS neo برای مهندسی توزیع‌شده فرآیند",
+      "summary": "شرکت زیمنس نسخه جدید پلتفرم کنترل فرآیند SIMATIC PCS neo را با امکانات پیشرفته همکاری ابری و مهندسی همزمان منتشر کرد. این نرم‌افزار به تیم‌های مهندسی اجازه می‌دهد بدون وابستگی به موقعیت مکانی، روی پروژه‌های بزرگ پالایشگاهی کار کنند. این راهکار زمان راه‌اندازی خطوط تولید را به طور محسوسی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 00:15",
+      "collected_at": "1405/07/24 01:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/process/siemens-simatic-pcs-neo-update",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Siemens",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "ماژول‌های جدید امنیت سخت‌افزاری زیمنس برای شبکه PROFIBUS",
+      "summary": "زیمنس از ماژول‌های حفاظتی جدید خود برای ایمن‌سازی شبکه‌های سنتی PROFIBUS در برابر حملات سایبری رونمایی کرد. این تجهیزات بدون نیاز به تغییر اساسی در زیرساخت‌های موجود، لایه امنیتی جدیدی ایجاد می‌کنند. صنایع سنگین می‌توانند با هزینه کمتری از توقف‌های ناخواسته خط تولید جلوگیری نمایند.",
+      "category": "regulation",
+      "published_at": "1405/07/24 00:20",
+      "collected_at": "1405/07/24 01:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/security/siemens-profibus-security-modules",
+      "tags": [
+        "PROFIBUS",
+        "Cybersecurity",
+        "Siemens",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانجات با نسل جدید درایوهای SINAMICS G220",
+      "summary": "سری جدید درایوهای فرکانس متغیر SINAMICS G220 زیمنس با قابلیت بازگردانی انرژی به شبکه وارد بازار شدند. این اینورترها با الگوریتم‌های پیشرفته کنترل موتور، تلفات انرژی را تا پانزده درصد کاهش می‌دهند. این ویژگی به واحدهای صنعتی کمک می‌کند تا اهداف کربن‌زدایی خود را سریع‌تر محقق سازند.",
+      "category": "product",
+      "published_at": "1405/07/24 00:25",
+      "collected_at": "1405/07/24 01:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-launches-sinamics-g220/",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Inverter",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "گسترش اتوماسیون انبارها با سیستم‌های کنترل SIMATIC ET 200SP",
+      "summary": "استفاده از کنترلرهای توزیع‌شده SIMATIC ET 200SP در انبارهای مکانیزه و لجستیک هوشمند به طور چشمگیری افزایش یافته است. این ماژول‌ها با سرعت پردازش بالا و سیم‌کشی آسان، دقت جابجایی پالت‌ها را بهبود می‌بخشند. شرکت‌های لجستیکی بزرگ با این تجهیزات توانسته‌اند بهره‌وری عملیاتی خود را ارتقا دهند.",
+      "category": "industry",
+      "published_at": "1405/07/24 00:30",
+      "collected_at": "1405/07/24 01:01",
+      "source": "Logistics Automation",
+      "source_url": "https://www.logisticsautomation.com/siemens-et200sp-warehousing",
+      "tags": [
+        "SIMATIC ET 200SP",
+        "Logistics",
+        "Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "ارتقای قابلیت‌های نگهداری پیش‌بینانه با پلتفرم Insights Hub زیمنس",
+      "summary": "پلتفرم ابری Insights Hub زیمنس ابزارهای جدید تحلیل داده را برای پیش‌بینی خرابی تجهیزات دوران‌ساز دریافت کرد. این ماژول‌ها با پایش مداوم ارتعاشات و دما، زمان دقیق سرویس‌دهی را محاسبه می‌کنند. این روش مانع از خسارات سنگین ناشی از خرابی ناگهانی ماشین‌آلات کلیدی کارخانه می‌شود.",
+      "category": "news",
+      "published_at": "1405/07/24 00:35",
+      "collected_at": "1405/07/24 01:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-predictive-maintenance",
+      "tags": [
+        "Insights Hub",
+        "MindSphere",
+        "Predictive Maintenance",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "همکاری زیمنس و فستو برای توسعه استانداردهای رباتیک مدولار",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه‌ای برای ایجاد استانداردهای واحد در اتصال ربات‌های صنعتی به کنترلرهای منطقی امضا کردند. این همکاری به سازندگان ماشین‌آلات اجازه می‌دهد سیستم‌های پنوماتیک و الکترونیک را با سادگی بیشتری یکپارچه کنند. هدف نهایی، کاهش زمان مهندسی و پیچیدگی سیم‌کشی در خطوط مونتاژ است.",
+      "category": "company",
+      "published_at": "1405/07/24 00:40",
+      "collected_at": "1405/07/24 01:01",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/siemens-festo-partnership",
+      "tags": [
+        "Robotics",
+        "Festo",
+        "Siemens",
+        "Modular Automation"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "استفاده از هوش مصنوعی لبه در کنترل کیفیت خطوط بسته‌بندی دارویی",
+      "summary": "کارخانه‌های داروسازی با نصب سخت‌افزارهای Industrial Edge زیمنس و دوربین‌های هوشمند، خطاهای بسته‌بندی را به صفر نزدیک کردند. پردازش تصویر مبتنی بر هوش مصنوعی در لپه شبکه، عیوب برچسب‌ها را با سرعت بالا شناسایی می‌کند. این فناوری استانداردهای سخت‌گیرانه سازمان‌های بهداشتی را به طور کامل پوشش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/24 00:45",
+      "collected_at": "1405/07/24 01:01",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-edge-pharma-qc",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Pharma",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "گسترش پروتکل ارتباطی OPC UA در تجهیزات ابزار دقیق فیلد",
+      "summary": "شرکت‌های سازنده تجهیزات ابزار دقیق از پشتیبانی گسترده استاندارد OPC UA FX در نسل جدید سنسورها خبر دادند. این پروتکل تبادل داده بین تجهیزات میدانی و سیستم‌های اسکادا را بدون محدودیت‌های سازنده‌ای میسر می‌سازد. مهندسان می‌توانند به اطلاعات تشخیصی عمیق‌تری از تجهیزات فیلد دسترسی داشته باشند.",
+      "category": "industry",
+      "published_at": "1405/07/24 00:50",
+      "collected_at": "1405/07/24 01:01",
+      "source": "InTech Magazine",
+      "source_url": "https://www.intechplus.com/opc-ua-field-devices-expansion",
+      "tags": [
+        "OPC UA",
+        "Field Instruments",
+        "SCADA",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "نقش سیستم‌های مانیتورینگ WinCC Unified در کنترل اتاق‌های فرمان بزرگ",
+      "summary": "نسخه‌های جدید نرم‌افزار SIMATIC WinCC Unified زیمنس قابلیت‌های تجسم‌سازی تحت وب را برای اپراتورهای صنعتی بهبود بخشیده‌اند. این پلتفرم امکان دسترسی امن به تصاویر گرافیکی فرآیند را از طریق تبلت‌های صنعتی فراهم می‌سازد. مدیران تولید می‌توانند در هر لحظه وضعیت عملکردی کارخانه را به صورت زنده رصد کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 00:55",
+      "collected_at": "1405/07/24 01:01",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/siemens-wincc-unified-update",
+      "tags": [
+        "WinCC Unified",
+        "HMI",
+        "SCADA",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "توسعه برنامه‌های آموزشی اتوماسیون صنعتی با همکاری دانشگاه‌ها و زیمنس",
+      "summary": "برنامه جهانی زیمنس برای تجهيز آزمایشگاه‌های دانشگاهی به نرم‌افزارهای پیشرفته TIA Portal و کنترلرهای SIMATIC گسترش یافت. هدف از این طرح، آماده‌سازی فارغ‌التحصیلان رشته‌های مهندسی برای ورود به بازار کار کارخانه‌های هوشمند است. دانشجویان با کار عملی روی پروژه‌های واقعی، تجربه صنعتی ارزشمندی کسب می‌کنند.",
+      "category": "society",
+      "published_at": "1405/07/24 01:00",
+      "collected_at": "1405/07/24 01:01",
+      "source": "Education Technology News",
+      "source_url": "https://www.edtechma.com/siemens-university-automation-lab",
+      "tags": [
+        "Education",
+        "TIA Portal",
+        "SIMATIC",
         "Siemens"
       ]
     }
