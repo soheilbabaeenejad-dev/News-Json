@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 129,
+  "count": 138,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 20:01",
+  "updated_at": "1405/07/23 20:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2061,6 +2061,141 @@
         "I/O",
         "Siemens",
         "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی کنترل‌کننده صنعتی SIMATIC S7-1500 Compact جدید با ماژول‌های فشرده",
+      "summary": "شرکت زیمنس از نسخه جدید کنترل‌کننده فشرده SIMATIC S7-1500 Compact برای فضاهای محدود تابلوهای برق رونمایی کرد. این تجهیز با ارائه پردازش سریع‌تر و حافظه بیشتر، به مهندسان امکان می‌دهد اتوماسیون ماشین‌آلات کوچک را با دقت بالا پیاده‌سازی کنند. این محصول همچنین به‌طور کامل با محیط مهندسی TIA Portal یکپارچه شده است.",
+      "category": "product",
+      "published_at": "1405/07/23 08:30",
+      "collected_at": "1405/07/23 20:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-compact",
+      "tags": [
+        "SIMATIC S7-1500",
+        "TIA Portal",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های امنیتی در نسل جدید سوئیچ‌های صنعتی SCALANCE XM-400",
+      "summary": "زیمنس از بروزرسانی بزرگ برای سوئیچ‌های مدیریت‌شده صنعتی SCALANCE XM-400 خبر داد که امنیت شبکه‌های OT را به شدت تقویت می‌کند. این تجهیزات با پشتیبانی از پروتکل‌های امنیتی پیشرفته و رمزگذاری سخت‌افزاری، از زیرساخت‌های حیاتی در برابر تهدیدات سایبری محافظت می‌کنند. این اقدام گامی مهم در جهت تامین استانداردهای سخت‌گیرانه IEC 62443 است.",
+      "category": "product",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 20:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/network-security/scalance-xm400-update",
+      "tags": [
+        "SCALANCE",
+        "امنیت سایبری",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش قابلیت‌های مانیتورینگ بلادرنگ با WinCC Unified V19 Update 4",
+      "summary": "نسخه بروزرسانی شده نرم‌افزار اسکادا WinCC Unified V19 توسط زیمنس منتشر شد و ابزارهای جدیدی برای مانیتورینگ وب‌محور ارائه داد. این نسخه سرعت پردازش گرافیکی را افزایش داده و امکان اتصال آسان‌تر به پایگاه‌های داده ابری را فراهم می‌سازد. اپراتورها اکنون می‌توانند روند تولید را با انعطاف‌پذیری بیشتری در انواع نمایشگرها دنبال کنند.",
+      "category": "product",
+      "published_at": "1405/07/23 10:00",
+      "collected_at": "1405/07/23 20:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/scada/wincc-unified-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "ماتا"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با تحلیل‌گرهای جدید Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به ماژول‌های جدیدی برای تحلیل هوشمند مصرف انرژی و ردپای کربن تجهیز شد. این ابزارها به مدیران کارخانه اجازه می‌دهند تا هدررفت انرژی را در تجهیزات سنگین شناسایی کرده و راهکارهای کااهش مصرف را اجرا کنند. این توسعه نقش مهمی در دستیابی به اهداف پایداری و تولید سبز ایفا می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/23 11:10",
+      "collected_at": "1405/07/23 20:03",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrialiotnews.com/insights-hub-energy-analytics",
+      "tags": [
+        "Insights Hub",
+        "بهره‌وری انرژی",
+        "صنایع پایدار"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی اینورترهای پیشرفته SINAMICS G320 برای کاربردهای سنگین صنعتی",
+      "summary": "خانواده درایوهای صنعتی زیمنس با معرفی مدل جدید SINAMICS G320 گسترش یافت که برای کنترل دقیق موتورهای سنکرون و آسنکرون طراحی شده است. این اینورتر با بهره‌گیری از الگوریتم‌های پیشرفته کنترل برداری، راندمان مکانیکی را در خطوط نورد و پمپ‌های بزرگ افزایش می‌دهد. همچنین قابلیت اتصال مستقیم به شبکه PROFINET را به صورت استاندارد داراست.",
+      "category": "product",
+      "published_at": "1405/07/23 12:20",
+      "collected_at": "1405/07/23 20:03",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory/sinamics-g320-launch",
+      "tags": [
+        "SINAMICS",
+        "درایو صنعتی",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "افزایش قابلیت‌های لبه شبکه با رایانه‌های صنعتی SIMATIC IPC 227G",
+      "summary": "نسخه جدید رایانه صنعتی فشرده SIMATIC IPC 227G با پردازنده‌های پرقدرت اینتل برای محاسبات لبه‌ای عرضه شد. این سیستم بدون فن طراحی شده و برای نصب در محیط‌های کارگاهی با دمای بالا کاملاً بهینه‌سازی شده است. این IPC ابزاری ایده‌آل برای اجرای برنامه‌های Industrial Edge و پردازش محلی داده‌های سنسورها محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/23 14:50",
+      "collected_at": "1405/07/23 20:03",
+      "source": "Embedded Computing",
+      "source_url": "https://www.embedded-computing.com/siemens-ipc-227g",
+      "tags": [
+        "SIMATIC IPC",
+        "Industrial Edge",
+        "لبه شبکه"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای توسعه پژوهش‌های هوش مصنوعی صنعتی",
+      "summary": "قرارداد همکاری جدیدی میان زیمنس و دانشگاه فنی مونیخ با هدف تسریع نوآوری در حوزه هوش مصنوعی مولد برای مهندسی اتوماسیون منعقد شد. این پروژه تحقیقاتی روی استفاده از مدل‌های زبانی بزرگ برای تولید کدهای PLC و عیب‌یابی خودکار خطوط تولید تمرکز دارد. این اقدام نشان‌دهنده عزم جدی صنعت برای ادغام فناوری‌های نوین IT و OT است.",
+      "category": "research",
+      "published_at": "1405/07/23 16:05",
+      "collected_at": "1405/07/23 20:03",
+      "source": "Industrial AI Journal",
+      "source_url": "https://www.industrial-ai-journal.com/siemens-tum-ai-partnership",
+      "tags": [
+        "هوش مصنوعی",
+        "تحقیق و توسعه",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "بهینه‌سازی طراحی خطوط تولید با نسخه جدید نرم‌افزار Tecnomatix Plant Simulation",
+      "summary": "نسخه تازه نرم‌افزار Tecnomatix از مجموعه Siemens Xcelerator ابزارهای جدیدی برای شبیه‌سازی سه‌بعدی و تحلیل گلوگاه‌های کارخانه ارائه داد. مهندسان می‌توانند با استفاده از این پلتفرم، جریان مواد و عملکرد ربات‌ها را پیش از پیاده‌سازی فیزیکی به دقت ارزیابی کنند. این راهکار به کاهش هزینه‌های راه‌اندازی و افزایش بهره‌وری کلی کارخانه کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/23 17:30",
+      "collected_at": "1405/07/23 20:03",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/tecnomatix-update-2026",
+      "tags": [
+        "Tecnomatix",
+        "دوقلوی دیجیتال",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی رله‌های حفاظتی جدید SIRIUS 3SK3 برای ارتقای ایمنی اضطراری ماشین‌آلات",
+      "summary": "شرکت زیمنس رله‌های ایمنی پیشرفته SIRIUS 3SK3 را با قابلیت پیکربندی نرم‌افزاری ساده به بازار عرضه کرد. این تجهیزات برای توقف اضطراری خطوط تولید و حفاظت از اپراتورهای ماشین‌آلات سنگین کاربرد حیاتی دارند. رله‌های جدید با استانداردهای بین‌المللی ایمنی SIL 3 و PL e کاملاً مطابقت دارند.",
+      "category": "product",
+      "published_at": "1405/07/23 18:50",
+      "collected_at": "1405/07/23 20:03",
+      "source": "Machine Design",
+      "source_url": "https://www.machinedesign.com/sirius-3sk3-safety-relays",
+      "tags": [
+        "SIRIUS",
+        "ایمنی ماشین‌آلات",
+        "SIL 3"
       ]
     }
   ]
