@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 76,
+  "count": 86,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 17:01",
+  "updated_at": "1405/07/23 17:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1223,6 +1223,166 @@
         "Digital Twin",
         "Pharma",
         "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسخه جدید ماژول‌های ایمنی SIMATIC S7-1500F برای خطوط رباتیک پیچیده",
+      "summary": "شرکت زیمنس از نسخه جدید ماژول‌های ایمنی پیشرفته برای کنترل‌کننده‌های SIMATIC S7-1500F رونمایی کرد. این تجهیزات جدید با هدف افزایش ایمنی اپراتورها در خطوط مونتاژ رباتیک فشرده طراحی شده‌اند. این ماژول‌ها زمان پاسخگویی سیستم‌های ایمنی را به طور چشمگیری کاهش داده و با استاندارد IEC 62443 سازگاری کامل دارند.",
+      "category": "product",
+      "published_at": "1405/07/23 08:30",
+      "collected_at": "1405/07/23 17:04",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500f-safety-modules",
+      "tags": [
+        "SIMATIC S7-1500F",
+        "Safety Integrated",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های بلادرنگ در سیستم‌های اسکادا WinCC Unified V19 SP2",
+      "summary": "بسته به‌روزرسانی جدید برای پلتفرم اسکادا WinCC Unified V19 منتشر شد که قابلیت‌های مانیتورینگ بلادرنگ را بهبود می‌بخشد. این نسخه ابزارهای تجسم‌سازی پیشرفته‌تری را برای پایش عملکردهای کارخانه فراهم می‌کند. مهندسان اکنون می‌توانند داشبوردهای سفارشی‌تری را با سرعت پردازش داده بالاتر در محیط وب مستقر کنند.",
+      "category": "product",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 17:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/wincc-unified-v19-sp2",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه زیرساخت‌های شبکه صنعتی با سوئیچ‌های مدولار SCALANCE X-300",
+      "summary": "نسل جدید سوئیچ‌های شبکه صنعتی SCALANCE X-300 توسط زیمنس برای پشتیبانی از حجم بالای داده‌های اتوماسیون معرفی شد. این سوئیچ‌ها پایداری ارتباطات را در شبکه‌های بزرگ صنعتی و مبتنی بر پروتکل PROFINET تضمین می‌کنند. این تجهیزات نقش کلیدی در یکپارچه‌سازی لایه OT با زیرساخت‌های ابری ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/23 10:00",
+      "collected_at": "1405/07/23 17:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/scalance-x-300-industrial-switches",
+      "tags": [
+        "SCALANCE",
+        "Industrial Networks",
+        "PROFINET",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی در پمپ‌های صنعتی با درایورهای SINAMICS G150",
+      "summary": "سری جدید مبدل‌های فرکانسی SINAMICS G150 برای کنترل دور موتورهای بزرگ در صنایع فرایندی به بازار عرضه شد. این درایوها با کاهش اتلاف انرژی در پمپ‌ها و فن‌های صنعتی، هزینه‌های بهره‌برداری را به شدت کاهش می‌دهند. این فناوری گامی مهم در راستای دستیابی به اهداف توسعه پایدار و کاهش انتشار کربن در کارخانه‌ها است.",
+      "category": "product",
+      "published_at": "1405/07/23 10:45",
+      "collected_at": "1405/07/23 17:04",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/news/sinamics-g150-energy-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Inverter"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش کاربرد هوش مصنوعی لبه با رایانه‌های صنعتی SIMATIC IPC 427E",
+      "summary": "زیمنس رایانه‌های صنعتی SIMATIC IPC 427E را با پردازنده‌های بهینه‌شده برای پردازش هوش مصنوعی در لبه شبکه به‌روزرسانی کرد. این سخت‌افزارها امکان اجرای الگوریتم‌های یادگیری ماشین را به طور مستقیم روی ماشین‌آلات فراهم می‌کنند. این رویکرد تأخیر انتقال داده به فضای ابری را از بین برده و سرعت واکنش سیستم‌های کنترل را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/23 11:30",
+      "collected_at": "1405/07/23 17:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/edge-computing/simatic-ipc-427e-ai",
+      "tags": [
+        "SIMATIC IPC",
+        "Edge Computing",
+        "Artificial Intelligence",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ماژول‌های ورودی و خروجی توزیع‌شده جدید برای سیستم SIMATIC ET 200MP",
+      "summary": "سری جدید ماژول‌های I/O برای سیستم توزیع‌شده SIMATIC ET 200MP با چگالی بالاتر معرفی شد. این ماژول‌ها فضای کمتری را در تابلوهای برق اشغال کرده و نصب تجهیزات را تسهیل می‌کنند. این محصول ارتباط پایدارتری میان حسگرهای مزرعه صنعتی و کنترل‌کننده‌های مرکزی برقرار می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/23 12:15",
+      "collected_at": "1405/07/23 17:04",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/automation/simatic-et-200mp-expansion",
+      "tags": [
+        "SIMATIC ET 200MP",
+        "Distributed I/O",
+        "PLC",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "یکپارچه‌سازی ابزارهای مهندسی در پلتفرم TIA Portal V20 برای تیم‌های بزرگ",
+      "summary": "آخرین نسخه از محیط مهندسی TIA Portal V20 با قابلیت‌های پیشرفته مدیریت پروژه گروهی منتشر شد. این پلتفرم به مهندسان اتوماسیون اجازه می‌دهد به صورت همزمان روی پروژه‌های بزرگ صنعتی کار کنند. ابزارهای اعتبارسنجی خودکار در این نسخه خطاهای برنامه‌نویسی PLC را به حداقل می‌رسانند.",
+      "category": "product",
+      "published_at": "1405/07/23 13:00",
+      "collected_at": "1405/07/23 17:04",
+      "source": "Siemens Global",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry-software/tia-portal-v20.html",
+      "tags": [
+        "TIA Portal",
+        "Engineering Software",
+        "Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "افزایش امنیت سایبری شبکه‌های OT با فایروال صنعتی SCALANCE SC-636-2C",
+      "summary": "فایروال صنعتی جدید SCALANCE SC-636-2C برای حفاظت از بخش‌های حساس شبکه‌های اتوماسیون معرفی شد. این تجهیزات با قابلیت‌های رمزگذاری پیشرفته، از زیرساخت‌های حیاتی در برابر حملات سایبری محافظت می‌کنند. این فایروال به راحتی در معماری‌های موجود شبکه سازگار با استاندارد IEC 62443 پیاده‌سازی می‌شود.",
+      "category": "regulation",
+      "published_at": "1405/07/23 13:45",
+      "collected_at": "1405/07/23 17:04",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://www.cybersecurity-industrial.com/news/scalance-sc-636-2c",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT Security",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه دوقلوی دیجیتال خطوط تولید با نرم‌افزار Tecnomatix Plant Simulation",
+      "summary": "نسخه به‌روزرسانی‌شده نرم‌افزار Tecnomatix Plant Simulation برای شبیه‌سازی پیشرفته لجستیک کارخانه عرضه شد. این نرم‌افزار به طراحان خطوط تولید کمک می‌کند تا پیش از ساخت فیزیکی، گلوگاه‌های تولید را شناسایی کنند. این راهکار تاثیر بسزایی در کاهش زمان راه‌اندازی و هزینه‌های سرمایه‌گذاری خطوط جدید دارد.",
+      "category": "news",
+      "published_at": "1405/07/23 14:30",
+      "collected_at": "1405/07/23 17:04",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/story/tecnomatix-plant-simulation-update",
+      "tags": [
+        "Tecnomatix",
+        "Digital Twin",
+        "Simulation",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "ارتقای پایش وضعیت ماشین‌آلات با ماژول‌های مانیتورینگ لرزش SIPLUS CMS",
+      "summary": "ماژول‌های تخصصی SIPLUS CMS برای پایش آنلاین وضعیت سلامت مکانیکی موتورها و گیربکس‌ها معرفی شدند. این سیستم با تحلیل مداوم لرزش‌ها، خرابی‌های احتمالی قطعات را پیش از بروز وقفه در تولید پیش‌بینی می‌کند. این امر هزینه‌های تعمیرات اضطراری را کاهش داده و بهره‌وری کلی تجهیزات را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/23 15:15",
+      "collected_at": "1405/07/23 17:04",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/articles/siplus-cms-vibration-monitoring",
+      "tags": [
+        "SIPLUS CMS",
+        "Predictive Maintenance",
+        "Condition Monitoring",
+        "Sensors"
       ]
     }
   ]
