@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 69,
+  "count": 70,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 03:00",
+  "updated_at": "1405/07/24 03:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1104,6 +1104,22 @@
         "Robotics",
         "SIMATIC",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "تقویت شبکه‌های صنعتی با نسل جدید تجهیزات SCALANCE",
+      "summary": "زیمنس سبد محصولات شبکه صنعتی SCALANCE خود را با رویکرد امنیت سایبری بالا و پشتیبانی از استانداردهای اترنت صنعتی به‌روزرسانی کرد. این سوییچ‌ها و روترهای جدید برای مقاومت در برابر شرایط سخت محیطی و حملات سایبری طراحی شده‌اند. این تجهیزات زیرساخت ارتباطی امنی را برای کارخانه‌های متصل و هوشمند فراهم می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 02:42",
+      "collected_at": "1405/07/24 03:02",
+      "source": "Industrial Cyber",
+      "source_url": "https://www.industrialcyber.co/siemens-scalance-network-security-update",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Industrial Cybersecurity",
+        "Networking"
       ]
     }
   ]
