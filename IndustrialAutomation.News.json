@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 123,
+  "count": 129,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 19:01",
+  "updated_at": "1405/07/23 19:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1965,6 +1965,102 @@
         "Sirius",
         "Safety",
         "Protection"
+      ]
+    },
+    {
+      "id": "ia-20261014-002",
+      "title": "آپدیت جدید TIA Portal V19 SP1 با ابزارهای هوش مصنوعی مهندسی",
+      "summary": "شرکت زیمنس بسته بروزرسانی جدیدی را برای محیط مهندسی TIA Portal V19 منتشر کرد که قابلیت‌های هوش مصنوعی را در کدنویسی بهبود می‌بخشد. این ابزار به توسعه‌دهندگان کمک می‌کند تا خطاهای منطقی را سریع‌تر شناسایی کرده و زمان راه‌اندازی خطوط تولید را کاهش دهند. این نسخه عملکرد یکپارچه‌سازی با دوقلوهای دیجیتال را نیز به طور چشمگیری افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 19:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/tia-portal-v19-sp1",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Engineering",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261014-003",
+      "title": "گسترش قابلیت‌های مانیتورینگ در سیستم‌های اسکادا WinCC Unified V19",
+      "summary": "نسخه جدید سیستم اسکادا WinCC Unified قابلیت‌های تجسم‌سازی پیشرفته‌ای را برای نظارت بر فرآیندهای صنعتی ارائه می‌دهد. این نرم‌افزار با بهره‌گیری از تکنولوژی وب‌نحو، دسترسی ایمن اپراتورها را به داده‌های حیاتی کارخانه از طریق هر دستگاهی فراهم می‌کند. این راهکار نقش مهمی در ارتقای بهره‌وری و کاهش زمان توقف خطوط تولید دارد.",
+      "category": "product",
+      "published_at": "1405/07/23 10:00",
+      "collected_at": "1405/07/23 19:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/wincc-unified-v19-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261014-004",
+      "title": "افزایش امنیت سایبری تجهیزات OT با فایروال‌های جدید SCALANCE SC-600",
+      "summary": "خانواده محصولات امنیت شبکه زیمنس با معرفی ماژول‌های جدید SCALANCE SC-600 گسترش یافت تا از شبکه‌های صنعتی در برابر تهدیدات سایبری محافظت کند. این تجهیزات قابلیت رمزگذاری پیشرفته و بخش‌بندی امن شبکه را برای سیستم‌های کنترل صنعتی فراهم می‌آورند. نصب آسان و مدیریت متمرکز از ویژگی‌های اصلی این تجهیزات است.",
+      "category": "product",
+      "published_at": "1405/07/23 11:10",
+      "collected_at": "1405/07/23 19:03",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/scalance-sc600",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261014-006",
+      "title": "توسعه رایانه‌های صنعتی قدرتمند SIMATIC IPC 547G برای پردازش لبه‌ای",
+      "summary": "رایانه صنعتی جدید SIMATIC IPC 547G با پردازنده‌های نسل جدید اینتل برای کاربردهای سنگین پردازش لبه‌ای معرفی شد. این سیستم با پایداری بالا در شرایط سخت محیطی کارخانه، امکان اجرای الگوریتم‌های یادگیری ماشین را در محل تولید فراهم می‌کند. این امر تصمیم‌گیری بلادرنگ بر اساس داده‌های سنسورها را میسر می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/23 13:40",
+      "collected_at": "1405/07/23 19:03",
+      "source": "IE Frequently",
+      "source_url": "https://www.iefrequently.com/simatic-ipc-547g",
+      "tags": [
+        "SIMATIC IPC",
+        "Edge Computing",
+        "Industrial PC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261014-007",
+      "title": "گسترش راهکارهای دوقلوی دیجیتال در صنایع داروسازی با نرم‌افزار Tecnomatix",
+      "summary": "زیمنس از به‌روزرسانی نرم‌افزار Tecnomatix برای بهینه‌سازی خطوط تولید دارویی خبر داد که شبیه‌سازی فرآیندها را دقیق‌تر می‌کند. این ابزار به شرکت‌ها کمک می‌کند تا قبل از راه‌اندازی فیزیکی خط، خطاهای احتمالی را شناسایی و اصلاح نمایند. این راهکار تاثیر بسزایی در کاهش هزینه‌های ساخت و تسریع ورود دارو به بازار دارد.",
+      "category": "news",
+      "published_at": "1405/07/23 14:50",
+      "collected_at": "1405/07/23 19:03",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/automation/tecnomatix-pharma",
+      "tags": [
+        "Tecnomatix",
+        "Digital Twin",
+        "Siemens",
+        "Pharma"
+      ]
+    },
+    {
+      "id": "ia-20261014-009",
+      "title": "توسعه ماژول‌های توزیع‌شده SIMATIC ET 200SP برای محیط‌های سخت صنعتی",
+      "summary": "سری جدید ماژول‌های ورودی و خروجی توزیع‌شده SIMATIC ET 200SP با مقاومت بالا در برابر دماهای شدید و ارتعاشات معرفی شدند. این ماژول‌ها سیم‌کشی را به دلیل فناوری اتصال سریع به طور قابل توجهی ساده‌تر می‌کنند و فضای کمتری در تابلو اشغال می‌نمایند. این محصول برای استفاده در صنایع سنگین و خودروسازی بسیار ایده‌آل است.",
+      "category": "product",
+      "published_at": "1405/07/23 16:45",
+      "collected_at": "1405/07/23 19:03",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/simatic-et200sp",
+      "tags": [
+        "SIMATIC ET 200",
+        "I/O",
+        "Siemens",
+        "Factory Automation"
       ]
     }
   ]
