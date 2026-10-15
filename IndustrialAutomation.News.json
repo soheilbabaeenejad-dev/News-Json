@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 94,
+  "count": 104,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 18:03",
+  "updated_at": "1405/07/23 18:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1510,6 +1510,166 @@
         "Cybersecurity",
         "SCALANCE",
         "IEC 62443",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261014-001",
+      "title": "نسخه جدید محیط مهندسی TIA Portal V20 با تمرکز بر اتوماسیون مبتنی بر ابر",
+      "summary": "شرکت زیمنس نسخه جدید محیط مهندسی محبوب خود یعنی TIA Portal V20 را با امکانات پیشرفته همکاری تیمی مبتنی بر ابر منتشر کرد. این نسخه جدید به مهندسان اجازه می‌دهد تا پروژه‌های اتوماسیون صنعتی را با سرعت بالاتر و به صورت همزمان توسعه دهند. پلتفرم جدید شامل ابزارهای ارتقایافته برای کاهش زمان راه‌اندازی خطوط تولید و بهبود بهره‌وری است.",
+      "category": "product",
+      "published_at": "1405/07/23 09:15",
+      "collected_at": "1405/07/23 18:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/tia-portal-v20-cloud-engineering",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Engineering",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261014-002",
+      "title": "معرفی کنترل‌کننده صنعتی SIMATIC S7-1500 مجهز به واحدهای پردازشی عصبی",
+      "summary": "زیمنس نسل تازه‌ای از کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 را با قابلیت‌های پردازش هوش مصنوعی در لبه شبکه معرفی کرد. این پردازنده‌های جدید امکان اجرای الگوریتم‌های یادگیری ماشین را به صورت مستقیم روی کنترل‌کننده فراهم می‌کنند. این فناوری به شناسایی زودهنگام خطاهای احتمالی ماشین‌آلات و کاهش زمان توقف خط تولید کمک شایانی خواهد کرد.",
+      "category": "product",
+      "published_at": "1405/07/23 10:30",
+      "collected_at": "1405/07/23 18:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/plc/article/siemens-simatic-s7-1500-ai-controller",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "AI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261014-003",
+      "title": "توسعه زیرساخت‌های شبکه امن با روترهای صنعتی جدید SCALANCE M-800",
+      "summary": "خط تولید تجهیزات شبکه صنعتی زیمنس با معرفی روترهای جدید سری SCALANCE M-800 برای ارتباطات امن از راه دور توسعه یافت. این تجهیزات ارتباطی امکان اتصال ایمن دستگاه‌های میدانی را به پلتفرم‌های ابری از طریق پروتکل‌های رمزنگاری شده فراهم می‌کنند. استفاده از این روترها به مدیران کارخانه‌ها اجازه می‌دهد تا نظارت بهتری بر دارایی‌های دورافتاده خود داشته باشند.",
+      "category": "product",
+      "published_at": "1405/07/23 11:00",
+      "collected_at": "1405/07/23 18:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/products/networking/article/scalance-m800-secure-routers",
+      "tags": [
+        "SCALANCE",
+        "Industrial Network",
+        "Cybersecurity",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261014-004",
+      "title": "ارتقای سیستم‌های اسکادا با انتشار به‌روزرسانی جدید WinCC Unified V19 SP3",
+      "summary": "بخش اتوماسیون زیمنس بسته‌ی به‌روزرسانی جدید WinCC Unified V19 SP3 را با قابلیت‌های گرافیکی پیشرفته وب‌محور عرضه کرد. این نسخه جدید کارایی مانیتورینگ فرآیندهای صنعتی را بهبود بخشیده و ابزارهای بهتری برای تحلیل داده‌های بلادرنگ ارائه می‌دهد. اپراتورها اکنون می‌توانند داشبوردهای سفارشی‌سازی شده‌تری را روی انواع نمایشگرها بدون نیاز به نصب نرم‌افزار اضافی اجرا کنند.",
+      "category": "product",
+      "published_at": "1405/07/23 12:20",
+      "collected_at": "1405/07/23 18:05",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industriale-technology.com/software/wincc-unified-v19-sp3",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261014-005",
+      "title": "بهینه‌سازی مصرف انرژی کارخانه‌ها با نسخه جدید پلتفرم Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس ابزارهای جدیدی برای مدیریت و بهینه‌سازی مصرف انرژی در صنایع سنگین دریافت کرد. این ماژول‌های جدید به پایش لحظه‌ای میزان مصرف برق، آب و گاز در بخش‌های مختلف خط تولید می‌پردازند. کارخانه‌ها با کمک این گزارش‌های تحلیلی دقیق می‌توانند هزینه‌های انرژی خود را تا پانزده درصد کاهش دهند.",
+      "category": "news",
+      "published_at": "1405/07/23 13:45",
+      "collected_at": "1405/07/23 18:05",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud/insights-hub-energy-management-update",
+      "tags": [
+        "Insights Hub",
+        "Energy Efficiency",
+        "Cloud",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261014-006",
+      "title": "افزایش قابلیت‌های پردازش لبه‌ای با رایانه‌های صنعتی SIMATIC IPC 3000",
+      "summary": "خانواده رایانه‌های صنعتی زیمنس با معرفی مدل جدید SIMATIC IPC 3000 برای کاربردهای سنگین پردازش لبه‌ای گسترش یافت. این سیستم‌ها با برخورداری از طراحی بدون فن و مقاومت بالا در برابر ارتعاشات شدید، برای نصب در محیط‌های خشن کارگاهی ایده‌آل هستند. این رایانه‌ها اجرای برنامه‌های تحلیل داده‌های سنگین را در کنار خط تولید با پایداری کامل تضمین می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/23 14:10",
+      "collected_at": "1405/07/23 18:05",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/automation/simatic-ipc-3000-edge-computing",
+      "tags": [
+        "SIMATIC IPC",
+        "Edge Computing",
+        "Hardware",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261014-007",
+      "title": "گسترش کاربرد دوقلوی دیجیتال در صنایع باتری‌سازی با نرم‌افزار Tecnomatix",
+      "summary": "زیمنس از راهکارهای جدید نرم‌افزار Tecnomatix برای شبیه‌سازی پیشرفته خطوط تولید باتری خودروهای الکتریکی رونمایی کرد. این فناوری به مهندسان اجازه می‌دهد تا کل فرآیند مونتاژ سلول‌های باتری را پیش از راه‌اندازی فیزیکی به صورت مجازی تست و بهینه‌سازی کنند. این رویکرد نقش مهمی در تسریع زمان ورود محصولات جدید به بازار و کاهش ضایعات تولید دارد.",
+      "category": "industry",
+      "published_at": "1405/07/23 15:00",
+      "collected_at": "1405/07/23 18:05",
+      "source": "Automotive Manufacturing",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-tecnomatix-EV-battery",
+      "tags": [
+        "Tecnomatix",
+        "Digital Twin",
+        "EV Battery",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261014-008",
+      "title": "معرفی اینورترهای پیشرفته SINAMICS G320 برای کنترل دقیق حرکت در ماشین‌آلات",
+      "summary": "شرکت زیمنس درایوهای فرکانسی جدید سری SINAMICS G320 را با تمرکز بر کنترل دقیق دور موتورهای الکتریکی معرفی کرد. این اینورترها با پشتیبانی از پروتکل‌های ارتباطی استاندارد، به راحتی با کنترل‌کننده‌های SIMATIC یکپارچه می‌شوند. این محصول جدید بازدهی انرژی سیستم‌های انتقال قدرت را به طور قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/23 15:40",
+      "collected_at": "1405/07/23 18:05",
+      "source": "Machine Design",
+      "source_url": "https://www.machinedesign.com/automation/article/sinamics-g320-frequency-inverters",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Inverter",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261014-009",
+      "title": "توسعه ماژول‌های ورودی و خروجی ایمن در سیستم SIMATIC ET 200SP",
+      "summary": "سری سیستم‌های I/O توزیع‌شده SIMATIC ET 200SP زیمنس با افزودن ماژول‌های ایمنی جدید توسعه یافت. این ماژول‌های جدید امکان اتصال حسگرها و عملگرهای ایمن را با بالاترین سطوح استاندارد SIL3 فراهم می‌کنند. طراحی فشرده این ماژول‌ها نصب آن‌ها را در تابلوهای برق با فضای محدود بسیار آسان‌تر کرده است.",
+      "category": "product",
+      "published_at": "1405/07/23 16:25",
+      "collected_at": "1405/07/23 18:05",
+      "source": "Industrial Plant",
+      "source_url": "https://www.industrialplant-magazine.com/simatic-et200sp-safety-modules",
+      "tags": [
+        "SIMATIC ET 200SP",
+        "Safety",
+        "I/O",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261014-010",
+      "title": "ارتقای استاندارد امنیت سایبری در زیرساخت‌های اتوماسیون با گواهینامه جدید IEC 62443",
+      "summary": "تجهیزات اتوماسیون صنعتی زیمنس موفق به کسب بالاترین رتبه‌های استاندارد بین‌المللی امنیت سایبری IEC 62443 شدند. این استاندارد سخت‌گیرانه تضمین می‌کند که محصولات سخت‌افزاری و نرم‌افزاری شرکت در برابر حملات پیچیده سایبری OT مقاوم هستند. این دستاورد به صنایع مختلف کمک می‌کند تا از شبکه‌های حیاتی خود در برابر تهدیدات روزافزون دیجیتال محافظت کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/23 17:10",
+      "collected_at": "1405/07/23 18:05",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-iec62443-certification",
+      "tags": [
+        "Cybersecurity",
+        "IEC 62443",
+        "OT Security",
         "Siemens"
       ]
     }
