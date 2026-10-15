@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 86,
+  "count": 87,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/23 18:00",
+  "updated_at": "1405/07/23 18:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1383,6 +1383,22 @@
         "Predictive Maintenance",
         "Condition Monitoring",
         "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسخه جدید محیط مهندسی TIA Portal V20 با ابزارهای برنامه‌نویسی ابری تیمی",
+      "summary": "شرکت زیمنس نسخه جدید محیط مهندسی TIA Portal V20 را با تمرکز بر قابلیت‌های برنامه‌نویسی ابری تیمی و ابزارهای هوش مصنوعی منتشر کرد. این نسخه به مهندسان اتوماسیون اجازه می‌دهد تا پروژه‌های پیچیده SIMATIC را به صورت همزمان و از راه دور توسعه دهند و زمان توقف خطوط تولید را کاهش دهند. این به‌روزرسانی گامی مهم در جهت تحول دیجیتال و یکپارچه‌سازی پلتفرم Xcelerator محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/23 08:30",
+      "collected_at": "1405/07/23 18:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/tia-portal-v20-cloud-engineering",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "SIMATIC",
+        "Engineering"
       ]
     }
   ]
