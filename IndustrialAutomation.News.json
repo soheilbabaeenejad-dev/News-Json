@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 277,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 11:02",
+  "count": 287,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/24 11:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4377,6 +4377,166 @@
         "ET 200SP",
         "Market Trends",
         "Asia"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "معرفی کنترلرهای جدید SIMATIC S7-1200 G2 با قابلیت‌های پردازش ابری",
+      "summary": "شرکت زیمنس نسل جدید کنترلرهای منطقی برنامه‌پذیر SIMATIC S7-1200 G2 را با تمرکز بر اتصال مستقیم به سرویس‌های ابری معرفی کرد. این تجهیزات جدید با هدف بهبود انعطاف‌پذیری در اتوماسیون ماشین‌آلات کوچک و متوسط طراحی شده‌اند. این ماژول‌ها امکان انتقال امن داده‌ها به پلتفرم‌های مانیتورینگ را بدون نیاز به سخت‌افزارهای واسط فراهم می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:15",
+      "collected_at": "1405/07/24 11:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1200-g2-launch",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "بروزرسانی نرم‌افزار WinCC Unified V19 با ابزارهای تحلیل داده‌های زنده",
+      "summary": "نسخه جدید نرم‌افزار مانیتورینگ WinCC Unified V19 از سوی زیمنس منتشر شد تا امکانات پیشرفته‌تری در زمینه مصورسازی فرآیندهای صنعتی ارائه دهد. این پلتفرم با پشتیبانی از وب‌سایت‌های واکنش‌گرا، نظارت بر خطوط تولید را از طریق تبلت و موبایل ساده‌تر می‌کند. اپراتورها اکنون می‌توانند تحلیل‌های آماری لحظه‌ای را مستقیماً روی داشبوردهای گرافیکی مشاهده کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:45",
+      "collected_at": "1405/07/24 11:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/article/siemens-wincc-unified-v19",
+      "tags": [
+        "WinCC",
+        "SCADA",
+        "HMI",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "گسترش پروتکل ارتباطی OPC UA TSN در تجهیزات ابزار دقیق و کنترل",
+      "summary": "استانداردسازی ارتباطات صنعتی با توسعه ماژول‌های مجهز به فناوری OPC UA TSN توسط شرکت‌های پیشرو اتوماسیون شتاب گرفت. این فناوری تضمین می‌کند که داده‌های حیاتی سیستم‌های کنترل با قطعیت زمانی کامل در بستر اترنت منتقل شوند. تجهیزات جدید به کاهش تاخیر شبکه در خطوط تولید پیوسته کمک شایانی می‌کنند.",
+      "category": "industry",
+      "published_at": "1405/07/24 09:10",
+      "collected_at": "1405/07/24 11:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/opc-ua-tsn-expansion-industrial-networks",
+      "tags": [
+        "OPC UA",
+        "TSN",
+        "Networking",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "ارتقای امنیت تجهیزات SCALANCE برای حفاظت از شبکه‌های صنعتی OT",
+      "summary": "نسخه جدید سوئیچ‌های صنعتی خانواده SCALANCE با قابلیت‌های پیشرفته امنیت سایبری و دیواره آتش داخلی عرضه شدند. این تجهیزات برای مقابله با تهدیدات رو به رشد علیه زیرساخت‌های حیاتی و شبکه‌های اتوماسیون طراحی شده‌اند. مدیران شبکه می‌توانند ترافیک لایه دو و سه را با دقت بسیار بالایی مانیتور و مدیریت کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 09:30",
+      "collected_at": "1405/07/24 11:03",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-security-update",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "توسعه قابلیت‌های نگهداری پیش‌بینانه با نسل جدید پلتفرم Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به ابزارهای جدید یادگیری ماشین برای پیش‌بینی خرابی تجهیزات مکانیکی مجهز شد. این ابزارها با تحلیل داده‌های ارتعاشی و دمایی موتورهای سنگین، زمان دقیق نیاز به سرویس را تخمین می‌زنند. این راهکار مانع از توقف‌های ناخواسته در کارخانه‌های بزرگ تولیدی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 09:50",
+      "collected_at": "1405/07/24 11:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud/siemens-insights-hub-predictive-maintenance",
+      "tags": [
+        "Insights Hub",
+        "MindSphere",
+        "Predictive Maintenance",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "بهینه‌سازی مصرف انرژی پمپ‌های صنعتی با درایورهای سری SINAMICS G220",
+      "summary": "اینورترهای پیشرفته SINAMICS G220 زیمنس با قابلیت‌های بهینه‌سازی انرژی برای کاربری‌های پمپ و فن به بازار عرضه شدند. این درایوها با کاهش تلفات الکتریکی و تطبیق هوشمند دور موتور با بار مکانیکی، راندمان کلی سیستم را افزایش می‌دهند. این تجهیزات نقش کلیدی در کاهش ردپای کربن در صنایع فرآیندی ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 10:05",
+      "collected_at": "1405/07/24 11:03",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/aid/siemens-sinamics-g220-energy-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Motors"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "استفاده از سیستم‌های توزیع‌شده SIMATIC ET 200SP HA در صنایع نفت و گاز",
+      "summary": "ماژول‌های I/O توزیع‌شده SIMATIC ET 200SP HA زیمنس به دلیل طراحی فشرده و مقاومت در برابر شرایط سخت محیطی مورد استقبال صنایع پتروشیمی قرار گرفتند. این سیستم‌ها نصب سیم‌کشی را در کابینت‌های کنترل به شدت کاهش داده و سرعت راه‌اندازی پروژه را بالا می‌برند. قابلیت تعویض ماژول‌ها در حین کار از ویژگی‌های بارز این تجهیزات است.",
+      "category": "industry",
+      "published_at": "1405/07/24 10:20",
+      "collected_at": "1405/07/24 11:03",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-simatic-et200sp-ha-applications",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "Process Control",
+        "Oil and Gas"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای توسعه آموزش‌های دیجیتال تویین",
+      "summary": "یک تفاهم‌نامه همکاری آموزشی میان زیمنس و دانشگاه فنی مونیخ برای تربیت متخصصان دوقلوهای دیجیتال امضا شد. دانشجویان رشته‌های مهندسی اتوماسیون به آخرین ابزارهای نرم‌افزاری زیمنس از جمله TIA Portal و Plant Simulation دسترسی پیدا خواهند کرد. این برنامه آموزشی با هدف کاهش فاصله میان صنعت و دانشگاه تدوین شده است.",
+      "category": "society",
+      "published_at": "1405/07/24 10:35",
+      "collected_at": "1405/07/24 11:03",
+      "source": "EdTech Review",
+      "source_url": "https://edtechreview.in/siemens-tum-digital-twin-education-partnership",
+      "tags": [
+        "Digital Twin",
+        "Education",
+        "TIA Portal",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "افزایش بهره‌وری خطوط مونتاژ الکترونیک با کنترلرهای رباتیک SIMATIC Robot Integrator",
+      "summary": "کتابخانه نرم‌افزاری SIMATIC Robot Integrator زیمنس امکان اتصال یکپارچه انواع ربات‌های صنعتی را به کنترلرهای اصلی خط تولید فراهم کرد. این ابزار مهندسی زمان برنامه‌نویسی بازوها و ربات‌های چندمحوره را به صورت چشمگیری کاهش می‌دهد. کارخانه‌های تولید لوازم الکترونیکی از این راهکار برای تسریع تغییرات مدل محصول بهره می‌برند.",
+      "category": "product",
+      "published_at": "1405/07/24 10:48",
+      "collected_at": "1405/07/24 11:03",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/siemens-simatic-robot-integrator-update",
+      "tags": [
+        "Robotics",
+        "SIMATIC",
+        "Automation",
+        "Assembly"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "گزارش جدید بازار اتوماسیون صنعتی: رشد تقاضا برای پلتفرم‌های لبه صنعتی",
+      "summary": "نتایج یک پژوهش تازه نشان می‌دهد که بازار جهانی تجهیزات لبه صنعتی (Industrial Edge) با رشد سالانه قابل توجهی روبرو است. شرکت‌ها به دنبال پردازش محلی داده‌ها برای کاهش تاخیر و حفظ حریم خصوصی اطلاعات تولید هستند. زیمنس به عنوان یکی از پیشگامان این حوزه با ارائه پلتفرم‌های نرم‌افزاری انعطاف‌پذیر سهم عمده‌ای از بازار را به خود اختصاص داده است.",
+      "category": "economy",
+      "published_at": "1405/07/24 11:00",
+      "collected_at": "1405/07/24 11:03",
+      "source": "Automation Market Research",
+      "source_url": "https://www.automationmarketresearch.com/reports/industrial-edge-market-growth-2026",
+      "tags": [
+        "Industrial Edge",
+        "Market Report",
+        "Digitalization",
+        "OT"
       ]
     }
   ]
