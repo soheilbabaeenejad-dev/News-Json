@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 347,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 14:01",
+  "count": 355,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/24 14:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5485,6 +5485,134 @@
         "Cloud",
         "Sustainability",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241015-001",
+      "title": "معرفی ماژول‌های جدید پردازش تصویر برای سیستم‌های SIMATIC",
+      "summary": "زیمنس از نسل جدید ماژول‌های پردازش تصویر برای کنترلرهای SIMATIC رونمایی کرد که امکان تحلیل آنی داده‌های بصری را در خطوط تولید فراهم می‌کند. این ماژول‌ها با ادغام مستقیم در TIA Portal، سرعت تشخیص خطا در محصولات را تا ۳۰ درصد افزایش می‌دهند. این فناوری به تولیدکنندگان کمک می‌کند تا استانداردهای کیفی را در محیط‌های پرسرعت صنعتی با دقت بالاتری حفظ کنند.",
+      "category": "product",
+      "published_at": "1403/07/24 09:00",
+      "collected_at": "1405/07/24 14:03",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/simatic/vision.html",
+      "tags": [
+        "SIMATIC",
+        "Vision",
+        "Automation",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20241015-002",
+      "title": "گسترش قابلیت‌های ارتباطی در سوئیچ‌های صنعتی SCALANCE",
+      "summary": "شرکت زیمنس سری جدید سوئیچ‌های صنعتی SCALANCE XC-200 را با پشتیبانی کامل از پروتکل‌های TSN معرفی کرد. این تجهیزات برای تضمین ارتباطات پایدار و بدون تاخیر در شبکه‌های پیچیده کارخانه‌ای طراحی شده‌اند. با استفاده از این سوئیچ‌ها، امنیت داده‌ها در لایه OT به طرز چشمگیری تقویت شده و مدیریت ترافیک شبکه در مقیاس‌های بزرگ صنعتی تسهیل می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/24 09:30",
+      "collected_at": "1405/07/24 14:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/networking/article/33142500/siemens-scalance-updates",
+      "tags": [
+        "SCALANCE",
+        "Networking",
+        "TSN",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20241015-003",
+      "title": "ارتقای سیستم مدیریت انرژی در پلتفرم Insights Hub",
+      "summary": "زیمنس با به‌روزرسانی پلتفرم Insights Hub، قابلیت‌های تحلیل پیشرفته برای پایش مصرف انرژی در کارخانجات را ارائه داد. این ابزار جدید به مدیران صنعتی اجازه می‌دهد تا با استفاده از مدل‌های هوش مصنوعی، نقاط اتلاف انرژی را در تجهیزات سنگین شناسایی کنند. این اقدام گامی مهم در جهت کاهش هزینه‌های عملیاتی و دستیابی به اهداف پایداری محیط‌زیستی در صنایع بزرگ است.",
+      "category": "industry",
+      "published_at": "1403/07/24 10:00",
+      "collected_at": "1405/07/24 14:03",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-news.com/siemens-insights-hub-energy-update",
+      "tags": [
+        "Insights Hub",
+        "Energy Management",
+        "Sustainability",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20241015-004",
+      "title": "توسعه درایوهای فرکانس متغیر SINAMICS برای کاربردهای سنگین",
+      "summary": "نسل جدید درایوهای SINAMICS G220 با قابلیت‌های پیشرفته کنترل موتور برای صنایع سنگین عرضه شد. این درایوها با بهره‌گیری از طراحی ماژولار، نصب و راه‌اندازی را در پروژه‌های اتوماسیون صنعتی ساده‌تر می‌کنند. بهبود بهره‌وری انرژی و کاهش نویز الکترومغناطیسی از جمله ویژگی‌های کلیدی این سری جدید است که برای محیط‌های سخت کارگاهی بهینه شده‌اند.",
+      "category": "product",
+      "published_at": "1403/07/24 10:30",
+      "collected_at": "1405/07/24 14:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sinamics-g220-launch",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Motor Control",
+        "Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20241015-006",
+      "title": "ماژول‌های ایمنی جدید برای سیستم‌های ET 200SP",
+      "summary": "زیمنس ماژول‌های جدید ایمنی (F-Modules) را برای خانواده سیستم‌های I/O توزیع‌شده ET 200SP معرفی کرد. این ماژول‌ها با استانداردهای ایمنی SIL3 مطابقت داشته و برای حفاظت از اپراتورها در خطوط تولید رباتیک بسیار حیاتی هستند. ادغام سریع این ماژول‌ها در شبکه PROFIsafe، پیاده‌سازی سیستم‌های ایمنی یکپارچه را برای مهندسان اتوماسیون بسیار آسان‌تر کرده است.",
+      "category": "product",
+      "published_at": "1403/07/24 11:30",
+      "collected_at": "1405/07/24 14:03",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/2024/siemens-et200sp-safety-modules",
+      "tags": [
+        "ET 200SP",
+        "Safety",
+        "Automation",
+        "PROFIsafe"
+      ]
+    },
+    {
+      "id": "ia-20241015-007",
+      "title": "بهبود امنیت سایبری در سیستم‌های کنترل صنعتی با پروتکل‌های جدید",
+      "summary": "زیمنس پروتکل‌های امنیتی جدیدی را برای تجهیزات کنترل صنعتی خود جهت مقابله با تهدیدات سایبری مدرن معرفی کرد. این راهکارها شامل رمزنگاری پیشرفته در سطح سخت‌افزار برای کنترلرهای SIMATIC است که از دسترسی‌های غیرمجاز جلوگیری می‌کند. این به‌روزرسانی‌ها به ویژه برای زیرساخت‌های حیاتی که نیاز به امنیت بسیار بالایی دارند، طراحی و پیاده‌سازی شده‌اند.",
+      "category": "regulation",
+      "published_at": "1403/07/24 12:00",
+      "collected_at": "1405/07/24 14:03",
+      "source": "Cybersecurity News",
+      "source_url": "https://www.cybersecurity-news.com/siemens-industrial-security-update",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "SIMATIC",
+        "Security"
+      ]
+    },
+    {
+      "id": "ia-20241015-008",
+      "title": "نرم‌افزار WinCC Unified V19 و قابلیت‌های جدید مانیتورینگ",
+      "summary": "نسخه جدید نرم‌افزار WinCC Unified V19 با رابط کاربری بهبود یافته و قابلیت‌های وب‌محور برای نظارت بر اتاق‌های فرمان منتشر شد. این نسخه به اپراتورها اجازه می‌دهد تا از طریق هر دستگاه متصل به شبکه، وضعیت خطوط تولید را به صورت لحظه‌ای مشاهده کنند. ابزارهای جدید تحلیل داده در این نسخه، سرعت پاسخ‌دهی به آلارم‌های سیستم را به طور قابل توجهی افزایش داده است.",
+      "category": "product",
+      "published_at": "1403/07/24 12:30",
+      "collected_at": "1405/07/24 14:03",
+      "source": "Siemens Industry",
+      "source_url": "https://support.industry.siemens.com/cs/document/wincc-unified-v19",
+      "tags": [
+        "WinCC",
+        "SCADA",
+        "HMI",
+        "Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20241015-009",
+      "title": "توسعه ربات‌های مشارکتی با کنترلرهای SIMATIC",
+      "summary": "زیمنس راهکار جدیدی برای یکپارچه‌سازی ربات‌های مشارکتی (Cobots) با سیستم‌های کنترل SIMATIC ارائه کرد. این راهکار به تولیدکنندگان اجازه می‌دهد تا ربات‌ها را مستقیماً از طریق محیط TIA Portal برنامه‌نویسی و کنترل کنند. این همگرایی باعث کاهش پیچیدگی‌های نرم‌افزاری و افزایش انعطاف‌پذیری در خطوط تولید کوچک و متوسط شده است که نیاز به تغییرات سریع دارند.",
+      "category": "industry",
+      "published_at": "1403/07/24 13:00",
+      "collected_at": "1405/07/24 14:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-cobot-integration",
+      "tags": [
+        "Robotics",
+        "Cobots",
+        "SIMATIC",
+        "Integration"
       ]
     }
   ]
