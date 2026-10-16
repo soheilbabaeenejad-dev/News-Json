@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 468,
+  "count": 474,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 18:05",
+  "updated_at": "1405/07/24 18:10",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7408,6 +7408,102 @@
         "Insights Hub",
         "Cloud",
         "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "نسخه جدید سیستم کنترل SIMATIC S7-1500 با ماژول‌های پردازش پیشرفته و پروتکل‌های امنیتی",
+      "summary": "شرکت زیمنس از عرضه نسخه جدید کنترلرهای قابل برنامه‌ریزی SIMATIC S7-1500 خبر داد که مابین ماژول‌های پردازشی پیشرفته و پروتکل‌های امنیتی یکپارچه ارتباطی بهینه‌تری ایجاد می‌کند. این محصول جدید به مهندسان اتوماسیون اجازه می‌دهد تا سیستم‌های پیچیده صنعتی را با سرعت بالاتر و امنیت سایبری تضمین‌شده مدیریت کنند. این بروزرسانی نقشی کلیدی در ارتقای پایداری خطوط تولید کارخانه‌های خودکار ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 18:10",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "PLC",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "ارتقای قابلیت‌های نرم‌افزار مهندسی TIA Portal V20 با ابزارهای تست خودکار",
+      "summary": "نسخه جدید پلتفرم مهندسی TIA Portal V20 زیمنس با تمرکز بر ابزارهای پیشرفته تست خودکار کدهای PLC و محیط توسعه یکپارچه‌تر عرضه شد. این ابزارها زمان راه‌اندازی پروژه‌های صنعتی را به طور چشمگیری کاهش داده و خطاهای انسانی در برنامه‌نویسی را به حداقل می‌رسانند. این توسعه گامی مهم در جهت سرعت بخشیدن به فرآیند دیجیتال‌سازی کارخانه‌ها به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/24 09:15",
+      "collected_at": "1405/07/24 18:10",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-tia-portal-v20-release",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Engineering Software",
+        "PLC Programming"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "بهینه‌سازی مصرف انرژی در کمپرسورها با درایورهای صنعتی SINAMICS G220",
+      "summary": "بهره‌گیری از نسل جدید درایورهای فرکانس متغیر SINAMICS G220 زیمنس در صنایع پتروشیمی توانسته است مصرف برق کمپرسورهای سنگین را تا حد زیادی بهینه‌سازی کند. این تجهیزات با برخورداری از الگوریتم‌های پیشرفته کنترل موتور، هدررفت انرژی در کارخانجات بزرگ را به شدت کاهش می‌دهند. این راهکار نقش مستقیمی در کاهش هزینه‌های عملیاتی و دستیابی به اهداف پایداری محیط زیست دارد.",
+      "category": "industry",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 18:10",
+      "source": "IEngineering",
+      "source_url": "https://www.iengineering.com/siemens-sinamics-g220-energy-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Siemens",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "توسعه قابلیت‌های هوش مصنوعی لبه با ماژول‌های جدید Industrial Edge",
+      "summary": "زیمنس از ماژول‌های سخت‌افزاری و اپلیکیشن‌های جدید پلتفرم Industrial Edge رونمایی کرد که پردازش داده‌های هوش مصنوعی را به صورت محلی در لبه شبکه امکان‌پذیر می‌سازد. این فناوری به اپراتورهای خطوط تولید اجازه می‌دهد تا بدون نیاز به اتصال دائم ابری، ناهنجاری‌های تجهیزات را لحظه‌ای شناسایی کنند. این رویکرد تأخیر زمانی در تصمیم‌گیری‌های بحرانی کارگاهی را به صفر نزدیک می‌کند.",
+      "category": "research",
+      "published_at": "1405/07/24 11:20",
+      "collected_at": "1405/07/24 18:10",
+      "source": "Industrial IoT 360",
+      "source_url": "https://www.industrialiot360.com/siemens-industrial-edge-ai-update",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "AI",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "گسترش سیستم‌های I/O توزیع‌شده با سری جدید SIMATIC ET 200SP HA",
+      "summary": "سری جدید ماژول‌های ورودی و خروجی توزیع‌شده SIMATIC ET 200SP HA زیمنس با قابلیت نصب در محیط‌های صنعتی سخت و خورنده معرفی شد. این تجهیزات انعطاف‌پذیری بالایی در توسعه شبکه‌های اتوماسیون فرآیند فراهم کرده و سیم‌کشی‌های سنتی اتاق‌های کنترل را ساده‌تر می‌سازند. این ماژول‌ها پایداری ارتباطات فیلد را در پروژه‌های مقیاس بزرگ تضمین می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 12:05",
+      "collected_at": "1405/07/24 18:10",
+      "source": "Automationcom",
+      "source_url": "https://www.automation.com/siemens-simatic-et-200sp-ha-expansion",
+      "tags": [
+        "SIMATIC",
+        "Siemens",
+        "Distributed I/O",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "بهبود دقت اندازه‌گیری در ابزار دقیق با فرستنده‌های دیجیتال جدید SIPART",
+      "summary": "خط تولید ابزار دقیق زیمنس با معرفی فرستنده‌های دیجیتال هوشمند SIPART توسعه یافت که دقت اندازه‌گیری فشار و جریان سیالات را افزایش می‌دهند. این سنسورها با پشتیبانی از پروتکل‌های ارتباطی پیشرفته، اطلاعات تشخیصی دقیق تجهیزات را مستقیماً به سیستم کنترل منتقل می‌کنند. این نوآوری کیفیت کنترل کیفیت در صنایع شیمیایی و داروسازی را ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 16:10",
+      "collected_at": "1405/07/24 18:10",
+      "source": "Process Automation News",
+      "source_url": "https://www.processautomationnews.com/siemens-sipart-transmitters",
+      "tags": [
+        "SIPART",
+        "Siemens",
+        "Instrumentation",
+        "Sensors"
       ]
     }
   ]
