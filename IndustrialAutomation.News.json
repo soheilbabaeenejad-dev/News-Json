@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 110,
+  "count": 119,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 05:00",
+  "updated_at": "1405/07/24 05:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1760,6 +1760,150 @@
         "Automation",
         "SIMATIC",
         "Supply Chain"
+      ]
+    },
+    {
+      "id": "ia-20261015-001",
+      "title": "معرفی نسل جدید ماژول‌های پردازش هوش مصنوعی برای SIMATIC S7-1500",
+      "summary": "زیمنس از ماژول‌های جدید پردازش هوش مصنوعی برای کنترلرهای SIMATIC S7-1500 رونمایی کرد. این ماژول‌ها به مهندسان اجازه می‌دهند تا مدل‌های یادگیری ماشین را مستقیماً در سطح کنترلر اجرا کنند. این نوآوری زمان پاسخ‌دهی در سیستم‌های کنترل کیفیت خودکار را به شدت کاهش داده و دقت تشخیص خطا را در خطوط تولید با سرعت بالا بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/24 05:02",
+      "collected_at": "1405/07/24 05:02",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/s7-1500.html",
+      "tags": [
+        "SIMATIC",
+        "AI",
+        "PLC",
+        "S7-1500"
+      ]
+    },
+    {
+      "id": "ia-20261015-002",
+      "title": "توسعه پروتکل‌های امنیتی در سوئیچ‌های صنعتی SCALANCE",
+      "summary": "شرکت زیمنس سری جدید سوئیچ‌های صنعتی SCALANCE را با پشتیبانی بومی از استانداردهای امنیتی IEC 62443 معرفی کرد. این تجهیزات با هدف ایمن‌سازی شبکه‌های OT در برابر حملات سایبری پیچیده طراحی شده‌اند. این ارتقا به مدیران شبکه کمک می‌کند تا بخش‌بندی شبکه را با دقت بیشتری انجام داده و دسترسی‌های غیرمجاز را در سطح فیلد باس مسدود کنند.",
+      "category": "industry",
+      "published_at": "1405/07/24 05:02",
+      "collected_at": "1405/07/24 05:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/security/article/21293456/siemens-scalance-updates",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261015-004",
+      "title": "گسترش قابلیت‌های ابری در سیستم کنترل PCS neo",
+      "summary": "زیمنس نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo را با قابلیت‌های مهندسی ابری ارتقا داد. این بروزرسانی به تیم‌های مهندسی در نقاط مختلف جهان اجازه می‌دهد تا به صورت همزمان روی یک پروژه واحد کار کنند. این تغییر پارادایم در طراحی سیستم‌های کنترل، هزینه‌های مهندسی را کاهش و سرعت اجرای پروژه‌های بزرگ صنعتی را افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/24 05:02",
+      "collected_at": "1405/07/24 05:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-pcs-neo-cloud-update/",
+      "tags": [
+        "PCS neo",
+        "Cloud Engineering",
+        "DCS",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261015-005",
+      "title": "همکاری زیمنس و انویدیا در توسعه دوقلوهای دیجیتال",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه پلتفرم‌های دوقلو دیجیتال مبتنی بر هوش مصنوعی گسترش دادند. این همکاری بر استفاده از پلتفرم Omniverse برای شبیه‌سازی دقیق کارخانه‌ها قبل از ساخت فیزیکی تمرکز دارد. هدف از این پروژه، کاهش خطاهای طراحی و بهینه‌سازی جریان کار در محیط‌های تولیدی پیچیده با استفاده از داده‌های واقعی است.",
+      "category": "company",
+      "published_at": "1405/07/24 05:02",
+      "collected_at": "1405/07/24 05:02",
+      "source": "TechCrunch",
+      "source_url": "https://www.siemens.com/global/en/company/stories/industry/nvidia-partnership.html",
+      "tags": [
+        "Digital Twin",
+        "Nvidia",
+        "AI",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261015-006",
+      "title": "افزایش دقت ابزار دقیق با فرستنده‌های دیجیتال SIPART PS100",
+      "summary": "زیمنس از سری جدید پوزیشنرهای دیجیتال SIPART PS100 برای شیرهای کنترلی رونمایی کرد. این تجهیزات با قابلیت‌های عیب‌یابی پیشرفته، وضعیت سلامت شیر را به صورت لحظه‌ای گزارش می‌دهند. این امر به تیم‌های نگهداری اجازه می‌دهد تا پیش از خرابی کامل تجهیزات، اقدامات لازم را انجام داده و از توقف‌های ناخواسته در خط تولید جلوگیری کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 05:02",
+      "collected_at": "1405/07/24 05:02",
+      "source": "Process Automation News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/process-instrumentation/positioners.html",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Maintenance",
+        "Valves"
+      ]
+    },
+    {
+      "id": "ia-20261015-007",
+      "title": "ارتقای پلتفرم مانیتورینگ WinCC Unified برای محیط‌های وب",
+      "summary": "نسخه جدید WinCC Unified V19 با تمرکز بر دسترسی آسان از طریق مرورگرهای وب منتشر شد. این پلتفرم اکنون از استانداردهای HTML5 به طور کامل پشتیبانی کرده و امکان نظارت بر خطوط تولید را از طریق تبلت و موبایل فراهم می‌کند. این انعطاف‌پذیری به مدیران کارخانه اجازه می‌دهد تا در هر لحظه و هر مکان بر شاخص‌های کلیدی عملکرد نظارت کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 05:02",
+      "collected_at": "1405/07/24 05:02",
+      "source": "Automation World",
+      "source_url": "https://new.siemens.com/global/en/products/automation/simatic-hmi/wincc-unified.html",
+      "tags": [
+        "WinCC",
+        "HMI",
+        "SCADA",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261015-008",
+      "title": "توسعه ماژول‌های ایمنی ET 200SP برای محیط‌های خطرناک",
+      "summary": "زیمنس ماژول‌های جدید I/O توزیع‌شده سری ET 200SP را با گواهینامه‌های ایمنی برای استفاده در محیط‌های انفجاری معرفی کرد. این ماژول‌ها با طراحی فشرده، فضای اشغال شده در تابلوهای برق را کاهش داده و نصب آن‌ها را در محیط‌های محدود آسان‌تر می‌کنند. این تجهیزات برای صنایع نفت، گاز و پتروشیمی که استانداردهای ایمنی بسیار سخت‌گیرانه‌ای دارند، ایده‌آل هستند.",
+      "category": "product",
+      "published_at": "1405/07/24 05:02",
+      "collected_at": "1405/07/24 05:02",
+      "source": "Industry Today",
+      "source_url": "https://www.siemens.com/global/en/products/automation/systems/industrial/io-systems/et200sp.html",
+      "tags": [
+        "ET 200SP",
+        "Safety",
+        "I/O",
+        "Hazardous Areas"
+      ]
+    },
+    {
+      "id": "ia-20261015-009",
+      "title": "گسترش کاربرد ربات‌های صنعتی با SIMATIC Robot Integrator",
+      "summary": "پلتفرم SIMATIC Robot Integrator زیمنس اکنون از برندهای بیشتری از ربات‌های صنعتی پشتیبانی می‌کند. این نرم‌افزار به کاربران اجازه می‌دهد تا ربات‌ها را به راحتی در محیط TIA Portal برنامه‌نویسی و با سایر تجهیزات اتوماسیون یکپارچه کنند. این یکپارچگی، پیچیدگی‌های برنامه‌نویسی را کاهش داده و زمان راه‌اندازی سلول‌های رباتیک را به حداقل می‌رساند.",
+      "category": "topic",
+      "published_at": "1405/07/24 05:02",
+      "collected_at": "1405/07/24 05:02",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/robotics.html",
+      "tags": [
+        "Robotics",
+        "TIA Portal",
+        "Integration",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261015-010",
+      "title": "نقش پلتفرم Insights Hub در پایش پایداری کارخانجات",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم Insights Hub برای تحلیل ردپای کربن اضافه کرد. این ابزار با جمع‌آوری داده‌های مصرف انرژی از تمامی تجهیزات متصل، گزارش‌های دقیقی از میزان انتشار گازهای گلخانه‌ای ارائه می‌دهد. این تحلیل‌ها به مدیران صنعتی کمک می‌کند تا استراتژی‌های خود را برای دستیابی به اهداف توسعه پایدار و کاهش هزینه‌های انرژی تدوین کنند.",
+      "category": "research",
+      "published_at": "1405/07/24 05:02",
+      "collected_at": "1405/07/24 05:02",
+      "source": "Sustainability Journal",
+      "source_url": "https://www.siemens.com/global/en/products/software/insights-hub.html",
+      "tags": [
+        "Insights Hub",
+        "Sustainability",
+        "Data Analytics",
+        "Energy"
       ]
     }
   ]
