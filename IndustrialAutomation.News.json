@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 549,
-  "provider": "Gemini/gemini-3-flash-preview",
-  "updated_at": "1405/07/24 22:02",
+  "count": 557,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/24 23:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8690,6 +8690,134 @@
         "NVIDIA",
         "Digital Twin",
         "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "معرفی ماژول‌های جدید پردازش تصویر مبتنی بر هوش مصنوعی برای SIMATIC",
+      "summary": "زیمنس از نسل جدید ماژول‌های پردازش تصویر برای کنترلرهای SIMATIC رونمایی کرد که با استفاده از الگوریتم‌های یادگیری عمیق، دقت بازرسی کیفیت در خطوط تولید را به شدت افزایش می‌دهد. این ماژول‌ها به صورت مستقیم با محیط TIA Portal یکپارچه شده و امکان تشخیص عیوب میکروسکوپی را در کسری از ثانیه فراهم می‌کنند. این نوآوری به کاهش ضایعات تولید و افزایش سرعت خروجی کارخانه‌ها کمک شایانی خواهد کرد.",
+      "category": "product",
+      "published_at": "1405/07/24 09:00",
+      "collected_at": "1405/07/24 23:01",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/simatic/ai-vision.html",
+      "tags": [
+        "SIMATIC",
+        "AI",
+        "Machine Vision",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "توسعه درایوهای فرکانس متغیر SINAMICS برای کاربردهای سنگین معدنی",
+      "summary": "سری جدید درایوهای SINAMICS G220 با قابلیت تحمل شرایط محیطی سخت و گرد و غبار شدید برای صنایع معدنی معرفی شد. این درایوها با بهره‌گیری از سیستم خنک‌کننده هوشمند، مصرف انرژی را تا ۱۵ درصد در موتورهای بزرگ کاهش می‌دهند. این محصول به دلیل قابلیت اطمینان بالا در محیط‌های خشن، گزینه‌ای ایده‌آل برای بهینه‌سازی فرآیندهای استخراج و فرآوری مواد معدنی در مقیاس بزرگ محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 11:30",
+      "collected_at": "1405/07/24 23:01",
+      "source": "Automation World",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics/g220.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Mining",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "همکاری زیمنس و انویدیا برای شبیه‌سازی دقیق کارخانه‌های هوشمند",
+      "summary": "زیمنس و انویدیا در پروژه مشترکی، قابلیت‌های دوقلوی دیجیتال را در پلتفرم Xcelerator با موتورهای گرافیکی پیشرفته ادغام کردند. این همکاری به مهندسان اجازه می‌دهد تا پیش از ساخت فیزیکی کارخانه، تمامی فرآیندهای تولید را در محیط مجازی با دقت بالا شبیه‌سازی کنند. این فناوری به کاهش هزینه‌های راه‌اندازی و بهینه‌سازی چیدمان رباتیک در خطوط تولید کمک می‌کند.",
+      "category": "research",
+      "published_at": "1405/07/24 12:45",
+      "collected_at": "1405/07/24 23:01",
+      "source": "TechCrunch Industrial",
+      "source_url": "https://www.siemens.com/global/en/company/stories/industry/nvidia-partnership.html",
+      "tags": [
+        "Digital Twin",
+        "NVIDIA",
+        "Xcelerator",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "عرضه ماژول‌های ارتباطی جدید برای SIMATIC S7-1500",
+      "summary": "زیمنس ماژول‌های جدید ارتباطی سری CM 1542-5 را برای کنترلرهای S7-1500 عرضه کرد که از استانداردهای جدید شبکه TSN پشتیبانی می‌کنند. این ماژول‌ها امکان تبادل داده با سرعت بسیار بالا و تأخیر ناچیز را در محیط‌های صنعتی فراهم می‌سازند. با این توسعه، هماهنگی بین تجهیزات فیلد و سیستم‌های مدیریت مرکزی در کارخانه‌های هوشمند با دقت زمانی دقیق‌تری انجام خواهد شد.",
+      "category": "product",
+      "published_at": "1405/07/24 14:00",
+      "collected_at": "1405/07/24 23:01",
+      "source": "Control Engineering",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "گسترش پلتفرم Insights Hub برای پایش کربن در صنایع شیمیایی",
+      "summary": "پلتفرم ابری Insights Hub زیمنس اکنون به قابلیت‌های تحلیل پیشرفته برای محاسبه ردپای کربن در صنایع شیمیایی مجهز شده است. این ابزار به مدیران کارخانه‌ها کمک می‌کند تا مصرف انرژی و انتشار گازهای گلخانه‌ای را در لحظه پایش کرده و به سمت تولید پایدار حرکت کنند. این راهکار با تحلیل داده‌های سنسورهای فیلد، گزارش‌های دقیقی برای انطباق با استانداردهای زیست‌محیطی ارائه می‌دهد.",
+      "category": "topic",
+      "published_at": "1405/07/24 15:20",
+      "collected_at": "1405/07/24 23:01",
+      "source": "Sustainability Today",
+      "source_url": "https://new.siemens.com/global/en/products/software/mindsphere.html",
+      "tags": [
+        "Insights Hub",
+        "Sustainability",
+        "Cloud",
+        "Chemical Industry"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "بهینه‌سازی سیستم‌های توزیع‌شده با ET 200SP HA",
+      "summary": "نسخه جدید سیستم I/O توزیع‌شده SIMATIC ET 200SP HA با قابلیت‌های افزونگی پیشرفته برای صنایع فرآیندی عرضه شد. این سیستم به دلیل طراحی ماژولار و اشغال فضای کمتر در تابلوهای برق، محبوبیت زیادی در پروژه‌های نوسازی کارخانجات پیدا کرده است. قابلیت تعویض ماژول‌ها در حین کار (Hot Swapping) باعث شده تا زمان توقف خطوط تولید به حداقل ممکن برسد.",
+      "category": "product",
+      "published_at": "1405/07/24 16:40",
+      "collected_at": "1405/07/24 23:01",
+      "source": "Automation World",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/io-systems/et200sp-ha.html",
+      "tags": [
+        "ET 200SP",
+        "I/O",
+        "Process Automation",
+        "Redundancy"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "ارتقای مانیتورینگ در اتاق‌های فرمان با WinCC Unified V19",
+      "summary": "سیستم مانیتورینگ WinCC Unified V19 با رابط کاربری مبتنی بر وب و قابلیت‌های گرافیکی سه‌بعدی برای نظارت بر خطوط تولید بزرگ عرضه شد. این سیستم به اپراتورها اجازه می‌دهد تا از راه دور و با استفاده از تبلت‌های صنعتی، وضعیت ماشین‌آلات را مدیریت کنند. امنیت بالای این نسخه و انعطاف‌پذیری در نمایش داده‌ها، آن را به انتخابی برتر برای اتاق‌های کنترل مدرن تبدیل کرده است.",
+      "category": "product",
+      "published_at": "1405/07/24 19:30",
+      "collected_at": "1405/07/24 23:01",
+      "source": "Control Global",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/wincc-unified.html",
+      "tags": [
+        "WinCC",
+        "SCADA",
+        "HMI",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "گسترش کاربرد ربات‌های مشارکتی با SIMATIC Robot Integrator",
+      "summary": "پلتفرم SIMATIC Robot Integrator زیمنس اکنون از طیف گسترده‌تری از ربات‌های مشارکتی (Cobots) پشتیبانی می‌کند. این پلتفرم با یکپارچه‌سازی کنترل ربات در محیط SIMATIC، برنامه‌نویسی و هماهنگی ربات‌ها با سایر تجهیزات خط تولید را بسیار ساده کرده است. این راهکار به کارخانه‌های کوچک و متوسط کمک می‌کند تا بدون نیاز به دانش پیچیده رباتیک، فرآیندهای تولید خود را خودکار کنند.",
+      "category": "industry",
+      "published_at": "1405/07/24 21:00",
+      "collected_at": "1405/07/24 23:01",
+      "source": "Robotics Today",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/robotics.html",
+      "tags": [
+        "Robotics",
+        "Cobots",
+        "SIMATIC",
+        "Automation"
       ]
     }
   ]
