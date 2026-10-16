@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 178,
+  "count": 187,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 07:04",
+  "updated_at": "1405/07/24 07:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2818,6 +2818,149 @@
         "Industrial Edge",
         "Data Processing",
         "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20251015-001",
+      "title": "معرفی نسل جدید ماژول‌های پردازش هوشمند برای SIMATIC S7-1500",
+      "summary": "زیمنس با معرفی ماژول‌های جدید پردازش هوشمند برای سری SIMATIC S7-1500، امکان تحلیل داده‌های پیچیده را مستقیماً در سطح کنترلر فراهم کرده است. این ارتقا به مهندسان اجازه می‌دهد تا بدون نیاز به سرورهای جانبی، الگوریتم‌های بهینه‌سازی را اجرا کنند. این محصول با هدف کاهش تأخیر در تصمیم‌گیری‌های حساس کارخانه‌ای طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/24 01:15",
+      "collected_at": "1405/07/24 07:05",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation.html",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "Automation",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20251015-002",
+      "title": "توسعه قابلیت‌های امنیتی در تجهیزات شبکه صنعتی SCALANCE",
+      "summary": "شرکت زیمنس سری جدید سوئیچ‌های صنعتی SCALANCE را با پروتکل‌های امنیتی پیشرفته برای مقابله با حملات سایبری در لایه OT عرضه کرد. این تجهیزات با پشتیبانی از استانداردهای IEC 62443، امنیت ارتباطات بین دستگاه‌های فیلد و اتاق کنترل را تضمین می‌کنند. این اقدام گامی مهم برای حفاظت از زیرساخت‌های حیاتی در برابر تهدیدات نوین است.",
+      "category": "industry",
+      "published_at": "1405/07/24 02:00",
+      "collected_at": "1405/07/24 07:05",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.automation.com/en-us/articles",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20251015-004",
+      "title": "ارتقای پلتفرم WinCC Unified برای تحلیل داده‌های بصری",
+      "summary": "زیمنس نسخه جدید نرم‌افزار WinCC Unified را با ابزارهای تحلیل داده بصری و داشبوردهای تعاملی منتشر کرد. این نسخه به اپراتورها کمک می‌کند تا وضعیت خطوط تولید را با دقت بیشتری پایش کرده و ناهنجاری‌های فرآیندی را سریع‌تر شناسایی کنند. این به‌روزرسانی تجربه کاربری در اتاق‌های کنترل بزرگ را به طور قابل توجهی بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/24 03:10",
+      "collected_at": "1405/07/24 07:05",
+      "source": "Automation World",
+      "source_url": "https://www.siemens.com/wincc-unified",
+      "tags": [
+        "WinCC",
+        "SCADA",
+        "HMI",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20251015-005",
+      "title": "گسترش کاربرد هوش مصنوعی در پلتفرم Industrial Edge",
+      "summary": "زیمنس با افزودن قابلیت‌های هوش مصنوعی مولد به پلتفرم Industrial Edge، امکان عیب‌یابی خودکار تجهیزات را برای کاربران فراهم کرده است. این سیستم با تحلیل الگوهای ارتعاشی و دمایی، خرابی‌های احتمالی را پیش‌بینی می‌کند. این فناوری به کاهش زمان توقف تولید و افزایش بهره‌وری در کارخانه‌های هوشمند کمک شایانی می‌کند.",
+      "category": "research",
+      "published_at": "1405/07/24 03:45",
+      "collected_at": "1405/07/24 07:05",
+      "source": "Tech Industrial",
+      "source_url": "https://www.siemens.com/industrial-edge",
+      "tags": [
+        "AI",
+        "Industrial Edge",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20251015-006",
+      "title": "استانداردسازی ارتباطات فیلد با پروتکل جدید OPC UA TSN",
+      "summary": "زیمنس در همکاری با سایر تولیدکنندگان، استانداردهای ارتباطی مبتنی بر OPC UA TSN را در تجهیزات ابزار دقیق خود پیاده‌سازی کرده است. این پروتکل امکان تبادل داده‌های بلادرنگ و قطعی را در شبکه‌های صنعتی فراهم می‌کند. این تحول باعث یکپارچگی بهتر بین تجهیزات مختلف در محیط‌های تولیدی پیچیده و مقیاس‌پذیر می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/24 04:15",
+      "collected_at": "1405/07/24 07:05",
+      "source": "Fieldbus News",
+      "source_url": "https://opcfoundation.org",
+      "tags": [
+        "OPC UA",
+        "TSN",
+        "Communication",
+        "Standards"
+      ]
+    },
+    {
+      "id": "ia-20251015-007",
+      "title": "توسعه ماژول‌های ایمنی پیشرفته در سری SIMATIC ET 200SP",
+      "summary": "زیمنس ماژول‌های جدید ایمنی (F-Modules) را برای سیستم‌های I/O توزیع‌شده ET 200SP معرفی کرد که استانداردهای ایمنی SIL3 را پوشش می‌دهند. این ماژول‌ها برای محیط‌های کاری که نیاز به توقف‌های ایمن و سریع دارند، طراحی شده‌اند. این تجهیزات با کاهش فضای اشغال شده در تابلوهای برق، انعطاف‌پذیری طراحی را افزایش می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/24 04:50",
+      "collected_at": "1405/07/24 07:05",
+      "source": "Safety Automation Review",
+      "source_url": "https://www.siemens.com/et200sp",
+      "tags": [
+        "SIMATIC",
+        "Safety",
+        "ET200SP",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20251015-008",
+      "title": "همکاری زیمنس و انویدیا در توسعه دوقلوهای دیجیتال کارخانه",
+      "summary": "در یک همکاری استراتژیک، زیمنس و انویدیا از پلتفرم جدیدی برای ساخت دوقلوهای دیجیتال دقیق در محیط متاورس صنعتی رونمایی کردند. این پلتفرم به کارخانه‌ها اجازه می‌دهد تا فرآیندهای تولید را قبل از اجرا در دنیای واقعی، شبیه‌سازی کنند. این تکنولوژی به کاهش هزینه‌های راه‌اندازی خطوط تولید جدید کمک می‌کند.",
+      "category": "company",
+      "published_at": "1405/07/24 05:25",
+      "collected_at": "1405/07/24 07:05",
+      "source": "Digital Twin Journal",
+      "source_url": "https://www.siemens.com/nvidia-partnership",
+      "tags": [
+        "Digital Twin",
+        "Nvidia",
+        "Metaverse",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20251015-009",
+      "title": "ارتقای ابزارهای مهندسی در TIA Portal V20",
+      "summary": "نسخه جدید TIA Portal V20 با ابزارهای خودکارسازی تست کد و مدیریت نسخه، فرآیند توسعه نرم‌افزار PLC را تسریع می‌کند. این پلتفرم اکنون از هوش مصنوعی برای پیشنهاد کدهای بهینه استفاده می‌کند که خطاهای برنامه‌نویسی را کاهش می‌دهد. این تغییرات باعث افزایش سرعت تحویل پروژه‌های اتوماسیون صنعتی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 06:00",
+      "collected_at": "1405/07/24 07:05",
+      "source": "Software Engineering Today",
+      "source_url": "https://www.siemens.com/tia-portal",
+      "tags": [
+        "TIA Portal",
+        "Programming",
+        "PLC",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20251015-010",
+      "title": "بهبود دقت اندازه‌گیری در فرستنده‌های دیجیتال SIPART",
+      "summary": "زیمنس نسل جدید فرستنده‌های دیجیتال SIPART را با قابلیت کالیبراسیون خودکار معرفی کرد که دقت اندازه‌گیری جریان و فشار را در صنایع شیمیایی افزایش می‌دهد. این تجهیزات با طراحی مقاوم در برابر خوردگی، برای محیط‌های سخت صنعتی مناسب هستند. این ارتقا به پایداری فرآیندهای تولید و کاهش ضایعات کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 06:40",
+      "collected_at": "1405/07/24 07:05",
+      "source": "Process Instrumentation",
+      "source_url": "https://www.siemens.com/sipart",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Process Control",
+        "Sensors"
       ]
     }
   ]
