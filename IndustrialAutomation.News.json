@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 455,
+  "count": 458,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 17:07",
+  "updated_at": "1405/07/24 18:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7200,6 +7200,54 @@
         "SINAMICS G180",
         "Energy Efficiency",
         "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسخه جدید سیستم کنترل SIMATIC S7-1500 با ماژول‌های امنیتی و پردازش ابری پیشرفته",
+      "summary": "شرکت زیمنس نسخه به‌روزرسانی شده کنترلر قابل برنامه‌ریزی SIMATIC S7-1500 را با قابلیت‌های ارتباطی ابری و ماژول‌های رمزنگاری سخت‌افزاری معرفی کرد. این کنترلر قدرتمند به مهندسین اتوماسیون اجازه می‌دهد تا امنیت سایبری خطوط تولید را به شدت ارتقا دهند. این محصول کلیدی نقش مهمی در توسعه کارخانجات هوشمند و اتصال ایمن تجهیزات OT به سیستم‌های سطح بالا ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:15",
+      "collected_at": "1405/07/24 18:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-update",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Siemens",
+        "PLC",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پردازش هوش مصنوعی در پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس از اضافه شدن اپلیکیشن‌های جدید هوش مصنوعی به پلتفرم لبه صنعتی خود خبر داد که تحلیل داده‌های سنسورها را در واحد تولیدی ممکن می‌سازد. این ابزار به اپراتورها کمک می‌کند تا خرابی تجهیزات را پیش‌بینی کرده و از توقف‌های ناخواسته جلوگیری نمایند. این راهکار نوآورانه باعث افزایش بهره‌وری کلی تجهیزات OEE در کارخانجات فرآیندی و گسسته می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 09:30",
+      "collected_at": "1405/07/24 18:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-industrial-edge-ai",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "AI",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی در کمپرسورهای صنعتی با اینورترهای SINAMICS G220",
+      "summary": "سری جدید درایورهای فرکانس متغیر SINAMICS G220 زیمنس با قابلیت بازگردانی انرژی و راندمان بالا به بازار عرضه شدند. این اینورترها با کنترل دقیق دور موتورهای الکتریکی، مصرف برق کارخانجات را به میزان قابل توجهی کاهش می‌دهند. این تجهیزات سازگار با محیط زیست نقش کلیدی در اهداف پایداری و کاهش ردپای کربن صنایع دارند.",
+      "category": "product",
+      "published_at": "1405/07/24 11:20",
+      "collected_at": "1405/07/24 18:02",
+      "source": "IEW",
+      "source_url": "https://www.iew.ru/siemens-sinamics-g220",
+      "tags": [
+        "SINAMICS",
+        "Siemens",
+        "Drives",
+        "Energy Efficiency"
       ]
     }
   ]
