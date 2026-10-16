@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 40,
+  "count": 46,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 02:00",
+  "updated_at": "1405/07/25 02:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -632,6 +632,102 @@
         "Battery Production",
         "Automation",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی نسل جدید کنترلرهای SIMATIC S7-1500 V3.0 با قابلیت‌های پیشرفته",
+      "summary": "زیمنس از نسخه جدید کنترلرهای SIMATIC S7-1500 V3.0 رونمایی کرد که با تمرکز بر افزایش سرعت پردازش و بهبود قابلیت‌های ارتباطی عرضه شده است. این سیستم با بهره‌گیری از پردازنده‌های قدرتمندتر، زمان پاسخ‌دهی در حلقه‌های کنترلی پیچیده را تا ۳۰ درصد کاهش می‌دهد. این ارتقا به مهندسان کمک می‌کند تا فرآیندهای تولید با دقت بالاتری مدیریت شوند و یکپارچگی بهتری با سیستم‌های اتوماسیون مبتنی بر شبکه داشته باشند.",
+      "category": "product",
+      "published_at": "1405/07/25 02:04",
+      "collected_at": "1405/07/25 02:04",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "توسعه پلتفرم Industrial Edge برای تحلیل داده‌های بلادرنگ در صنایع سنگین",
+      "summary": "شرکت زیمنس قابلیت‌های جدیدی را به پلتفرم Industrial Edge اضافه کرده است که امکان پردازش داده‌های حجیم سنسورها را مستقیماً در لبه شبکه فراهم می‌کند. این به‌روزرسانی شامل الگوریتم‌های پیشرفته تحلیل ارتعاش برای موتورهای بزرگ صنعتی است که خرابی‌های احتمالی را پیش‌بینی می‌کند. با این راهکار، کارخانه‌های فولاد می‌توانند هزینه‌های تعمیر و نگهداری غیرمنتظره را تا ۲۰ درصد کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 02:04",
+      "collected_at": "1405/07/25 02:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/edge-computing/news/21849201",
+      "tags": [
+        "Industrial Edge",
+        "Data Analytics",
+        "Maintenance",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "همکاری استراتژیک زیمنس و شرکت‌های لجستیک برای هوشمندسازی انبارهای خودکار",
+      "summary": "زیمنس با همکاری پیشگامان صنعت لجستیک، راهکار جدیدی برای مدیریت انبارهای هوشمند بر پایه سیستم‌های کنترل توزیع‌یافته ارائه کرده است. این پروژه بر استفاده از ربات‌های خودمختار (AMR) که با سیستم‌های SIMATIC هماهنگ هستند، تمرکز دارد. هدف از این همکاری، افزایش بهره‌وری در جابجایی کالا و کاهش خطاهای انسانی در محیط‌های انبارداری بزرگ با استفاده از دوقلوهای دیجیتال است.",
+      "category": "company",
+      "published_at": "1405/07/25 02:04",
+      "collected_at": "1405/07/25 02:04",
+      "source": "Industrial News",
+      "source_url": "https://www.industrial-news.com/logistics-automation-siemens",
+      "tags": [
+        "Logistics",
+        "Robotics",
+        "Digital Twin",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "استاندارد جدید امنیت سایبری برای سیستم‌های کنترل توزیع‌یافته PCS neo",
+      "summary": "زیمنس استانداردهای امنیتی جدیدی را برای سیستم کنترل توزیع‌یافته PCS neo معرفی کرد تا در برابر تهدیدات سایبری مدرن مقاوم‌تر باشد. این پروتکل‌های جدید شامل احراز هویت چندعاملی و رمزنگاری پیشرفته در سطح سخت‌افزار است که امنیت ارتباطات بین کنترلرها و ایستگاه‌های مهندسی را تضمین می‌کند. این اقدام در راستای تطبیق با مقررات جدید امنیت شبکه در اتحادیه اروپا صورت گرفته است.",
+      "category": "regulation",
+      "published_at": "1405/07/25 02:04",
+      "collected_at": "1405/07/25 02:04",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://www.cybersecurity-industrial.com/news/pcs-neo-security",
+      "tags": [
+        "Cybersecurity",
+        "PCS neo",
+        "DCS",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع شیمیایی با درایوهای جدید SINAMICS",
+      "summary": "سری جدید درایوهای فرکانس متغیر SINAMICS زیمنس با هدف کاهش مصرف انرژی در پمپ‌ها و فن‌های صنعتی طراحی شده‌اند. این درایوها از تکنولوژی بازیابی انرژی بهره می‌برند که می‌تواند انرژی تلف شده در فرآیندهای ترمزگیری را به شبکه بازگرداند. این راهکار به صنایع شیمیایی کمک می‌کند تا علاوه بر کاهش هزینه‌های عملیاتی، ردپای کربنی خود را در راستای اهداف پایداری محیط‌زیست کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/25 02:04",
+      "collected_at": "1405/07/25 02:04",
+      "source": "Energy Efficiency Journal",
+      "source_url": "https://www.energy-efficiency-journal.com/sinamics-drives-chemical",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Chemical Industry",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم ابری Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس اکنون به ابزارهای تحلیل پیش‌بینانه مبتنی بر هوش مصنوعی مجهز شده است که به مدیران کارخانه‌ها اجازه می‌دهد عملکرد خطوط تولید را به صورت لحظه‌ای پایش کنند. این ابزارها با تحلیل الگوهای داده‌ای، خرابی‌های احتمالی را پیش از وقوع شناسایی می‌کنند. این قابلیت جدید به ویژه برای صنایعی که به پایداری تولید حساس هستند، بسیار حیاتی و کاربردی است.",
+      "category": "product",
+      "published_at": "1405/07/25 02:04",
+      "collected_at": "1405/07/25 02:04",
+      "source": "Digital Factory News",
+      "source_url": "https://www.digital-factory-news.com/insights-hub-ai",
+      "tags": [
+        "Insights Hub",
+        "AI",
+        "Cloud",
+        "Digitalization"
       ]
     }
   ]
