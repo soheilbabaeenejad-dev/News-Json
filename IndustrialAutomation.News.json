@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 206,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 08:03",
+  "count": 216,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/24 08:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3254,6 +3254,156 @@
         "PLC",
         "Automation",
         "Software Engineering"
+      ]
+    },
+    {
+      "id": "ia-20240522-001",
+      "title": "همکاری زیمنس و مایکروسافت برای عرضه دستیار هوش مصنوعی در محیط صنعتی",
+      "summary": "زیمنس با همکاری مایکروسافت، ابزار Industrial Copilot را برای تسریع در کدنویسی PLC معرفی کرده است. این سیستم به مهندسان اجازه می‌دهد با استفاده از زبان طبیعی، کدهای پیچیده برای TIA Portal تولید کنند. هدف از این نوآوری کاهش خطاهای انسانی و افزایش سرعت توسعه پروژه‌های اتوماسیون در مقیاس بزرگ است که تحولی در بهره‌وری مهندسی ایجاد می‌کند.",
+      "category": "news",
+      "published_at": "1403/03/02 09:15",
+      "collected_at": "1405/07/24 08:06",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-microsoft-scale-generative-ai-across-industries",
+      "tags": [
+        "AI",
+        "TIA Portal",
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "ia-20240522-002",
+      "title": "پلتفرم SiGreen زیمنس برای ردیابی ردپای کربن در زنجیره تامین صنعتی",
+      "summary": "زیمنس راهکار نرم‌افزاری SiGreen را برای مدیریت و پایش دقیق میزان انتشار گازهای گلخانه‌ای در خطوط تولید معرفی کرد. این ابزار با اتصال به داده‌های واقعی کف کارخانه، امکان گزارش‌دهی شفاف مطابق با استانداردهای زیست‌محیطی را فراهم می‌کند. این محصول به ویژه برای صنایع سنگین مانند فولاد و سیمان طراحی شده تا به اهداف توسعه پایدار و کاهش آلایندگی کمک کند.",
+      "category": "industry",
+      "published_at": "1403/03/02 10:30",
+      "collected_at": "1405/07/24 08:06",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/sustainability/article/22871234/siemens-sigreen-tracks-product-carbon-footprint",
+      "tags": [
+        "Sustainability",
+        "Decarbonization",
+        "SiGreen"
+      ]
+    },
+    {
+      "id": "ia-20240522-003",
+      "title": "معرفی ماژول پردازش عصبی جدید برای کنترلرهای خانواده SIMATIC S7-1500",
+      "summary": "زیمنس ماژول TM NPU را برای استفاده از الگوریتم‌های هوش مصنوعی در سطح کنترلر عرضه کرده است. این سخت‌افزار امکان اجرای مدل‌های یادگیری ماشین برای بازرسی بصری و نگهداری پیش‌بینانه را بدون نیاز به اتصال ابری فراهم می‌سازد. استفاده از این ماژول در پردازش‌های بلادرنگ باعث افزایش دقت در خطوط بسته‌بندی پرسرعت و کاهش توقفات ناخواسته در خط تولید می‌شود.",
+      "category": "product",
+      "published_at": "1403/03/02 11:45",
+      "collected_at": "1405/07/24 08:06",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/ai-module-for-simatic-s7-1500-controller/",
+      "tags": [
+        "SIMATIC",
+        "AI",
+        "S7-1500"
+      ]
+    },
+    {
+      "id": "ia-20240522-004",
+      "title": "به‌روزرسانی پلتفرم لبه صنعتی زیمنس با قابلیت‌های مدیریت متمرکز دستگاه‌ها",
+      "summary": "نسخه جدید پلتفرم Industrial Edge زیمنس با تمرکز بر سهولت در مقیاس‌پذیری و امنیت سایبری ارتقا یافته است. این سیستم به مدیران IT اجازه می‌دهد هزاران دستگاه لبه را در سراسر جهان از یک پنل مرکزی مدیریت و آپدیت کنند. این به‌روزرسانی شامل پشتیبانی بهتر از کانتینرهای Docker و پروتکل‌های ارتباطی متنوع‌تر برای جمع‌آوری داده از سنسورهای مختلف کارگاهی است.",
+      "category": "news",
+      "published_at": "1403/03/02 13:20",
+      "collected_at": "1405/07/24 08:06",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iep-mag.com/siemens-industrial-edge-management-update/",
+      "tags": [
+        "Industrial Edge",
+        "IIoT",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20240522-005",
+      "title": "دریافت گواهینامه امنیتی IEC 62443 برای تمامی محصولات اتوماسیون زیمنس",
+      "summary": "زیمنس اعلام کرد که تمامی تجهیزات خانواده SIMATIC و SCALANCE موفق به دریافت استانداردهای سخت‌گیرانه امنیت سایبری بین‌المللی شده‌اند. این گواهینامه‌ها تضمین می‌کنند که لایه‌های دفاعی در برابر حملات بدافزاری و نفوذ به شبکه‌های OT به درستی پیاده‌سازی شده است. این اقدام گامی مهم برای حفاظت از زیرساخت‌های حیاتی مانند نیروگاه‌ها و تصفیه‌خانه‌های آب محسوب می‌شود.",
+      "category": "regulation",
+      "published_at": "1403/03/02 14:10",
+      "collected_at": "1405/07/24 08:06",
+      "source": "Cybersecurity News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/industrial-security.html",
+      "tags": [
+        "Cybersecurity",
+        "IEC 62443",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20240522-006",
+      "title": "توسعه دوقلوهای دیجیتال واقع‌گرایانه با ادغام زیمنس Xcelerator و انویدیا",
+      "summary": "همکاری جدید زیمنس و انویدیا امکان ایجاد دوقلوهای دیجیتال با جزئیات فیزیکی دقیق را در پلتفرم Omniverse فراهم کرده است. این فناوری به مهندسان اجازه می‌دهد قبل از ساخت فیزیکی کارخانه، تمامی فرآیندهای رباتیک را در محیطی مجازی و کاملاً واقعی شبیه‌سازی کنند. این رویکرد هزینه‌های راه‌اندازی اولیه را تا ۳۰ درصد کاهش داده و زمان رسیدن به بازار را تسریع می‌کند.",
+      "category": "research",
+      "published_at": "1403/03/02 15:00",
+      "collected_at": "1405/07/24 08:06",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/siemens-omniverse-industrial-metaverse/",
+      "tags": [
+        "Digital Twin",
+        "Omniverse",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20240522-007",
+      "title": "عرضه سیستم درایو سروو SINAMICS S200 برای کاربردهای استاندارد صنعتی",
+      "summary": "زیمنس سیستم درایو جدید S200 را برای کنترل دقیق حرکت در ماشین‌آلات بسته‌بندی و جابجایی مواد معرفی کرد. این درایو با کنترلرهای S7-1500 کاملاً هماهنگ بوده و از طریق کابل‌های تک‌رشته‌ای نصب و راه‌اندازی را بسیار ساده می‌کند. ابعاد فشرده و کارایی بالا در کنار قیمت رقابتی، این محصول را به گزینه‌ای ایده‌آل برای سازندگان ماشین‌آلات تبدیل کرده است.",
+      "category": "product",
+      "published_at": "1403/03/02 15:50",
+      "collected_at": "1405/07/24 08:06",
+      "source": "Drives & Controls",
+      "source_url": "https://drivesncontrols.com/news/fullstory.php/aid/7234/Siemens_launches_S200_servo_drive_system.html",
+      "tags": [
+        "SINAMICS",
+        "Servo Drive",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20240522-008",
+      "title": "ارتقای دقت اندازه‌گیری در صنعت آب با فلومترهای الکترومغناطیسی SITRANS",
+      "summary": "زیمنس نسل جدید فلومترهای SITRANS FM MAG 5100 W را با سنسورهای بهبود یافته برای مدیریت شبکه‌های توزیع آب عرضه کرد. این تجهیزات با دقت بسیار بالا در اندازه‌گیری دبی، به کاهش هدررفت آب در زیرساخت‌های شهری کمک شایانی می‌کنند. قابلیت اتصال بی‌سیم و عمر باتری طولانی تا ۱۰ سال از مزایای فنی برجسته این ابزار دقیق در پروژه‌های هوشمندسازی است.",
+      "category": "product",
+      "published_at": "1403/03/02 16:30",
+      "collected_at": "1405/07/24 08:06",
+      "source": "Water Technology",
+      "source_url": "https://www.watertechonline.com/siemens-sitrans-fm-mag-5100-w-update",
+      "tags": [
+        "SITRANS",
+        "Flowmeter",
+        "Water Industry"
+      ]
+    },
+    {
+      "id": "ia-20240522-009",
+      "title": "تسهیل انتقال داده‌های صنعتی به ابر با همکاری راهبردی زیمنس و AWS",
+      "summary": "زیمنس و آمازون (AWS) راهکار جدیدی را برای یکپارچه‌سازی داده‌های سطح زمین (OT) با سرویس‌های ابری معرفی کردند. این همکاری به کاربران اجازه می‌دهد داده‌های جمع‌آوری شده توسط Industrial Edge را مستقیماً برای تحلیل‌های پیشرفته به محیط AWS ارسال کنند. این فرآیند باعث تسریع در پیاده‌سازی پروژه‌های اینترنت اشیا صنعتی و استفاده از یادگیری ماشین در مقیاس وسیع می‌شود.",
+      "category": "company",
+      "published_at": "1403/03/02 17:15",
+      "collected_at": "1405/07/24 08:06",
+      "source": "Cloud Computing News",
+      "source_url": "https://aws.amazon.com/partners/success/siemens-industrial-edge/",
+      "tags": [
+        "AWS",
+        "Cloud",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20240522-010",
+      "title": "دسترسی به محیط مهندسی TIA Portal از طریق سرویس‌های ابری زیمنس",
+      "summary": "زیمنس امکان استفاده از نرم‌افزار TIA Portal را در بستر ابر فراهم کرده است تا مهندسان بدون نیاز به نصب محلی به پروژه‌ها دسترسی داشته باشند. این سرویس اجازه می‌دهد تیم‌های مختلف به صورت همزمان و از راه دور بر روی یک پروژه اتوماسیون فعالیت کرده و کدهای خود را تست کنند. امنیت داده‌ها در این پلتفرم توسط پروتکل‌های پیشرفته رمزنگاری و احراز هویت دو مرحله‌ای تامین می‌شود.",
+      "category": "topic",
+      "published_at": "1403/03/02 18:00",
+      "collected_at": "1405/07/24 08:06",
+      "source": "Siemens Global",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal/cloud-connector.html",
+      "tags": [
+        "TIA Portal",
+        "Cloud Engineering",
+        "Automation"
       ]
     }
   ]
