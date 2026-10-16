@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 232,
+  "count": 241,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 09:02",
+  "updated_at": "1405/07/24 10:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3660,6 +3660,150 @@
         "Instrumentation",
         "Sensors",
         "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "توسعه پروتکل‌های ارتباطی TSN در تجهیزات شبکه SCALANCE",
+      "summary": "شرکت زیمنس با معرفی سری جدید سوئیچ‌های SCALANCE، پشتیبانی کامل از استاندارد TSN را برای شبکه‌های صنعتی فراهم کرده است. این پروتکل امکان تبادل داده‌های بلادرنگ و قطعی را در محیط‌های اتوماسیون فراهم می‌آورد. با این ارتقا، هماهنگی میان کنترلرهای SIMATIC و دستگاه‌های فیلد در مقیاس‌های بزرگ با دقت زمانی میکروثانیه تضمین می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 10:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/networking/article/22900000",
+      "tags": [
+        "SCALANCE",
+        "TSN",
+        "Industrial Ethernet",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "ارتقای امنیت سایبری در سیستم‌های کنترل توزیع‌شده با PCS neo",
+      "summary": "نسخه جدید پلتفرم SIMATIC PCS neo با تمرکز بر امنیت سایبری لایه OT عرضه شد. این به‌روزرسانی شامل قابلیت‌های رمزنگاری پیشرفته برای ارتباطات بین سرور و کلاینت است که از نفوذهای غیرمجاز به شبکه کنترل فرآیند جلوگیری می‌کند. این تغییرات برای صنایع حساس مانند نفت و گاز که نیازمند استانداردهای امنیتی سخت‌گیرانه هستند، حیاتی است.",
+      "category": "regulation",
+      "published_at": "1405/07/24 08:45",
+      "collected_at": "1405/07/24 10:02",
+      "source": "Process Automation News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/process-control/pcs-neo.html",
+      "tags": [
+        "PCS neo",
+        "Cybersecurity",
+        "DCS",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "افزایش بهره‌وری انرژی در صنایع غذایی با سیستم‌های SIMATIC",
+      "summary": "زیمنس راهکار جدیدی برای مدیریت انرژی در خطوط بسته‌بندی مواد غذایی معرفی کرده که بر پایه کنترلرهای SIMATIC S7-1500 است. این سیستم با تحلیل داده‌های مصرف برق در لحظه، بهینه‌سازی عملکرد موتورها و سیستم‌های گرمایشی را انجام می‌دهد. این رویکرد به کارخانه‌ها کمک می‌کند تا ردپای کربنی خود را کاهش داده و هزینه‌های عملیاتی را به شکل محسوسی مدیریت کنند.",
+      "category": "industry",
+      "published_at": "1405/07/24 09:00",
+      "collected_at": "1405/07/24 10:02",
+      "source": "Food Engineering Daily",
+      "source_url": "https://www.siemens.com/food-beverage",
+      "tags": [
+        "SIMATIC",
+        "Energy Efficiency",
+        "Sustainability",
+        "Food Industry"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "گسترش قابلیت‌های دوقلوی دیجیتال در پلتفرم Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس اکنون از مدل‌های دوقلوی دیجیتال پیچیده‌تر برای شبیه‌سازی رفتار ماشین‌آلات در شرایط محیطی مختلف پشتیبانی می‌کند. مهندسان می‌توانند با استفاده از این ابزار، پیش از پیاده‌سازی تغییرات در خط تولید، عملکرد سیستم را در محیط مجازی تست کنند. این امر ریسک خطاهای انسانی را در فرآیندهای پیچیده تولیدی به حداقل می‌رساند.",
+      "category": "research",
+      "published_at": "1405/07/24 09:15",
+      "collected_at": "1405/07/24 10:02",
+      "source": "Digital Transformation Journal",
+      "source_url": "https://www.siemens.com/global/en/products/software/insights-hub.html",
+      "tags": [
+        "Insights Hub",
+        "Digital Twin",
+        "Cloud",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "معرفی ماژول‌های جدید I/O برای محیط‌های خشن در سری ET 200AL",
+      "summary": "زیمنس خانواده ماژول‌های I/O توزیع‌شده سری SIMATIC ET 200AL را با درجه حفاظت IP67 برای محیط‌های صنعتی سخت توسعه داده است. این ماژول‌ها به دلیل ابعاد کوچک و مقاومت بالا در برابر رطوبت و گرد و غبار، برای نصب مستقیم روی ماشین‌آلات بدون نیاز به تابلو برق مناسب هستند. این طراحی باعث کاهش هزینه‌های کابل‌کشی و تسریع در فرآیند نصب سیستم می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 09:30",
+      "collected_at": "1405/07/24 10:02",
+      "source": "Industrial Components Review",
+      "source_url": "https://mall.industry.siemens.com/et200al",
+      "tags": [
+        "ET 200AL",
+        "I/O",
+        "Industrial Hardware",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "همکاری زیمنس و شرکت‌های رباتیک برای استانداردسازی رابط‌های کنترل",
+      "summary": "زیمنس با همکاری تولیدکنندگان پیشرو رباتیک، رابط کاربری استاندارد جدیدی را برای کنترلرهای SIMATIC Robot Integrator ارائه کرده است. این استاندارد باعث می‌شود تا برنامه‌نویسی ربات‌های مختلف از برندهای متفاوت در محیط TIA Portal یکپارچه شود. این اقدام گامی بزرگ در جهت ساده‌سازی اتوماسیون خطوط تولید چندمنظوره و کاهش زمان مهندسی پروژه‌ها محسوب می‌شود.",
+      "category": "match",
+      "published_at": "1405/07/24 09:40",
+      "collected_at": "1405/07/24 10:02",
+      "source": "Robotics Today",
+      "source_url": "https://www.siemens.com/robotics",
+      "tags": [
+        "Robotics",
+        "TIA Portal",
+        "Integration",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "ارتقای دقت اندازه‌گیری در ابزار دقیق با سنسورهای SIPART PS100",
+      "summary": "نسل جدید پوزیشنرهای دیجیتال SIPART PS100 زیمنس با قابلیت‌های عیب‌یابی پیشرفته عرضه شد. این تجهیزات ابزار دقیق اکنون می‌توانند وضعیت سلامت شیرهای صنعتی را به صورت آنلاین گزارش دهند و نیاز به بازرسی‌های دوره‌ای دستی را کاهش دهند. این سنسورها با پروتکل‌های ارتباطی مدرن سازگار بوده و به راحتی در سیستم‌های کنترل موجود ادغام می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/24 09:50",
+      "collected_at": "1405/07/24 10:02",
+      "source": "Instrumentation News",
+      "source_url": "https://www.siemens.com/sipart",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Process Control",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "توسعه ابزارهای تحلیل داده در لبه صنعتی برای پایش کیفیت",
+      "summary": "پلتفرم Industrial Edge زیمنس با افزودن کتابخانه‌های جدید تحلیل تصویر، امکان پایش کیفیت در خطوط بسته‌بندی را فراهم کرده است. این سیستم با پردازش داده‌ها در محل (Edge)، تأخیرهای ناشی از ارسال داده به ابر را حذف می‌کند. این فناوری به تولیدکنندگان اجازه می‌دهد تا محصولات معیوب را در همان لحظه تولید شناسایی و از چرخه خارج کنند.",
+      "category": "topic",
+      "published_at": "1405/07/24 09:55",
+      "collected_at": "1405/07/24 10:02",
+      "source": "Edge Computing Weekly",
+      "source_url": "https://www.siemens.com/industrial-edge",
+      "tags": [
+        "Industrial Edge",
+        "Quality Control",
+        "AI",
+        "Data Analysis"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "گزارش رشد استفاده از WinCC Unified در اتاق‌های کنترل مدرن",
+      "summary": "بر اساس گزارش‌های اخیر، استفاده از سیستم مانیتورینگ WinCC Unified به دلیل قابلیت‌های تحت وب و انعطاف‌پذیری بالا در صنایع افزایش یافته است. این سیستم به اپراتورها اجازه می‌دهد تا از طریق تبلت و گوشی‌های هوشمند نیز به داده‌های حیاتی دسترسی داشته باشند. این تحرک‌پذیری باعث شده تا نظارت بر فرآیندهای صنعتی از هر مکانی با امنیت کامل امکان‌پذیر شود.",
+      "category": "industry",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 10:02",
+      "source": "SCADA Systems Report",
+      "source_url": "https://www.siemens.com/wincc-unified",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Digitalization"
       ]
     }
   ]
