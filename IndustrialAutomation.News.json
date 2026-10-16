@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 355,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 14:03",
+  "count": 363,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/24 14:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5613,6 +5613,134 @@
         "Cobots",
         "SIMATIC",
         "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "معرفی کنترلرهای جدید SIMATIC S7-1200 G2 با قابلیت‌های پیشرفته ارتباطی",
+      "summary": "شرکت زیمنس نسل جدید کنترلرهای منطقی برنامه‌پذیر خود را با نام SIMATIC S7-1200 G2 معرفی کرد. این تجهیزات جدید با هدف بهبود انعطاف‌پذیری در اتوماسیون ماشین‌آلات و خطوط تولید کوچک طراحی شده‌اند. این سری جدید امکانات ارتباطی گسترده‌تری را برای مهندسان فراهم می‌سازد تا تبادل داده‌ها با سرعت بالا انجام شود.",
+      "category": "product",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 14:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1200-g2",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "S7-1200"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع سنگین با درایورهای SINAMICS G220",
+      "summary": "بهره‌گیری از درایورهای فرکانس متغیر SINAMICS G220 زیمنس در کارخانجات سیمان و فولاد منجر به کاهش قابل توجهی در مصرف برق شده است. این تجهیزات با الگوریتم‌های پیشرفته کنترل موتور، راندمان مکانیکی را به حداکثر می‌رسانند. مدل‌های جدید همچنین از قابلیت‌های مانیتورینگ انرژی داخلی بهره می‌برند.",
+      "category": "product",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 14:05",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-sinamics-g220-energy",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "توسعه سیستم مانیتورینگ WinCC Unified با ابزارهای تحلیل داده ابری",
+      "summary": "نسخه جدید نرم‌افزار WinCC Unified زیمنس با قابلیت‌های یکپارچه تحلیل داده ابری عرضه شد. این ابزار به اپراتورها اجازه می‌دهد تا وضعیت خطوط تولید را به صورت بلادرنگ و از طریق مرورگرهای وب پایش کنند. گزارش‌های هوشمند تولید شده به کاهش زمان توقف تجهیزات کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 10:45",
+      "collected_at": "1405/07/24 14:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-wincc-unified-cloud",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "نقش ماژول‌های I/O توزیع‌شده SIMATIC ET 200SP در انعطاف‌پذیری ماشین‌آلات",
+      "summary": "سری ماژول‌های I/O توزیع‌شده SIMATIC ET 200SP زیمنس استانداردهای جدیدی را در طراحی تابلوهای برق صنعتی ایجاد کرده‌اند. ابعاد فشرده و سرعت بالای تبادل داده در این ماژول‌ها، نصب آن‌ها را در فضاهای محدود کارگاهی بسیار آسان می‌نماید. این تجهیزات نقش کلیدی در کاهش سیم‌کشی‌های سنتی دارند.",
+      "category": "product",
+      "published_at": "1405/07/24 11:55",
+      "collected_at": "1405/07/24 14:05",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/siemens-et200sp-io",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200SP",
+        "I/O Systems"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "افزایش دقت فرآیندهای شیمیایی با تجهیزات ابزار دقیق SIPART",
+      "summary": "استفاده از فرستنده‌های دیجیتال و پوزیشنرهای سوپاپ SIPART زیمنس در صنایع پتروشیمی دقت کنترل جریان سیالات را به طور چشمگیری افزایش داده است. این تجهیزات ابزار دقیق با پروتکل‌های ارتباطی پیشرفته HART و Profibus سازگاری کامل دارند. قابلیت کالیبراسیون خودکار از مزایای اصلی این سری است.",
+      "category": "product",
+      "published_at": "1405/07/24 12:30",
+      "collected_at": "1405/07/24 14:05",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sipart-instruments",
+      "tags": [
+        "Siemens",
+        "SIPART",
+        "Instrumentation",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "تقویت قابلیت‌های هوش مصنوعی لبه در پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس قابلیت‌های پردازش هوش مصنوعی را به پلتفرم Industrial Edge خود اضافه کرد تا تحلیل‌های پیش‌بینانه در سطح کارگاه بهبود یابد. اپلیکیشن‌های جدید به ماشین‌آلات اجازه می‌دهند تا خطاهای احتمالی را پیش از بروز شناسایی کنند. این راهکار نیازی به ارسال داده‌ها به فضای ابری ندارد.",
+      "category": "news",
+      "published_at": "1405/07/24 13:00",
+      "collected_at": "1405/07/24 14:05",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-ai",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "گسترش سیستم کنترل فرآیند SIMATIC PCS neo در پروژه‌های مقیاس بزرگ",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo زیمنس امکان مهندسی همزمان از راه دور را برای پروژه‌های بزرگ صنعتی فراهم کرده است. این معماری کاملاً مبتنی بر وب است و امنیت بالایی را در مدیریت فرآیندهای پیوسته ارائه می‌دهد. تیم‌های مهندسی در نقاط مختلف جهان می‌توانند روی یک پروژه کار کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 13:35",
+      "collected_at": "1405/07/24 14:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-pcs-neo-update",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "DCS",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "پایش پایداری مصرف انرژی کارخانجات با پلتفرم Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس ابزارهای جدیدی برای ردیابی ردپای کربن و پایش مصرف انرژی در خطوط تولید عرضه کرد. این ماژول‌ها به مدیران کارخانجات کمک می‌کنند تا اهداف پایداری زیست‌محیطی خود را با دقت اندازه‌گیری کنند. داده‌های مصرف انرژی به صورت داشبوردهای بصری نمایش داده می‌شوند.",
+      "category": "news",
+      "published_at": "1405/07/24 14:00",
+      "collected_at": "1405/07/24 14:05",
+      "source": "Smart Industry",
+      "source_url": "https://www.smartindustry.com/siemens-insights-hub-sustainability",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud",
+        "Sustainability"
       ]
     }
   ]

@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 388,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 14:03",
+  "count": 389,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/24 14:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5926,6 +5926,21 @@
         "انویدیا",
         "خودرو خودران",
         "تراشه"
+      ]
+    },
+    {
+      "id": "tech-20261007-002",
+      "title": "مایکروسافت قابلیت‌های امنیت سایبری پیشرفته را به ویندوز ۱۲ اضافه می‌کند",
+      "summary": "شرکت مایکروسافت اعلام کرد که نسخه آتی سیستم‌عامل ویندوز به لایه‌های امنیتی مبتنی بر هوش مصنوعی مجهز خواهد شد. این ابزارها قادرند حملات بدافزاری پیچیده را پیش از نفوذ به سیستم شناسایی و مسدود کنند. هدف از این اقدام افزایش ایمنی داده‌های سازمانی و کاربران خانگی در برابر تهدیدات روزافزون دیجیتال است.",
+      "category": "company",
+      "published_at": "1405/07/24 09:00",
+      "collected_at": "1405/07/24 14:05",
+      "source": "دِ ورج",
+      "source_url": "https://www.theverge.com/2026/10/7/microsoft-windows-12-security",
+      "tags": [
+        "مایکروسافت",
+        "ویندوز ۱۲",
+        "امنیت سایبری"
       ]
     }
   ]
