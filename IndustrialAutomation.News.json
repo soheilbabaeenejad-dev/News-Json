@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 431,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 16:07",
+  "count": 439,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/24 16:10",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6819,6 +6819,133 @@
         "SIMATIC S7-1500",
         "PLC Programming",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241015-002",
+      "title": "ارتقای امنیت سایبری در سوئیچ‌های صنعتی SCALANCE",
+      "summary": "نسل جدید سوئیچ‌های SCALANCE زیمنس با پروتکل‌های امنیتی پیشرفته برای مقابله با حملات سایبری در شبکه‌های OT عرضه شد. این تجهیزات با پشتیبانی از استانداردهای IEC 62443، امنیت ارتباطات بین تجهیزات میدانی و سیستم‌های مدیریتی را تضمین می‌کنند. این اقدام گامی مهم برای حفاظت از زیرساخت‌های حیاتی است.",
+      "category": "industry",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 16:10",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industrial-communication/industrial-ethernet/scalance.html",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT Security",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20241015-003",
+      "title": "توسعه قابلیت‌های دوقلوی دیجیتال در پلتفرم Insights Hub",
+      "summary": "پلتفرم Insights Hub زیمنس اکنون از قابلیت‌های پیشرفته دوقلوی دیجیتال برای شبیه‌سازی رفتار ماشین‌آلات در شرایط مختلف بهره می‌برد. این به‌روزرسانی به مدیران کارخانه‌ها کمک می‌کند تا پیش از اعمال تغییرات در خط تولید، عملکرد سیستم را تحلیل کنند. این امر باعث کاهش هزینه‌های عملیاتی و بهینه‌سازی مصرف انرژی می‌شود.",
+      "category": "research",
+      "published_at": "1405/07/24 10:45",
+      "collected_at": "1405/07/24 16:10",
+      "source": "Automation World",
+      "source_url": "https://www.siemens.com/global/en/products/software/insights-hub.html",
+      "tags": [
+        "Digital Twin",
+        "Insights Hub",
+        "Cloud",
+        "Optimization"
+      ]
+    },
+    {
+      "id": "ia-20241015-004",
+      "title": "معرفی درایوهای جدید SINAMICS G220 با بهره‌وری انرژی بالا",
+      "summary": "زیمنس درایوهای فرکانس متغیر SINAMICS G220 را با تمرکز بر کاهش مصرف برق در پمپ‌ها و فن‌های صنعتی معرفی کرد. این درایوها با طراحی ماژولار و قابلیت‌های هوشمند مانیتورینگ، هزینه‌های نگهداری را تا ۲۰ درصد کاهش می‌دهند. این محصول برای محیط‌های صنعتی سخت و کاربردهای سنگین بهینه‌سازی شده است.",
+      "category": "product",
+      "published_at": "1405/07/24 11:20",
+      "collected_at": "1405/07/24 16:10",
+      "source": "Siemens Drives",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics/g220.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241015-006",
+      "title": "بهینه‌سازی سیستم‌های کنترل فرآیند با SIMATIC PCS neo",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo با قابلیت‌های مهندسی ابری، مدیریت پروژه‌های بزرگ در صنایع شیمیایی را ساده‌تر کرده است. این سیستم اجازه می‌دهد تیم‌های مهندسی از نقاط مختلف جهان به صورت همزمان روی یک پروژه کار کنند. این پلتفرم انعطاف‌پذیری بالایی در مقیاس‌گذاری سیستم‌های کنترلی دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 12:40",
+      "collected_at": "1405/07/24 16:10",
+      "source": "Process Automation News",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-control/simatic-pcs-neo.html",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Process Control",
+        "Cloud Engineering"
+      ]
+    },
+    {
+      "id": "ia-20241015-007",
+      "title": "استفاده از هوش مصنوعی لبه در سیستم‌های بازرسی بصری",
+      "summary": "زیمنس با ادغام ماژول‌های هوش مصنوعی در پلتفرم Industrial Edge، امکان تحلیل داده‌های تصویری را مستقیماً در محل تولید فراهم کرد. این راهکار نیاز به ارسال داده‌ها به فضای ابری را از بین برده و زمان پاسخگویی سیستم را به حداقل می‌رساند. این فناوری برای کاربردهای حساس که نیاز به سرعت بالا دارند ایده‌آل است.",
+      "category": "topic",
+      "published_at": "1405/07/24 13:15",
+      "collected_at": "1405/07/24 16:10",
+      "source": "Automation Today",
+      "source_url": "https://new.siemens.com/global/en/products/automation/topic-areas/industrial-edge.html",
+      "tags": [
+        "Industrial Edge",
+        "Artificial Intelligence",
+        "Vision Systems"
+      ]
+    },
+    {
+      "id": "ia-20241015-008",
+      "title": "ارتقای استانداردهای ارتباطی در تجهیزات ابزار دقیق SIPART",
+      "summary": "پوزیشنرهای دیجیتال SIPART زیمنس اکنون از پروتکل‌های ارتباطی پیشرفته برای یکپارچگی بهتر با سیستم‌های اسکادا پشتیبانی می‌کنند. این ارتقا دقت اندازه‌گیری و کنترل شیرهای صنعتی را افزایش داده و امکان عیب‌یابی از راه دور را فراهم می‌کند. این تجهیزات نقش کلیدی در پایداری فرآیندهای تولید ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 14:00",
+      "collected_at": "1405/07/24 16:10",
+      "source": "Instrumentation Monthly",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-instrumentation/positioners.html",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "SCADA",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20241015-009",
+      "title": "توسعه ماژول‌های ایمنی جدید برای سیستم‌های ET 200SP",
+      "summary": "زیمنس سری جدید ماژول‌های ایمنی (F-Modules) را برای سیستم‌های I/O توزیع‌شده ET 200SP معرفی کرد. این ماژول‌ها با استانداردهای ایمنی SIL 3 مطابقت دارند و برای حفاظت از اپراتورها در محیط‌های رباتیک طراحی شده‌اند. نصب آسان و پیکربندی سریع در TIA Portal از ویژگی‌های اصلی این سری جدید است.",
+      "category": "product",
+      "published_at": "1405/07/24 14:45",
+      "collected_at": "1405/07/24 16:10",
+      "source": "Safety Automation News",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/io-systems/simatic-et200sp.html",
+      "tags": [
+        "ET 200SP",
+        "Safety",
+        "Automation",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20241015-010",
+      "title": "گزارش رشد بازار سیستم‌های مانیتورینگ WinCC Unified",
+      "summary": "گزارش‌های جدید بازار نشان می‌دهد که استفاده از پلتفرم WinCC Unified زیمنس به دلیل رابط کاربری مبتنی بر وب و انعطاف‌پذیری بالا، رشد قابل توجهی داشته است. این سیستم به اپراتورها اجازه می‌دهد تا از هر دستگاهی به داده‌های تولید دسترسی داشته باشند. این روند نشان‌دهنده حرکت صنایع به سمت دیجیتالی‌سازی کامل است.",
+      "category": "industry",
+      "published_at": "1405/07/24 15:30",
+      "collected_at": "1405/07/24 16:10",
+      "source": "Market Insights",
+      "source_url": "https://new.siemens.com/global/en/products/automation/simatic-hmi/wincc-unified.html",
+      "tags": [
+        "WinCC Unified",
+        "HMI",
+        "SCADA",
+        "Digitalization"
       ]
     }
   ]
