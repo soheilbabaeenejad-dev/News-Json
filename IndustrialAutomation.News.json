@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 297,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 12:02",
+  "count": 304,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/24 12:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4695,6 +4695,118 @@
         "SIMATIC",
         "Automation",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-002",
+      "title": "ارتقای قابلیت‌های ارتباطی در کنترلرهای SIMATIC S7-1500 با پروتکل‌های جدید",
+      "summary": "شرکت زیمنس ماژول‌های ارتباطی جدیدی را برای سری SIMATIC S7-1500 عرضه کرده که از استانداردهای پیشرفته شبکه پشتیبانی می‌کنند. این ارتقا باعث بهبود تبادل داده در محیط‌های صنعتی پیچیده و افزایش سرعت پاسخگویی در سیستم‌های کنترل توزیع‌شده می‌شود. این ماژول‌ها برای صنایع خودروسازی و بسته‌بندی که نیاز به تبادل داده آنی دارند، بسیار کلیدی هستند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:45",
+      "collected_at": "1405/07/24 12:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-updates",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "Networking",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261015-003",
+      "title": "توسعه راهکارهای امنیت سایبری برای شبکه‌های صنعتی با تجهیزات SCALANCE",
+      "summary": "زیمنس نسل جدیدی از تجهیزات شبکه SCALANCE را با تمرکز بر امنیت سایبری لایه‌های OT معرفی کرد. این تجهیزات با قابلیت‌های رمزنگاری پیشرفته و تشخیص نفوذ، از زیرساخت‌های حیاتی در برابر حملات سایبری محافظت می‌کنند. این اقدام در راستای استانداردهای بین‌المللی IEC 62443 برای تضمین پایداری سیستم‌های کنترل صنعتی انجام شده است.",
+      "category": "industry",
+      "published_at": "1405/07/24 09:00",
+      "collected_at": "1405/07/24 12:04",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-scalance-security",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT Security",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261015-004",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانجات فولاد با درایوهای SINAMICS G220",
+      "summary": "استفاده از درایوهای جدید SINAMICS G220 در صنایع سنگین، منجر به کاهش چشمگیر مصرف انرژی در الکتروموتورهای بزرگ شده است. این درایوها با قابلیت‌های پیشرفته کنترل گشتاور و مانیتورینگ انرژی، هزینه‌های عملیاتی کارخانجات را بهینه می‌کنند. این راهکار به مدیران کارخانه اجازه می‌دهد تا ردپای کربنی خود را مطابق با اهداف پایداری کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/24 09:30",
+      "collected_at": "1405/07/24 12:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/sinamics-g220-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261015-005",
+      "title": "گسترش پلتفرم WinCC Unified برای مانیتورینگ هوشمند در صنایع دارویی",
+      "summary": "نسخه جدید نرم‌افزار WinCC Unified با قابلیت‌های پیشرفته گزارش‌دهی و داشبوردهای تحت وب، برای نظارت بر خطوط تولید دارویی عرضه شد. این پلتفرم با فراهم کردن شفافیت کامل در داده‌های فرآیندی، به انطباق با استانداردهای سخت‌گیرانه FDA کمک می‌کند. این ابزار به اپراتورها اجازه می‌دهد تا از راه دور و از طریق تبلت، وضعیت تولید را نظارت کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 12:04",
+      "source": "Siemens Industry News",
+      "source_url": "https://new.siemens.com/wincc-unified-pharma",
+      "tags": [
+        "WinCC",
+        "SCADA",
+        "Pharma",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261015-006",
+      "title": "همکاری زیمنس و شرکت‌های رباتیک برای یکپارچه‌سازی SIMATIC Robot Integrator",
+      "summary": "زیمنس با همکاری تولیدکنندگان ربات، پلتفرم SIMATIC Robot Integrator را برای ساده‌سازی برنامه‌نویسی ربات‌های صنعتی توسعه داده است. این محیط مهندسی اجازه می‌دهد تا ربات‌ها مستقیماً از طریق TIA Portal کنترل شوند. این یکپارچگی باعث کاهش زمان راه‌اندازی خطوط تولید و افزایش انعطاف‌پذیری در تغییرات محصول در کارخانه‌های هوشمند می‌شود.",
+      "category": "match",
+      "published_at": "1405/07/24 10:20",
+      "collected_at": "1405/07/24 12:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-robotics-integration",
+      "tags": [
+        "Robotics",
+        "TIA Portal",
+        "Integration",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261015-007",
+      "title": "ارتقای قابلیت‌های نگهداری پیش‌بینانه با پلتفرم Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس اکنون با الگوریتم‌های یادگیری ماشین برای تحلیل وضعیت تجهیزات در کارخانجات مجهز شده است. این سیستم با شناسایی الگوهای خرابی قبل از وقوع، زمان توقف ناخواسته را به حداقل می‌رساند. این فناوری به تیم‌های نگهداری کمک می‌کند تا با دقت بالاتری برای سرویس‌های دوره‌ای برنامه‌ریزی کنند و عمر مفید تجهیزات را افزایش دهند.",
+      "category": "research",
+      "published_at": "1405/07/24 10:45",
+      "collected_at": "1405/07/24 12:04",
+      "source": "IoT World",
+      "source_url": "https://iotworld.com/siemens-insights-hub-predictive",
+      "tags": [
+        "Insights Hub",
+        "Predictive Maintenance",
+        "Cloud",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261015-008",
+      "title": "توسعه ابزارهای مهندسی TIA Portal V20 برای خودکارسازی تست کدها",
+      "summary": "نسخه جدید TIA Portal V20 ابزارهای پیشرفته‌ای را برای تست خودکار کدهای PLC و شبیه‌سازی فرآیندها ارائه می‌دهد. این ویژگی به مهندسان اتوماسیون کمک می‌کند تا پیش از پیاده‌سازی سخت‌افزاری، خطاها را در محیط مجازی شناسایی و رفع کنند. این رویکرد باعث افزایش کیفیت نرم‌افزار و کاهش زمان تست در سایت پروژه می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 11:10",
+      "collected_at": "1405/07/24 12:04",
+      "source": "Automation News",
+      "source_url": "https://www.automationnews.com/tia-portal-v20-update",
+      "tags": [
+        "TIA Portal",
+        "PLC",
+        "Software Engineering",
+        "Simulation"
       ]
     }
   ]
