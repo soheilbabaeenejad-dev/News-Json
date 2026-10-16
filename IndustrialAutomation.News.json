@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 474,
+  "count": 479,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 18:10",
+  "updated_at": "1405/07/24 18:17",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7504,6 +7504,91 @@
         "Siemens",
         "Instrumentation",
         "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسخه جدید سیستم کنترل SIMATIC S7-1500 با ماژول‌های امنیتی سخت‌افزاری پیشرفته",
+      "summary": "شرکت زیمنس نسخه به‌روزرسانی شده کنترلرهای قابل برنامه‌ریزی SIMATIC S7-1500 را با تمرکز بر ارتقای امنیت سایبری صنعتی معرفی کرد. این سخت‌افزار جدید به رمزنگاری پیشرفته داده‌ها و قابلیت‌های تشخیص نفوذ مجهز شده است تا از خطوط تولید در برابر تهدیدات سایبری محافظت کند. این توسعه به مهندسان کمک می‌کند تا استانداردهای حفاظتی شبکه را در صنایع حیاتی به سادگی پیاده‌سازی نمایند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 18:17",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-update",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "PLC",
+        "Cybersecurity",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم لبه صنعتی زیمنس",
+      "summary": "پلتفرم Industrial Edge زیمنس با دریافت یک بسته نرم‌افزاری جدید، قابلیت‌های پردازش داده‌های کلان را مستقیماً در سالن‌های تولید تقویت کرده است. این ابزار به اپراتورها اجازه می‌دهد تا پارامترهای حیاتی ماشین‌آلات را با الگوریتم‌های یادگیری ماشین ارزیابی کنند. این راهکار نقش مهمی در کاهش توقفات ناخواسته خطوط مونتاژ و بهینه‌سازی فرآیندهای کارگاهی دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 09:15",
+      "collected_at": "1405/07/24 18:17",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-industrial-edge-update",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Analytics",
+        "Siemens",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش سیستم‌های مانیتورینگ WinCC Unified در کنترل اتاق‌های فرمان",
+      "summary": "نسخه جدید نرم‌افزار SCADA زیمنس یعنی WinCC Unified امکانات تازه‌ای برای تجسم‌سازی داده‌های فرایندی در مقیاس بزرگ ارائه کرده است. این پلتفرم مبتنی بر وب به مدیران تولید اجازه می‌دهد وضعیت تجهیزات را روی هر مرورگر و دستگاهی رصد کنند. این سیستم نقش کلیدی در یکپارچه‌سازی اطلاعات طبقه تولید با مدیریت سطح بالا دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 11:30",
+      "collected_at": "1405/07/24 18:17",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-wincc-unified-scada",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Monitoring",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه قابلیت‌های هوش مصنوعی مولد در پلتفرم مهندسی اتوماسیون",
+      "summary": "زیمنس از ابزارهای مبتنی بر هوش مصنوعی مولد برای تولید خودکار کدهای برنامه‌نویسی کنترلرها در محیط مهندسی پردهبرداری کرد. این فناوری به برنامه‌نویسان کمک می‌کند تا توابع پیچیده کنترلی را صرفاً با توصیف متنی فرآیند ایجاد کنند. این رویکرد نوآورانه بهره‌وری تیم‌های مهندسی را در پروژه‌های بزرگ صنعتی به شدت افزایش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/24 13:00",
+      "collected_at": "1405/07/24 18:17",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-gen-ai-automation",
+      "tags": [
+        "AI",
+        "Generative AI",
+        "Engineering",
+        "TIA Portal",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهبود دقت اندازه‌گیری در تجهیزات ابزار دقیق با فرستنده‌های دیجیتال SIPART",
+      "summary": "نسخه جدید فرستنده‌های دیجیتال SIPART زیمنس برای پایش دقیق جریان و فشار سیالات در صنایع شیمیایی معرفی شد. این تجهیزات ابزار دقیق با قابلیت کالیبراسیون خودکار، پایداری طولانی‌مدت را در شرایط سخت عملیاتی تضمین می‌کنند. اتصال این حسگرها به شبکه فیلدباس به بهبود کیفیت نظارت بر فرآیندهای پیوسته کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 13:45",
+      "collected_at": "1405/07/24 18:17",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sipart-transmitters",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Sensors",
+        "Process Control",
+        "Siemens"
       ]
     }
   ]
