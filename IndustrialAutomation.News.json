@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 224,
+  "count": 232,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 09:01",
+  "updated_at": "1405/07/24 09:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3532,6 +3532,134 @@
         "SCADA",
         "HMI",
         "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "توسعه پروتکل‌های ارتباطی بی‌سیم در تجهیزات شبکه SCALANCE",
+      "summary": "شرکت زیمنس نسل جدید تجهیزات شبکه SCALANCE را با پشتیبانی از استانداردهای پیشرفته بی‌سیم برای محیط‌های کارگاهی معرفی کرد. این تجهیزات با هدف کاهش کابل‌کشی و افزایش انعطاف‌پذیری در کارخانه‌های هوشمند طراحی شده‌اند. امنیت شبکه در این سری با پروتکل‌های رمزنگاری جدید تضمین شده است.",
+      "category": "industry",
+      "published_at": "1405/07/24 08:20",
+      "collected_at": "1405/07/24 09:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/networking/article/22938472/siemens-scalance",
+      "tags": [
+        "SCALANCE",
+        "Networking",
+        "Wireless",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع فولاد با درایوهای SINAMICS DCP",
+      "summary": "استفاده از درایوهای جدید SINAMICS DCP زیمنس در صنایع سنگین منجر به کاهش چشمگیر مصرف انرژی در سیستم‌های انتقال قدرت شده است. این درایوها با قابلیت بازیابی انرژی، هزینه‌های عملیاتی کارخانجات فولاد را بهینه می‌کنند. این راهکار بخشی از استراتژی پایداری زیمنس برای صنایع سنگین است.",
+      "category": "product",
+      "published_at": "1405/07/24 08:25",
+      "collected_at": "1405/07/24 09:02",
+      "source": "Industrial News",
+      "source_url": "https://www.siemens.com/drives",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Steel Industry",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "ارتقای امنیت سایبری در سیستم‌های کنترل توزیع‌شده با PCS 7 V9.2",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده PCS 7 V9.2 با تمرکز بر امنیت سایبری در لایه OT منتشر شد. این بروزرسانی شامل ابزارهای پیشرفته شناسایی نفوذ و مدیریت متمرکز دسترسی‌ها برای حفاظت از زیرساخت‌های حیاتی است. این تغییرات به کاربران کمک می‌کند تا با استانداردهای امنیتی جدید تطبیق یابند.",
+      "category": "regulation",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 09:02",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-control.html",
+      "tags": [
+        "PCS 7",
+        "Cybersecurity",
+        "DCS",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "همکاری زیمنس و شرکت‌های رباتیک برای استانداردسازی رابط‌های کاربری",
+      "summary": "زیمنس با همکاری تولیدکنندگان پیشرو رباتیک، پروتکل‌های جدیدی برای یکپارچه‌سازی آسان‌تر ربات‌ها با کنترلرهای SIMATIC تدوین کرده است. این استانداردسازی باعث کاهش زمان راه‌اندازی خطوط تولید رباتیک می‌شود. تمرکز اصلی این همکاری بر افزایش تعامل‌پذیری در محیط‌های تولیدی چند-فروشنده است.",
+      "category": "match",
+      "published_at": "1405/07/24 08:35",
+      "collected_at": "1405/07/24 09:02",
+      "source": "Robotics Today",
+      "source_url": "https://www.siemens.com/robotics",
+      "tags": [
+        "Robotics",
+        "SIMATIC",
+        "Partnership",
+        "Standardization"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم Insights Hub",
+      "summary": "پلتفرم Insights Hub زیمنس اکنون به ابزارهای تحلیل پیش‌بینانه مبتنی بر هوش مصنوعی مجهز شده است. این قابلیت‌ها به مدیران کارخانه‌ها اجازه می‌دهد تا خرابی‌های احتمالی تجهیزات را پیش از وقوع شناسایی کنند. این امر باعث کاهش زمان توقف خطوط تولید و افزایش بهره‌وری کلی تجهیزات می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 08:40",
+      "collected_at": "1405/07/24 09:02",
+      "source": "Digital Factory News",
+      "source_url": "https://www.siemens.com/insights-hub",
+      "tags": [
+        "Insights Hub",
+        "Predictive Maintenance",
+        "AI",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "معرفی کنترلرهای فشرده SIMATIC S7-1200 G2",
+      "summary": "زیمنس نسل جدید کنترلرهای فشرده S7-1200 G2 را با قدرت پردازش بالاتر و حافظه بیشتر برای کاربردهای کوچک و متوسط معرفی کرد. این کنترلرها با پشتیبانی از پروتکل‌های ارتباطی مدرن، گزینه‌ای ایده‌آل برای ماشین‌سازان هستند. طراحی ماژولار این سری امکان توسعه آسان سیستم را فراهم می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:45",
+      "collected_at": "1405/07/24 09:02",
+      "source": "Automation Direct",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1200.html",
+      "tags": [
+        "SIMATIC",
+        "S7-1200",
+        "PLC",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "استفاده از واقعیت افزوده در آموزش اپراتورهای خطوط تولید",
+      "summary": "زیمنس راهکار جدیدی بر پایه واقعیت افزوده برای آموزش اپراتورها در محیط‌های صنعتی ارائه کرده است. این سیستم با شبیه‌سازی محیط کار واقعی و راهنمایی‌های گام‌به‌گام، سرعت یادگیری و ایمنی پرسنل را افزایش می‌دهد. این فناوری به ویژه برای کار با تجهیزات پیچیده و حساس بسیار کاربردی است.",
+      "category": "topic",
+      "published_at": "1405/07/24 08:50",
+      "collected_at": "1405/07/24 09:02",
+      "source": "Tech Industry Review",
+      "source_url": "https://www.siemens.com/ar-vr",
+      "tags": [
+        "Augmented Reality",
+        "Training",
+        "Industry 4.0",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "بهبود دقت ابزار دقیق با سنسورهای فشار جدید SITRANS",
+      "summary": "سری جدید سنسورهای فشار SITRANS زیمنس با دقت اندازه‌گیری بسیار بالا برای صنایع شیمیایی و دارویی عرضه شد. این سنسورها دارای قابلیت تشخیص هوشمند وضعیت عملیاتی هستند که به کاهش خطاهای اندازه‌گیری کمک می‌کند. این تجهیزات با پروتکل‌های ارتباطی دیجیتال به راحتی به سیستم‌های کنترل متصل می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:55",
+      "collected_at": "1405/07/24 09:02",
+      "source": "Process Instrumentation",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-instrumentation.html",
+      "tags": [
+        "SITRANS",
+        "Instrumentation",
+        "Sensors",
+        "Process Control"
       ]
     }
   ]
