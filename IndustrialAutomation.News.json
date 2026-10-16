@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 421,
+  "count": 431,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 16:03",
+  "updated_at": "1405/07/24 16:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6659,6 +6659,166 @@
         "MindSphere",
         "Sustainability",
         "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo با ابزارهای مهندسی ابری",
+      "summary": "زیمنس نسخه جدید پلتفرم SIMATIC PCS neo را با تمرکز بر مهندسی توزیع‌شده و قابلیت‌های ابری منتشر کرد. این نسخه به تیم‌های مهندسی اجازه می‌دهد بدون نیاز به نصب نرم‌افزار محلی، به صورت همزمان روی پروژه‌های بزرگ پتروشیمی کار کنند. هدف اصلی این بروزرسانی، کاهش زمان راه‌اندازی و افزایش امنیت ارتباطی در زیرساخت‌های حیاتی فرآیندی است.",
+      "category": "product",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 16:07",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-pcs-neo-update",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Siemens",
+        "Cloud Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس پلتفرم Industrial Edge خود را با ماژول‌های جدید تحلیل داده‌های زمان واقعی ارتقا داد. این ابزارها به واحدهای تولیدی کمک می‌کنند تا وضعیت سلامت تجهیزات را با دقت بیشتری رصد کرده و خرابی‌های پیش‌بینی‌نشده را کاهش دهند. این فناوری جدید به طور مستقیم به کنترلرهای SIMATIC متصل شده و داده‌ها را در لبه شبکه پردازش می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 09:15",
+      "collected_at": "1405/07/24 16:07",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-industrial-edge-analytics",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "Data Analytics",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "معرفی سوئیچ‌های صنعتی نسل جدید SCALANCE برای شبکه‌های امن OT",
+      "summary": "خانواده تجهیزات شبکه SCALANCE زیمنس با مدل‌های جدیدی که از پروتکل‌های امنیتی پیشرفته پشتیبانی می‌کنند، توسعه یافت. این سوئیچ‌ها برای مقابله با تهدیدات سایبری روزافزون در شبکه‌های کنترل صنعتی طراحی شده‌اند. مدیران شبکه می‌توانند با استفاده از این تجهیزات، امنیت تبادل داده میان لایه فیلد و سیستم‌های اسکادا را به حداکثر برسانند.",
+      "category": "product",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 16:07",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-new-switches",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی در کمپرسورها با درایورهای صنعتی SINAMICS G150",
+      "summary": "سری جدید درایوهای فرکانس متغیر SINAMICS G150 زیمنس برای کنترل دقیق موتورهای کمپرسور معرفی شد. این تجهیزات با کاهش تلفات انرژی و تنظیم هوشمند دور موتور، نقش مهمی در کاهش هزینه‌های برق صنایع سنگین دارند. مهندسان می‌توانند این درایوها را به راحتی از طریق پروتکل‌های استاندارد به سیستم‌های اتوماسیون متصل کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 10:45",
+      "collected_at": "1405/07/24 16:07",
+      "source": "Drive & Control Magazine",
+      "source_url": "https://www.driveandcontrol.co.uk/siemens-sinamics-g150-update",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه ماژول‌های I/O توزیع‌شده برای محیط‌های خشن با SIMATIC ET 200AL",
+      "summary": "زیمنس ماژول‌های جدیدی را به خانواده سیستم‌های I/O توزیع‌شده SIMATIC ET 200AL اضافه کرد که دارای استاندارد حفاظتی بالا هستند. این ماژول‌ها برای نصب مستقیم روی ماشین‌آلات بدون نیاز به تابلوهای برق سنتی طراحی شده‌اند. مقاومت در برابر لرزش‌های شدید و رطوبت بالا از ویژگی‌های اصلی این تجهیزات به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/24 11:30",
+      "collected_at": "1405/07/24 16:07",
+      "source": "IEA Network",
+      "source_url": "https://www.iea-network.com/siemens-et200al-expansion",
+      "tags": [
+        "SIMATIC ET 200AL",
+        "Distributed I/O",
+        "Siemens",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای ابزارهای مانیتورینگ خطوط تولید با نسخه تازه WinCC Unified",
+      "summary": "نسخه جدید نرم‌افزار مانیتورینگ WinCC Unified زیمنس قابلیت‌های جدیدی را برای طراحی رابط‌های کاربری وب‌محور ارائه می‌دهد. اپراتورها اکنون می‌توانند اطلاعات حیاتی خطوط تولید را روی هر دستگاهی با امنیت کامل مشاهده کنند. این بروزرسانی به توسعه‌دهندگان اجازه می‌دهد داشبوردهای تعاملی‌تری برای نظارت بر فرآیندهای صنعتی بسازند.",
+      "category": "product",
+      "published_at": "1405/07/24 12:15",
+      "collected_at": "1405/07/24 16:07",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/siemens-wincc-unified-new-version",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "بهبود دقت اندازه‌گیری در فرآیندهای شیمیایی با فرستنده‌های دیجیتال SIPART",
+      "summary": "نسخه پیشرفته تجهیزات ابزار دقیق SIPART زیمنس برای اندازه‌گیری دقیق پارامترهای شیمیایی روانه بازار شد. این فرستنده‌ها با بهره‌گیری از الگوریتم‌های پردازش سیگنال پیشرفته، خطای اندازه‌گیری را به حداقل می‌رسانند. پشتیبانی از پروتکل‌های ارتباطی مدرن امکان کالیبراسیون از راه دور را برای تکنسین‌ها فراهم کرده است.",
+      "category": "product",
+      "published_at": "1405/07/24 13:00",
+      "collected_at": "1405/07/24 16:07",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-sipart-transmitters",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Process Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "همکاری زیمنس و دانشگاه‌های صنعتی برای توسعه مهارت‌های اتوماسیون",
+      "summary": "برنامه مشترک جدیدی میان زیمنس و چندین دانشگاه معتبر صنعتی برای آموزش تخصصی TIA Portal آغاز شد. این طرح با هدف کاهش شکاف میان صنعت و دانشگاه و تربیت متخصصان مسلط به کنترلرهای SIMATIC تدوین شده است. دانشجویان شرکت‌کننده در این دوره به نرم‌افزارهای پیشرفته مهندسی و تجهیزات آزمایشگاهی دسترسی خواهند داشت.",
+      "category": "society",
+      "published_at": "1405/07/24 13:45",
+      "collected_at": "1405/07/24 16:07",
+      "source": "Industry Education News",
+      "source_url": "https://www.industryednews.com/siemens-university-partnership-2026",
+      "tags": [
+        "Education",
+        "TIA Portal",
+        "Siemens",
+        "Workforce Development"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "رشد سرمایه‌گذاری جهانی در راهکارهای دوقلوی دیجیتال کارخانجات",
+      "summary": "گزارش‌های جدید بازار نشان می‌دهد تقاضا برای پلتفرم‌های دوقلوی دیجیتال صنعتی زیمنس رشد چشمگیری داشته است. شرکت‌های تولیدی با شبیه‌سازی کامل خطوط تولید پیش از راه‌اندازی فیزیکی، هزینه‌های ساخت را به شدت کاهش می‌دهند. این فناوری نقش کلیدی در تحقق اهداف کارخانجات هوشمند و صنعت نسل چهارم ایفا می‌کند.",
+      "category": "economy",
+      "published_at": "1405/07/24 14:30",
+      "collected_at": "1405/07/24 16:07",
+      "source": "Global Automation Report",
+      "source_url": "https://www.globalautomationreport.com/digital-twin-market-growth",
+      "tags": [
+        "Digital Twin",
+        "Industry 4.0",
+        "Siemens",
+        "Market Trends"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه برنامه‌نویسی شی‌گرا در کنترلرهای SIMATIC S7-1500 با TIA Portal",
+      "summary": "آپدیت جدید ابزار مهندسی TIA Portal امکانات تازه‌ای را برای برنامه‌نویسی شی‌گرا در کنترلرهای SIMATIC S7-1500 فراهم کرده است. این ویژگی به مهندسان نرم‌افزار اجازه می‌دهد کدهای ماژولارتر و قابل استفاده مجدد بنویسند. این رویکرد مدرن، نگهداری پروژه‌های بزرگ اتوماسیون صنعتی را به طور قابل توجهی ساده‌تر می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 15:15",
+      "collected_at": "1405/07/24 16:07",
+      "source": "PLC Hacker",
+      "source_url": "https://www.plchacker.com/siemens-tia-portal-oop-update",
+      "tags": [
+        "TIA Portal",
+        "SIMATIC S7-1500",
+        "PLC Programming",
+        "Siemens"
       ]
     }
   ]
