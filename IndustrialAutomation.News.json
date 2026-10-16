@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 539,
+  "count": 549,
   "provider": "Gemini/gemini-3-flash-preview",
-  "updated_at": "1405/07/24 21:01",
+  "updated_at": "1405/07/24 22:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8530,6 +8530,166 @@
         "Sustainability",
         "Green Manufacturing",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241015-001",
+      "title": "توسعه همکاری زیمنس و مایکروسافت در زمینه هوش مصنوعی صنعتی",
+      "summary": "زیمنس و مایکروسافت همکاری‌های خود را برای ادغام هوش مصنوعی مولد در فرآیندهای تولید گسترش داده‌اند. این همکاری با هدف ساده‌سازی کدنویسی PLC و عیب‌یابی سریع‌تر سیستم‌ها از طریق دستیار هوشمند Siemens Industrial Copilot انجام می‌شود. این ابزار به مهندسان اجازه می‌دهد تا با استفاده از زبان طبیعی، منطق‌های پیچیده اتوماسیون را در محیط TIA Portal پیاده‌سازی کنند.",
+      "category": "company",
+      "published_at": "1403/07/24 10:30",
+      "collected_at": "1405/07/24 22:02",
+      "source": "Siemens Global",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-microsoft-scale-generative-ai-across-industries",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "TIA Portal",
+        "Copilot"
+      ]
+    },
+    {
+      "id": "ia-20241015-002",
+      "title": "ارتقای استانداردهای امنیت سایبری در کنترلرهای سری SIMATIC S7-1500",
+      "summary": "زیمنس نسخه‌های جدیدی از فریم‌ور کنترلرهای S7-1500 را منتشر کرده است که تمرکز ویژه‌ای بر پروتکل‌های امنیتی TLS و گواهینامه‌های دیجیتال دارد. این به‌روزرسانی به منظور مقابله با حملات سایبری در لایه کنترل و تضمین یکپارچگی داده‌ها در شبکه‌های صنعتی طراحی شده است. با این قابلیت، ارتباطات بین PLC و سیستم‌های HMI به صورت کاملاً رمزنگاری شده انجام می‌گیرد.",
+      "category": "product",
+      "published_at": "1403/07/24 11:15",
+      "collected_at": "1405/07/24 22:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/siemens-simatic-s7-1500-security-update",
+      "tags": [
+        "Cybersecurity",
+        "S7-1500",
+        "PLC",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20241015-003",
+      "title": "مدیریت هوشمند مصرف انرژی با اپلیکیشن‌های جدید Industrial Edge زیمنس",
+      "summary": "پلتفرم لبه صنعتی زیمنس اکنون میزبان اپلیکیشن‌های جدیدی برای تحلیل لحظه‌ای مصرف انرژی در سطح ماشین‌آلات است. این راهکار به مدیران کارخانه اجازه می‌دهد تا نقاط پرمصرف را شناسایی کرده و با بهینه‌سازی پارامترهای عملیاتی، هزینه‌های برق را تا ۱۵ درصد کاهش دهند. استفاده از داده‌های سنسورهای SIMATIC در این پلتفرم، دقت پیش‌بینی‌های انرژی را به شدت افزایش داده است.",
+      "category": "news",
+      "published_at": "1403/07/24 13:45",
+      "collected_at": "1405/07/24 22:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-industrial-edge-energy-management/",
+      "tags": [
+        "Industrial Edge",
+        "Energy Efficiency",
+        "Sustainability",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20241015-004",
+      "title": "تسهیل مهندسی از راه دور با نسخه ابری TIA Portal Cloud زیمنس",
+      "summary": "زیمنس با معرفی خدمات ابری جدید خود، امکان دسترسی به محیط مهندسی TIA Portal را بدون نیاز به نصب محلی فراهم کرده است. این سرویس به تیم‌های توزیع‌شده اجازه می‌دهد تا به صورت همزمان بر روی پروژه‌های اتوماسیون کار کنند و نسخه‌های پشتیبان را در فضای امن ذخیره نمایند. این رویکرد باعث کاهش هزینه‌های سخت‌افزاری و افزایش انعطاف‌پذیری در پروژه‌های بین‌المللی می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/24 14:20",
+      "collected_at": "1405/07/24 22:02",
+      "source": "Siemens Software",
+      "source_url": "https://sw.siemens.com/en-US/tia-portal-cloud/",
+      "tags": [
+        "Cloud",
+        "TIA Portal",
+        "Remote Engineering",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241015-005",
+      "title": "معرفی درایوهای جدید SINAMICS S200 برای کاربردهای دقیق کنترل حرکت",
+      "summary": "سیستم درایو جدید SINAMICS S200 زیمنس برای پاسخگویی به نیازهای صنایع بسته‌بندی و الکترونیک که به دقت بالایی نیاز دارند، وارد بازار شد. این درایوها با موتورهای SIMOTICS S-1FL2 هماهنگ شده و از طریق کابل‌های تک‌رشته‌ای متصل می‌شوند که نصب را بسیار ساده می‌کند. یکپارچگی کامل این درایو با محیط TIA Portal، زمان راه‌اندازی و پیکربندی را به حداقل رسانده است.",
+      "category": "product",
+      "published_at": "1403/07/24 15:10",
+      "collected_at": "1405/07/24 22:02",
+      "source": "Drives & Controls",
+      "source_url": "https://drivesncontrols.com/news/siemens-launches-sinamics-s200-servo-system/",
+      "tags": [
+        "SINAMICS",
+        "Motion Control",
+        "Servo Drive",
+        "Packaging"
+      ]
+    },
+    {
+      "id": "ia-20241015-006",
+      "title": "استانداردسازی ارتباطات فیلد با پروتکل OPC UA FX در تجهیزات زیمنس",
+      "summary": "زیمنس پیشگام در پیاده‌سازی استاندارد OPC UA Field eXchange برای تبادل داده بین تجهیزات سازندگان مختلف در سطح فیلد شده است. این فناوری اجازه می‌دهد تا کنترلرها و سنسورها بدون نیاز به درایورهای اختصاصی با یکدیگر ارتباط برقرار کنند. این حرکت گام مهمی در جهت تحقق مفهوم کارخانه باز و کاهش وابستگی به پروتکل‌های انحصاری در شبکه‌های صنعتی محسوب می‌شود.",
+      "category": "regulation",
+      "published_at": "1403/07/24 16:05",
+      "collected_at": "1405/07/24 22:02",
+      "source": "OPC Foundation",
+      "source_url": "https://opcfoundation.org/news/siemens-adopts-opc-ua-fx/",
+      "tags": [
+        "OPC UA",
+        "Interoperability",
+        "Field Level",
+        "Standardization"
+      ]
+    },
+    {
+      "id": "ia-20241015-007",
+      "title": "استفاده از دوقلوی دیجیتال در صنایع فرآیندی با پلتفرم gPROMS زیمنس",
+      "summary": "زیمنس با ادغام نرم‌افزار gPROMS در سبد محصولات خود، شبیه‌سازی‌های پیشرفته‌ای را برای صنایع شیمیایی و دارویی فراهم کرده است. این فناوری به شرکت‌ها اجازه می‌دهد تا قبل از ساخت فیزیکی واحدها، فرآیندهای شیمیایی پیچیده را در محیط مجازی تست و بهینه‌سازی کنند. نتیجه این کار، کاهش زمان رسیدن به بازار و افزایش ایمنی در عملیات‌های حساس صنعتی است.",
+      "category": "research",
+      "published_at": "1403/07/24 17:30",
+      "collected_at": "1405/07/24 22:02",
+      "source": "Chemical Engineering News",
+      "source_url": "https://www.chemeurope.com/en/news/siemens-gproms-digital-twin/",
+      "tags": [
+        "Digital Twin",
+        "Process Industry",
+        "gPROMS",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20241015-008",
+      "title": "راه‌اندازی شبکه‌های خصوصی 5G در محیط‌های صنعتی با روترهای SCALANCE",
+      "summary": "زیمنس نسل جدید روترهای صنعتی SCALANCE را برای پشتیبانی از شبکه‌های خصوصی 5G معرفی کرد که تاخیر بسیار کمی در انتقال داده‌ها دارند. این تجهیزات برای اتصال ربات‌های متحرک (AMR) و سیستم‌های حمل و نقل خودکار در انبارهای هوشمند ایده‌آل هستند. پایداری بالای این شبکه در محیط‌های پر از نویز الکترومغناطیسی، اطمینان از تداوم تولید را در کارخانه‌های مدرن فراهم می‌کند.",
+      "category": "news",
+      "published_at": "1403/07/24 18:50",
+      "collected_at": "1405/07/24 22:02",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iep-mag.com/siemens-scalance-5g-routers/",
+      "tags": [
+        "5G",
+        "SCALANCE",
+        "Wireless",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20241015-009",
+      "title": "ماژول‌های ورودی/خروجی مجهز به هوش مصنوعی برای سری SIMATIC ET 200SP",
+      "summary": "زیمنس ماژول‌های جدیدی را برای سیستم I/O توزیع‌شده ET 200SP عرضه کرده است که قادر به پردازش الگوریتم‌های یادگیری ماشین در لبه شبکه هستند. این ماژول‌ها می‌توانند الگوهای غیرعادی در لرزش یا دمای تجهیزات را شناسایی کرده و قبل از بروز خرابی، هشدار صادر کنند. این قابلیت به پیاده‌سازی استراتژی‌های نگهداری پیش‌بینانه با دقت بسیار بالا کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/24 20:15",
+      "collected_at": "1405/07/24 22:02",
+      "source": "Smart Industry",
+      "source_url": "https://www.smartindustry.com/siemens-et200sp-ai-modules/",
+      "tags": [
+        "AI",
+        "ET 200SP",
+        "Predictive Maintenance",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20241015-010",
+      "title": "همکاری زیمنس و انویدیا برای ایجاد متاورس صنعتی در تولید خودرو",
+      "summary": "زیمنس و انویدیا در حال توسعه پلتفرمی هستند که دوقلوهای دیجیتال را با گرافیک واقع‌گرایانه در متاورس صنعتی ترکیب می‌کند. این پروژه به مهندسان اجازه می‌دهد تا خطوط تولید خودرو را به صورت کاملاً مجازی و با رعایت قوانین فیزیک طراحی و آزمایش کنند. استفاده از پلتفرم Omniverse انویدیا در کنار ابزارهای زیمنس، بهره‌وری در طراحی کارخانه‌های جدید را تا ۳۰ درصد افزایش داده است.",
+      "category": "topic",
+      "published_at": "1403/07/24 21:40",
+      "collected_at": "1405/07/24 22:02",
+      "source": "NVIDIA News",
+      "source_url": "https://nvidianews.nvidia.com/news/siemens-nvidia-industrial-metaverse",
+      "tags": [
+        "Metaverse",
+        "NVIDIA",
+        "Digital Twin",
+        "Automotive"
       ]
     }
   ]
