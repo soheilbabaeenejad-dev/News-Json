@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 518,
+  "count": 519,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 20:00",
+  "updated_at": "1405/07/24 20:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8204,6 +8204,22 @@
         "Instrumentation",
         "Sensors",
         "ابزار دقیق"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسخه جدید سیستم کنترل SIMATIC S7-1200 با امکانات ارتباطی نوین",
+      "summary": "شرکت زیمنس نسخه جدید کنترلر فشرده SIMATIC S7-1200 را با قابلیت‌های ارتباطی پیشرفته و امنیت سایبری داخلی معرفی کرد. این کنترلر جدید به مهندسان اجازه می‌دهد تا ارتباطات صنعتی را با سرعت بالاتر و به صورت کاملاً رمزنگاری‌شده در پروژه‌های کوچک و متوسط پیاده‌سازی کنند. این محصول نقش مهمی در افزایش انعطاف‌پذیری ماشین‌آلات صنعتی ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 20:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1200-update",
+      "tags": [
+        "SIMATIC",
+        "S7-1200",
+        "PLC",
+        "Siemens"
       ]
     }
   ]
