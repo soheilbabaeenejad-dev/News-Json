@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 439,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 16:10",
+  "count": 445,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/24 17:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6946,6 +6946,102 @@
         "HMI",
         "SCADA",
         "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "عرضه ماژول‌های تخصصی پردازش تصویر برای کنترلرهای SIMATIC S7-1500",
+      "summary": "شرکت زیمنس ماژول‌های پردازش تصویر جدیدی را برای سری کنترلرهای SIMATIC S7-1500 معرفی کرد که امکان بازرسی کیفیت سریع‌تر را فراهم می‌کند. این ماژول‌ها با پرداززنده‌های قدرتمند داخلی، خطاهای تولید را در کسری از ثانیه شناسایی و گزارش می‌کنند. این نوآوری به کارخانه‌ها کمک می‌کند تا دقت خطوط مونتاژ را به طور چشمگیری افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 17:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-vision-module",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "Machine Vision",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای نرم‌افزار مهندسی TIA Portal برای یکپارچه‌سازی ابزارهای ابری",
+      "summary": "نسخه به‌روزرسانی شده محیط مهندسی TIA Portal با ابزارهای ابری جدیدی برای مدیریت پروژه‌های اتوماسیون صنعتی منتشر شد. این امکانات به تیم‌های مهندسی اجازه می‌دهد تا کدهای PLC را به صورت همزمان و از راه دور ویرایش و تست کنند. این رویکرد ابری زمان توقف خطوط تولید را کاهش داده و همکاری مهندسان را تسهیل می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/24 09:15",
+      "collected_at": "1405/07/24 17:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/siemens-tia-portal-cloud-update",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Cloud",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش راهکارهای امنیت سایبری OT با سوئیچ‌های صنعتی SCALANCE",
+      "summary": "نسل جدید سوئیچ‌های صنعتی SCALANCE برای حفاظت از شبکه‌های اتوماسیون در برابر تهدیدات سایبری پیچیده عرضه شدند. این تجهیزات قابلیت رمزگذاری سخت‌افزاری ترافیک شبکه را فراهم کرده و استانداردهای حفاظتی شبکه را ارتقا می‌دهند. استفاده از این تجهیزات برای زیرساخت‌های حیاتی و کارخانه‌های هوشمند بسیار ضروری است.",
+      "category": "news",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 17:01",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-security-switch",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه قابلیت‌های مانیتورینگ صنعتی با نسخه جدید WinCC Unified V19",
+      "summary": "نرم‌افزار مانیتورینگ WinCC Unified V19 با امکانات پیشرفته گرافیکی و داشبوردهای وب‌محور در دسترس مهندسان قرار گرفت. این نسخه امکان نظارت دقیق‌تر بر پارامترهای حیاتی خطوط تولید را از طریق مرورگرهای مختلف فراهم می‌کند. اپراتورها اکنون می‌توانند هشدارها و داده‌های تولید را با سرعت و وضوح بسیار بالاتری تحلیل کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 11:30",
+      "collected_at": "1405/07/24 17:01",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.automationasia.com/siemens-wincc-unified-v19",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "ارتقای پلتفرم Insights Hub برای تحلیل پیشرفته پایداری مصرف انرژی",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به قابلیت‌های جدیدی برای ردگیری و تحلیل ردپای کربن در کارخانجات مجهز شد. مدیران صنعتی با کمک این ابزار می‌توانند مصرف انرژی تجهیزات را به صورت لحظه‌ای ارزیابی و بهینه‌سازی کنند. این گزارش‌ها به واحدها کمک می‌کند تا استانداردهای سخت‌گیرانه زیست‌محیطی را راحت‌تر رعایت کنند.",
+      "category": "news",
+      "published_at": "1405/07/24 14:20",
+      "collected_at": "1405/07/24 17:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud/siemens-insights-hub-sustainability-update",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Sustainability",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه ماژول‌های I/O توزیع‌شده سری SIMATIC ET 200SP HA برای محیط‌های سخت",
+      "summary": "سری جدید ماژول‌های I/O توزیع‌شده SIMATIC ET 200SP HA با مقاومت بالا در برابر شرایط محیطی دشوار معرفی شدند. این تجهیزات ارتباط پایداری را بین سنسورهای میدانی و کنترلر مرکزی در دماهای بالا برقرار می‌کنند. طراحی ماژولار آن‌ها نصب و نگهداری سیستم‌های اتوماسیون را در صنایع سنگین تسهیل می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/24 15:10",
+      "collected_at": "1405/07/24 17:01",
+      "source": "Industrial Digest",
+      "source_url": "https://www.industrialdigest.com/siemens-et-200sp-ha-modules",
+      "tags": [
+        "SIMATIC ET 200SP",
+        "I/O",
+        "Hardware",
+        "Fieldbus"
       ]
     }
   ]
