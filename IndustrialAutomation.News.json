@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 30,
+  "count": 40,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 01:03",
+  "updated_at": "1405/07/25 02:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -472,6 +472,166 @@
         "Integration",
         "OPC UA",
         "Facility Management"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی نسل جدید ماژول‌های ارتباطی Profinet برای SIMATIC S7-1500",
+      "summary": "زیمنس از ماژول‌های ارتباطی جدید خود برای سری SIMATIC S7-1500 رونمایی کرد که از پروتکل‌های پیشرفته TSN پشتیبانی می‌کنند. این ارتقا باعث کاهش چشمگیر تاخیر در تبادل داده‌ها بین کنترلرها و تجهیزات فیلد می‌شود. این فناوری جدید به مهندسان اجازه می‌دهد تا شبکه‌های صنعتی با مقیاس‌پذیری بالاتر و پایداری بیشتر در محیط‌های پرنویز کارخانه طراحی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 02:00",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Profinet",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم Insights Hub",
+      "summary": "شرکت زیمنس قابلیت‌های جدیدی را به پلتفرم ابری Insights Hub اضافه کرده است که تحلیل داده‌های بزرگ را برای کارخانه‌های هوشمند تسهیل می‌کند. این ابزار جدید با استفاده از الگوریتم‌های یادگیری ماشین، ناهنجاری‌های تولید را در لحظه شناسایی کرده و به اپراتورها هشدار می‌دهد. هدف از این به‌روزرسانی، کاهش زمان خرابی تجهیزات و افزایش بهره‌وری کلی خط تولید است.",
+      "category": "product",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 02:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/iiot/article/33000000/siemens-insights-hub-update",
+      "tags": [
+        "Insights Hub",
+        "IIoT",
+        "Data Analytics",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "استاندارد جدید امنیت سایبری برای سیستم‌های کنترل توزیع‌یافته PCS 7",
+      "summary": "زیمنس پروتکل‌های امنیتی جدیدی را برای سیستم‌های کنترل توزیع‌یافته (DCS) سری PCS 7 معرفی کرد تا در برابر تهدیدات سایبری مدرن مقاوم‌تر شوند. این بسته امنیتی شامل احراز هویت چندعاملی برای دسترسی به پنل‌های اپراتوری و رمزنگاری پیشرفته در سطح شبکه است. این اقدام بخشی از استراتژی زیمنس برای حفاظت از زیرساخت‌های حیاتی در برابر حملات باج‌افزاری است.",
+      "category": "industry",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 02:00",
+      "source": "Industrial Cybersecurity News",
+      "source_url": "https://www.industrial-cybersecurity.com/siemens-pcs7-security-update",
+      "tags": [
+        "Cybersecurity",
+        "DCS",
+        "PCS 7",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "توسعه ربات‌های خودمختار با همکاری زیمنس و شرکت‌های لجستیک",
+      "summary": "زیمنس با همکاری تولیدکنندگان ربات‌های متحرک خودمختار (AMR)، راهکار جدیدی را برای یکپارچه‌سازی ربات‌ها با سیستم‌های مدیریت انبار (WMS) ارائه کرده است. این سیستم با استفاده از نرم‌افزار TIA Portal به راحتی پیکربندی شده و مسیرهای بهینه را برای جابجایی قطعات در کارخانه محاسبه می‌کند. این همکاری باعث کاهش ترافیک انسانی در محیط‌های تولیدی پرخطر می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 02:00",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/news/2026/10/17/siemens-amr-integration",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Logistics",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع شیمیایی با درایوهای SINAMICS",
+      "summary": "استفاده از درایوهای فرکانس متغیر جدید سری SINAMICS در صنایع شیمیایی منجر به کاهش ۱۵ درصدی مصرف انرژی شده است. این درایوها با قابلیت بازیابی انرژی، توان مصرفی پمپ‌ها و فن‌های بزرگ را بهینه کرده و هزینه‌های عملیاتی را به شدت کاهش می‌دهند. زیمنس این راهکار را به عنوان بخشی از تعهد خود به پایداری محیط‌زیستی و کاهش کربن در صنعت معرفی کرده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 02:00",
+      "source": "Chemical Engineering Journal",
+      "source_url": "https://www.chemicalengineering.com/siemens-sinamics-energy-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Chemical Industry",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "گزارش بازار جهانی اتوماسیون صنعتی در نیمه دوم سال ۲۰۲۶",
+      "summary": "گزارش جدید بازار نشان می‌دهد که تقاضا برای سیستم‌های PLC مبتنی بر لبه (Edge) با رشد ۲۰ درصدی همراه بوده است. شرکت‌های بزرگ مانند زیمنس و اشنایدر الکتریک در حال رقابت برای ارائه راهکارهای یکپارچه نرم‌افزاری و سخت‌افزاری هستند. این گزارش بر اهمیت دیجیتالی‌سازی فرآیندها برای بقا در بازار رقابتی جهانی تاکید ویژه‌ای دارد.",
+      "category": "economy",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 02:00",
+      "source": "Global Market Insights",
+      "source_url": "https://www.globalmarketinsights.com/reports/industrial-automation-2026",
+      "tags": [
+        "Market Report",
+        "PLC",
+        "Edge Computing",
+        "Industry Trends"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "آموزش مجازی اپراتورها با استفاده از دوقلوهای دیجیتال زیمنس",
+      "summary": "زیمنس پلتفرم آموزشی جدیدی را بر پایه دوقلوهای دیجیتال (Digital Twin) برای اپراتورهای خطوط تولید راه‌اندازی کرده است. این سیستم به کارآموزان اجازه می‌دهد تا بدون ریسک آسیب به تجهیزات واقعی، کار با سیستم‌های پیچیده SIMATIC را در محیط مجازی یاد بگیرند. این روش آموزشی باعث کاهش زمان آموزش و افزایش مهارت‌های فنی پرسنل در کارخانه‌های مدرن می‌شود.",
+      "category": "society",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 02:00",
+      "source": "Tech Education Weekly",
+      "source_url": "https://www.techeducation.com/siemens-digital-twin-training",
+      "tags": [
+        "Digital Twin",
+        "Education",
+        "Training",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "استانداردسازی پروتکل‌های ارتباطی در صنایع غذایی با OPC UA",
+      "summary": "کنسرسیوم اتوماسیون صنعتی با حمایت زیمنس، استانداردهای جدیدی را برای ارتباط بین ماشین‌آلات در صنایع غذایی بر پایه OPC UA تدوین کرد. این استاندارد به تولیدکنندگان اجازه می‌دهد تا تجهیزات برندهای مختلف را به راحتی با یکدیگر یکپارچه کنند. هدف اصلی این پروژه، افزایش شفافیت داده‌ها در طول زنجیره تامین مواد غذایی و تضمین کیفیت محصول نهایی است.",
+      "category": "regulation",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 02:00",
+      "source": "Food Processing News",
+      "source_url": "https://www.foodprocessing.com/industry-standards/opc-ua-siemens",
+      "tags": [
+        "OPC UA",
+        "Standardization",
+        "Food Industry",
+        "Interoperability"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "توسعه ماژول‌های ورودی/خروجی هوشمند برای سیستم ET 200SP",
+      "summary": "زیمنس نسل جدید ماژول‌های ورودی/خروجی (I/O) سری ET 200SP را با قابلیت‌های تشخیص خطای داخلی معرفی کرد. این ماژول‌ها می‌توانند خرابی‌های احتمالی در سنسورها را پیش از وقوع شناسایی کرده و به سیستم مرکزی اطلاع دهند. این ویژگی باعث افزایش زمان در دسترس بودن خطوط تولید و کاهش هزینه‌های تعمیر و نگهداری اضطراری در کارخانه‌های بزرگ می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 02:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-et200sp-io-update",
+      "tags": [
+        "ET 200SP",
+        "I/O Modules",
+        "Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای تولید باتری‌های لیتیومی",
+      "summary": "زیمنس قرارداد جدیدی را برای اتوماسیون کامل کارخانه‌های تولید باتری‌های خودروهای برقی امضا کرده است. این پروژه شامل پیاده‌سازی سیستم‌های کنترل SIMATIC و نرم‌افزارهای مدیریت انرژی برای بهینه‌سازی فرآیند پوشش‌دهی الکترودها است. این همکاری به خودروسازان کمک می‌کند تا سرعت تولید باتری را افزایش داده و هزینه‌های نهایی خودروهای الکتریکی را کاهش دهند.",
+      "category": "company",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 02:00",
+      "source": "Automotive News",
+      "source_url": "https://www.autonews.com/siemens-ev-battery-automation",
+      "tags": [
+        "EV",
+        "Battery Production",
+        "Automation",
+        "Siemens"
       ]
     }
   ]
