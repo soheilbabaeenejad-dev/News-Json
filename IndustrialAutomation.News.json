@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 383,
+  "count": 393,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 15:02",
+  "updated_at": "1405/07/24 15:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6051,6 +6051,166 @@
         "TIA Portal",
         "Artificial Intelligence",
         "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته پردازش ابری در کنترلرهای SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از عرضه نسل جدید ماژول‌های ارتباطی پیشرفته برای کنترلرهای SIMATIC S7-1500 خبر داد که امکان اتصال مستقیم به سرویس‌های ابری را فراهم می‌کنند. این ماژول‌ها به مهندسان اتوماسیون اجازه می‌دهند داده‌های حیاتی خطوط تولید را با امنیت بالا به پلتفرم‌های مانیتورینگ ارسال کنند. این نوآوری نقش مهمی در تسریع تحلیل داده‌های صنعتی و کاهش هزینه‌های نگهداری تجهیزات دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 15:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-cloud-modules",
+      "tags": [
+        "SIMATIC",
+        "Siemens",
+        "PLC",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های امنیتی در روترهای صنعتی سری SCALANCE M",
+      "summary": "زیمنس بسته به‌روزرسانی امنیتی جدیدی را برای تجهیزات شبکه صنعتی سری SCALANCE M منتشر کرد تا از شبکه‌های OT در برابر تهدیدات سایبری نوظهور محافظت کند. این نسخه شامل پروتکل‌های رمزنگاری پیشرفته و ابزارهای مدیریت دسترسی دقیق‌تر برای مدیران شبکه است. استفاده از این تجهیزات تضمین می‌کند که ارتباطات کارگاهی با بالاترین استانداردهای ایمنی انجام شود.",
+      "category": "news",
+      "published_at": "1405/07/24 09:15",
+      "collected_at": "1405/07/24 15:04",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-m-security-update",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف انرژی در پمپ‌های سنگین با درایورهای SINAMICS G220",
+      "summary": "به کارگیری اینورترهای پیشرفته SINAMICS G220 در خطوط انتقال سیالات، توانسته است مصرف انرژی الکتریکی را در کارخانجات پتروشیمی تا حد چشمگیری کاهش دهد. این درایوها با الگوریتم‌های کنترل برداری دقیق، گشتاور موتور را با بار واقعی هماهنگ می‌کنند. این راهکار نقش کلیدی در دستیابی به اهداف پدیده کربن‌زدایی و پایداری صنعتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 15:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sinamics-g220-energy-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Process"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "توسعه قابلیت‌های مهندسی همزمان در نسخه جدید SIMATIC PCS neo V4.0",
+      "summary": "زیمنس نسخه چهارم سیستم کنترل توزیع‌شده SIMATIC PCS neo را با تمرکز بر مهندسی ابری و همکاری تیمی همزمان عرضه کرد. این پلتفرم به کاربران امکان می‌دهد از هر نقطه‌ای به پروژه‌های بزرگ صنعتی دسترسی داشته باشند و تغییرات را به صورت آنی اعمال کنند. این تحول زمان لازم برای راه‌اندازی مجتمع‌های فرآیندی بزرگ را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 10:45",
+      "collected_at": "1405/07/24 15:04",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-simatic-pcs-neo-v4",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Process Automation",
+        "Cloud Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش کاربرد هوش مصنوعی لبه با ماژول‌های جدید Industrial Edge",
+      "summary": "ماژول‌های سخت‌افزاری جدید زیمنس برای پلتفرم Industrial Edge امکان پردازش الگوریتم‌های یادگیری ماشین را به صورت محلی در کارخانجات فراهم کرده‌اند. این ابزارها با تحلیل داده‌های ارسالی از سنسورها، خطاهای احتمالی ماشین‌آلات را پیش از وقوع شناسایی می‌کنند. این رویکرد مانع از توقف‌های ناخواسته خطوط تولید و افزایش بهره‌وری کلی می‌شود.",
+      "category": "news",
+      "published_at": "1405/07/24 11:30",
+      "collected_at": "1405/07/24 15:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-ai-modules",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Predictive Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "بهبود دقت اندازه‌گیری در ابزار دقیق با ترانسمیترهای جدید SIPART",
+      "summary": "شرکت زیمنس سری جدید ترانسمیترهای فشار و دمای SIPART را با پشتیبانی از پروتکل‌های ارتباطی پیشرفته دیجیتال معرفی کرد. این تجهیزات ابزار دقیق دارای قابلیت کالیبراسیون خودکار بوده و در شرایط سخت محیطی پایداری بالایی از خود نشان می‌دهند. استفاده از این سنسورها دقت کنترل حلقه‌های فرآیندی را در صنایع نفت و گاز ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 12:10",
+      "collected_at": "1405/07/24 15:04",
+      "source": "Flow Control",
+      "source_url": "https://www.flowcontrolnetwork.com/siemens-sipart-new-transmitters",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Sensors",
+        "Process"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "افزایش بهره‌وری خطوط مونتاژ با کنترلرهای SIMATIC ET 200SP Open Controller",
+      "summary": "کنترلرهای ترکیبی SIMATIC ET 200SP زیمنس با ادغام قابلیت‌های PLC و PC در یک واحد جمع‌وجور، فضای تابلوهای برق را به شدت بهینه کرده‌اند. این تجهیزات در خطوط مونتاژ الکترونیک برای کنترل همزمان ربات‌ها و سیستم‌های بینایی ماشین استفاده می‌شوند. انعطاف‌پذیری بالا و سرعت پردازش دستورات از مزایای اصلی این کنترلرها است.",
+      "category": "product",
+      "published_at": "1405/07/24 12:55",
+      "collected_at": "1405/07/24 15:04",
+      "source": "Assembly Magazine",
+      "source_url": "https://www.assemblymag.com/siemens-et200sp-open-controller",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "Assembly",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "نقش پلتفرم Insights Hub در پایش پایداری و کاهش ردپای کربن کارخانجات",
+      "summary": "پلتفرم ابری Insights Hub زیمنس ابزارهای جدیدی را برای محاسبه و گزارش‌دهی میزان مصرف انرژی و انتشار کربن در واحدهای صنعتی ارائه داده است. مدیران کارخانجات می‌توانند با کمک این داشبوردهای تحلیلی، نقاط پرمصرف انرژی را شناسایی و بهینه‌سازی کنند. این راهکار به شرکت‌ها کمک می‌کند تا به اهداف توسعه پایدار و استانداردهای زیست‌محیطی دست یابند.",
+      "category": "news",
+      "published_at": "1405/07/24 13:40",
+      "collected_at": "1405/07/24 15:04",
+      "source": "Smart Industry",
+      "source_url": "https://www.smartindustry.com/siemens-insights-hub-sustainability",
+      "tags": [
+        "Insights Hub",
+        "MindSphere",
+        "Sustainability",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه قابلیت‌های تست خودکار کد در محیط برنامه‌نویسی TIA Portal V20",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal V20 زیمنس به ابزارهای پیشرفته آزمون و اعتبارسنجی خودکار کدهای PLC مجهز شده است. این قابلیت به برنامه‌نویسان اتوماسیون کمک می‌کند تا پیش از بارگذاری برنامه روی سخت‌افزار واقعی، خطاهای منطقی را شناسایی کنند. این ویژگی نقش مؤثری در کاهش زمان راه‌اندازی و افزایش کیفیت نرم‌افزاری پروژه‌ها دارد.",
+      "category": "news",
+      "published_at": "1405/07/24 14:20",
+      "collected_at": "1405/07/24 15:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-tia-portal-v20-testing",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "PLC",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش کاربرد ربات‌های صنعتی با یکپارچه‌ساز رباتیک SIMATIC",
+      "summary": "ماژول نرم‌افزاری SIMATIC Robot Integrator زیمنس امکان اتصال مستقیم انواع ربات‌های صنعتی به کنترلرهای استاندارد را بدون نیاز به برنامه‌نویسی پیچیده فراهم کرده است. این ابزار باعث می‌شود تا اپراتورهای خط تولید بتوانند مسیرهای حرکتی ربات را به سادگی از طریق پنل‌های مانیتورینگ تنظیم کنند. این نوآوری زمان تغییر مدل در خطوط تولید انعطاف‌پذیر را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/24 15:00",
+      "collected_at": "1405/07/24 15:04",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/siemens-robot-integrator",
+      "tags": [
+        "Robotics",
+        "SIMATIC",
+        "Automation",
+        "Integration"
       ]
     }
   ]
