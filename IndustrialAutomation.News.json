@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 402,
+  "count": 409,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 15:07",
+  "updated_at": "1405/07/24 16:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6355,6 +6355,118 @@
         "Sustainability",
         "Energy",
         "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20251015-002",
+      "title": "ارتقای استانداردهای ارتباطی در تجهیزات شبکه SCALANCE سری X",
+      "summary": "شرکت زیمنس سری جدید سوئیچ‌های صنعتی SCALANCE X را با پشتیبانی کامل از پروتکل‌های زمان‌بندی شده TSN معرفی کرد. این تجهیزات برای تضمین ارتباطات پایدار در شبکه‌های پیچیده کارخانه‌ای طراحی شده‌اند و نرخ تأخیر انتقال داده را به شدت کاهش می‌دهند. این ارتقا به مدیران شبکه کمک می‌کند تا زیرساخت‌های خود را برای عصر صنعت ۴.۰ و ارتباطات همگرا آماده کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 16:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-scalance-tsn",
+      "tags": [
+        "SCALANCE",
+        "Networking",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20251015-003",
+      "title": "توسعه قابلیت‌های دوقلوی دیجیتال در نرم‌افزار TIA Portal V21",
+      "summary": "نسخه جدید TIA Portal V21 با تمرکز بر شبیه‌سازی پیشرفته دوقلوهای دیجیتال عرضه شد. این نرم‌افزار به مهندسان اجازه می‌دهد تا پیش از اجرای فیزیکی، عملکرد کل سیستم اتوماسیون را در محیط مجازی تست و بهینه‌سازی کنند. این قابلیت به‌ویژه برای کاهش خطاهای برنامه‌نویسی در پروژه‌های بزرگ با کنترلرهای SIMATIC بسیار حیاتی و کاربردی است.",
+      "category": "product",
+      "published_at": "1405/07/24 10:45",
+      "collected_at": "1405/07/24 16:01",
+      "source": "Siemens Industry Software",
+      "source_url": "https://support.industry.siemens.com/cs/document/tia-portal-v21",
+      "tags": [
+        "TIA Portal",
+        "Digital Twin",
+        "Simulation",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20251015-006",
+      "title": "معرفی سیستم کنترل فرآیند SIMATIC PCS neo با قابلیت‌های ابری",
+      "summary": "سیستم کنترل توزیع‌شده SIMATIC PCS neo اکنون با قابلیت‌های مهندسی کاملاً ابری در دسترس قرار گرفته است. این سیستم به تیم‌های مهندسی در نقاط مختلف جهان اجازه می‌دهد تا به صورت همزمان روی یک پروژه واحد کار کنند. این معماری جدید، انعطاف‌پذیری مدیریت پروژه‌های بزرگ صنعتی را افزایش داده و زمان پیاده‌سازی سیستم‌های کنترل را به طور چشمگیری کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 12:40",
+      "collected_at": "1405/07/24 16:01",
+      "source": "Process Automation News",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-control/simatic-pcs-neo.html",
+      "tags": [
+        "PCS neo",
+        "Cloud Engineering",
+        "Process Control",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20251015-007",
+      "title": "افزایش امنیت سایبری در تجهیزات فیلد با پروتکل‌های جدید SIPART",
+      "summary": "زیمنس نسل جدید پوزیشنرهای دیجیتال SIPART را با قابلیت‌های امنیتی ارتقا یافته معرفی کرد. این تجهیزات اکنون از پروتکل‌های رمزنگاری پیشرفته برای جلوگیری از دسترسی‌های غیرمجاز به شبکه کنترل استفاده می‌کنند. این اقدام بخشی از استراتژی زیمنس برای تقویت امنیت لایه‌های پایین شبکه صنعتی (OT) در برابر تهدیدات سایبری مدرن و حملات به زیرساخت‌های حیاتی است.",
+      "category": "regulation",
+      "published_at": "1405/07/24 13:15",
+      "collected_at": "1405/07/24 16:01",
+      "source": "Cybersecurity Industrial Daily",
+      "source_url": "https://support.industry.siemens.com/cs/document/sipart-security",
+      "tags": [
+        "SIPART",
+        "Cybersecurity",
+        "OT Security",
+        "Field Devices"
+      ]
+    },
+    {
+      "id": "ia-20251015-008",
+      "title": "بهره‌گیری از هوش مصنوعی مولد برای نگهداری پیش‌بینانه در Insights Hub",
+      "summary": "پلتفرم Insights Hub زیمنس اکنون به قابلیت‌های هوش مصنوعی مولد برای تحلیل داده‌های نگهداری و تعمیرات مجهز شده است. این سیستم می‌تواند با تحلیل الگوهای ارتعاش و دما، خرابی‌های احتمالی تجهیزات را پیش از وقوع پیش‌بینی کند. این نوآوری به مدیران کارخانه‌ها کمک می‌کند تا زمان توقف‌های ناخواسته خط تولید را به حداقل رسانده و عمر مفید ماشین‌آلات را افزایش دهند.",
+      "category": "research",
+      "published_at": "1405/07/24 14:00",
+      "collected_at": "1405/07/24 16:01",
+      "source": "Manufacturing Today",
+      "source_url": "https://www.siemens.com/insights-hub-ai",
+      "tags": [
+        "Insights Hub",
+        "Predictive Maintenance",
+        "Generative AI",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20251015-009",
+      "title": "توسعه سیستم‌های I/O توزیع‌شده برای محیط‌های خشن با سری SIMATIC ET 200AL",
+      "summary": "زیمنس ماژول‌های جدید سری SIMATIC ET 200AL را برای کاربرد در محیط‌های صنعتی بسیار خشن معرفی کرد. این ماژول‌ها با درجه حفاظت IP67، در برابر رطوبت، گرد و غبار و ارتعاشات شدید مقاوم هستند. این تجهیزات برای نصب مستقیم روی ماشین‌آلات بدون نیاز به تابلو برق طراحی شده‌اند که باعث کاهش هزینه‌های کابل‌کشی و فضای نصب در کارخانجات می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 14:45",
+      "collected_at": "1405/07/24 16:01",
+      "source": "Automation Direct",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-et200al.html",
+      "tags": [
+        "SIMATIC",
+        "ET 200AL",
+        "I/O",
+        "Ruggedized"
+      ]
+    },
+    {
+      "id": "ia-20251015-010",
+      "title": "گزارش رشد بازار مانیتورینگ صنعتی با استفاده از WinCC Unified",
+      "summary": "گزارش‌های جدید بازار نشان می‌دهد که استفاده از پلتفرم WinCC Unified زیمنس برای مانیتورینگ کارخانجات به دلیل انعطاف‌پذیری بالا و رابط کاربری وب‌محور، رشد قابل توجهی داشته است. این سیستم به اپراتورها اجازه می‌دهد تا از طریق هر دستگاه متصل به شبکه، وضعیت خط تولید را به صورت زنده نظارت کنند. این تحول دیجیتال، مدیریت اتاق‌های فرمان را در صنایع بزرگ تسهیل کرده است.",
+      "category": "industry",
+      "published_at": "1405/07/24 15:30",
+      "collected_at": "1405/07/24 16:01",
+      "source": "Global Industry Insights",
+      "source_url": "https://new.siemens.com/global/en/products/automation/simatic-hmi/wincc-unified.html",
+      "tags": [
+        "WinCC Unified",
+        "HMI",
+        "SCADA",
+        "Digitalization"
       ]
     }
   ]
