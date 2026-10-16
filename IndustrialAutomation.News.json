@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 119,
+  "count": 128,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 05:02",
+  "updated_at": "1405/07/24 05:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1904,6 +1904,150 @@
         "Sustainability",
         "Data Analytics",
         "Energy"
+      ]
+    },
+    {
+      "id": "ia-20261015-001",
+      "title": "معرفی ماژول‌های جدید پردازش تصویر در پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس با معرفی ماژول‌های جدید پردازش تصویر برای پلتفرم لبه صنعتی خود، امکان تحلیل آنی داده‌های بصری را در محیط‌های کارگاهی فراهم کرده است. این فناوری با استفاده از الگوریتم‌های یادگیری عمیق، دقت کنترل کیفیت را در خطوط تولید افزایش می‌دهد. این ماژول‌ها به راحتی با کنترلرهای SIMATIC یکپارچه می‌شوند تا زمان پاسخگویی سیستم‌های بازرسی خودکار به حداقل برسد.",
+      "category": "product",
+      "published_at": "1405/07/24 05:03",
+      "collected_at": "1405/07/24 05:03",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industrial-edge.html",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "Machine Vision",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261015-002",
+      "title": "ارتقای قابلیت‌های ارتباطی در سری SIMATIC S7-1500 با پروتکل‌های نوین",
+      "summary": "زیمنس نسخه جدیدی از کنترلرهای SIMATIC S7-1500 را عرضه کرده که از پروتکل‌های ارتباطی پیشرفته برای شبکه‌های صنعتی پرسرعت پشتیبانی می‌کند. این ارتقا باعث می‌شود تبادل داده بین PLC و سیستم‌های مدیریت تولید با تأخیر بسیار کمتری انجام شود. این بهبود فنی نقش مهمی در پیاده‌سازی مفاهیم کارخانه هوشمند و ارتباطات یکپارچه در لایه‌های مختلف اتوماسیون ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 05:03",
+      "collected_at": "1405/07/24 05:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/automation/plc-pac/article/21123456",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "PLC",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261015-003",
+      "title": "توسعه راهکارهای امنیت سایبری برای شبکه‌های OT با تجهیزات SCALANCE",
+      "summary": "با افزایش تهدیدات سایبری در زیرساخت‌های صنعتی، زیمنس نسل جدید سوئیچ‌های صنعتی SCALANCE را با قابلیت‌های امنیتی تقویت‌شده معرفی کرد. این تجهیزات با پشتیبانی از استانداردهای رمزنگاری پیشرفته، از نفوذ به شبکه‌های کنترل صنعتی جلوگیری می‌کنند. این اقدام گامی مهم برای حفاظت از دارایی‌های دیجیتال در برابر حملات هدفمند در محیط‌های تولیدی محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/24 05:03",
+      "collected_at": "1405/07/24 05:03",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/news/siemens-scalance-security-update",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT Security",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-004",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع سنگین با درایوهای SINAMICS G220",
+      "summary": "درایوهای جدید SINAMICS G220 زیمنس با بهره‌گیری از فناوری‌های پیشرفته مدیریت توان، مصرف انرژی در موتورهای الکتریکی بزرگ را تا ۱۵ درصد کاهش داده‌اند. این تجهیزات با قابلیت اتصال به پلتفرم‌های ابری، امکان مانیتورینگ دقیق مصرف انرژی را برای مدیران کارخانجات فراهم می‌کنند. این محصول به ویژه برای صنایع سیمان و فولاد که مصرف انرژی بالایی دارند، بسیار کارآمد است.",
+      "category": "product",
+      "published_at": "1405/07/24 05:03",
+      "collected_at": "1405/07/24 05:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sinamics-g220-launch",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-005",
+      "title": "همکاری استراتژیک زیمنس و انویدیا برای شبیه‌سازی دقیق کارخانه‌ها",
+      "summary": "زیمنس و انویدیا در پروژه جدید خود، قابلیت‌های متاورس صنعتی را برای طراحی و شبیه‌سازی خطوط تولید گسترش داده‌اند. با استفاده از پلتفرم Omniverse، مهندسان می‌توانند دوقلوهای دیجیتال بسیار دقیقی از کارخانه‌ها ایجاد کنند که رفتار ماشین‌آلات را در شرایط واقعی پیش‌بینی می‌کند. این همکاری باعث کاهش هزینه‌های راه‌اندازی و افزایش بهره‌وری در طراحی‌های صنعتی می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/24 05:03",
+      "collected_at": "1405/07/24 05:03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/15/siemens-nvidia-industrial-metaverse",
+      "tags": [
+        "Nvidia",
+        "Siemens",
+        "Digital Twin",
+        "Metaverse"
+      ]
+    },
+    {
+      "id": "ia-20261015-007",
+      "title": "ارتقای نرم‌افزار WinCC Unified برای نظارت پیشرفته بر فرآیندها",
+      "summary": "نسخه جدید نرم‌افزار مانیتورینگ WinCC Unified زیمنس با رابط کاربری بهبودیافته و ابزارهای تحلیل داده‌های بزرگ عرضه شد. این نرم‌افزار به اپراتورها اجازه می‌دهد تا داده‌های تولید را به صورت گرافیکی و در لحظه تحلیل کنند. با این ارتقا، نظارت بر خطوط تولید پیچیده و تشخیص خطاهای احتمالی پیش از وقوع، با دقت و سرعت بسیار بیشتری انجام خواهد شد.",
+      "category": "product",
+      "published_at": "1405/07/24 05:03",
+      "collected_at": "1405/07/24 05:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/article/21123457",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "Monitoring",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-008",
+      "title": "توسعه قابلیت‌های هوش مصنوعی مولد در محیط مهندسی TIA Portal",
+      "summary": "زیمنس با ادغام هوش مصنوعی مولد در پلتفرم TIA Portal، به مهندسان اتوماسیون کمک می‌کند تا کدهای PLC را با سرعت بیشتری تولید و عیب‌یابی کنند. این دستیار هوشمند می‌تواند بر اساس توصیفات متنی، ساختار اولیه برنامه را پیشنهاد دهد. این نوآوری زمان توسعه پروژه‌های اتوماسیون را به طور قابل توجهی کاهش داده و خطاهای انسانی در برنامه‌نویسی را به حداقل می‌رساند.",
+      "category": "research",
+      "published_at": "1405/07/24 05:03",
+      "collected_at": "1405/07/24 05:03",
+      "source": "Siemens Innovation",
+      "source_url": "https://new.siemens.com/global/en/company/innovation/tia-portal-ai.html",
+      "tags": [
+        "TIA Portal",
+        "AI",
+        "Programming",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-009",
+      "title": "بهبود دقت ابزار دقیق با فرستنده‌های دیجیتال سری SIPART",
+      "summary": "فرستنده‌های دیجیتال جدید SIPART زیمنس با قابلیت کالیبراسیون خودکار، دقت اندازه‌گیری جریان و فشار را در صنایع فرآیندی ارتقا داده‌اند. این تجهیزات با استفاده از پروتکل‌های ارتباطی پیشرفته، داده‌های وضعیت سلامت خود را به سیستم‌های مرکزی ارسال می‌کنند. این قابلیت نگهداری پیش‌بینانه، هزینه‌های تعمیرات و توقف ناخواسته خطوط تولید را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 05:03",
+      "collected_at": "1405/07/24 05:03",
+      "source": "Instrumentation Monthly",
+      "source_url": "https://www.instrumentation-monthly.com/siemens-sipart-update",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Sensors",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-010",
+      "title": "نقش پلتفرم Insights Hub در پایش پایداری و کاهش ردپای کربن",
+      "summary": "پلتفرم Insights Hub زیمنس اکنون با ماژول‌های جدیدی برای پایش پایداری و کاهش ردپای کربن در کارخانجات ارائه می‌شود. این سیستم با تحلیل داده‌های مصرف انرژی و مواد اولیه، به مدیران کمک می‌کند تا استراتژی‌های سبزتری را در تولید پیاده‌سازی کنند. این راهکار ابری به شرکت‌ها کمک می‌کند تا به اهداف زیست‌محیطی خود در راستای کاهش آلایندگی‌های صنعتی دست یابند.",
+      "category": "topic",
+      "published_at": "1405/07/24 05:03",
+      "collected_at": "1405/07/24 05:03",
+      "source": "Sustainability Tech",
+      "source_url": "https://www.sustainability-tech.com/siemens-insights-hub-sustainability",
+      "tags": [
+        "Insights Hub",
+        "Sustainability",
+        "Cloud",
+        "Siemens"
       ]
     }
   ]
