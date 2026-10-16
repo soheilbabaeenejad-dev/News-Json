@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 479,
+  "count": 489,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 18:17",
+  "updated_at": "1405/07/24 19:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7588,6 +7588,166 @@
         "Instrumentation",
         "Sensors",
         "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته برای کنترلرهای SIMATIC S7-1500 با پشتیبانی از پروتکل‌های ارتباطی نوین",
+      "summary": "شرکت زیمنس ماژول‌های سخت‌افزاری جدیدی را برای خانواده کنترلرهای SIMATIC S7-1500 عرضه کرده است که تبادل داده‌ها را در بسترهای صنعتی به شدت تسریع می‌کنند. این تجهیزات با هدف بهبود پاسخگویی در خطوط تولید پرسرعت و کاهش تاخیر شبکه طراحی شده‌اند. مهندسان اتوماسیون می‌توانند با به‌کارگیری این ماژول‌ها، پایداری ارتباطات را در معماری‌های پیچیده OT افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 19:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-new-modules",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "ارتقای قابلیت‌های مانیتورینگ صنعتی با انتشار نسخه جدید WinCC Unified V19 SP1",
+      "summary": "بسته به‌روزرسانی جدید برای نرم‌افزار مانیتورینگ WinCC Unified زیمنس قابلیت‌های تجسم داده‌های فرایند را به طور چشمگیری بهبود بخشیده است. این نسخه امکان سفارشی‌سازی پیشرفته و دسترسی امن مبتنی بر وب را برای اپراتورهای اتاق کنترل فراهم می‌سازد. بهینه‌سازی گرافیکی و ابزارهای عیب‌یابی سریع از ویژگی‌های کلیدی این انتشار محسوب می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/24 09:15",
+      "collected_at": "1405/07/24 19:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/article/siemens-wincc-unified-v19-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "بهینه‌سازی مصرف انرژی در پمپ‌های سنگین صنعتی با اینورترهای پیشرفته SINAMICS G180",
+      "summary": "استفاده از نسل جدید درایورهای SINAMICS G180 زیمنس در صنایع فرایندی توانسته است تلفات انرژی الکتریکی را تا حد زیادی کاهش دهد. این اینورترها با الگوریتم‌های دقیق کنترل دور موتور، تطابق بالایی با بارهای متغیر پمپ‌ها و فن‌ها دارند. این راهکار نقش مهمی در دستیابی کارخانجات به اهداف پایداری و کاهش هزینه‌های عملیاتی ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 19:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sinamics-g180-energy-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "گسترش کاربرد هوش مصنوعی لبه در پلتفرم Industrial Edge برای خطوط مونتاژ الکترونیک",
+      "summary": "زیمنس قابلیت‌های پردازش هوش مصنوعی را به پلتفرم لبه صنعتی خود اضافه کرده است که امکان تشخیص بلادرنگ نواقص تولید را فراهم می‌کند. این سیستم با تحلیل داده‌های سنسورها در محل، خطاهای مونتاژ را پیش از گسترش شناسایی می‌نماید. این تکنولوژی وابستگی به سرورهای ابری را کاهش داده و امنیت داده‌های محلی را تضمین می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/24 11:10",
+      "collected_at": "1405/07/24 19:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-industrial-edge-ai-update",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Edge Computing",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "تقویت امنیت شبکه‌های صنعتی با نسل جدید تجهیزات ارتباطی SCALANCE XR-300",
+      "summary": "سوییچ‌های مدیریت‌شده سری SCALANCE XR-300 زیمنس با قابلیت‌های پیشرفته امنیت سایبری برای زیرساخت‌های حیاتی معرفی شدند. این تجهیزات از پروتکل‌های امنیتی روز دنیا برای مقابله با تهدیدات سایبری در شبکه‌های اتوماسیون پشتیبانی می‌کنند. این امر به مدیران شبکه اطمینان می‌دهد که ترافیک داده‌های کنترل صنعتی از نفوذهای احتمالی مصون بماند.",
+      "category": "product",
+      "published_at": "1405/07/24 12:20",
+      "collected_at": "1405/07/24 19:01",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-xr300",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "توسعه ابزارهای مهندسی خودکار در نرم‌افزار TIA Portal برای کاهش زمان طراحی کد",
+      "summary": "نسخه تکمیلی TIA Portal ابزارهای جدیدی مبتنی بر اسکریپت‌نویسی خودکار و تولید کدهای استاندارد PLC ارائه داده است. این قابلیت‌ها به برنامه‌نویسان اجازه می‌دهد تا زمان کمتری را صرف کارهای تکراری کنند و بر منطق اصلی فرآیند تمرکز نمایند. این ابزار مهندسی نقش مؤثری در سرعت‌بخشی به راه‌اندازی پروژه‌های بزرگ صنعتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 13:40",
+      "collected_at": "1405/07/24 19:01",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/siemens-tia-portal-engineering-tools",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "بهبود دقت اندازه‌گیری در ابزار دقیق با فرستنده‌های دیجیتال جدید SIPART PS3",
+      "summary": "مبدل‌ها و پوزیشنرهای دیجیتال SIPART PS3 زیمنس استاندارد جدیدی در کنترل دقیق ولوهای صنعتی ایجاد کرده‌اند. این تجهیزات با قابلیت کالیبراسیون خودکار و عیب‌یابی داخلی، خطاهای اندازه‌گیری را به حداقل می‌رسانند. دوام بالا در محیط‌های سخت فرآیندی از مزایای اصلی این سری ابزار دقیق محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 14:50",
+      "collected_at": "1405/07/24 19:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sipart-ps3-release",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Valves",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "گسترش سیستم‌های I/O توزیع‌شده با ماژول‌های پرسرعت SIMATIC ET 200SP HA",
+      "summary": "سری ماژول‌های SIMATIC ET 200SP HA زیمنس برای کاربردهای اتوماسیون فرآیندی با چگالی بالا توسعه یافته‌اند. این ماژول‌ها امکان نصب در محیط‌های خطرناک را داشته و از تعویض گرم تجهیزات بدون توقف خط تولید پشتیبانی می‌کنند. این انعطاف‌پذیری هزینه‌های نصب و نگهداری سیستم‌های کنترل توزیع‌شده را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 15:30",
+      "collected_at": "1405/07/24 19:01",
+      "source": "Industrial Plant",
+      "source_url": "https://www.industrialplant.com/siemens-et200sp-ha-expansion",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP HA",
+        "Distributed I/O",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "نقش پلتفرم Insights Hub در پایش پایداری و مدیریت ردپای کربن کارخانجات صنعتی",
+      "summary": "پلتفرم ابری Insights Hub زیمنس راهکارهای جدیدی برای نظارت بر مصرف منابع و انتشار گازهای گلخانه‌ای در کارخانه‌ها ارائه کرده است. این سیستم با تجمیع داده‌های مصرف انرژی ماشین‌آلات، گزارش‌های دقیقی برای بهینه‌سازی پایداری تولید فراهم می‌سازد. صنایع می‌توانند از این طریق الزامات سخت‌گیرانه زیست‌محیطی را با دقت بیشتری رعایت کنند.",
+      "category": "industry",
+      "published_at": "1405/07/24 16:45",
+      "collected_at": "1405/07/24 19:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-sustainability",
+      "tags": [
+        "Insights Hub",
+        "Sustainability",
+        "Cloud",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "همکاری زیمنس و دانشگاه صنعتی برلین برای توسعه نسل آینده مهندسان اتوماسیون صنعتی",
+      "summary": "برنامه آموزشی مشترکی میان زیمنس و مراکز آکادمیک برای آشنایی دانشجویان با سیستم‌های کنترل مدرن و نرم‌افزارهای دیجیتال راه‌اندازی شد. این ابتکار شامل تأمین تجهیزات آزمایشگاهی و لایسنس‌های نرم‌افزاری TIA Portal برایآموزش عملی است. هدف از این اقدام، کاهش شکاف بین مهارت‌های دانشگاهی و نیازهای واقعی بازار کار اتوماسیون است.",
+      "category": "society",
+      "published_at": "1405/07/24 18:00",
+      "collected_at": "1405/07/24 19:01",
+      "source": "Education Tech Focus",
+      "source_url": "https://www.edutechfocus.com/siemens-academic-partnership-automation",
+      "tags": [
+        "Education",
+        "Automation",
+        "Partnership",
         "Siemens"
       ]
     }
