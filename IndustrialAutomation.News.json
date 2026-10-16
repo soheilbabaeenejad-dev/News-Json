@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 46,
+  "count": 55,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 02:04",
+  "updated_at": "1405/07/25 02:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -728,6 +728,142 @@
         "AI",
         "Cloud",
         "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "معرفی ماژول‌های جدید ارتباطی برای سیستم SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی CP 1543-1 برای سری SIMATIC S7-1500 رونمایی کرد. این ماژول‌ها با پشتیبانی از پروتکل‌های امنیتی پیشرفته، امکان اتصال ایمن به شبکه‌های صنعتی را فراهم می‌کنند. این ارتقا به مهندسان کمک می‌کند تا امنیت داده‌ها را در محیط‌های اتوماسیون پیچیده به شکل قابل‌توجهی افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 00:10",
+      "collected_at": "1405/07/25 02:06",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "بهینه‌سازی فرآیندهای تولید با نرم‌افزار جدید Insights Hub",
+      "summary": "نسخه جدید پلتفرم Insights Hub زیمنس با هدف تحلیل دقیق‌تر داده‌های تولید در کارخانه‌های هوشمند منتشر شد. این نرم‌افزار با بهره‌گیری از الگوریتم‌های یادگیری ماشین، گلوگاه‌های تولید را شناسایی کرده و زمان خرابی تجهیزات را کاهش می‌دهد. این ابزار برای صنایع سنگین که به پایداری عملیاتی نیاز دارند، بسیار حیاتی است.",
+      "category": "industry",
+      "published_at": "1405/07/25 00:30",
+      "collected_at": "1405/07/25 02:06",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/insights-hub-update",
+      "tags": [
+        "Insights Hub",
+        "Digitalization",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "توسعه زیرساخت‌های ۵G در کارخانه‌های هوشمند با همکاری زیمنس",
+      "summary": "زیمنس با همکاری اپراتورهای مخابراتی، زیرساخت‌های شبکه ۵G خصوصی را برای محیط‌های صنعتی پیاده‌سازی می‌کند. این فناوری امکان کنترل بلادرنگ ربات‌های متحرک خودمختار (AMR) را با تاخیر بسیار کم فراهم می‌سازد. این اقدام گامی بزرگ در جهت تحقق کارخانه‌های کاملاً بی‌سیم و منعطف در صنایع خودروسازی است.",
+      "category": "industry",
+      "published_at": "1405/07/25 00:45",
+      "collected_at": "1405/07/25 02:06",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-news.com/siemens-5g-industrial",
+      "tags": [
+        "5G",
+        "Robotics",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "ارتقای امنیت سایبری در سیستم‌های کنترل توزیع‌یافته PCS neo",
+      "summary": "زیمنس استانداردهای جدیدی را برای امنیت سایبری سیستم کنترل توزیع‌یافته PCS neo معرفی کرد. این به‌روزرسانی شامل رمزنگاری پیشرفته در سطح سخت‌افزار و پروتکل‌های احراز هویت چندعاملی برای اپراتورها است. این تغییرات برای محافظت از زیرساخت‌های حیاتی در برابر تهدیدات سایبری مدرن طراحی شده‌اند.",
+      "category": "regulation",
+      "published_at": "1405/07/25 01:00",
+      "collected_at": "1405/07/25 02:06",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://www.siemens.com/pcs-neo-security",
+      "tags": [
+        "PCS neo",
+        "Cybersecurity",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "معرفی درایوهای فرکانس متغیر SINAMICS با بازدهی انرژی بالا",
+      "summary": "سری جدید درایوهای SINAMICS زیمنس با هدف کاهش مصرف انرژی در پمپ‌ها و فن‌های صنعتی معرفی شدند. این درایوها با استفاده از تکنولوژی کنترل برداری هوشمند، تا ۱۵ درصد مصرف برق را در بارهای متغیر کاهش می‌دهند. این محصول نقش کلیدی در کاهش هزینه‌های عملیاتی کارخانه‌های بزرگ ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 01:15",
+      "collected_at": "1405/07/25 02:06",
+      "source": "Manufacturing Today",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics.html",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "گسترش قابلیت‌های Industrial Edge برای پایش ارتعاشات",
+      "summary": "پلتفرم Industrial Edge زیمنس اکنون از ماژول‌های جدید برای تحلیل بلادرنگ ارتعاشات موتورهای الکتریکی پشتیبانی می‌کند. این قابلیت به تیم‌های نگهداری اجازه می‌دهد تا پیش از خرابی قطعات، علائم هشداردهنده را شناسایی کنند. این سیستم به راحتی با کنترلرهای S7-1500 یکپارچه می‌شود.",
+      "category": "topic",
+      "published_at": "1405/07/25 01:30",
+      "collected_at": "1405/07/25 02:06",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/industrial-edge-vibration",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "همکاری استراتژیک زیمنس و شرکت‌های لجستیک برای انبارهای هوشمند",
+      "summary": "زیمنس با هدف بهینه‌سازی زنجیره تامین، راهکارهای اتوماسیون انبارهای خودکار را با استفاده از سیستم‌های SIMATIC توسعه می‌دهد. این همکاری شامل استقرار ربات‌های خودمختار و سیستم‌های مدیریت انبار مبتنی بر فضای ابری است. هدف اصلی این پروژه، افزایش سرعت پردازش سفارشات در مقیاس صنعتی است.",
+      "category": "company",
+      "published_at": "1405/07/25 01:40",
+      "collected_at": "1405/07/25 02:06",
+      "source": "Logistics Tech",
+      "source_url": "https://www.logistics-tech.com/siemens-partnership",
+      "tags": [
+        "Logistics",
+        "Automation",
+        "Warehouse"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "آموزش مجازی اپراتورها با استفاده از دوقلوهای دیجیتال",
+      "summary": "زیمنس پلتفرم آموزشی جدیدی را بر پایه دوقلوهای دیجیتال برای اپراتورهای خط تولید ارائه کرد. این محیط مجازی به کاربران اجازه می‌دهد تا بدون ریسک، کار با ماشین‌آلات پیچیده را تمرین کنند. این راهکار باعث کاهش زمان آموزش و افزایش ایمنی در محیط‌های صنعتی واقعی می‌شود.",
+      "category": "society",
+      "published_at": "1405/07/25 01:55",
+      "collected_at": "1405/07/25 02:06",
+      "source": "Digital Transformation Daily",
+      "source_url": "https://www.siemens.com/digital-twin-training",
+      "tags": [
+        "Digital Twin",
+        "Training",
+        "Education"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "گزارش بازار جهانی اتوماسیون صنعتی در سال ۲۰۲۶",
+      "summary": "گزارش جدید بازار نشان می‌دهد که تقاضا برای سیستم‌های اتوماسیون مبتنی بر هوش مصنوعی در سال ۲۰۲۶ رشد قابل‌توجهی داشته است. زیمنس به عنوان یکی از پیشگامان این حوزه، سهم بازار خود را در بخش نرم‌افزارهای مدیریت کارخانه افزایش داده است. این رشد ناشی از نیاز صنایع به بهره‌وری بیشتر است.",
+      "category": "economy",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 02:06",
+      "source": "Global Industry Insights",
+      "source_url": "https://www.industry-insights.com/automation-report-2026",
+      "tags": [
+        "Market Report",
+        "Automation",
+        "AI"
       ]
     }
   ]
