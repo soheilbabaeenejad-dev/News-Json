@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 64,
+  "count": 68,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 03:00",
+  "updated_at": "1405/07/25 03:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1008,6 +1008,67 @@
         "Digital Transformation",
         "Automation",
         "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی کنترلرهای جدید SIMATIC S7-1500H برای سیستم‌های با قابلیت اطمینان بالا",
+      "summary": "زیمنس نسل جدید کنترلرهای SIMATIC S7-1500H را برای کاربردهای حساس که نیاز به پایداری عملیاتی حداکثری دارند، معرفی کرد. این سیستم‌های افزونه (Redundant) با هدف کاهش زمان توقف تولید در صنایع فرآیندی طراحی شده‌اند و یکپارچگی کامل با TIA Portal را فراهم می‌کنند. این ارتقا به مهندسان اجازه می‌دهد تا در محیط‌های پیچیده، مدیریت خطاهای سخت‌افزاری را با دقت بسیار بالاتری انجام دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 01:10",
+      "collected_at": "1405/07/25 03:01",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500h.html",
+      "tags": [
+        "SIMATIC",
+        "S7-1500H",
+        "PLC",
+        "Redundancy"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش قابلیت‌های تحلیل لبه در Industrial Edge برای پایش وضعیت موتورها",
+      "summary": "پلتفرم Industrial Edge زیمنس اکنون به ابزارهای جدید تحلیل داده برای پایش وضعیت موتورهای الکتریکی مجهز شده است. این بروزرسانی به کاربران اجازه می‌دهد تا لرزش‌ها و دما را به صورت بلادرنگ در لبه شبکه تحلیل کرده و از خرابی‌های ناگهانی جلوگیری کنند. این راهکار با کاهش نیاز به انتقال داده به فضای ابری، امنیت و سرعت پاسخگویی سیستم‌های مانیتورینگ را به شکل چشمگیری افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/25 01:25",
+      "collected_at": "1405/07/25 03:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/industrial-edge-vibration-analysis",
+      "tags": [
+        "Industrial Edge",
+        "Condition Monitoring",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "همکاری زیمنس و شرکت‌های انرژی برای پیاده‌سازی سیستم مدیریت انرژی SIMATIC",
+      "summary": "زیمنس با همکاری چندین شرکت بزرگ انرژی، راهکار SIMATIC Energy Suite را برای بهینه‌سازی مصرف در کارخانه‌های بزرگ مقیاس پیاده‌سازی می‌کند. این سیستم با یکپارچه‌سازی داده‌های مصرف انرژی در سطح کنترلر، امکان شناسایی نقاط هدررفت را فراهم می‌آورد. هدف از این پروژه، کاهش ۱۵ درصدی هزینه‌های انرژی در خطوط تولید سنگین تا پایان سال آینده میلادی است.",
+      "category": "company",
+      "published_at": "1405/07/25 01:40",
+      "collected_at": "1405/07/25 03:01",
+      "source": "Industrial News",
+      "source_url": "https://www.industrial-news.com/siemens-energy-management-partnership",
+      "tags": [
+        "Energy Management",
+        "SIMATIC",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "استاندارد جدید ارتباطی برای ربات‌های صنعتی در محیط‌های هوشمند",
+      "summary": "کنسرسیوم جهانی اتوماسیون از استاندارد جدیدی برای ارتباطات بی‌سیم بین ربات‌های صنعتی و سیستم‌های کنترل مرکزی رونمایی کرد. این استاندارد که با پشتیبانی فنی زیمنس توسعه یافته، تاخیر در پاسخگویی ربات‌ها را به کمتر از ۵ میلی‌ثانیه کاهش می‌دهد. این پیشرفت فنی، هماهنگی بین ربات‌های خودمختار و ماشین‌های ثابت را در کارخانه‌های هوشمند به سطح جدیدی از دقت می‌رساند.",
+      "category": "research",
+      "published_at": "1405/07/25 01:55",
+      "collected_at": "1405/07/25 03:01",
+      "source": "Robotics Today",
+      "source_url": "https://www.robotics-today.com/new-industrial-robot-standard",
+      "tags": [
+        "Robotics",
+        "5G",
+        "Communication"
       ]
     }
   ]
