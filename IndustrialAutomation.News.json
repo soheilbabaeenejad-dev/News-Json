@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 453,
+  "count": 455,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 17:03",
+  "updated_at": "1405/07/24 17:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7170,6 +7170,36 @@
         "TIA Portal",
         "SIMATIC",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-001",
+      "title": "معرفی ماژول‌های ارتباطی جدید برای کنترلرهای SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از ماژول‌های ارتباطی پیشرفته جدیدی برای خانواده کنترلرهای SIMATIC S7-1500 رونمایی کرد که از پروتکل‌های ارتباطی پرسرعت صنعتی پشتیبانی می‌کنند. این ماژول‌ها به مهندسان امکان می‌دهند تا تبادل داده‌ها را در شبکه‌های بزرگ کارگاهی با تأخیر کمتر و امنیت بالاتری انجام دهند. این توسعه گامی مهم در جهت بهبود یکپارچه‌سازی تجهیزات اتوماسیون در خطوط تولید پیچیده محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/20 09:30",
+      "collected_at": "1405/07/24 17:06",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-communication-modules",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Siemens",
+        "Industrial Communication"
+      ]
+    },
+    {
+      "id": "ia-20261015-003",
+      "title": "بهینه‌سازی مصرف انرژی در کمپرسورهای صنعتی با درایورهای SINAMICS G180",
+      "summary": "به کارگیری درایورهای پیشرفته SINAMICS G180 زیمنس در کمپرسورهای صنعتی، توانسته است مصرف انرژی را به طور چشمگیری کاهش دهد. این درایورها با کنترل دقیق سرعت موتور و تطبیق آن با بار واقعی سیستم، هدررفت توان را به حداقل می‌رسانند. این راهکار صنعتی به کارخانجات کمک می‌کند تا اهداف پایداری محیط زیستی و کاهش هزینه‌های عملیاتی را محقق سازند.",
+      "category": "industry",
+      "published_at": "1405/07/21 10:00",
+      "collected_at": "1405/07/24 17:06",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sinamics-g180-compressor-efficiency",
+      "tags": [
+        "SINAMICS G180",
+        "Energy Efficiency",
+        "Drives"
       ]
     }
   ]
