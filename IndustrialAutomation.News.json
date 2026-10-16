@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 409,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 16:01",
+  "count": 412,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/24 16:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6467,6 +6467,54 @@
         "HMI",
         "SCADA",
         "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم لبه صنعتی Industrial Edge",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم Industrial Edge افزوده است که امکان تحلیل بلادرنگ داده‌های سنسورها را فراهم می‌کند. این ابزار نرم‌افزاری جدید به اپراتورها کمک می‌کند تا anomalies را سریع‌تر شناسایی کرده و از خرابی‌های ناگهانی تجهیزات جلوگیری کنند. استفاده از این فناوری در محیط‌های کارگاهی منجر به بهینه‌سازی هزینه‌های نگهداری و تعمیرات می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 09:15",
+      "collected_at": "1405/07/24 16:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-edge-ai",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Siemens",
+        "نگهداری پیش‌بینانه"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "ارتقای نرم‌افزار مهندسی TIA Portal برای اتوماسیون تست کدهای PLC",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal ابزارهای خودکارسازی جدیدی را برای بررسی و تست کدهای برنامه‌نویسی PLC ارائه داده است. این ویژگی موجب کاهش خطاهای انسانی در زمان توسعه پروژه‌های بزرگ اتوماسیون می‌شود و امنیت سیستم‌های کنترل را افزایش می‌دهد. تیم‌های مهندسی اکنون می‌توانند پروژه‌ها را با کیفیت بالاتری به مرحله بهره‌برداری برسانند.",
+      "category": "product",
+      "published_at": "1405/07/24 10:45",
+      "collected_at": "1405/07/24 16:02",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-tia-portal-engineering",
+      "tags": [
+        "TIA Portal",
+        "Software",
+        "Siemens",
+        "مهندسی نرم‌افزار"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه سیستم کنترل فرآیند SIMATIC PCS neo با قابلیت مهندسی ابری",
+      "summary": "سیستم کنترل توزیع‌شده SIMATIC PCS neo زیمنس اکنون با قابلیت‌های پیشرفته مهندسی ابری و همکاری تیمی همزمان بروزرسانی شده است. این سیستم به مهندسان اجازه می‌دهد از راه دور روی پروژه‌های بزرگ صنعتی کار کنند و تغییرات را اعمال نمایند. این رویکرد نوین سرعت اجرای پروژه‌های بزرگ پتروشیمی و انرژی را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 14:30",
+      "collected_at": "1405/07/24 16:02",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-simatic-pcs-neo",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Siemens",
+        "کنترل فرآیند"
       ]
     }
   ]
