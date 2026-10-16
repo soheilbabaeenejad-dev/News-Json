@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 287,
+  "count": 289,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 11:03",
+  "updated_at": "1405/07/24 12:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4537,6 +4537,36 @@
         "Market Report",
         "Digitalization",
         "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای امنیت شبکه در تجهیزات اتوماسیون صنعتی زیمنس با سوئیچ‌های SCALANCE",
+      "summary": "زیمنس سری جدید تجهیزات شبکه SCALANCE را برای مقابله با تهدیدات سایبری در بخش‌های صنعتی و زیرساخت‌های حیاتی معرفی کرد. این تجهیزات با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته، امنیت داده‌های OT را به طور قابل توجهی افزایش می‌دهند. این راهکار به مدیران شبکه کمک می‌کند تا از نفوذهای احتمالی جلوگیری کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:45",
+      "collected_at": "1405/07/24 12:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-scalance-security",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه ابزارهای مهندسی نرم‌افزار TIA Portal V20 برای اتوماسیون هوشمند",
+      "summary": "نسخه جدید نرم‌افزار مهندسی TIA Portal V20 با امکانات پیشرفته برای خودکارسازی تست کدهای PLC و کاهش زمان راه‌اندازی منتشر شد. این ابزار به توسعه‌دهندگان کمک می‌کند تا پروژه‌های بزرگ صنعتی را با دقت و سرعت بالاتری پیاده‌سازی کنند. این نسخه همچنین هماهنگی بهتری با پلتفرم‌های ابری زیمنس دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 09:10",
+      "collected_at": "1405/07/24 12:00",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/tia-portal-v20",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Software"
       ]
     }
   ]
