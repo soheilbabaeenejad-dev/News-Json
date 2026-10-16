@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 445,
+  "count": 453,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 17:01",
+  "updated_at": "1405/07/24 17:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7042,6 +7042,134 @@
         "I/O",
         "Hardware",
         "Fieldbus"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول ارتباطی جدید زیمنس برای پشتیبانی از پروتکل‌های پیشرفته TSN",
+      "summary": "شرکت زیمنس ماژول ارتباطی جدیدی را برای تجهیزات اتوماسیون صنعتی معرفی کرده است که از قابلیت‌های پیشرفته شبکه زمان‌بندی‌شده TSN پشتیبانی می‌کند. این ماژول جدید به مهندسان اجازه می‌دهد تا داده‌های حیاتی کنترل را با تاخیر بسیار کم و به صورت همگام در بسترهای اترنت صنعتی منتقل کنند. استفاده از این تجهیزات نقش مهمی در یکپارچه‌سازی شبکه ماشین‌آلات و بهبود کارایی سیستم‌های کنترل توزیع‌شده دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 17:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-tsn-module-2026",
+      "tags": [
+        "Siemens",
+        "TSN",
+        "Industrial Ethernet",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های امنیت سایبری در تجهیزات شبکه اسکالد زیمنس",
+      "summary": "زیمنس نسخه به‌روزرسانی‌شده‌ای از تجهیزات امنیتی و دیوارهای آتش صنعتی خود را برای حفاظت از زیرساخت‌های حیاتی OT عرضه کرده است. این راهکار جدید با بهره‌گیری از الگوریتم‌های رمزنگاری پیشرفته، امنیت شبکه‌های صنعتی را در برابر تهدیدات سایبری نوظهور تضمین می‌کند. این محصول برای استفاده در پست‌های توزیع برق و خطوط تولید بزرگ طراحی شده است.",
+      "category": "news",
+      "published_at": "1405/07/24 09:15",
+      "collected_at": "1405/07/24 17:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-scalance-security-update",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT Security",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف انرژی در پمپ‌های سنگین صنعتی با اینورترهای SINAMICS",
+      "summary": "نسخه جدید درایورهای صنعتی SINAMICS زیمنس با تمرکز بر کاهش تلفات انرژی در پمپ‌ها و فن‌های بزرگ صنعتی به بازار عرضه شد. این اینورترها با استفاده از الگوریتم‌های کنترلی پیشرفته توانسته‌اند میزان مصرف برق را در فرآیندهای مداوم تا پانزده درصد کاهش دهند. این تجهیزات سهم بسزایی در دستیابی به اهداف پایداری و کاهش انتشار کربن در کارخانجات دارند.",
+      "category": "product",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 17:03",
+      "source": "IEngineering",
+      "source_url": "https://www.iengineering.com/siemens-sinamics-energy-saving",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "توسعه ابزارهای تحلیل داده‌های ابری در پلتفرم Insights Hub زیمنس",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم ابری Insights Hub اضافه کرده است که امکان تحلیل لحظه‌ای داده‌های تولید را فراهم می‌کند. این ابزارها به مدیران کارخانجات کمک می‌کنند تا با بهره‌گیری از هوش مصنوعی، الگوهای خرابی تجهیزات را پیش‌بینی کرده و هزینه‌های تعمیرات را کاهش دهند. این سیستم ابری به راحتی با کنترلرهای سری سیماتیک متصل می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 11:20",
+      "collected_at": "1405/07/24 17:03",
+      "source": "Industrial IoT 360",
+      "source_url": "https://www.industrial-iot-360.com/insights-hub-update-2026",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Predictive Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "نسخه جدید ماژول‌های I/O توزیع‌شده SIMATIC ET 200SP HA برای صنایع فرآیندی",
+      "summary": "زیمنس خانواده ماژول‌های ورودی و خروجی توزیع‌شده خود را با مدل جدید SIMATIC ET 200SP HA برای کاربردهای سنگین فرآیندی توسعه داد. این ماژول‌ها طراحی فشرده‌ای داشته و در محیط‌های سخت صنعتی با دمای بالا کارایی پایداری از خود نشان می‌دهند. نصب و تعویض آسان این تجهیزات در هنگام کار از ویژگی‌های کلیدی آن است.",
+      "category": "product",
+      "published_at": "1405/07/24 13:05",
+      "collected_at": "1405/07/24 17:03",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-et200sp-ha-2026",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP HA",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "بهبود دقت ابزار دقیق با نسل جدید فرستنده‌های دیجیتال SIPART زیمنس",
+      "summary": "تجهیزات ابزار دقیق سری SIPART زیمنس با قابلیت‌های کالیبراسیون خودکار و ارتباط دیجیتال پیشرفته به‌روزرسانی شدند. این فرستنده‌ها اندازه‌گیری دقیق فشار و دما را در شرایط سخت عملیاتی پالایشگاه‌ها تضمین می‌کنند. اتصال این تجهیزات به سیستم‌های کنترل مرکزی از طریق پروتکل‌های استاندارد صنعتی به راحتی انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 14:00",
+      "collected_at": "1405/07/24 17:03",
+      "source": "InTech Magazine",
+      "source_url": "https://www.intechmag.com/siemens-sipart-transmitters",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Sensors",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "نقش سیستم‌های اسکادا WinCC Unified در نظارت بر نیروگاه‌های خورشیدی",
+      "summary": "نیروگاه‌های مقیاس بزرگ انرژی خورشیدی از نرم‌افزار مانیتورینگ WinCC Unified زیمنس برای نظارت بر تجهیزات تولید برق استفاده می‌کنند. این سیستم اسکادا با نمایش گرافیکی پیشرفته، وضعیت پنل‌ها و اینورترهای خورشیدی را به صورت لحظه‌ای به اپراتورها گزارش می‌دهد. این نظارت متمرکز باعث افزایش بهره‌وری و کاهش زمان توقف نیروگاه می‌گردد.",
+      "category": "industry",
+      "published_at": "1405/07/24 15:40",
+      "collected_at": "1405/07/24 17:03",
+      "source": "Renewable Energy World",
+      "source_url": "https://www.renewableenergyworld.com/siemens-wincc-solar-2026",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "Solar Energy",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "همکاری زیمنس و دانشگاه‌های صنعتی برای تربیت مهندسان نسل جدید اتوماسیون",
+      "summary": "برنامه جدید آموزشی زیمنس با هدف تجهیز آزمایشگاه‌های دانشگاهی به نرم‌افزار TIA Portal و کنترلرهای SIMATIC آغاز شد. این طرح به دانشجویان مهندسی برق و کامپیوتر اجازه می‌دهد تا با فناوری‌های روز اتوماسیون صنعتی و استانداردهای صنعت آشنا شوند. این همکاری راهبردی پاسخگوی نیاز رو به رشد بازار کار به متخصصان ماهر OT است.",
+      "category": "society",
+      "published_at": "1405/07/24 16:30",
+      "collected_at": "1405/07/24 17:03",
+      "source": "EdTech Industry",
+      "source_url": "https://www.edtechindustry.com/siemens-academic-partnership-2026",
+      "tags": [
+        "Education",
+        "TIA Portal",
+        "SIMATIC",
+        "Siemens"
       ]
     }
   ]
