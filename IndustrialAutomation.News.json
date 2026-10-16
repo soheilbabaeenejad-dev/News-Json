@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 363,
+  "count": 373,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 14:05",
+  "updated_at": "1405/07/24 15:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5741,6 +5741,166 @@
         "Insights Hub",
         "Cloud",
         "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته برای کنترلرهای SIMATIC S7-1500 در محیط‌های صنعتی سخت",
+      "summary": "شرکت زیمنس از ماژول‌های جدید سخت‌افزاری برای سری کنترلرهای SIMATIC S7-1500 پرده برداشت که پایداری بالاتری در دمای بالا دارند. این تجهیزات با هدف کاهش زمان توقف خطوط تولید و ارتقای پردازش موازی در کارخانجات بزرگ طراحی شده‌اند. این ماژول‌ها قابلیت نصب سریع داشته و با استانداردهای جدید شبکه صنعتی کاملاً سازگار هستند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 15:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-new-modules",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های امنیتی در تجهیزات شبکه صنعتی SCALANCE برای مقابله با تهدیدات سایبری جدید",
+      "summary": "نسخه جدید سیستم‌عامل سوئیچ‌های صنعتی SCALANCE با پروتکل‌های دفاعی پیشرفته عرضه شد. این بروزرسانی به مدیران شبکه OT امکان می‌دهد تا نفوذهای غیرمجاز را به صورت آنی شناسایی و مسدود کنند. این اقدام گامی مهم در جهت ایمن‌سازی زیرساخت‌های حیاتی در برابر حملات سایبری پیچیده است.",
+      "category": "news",
+      "published_at": "1405/07/24 09:15",
+      "collected_at": "1405/07/24 15:00",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/scalance-security-update-2026",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف انرژی در پمپ‌های سنگین صنعتی با درایورهای دورمتغیر SINAMICS G220",
+      "summary": "استفاده از درایورهای پیشرفته SINAMICS G220 در خطوط انتقال سیالات توانسته مصرف برق پمپ‌ها را به میزان قابل توجهی کاهش دهد. این تجهیزات مایحتاج کارخانجات پتروشیمی را در کنترل دقیق دوشاخه جریان تامین می‌کنند. این فناوری با کاهش تلفات حرارتی نقش کلیدی در پایداری انرژی دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 15:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/drives/article/sinamics-g220-energy-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "توسعه قابلیت‌های تجسم اطلاعات در نرم‌افزار مانیتورینگ WinCC Unified V19",
+      "summary": "نسخه بروز شده نرم‌افزار WinCC Unified V19 امکانات جدیدی برای طراحی داشبوردهای تعاملی مبتنی بر وب فراهم کرده است. اپراتورهای سالن‌های تولید اکنون می‌توانند داده‌های ماشین‌آلات را روی تبلت‌ها و تجهیزات پرتابل به صورت روان مشاهده کنند. این تغییر سرعت واکنش به خطاهای احتمالی خط تولید را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 10:45",
+      "collected_at": "1405/07/24 15:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/wincc-unified-v19-web-visualization",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش کاربرد سیستم I/O توزیع‌شده SIMATIC ET 200SP HA در صنایع فرآیندی بزرگ",
+      "summary": "ماژول‌های جدید سری SIMATIC ET 200SP HA با چگالی بالاتر و پشتیبانی از کابل‌کشی‌های فشرده به بازار عرضه شدند. این سیستم‌ها به مهندسان اجازه می‌دهند تا سیگنال‌های ابزار دقیق را با کمترین سیم‌کشی به اتاق کنترل منتقل کنند. این طراحی نوین هزینه‌های نصب و راه‌اندازی پروژه‌های اتوماسیون را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 11:20",
+      "collected_at": "1405/07/24 15:00",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/simatic-et-200sp-ha-expansion",
+      "tags": [
+        "SIMATIC ET 200",
+        "I/O",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "نقش پلتفرم Industrial Edge در پردازش داده‌های هوش مصنوعی در لبه شبکه کارخانه",
+      "summary": "توسعه اپلیکیشن‌های هوش مصنوعی روی پلتفرم Industrial Edge زیمنس امکان تحلیل لحظه‌ای عیوب کیفیت را فراهم کرده است. این سیستم بدون نیاز به ارسال داده‌ها به فضای ابری، تصمیمات کنترلی را در کسری از ثانیه اعمال می‌کند. این رویکرد امنیت داده‌ها را حفظ کرده و تاخیر ارتباطی را به حداقل می‌رساند.",
+      "category": "news",
+      "published_at": "1405/07/24 12:05",
+      "collected_at": "1405/07/24 15:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/edge-computing/siemens-industrial-edge-ai-processing",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Edge Computing",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "بهبود دقت اندازه‌گیری جریان سیالات با فرستنده‌های دیجیتال SIPART",
+      "summary": "نسخه‌های پیشرفته فرستنده‌های ابزار دقیق SIPART با قابلیت کالیبراسیون خودکار معرفی شدند. این تجهیزات در برابر ارتعاشات شدید کارگاهی مقاومت بالایی از خود نشان داده و داده‌های دقیق تری ارائه می‌دهند. این امر به صنایع شیمیایی کمک می‌کند تا استانداردهای زیست‌محیطی را با دقت بالاتری رعایت کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 12:50",
+      "collected_at": "1405/07/24 15:00",
+      "source": "Instrumentation Monthly",
+      "source_url": "https://www.instrumentationmonthly.com/sipart-digital-transmitters-update",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Sensors",
+        "Process Industry"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "افزایش قابلیت‌های پایداری و نگهداری پیش‌بینانه با پلتفرم ابری Insights Hub",
+      "summary": "پلتفرم Insights Hub زیمنس با ابزارهای جدید تحلیل پسماند و پایش انرژی تجهیزات به‌روزرسانی شد. مدیران کارخانجات می‌توانند با استفاده از این ابزارها، چرخه عمر ماشین‌آلات را پیش‌بینی کرده و از خرابی‌های ناگهانی جلوگیری کنند. این راهکار ابری تاثیر بسزایی در کاهش هزینه‌های تعمیرات اضطراری دارد.",
+      "category": "news",
+      "published_at": "1405/07/24 13:30",
+      "collected_at": "1405/07/24 15:00",
+      "source": "Cloud Computing News",
+      "source_url": "https://www.cloudcomputing-news.net/insights-hub-predictive-maintenance",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Predictive Maintenance",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه ابزارهای مهندسی خودکار در نسخه جدید محیط توسعه TIA Portal",
+      "summary": "ابزارهای تولید خودکار کد و بررسی خطاهای منطقی به محیط نرم‌افزاری TIA Portal اضافه شدند. این قابلیت‌های جدید زمان برنامه‌نویسی کنترلرهای صنعتی را برای پروژه‌های بزرگ به نصف می‌رساند. مهندسان می‌توانند استانداردهای کیفی کدهای PLC را به صورت خودکار ارزیابی کنند.",
+      "category": "news",
+      "published_at": "1405/07/24 14:10",
+      "collected_at": "1405/07/24 15:00",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.ia-asia.com/tia-portal-engineering-automation-tools",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "PLC Programming",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "همکاری راهبردی برای پیاده‌سازی استانداردهای ارتباطی OPC UA TSN در تجهیزات فیلد",
+      "summary": "یک کنسرسیوم صنعتی جدید برای گسترش پروتکل‌های زمان‌بندی شده OPC UA TSN در تجهیزات اتوماسیون تشکیل شد. این استاندارد ارتباطی امکان تبادل داده‌های ابزار دقیق و کنترل را روی بستر اترنت استاندارد با قطعیت زمانی بالا فراهم می‌کند. این فناوری زیرساخت لازم برای کارخانجات کاملاً همگام را مهیا می‌سازد.",
+      "category": "industry",
+      "published_at": "1405/07/24 14:45",
+      "collected_at": "1405/07/24 15:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/networking/opc-ua-tsn-field-devices-alliance",
+      "tags": [
+        "OPC UA",
+        "TSN",
+        "Industrial Ethernet",
+        "Standards"
       ]
     }
   ]
