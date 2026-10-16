@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 158,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 06:22",
+  "count": 168,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/24 07:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2518,6 +2518,156 @@
         "Robotics",
         "SIMATIC",
         "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261015-001",
+      "title": "ادغام هوش مصنوعی مولد در پلتفرم Siemens Xcelerator برای تسریع طراحی صنعتی",
+      "summary": "زیمنس با همکاری مایکروسافت، قابلیت‌های هوش مصنوعی مولد را به پلتفرم Xcelerator اضافه کرده است تا فرآیند طراحی و تولید را متحول کند. این فناوری به مهندسان اجازه می‌دهد با استفاده از زبان طبیعی، کدهای پیچیده PLC را تولید و عیب‌یابی کنند که منجر به کاهش چشمگیر زمان توسعه می‌شود. استفاده از Copilot در محیط‌های صنعتی، خطاهای انسانی را به حداقل رسانده و بهره‌وری تیم‌های مهندسی را تا ۳۰ درصد افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/24 06:45",
+      "collected_at": "1405/07/24 07:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-microsoft-scale-generative-ai-worldwide-industries",
+      "tags": [
+        "AI",
+        "Siemens Xcelerator",
+        "PLC Programming"
+      ]
+    },
+    {
+      "id": "ia-20261015-002",
+      "title": "رونمایی از کامپیوترهای صنعتی جدید SIMATIC IPC نسل دوازدهم برای پردازش سنگین لبه",
+      "summary": "زیمنس نسل جدید کامپیوترهای صنعتی سری SIMATIC IPC را با پردازنده‌های قدرتمند اینتل معرفی کرد که برای کاربردهای هوش مصنوعی در لبه شبکه طراحی شده‌اند. این سخت‌افزارها با بدنه مقاوم و سیستم خنک‌کننده پیشرفته، پایداری عملیاتی را در محیط‌های پر از گرد و غبار و لرزش تضمین می‌کنند. مدل‌های جدید IPC627G و IPC677G امکان تحلیل داده‌های حجیم سنسورها را در لحظه فراهم کرده و برای بینایی ماشین در خطوط تولید ایده‌آل هستند.",
+      "category": "product",
+      "published_at": "1405/07/24 06:15",
+      "collected_at": "1405/07/24 07:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/data-acquisition/product/33015421/siemens-simatic-ipc-generation-12",
+      "tags": [
+        "Industrial PC",
+        "Edge Computing",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261015-003",
+      "title": "تقویت امنیت سایبری در تصفیه‌خانه‌های هوشمند با راهکارهای دفاع در عمق زیمنس",
+      "summary": "با افزایش حملات سایبری به زیرساخت‌های حیاتی، زیمنس پکیج جدید امنیتی خود را برای بخش آب و فاضلاب معرفی کرد که شامل دیواره‌های آتش نسل جدید SCALANCE S است. این راهکار با پیاده‌سازی پروتکل IEC 62443، دسترسی‌های غیرمجاز به شبکه‌های OT را مسدود کرده و مانیتورینگ مداوم ترافیک شبکه را فراهم می‌سازد. نصب این تجهیزات در یک پروژه پایلوت در آلمان، توانسته است تلاش‌های نفوذ را به طور ۱۰۰ درصدی شناسایی و خنثی کند.",
+      "category": "regulation",
+      "published_at": "1405/07/24 05:50",
+      "collected_at": "1405/07/24 07:01",
+      "source": "Water Technology Online",
+      "source_url": "https://www.watertechonline.com/industry/article/siemens-cybersecurity-water-infrastructure",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261015-004",
+      "title": "پیاده‌سازی شبکه اختصاصی 5G صنعتی برای هدایت خودکار ربات‌ها در انبارهای لجستیک",
+      "summary": "زیمنس با استفاده از روترهای SCALANCE MUM856-1، اولین شبکه خصوصی 5G را در یک انبار تمام خودکار برای مدیریت ربات‌های AGV راه‌اندازی کرد. این فناوری ارتباطی با تاخیر بسیار کم، امکان جابجایی دقیق و هماهنگ صدها ربات را در فضاهای وسیع فراهم می‌کند که پیش از این با وای‌فای معمولی چالش‌برانگیز بود. این زیرساخت جدید باعث افزایش ۲۰ درصدی سرعت پردازش سفارشات و کاهش تداخل‌های رادیویی در محیط‌های صنعتی شلوغ شده است.",
+      "category": "industry",
+      "published_at": "1405/07/24 05:10",
+      "collected_at": "1405/07/24 07:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/industrial-5g-network-for-autonomous-robots/",
+      "tags": [
+        "Industrial 5G",
+        "Robotics",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261015-005",
+      "title": "استفاده از دوقلوی دیجیتال زیمنس برای بهینه‌سازی تولید باتری خودروهای الکتریکی",
+      "summary": "شرکت‌های بزرگ خودروسازی اکنون از نرم‌افزار Simcenter زیمنس برای ایجاد دوقلوهای دیجیتال در خطوط تولید باتری لیتیومی استفاده می‌کنند. این شبیه‌سازی دقیق به مهندسان اجازه می‌دهد قبل از ساخت فیزیکی خط تولید، تمامی فرآیندهای شیمیایی و مکانیکی را آزمایش و بهینه‌سازی کنند. با این روش، زمان رسیدن به بازار برای محصولات جدید تا ۴۰ درصد کاهش یافته و ضایعات مواد اولیه در مراحل اولیه تولید به حداقل رسیده است.",
+      "category": "industry",
+      "published_at": "1405/07/24 04:30",
+      "collected_at": "1405/07/24 07:01",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/article/2024/05/digital-twin-battery-manufacturing/21544/",
+      "tags": [
+        "Digital Twin",
+        "EV Battery",
+        "Simcenter"
+      ]
+    },
+    {
+      "id": "ia-20261015-006",
+      "title": "معرفی سنسورهای فشار جدید SITRANS P320 با قابلیت تشخیص خودکار خرابی",
+      "summary": "زیمنس سری جدید فرستنده‌های فشار SITRANS P320 را به بازار عرضه کرد که مجهز به سیستم‌های تشخیص پیشرفته برای پایش سلامت سنسور هستند. این تجهیزات ابزار دقیق با پشتیبانی از پروتکل‌های HART 7 و PROFIBUS PA، داده‌های تشخیصی را مستقیماً به سیستم‌های نگهداری و تعمیرات ارسال می‌کنند. ویژگی منحصر به فرد این سری، مقاومت بالا در برابر بارهای بیش از حد و قابلیت اطمینان بالا در فرآیندهای حساس شیمیایی و نفت و گاز است.",
+      "category": "product",
+      "published_at": "1405/07/24 03:45",
+      "collected_at": "1405/07/24 07:01",
+      "source": "Process Instrumentation",
+      "source_url": "https://www.siemens.com/global/en/products/automation/process-instrumentation/pressure-measurement/sitrans-p320.html",
+      "tags": [
+        "Instrumentation",
+        "SITRANS",
+        "Pressure Sensor"
+      ]
+    },
+    {
+      "id": "ia-20261015-007",
+      "title": "همکاری زیمنس و آمازون برای انتقال داده‌های صنعتی به فضای ابری AWS",
+      "summary": "زیمنس و AWS همکاری استراتژیک خود را برای یکپارچه‌سازی پلتفرم Industrial Edge با خدمات ابری آمازون گسترش دادند تا تحلیل داده‌های بزرگ صنعتی ساده‌تر شود. این ادغام به کارخانه‌ها اجازه می‌دهد داده‌های جمع‌آوری شده از PLCهای S7-1500 را به راحتی برای مدل‌سازی‌های پیشرفته هوش مصنوعی به ابر منتقل کنند. هدف از این طرح، فراهم کردن دسترسی سریع‌تر به بینش‌های عملیاتی برای مدیران تولید در سطوح جهانی و چندملیتی است.",
+      "category": "company",
+      "published_at": "1405/07/24 03:00",
+      "collected_at": "1405/07/24 07:01",
+      "source": "Cloud Computing News",
+      "source_url": "https://www.cloudcomputing-news.net/news/2024/siemens-and-aws-partner-on-industrial-data/",
+      "tags": [
+        "Cloud",
+        "AWS",
+        "Industrial Edge"
+      ]
+    },
+    {
+      "id": "ia-20261015-008",
+      "title": "ارتقای بهره‌وری در صنایع غذایی با سیستم مانیتورینگ انرژی SIMATIC Energy Manager",
+      "summary": "نسخه جدید نرم‌افزار SIMATIC Energy Manager PRO به تولیدکنندگان مواد غذایی کمک می‌کند تا نقاط پرمصرف در خطوط بسته‌بندی و پخت را شناسایی کنند. این سیستم با تحلیل داده‌های دریافتی از کنتورهای هوشمند PAC3200، گزارش‌های دقیقی از ردپای کربن و هزینه‌های انرژی به ازای هر واحد محصول ارائه می‌دهد. اجرای این راهکار در یک کارخانه لبنیات منجر به کاهش ۱۵ درصدی هزینه‌های برق و گاز در بازه زمانی شش ماهه شده است.",
+      "category": "industry",
+      "published_at": "1405/07/24 02:20",
+      "collected_at": "1405/07/24 07:01",
+      "source": "Food Engineering Mag",
+      "source_url": "https://www.foodengineeringmag.com/articles/siemens-energy-management-food-beverage",
+      "tags": [
+        "Energy Management",
+        "Sustainability",
+        "Food Industry"
+      ]
+    },
+    {
+      "id": "ia-20261015-009",
+      "title": "توسعه استانداردهای باز ارتباطی با پیاده‌سازی OPC UA در تجهیزات فیلد زیمنس",
+      "summary": "زیمنس تعهد خود را به استانداردهای باز با اضافه کردن قابلیت OPC UA به طیف گسترده‌تری از تجهیزات اتوماسیون از جمله درایوهای SINAMICS تقویت کرده است. این اقدام باعث می‌شود که تبادل داده بین تجهیزات سازندگان مختلف در سطح کارخانه بدون نیاز به مبدل‌های پیچیده و گران‌قیمت انجام شود. استفاده از این استاندارد، امنیت انتقال داده‌ها را نیز از طریق رمزنگاری‌های داخلی بهبود بخشیده و ساختار شبکه را برای اینترنت اشیای صنعتی آماده می‌کند.",
+      "category": "topic",
+      "published_at": "1405/07/24 01:40",
+      "collected_at": "1405/07/24 07:01",
+      "source": "OPC Foundation",
+      "source_url": "https://opcfoundation.org/news/siemens-expands-opc-ua-integration/",
+      "tags": [
+        "OPC UA",
+        "Interoperability",
+        "Industrial IoT"
+      ]
+    },
+    {
+      "id": "ia-20261015-010",
+      "title": "راه‌اندازی مرکز نوآوری دیجیتال زیمنس برای حمایت از استارتاپ‌های رباتیک صنعتی",
+      "summary": "زیمنس مرکز جدیدی را برای شتاب‌دهی به پروژه‌های رباتیک و اتوماسیون پیشرفته افتتاح کرده است که دسترسی به آخرین سخت‌افزارهای SIMATIC را فراهم می‌کند. این مرکز به استارتاپ‌ها اجازه می‌دهد تا الگوریتم‌های کنترل حرکت خود را بر روی پلتفرم‌های صنعتی واقعی تست کرده و تاییدیه استانداردهای ایمنی را دریافت کنند. تمرکز اصلی این مرکز بر روی توسعه ربات‌های همکار (Cobots) است که می‌توانند در کنار انسان‌ها در خطوط مونتاژ ظریف فعالیت کنند.",
+      "category": "news",
+      "published_at": "1405/07/24 01:00",
+      "collected_at": "1405/07/24 07:01",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/2024/siemens-innovation-hub-robotics/",
+      "tags": [
+        "Innovation",
+        "Startups",
+        "Cobots"
       ]
     }
   ]
