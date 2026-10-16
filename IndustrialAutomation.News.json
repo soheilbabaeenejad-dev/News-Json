@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 304,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 12:04",
+  "count": 307,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/24 13:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4807,6 +4807,54 @@
         "PLC",
         "Software Engineering",
         "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی کنترلرهای جدید SIMATIC S7-1200 با قابلیت‌های ارتباطی پیشرفته",
+      "summary": "شرکت زیمنس از نسل جدید کنترلرهای SIMATIC S7-1200 با امکانات ارتباطی گسترده رونمایی کرد. این سری جدید به مهندسان اتوماسیون اجازه می‌دهد تا تبادل داده‌ها را با سرعت بیشتری در بستر شبکه‌های صنعتی انجام دهند. استفاده از این کنترلرها نقش مهمی در ارتقای بهره‌وری ماشین‌آلات کوچک و متوسط صنعتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 08:15",
+      "collected_at": "1405/07/24 13:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-s7-1200-update",
+      "tags": [
+        "SIMATIC",
+        "S7-1200",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های امنیتی در تجهیزات شبکه صنعتی SCALANCE",
+      "summary": "زیمنس بسته‌های امنیتی جدیدی را برای تجهیزات شبکه صنعتی سری SCALANCE منتشر کرد تا دفاع در برابر تهدیدات سایبری تقویت شود. این بروزرسانی به مدیران شبکه اجازه می‌دهد پروتکل‌های رمزنگاری پیشرفته‌تری را در لایه ارتباطی OT پیاده‌سازی کنند. این راهکار مانع از نفوذهای غیرمجاز به زیرساخت‌های حیاتی کارخانجات می‌شود.",
+      "category": "regulation",
+      "published_at": "1405/07/24 08:45",
+      "collected_at": "1405/07/24 13:00",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/scalance-security-update",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "همکاری زیمنس و خودروسازان بزرگ برای هوشمندسازی زنجیره تامین",
+      "summary": "شرکت زیمنس توافق‌نامه‌ای جدید برای یکپارچه‌سازی سیستم‌های تولید و زنجیره تامین با خودروسازان امضا کرد. این پروژه از پلتفرم ابری برای هماهنگی بین لجستیک کارخانه و خطوط مونتاژ رباتیک استفاده می‌کند. این رویکرد موجب کاهش چشمگیر زمان توقف خطوط و بهینه‌سازی جریان مواد اولیه می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/24 10:30",
+      "collected_at": "1405/07/24 13:00",
+      "source": "Automotive Logistics",
+      "source_url": "https://www.automotivelogistics.media/siemens-supply-chain-smart",
+      "tags": [
+        "Supply Chain",
+        "Cloud",
+        "Digital Twin",
+        "Siemens"
       ]
     }
   ]
