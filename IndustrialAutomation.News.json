@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 241,
+  "count": 249,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 10:02",
+  "updated_at": "1405/07/24 10:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3804,6 +3804,134 @@
         "SCADA",
         "HMI",
         "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20241015-002",
+      "title": "توسعه پروتکل‌های ارتباطی بی‌سیم در محیط‌های صنعتی با SCALANCE W",
+      "summary": "زیمنس نسل جدید تجهیزات شبکه بی‌سیم SCALANCE W را برای محیط‌های صنعتی سخت معرفی کرد. این تجهیزات با پشتیبانی از استاندارد Wi-Fi 6، ارتباطی پایدار و با تأخیر بسیار کم را برای ربات‌های متحرک و سیستم‌های AGV فراهم می‌کنند. این ارتقا به کارخانه‌ها اجازه می‌دهد تا انعطاف‌پذیری بیشتری در چیدمان خطوط تولید داشته باشند.",
+      "category": "industry",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 10:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/networking/article/22923456",
+      "tags": [
+        "SCALANCE",
+        "Wireless",
+        "Industrial Network",
+        "AGV"
+      ]
+    },
+    {
+      "id": "ia-20241015-003",
+      "title": "بهینه‌سازی مصرف منابع در صنایع غذایی با سیستم SIMATIC PCS 7",
+      "summary": "استفاده از سیستم کنترل فرآیند SIMATIC PCS 7 در یک کارخانه بزرگ تولید مواد غذایی منجر به کاهش ۱۵ درصدی مصرف آب و انرژی شده است. این سیستم با استفاده از الگوریتم‌های پیشرفته کنترل حلقه بسته، هدررفت مواد اولیه را به حداقل می‌رساند. این پروژه نمونه موفقی از دیجیتالی‌سازی فرآیندهای تولید برای دستیابی به اهداف پایداری محیط‌زیستی است.",
+      "category": "match",
+      "published_at": "1405/07/24 08:45",
+      "collected_at": "1405/07/24 10:03",
+      "source": "Process Automation News",
+      "source_url": "https://www.siemens.com/press/en/stories/2024/food-industry-automation",
+      "tags": [
+        "PCS 7",
+        "Sustainability",
+        "Process Control",
+        "Food Industry"
+      ]
+    },
+    {
+      "id": "ia-20241015-004",
+      "title": "امنیت سایبری در لبه شبکه با ماژول‌های جدید زیمنس",
+      "summary": "زیمنس ماژول‌های امنیتی جدیدی را برای حفاظت از داده‌ها در لبه شبکه (Industrial Edge) عرضه کرد. این سخت‌افزارها با رمزنگاری پیشرفته، از نفوذ به تجهیزات کنترل صنعتی جلوگیری می‌کنند. با افزایش حملات سایبری به زیرساخت‌های OT، این راهکارها لایه‌ای حیاتی برای امنیت در برابر تهدیدات مدرن در محیط‌های تولیدی فراهم می‌آورند.",
+      "category": "regulation",
+      "published_at": "1405/07/24 09:00",
+      "collected_at": "1405/07/24 10:03",
+      "source": "Cybersecurity Industrial Journal",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industrial-security.html",
+      "tags": [
+        "Cybersecurity",
+        "Industrial Edge",
+        "OT Security",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241015-005",
+      "title": "گسترش کاربرد دوقلوهای دیجیتال در طراحی کارخانه‌های باتری‌سازی",
+      "summary": "شرکت زیمنس با استفاده از پلتفرم Xcelerator، فرآیند طراحی و شبیه‌سازی کارخانه‌های تولید باتری خودروهای برقی را تسریع کرده است. دوقلوهای دیجیتال به مهندسان اجازه می‌دهند تا قبل از ساخت فیزیکی، تمامی فرآیندهای تولید را در محیط مجازی تست و بهینه‌سازی کنند. این رویکرد زمان رسیدن به بازار را برای تولیدکنندگان باتری تا ۳۰ درصد کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/24 09:12",
+      "collected_at": "1405/07/24 10:03",
+      "source": "Digital Factory Report",
+      "source_url": "https://www.siemens.com/global/en/company/topic-areas/digital-twin.html",
+      "tags": [
+        "Digital Twin",
+        "Xcelerator",
+        "Battery Manufacturing",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20241015-006",
+      "title": "ارتقای سیستم‌های مانیتورینگ با نسخه جدید WinCC Unified V20",
+      "summary": "نسخه جدید نرم‌افزار WinCC Unified V20 با رابط کاربری کاملاً مبتنی بر وب و قابلیت‌های گرافیکی پیشرفته عرضه شد. این نسخه امکان دسترسی به داده‌های تولید را از طریق مرورگرهای استاندارد و بدون نیاز به نصب نرم‌افزار جانبی فراهم می‌کند. این تغییر بزرگ باعث سهولت در مانیتورینگ از راه دور و یکپارچگی بهتر با سیستم‌های ابری می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 09:25",
+      "collected_at": "1405/07/24 10:03",
+      "source": "Siemens Software Portal",
+      "source_url": "https://support.industry.siemens.com/cs/document/wincc-unified-v20",
+      "tags": [
+        "WinCC",
+        "SCADA",
+        "Visualization",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20241015-007",
+      "title": "توسعه رباتیک مشارکتی با کنترلرهای SIMATIC Robot Integrator",
+      "summary": "زیمنس با معرفی قابلیت‌های جدید در SIMATIC Robot Integrator، امکان کنترل مستقیم ربات‌های مشارکتی (Cobots) را از طریق محیط TIA Portal فراهم کرده است. این یکپارچگی باعث می‌شود مهندسان بدون نیاز به دانش برنامه‌نویسی پیچیده رباتیک، بازوهای مکانیکی را در خط تولید پیاده‌سازی کنند. این امر سرعت استقرار ربات‌ها را در صنایع کوچک افزایش می‌دهد.",
+      "category": "topic",
+      "published_at": "1405/07/24 09:35",
+      "collected_at": "1405/07/24 10:03",
+      "source": "Robotics Today",
+      "source_url": "https://www.siemens.com/global/en/products/automation/systems/industrial/robot-integrator.html",
+      "tags": [
+        "Robotics",
+        "Cobots",
+        "TIA Portal",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241015-008",
+      "title": "همکاری زیمنس و انویدیا برای توسعه متاورس صنعتی",
+      "summary": "همکاری استراتژیک زیمنس و انویدیا با هدف ایجاد یک متاورس صنعتی واقعی برای شبیه‌سازی‌های پیچیده فیزیکی وارد فاز جدیدی شده است. با استفاده از پلتفرم Omniverse، کارخانجات می‌توانند مدل‌های سه‌بعدی دقیق از تجهیزات خود را با داده‌های لحظه‌ای PLCهای زیمنس ترکیب کنند. این همکاری انقلابی در نحوه طراحی و نگهداری کارخانه‌های آینده ایجاد خواهد کرد.",
+      "category": "company",
+      "published_at": "1405/07/24 09:45",
+      "collected_at": "1405/07/24 10:03",
+      "source": "Tech Industry News",
+      "source_url": "https://www.siemens.com/global/en/company/stories/nvidia-partnership.html",
+      "tags": [
+        "NVIDIA",
+        "Omniverse",
+        "Industrial Metaverse",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241015-009",
+      "title": "افزایش دقت اندازه‌گیری جریان با سنسورهای دیجیتال SIPART",
+      "summary": "نسل جدید پوزیشنرهای دیجیتال SIPART PS100 با قابلیت‌های عیب‌یابی هوشمند به بازار عرضه شد. این تجهیزات ابزار دقیق با استفاده از الگوریتم‌های داخلی، وضعیت شیرهای کنترلی را به صورت مداوم پایش کرده و نیاز به سرویس را اعلام می‌کنند. این فناوری باعث کاهش هزینه‌های نگهداری و افزایش دقت در کنترل جریان سیالات در صنایع نفت و گاز می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 09:55",
+      "collected_at": "1405/07/24 10:03",
+      "source": "Instrumentation Weekly",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-instrumentation/sipart.html",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Process Control",
+        "Valve"
       ]
     }
   ]
