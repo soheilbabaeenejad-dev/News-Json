@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 128,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 05:03",
+  "count": 138,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/24 06:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2048,6 +2048,166 @@
         "Sustainability",
         "Cloud",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-001",
+      "title": "همکاری زیمنس و انویدیا برای تحول در تولید با استفاده از متاورس صنعتی و دوقلوهای دیجیتال",
+      "summary": "زیمنس و انویدیا همکاری‌های خود را برای ادغام پلتفرم‌های Xcelerator و Omniverse گسترش داده‌اند. این همکاری به تولیدکنندگان اجازه می‌دهد تا با استفاده از دوقلوهای دیجیتال فوتورئالیستیک، فرآیندهای تولید را پیش از اجرا در دنیای واقعی، شبیه‌سازی و بهینه‌سازی کنند. استفاده از پردازنده‌های گرافیکی قدرتمند در کنار کنترلرهای SIMATIC، سرعت تصمیم‌گیری در خطوط تولید پیچیده را به طرز چشمگیری افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/24 05:45",
+      "collected_at": "1405/07/24 06:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-nvidia-to-enable-industrial-metaverse",
+      "tags": [
+        "Industrial Metaverse",
+        "Digital Twin",
+        "NVIDIA",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261015-002",
+      "title": "تسهیل فرآیندهای مهندسی با نسخه ابری TIA Portal و دسترسی از راه دور به پروژه‌های اتوماسیون",
+      "summary": "زیمنس با معرفی نسخه ابری TIA Portal، امکان دسترسی مهندسان به محیط برنامه‌نویسی PLC را بدون نیاز به نصب نرم‌افزارهای سنگین فراهم کرده است. این راهکار به تیم‌های فنی اجازه می‌دهد تا از هر نقطه‌ای در جهان بر روی پروژه‌های SIMATIC S7-1500 کار کنند و تغییرات را به صورت آنی اعمال نمایند. این پلتفرم با استانداردهای امنیتی بالا، خطر نشت داده‌های صنعتی را در پروژه‌های مشترک بین‌المللی به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/24 05:10",
+      "collected_at": "1405/07/24 06:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/software/article/21256789/siemens-tia-portal-cloud",
+      "tags": [
+        "TIA Portal",
+        "Cloud Engineering",
+        "PLC",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261015-003",
+      "title": "مدیریت هوشمند داده‌های کارخانه‌ای با اپلیکیشن‌های جدید در پلتفرم Industrial Edge زیمنس",
+      "summary": "پلتفرم لبه صنعتی زیمنس اکنون با اپلیکیشن‌های جدیدی برای تحلیل داده‌های لرزش و دما در موتورهای الکتریکی به‌روزرسانی شده است. این ابزارها با استفاده از الگوریتم‌های یادگیری ماشین، خرابی‌های احتمالی را پیش از وقوع پیش‌بینی کرده و از توقف ناخواسته خط تولید جلوگیری می‌کنند. یکپارچگی کامل با درایوهای SINAMICS و کنترلرهای سری ET 200، پیاده‌سازی این سیستم را برای اپراتورها بسیار ساده‌تر از گذشته کرده است.",
+      "category": "industry",
+      "published_at": "1405/07/24 04:30",
+      "collected_at": "1405/07/24 06:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-expands-industrial-edge-ecosystem/",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "AI",
+        "SINAMICS"
+      ]
+    },
+    {
+      "id": "ia-20261015-004",
+      "title": "ارتقای امنیت شبکه‌های صنعتی با سوئیچ‌های مدیریت‌شده SCALANCE و پروتکل‌های دفاعی جدید",
+      "summary": "زیمنس نسل جدید سوئیچ‌های SCALANCE XC-200 را برای تقویت امنیت سایبری در لایه دسترسی شبکه‌های OT معرفی کرد. این تجهیزات با پشتیبانی از قابلیت‌های پیشرفته فایروال و بخش‌بندی شبکه، از نفوذ بدافزارها به بخش‌های حساس کنترلر SIMATIC جلوگیری می‌کنند. با توجه به افزایش حملات سایبری به زیرساخت‌های حیاتی، استفاده از این سخت‌افزارها برای انطباق با استاندارد IEC 62443 در صنایع نفت و گاز ضروری است.",
+      "category": "product",
+      "published_at": "1405/07/24 04:05",
+      "collected_at": "1405/07/24 06:05",
+      "source": "ISA News",
+      "source_url": "https://www.isa.org/intech-home/2024/siemens-scalance-security-update",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT Security",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261015-005",
+      "title": "کاهش ردپای کربن در صنایع سنگین با استفاده از نرم‌افزار SIMATIC Energy Manager Pro",
+      "summary": "نرم‌افزار مدیریت انرژی زیمنس با قابلیت‌های جدید برای ردیابی لحظه‌ای مصرف برق و گاز در سطح ماشین‌آلات عرضه شد. این سیستم با تحلیل داده‌های دریافتی از کنتورهای هوشمند SENTRON، نقاط پرمصرف را شناسایی کرده و راهکارهای بهینه‌سازی را به مدیران کارخانه پیشنهاد می‌دهد. اجرای این راهکار در یک مجتمع فولاد نشان داد که می‌توان هزینه‌های انرژی را تا ۱۵ درصد بدون کاهش نرخ تولید، کاهش داد.",
+      "category": "industry",
+      "published_at": "1405/07/24 03:45",
+      "collected_at": "1405/07/24 06:05",
+      "source": "Energy Digital",
+      "source_url": "https://energydigital.com/sustainability/siemens-industrial-sustainability-software",
+      "tags": [
+        "Sustainability",
+        "Energy Management",
+        "SENTRON",
+        "Decarbonization"
+      ]
+    },
+    {
+      "id": "ia-20261015-006",
+      "title": "هوشمندسازی فرآیندهای انبارداری با راهکار SIMATIC Robot Pick AI مبتنی بر یادگیری عمیق",
+      "summary": "زیمنس راهکار جدیدی برای ربات‌های جابجایی کالا معرفی کرده است که بدون نیاز به آموزش قبلی، قادر به شناسایی اشیاء مختلف هستند. این سیستم که با کنترلرهای SIMATIC S7-1500 هماهنگ است، از بینایی ماشین پیشرفته برای هدایت بازوهای رباتیک در محیط‌های شلوغ استفاده می‌کند. این فناوری به ویژه در مراکز لجستیک و تجارت الکترونیک، سرعت بسته‌بندی و ارسال کالا را تا ۳۰ درصد نسبت به روش‌های سنتی افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/24 03:15",
+      "collected_at": "1405/07/24 06:05",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/news/2024/siemens-robot-pick-ai-launch",
+      "tags": [
+        "Robotics",
+        "AI",
+        "Logistics",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261015-007",
+      "title": "بهبود پایداری فرآیندهای شیمیایی با به‌روزرسانی سیستم کنترل توزیع‌شده SIMATIC PCS 7",
+      "summary": "نسخه جدید سیستم کنترل فرآیند زیمنس (PCS 7) با تمرکز بر یکپارچگی بیشتر با تجهیزات ابزار دقیق فیلدباس عرضه شده است. این به‌روزرسانی شامل کتابخانه‌های جدیدی برای کنترل دقیق‌تر شیرهای کنترلی SIPART و سنسورهای فشار است که منجر به کاهش نوسانات در فرآیندهای حساس شیمیایی می‌شود. همچنین قابلیت‌های عیب‌یابی از راه دور در این نسخه، زمان تعمیرات و نگهداری را در سایت‌های بزرگ پتروشیمی به شدت کاهش داده است.",
+      "category": "product",
+      "published_at": "1405/07/24 02:50",
+      "collected_at": "1405/07/24 06:05",
+      "source": "Chemical Engineering",
+      "source_url": "https://www.chemengonline.com/siemens-pcs7-process-automation-update",
+      "tags": [
+        "PCS 7",
+        "Process Control",
+        "SIPART",
+        "Instrumentation"
+      ]
+    },
+    {
+      "id": "ia-20261015-008",
+      "title": "پیاده‌سازی شبکه‌های خصوصی 5G در محیط‌های صنعتی برای اتصال پایدار تجهیزات متحرک",
+      "summary": "زیمنس زیرساخت‌های جدیدی را برای راه‌اندازی شبکه‌های 5G اختصاصی در کارخانه‌ها معرفی کرد که امکان اتصال هزاران سنسور را با تاخیر بسیار کم فراهم می‌کند. این فناوری برای هدایت خودروهای خودران (AGV) در انبارها و انتقال داده‌های حجیم از دوربین‌های بازرسی کیفیت بسیار حیاتی است. استفاده از روترهای SCALANCE M800 در این شبکه، پایداری ارتباط را حتی در محیط‌های دارای تداخل الکترومغناطیسی شدید تضمین می‌نماید.",
+      "category": "industry",
+      "published_at": "1405/07/24 02:30",
+      "collected_at": "1405/07/24 06:05",
+      "source": "5G World",
+      "source_url": "https://www.5gworld.com/siemens-private-5g-industrial-networks",
+      "tags": [
+        "Industrial 5G",
+        "Connectivity",
+        "AGV",
+        "SCALANCE"
+      ]
+    },
+    {
+      "id": "ia-20261015-009",
+      "title": "افزایش دقت ماشین‌کاری با استفاده از دوقلوی دیجیتال Sinumerik One در صنایع هوافضا",
+      "summary": "کنترلر جدید Sinumerik One زیمنس با قابلیت ایجاد دوقلوی دیجیتال کامل از ماشین‌ابزار، اجازه می‌دهد تا برنامه‌های CNC پیش از اجرا بر روی قطعات گران‌قیمت، کاملاً تست شوند. این فناوری احتمال برخورد ابزار با قطعه کار را به صفر رسانده و زمان راه‌اندازی ماشین‌آلات جدید را تا ۴۰ درصد کاهش می‌دهد. در صنایع هوافضا، این دقت بالا منجر به تولید قطعاتی با تلرانس‌های بسیار دقیق و کیفیت سطحی فوق‌العاده شده است.",
+      "category": "product",
+      "published_at": "1405/07/24 02:15",
+      "collected_at": "1405/07/24 06:05",
+      "source": "Manufacturing Today",
+      "source_url": "https://www.manufacturingtoday.com/siemens-sinumerik-one-digital-twin",
+      "tags": [
+        "CNC",
+        "Sinumerik",
+        "Digital Twin",
+        "Aerospace"
+      ]
+    },
+    {
+      "id": "ia-20261015-010",
+      "title": "ارتقای قابلیت‌های کنترل حرکت در TIA Portal V19 برای سیستم‌های نقاله پیشرفته",
+      "summary": "زیمنس در آخرین نسخه TIA Portal، ابزارهای جدیدی را برای مدیریت سیستم‌های نقاله خطی و دوار با استفاده از درایوهای SINAMICS S210 اضافه کرده است. این قابلیت‌ها به مهندسان اجازه می‌دهد تا پروفایل‌های حرکتی پیچیده را با سادگی بیشتری برنامه‌نویسی کرده و هماهنگی بین چندین محور را بهینه کنند. این به‌روزرسانی به ویژه برای سازندگان ماشین‌آلات بسته‌بندی که به سرعت و دقت بالا در جابجایی محصولات نیاز دارند، بسیار کاربردی است.",
+      "category": "product",
+      "published_at": "1405/07/24 02:00",
+      "collected_at": "1405/07/24 06:05",
+      "source": "Drives & Controls",
+      "source_url": "https://drivesncontrols.com/news/siemens-tia-portal-v19-motion-features",
+      "tags": [
+        "Motion Control",
+        "TIA Portal",
+        "SINAMICS",
+        "Packaging"
       ]
     }
   ]
