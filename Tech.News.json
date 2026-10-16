@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 552,
+  "count": 553,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 19:14",
+  "updated_at": "1405/07/24 20:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8435,6 +8435,21 @@
         "موزیلا",
         "فایرفاکس",
         "حریم خصوصی"
+      ]
+    },
+    {
+      "id": "tech-20261016-001",
+      "title": "اپل از نسل جدید گوشی‌های آیفون تاشو با طراحی باریک پرده برداشت",
+      "summary": "شرکت اپل پس از ماه‌ها گمانه‌زنی، رسماً از نخستین گوشی هوشمند تاشو خود با نام آیفون فولد رونمایی کرد. این دستگاه دارای یک نمایشگر داخلی بدون درز و لولای پیشرفته تیتانیومی است که خط تا را به حداقل می‌رساند. این محصول با قیمت پایه ۱۷۹۹ دلار وارد بازار می‌شود تا رقابت در بازار گوشی‌های تاشو وارد مرحله جدیدی شود.",
+      "category": "product",
+      "published_at": "1405/07/24 10:15",
+      "collected_at": "1405/07/24 20:01",
+      "source": "تک‌کرانچ",
+      "source_url": "https://techcrunch.com/apple-foldable-iphone-announcement",
+      "tags": [
+        "اپل",
+        "آیفون",
+        "گوشی تاشو"
       ]
     }
   ]

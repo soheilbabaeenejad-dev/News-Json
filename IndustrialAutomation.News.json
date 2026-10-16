@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 510,
+  "count": 518,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 19:14",
+  "updated_at": "1405/07/24 20:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8076,6 +8076,134 @@
         "I/O Systems",
         "Hardware",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی کنترلر SIMATIC S7-1200 با امکانات پیشرفته امنیتی",
+      "summary": "شرکت زیمنس نسل جدید کنترلر منطقی برنامه‌پذیر SIMATIC S7-1200 را با قابلیت‌های امنیتی سخت‌افزاری ارتقایافته عرضه کرد. این ماژول جدید به مهندسان اتوماسیون اجازه می‌دهد تا ارتباطات شبکه صنعتی را با رمزنگاری پیشرفته محافظت کنند. این محصول به ویژه برای خودروسازی و ماشین‌سازی کوچک کاربرد دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 10:30",
+      "collected_at": "1405/07/24 20:00",
+      "source": "Siemens Press",
+      "source_url": "https://www.siemens.com/press/s7-1200-new",
+      "tags": [
+        "SIMATIC",
+        "S7-1200",
+        "PLC",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم Industrial Edge",
+      "summary": "پلتفرم لبه صنعتی زیمنس با دریافت یک بسته‌بروزرسانی بزرگ، ابزارهای تحلیلی مبتنی بر یادگیری ماشین را توسعه داد. این ویژگی جدید به اپراتورهای کارخانه کمک می‌کند تا خطاهای تجهیزات را پیش از وقوع شناسایی کنند. این فناوری در خطوط مونتاژ پیشرفته کارخانه‌های نورد فولاد پیاده‌سازی شده است.",
+      "category": "product",
+      "published_at": "1405/07/24 11:15",
+      "collected_at": "1405/07/24 20:00",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomation.asia/siemens-edge-ai",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "OT",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای نرم‌افزار WinCC Unified برای نظارت پیشرفته اتاق کنترل",
+      "summary": "نسخه جدید نرم‌افزار مانیتورینگ WinCC Unified زیمنس با ابزارهای گرافیکی وب‌محور بهینه‌سازی شد. این پلتفرم نظارتی امکان دسترسی امن به داده‌های فرایند را از طریق تبلت و موبایل برای مدیران کارخانه فراهم می‌کند. این ابزار نقش مهمی در یکپارچه‌سازی اطلاعات تولید در صنایع پتروشیمی دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 12:00",
+      "collected_at": "1405/07/24 20:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-wincc-unified",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "مانیتورینگ"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی در پمپ‌های صنعتی با درایورهای SINAMICS",
+      "summary": "سری جدید درایورهای فرکانس متغیر SINAMICS زیمنس با الگوریتم‌های پیشرفته کنترل دور موتور معرفی شدند. این تجهیزات توانسته‌اند مصرف انرژی الکتریکی را در پمپ‌های انتقال سیالات تا بیست درصد کاهش دهند. این طرح در راستای اهداف پایداری و کاهش انتشار کربن در صنایع سنگین اجرا شده است.",
+      "category": "product",
+      "published_at": "1405/07/24 13:20",
+      "collected_at": "1405/07/24 20:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-sinamics-g220",
+      "tags": [
+        "SINAMICS",
+        "Inverter",
+        "Energy Efficiency",
+        "درایو"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش سیستم‌های I/O توزیع‌شده با سری SIMATIC ET 200SP",
+      "summary": "زیمنس ماژول‌های جدیدی را به خانواده تجهیزات I/O توزیع‌شده SIMATIC ET 200SP اضافه کرد که سرعت تبادل داده را به شدت افزایش می‌دهند. این ماژول‌های جمع‌وجور فضای تابلوهای برق را به میزان قابل توجهی کاهش داده و سیم‌کشی را ساده‌تر می‌کنند. این تجهیزات در خطوط تولید الکترونیک کاربرد فراوانی دارند.",
+      "category": "product",
+      "published_at": "1405/07/24 14:10",
+      "collected_at": "1405/07/24 20:00",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-et200sp",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "I/O",
+        "تابلو برق"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "تقویت امنیت شبکه‌های صنعتی با سویچ‌های جدید SCALANCE",
+      "summary": "نسل جدید تجهیزات شبکه اسکالانس زیمنس با پشتیبانی از استانداردهای سخت‌گیرانه امنیت سایبری IEC 62443 عرضه شد. این سویچ‌های صنعتی از نفوذهای غیرمجاز به لایه‌های کنترل و اتوماسیون کارخانه جلوگیری می‌کنند. این محصول برای حفاظت از زیرساخت‌های حیاتی انرژی و آب‌رسانی طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/24 15:05",
+      "collected_at": "1405/07/24 20:00",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Network",
+        "امنیت"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه سیستم کنترل فرآیند SIMATIC PCS neo با مهندسی ابری",
+      "summary": "پلتفرم SIMATIC PCS neo زیمنس امکانات جدیدی برای مهندسی همکارانه و توزیع‌شده پروژه فراهم کرده است. تیم‌های مهندسی می‌توانند به‌طور همزمان از نقاط مختلف جغرافیایی روی یک پروژه کنترل فرآیند کار کنند. این راهکار زمان راه‌اندازی پالایشگاه‌های نفت و گاز را به‌طور چشمگیری کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 16:00",
+      "collected_at": "1405/07/24 20:00",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-pcs-neo",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Control",
+        "پالایشگاه"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهبود دقت اندازه‌گیری در ابزار دقیق با فرستنده‌های SIPART",
+      "summary": "سری جدید فرستنده‌های دیجیتال SIPART زیمنس با قابلیت تشخیص خطای خودکار و پایداری بلندمدت معرفی شدند. این تجهیزات ابزار دقیق می‌توانند پارامترهای فشار و دمای محیط‌های صنعتی سخت را با دقت فوق‌العاده‌ای اندازه بگیرند. این سنسورها نقش کلیدی در کنترل کیفیت صنایع داروسازی ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 17:30",
+      "collected_at": "1405/07/24 20:00",
+      "source": "InTech Magazine",
+      "source_url": "https://www.intechmag.com/siemens-sipart-transmitters",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Sensors",
+        "ابزار دقیق"
       ]
     }
   ]
