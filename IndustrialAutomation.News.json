@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 138,
-  "provider": "Gemini/gemini-3-flash-preview",
-  "updated_at": "1405/07/24 06:05",
+  "count": 148,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/24 06:15",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2208,6 +2208,161 @@
         "TIA Portal",
         "SINAMICS",
         "Packaging"
+      ]
+    },
+    {
+      "id": "ia-20241015-001",
+      "title": "یکپارچه‌سازی مدل‌های زبانی بزرگ در محیط مهندسی TIA Portal",
+      "summary": "زیمنس با معرفی قابلیت‌های جدید در TIA Portal، امکان استفاده از هوش مصنوعی مولد را برای تولید خودکار کدهای PLC فراهم کرده است. این فناوری به مهندسان کمک می‌کند تا زمان توسعه پروژه‌های پیچیده را تا ۳۰ درصد کاهش دهند. این ابزار با تحلیل ساختار پروژه، پیشنهادات بهینه‌ای برای منطق کنترل ارائه می‌دهد.",
+      "category": "product",
+      "published_at": "1403/07/24 08:00",
+      "collected_at": "1405/07/24 06:15",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/company/stories/industry/tia-portal-ai.html",
+      "tags": [
+        "TIA Portal",
+        "AI",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241015-002",
+      "title": "گسترش سبد محصولات درایوهای SINAMICS با سری جدید S210",
+      "summary": "نسل جدید درایوهای سروو SINAMICS S210 زیمنس برای کاربردهای حرکتی با دقت بالا بهینه شده است. این درایوها با پشتیبانی از پروتکل‌های ارتباطی پیشرفته، هماهنگی بی‌نقصی با کنترلرهای SIMATIC S7-1500 ایجاد می‌کنند. این محصول برای صنایع بسته‌بندی و مونتاژ الکترونیک بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1403/07/24 09:15",
+      "collected_at": "1405/07/24 06:15",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/motion-control/siemens-sinamics-s210-update",
+      "tags": [
+        "SINAMICS",
+        "Motion Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241015-003",
+      "title": "ارتقای امنیت شبکه صنعتی با سوئیچ‌های SCALANCE XC-200",
+      "summary": "زیمنس سری جدید سوئیچ‌های صنعتی SCALANCE XC-200 را با قابلیت‌های امنیتی تقویت‌شده برای محیط‌های OT معرفی کرد. این تجهیزات با پشتیبانی از استانداردهای امنیت سایبری، از نفوذهای احتمالی به شبکه‌های اتوماسیون جلوگیری می‌کنند. این سوئیچ‌ها برای تابلوهای برق در شرایط محیطی سخت طراحی شده‌اند.",
+      "category": "industry",
+      "published_at": "1403/07/24 10:30",
+      "collected_at": "1405/07/24 06:15",
+      "source": "Industrial Cybersecurity News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industrial-communication/scalance-xc-200.html",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT",
+        "Network"
+      ]
+    },
+    {
+      "id": "ia-20241015-004",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع سنگین با سیستم SIMATIC PCS neo",
+      "summary": "پلتفرم کنترل فرآیند SIMATIC PCS neo اکنون با ابزارهای تحلیل انرژی هوشمند عرضه می‌شود که امکان مانیتورینگ بلادرنگ مصرف برق را فراهم می‌کند. این سیستم با استفاده از داده‌های ابری، به مدیران کارخانه‌ها کمک می‌کند تا نقاط اتلاف انرژی را شناسایی کنند. این راهکار در صنایع شیمیایی و نفت و گاز کاربرد گسترده‌ای دارد.",
+      "category": "industry",
+      "published_at": "1403/07/24 11:45",
+      "collected_at": "1405/07/24 06:15",
+      "source": "Process Automation Today",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-control/simatic-pcs-neo.html",
+      "tags": [
+        "PCS neo",
+        "Energy Efficiency",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20241015-005",
+      "title": "توسعه ماژول‌های ورودی/خروجی ایمن برای سری SIMATIC ET 200SP",
+      "summary": "زیمنس ماژول‌های جدید ایمنی (F-Modules) را برای سیستم I/O توزیع‌شده ET 200SP به بازار عرضه کرد. این ماژول‌ها با استانداردهای SIL3 مطابقت داشته و برای کاربردهای حساس ایمنی در خطوط تولید رباتیک طراحی شده‌اند. نصب آسان و پیکربندی سریع از ویژگی‌های بارز این سری جدید است.",
+      "category": "product",
+      "published_at": "1403/07/24 12:20",
+      "collected_at": "1405/07/24 06:15",
+      "source": "Control Engineering",
+      "source_url": "https://www.siemens.com/global/en/products/automation/systems/industrial/io-systems/simatic-et200sp.html",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "Safety",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241015-006",
+      "title": "همکاری زیمنس و انویدیا در توسعه دوقلوهای دیجیتال کارخانه‌ای",
+      "summary": "همکاری استراتژیک زیمنس و انویدیا برای استفاده از پلتفرم Omniverse در طراحی کارخانه‌های آینده به مرحله جدیدی رسیده است. با این همکاری، شبیه‌سازی‌های فیزیکی دقیق در محیط‌های صنعتی امکان‌پذیر شده که منجر به کاهش خطاهای طراحی می‌شود. این فناوری به ویژه در صنایع خودروسازی برای بهینه‌سازی خطوط تولید استفاده می‌شود.",
+      "category": "research",
+      "published_at": "1403/07/24 13:10",
+      "collected_at": "1405/07/24 06:15",
+      "source": "TechCrunch Industrial",
+      "source_url": "https://www.siemens.com/global/en/company/stories/industry/siemens-nvidia-partnership.html",
+      "tags": [
+        "Digital Twin",
+        "NVIDIA",
+        "Omniverse",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241015-007",
+      "title": "ارتقای ابزار دقیق با سنسورهای هوشمند SIPART PS100",
+      "summary": "نسل جدید پوزیشنرهای دیجیتال SIPART PS100 زیمنس با قابلیت‌های عیب‌یابی پیشرفته معرفی شد. این سنسورها امکان نظارت بر وضعیت شیرهای صنعتی را فراهم کرده و از خرابی‌های ناگهانی جلوگیری می‌کنند. این تجهیزات با پروتکل‌های ارتباطی استاندارد برای اتصال به سیستم‌های اسکادا آماده شده‌اند.",
+      "category": "product",
+      "published_at": "1403/07/24 14:05",
+      "collected_at": "1405/07/24 06:15",
+      "source": "Instrumentation Monthly",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-instrumentation/positioners/sipart-ps100.html",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20241015-008",
+      "title": "گسترش پلتفرم لبه صنعتی با اپلیکیشن‌های جدید تحلیل داده",
+      "summary": "زیمنس فروشگاه اپلیکیشن‌های لبه صنعتی (Industrial Edge) خود را با ابزارهای جدید تحلیل داده‌های ارتعاشی به‌روزرسانی کرد. این اپلیکیشن‌ها به کاربران اجازه می‌دهند تا بدون نیاز به دانش برنامه‌نویسی پیچیده، وضعیت سلامت موتورهای الکتریکی را پایش کنند. این راهکار باعث کاهش هزینه‌های نگهداری و تعمیرات می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/24 15:00",
+      "collected_at": "1405/07/24 06:15",
+      "source": "Digital Factory News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/industrial-edge.html",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241015-009",
+      "title": "تحول در مانیتورینگ صنعتی با WinCC Unified V19",
+      "summary": "نسخه جدید نرم‌افزار WinCC Unified V19 با رابط کاربری مبتنی بر وب، امکان دسترسی به داده‌های تولید را از هر دستگاهی فراهم می‌کند. این نسخه با بهبود گرافیک و سرعت پاسخ‌دهی، نظارت بر اتاق‌های فرمان بزرگ را تسهیل کرده است. این نرم‌افزار با تمامی کنترلرهای سری SIMATIC سازگاری کامل دارد.",
+      "category": "product",
+      "published_at": "1403/07/24 16:30",
+      "collected_at": "1405/07/24 06:15",
+      "source": "Automation World",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/scada/simatic-wincc-unified.html",
+      "tags": [
+        "WinCC",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241015-010",
+      "title": "گزارش رشد بازار اتوماسیون صنعتی در منطقه خاورمیانه",
+      "summary": "بر اساس گزارش جدید، تقاضا برای راهکارهای اتوماسیون زیمنس در پروژه‌های زیرساختی خاورمیانه به شدت افزایش یافته است. تمرکز اصلی بر روی هوشمندسازی شبکه برق و صنایع تولیدی است. این روند نشان‌دهنده گذار سریع صنایع منطقه به سمت دیجیتالی‌سازی و استفاده از سیستم‌های کنترل یکپارچه است.",
+      "category": "economy",
+      "published_at": "1403/07/24 17:45",
+      "collected_at": "1405/07/24 06:15",
+      "source": "Industry Trends Report",
+      "source_url": "https://www.siemens.com/global/en/company/press/news.html",
+      "tags": [
+        "Market Report",
+        "Automation",
+        "Infrastructure"
       ]
     }
   ]
