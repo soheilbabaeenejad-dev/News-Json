@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 504,
+  "count": 510,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 19:07",
+  "updated_at": "1405/07/24 19:14",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7979,6 +7979,102 @@
         "DCS",
         "PCS neo",
         "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "بروزرسانی ماژول‌های ایمنی SIMATIC Safety Advanced برای خطوط رباتیک",
+      "summary": "بسته نرم‌افزاری SIMATIC Safety Advanced زیمنس با قابلیت‌های جدیدی برای تایید استانداردهای ایمنی خطوط رباتیک پیچیده به‌روزرسانی شد. این نسخه ابزارهای ارزیابی ریسک خودکار را در محیط TIA Portal ادغام کرده و زمان کمیسیونینگ خطوط تولید را به طور چشمگیری کاهش می‌دهد. این تغییرات به سازندگان ماشین‌آلات کمک می‌کند تا گواهینامه‌های ایمنی بین‌المللی را سریع‌تر دریافت کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 11:15",
+      "collected_at": "1405/07/24 19:14",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/content/simatic-safety-advanced-update",
+      "tags": [
+        "TIA Portal",
+        "Safety",
+        "Robotics",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی در نرم‌افزار WinCC Unified V19 SP1",
+      "summary": "نسخه جدید بروزرسانی شده WinCC Unified V19 SP1 امکانات ویژه‌ای را برای نظارت لحظه‌ای بر مصرف انرژی کارخانجات ارائه می‌دهد. این ابزار به اپراتورها اجازه می‌دهد تا نقاط اتلاف انرژی را در خطوط تولید بزرگ شناسایی و نمودارهای مصرف را بهینه کنند. این نرم‌افزار نقش کلیدی در کمک به صنایع برای دستیابی به اهداف کربن‌زدایی و پایداری ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 12:00",
+      "collected_at": "1405/07/24 19:14",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/wincc-unified-v19-sp1",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "توسعه سخت‌افزارهای شبکه SCALANCE برای زیرساخت‌های اترنت صنعتی",
+      "summary": "زیمنس نسل جدید سوئیچ‌های مدیریت‌شده صنعتی سری SCALANCE را برای پشتیبانی از شبکه‌های مقیاس‌پذیر و پرسرعت اترنت معرفی کرد. این تجهیزات با قابلیت پشتیبانی از پروتکل‌های دقیق زمان‌بندی TSN، پایداری ارتباطات را در محیط‌های پرنویز کارگاهی تضمین می‌کنند. این تجهیزات امنیت لایه شبکه را برای مقابله با تهدیدات سایبری در بخش OT تقویت می‌نمایند.",
+      "category": "product",
+      "published_at": "1405/07/24 12:45",
+      "collected_at": "1405/07/24 19:14",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/products/scalance-industrial-ethernet-switches",
+      "tags": [
+        "SCALANCE",
+        "Industrial Networks",
+        "Cybersecurity",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "بهینه‌سازی پمپ‌های صنعتی با درایورهای دورمتغیر SINAMICS G120P",
+      "summary": "استفاده از اینورترهای پیشرفته SINAMICS G120P زیمنس در پروژه‌های تصفیه آب و فاضلاب منجر به کاهش سی درصدی مصرف برق شده است. این درایورها با الگوریتم‌های کنترل برداری دقیق، گشتاور موتور را با نیاز واقعی بار هماهنگ می‌کنند. این راهکار به صنایع سنگین کمک می‌کند هزینه‌های بهره‌برداری و تعمیرات دوره‌ای تجهیزات دوار را کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/24 13:30",
+      "collected_at": "1405/07/24 19:14",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/drives-pumps-sinamics-g120p",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "ارتقای فرآیندهای ابزار دقیق با فرستنده‌های دیجیتال SIPART PS2",
+      "summary": "نسخه‌های جدید پوزیشنرهای دیجیتال شیرهای کنترل SIPART PS2 زیمنس با قابلیت تشخیص خطای خودکار به بازار عرضه شدند. این تجهیزات ابزار دقیق اطلاعات تشخیصی دقیق درباره وضعیت شیرها را به سیستم کنترل مرکزی ارسال می‌کنند. این قابلیت مانع از توقف‌های ناخواسته خطوط تولید در صنایع نفت، گاز و پتروشیمی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 14:15",
+      "collected_at": "1405/07/24 19:14",
+      "source": "Flow Control",
+      "source_url": "https://www.flowcontrolnetwork.com/instruments/sipart-ps2-upgrades",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Valves",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "گسترش سیستم‌های I/O توزیع‌شده با ماژول‌های جدید SIMATIC ET 200SP",
+      "summary": "سری ماژول‌های ورودی و خروجی توزیع‌شده SIMATIC ET 200SP زیمنس با قابلیت‌های تشخیصی پیشرفته توسعه یافتند. این ماژول‌ها با طراحی فشرده، فضای اشغال‌شده در تابلوهای برق را به حداقل رسانده و سرعت سیم‌کشی را افزایش می‌دهند. این تجهیزات انعطاف‌پذیری بالایی در معماری‌های کنترل توزیع‌شده برای خطوط تولید پیچیده فراهم می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 15:00",
+      "collected_at": "1405/07/24 19:14",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/products/simatic-et-200sp-expansion",
+      "tags": [
+        "SIMATIC",
+        "I/O Systems",
+        "Hardware",
         "Siemens"
       ]
     }
