@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 412,
+  "count": 421,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 16:02",
+  "updated_at": "1405/07/24 16:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6515,6 +6515,150 @@
         "DCS",
         "Siemens",
         "کنترل فرآیند"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "ارتقای قابلیت‌های پردازشی در کنترلرهای SIMATIC S7-1500F برای صنایع خودکار",
+      "summary": "شرکت زیمنس ماژول‌های ایمنی جدیدی را برای کنترلرهای SIMATIC S7-1500F معرفی کرد که سرعت پردازش کدهای منطقی را تا چهل درصد افزایش می‌دهند. این بهبود به مهندسان اجازه می‌دهد تا خطوط تولید رباتیک پیچیده‌تری را با استانداردهای ایمنی SIL3 راه‌اندازی کنند. این به‌روزرسانی گامی مهم در جهت بهینه‌سازی عملکرد اتوماسیون در محیط‌های صنعتی سخت‌گیرانه محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 08:15",
+      "collected_at": "1405/07/24 16:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500f-safety-upgrade",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "Safety",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ ابری در پلتفرم WinCC Unified V19 SP1",
+      "summary": "نسخه جدید پلتفرم WinCC Unified V19 SP1 با ابزارهای پیشرفته‌تری برای تجسم داده‌های تولیدی روی بستر وب عرضه شده است. این نسخه امکان اتصال همزمان هزاران تگ صنعتی را بدون افت کیفیت گرافیکی فراهم می‌سازد. مدیران کارخانجات می‌توانند از هر نقطه‌ای وضعیت خطوط مونتاژ را به صورت بلادرنگ مانیتور کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 09:30",
+      "collected_at": "1405/07/24 16:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/wincc-unified-v19-sp1",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف انرژی در پمپ‌های فشار قوی با درایورهای SINAMICS G220M",
+      "summary": "درایورهای صنعتی SINAMICS G220M زیمنس با قابلیت‌های پیشرفته ارتباطی PROFINET طراحی شده‌اند تا راندمان انرژی را در سیستم‌های پمپاژ به حداکثر برسانند. این تجهیزات توانسته‌اند تلفات الکتریکی را تا پانزده درصد در کارخانجات فرآیندی کاهش دهند. استفاده از این درایورها نقش بسزایی در دستیابی به اهداف توسعه پایدار صنعتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 16:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/sinamics-g220m-pumps-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "توسعه راهکارهای ارتباطی امن در شبکه‌های OT با سوئیچ‌های SCALANCE X-300",
+      "summary": "نسخه‌های جدید سوئیچ‌های صنعتی SCALANCE X-300 با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته برای محافظت از زیرساخت‌های حیاتی عرضه شدند. این تجهیزات از نفوذ سایبری به لایه‌های کنترل صنعتی جلوگیری کرده و امنیت تبادل داده را تضمین می‌کنند. این اقدام پاسخ مستقیم به افزایش تهدیدات سایبری علیه شبکه‌های تولیدی است.",
+      "category": "product",
+      "published_at": "1405/07/24 10:45",
+      "collected_at": "1405/07/24 16:03",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/scalance-x300-security",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "افزایش دقت ابزار دقیق با فرستنده‌های دیجیتال SIPART PS300",
+      "summary": "فرستنده‌های دیجیتال جدید SIPART PS300 برای کنترل موقعیت والوها در صنایع نفت، گاز و پتروشیمی معرفی شدند. این ابزار دقیق با بهره‌گیری از الگوریتم‌های خودتنظیم‌شونده، خطاهای اندازه‌گیری را به کمتر از صدم درصد می‌رساند. این فناوری پایداری عملیاتی را در فرآیندهای پیوسته شیمیایی به طور چشمگیری ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 11:20",
+      "collected_at": "1405/07/24 16:03",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/sipart-ps300-digital-transmitters",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Process Control",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "گسترش کاربرد هوش مصنوعی لبه در خطوط بسته‌بندی دارویی با Industrial Edge",
+      "summary": "پلتفرم لبه صنعتی زیمنس اکنون از ماژول‌های جدید هوش مصنوعی برای بازرسی بصری کیفیت در خطوط داروسازی پشتیبانی می‌کند. این سیستم قادر است عیوب میکروسکوپی بسته‌بندی را با سرعتی بالاتر از اپراتور انسانی شناسایی کند. این نوآوری هزینه‌های ضایعات مواد اولیه را در کارخانجات داروسازی به شدت کاهش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/24 12:05",
+      "collected_at": "1405/07/24 16:03",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/automation/edge-ai-packaging",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Pharma",
+        "Machine Vision"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای سیستم کنترل توزیع‌شده SIMATIC PCS neo برای پروژه‌های بزرگ مقیاس",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo ابزارهای مهندسی مبتنی بر وب را برای تیم‌های مهندسی توزیع‌شده فراهم کرده است. این سامانه اجازه می‌دهد طراحان از نقاط مختلف جهان به طور همزمان روی یک پروژه بزرگ پتروشیمی کار کنند. این قابلیت مدت‌زمان راه‌اندازی پروژه‌های صنعتی را به میزان قابل توجهی کوتاه می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 13:10",
+      "collected_at": "1405/07/24 16:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/dcs/simatic-pcs-neo-update",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Engineering",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه ماژول‌های I/O توزیع‌شده SIMATIC ET 200SP HA برای کابینت‌های کنترل فشرده",
+      "summary": "سری جدید ماژول‌های I/O توزیع‌شده SIMATIC ET 200SP HA با چگالی بالاتر و قابلیت تعویض در زمان کارکرد فعال معرفی شدند. این ماژول‌ها فضای مورد نیاز در تابلوهای برق صنعتی را تا سی درصد کاهش می‌دهند. طراحی مقاوم آن‌ها برای کار در شرایط سخت دمایی و محیط‌های خورنده بهینه‌سازی شده است.",
+      "category": "product",
+      "published_at": "1405/07/24 14:00",
+      "collected_at": "1405/07/24 16:03",
+      "source": "IE, Industrial Ethernet",
+      "source_url": "https://www.ie-network.com/simatic-et-200sp-ha-modules",
+      "tags": [
+        "SIMATIC ET 200SP",
+        "I/O",
+        "Hardware",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "پایش پایداری و مصرف کربن کارخانجات با پلتفرم ابری Insights Hub",
+      "summary": "پلتفرم Insights Hub زیمنس بسته‌ای جدید برای محاسبه ردپای کربن و پایش پایداری منابع انرژی در واحدهای تولیدی عرضه کرد. این ابزار داده‌های مصرف برق، آب و گاز را جمع‌آوری کرده و گزارش‌های انطباق با استانداردهای زیست‌محیطی تولید می‌کند. این راهکار به صنایع کمک می‌کند تا به اهداف انتشار صفر کربن دست یابند.",
+      "category": "news",
+      "published_at": "1405/07/24 14:50",
+      "collected_at": "1405/07/24 16:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/sustainability/insights-hub-carbon-tracking",
+      "tags": [
+        "Insights Hub",
+        "MindSphere",
+        "Sustainability",
+        "Cloud"
       ]
     }
   ]
