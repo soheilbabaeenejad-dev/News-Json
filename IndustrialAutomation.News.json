@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 258,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 10:06",
+  "count": 268,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/24 11:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4074,6 +4074,166 @@
         "Investment",
         "Automation",
         "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261015-001",
+      "title": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS 7 زیمنس",
+      "summary": "شرکت زیمنس نسخه به‌روزرسانی شده سیستم کنترل توزیع‌شده SIMATIC PCS 7 را با قابلیت‌های پیشرفته مدیریتی منتشر کرد. این نسخه جدید به پالایشگاه‌ها و صنایع فرآیندی کمک می‌کند تا پایداری عملیاتی را افزایش دهند. با استفاده از ابزارهای جدید، زمان توقف خطوط تولید به حداقل می‌رسد.",
+      "category": "product",
+      "published_at": "1405/07/24 08:15",
+      "collected_at": "1405/07/24 11:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-pcs-7-update",
+      "tags": [
+        "SIMATIC PCS 7",
+        "DCS",
+        "Siemens",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261015-002",
+      "title": "گسترش پروتکل‌های ارتباطی TSN در تجهیزات اتوماسیون زیمنس",
+      "summary": "زیمنس پشتیبانی از استاندارد Time-Sensitive Networking را در تجهیزات شبکه صنعتی خود توسعه داد. این فناوری تبادل همزمان داده‌های بحرانی را با سرعت فوق‌العاده بالا تضمین می‌کند. این امر موجب یکپارچگی بهتر میان لایه کنترل و لایه مدیریت در کارخانه‌های هوشمند می‌شود.",
+      "category": "news",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 11:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-tsn-industrial-networks",
+      "tags": [
+        "TSN",
+        "Industrial Ethernet",
+        "SCALANCE",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-003",
+      "title": "ماژول‌های جدید ایمنی کارگاهی در خانواده SIMATIC S7-1200",
+      "summary": "سری کنترلرهای جمع‌وجور SIMATIC S7-1200 زیمنس با ماژول‌های ایمنی جدید تجهیز شدند. این ماژول‌ها امکان پیاده‌سازی استانداردهای ایمنی سخت‌گیرانه را در ماشین‌آلات کوچک فراهم می‌کنند. مهندسان می‌توانند با هزینه کمتر، ایمنی اپراتورها را در خطوط مونتاژ تضمین نمایند.",
+      "category": "product",
+      "published_at": "1405/07/24 09:00",
+      "collected_at": "1405/07/24 11:01",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-s7-1200-safety",
+      "tags": [
+        "SIMATIC S7-1200",
+        "Safety",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-004",
+      "title": "بهینه‌سازی مصرف آب صنعتی با راهکارهای ابزار دقیق زیمنس",
+      "summary": "تجهیزات اندازه‌گیری فلو و فشار زیمنس در تصفیه‌خانه‌های صنعتی نقش کلیدی ایفا می‌کنند. سنسورهای هوشمند جدید داده‌های دقیقی را برای کاهش اتلاف منابع آبی ارسال می‌کنند. این راهکارها به شرکت‌ها کمک می‌کند تا اهداف پایداری زیست‌محیطی خود را محقق سازند.",
+      "category": "industry",
+      "published_at": "1405/07/24 09:20",
+      "collected_at": "1405/07/24 11:01",
+      "source": "Water Technology",
+      "source_url": "https://www.watertechonline.com/siemens-instrumentation-water",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Sustainability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-005",
+      "title": "ارتقای نرم‌افزار مانیتورینگ WinCC Unified با ویجت‌های ابری",
+      "summary": "نسخه جدید نرم‌افزار WinCC Unified ابزارهای ویژه‌ای برای اتصال به فضای ابری ارائه داده است. مدیران کارخانه می‌توانند داشبوردهای سفارشی را برای نظارت از راه دور روی تبلت و موبایل ایجاد کنند. این قابلیت انعطاف‌پذیری اتاق‌های فرمان را به طور چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 09:45",
+      "collected_at": "1405/07/24 11:01",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-wincc-unified-cloud",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-006",
+      "title": "کاهش تلفات انرژی در پمپ‌های سنگین با درایورهای SINAMICS",
+      "summary": "سری جدید درایورهای فرکانس متغیر SINAMICS توانسته‌اند مصرف برق پمپ‌های صنعتی را کاهش دهند. الگوریتم‌های پیشرفته کنترل دور موتور در این تجهیزات بر اساس نیاز بار تنظیم می‌شوند. این فناوری نقش مهمی در کاهش هزینه‌های انرژی کارخانجات بزرگ دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 11:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sinamics-drives",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-007",
+      "title": "گسترش امنیت شبکه OT با تجهیزات دیواره آتش SCALANCE S",
+      "summary": "زیمنس سری جدید تجهیزات امنیت شبکه صنعتی SCALANCE S را برای مقابله با تهدیدات سایبری معرفی کرد. این محصولات از شبکه‌های کنترل صنعتی در برابر نفوذهای غیرمجاز محافظت می‌کنند. این اقدام بخشی از استراتژی جامع زیمنس برای ایمن‌سازی زیرساخت‌های حیاتی است.",
+      "category": "regulation",
+      "published_at": "1405/07/24 10:20",
+      "collected_at": "1405/07/24 11:01",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-scalance-security",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT Security",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-008",
+      "title": "استفاده از سیستم‌های توزیع‌شده SIMATIC ET 200MP در خطوط بسته‌بندی",
+      "summary": "سیستم‌های I/O توزیع‌شده SIMATIC ET 200MP سرعت پاسخگویی در خطوط پرسرعت بسته‌بندی را بهبود بخشیده‌اند. ماژول‌های مدولار این مجموعه نصب و نگهداری تجهیزات را برای تکنسین‌ها ساده‌تر می‌کنند. این راهکار سرعت انتقال داده‌ها را به کنترلر مرکزی به حداکثر می‌رساند.",
+      "category": "industry",
+      "published_at": "1405/07/24 10:35",
+      "collected_at": "1405/07/24 11:01",
+      "source": "Packaging Digest",
+      "source_url": "https://www.packagingdigest.com/siemens-et200mp-packaging",
+      "tags": [
+        "SIMATIC ET 200MP",
+        "I/O Systems",
+        "Packaging",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-009",
+      "title": "توسعه قابلیت‌های نگهداری پیش‌بینانه با پلتفرم Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس ابزارهای جدیدی برای تحلیل داده‌های لرزش موتورهای صنعتی ارائه کرد. الگوریتم‌های یادگیری ماشین خرابی‌های احتمالی را هفته‌ها پیش از وقوع پیش‌بینی می‌کنند. این امر از توقف‌های ناخواسته خطوط تولید جلوگیری کرده و هزینه‌ها را کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/24 10:50",
+      "collected_at": "1405/07/24 11:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-predictive",
+      "tags": [
+        "Insights Hub",
+        "MindSphere",
+        "Predictive Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-010",
+      "title": "همکاری زیمنس و دانشگاه‌های صنعتی برای تربیت متخصصان TIA Portal",
+      "summary": "برنامه آموزشی جدیدی برای آشنایی دانشجویان مهندسی با محیط TIA Portal زیمنس آغاز شد. این طرح با هدف کاهش شکاف میان صنعت و دانشگاه در حوزه اتوماسیون اجرا می‌شود. شرکت‌کنندگان با آخرین فناوری‌های کنترل صنعتی و برنامه‌نویسی PLC آشنا خواهند شد.",
+      "category": "society",
+      "published_at": "1405/07/24 11:00",
+      "collected_at": "1405/07/24 11:01",
+      "source": "Education Technology",
+      "source_url": "https://edutech.com/siemens-tia-portal-education",
+      "tags": [
+        "TIA Portal",
+        "Education",
+        "Training",
+        "Siemens"
       ]
     }
   ]
