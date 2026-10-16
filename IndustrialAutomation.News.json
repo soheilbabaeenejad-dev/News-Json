@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 498,
+  "count": 504,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 19:03",
+  "updated_at": "1405/07/24 19:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7884,6 +7884,102 @@
         "رباتیک",
         "فستو",
         "همکاری صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "ارتقای نرم‌افزار WinCC Unified V19 با ابزارهای تحلیل گرافیکی پیشرفته",
+      "summary": "آخرین به‌روزرسانی پلتفرم مانیتورینگ WinCC Unified V19 توسط زیمنس منتشر شد که قابلیت‌های تجسم داده‌ها را به شدت بهبود می‌بخشد. این نسخه به اپراتورهای خطوط تولید امکان می‌دهد تا وضعیت فرآیندهای صنعتی را با داشبوردهای وب‌پایه و بدون نیاز به نصب نرم‌افزار اضافی پایش کنند. بهبود عملکرد سیستم‌های اسکادا نقش کلیدی در کاهش زمان توقف کارخانجات دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 11:15",
+      "collected_at": "1405/07/24 19:07",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/article/siemens-wincc-unified-v19",
+      "tags": [
+        "SCADA",
+        "WinCC Unified",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "گسترش شبکه تجهیزات ارتباطی SCALANCE برای حفاظت از شبکه‌های صنعتی OT",
+      "summary": "زیمنس سبد محصولات شبکه خود را با معرفی سری جدید سوئیچ‌های صنعتی SCALANCE تقویت کرد تا امنیت ارتباطات در صنایع حیاتی تضمین شود. این تجهیزات با پشتیبانی از استانداردهای سخت‌گیرانه امنیت سایبری، از زیرساخت‌های اتوماسیون در برابر نفوذهای دیجیتال محافظت می‌کنند. پایداری شبکه و ایمنی داده‌ها از اصلی‌ترین دغدغه‌های مدیران کارخانجات هوشمند است.",
+      "category": "product",
+      "published_at": "1405/07/24 12:00",
+      "collected_at": "1405/07/24 19:07",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/products/networking/article/scalance-switches-siemens",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در پلتفرم لبه صنعتی زیمنس",
+      "summary": "زیمنس ماژول‌های جدید هوش مصنوعی را برای پلتفرم Industrial Edge ارائه کرد که امکان اجرای الگوریتم‌های یادگیری ماشین را در سطح ماشین‌آلات فراهم می‌کند. این ابزارها به صنایع پتروشیمی و خودرو‌سازی کمک می‌کنند تا عیب‌یابی تجهیزات را پیش از وقوع خرابی انجام دهند. پردازش داده‌ها در لبه شبکه تاخیر زمانی را به حداقل می‌رساند.",
+      "category": "research",
+      "published_at": "1405/07/24 13:30",
+      "collected_at": "1405/07/24 19:07",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrialiotnews.com/siemens-industrial-edge-ai",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Predictive Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "افزایش دقت ابزار دقیق با فرستنده‌های دیجیتال جدید SIPART",
+      "summary": "سری جدید ترانسمیترهای فشار و دمای SIPART زیمنس با قابلیت‌های تشخیصی پیشرفته معرفی شدند که دقت اندازه‌گیری در فرآیندهای شیمیایی را افزایش می‌دهند. این تجهیزات فیلد باس با پروتکل‌های ارتباطی استاندارد صنعتی سازگار بوده و به راحتی با کنترلرهای SIMATIC یکپارچه می‌شوند. ارتقای ابزار دقیق زیربنای اصلی کیفیت بالا در تولید انبوه است.",
+      "category": "product",
+      "published_at": "1405/07/24 14:20",
+      "collected_at": "1405/07/24 19:07",
+      "source": "Process Automation",
+      "source_url": "https://www.process-automation.com/instruments/sipart-transmitters-siemens",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "توسعه اتوماسیون رباتیک با یکپارچه‌ساز ربات SIMATIC Robot Integrator",
+      "summary": "نرم‌افزار SIMATIC Robot Integrator زیمنس روند برنامه‌نویسی و اتصال ربات‌های صنعتی برندهای مختلف را به خطوط تولید ساده‌تر کرد. این ابزار مهندسی امکان کنترل همزمان ربات‌ها و تجهیزات جانبی را از طریق محیط آشنای TIA Portal فراهم می‌سازد. انعطاف‌پذیری خطوط مونتاژ با این راهکار به‌طور قابل‌توجهی افزایش می‌یابد.",
+      "category": "product",
+      "published_at": "1405/07/24 17:10",
+      "collected_at": "1405/07/24 19:07",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/siemens-simatic-robot-integrator",
+      "tags": [
+        "Robotics",
+        "SIMATIC",
+        "TIA Portal",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "ارتقای نرم‌افزار SIMATIC PCS neo برای مهندسی توزیع‌شده فرآیندهای صنعتی",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo با قابلیت‌های مهندسی ابری و دسترسی چندکاربره همزمان عرضه شد. این نرم‌افزار نوین به مهندسان اجازه می‌دهد تا پروژه‌های بزرگ صنعتی را در بستر وب و به صورت کاملاً هماهنگ طراحی و پیاده‌سازی کنند. این رویکرد زمان راه‌اندازی مجتمع‌های بزرگ صنعتی را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/24 18:25",
+      "collected_at": "1405/07/24 19:07",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-simatic-pcs-neo-update",
+      "tags": [
+        "DCS",
+        "PCS neo",
+        "Process Control",
+        "Siemens"
       ]
     }
   ]
