@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 289,
+  "count": 297,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 12:00",
+  "updated_at": "1405/07/24 12:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4567,6 +4567,134 @@
         "TIA Portal",
         "Engineering",
         "Software"
+      ]
+    },
+    {
+      "id": "ia-20261015-001",
+      "title": "نسخه جدید سیستم کنترل SIMATIC S7-1500 با ماژول‌های امنیتی ارتقایافته",
+      "summary": "شرکت زیمنس نسخه به‌روزرسانی‌شده کنترلر صنعتی SIMATIC S7-1500 را با تمرکز بر امنیت سایبری و پردازش سریع‌تر داده‌های OT معرفی کرد. این محصول به مهندسان اجازه می‌دهد تا خطوط تولید را با قابلیت رمزگذاری سخت‌افزاری پیشرفته محافظت کنند. این نوآوری نقش مهمی در کاهش آسیب‌پذیری شبکه‌های صنعتی مدرن ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:15",
+      "collected_at": "1405/07/24 12:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-update",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "Siemens",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261015-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی لبه در پلتفرم Industrial Edge زیمنس",
+      "summary": "پلتفرم لبه صنعتی زیمنس اکنون با ابزارهای جدید تحلیل هوش مصنوعی برای پردازش محلی داده‌های کارگاهی تجهیز شده است. این قابلیت به اپراتورها کمک می‌کند تا خرابی تجهیزات را پیش از وقوع شناسایی کنند. این راهکار نیازی به اتصال مداوم به ابر نداشته و سرعت واکنش را در خطوط تولید افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/24 08:45",
+      "collected_at": "1405/07/24 12:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-industrial-edge-ai",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Siemens",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261015-003",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانجات با اینورترهای جدید SINAMICS G230",
+      "summary": "نسخه جدید اینورترهای SINAMICS G230 زیمنس برای کنترل دقیق دور موتورهای صنعتی و کاهش تلفات انرژی عرضه شد. این سری از درایوها با استانداردهای بازدهی انرژی کلاس IE5 کاملاً سازگار هستند. استفاده از این تجهیزات می‌تواند تا پانزده درصد مصرف برق در پمپ‌ها و فن‌های صنعتی را کاهش دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 09:10",
+      "collected_at": "1405/07/24 12:02",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-sinamics-g230",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-004",
+      "title": "توسعه ابزارهای مهندسی خودکار در نرم‌افزار TIA Portal V20",
+      "summary": "زیمنس نسخه جدید محیط مهندسی TIA Portal V20 را با امکانات پیشرفته برای اعتبارسنجی خودکار کدهای PLC منتشر کرد. این ابزار جدید زمانه‌بندی پروژه‌های اتوماسیون را کوتاه کرده و خطاهای انسانی در برنامه‌نویسی را به حداقل می‌رساند. توسعه‌دهندگان می‌توانند از ماژول‌های کتابخانه‌ای جدید برای سرعت‌بخشی به طراحی استفاده کنند.",
+      "category": "news",
+      "published_at": "1405/07/24 09:30",
+      "collected_at": "1405/07/24 12:02",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/siemens-tia-portal-v20",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Software",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-005",
+      "title": "تقویت امنیت شبکه‌های صنعتی با نسل جدید سوییچ‌های SCALANCE",
+      "summary": "سری جدید تجهیزات شبکه SCALANCE زیمنس با پشتیبانی از پروتکل‌های امنیتی پیشرفته برای زیرساخت‌های حیاتی معرفی شد. این سوییچ‌ها قابلیت مدیریت ترافیک شبکه OT را در شرایط سخت محیطی فراهم می‌کنند. این تجهیزات نقش کلیدی در جلوگیری از نفوذهای سایبری به لایه‌های کنترل صنعتی دارند.",
+      "category": "news",
+      "published_at": "1405/07/24 09:55",
+      "collected_at": "1405/07/24 12:02",
+      "source": "Network World",
+      "source_url": "https://www.networkworld.com/siemens-scalance-new-generation",
+      "tags": [
+        "SCALANCE",
+        "Networking",
+        "Cybersecurity",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-006",
+      "title": "ارتقای پلتفرم مانیتورینگ WinCC Unified برای نظارت پیشرفته خطوط",
+      "summary": "به‌روزرسانی جدید نرم‌افزار مانیتورینگ WinCC Unified امکانات ویژه‌ای برای تصویرسازی سه‌بعدی فرآیندها فراهم کرده است. این قابلیت به مدیران کارخانه اجازه می‌دهد تا وضعیت عملکرد ماشین‌آلات را به صورت بلادرنگ رصد کنند. این سیستم مبتنی بر وب انعطاف‌پذیری بالایی در دسترسی از راه دور ایجاد می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/24 10:20",
+      "collected_at": "1405/07/24 12:02",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-wincc-unified-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-009",
+      "title": "نقش پلتفرم Insights Hub در پایش پایداری و کاهش مصرف انرژی",
+      "summary": "پلتفرم ابری Insights Hub زیمنس راهکارهای جدیدی برای گزارش‌گیری از میزان انتشار کربن در کارخانجات ارائه داد. این ابزار به شرکت‌ها کمک می‌کند تا ردپای کربن خود را اندازه‌گیری و قوانین زیست‌محیطی را رعایت کنند. تحلیل‌های مبتنی بر داده نقش مهمی در حرکت صنایع به سوی تولید سبز دارد.",
+      "category": "news",
+      "published_at": "1405/07/24 11:30",
+      "collected_at": "1405/07/24 12:02",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-sustainability",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Sustainability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261015-010",
+      "title": "توسعه ربات‌های صنعتی با پلتفرم SIMATIC Robot Integrator",
+      "summary": "نرم‌افزار SIMATIC Robot Integrator زیمنس یکپارچه‌سازی بازوهای رباتیک مختلف را در خطوط تولید آسان‌تر کرده است. این پلتفرم نیاز به دانش تخصصی پیچیده برای برنامه‌نویسی ربات‌ها را کاهش می‌دهد و انعطاف‌پذیری کارخانه‌ها را بالا می‌برد. این راهکار به ویژه در صنایع بسته‌بندی و مونتاژ کاربرد گسترده‌ای دارد.",
+      "category": "news",
+      "published_at": "1405/07/24 11:50",
+      "collected_at": "1405/07/24 12:02",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/siemens-robot-integrator",
+      "tags": [
+        "Robotics",
+        "SIMATIC",
+        "Automation",
+        "Siemens"
       ]
     }
   ]
