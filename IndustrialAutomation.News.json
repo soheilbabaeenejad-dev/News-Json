@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 249,
+  "count": 258,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 10:03",
+  "updated_at": "1405/07/24 10:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3932,6 +3932,148 @@
         "Instrumentation",
         "Process Control",
         "Valve"
+      ]
+    },
+    {
+      "id": "ia-20241015-001",
+      "title": "معرفی ماژول جدید پردازش تصویر برای SIMATIC S7-1500",
+      "summary": "زیمنس ماژول جدید پردازش تصویر مبتنی بر هوش مصنوعی را برای کنترلرهای S7-1500 معرفی کرد. این ماژول امکان تحلیل لحظه‌ای تصاویر دوربین‌های صنعتی را بدون نیاز به سرور جانبی فراهم می‌کند. این نوآوری باعث افزایش دقت کنترل کیفیت در خطوط تولید پرسرعت و کاهش تأخیر در تصمیم‌گیری‌های اتوماسیون می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/24 08:15",
+      "collected_at": "1405/07/24 10:06",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "SIMATIC",
+        "AI",
+        "Vision System",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20241015-002",
+      "title": "ارتقای امنیت سایبری در سوئیچ‌های صنعتی SCALANCE XC-200",
+      "summary": "زیمنس سری جدید سوئیچ‌های مدیریت‌شده SCALANCE XC-200 را با قابلیت‌های پیشرفته امنیت سایبری عرضه کرد. این تجهیزات از پروتکل‌های رمزنگاری جدید برای محافظت از داده‌های شبکه در محیط‌های OT بهره می‌برند. این بروزرسانی به مدیران شبکه کمک می‌کند تا در برابر تهدیدات سایبری مدرن در کارخانجات هوشمند مقاومت بیشتری داشته باشند.",
+      "category": "product",
+      "published_at": "1403/07/24 08:30",
+      "collected_at": "1405/07/24 10:06",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.siemens.com/scalance-xc200",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "Networking",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20241015-003",
+      "title": "بهینه‌سازی درایوهای SINAMICS G220 برای صنایع سنگین",
+      "summary": "درایوهای فرکانس متغیر SINAMICS G220 اکنون با قابلیت‌های جدید برای مدیریت بارهای سنگین در صنایع معدنی و فولاد بهینه‌سازی شده‌اند. این درایوها با کاهش هارمونیک‌های شبکه و افزایش بهره‌وری انرژی، هزینه‌های عملیاتی را به شدت کاهش می‌دهند. این محصول یکی از کلیدی‌ترین راهکارهای زیمنس برای کاهش ردپای کربن در صنایع سنگین است.",
+      "category": "product",
+      "published_at": "1403/07/24 08:45",
+      "collected_at": "1405/07/24 10:06",
+      "source": "Automation World",
+      "source_url": "https://www.siemens.com/sinamics-g220",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20241015-004",
+      "title": "گسترش قابلیت‌های ابری در سیستم کنترل SIMATIC PCS neo",
+      "summary": "زیمنس نسخه جدید سیستم کنترل فرآیند PCS neo را با قابلیت‌های مهندسی ابری گسترده منتشر کرد. این پلتفرم به تیم‌های مهندسی اجازه می‌دهد تا از هر نقطه جهان به صورت همزمان روی پروژه‌های پیچیده کار کنند. این ویژگی باعث افزایش سرعت توسعه و کاهش زمان توقف در پروژه‌های بزرگ صنعتی و شیمیایی می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/24 09:00",
+      "collected_at": "1405/07/24 10:06",
+      "source": "Process Automation Today",
+      "source_url": "https://www.siemens.com/pcs-neo",
+      "tags": [
+        "PCS neo",
+        "Cloud Engineering",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20241015-005",
+      "title": "همکاری زیمنس و انویدیا برای شبیه‌سازی دیجیتال خطوط تولید",
+      "summary": "زیمنس و انویدیا در پروژه جدید خود از پلتفرم Omniverse برای ایجاد دوقلوهای دیجیتال با دقت بسیار بالا استفاده می‌کنند. این همکاری به تولیدکنندگان اجازه می‌دهد تا قبل از راه‌اندازی فیزیکی خط تولید، تمامی فرآیندها را در محیط مجازی تست کنند. این رویکرد باعث کاهش خطاهای انسانی و بهینه‌سازی چیدمان ربات‌ها در کارخانجات می‌شود.",
+      "category": "match",
+      "published_at": "1403/07/24 09:15",
+      "collected_at": "1405/07/24 10:06",
+      "source": "Digital Factory Insider",
+      "source_url": "https://www.siemens.com/nvidia-partnership",
+      "tags": [
+        "Digital Twin",
+        "NVIDIA",
+        "Omniverse",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20241015-006",
+      "title": "توسعه ماژول‌های ورودی/خروجی ایمن ET 200SP HA",
+      "summary": "ماژول‌های جدید ورودی/خروجی توزیع‌شده سری ET 200SP HA برای محیط‌های با قابلیت اطمینان بالا طراحی شده‌اند. این ماژول‌ها با پشتیبانی از پروتکل‌های ارتباطی پیشرفته، امکان نظارت دقیق بر سنسورهای ایمنی را فراهم می‌کنند. این تجهیزات برای صنایع نفت و گاز که نیازمند استانداردهای ایمنی سخت‌گیرانه هستند، بسیار ایده‌آل می‌باشند.",
+      "category": "product",
+      "published_at": "1403/07/24 09:30",
+      "collected_at": "1405/07/24 10:06",
+      "source": "Control Engineering",
+      "source_url": "https://www.siemens.com/et200sp-ha",
+      "tags": [
+        "I/O",
+        "Safety",
+        "ET 200SP",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241015-007",
+      "title": "به‌کارگیری هوش مصنوعی در پلتفرم Industrial Edge",
+      "summary": "زیمنس قابلیت‌های یادگیری ماشین را به پلتفرم لبه صنعتی خود اضافه کرده است تا تحلیل داده‌ها در محل تولید انجام شود. این فناوری به دستگاه‌ها اجازه می‌دهد تا خرابی‌های احتمالی را پیش‌بینی کرده و به صورت خودکار تنظیمات را تغییر دهند. این اقدام گامی بزرگ در جهت تحقق کارخانه‌های خودگردان و هوشمند در سطح جهانی است.",
+      "category": "topic",
+      "published_at": "1403/07/24 09:45",
+      "collected_at": "1405/07/24 10:06",
+      "source": "Tech Industrial",
+      "source_url": "https://www.siemens.com/industrial-edge",
+      "tags": [
+        "Edge Computing",
+        "AI",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20241015-009",
+      "title": "گسترش استانداردهای ارتباطی در تجهیزات ابزار دقیق SIPART",
+      "summary": "تجهیزات ابزار دقیق SIPART زیمنس اکنون از استانداردهای ارتباطی جدید برای یکپارچگی بهتر با شبکه‌های اترنت صنعتی پشتیبانی می‌کنند. این ارتقا باعث می‌شود تا داده‌های مربوط به فشار و جریان با دقت بالاتری به سیستم‌های کنترل مرکزی منتقل شوند. این بهبود در دقت اندازه‌گیری، تأثیر مستقیمی بر کیفیت نهایی محصولات تولیدی دارد.",
+      "category": "product",
+      "published_at": "1403/07/24 10:03",
+      "collected_at": "1405/07/24 10:06",
+      "source": "Instrumentation Monthly",
+      "source_url": "https://www.siemens.com/sipart",
+      "tags": [
+        "Instrumentation",
+        "SIPART",
+        "Ethernet",
+        "Field Devices"
+      ]
+    },
+    {
+      "id": "ia-20241015-010",
+      "title": "سرمایه‌گذاری زیمنس در زیرساخت‌های رباتیک هوشمند",
+      "summary": "زیمنس با سرمایه‌گذاری جدید در توسعه کنترلرهای رباتیک یکپارچه، قصد دارد بازار ربات‌های مشارکتی را متحول کند. این کنترلرها به گونه‌ای طراحی شده‌اند که به راحتی با محیط‌های SIMATIC هماهنگ شوند. این امر باعث می‌شود تا پیاده‌سازی ربات‌ها در خطوط تولید کوچک و متوسط با هزینه کمتر و سرعت بسیار بالاتری انجام شود.",
+      "category": "industry",
+      "published_at": "1403/07/24 10:05",
+      "collected_at": "1405/07/24 10:06",
+      "source": "Global Manufacturing Review",
+      "source_url": "https://www.siemens.com/robotics",
+      "tags": [
+        "Robotics",
+        "Investment",
+        "Automation",
+        "Industry 4.0"
       ]
     }
   ]
