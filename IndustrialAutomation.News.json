@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 317,
+  "count": 327,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 13:03",
+  "updated_at": "1405/07/24 13:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5015,6 +5015,166 @@
         "Insights Hub",
         "Cloud",
         "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "عرضه ماژول‌های ارتباطی فیبر نوری برای سری SIMATIC S7-1500",
+      "summary": "شرکت زیمنس ماژول‌های ارتباطی جدیدی را برای کنترلرهای SIMATIC S7-1500 معرفی کرد که از بستر فیبر نوری با سرعت بالا پشتیبانی می‌کنند. این ماژول‌ها امکان تبادل داده در محیط‌های صنعتی وسیع و مستعد نویز الکترومغناطیسی را با بالاترین پایداری فراهم می‌سازند. این توسعه به مهندسان اتوماسیون اجازه می‌دهد تا شبکه‌های صنعتی امن‌تر و با برد بسیار طولانی‌تر طراحی کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 08:15",
+      "collected_at": "1405/07/24 13:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s71500-fiber-optic",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Industrial Network",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های امنیتی در تجهیزات شبکه صنعتی SCALANCE X",
+      "summary": "نسخه جدید سوییچ‌های صنعتی سری SCALANCE X زیمنس با پروتکل‌های رمزنگاری پیشرفته برای محافظت از شبکه‌های OT عرضه شد. این تجهیزات به مدیران شبکه کارخانه کمک می‌کنند تا در برابر تهدیدات سایبری نوظهور و دسترسی‌های غیرمجاز دفاع بهتری داشته باشند. اجرای این استانداردها نقش کلیدی در حفظ پیوستگی تولید و جلوگیری از توقف خطوط ساخت دارد.",
+      "category": "news",
+      "published_at": "1405/07/24 09:00",
+      "collected_at": "1405/07/24 13:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/scalance-x-cybersecurity-update",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "OT Security",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهبود پایش ارتعاشات ماشین‌آلات سنگین با ماژول‌های SM 1281",
+      "summary": "ماژول پردازش ارتعاش SM 1281 زیمنس برای کنترلرهای SIMATIC S7-1200 قابلیت‌های تشخیص زودهنگام خرابی را در پمپ‌ها و الکتروموتورها تقویت کرده است. این ماژول با تحلیل مداوم داده‌های مکانیکی، از خرابی‌های ناگهانی جلوگیری نموده و هزینه‌های تعمیرات اضطراری را به شدت کاهش می‌دهد. صنایع سنگین از این ابزار برای افزایش اثربخشی کلی تجهیزات بهره می‌برند.",
+      "category": "product",
+      "published_at": "1405/07/24 09:30",
+      "collected_at": "1405/07/24 13:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-sm1281-vibration-monitoring",
+      "tags": [
+        "SIMATIC S7-1200",
+        "Predictive Maintenance",
+        "Sensors",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "توسعه قابلیت‌های گزارش‌گیری خودکار در نرم‌افزار WinCC Unified V19",
+      "summary": "آپدیت جدید نرم‌افزار مانیتورینگ WinCC Unified V19 ابزارهای پیشرفته‌ای را برای تولید گزارش‌های مصرف انرژی و راندمان تولید ارائه می‌دهد. اپراتورهای اتاق کنترل اکنون می‌توانند داشبوردهای تحلیلی سفارشی‌سازی شده را بدون نیاز به برنامه‌نویسی پیچیده ایجاد کنند. این ویژگی تصمیم‌گیری مدیریتی را بر اساس داده‌های لحظه‌ای خطوط تولید سرعت می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/24 10:00",
+      "collected_at": "1405/07/24 13:05",
+      "source": "Automation Insights",
+      "source_url": "https://www.automationinsights.org/wincc-unified-v19-reporting",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "استفاده از هوش مصنوعی لبه در بهینه‌سازی کورهan صنعتی",
+      "summary": "شرکت زیمنس با استفاده از پلتفرم Industrial Edge و ماژول‌های پردازشی جدید، الگوریتم‌های هوش مصنوعی را برای کنترل بهینه کوره‌های پخت سیمان پیاده‌سازی کرد. این راهکار هوشمند میزان مصرف سوخت را تا هشت درصد کاهش داده و کیفیت محصول نهایی را تثبیت می‌کند. این پروژه نشان‌دهنده توانمندی لبه صنعتی در حل چالش‌های پیچیده فرآیندی است.",
+      "category": "industry",
+      "published_at": "1405/07/24 10:30",
+      "collected_at": "1405/07/24 13:05",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-industrial-edge-ai-furnaces",
+      "tags": [
+        "Industrial Edge",
+        "Artificial Intelligence",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "گسترش سبد محصولات ابزار دقیق با فرستنده‌های فشار SITRANS P320",
+      "summary": "تجهیزات اندازه گیری فشار SITRANS P320 زیمنس با گواهی‌های ایمنی یکپارچه SIL2 برای صنایع نفت و گاز توسعه یافته‌اند. این فرستنده‌ها پایداری اندازه‌گیری بالایی را در شرایط سخت دمایی و فشار بالا از خود نشان می‌دهند. این امر ایمنی فرآیندهای شیمیایی خطرناک را به طور چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 11:00",
+      "collected_at": "1405/07/24 13:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/sitrans-p320-pressure-transmitters",
+      "tags": [
+        "SITRANS",
+        "Instrumentation",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "بهینه‌سازی مصرف توان در سیستم‌های نوار نقاله با درایوهای SINAMICS G120P",
+      "summary": "درایوهای فرکانس متغیر SINAMICS G120P زیمنس با الگوریتم‌های کنترلی جدید برای مدیریت بار در سیستم‌های انتقال مواد بهینه‌سازی شدند. این سری از درایوها تلفات حرارتی را کاهش داده و طول عمر موتورهای الکتریکی را افزایش می‌دهند. این راهکار به کارخانجات بسته‌بندی کمک می‌کند تا هزینه‌های عملیاتی خود را به حداقل برسانند.",
+      "category": "product",
+      "published_at": "1405/07/24 11:30",
+      "collected_at": "1405/07/24 13:05",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/sinamics-g120p-conveyor-optimization",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Saving",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه ماژول‌های ایمنی پیشرفته برای شبکه PROFIsafe در محیط‌های خطرناک",
+      "summary": "زیمنس ماژول‌های I/O ایمنی جدیدی را بر پایه پروتکل PROFIsafe برای اتصالات توزیع‌شده کارگاهی معرفی کرد که دارای استانداردهای ATEX هستند. این تجهیزات امکان اجرای توقف اضطراری را در زون‌های مستعد انفجار صنایع نفت، گاز و پتروشیمی با بالاترین اطمینان فراهم می‌کنند. این ماژول‌ها استانداردهای ایمنی اپراتورها را در محیط‌های پرخطر به شدت ارتقا می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/24 12:00",
+      "collected_at": "1405/07/24 13:05",
+      "source": "Hazardous Areas",
+      "source_url": "https://www.hazardousareas.com/siemens-profisafe-atex-modules",
+      "tags": [
+        "PROFIsafe",
+        "Safety Integrated",
+        "Explosion Protection",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای توسعه الگوریتم‌های کنترل پیش‌بین",
+      "summary": "پروژه پژوهشی مشترکی میان زیمنس و محققان دانشگاه فنی مونیخ برای توسعه کنترل‌کننده‌های پیش‌بین مبتنی بر مدل در پلتفرم TIA Portal آغاز شد. این پژوهش قصد دارد زمان پاسخ‌دهی سیستم‌های اتوماسیون را در خطوط رباتیک سریع به طور محسوسی بهبود بخشد. نتایج این تحقیق به زودی در بسته‌های نرم‌افزاری مهندسی این شرکت ادغام خواهد شد.",
+      "category": "research",
+      "published_at": "1405/07/24 12:30",
+      "collected_at": "1405/07/24 13:05",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.industrialautomation.news/siemens-tum-mpc-research",
+      "tags": [
+        "Research",
+        "TIA Portal",
+        "Control Systems",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش کاربرد ربات‌های مشارکتی با پلتفرم SIMATIC Robot Integrator",
+      "summary": "نسخه به‌روزرسانی‌شده SIMATIC Robot Integrator زیمنس امکان اتصال آسان انواع بازوهای رباتیک برندهای مختلف را به کنترلرهای سیماتیک فراهم ساخت. این نرم‌افزار مهندسی زمان لازم برای راه‌اندازی سلول‌های رباتیک را در خطوط مونتاژ الکترونیک تا پنجاه درصد کاهش می‌دهد. این رویکرد انعطاف‌پذیری کارخانجات را در تولید سفارشی محصولات افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 13:00",
+      "collected_at": "1405/07/24 13:05",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-simatic-robot-integrator-update",
+      "tags": [
+        "Robotics",
+        "SIMATIC",
+        "Automation",
+        "Siemens"
       ]
     }
   ]
