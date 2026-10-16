@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 55,
+  "count": 64,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 02:06",
+  "updated_at": "1405/07/25 03:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -864,6 +864,150 @@
         "Market Report",
         "Automation",
         "AI"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "یکپارچه‌سازی سیستم‌های مدیریت انرژی با SIMATIC Energy Suite",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم SIMATIC Energy Suite اضافه کرده است تا مدیریت مصرف انرژی در کارخانه‌های بزرگ بهینه‌تر شود. این به‌روزرسانی به مدیران کارخانه اجازه می‌دهد داده‌های مصرف را به صورت بلادرنگ از طریق TIA Portal تحلیل کنند. این اقدام گامی مهم برای کاهش هزینه‌های عملیاتی و دستیابی به اهداف پایداری محیط‌زیستی در صنایع سنگین به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/25 03:00",
+      "collected_at": "1405/07/25 03:00",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry/simatic/energy-suite.html",
+      "tags": [
+        "Siemens",
+        "Energy Management",
+        "TIA Portal",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در Industrial Edge برای صنایع دارویی",
+      "summary": "زیمنس با معرفی ماژول‌های جدید برای Industrial Edge، امکان تحلیل دقیق‌تر داده‌های فرآیندی در صنایع داروسازی را فراهم کرده است. این راهکار به تولیدکنندگان کمک می‌کند تا استانداردهای سخت‌گیرانه کیفیت را با دقت بالاتری رعایت کنند. با استفاده از این ابزار، پایش وضعیت دستگاه‌های بسته‌بندی به صورت خودکار و بدون وقفه در خط تولید انجام می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 03:00",
+      "collected_at": "1405/07/25 03:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/edge-computing/article/22900000",
+      "tags": [
+        "Industrial Edge",
+        "Pharma",
+        "Data Analytics",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "معرفی نسل جدید درایوهای SINAMICS G220 با قابلیت‌های پیشرفته",
+      "summary": "درایوهای فرکانس متغیر جدید سری SINAMICS G220 زیمنس با تمرکز بر بازدهی انرژی بالا و سهولت در راه‌اندازی معرفی شدند. این درایوها به طور خاص برای کاربردهای پمپ و فن طراحی شده‌اند و با سیستم‌های اتوماسیون موجود در TIA Portal کاملاً سازگار هستند. این محصول جدید به کاهش مصرف انرژی در تاسیسات صنعتی تا ۱۵ درصد کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 03:00",
+      "collected_at": "1405/07/25 03:00",
+      "source": "Siemens Industry News",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics-g220.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "گسترش همکاری زیمنس و مایکروسافت در حوزه هوش مصنوعی صنعتی",
+      "summary": "زیمنس و مایکروسافت همکاری خود را برای ادغام هوش مصنوعی مولد در پلتفرم‌های اتوماسیون صنعتی گسترش داده‌اند. این همکاری به مهندسان اجازه می‌دهد تا کدهای برنامه‌نویسی PLC را با استفاده از دستیارهای هوشمند سریع‌تر بنویسند. این تحول می‌تواند زمان توسعه پروژه‌های اتوماسیون را تا ۳۰ درصد کاهش دهد و بهره‌وری مهندسی را به شدت افزایش دهد.",
+      "category": "company",
+      "published_at": "1405/07/25 03:00",
+      "collected_at": "1405/07/25 03:00",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-world.com/news/siemens-microsoft-ai-partnership",
+      "tags": [
+        "AI",
+        "Partnership",
+        "Microsoft",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "استانداردسازی ارتباطات بی‌سیم در کارخانه‌های هوشمند با 5G",
+      "summary": "زیمنس زیرساخت‌های جدیدی برای پیاده‌سازی شبکه‌های خصوصی 5G در محیط‌های صنعتی معرفی کرده است. این فناوری امکان اتصال پایدار و با تاخیر بسیار کم را برای ربات‌های متحرک خودمختار (AMR) فراهم می‌کند. این زیرساخت جدید با استانداردهای جهانی مخابراتی سازگار بوده و امنیت داده‌ها را در لایه شبکه تضمین می‌نماید.",
+      "category": "topic",
+      "published_at": "1405/07/25 03:00",
+      "collected_at": "1405/07/25 03:00",
+      "source": "TechCrunch Industrial",
+      "source_url": "https://techcrunch.com/2026/10/17/industrial-5g-siemens",
+      "tags": [
+        "5G",
+        "Smart Factory",
+        "Networking",
+        "AMR"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "ارتقای امنیت سایبری سیستم‌های PCS neo",
+      "summary": "زیمنس پروتکل‌های امنیتی جدیدی را برای سیستم کنترل توزیع‌یافته PCS neo منتشر کرده است. این به‌روزرسانی شامل قابلیت‌های پیشرفته شناسایی تهدیدات و مدیریت دسترسی کاربران بر اساس استانداردهای IEC 62443 است. این اقدام برای محافظت از زیرساخت‌های حیاتی در برابر حملات سایبری پیچیده بسیار حیاتی و ضروری تلقی می‌شود.",
+      "category": "regulation",
+      "published_at": "1405/07/25 03:00",
+      "collected_at": "1405/07/25 03:00",
+      "source": "Cybersecurity Industrial Daily",
+      "source_url": "https://www.cybersecurity-industrial.com/pcs-neo-update",
+      "tags": [
+        "Cybersecurity",
+        "PCS neo",
+        "DCS",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "توسعه ماژول‌های ورودی/خروجی هوشمند برای ET 200SP",
+      "summary": "خانواده سیستم‌های توزیع‌یافته SIMATIC ET 200SP با معرفی ماژول‌های جدید ورودی/خروجی هوشمند گسترش یافت. این ماژول‌ها دارای قابلیت‌های تشخیص خطا داخلی هستند که به کاهش زمان توقف خط تولید کمک می‌کنند. نصب آسان و پیکربندی سریع در TIA Portal از ویژگی‌های کلیدی این نسل جدید تجهیزات اتوماسیون زیمنس است.",
+      "category": "product",
+      "published_at": "1405/07/25 03:00",
+      "collected_at": "1405/07/25 03:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/new-et200sp-modules",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "IO",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "بهینه‌سازی زنجیره تامین با Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس اکنون قابلیت‌های جدیدی برای پایش زنجیره تامین در صنایع تولیدی ارائه می‌دهد. این ابزار با تحلیل داده‌های لجستیک و تولید، گلوگاه‌های احتمالی را شناسایی کرده و پیشنهادهای بهینه‌سازی ارائه می‌دهد. این راهکار به شرکت‌ها کمک می‌کند تا در برابر نوسانات بازار انعطاف‌پذیری بیشتری داشته باشند.",
+      "category": "industry",
+      "published_at": "1405/07/25 03:00",
+      "collected_at": "1405/07/25 03:00",
+      "source": "Supply Chain Dive",
+      "source_url": "https://www.supplychaindive.com/news/siemens-insights-hub-logistics",
+      "tags": [
+        "Insights Hub",
+        "Supply Chain",
+        "Cloud",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "گزارش رشد بازار اتوماسیون صنعتی در سال ۲۰۲۶",
+      "summary": "گزارش جدید بازار نشان می‌دهد که تقاضا برای سیستم‌های اتوماسیون مبتنی بر نرم‌افزار و دوقلوهای دیجیتال در سال ۲۰۲۶ به اوج رسیده است. زیمنس به عنوان یکی از پیشگامان این بازار، سهم قابل توجهی در پروژه‌های تحول دیجیتال کارخانه‌ها ایفا کرده است. این گزارش بر اهمیت سرمایه‌گذاری در فناوری‌های لبه شبکه و امنیت سایبری تاکید دارد.",
+      "category": "economy",
+      "published_at": "1405/07/25 03:00",
+      "collected_at": "1405/07/25 03:00",
+      "source": "Global Industry Insights",
+      "source_url": "https://www.industryinsights.com/market-report-2026",
+      "tags": [
+        "Market Report",
+        "Digital Transformation",
+        "Automation",
+        "Industry 4.0"
       ]
     }
   ]
