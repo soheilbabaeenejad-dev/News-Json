@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 197,
+  "count": 206,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/24 08:01",
+  "updated_at": "1405/07/24 08:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3112,6 +3112,148 @@
         "PCS neo",
         "DCS",
         "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20241015-001",
+      "title": "معرفی ماژول‌های جدید پردازش تصویر مبتنی بر هوش مصنوعی برای SIMATIC S7-1500",
+      "summary": "زیمنس از ماژول‌های جدید پردازش تصویر برای کنترلرهای سری SIMATIC S7-1500 رونمایی کرد که امکان تحلیل بلادرنگ داده‌های بصری را فراهم می‌کند. این فناوری با کاهش تأخیر در خطوط تولید، دقت بازرسی کیفی را به شدت افزایش می‌دهد. این ماژول‌ها مستقیماً با محیط TIA Portal یکپارچه شده و نصب آن‌ها را برای مهندسان اتوماسیون تسهیل می‌نماید.",
+      "category": "product",
+      "published_at": "1403/07/24 07:15",
+      "collected_at": "1405/07/24 08:03",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "SIMATIC",
+        "AI",
+        "Machine Vision",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241015-002",
+      "title": "توسعه قابلیت‌های ارتباطی در سوئیچ‌های صنعتی SCALANCE سری XC-200",
+      "summary": "شرکت زیمنس با ارتقای سوئیچ‌های صنعتی SCALANCE XC-200، پشتیبانی از پروتکل‌های پیشرفته TSN را برای شبکه‌های حساس به زمان فراهم کرده است. این تجهیزات جدید امنیت شبکه را در لایه OT تقویت کرده و پایداری ارتباطات در محیط‌های پرنویز کارخانه‌ای را تضمین می‌کنند. این اقدام گامی مهم برای تحقق استانداردهای Industry 4.0 در کارخانه‌های هوشمند است.",
+      "category": "product",
+      "published_at": "1403/07/24 07:20",
+      "collected_at": "1405/07/24 08:03",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industrial-communication/industrial-ethernet/scalance-x.html",
+      "tags": [
+        "SCALANCE",
+        "Networking",
+        "OT Security",
+        "TSN"
+      ]
+    },
+    {
+      "id": "ia-20241015-004",
+      "title": "همکاری زیمنس و انویدیا برای شبیه‌سازی دیجیتال در خطوط تولید خودرو",
+      "summary": "زیمنس و انویدیا با توسعه پلتفرم متاورس صنعتی، امکان شبیه‌سازی دقیق خطوط تولید خودرو را پیش از ساخت واقعی فراهم کردند. این همکاری از طریق دوقلوهای دیجیتال در محیط NVIDIA Omniverse انجام می‌شود که با نرم‌افزارهای مهندسی زیمنس همگام‌سازی شده است. این فناوری زمان راه‌اندازی خطوط تولید جدید را تا ۳۰ درصد کاهش می‌دهد.",
+      "category": "company",
+      "published_at": "1403/07/24 07:30",
+      "collected_at": "1405/07/24 08:03",
+      "source": "TechCrunch",
+      "source_url": "https://www.siemens.com/global/en/company/stories/industry/nvidia-partnership.html",
+      "tags": [
+        "Digital Twin",
+        "NVIDIA",
+        "Metaverse",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20241015-005",
+      "title": "ارتقای امنیت سایبری در سیستم‌های کنترل توزیع‌شده با SIMATIC PCS neo",
+      "summary": "زیمنس نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo را با تمرکز بر امنیت سایبری چندلایه منتشر کرد. این نسخه شامل ابزارهای رمزنگاری پیشرفته برای ارتباطات بین کنترلر و ایستگاه‌های مهندسی است که از حملات سایبری در شبکه‌های OT جلوگیری می‌کند. این سیستم به ویژه برای صنایع نفت، گاز و شیمیایی طراحی شده است.",
+      "category": "product",
+      "published_at": "1403/07/24 07:35",
+      "collected_at": "1405/07/24 08:03",
+      "source": "Control Global",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-control/simatic-pcs-neo.html",
+      "tags": [
+        "PCS neo",
+        "Cybersecurity",
+        "Process Control",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20241015-006",
+      "title": "گسترش قابلیت‌های پلتفرم Industrial Edge با اپلیکیشن‌های جدید تحلیل داده",
+      "summary": "پلتفرم لبه صنعتی زیمنس اکنون با اپلیکیشن‌های جدید تحلیل داده‌های بلادرنگ عرضه می‌شود که به مدیران کارخانه اجازه می‌دهد عملکرد تجهیزات را در لحظه پایش کنند. این اپلیکیشن‌ها با استفاده از الگوریتم‌های یادگیری ماشین، خرابی‌های احتمالی را پیش‌بینی کرده و به کاهش توقفات ناخواسته کمک می‌کنند. این راهکار با تمامی سخت‌افزارهای SIMATIC سازگار است.",
+      "category": "product",
+      "published_at": "1403/07/24 07:40",
+      "collected_at": "1405/07/24 08:03",
+      "source": "Automation.com",
+      "source_url": "https://new.siemens.com/global/en/products/automation/topic-areas/industrial-edge.html",
+      "tags": [
+        "Industrial Edge",
+        "Data Analytics",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20241015-007",
+      "title": "توسعه ماژول‌های ایمنی جدید برای شبکه PROFIBUS و PROFINET",
+      "summary": "زیمنس ماژول‌های ایمنی جدیدی را برای سری SIMATIC ET 200SP معرفی کرد که استانداردهای ایمنی SIL 3 را پوشش می‌دهند. این ماژول‌ها با پروتکل‌های ارتباطی PROFIBUS و PROFINET کاملاً سازگار بوده و امکان پیاده‌سازی سریع سیستم‌های ایمنی یکپارچه را فراهم می‌کنند. این تجهیزات برای محیط‌های کاری پرخطر و صنایع سنگین ایده‌آل هستند.",
+      "category": "product",
+      "published_at": "1403/07/24 07:45",
+      "collected_at": "1405/07/24 08:03",
+      "source": "Safety Systems Journal",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/io-systems/simatic-et200sp.html",
+      "tags": [
+        "Safety",
+        "PROFIBUS",
+        "PROFINET",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20241015-008",
+      "title": "بهبود دقت ابزار دقیق با فرستنده‌های هوشمند SIPART PS100",
+      "summary": "فرستنده‌های جدید SIPART PS100 زیمنس با قابلیت کالیبراسیون خودکار، دقت اندازه‌گیری جریان و فشار را در فرآیندهای صنعتی به سطح جدیدی رسانده‌اند. این تجهیزات از طریق پروتکل‌های دیجیتال به سیستم‌های مانیتورینگ متصل شده و داده‌های دقیقی را برای تحلیل ارائه می‌دهند. استفاده از این سنسورها باعث کاهش خطاهای انسانی در تنظیمات اولیه می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/24 07:50",
+      "collected_at": "1405/07/24 08:03",
+      "source": "Instrumentation News",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-instrumentation/positioners/sipart.html",
+      "tags": [
+        "SIPART",
+        "Instrumentation",
+        "Sensors",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20241015-009",
+      "title": "نقش پلتفرم Insights Hub در پایش پایداری مصرف انرژی در کارخانجات",
+      "summary": "پلتفرم Insights Hub زیمنس اکنون با داشبوردهای جدید پایداری به صنایع کمک می‌کند تا ردپای کربنی خود را به دقت محاسبه و مدیریت کنند. این ابزار با جمع‌آوری داده‌های انرژی از تمامی تجهیزات متصل به شبکه، نقاط اتلاف انرژی را شناسایی کرده و راهکارهای بهینه‌سازی ارائه می‌دهد. این سیستم در حال حاضر در چندین کارخانه بزرگ اروپایی پیاده‌سازی شده است.",
+      "category": "industry",
+      "published_at": "1403/07/24 07:55",
+      "collected_at": "1405/07/24 08:03",
+      "source": "Sustainability Tech",
+      "source_url": "https://new.siemens.com/global/en/products/software/mindsphere.html",
+      "tags": [
+        "Insights Hub",
+        "Sustainability",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20241015-010",
+      "title": "ارتقای نرم‌افزار مهندسی TIA Portal برای خودکارسازی تست کدهای PLC",
+      "summary": "نسخه جدید TIA Portal اکنون شامل ابزارهای پیشرفته برای تست خودکار کدهای PLC است که خطاهای برنامه‌نویسی را قبل از اجرا در خط تولید شناسایی می‌کند. این ویژگی جدید سرعت توسعه پروژه‌های اتوماسیون را افزایش داده و کیفیت نرم‌افزار را تضمین می‌نماید. این ابزار برای تیم‌های مهندسی بزرگ که با پروژه‌های پیچیده سروکار دارند بسیار کارآمد است.",
+      "category": "product",
+      "published_at": "1403/07/24 08:00",
+      "collected_at": "1405/07/24 08:03",
+      "source": "Automation Engineering",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html",
+      "tags": [
+        "TIA Portal",
+        "PLC",
+        "Automation",
+        "Software Engineering"
       ]
     }
   ]
