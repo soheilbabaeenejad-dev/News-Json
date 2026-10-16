@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 307,
+  "count": 317,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/24 13:00",
+  "updated_at": "1405/07/24 13:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4855,6 +4855,166 @@
         "Cloud",
         "Digital Twin",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo با ابزار مهندسی مبتنی بر وب",
+      "summary": "شرکت زیمنس نسخه به‌روزرسانی شده سیستم کنترل فرآیند SIMATIC PCS neo را با قابلیت‌های پیشرفته مهندسی تحت وب معرفی کرد. این نسخه جدید به مهندسان اجازه می‌دهد تا از هر نقطه‌ای در جهان به پروژه‌های صنعتی دسترسی داشته باشند و همکاری تیمی را به طور چشمگیری افزایش دهند. به‌کارگیری این فناوری مدرن، زمان راه‌اندازی خطوط تولید صنایع شیمیایی و دارویی را تا بیست درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 08:30",
+      "collected_at": "1405/07/24 13:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/process-control/simatic-pcs-neo-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم Industrial Edge زیمنس با هوش مصنوعی",
+      "summary": "پلتفرم لبه صنعتی زیمنس اکنون به بسته‌های نرم‌افزاری جدیدی برای تحلیل هوش مصنوعی داده‌های زمان واقعی مجهز شده است. این قابلیت‌ها به اپراتورهای کارخانه کمک می‌کند تا anomalies را پیش از توقف خط تولید شناسایی کنند. این ماژول‌های جدید روی سخت‌افزارهای SIMATIC IPC نصب شده و امنیت داده‌ها را در لبه شبکه تضمین می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/24 09:15",
+      "collected_at": "1405/07/24 13:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/industrial-edge-ai-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "SIMATIC IPC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای امنیت تجهیزات شبکه صنعتی با سویچ‌های مدیریت‌شده نسل جدید SCALANCE",
+      "summary": "زیمنس خط تولید سویچ‌های شبکه صنعتی SCALANCE را برای مقابله با تهدیدات سایبری روزافزون در محیط‌های OT ارتقا داد. این تجهیزات جدید از پروتکل‌های رمزنگاری پیشرفته و استانداردهای سخت‌گیرانه IEC 62443 پشتیبانی می‌کنند. استفاده از این سویچ‌ها در خطوط مونتاژ خودکار، ایمنی ارتباطات بین PLCها و اتاق کنترل را گارانتی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 09:45",
+      "collected_at": "1405/07/24 13:03",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-switches",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی در پمپ‌های سنگین با درایورهای صنعتی SINAMICS G220",
+      "summary": "سری جدید اینورترهای SINAMICS G220 زیمنس با هدف کاهش هدررفت انرژی در پمپ‌ها و فن‌های صنعتی به بازار عرضه شدند. این درایوها دارای راندمان انرژی کلاس IE5 بوده و قابلیت اتصال مستقیم به فضای ابری را دارند. به‌کارگیری این تجهیزات در کارخانجات سیمان موجب کاهش پانزده درصدی مصرف برق کل سیستم گردیده است.",
+      "category": "product",
+      "published_at": "1405/07/24 10:10",
+      "collected_at": "1405/07/24 13:03",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/news/article/siemens-sinamics-g220-efficiency",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه ماژول‌های ورودی/خروجی ایمن در سری SIMATIC ET 200SP HA",
+      "summary": "سیستم‌های I/O توزیع‌شده SIMATIC ET 200SP HA زیمنس با ماژول‌های جدید ایمنی ذاتی برای محیط‌های مستعد انفجار توسعه یافتند. این ماژول‌ها طراحی فشرده‌ای داشته و نصب و تعویض آن‌ها در حین کار بدون قطع برق امکان‌پذیر است. این ویژگی باعث به حداقل رسیدن زمان توقف اضطراری در صنایع نفت، گاز و پتروشیمی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 10:40",
+      "collected_at": "1405/07/24 13:03",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/automation/siemens-et200sp-ha",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "I/O Systems",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "نقش نرم‌افزار WinCC Unified V19 در یکپارچه‌سازی مانیتورینگ کارخانجات هوشمند",
+      "summary": "آخرین نسخه نرم‌افزار مانیتورینگ WinCC Unified زیمنس ابزارهای گرافیکی پیشرفته‌تری مبتنی بر فناوری HTML5 در اختیار اپراتورها قرار می‌دهد. این پلتفرم امکان نمایش همزمان داده‌های تولید روی تبلت‌ها و پنل‌های لمسی ثابت را فراهم می‌کند. گزارش‌های دریافتی نشان می‌دهد که این نرم‌افزار توانسته نظارت بر خطوط بسته بندی را بسیار روان‌تر سازد.",
+      "category": "product",
+      "published_at": "1405/07/24 11:05",
+      "collected_at": "1405/07/24 13:03",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/wincc-unified-v19-release",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای پیاده‌سازی رباتیک هوشمند مبتنی بر SIMATIC",
+      "summary": "زیمنس از قرارداد جدید خود با خودروسازان بزرگ برای توسعه خطوط تولید انعطاف‌پذیر با کنترلرهای SIMATIC Robot Integrator خبر داد. این راهکار امکان برنامه‌نویسی و هماهنگ‌سازی بازوهای رباتیک مختلف را از طریق یک رابط واحد فراهم می‌کند. هدف اصلی این پروژه، افزایش سرعت تغییر مدل‌های خودرو در خطوط مونتاژ بدون نیاز به بازطراحی کامل است.",
+      "category": "industry",
+      "published_at": "1405/07/24 11:30",
+      "collected_at": "1405/07/24 13:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-robot-integrator-automotive",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "SIMATIC",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهبود دقت ابزار دقیق با فرستنده‌های دیجیتال جدید خانواده SIPART",
+      "summary": "نسخه جدید فرستنده‌های دیجیتال فشار و دما از سری SIPART زیمنس با دقت اندازه‌گیری بالا معرفی شدند. این تجهیزات مابین فیلد صنعتی و سیستم کنترل ارتباط دیجیتال HART برقرار می‌کنند و خطاهای ناشی از نویز محیطی را خنثی می‌سازند. استفاده از این ابزار دقیق‌ها نقش کلیدی در کنترل دقیق کیفیت در صنایع غذایی دارد.",
+      "category": "product",
+      "published_at": "1405/07/24 11:55",
+      "collected_at": "1405/07/24 13:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sipart-transmitters",
+      "tags": [
+        "Siemens",
+        "SIPART",
+        "Instrumentation",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه کدهای اتوماسیون صنعتی با دستیارهای هوش مصنوعی در محیط TIA Portal",
+      "summary": "تیم مهندسی زیمنس قابلیت‌های جدیدی مبتنی بر هوش مصنوعی مولد را به محیط مهندسی TIA Portal اضافه کرد. این ابزار به برنامه‌نویسان PLC کمک می‌کند تا کدهای ساختاریافته را با سرعت بیشتری نوشته و خطاهای منطقی را عیب‌یابی کنند. این فناوری نوین میانبر بزرگی برای کاهش زمان توسعه پروژه‌های اتوماسیون کارگاهی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/24 12:20",
+      "collected_at": "1405/07/24 13:03",
+      "source": "IEICE Industrial Electronics",
+      "source_url": "https://www.ieice.org/news/siemens-tia-portal-ai-coding",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "PLC Programming",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "پایش پایداری مصرف انرژی در کارخانجات با پلتفرم ابری Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس بسته‌های تحلیلی جدیدی برای محاسبه ردپای کربن و مصرف بهینه آب در کارخانه‌ها ارائه داد. این ابزارها به مدیران کارخانه اجازه می‌دهند تا اهداف پایداری محیط زیستی را به‌صورت آنی رصد و گزارش‌دهی کنند. این نرم‌افزار ابری هم‌اکنون در چندین واحد تولیدی بزرگ فولاد در سراسر اروپا عملیاتی شده است.",
+      "category": "product",
+      "published_at": "1405/07/24 12:50",
+      "collected_at": "1405/07/24 13:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/sustainability/siemens-insights-hub-update",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud",
+        "Sustainability"
       ]
     }
   ]
