@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 197,
+  "count": 207,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 11:04",
+  "updated_at": "1405/07/25 12:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3131,6 +3131,166 @@
         "Siemens Xcelerator",
         "Cloud",
         "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای اتصال امن کنترلرهای SIMATIC S7-1500 به شبکه‌های صنعتی",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید CP 1543-1 برای سری کنترلرهای SIMATIC S7-1500 پرده برداشت. این ماژول پیشرفته با پشتیبانی از پروتکل‌های امنیتی روز و دیواره آتش داخلی، امنیت شبکه‌های صنعتی را به طور چشمگیری افزایش می‌دهد. این محصول به مهندسان کمک می‌کند تا تجهیزات OT را با اطمینان بیشتری به سیستم‌های Enterprise متصل کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:15",
+      "collected_at": "1405/07/25 12:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/new-cp-1543-1-module",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Industrial Security",
+        "Siemens",
+        "Profinet"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پایش انرژی در نسخه جدید TIA Portal V19 SP1",
+      "summary": "آپدیت جدید نرم‌افزار مهندسی TIA Portal V19 SP1 توسط زیمنس منتشر شد که ابزارهای ویژه‌ای برای مدیریت و پایش انرژی ارائه می‌دهد. این نسخه با ساده‌سازی پیکربندی سخت‌افزارهای SIMATIC و درایوهای SINAMICS، سرعت مهندسی را تا بیست درصد افزایش می‌دهد. این ابزار نقش مهمی در کمک به صنایع برای کاهش مصرف انرژی و دستیابی به اهداف پایداری دارد.",
+      "category": "product",
+      "published_at": "1405/07/25 08:45",
+      "collected_at": "1405/07/25 12:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/software/news/siemens-tia-portal-v19-sp1",
+      "tags": [
+        "TIA Portal",
+        "Energy Efficiency",
+        "Siemens",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری زیمنس و SAP برای یکپارچه‌سازی داده‌های تولید با زنجیره تامین",
+      "summary": "زیمنس و شرکت SAP از شراکت راهبردی جدیدی برای اتصال سیستم‌های مدیریت تولید SIMATIC IT به نرم‌افزار ERP شرکت SAP خبر دادند. این یکپارچه‌سازی عمیق به مدیران کارخانه‌ها اجازه می‌دهد تا داده‌های بلادرنگ سالن تولید را مستقیماً به برنامه‌ریزی مالی و لجستیک متصل کنند. این راهکار به کاهش هزینه‌های انبارداری و افزایش چابکی خطوط تولیدی منجر خواهد شد.",
+      "category": "company",
+      "published_at": "1405/07/25 09:10",
+      "collected_at": "1405/07/25 12:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/manufacturing-execution-systems/news/siemens-sap-integration",
+      "tags": [
+        "MES",
+        "SAP",
+        "Supply Chain",
+        "Digital Enterprise"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "رونمایی از نسل جدید سنسورهای فشار SITRANS P500 با دقت اندازه‌گیری بالا",
+      "summary": "محصول جدید خانواده ابزار دقیق زیمنس، سنسور فشار SITRANS P500 با پایداری بلندمدت و دقت بی‌نظیر معرفی شد. این تجهیز برای صنایع پتروشیمی و داروسازی طراحی شده و قابلیت مقاومت در برابر شرایط سخت محیطی را داراست. این سنسور با پروتکل‌های ارتباطی پیشرفته به راحتی با سیستم‌های کنترل توزیع‌یافته (DCS) یکپارچه می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 09:30",
+      "collected_at": "1405/07/25 12:01",
+      "source": "Process Instrumentation",
+      "source_url": "https://www.process-instrumentation.com/sensors/siemens-sitrans-p500",
+      "tags": [
+        "SITRANS",
+        "Instrumentation",
+        "Process Automation",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای سیستم اسکادا WinCC Unified با ابزارهای ویژوال‌سازی سه‌بعدی",
+      "summary": "نسخه جدید پلتفرم SIMATIC WinCC Unified زیمنس قابلیت‌های گرافیکی پیشرفته‌ای را برای نمایش سه‌بعدی فرآیندهای صنعتی اضافه کرده است. اپراتورها اکنون می‌توانند وضعیت ماشین‌آلات و خطوط تولید را به صورت مانیتورینگ دیجیتال و بصری دقیق‌تر کنترل کنند. این قابلیت خطاهای انسانی در اپراتوری کارخانه‌های بزرگ را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:55",
+      "collected_at": "1405/07/25 12:01",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.ie-net.co.uk/news/siemens-wincc-unified-3d",
+      "tags": [
+        "SCADA",
+        "WinCC Unified",
+        "HMI",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "گسترش استفاده از ربات‌های متحرک خودمختار (AMR) با پلتفرم ناوبری زیمنس",
+      "summary": "زیمنس از راهکار جدید خود برای مدیریت ناوگان ربات‌های متحرک خودمختار در لجستیک داخلی کارخانه‌ها رونمایی کرد. این سیستم با استفاده از الگوریتم‌های هوش مصنوعی، مسیر حرکت ربات‌ها را در محیط‌های پویا بهینه‌سازی می‌کند. این فناوری کارایی انتقال مواد اولیه را در خطوط مونتاژ خودکار افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:20",
+      "collected_at": "1405/07/25 12:01",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/article/siemens-autonomous-mobile-robots",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Logistics",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "افزایش بهره‌وری موتورهای الکتریکی با درایوهای دورمتغیر SINAMICS G120X",
+      "summary": "سری درایوهای SINAMICS G120X زیمنس به عنوان راهکاری بهینه برای کاربردهای پمپ و فن در صنایع آب و فاضلاب معرفی شدند. این درایوها با تلفات انرژی بسیار کم و قابلیت راه‌اندازی سریع، استانداردهای جدیدی را در بازار به ثبت رسانده‌اند. استفاده از این تجهیزات نقش کلیدی در کاهش هزینه‌های انرژی تاسیسات صنعتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:40",
+      "collected_at": "1405/07/25 12:01",
+      "source": "Drive & Control",
+      "source_url": "https://www.driveandcontrol.co.uk/news/siemens-sinamics-g120x",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Saving",
+        "Motors"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه مرکز نوآوری تحول دیجیتال زیمنس در منطقه صنعتی مونیخ",
+      "summary": "زیمنس از راه‌اندازی فاز جدید مرکز نوآوری خود با تمرکز بر فناوری‌های لبه (Edge) و ابری در شهر مونیخ خبر داد. این مرکز با هدف توانمندسازی شرکت‌های کوچک و متوسط برای ورود به دنیای صنعت ۴.۰ فعالیت می‌کند. مهندسان در این مکان می‌توانند نمونه‌های اولیه اتوماسیون خود را پیش از پیاده‌سازی واقعی تست کنند.",
+      "category": "company",
+      "published_at": "1405/07/25 11:05",
+      "collected_at": "1405/07/25 12:01",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/technology/siemens-innovation-center-munich",
+      "tags": [
+        "Digitalization",
+        "Industry 4.0",
+        "Industrial Edge",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "پشتیبانی کامل سیستم‌های کنترل توزیع‌یافته PCS neo از استانداردهای جدید امنیت سایبری",
+      "summary": "سیستم کنترل توزیع‌یافته SIMATIC PCS neo زیمنس گواهینامه معتبر امنیت بین‌المللی IEC 62443-4-1 را دریافت کرد. این استاندارد تضمین می‌کند که فرآیند توسعه نرم‌افزار این سیستم از بالاترین سطوح حفاظتی در برابر حملات سایبری برخوردار است. این رویکرد زیرساخت‌های حیاتی فرآیندی را در برابر تهدیدات مدرن ایمن نگه می‌دارد.",
+      "category": "regulation",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 12:01",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-pcs-neo-iec-62443-certification",
+      "tags": [
+        "PCS neo",
+        "Cybersecurity",
+        "DCS",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "ارتقای قابلیت‌های تعمیر و نگهداری پیش‌بینانه با اپلیکیشن‌های جدید Industrial Edge",
+      "summary": "زیمنس مجموعه اپلیکیشن‌های جدیدی را برای پلتفرم Industrial Edge عرضه کرده که ارتعاشات موتورهای صنعتی را تحلیل می‌کنند. این نرم‌افزار با بهره‌گیری از الگوریتم‌های یادگیری ماشین، خرابی‌های احتمالی قطعات را پیش از وقوع هشدار می‌دهد. این راهکار به صنایع کمک می‌کند تا زمان توقف‌های برنامه‌ریزی‌نشده خطوط تولید را به شدت کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:55",
+      "collected_at": "1405/07/25 12:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-predictive-maintenance",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ]
