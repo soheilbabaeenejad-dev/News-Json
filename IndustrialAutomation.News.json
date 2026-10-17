@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 544,
+  "count": 553,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 19:09",
+  "updated_at": "1405/07/25 20:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8640,6 +8640,150 @@
         "SIMATIC",
         "S7-1500",
         "Diagnostics"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش پروتکل‌های امنیتی در SIMATIC S7-1500",
+      "summary": "شرکت زیمنس استانداردهای جدید امنیت سایبری را برای کنترلرهای منطقی برنامه‌پذیر SIMATIC S7-1500 پیاده‌سازی کرده است. این پروتکل‌ها با تمرکز بر احراز هویت چندعاملی و رمزنگاری پیشرفته در سطح سخت‌افزار، از نفوذهای غیرمجاز به شبکه‌های OT جلوگیری می‌کنند. این اقدام گامی مهم برای ایمن‌سازی زیرساخت‌های حیاتی در برابر تهدیدات مدرن است.",
+      "category": "industry",
+      "published_at": "1405/07/25 20:00",
+      "collected_at": "1405/07/25 20:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/security/siemens-s7-1500-updates",
+      "tags": [
+        "Cybersecurity",
+        "SIMATIC",
+        "PLC",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "تحول در پایش انرژی با ماژول‌های جدید ET 200SP",
+      "summary": "ماژول‌های ورودی/خروجی جدید برای سیستم SIMATIC ET 200SP با هدف پایش دقیق مصرف انرژی در خطوط تولید عرضه شدند. این ماژول‌ها به مدیران کارخانه امکان می‌دهند تا داده‌های مصرف برق را با دقت میلی‌ثانیه جمع‌آوری کرده و در پلتفرم Insights Hub تحلیل کنند. این رویکرد به بهینه‌سازی هزینه‌های عملیاتی و کاهش ردپای کربن کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 20:00",
+      "collected_at": "1405/07/25 20:00",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.industry-news.com/siemens-et200sp-energy",
+      "tags": [
+        "Energy Efficiency",
+        "ET 200SP",
+        "Insights Hub",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "همکاری زیمنس و انویدیا برای شبیه‌سازی کارخانه‌های هوشمند",
+      "summary": "زیمنس و انویدیا همکاری خود را در حوزه پلتفرم Omniverse گسترش داده‌اند تا شبیه‌سازی‌های فیزیکی دقیق‌تری را برای کارخانه‌های خودکار فراهم کنند. این همکاری امکان ایجاد دوقلوهای دیجیتال با جزئیات بالا را فراهم می‌آورد که در آن تمامی حرکات رباتیک و جریان‌های تولید به صورت مجازی تست می‌شوند. این امر هزینه‌های راه‌اندازی خطوط تولید را کاهش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/25 20:00",
+      "collected_at": "1405/07/25 20:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/siemens-nvidia-partnership-digital-twin",
+      "tags": [
+        "Digital Twin",
+        "Nvidia",
+        "Omniverse",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "استانداردسازی ارتباطات 5G در محیط‌های صنعتی",
+      "summary": "زیمنس با همکاری اپراتورهای مخابراتی، استانداردهای جدیدی برای پیاده‌سازی شبکه‌های خصوصی 5G در محیط‌های کارخانه‌ای تدوین کرده است. این فناوری امکان اتصال بی‌سیم هزاران سنسور و ربات متحرک را با تأخیر بسیار پایین فراهم می‌کند. این زیرساخت برای پیاده‌سازی سیستم‌های لجستیک هوشمند و ربات‌های خودمختار در مقیاس وسیع ضروری است.",
+      "category": "industry",
+      "published_at": "1405/07/25 20:00",
+      "collected_at": "1405/07/25 20:00",
+      "source": "5G Industry Report",
+      "source_url": "https://www.5g-industry.com/siemens-private-networks",
+      "tags": [
+        "5G",
+        "Industrial Connectivity",
+        "Robotics",
+        "Wireless"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "ارتقای نرم‌افزار TIA Portal برای مهندسی کارآمدتر",
+      "summary": "نسخه جدید نرم‌افزار TIA Portal زیمنس با رابط کاربری بهینه‌شده و ابزارهای خودکارسازی کدنویسی معرفی شد. این نسخه با پشتیبانی از استانداردهای جدید OPC UA، یکپارچه‌سازی سیستم‌های مختلف را تسهیل کرده و زمان مهندسی پروژه‌های اتوماسیون را تا ۳۰ درصد کاهش می‌دهد. این ابزار به مهندسان کمک می‌کند تا پیچیدگی‌های پروژه‌های بزرگ را بهتر مدیریت کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 20:00",
+      "collected_at": "1405/07/25 20:00",
+      "source": "Siemens Software Blog",
+      "source_url": "https://new.siemens.com/global/en/products/automation/tia-portal.html",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Automation",
+        "OPC UA"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "گزارش وضعیت امنیت شبکه‌های صنعتی در نیمه دوم ۲۰۲۶",
+      "summary": "گزارش جدیدی از وضعیت امنیت شبکه‌های صنعتی نشان می‌دهد که حملات باج‌افزاری به سیستم‌های SCADA همچنان در حال افزایش است. زیمنس در این گزارش بر اهمیت استفاده از راهکارهای Industrial Edge برای ایزوله‌سازی داده‌های حساس تأکید کرده است. شرکت‌ها باید با به‌روزرسانی مداوم فریم‌ور تجهیزات خود، در برابر این تهدیدات مقاوم‌تر شوند.",
+      "category": "research",
+      "published_at": "1405/07/25 20:00",
+      "collected_at": "1405/07/25 20:00",
+      "source": "Cybersecurity Insights",
+      "source_url": "https://www.cybersecurity-insights.com/ot-threat-report-2026",
+      "tags": [
+        "Cybersecurity",
+        "SCADA",
+        "Industrial Edge",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "توسعه راهکارهای جدید برای صنایع داروسازی",
+      "summary": "زیمنس راهکارهای اختصاصی برای اتوماسیون فرآیندهای تولید دارو با رعایت استانداردهای FDA معرفی کرد. این سیستم‌ها شامل کنترلرهای SIMATIC با قابلیت ردیابی کامل (Traceability) و سیستم‌های گزارش‌دهی خودکار هستند. این فناوری به تولیدکنندگان دارو کمک می‌کند تا ضمن افزایش سرعت تولید، انطباق کامل با قوانین بهداشتی را تضمین کنند.",
+      "category": "industry",
+      "published_at": "1405/07/25 20:00",
+      "collected_at": "1405/07/25 20:00",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharma-manufacturing.com/siemens-pharma-automation",
+      "tags": [
+        "Pharma",
+        "Automation",
+        "Compliance",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "بهره‌گیری از دوقلوهای دیجیتال در صنایع فولاد",
+      "summary": "استفاده از دوقلوهای دیجیتال در صنایع فولاد برای پیش‌بینی خرابی کوره‌های ذوب به موفقیت‌های چشمگیری دست یافته است. با استفاده از پلتفرم Insights Hub، داده‌های حرارتی و ارتعاشی به صورت لحظه‌ای تحلیل می‌شوند. این روش باعث کاهش ۱۰ درصدی مصرف انرژی و افزایش طول عمر تجهیزات سنگین در کارخانه‌های فولاد شده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 20:00",
+      "collected_at": "1405/07/25 20:00",
+      "source": "Steel Industry Daily",
+      "source_url": "https://www.steel-daily.com/siemens-digital-twin-steel",
+      "tags": [
+        "Steel",
+        "Digital Twin",
+        "Insights Hub",
+        "Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "معرفی نسل جدید فلومترهای هوشمند SITRANS",
+      "summary": "زیمنس نسل جدید فلومترهای هوشمند SITRANS را با قابلیت تشخیص خودکار نشت سیالات رونمایی کرد. این دستگاه‌ها با استفاده از الگوریتم‌های پردازش سیگنال، تغییرات جزئی در جریان را شناسایی کرده و هشدار می‌دهند. این محصول برای صنایع شیمیایی و نفت و گاز که دقت در اندازه‌گیری سیالات اهمیت حیاتی دارد، طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/25 20:00",
+      "collected_at": "1405/07/25 20:00",
+      "source": "Process Automation News",
+      "source_url": "https://www.process-automation.com/siemens-sitrans-flowmeters",
+      "tags": [
+        "SITRANS",
+        "Instrumentation",
+        "Process Control",
+        "Siemens"
       ]
     }
   ]
