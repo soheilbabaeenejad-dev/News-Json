@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 519,
+  "count": 524,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 18:07",
+  "updated_at": "1405/07/25 19:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8257,6 +8257,86 @@
         "Education",
         "Virtual Reality",
         "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع غذایی با نرم‌افزار Insights Hub",
+      "summary": "شرکت زیمنس راهکار جدیدی را برای تحلیل مصرف انرژی در کارخانه‌های صنایع غذایی از طریق پلتفرم Insights Hub ارائه کرد. این سیستم با پایش بلادرنگ تجهیزات، نقاط اتلاف انرژی را شناسایی کرده و پیشنهادهای بهینه‌سازی ارائه می‌دهد. این اقدام گامی مهم برای کاهش هزینه‌های عملیاتی و دستیابی به اهداف پایداری زیست‌محیطی در صنعت است.",
+      "category": "industry",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 19:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/energy-management/news/21849302",
+      "tags": [
+        "Insights Hub",
+        "Energy Efficiency",
+        "Food Industry",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "گسترش قابلیت‌های Industrial Edge برای پایش وضعیت موتورها",
+      "summary": "قابلیت‌های جدید پلتفرم Industrial Edge زیمنس اکنون امکان تحلیل پیشرفته ارتعاشات موتورهای الکتریکی را فراهم می‌کند. با استفاده از الگوریتم‌های هوش مصنوعی، این سیستم خرابی‌های احتمالی را پیش از وقوع شناسایی کرده و از توقف‌های ناخواسته خط تولید جلوگیری می‌کند. این ابزار برای صنایع سنگین و تولیدی بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/25 10:30",
+      "collected_at": "1405/07/25 19:00",
+      "source": "Industrial IoT News",
+      "source_url": "https://iiot-news.com/siemens-industrial-edge-update",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Motors",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "همکاری زیمنس و شرکت‌های لجستیک برای هوشمندسازی انبارهای خودکار",
+      "summary": "زیمنس با همکاری چندین شرکت پیشرو در حوزه لجستیک، راهکارهای جدیدی برای مدیریت هوشمند انبارهای خودکار معرفی کرد. این سیستم‌ها با استفاده از کنترلرهای پیشرفته زیمنس و الگوریتم‌های مسیریابی، سرعت جابجایی کالا را افزایش می‌دهند. این همکاری باعث کاهش خطاهای انسانی و افزایش دقت در عملیات انبارداری در مقیاس بزرگ می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/25 11:45",
+      "collected_at": "1405/07/25 19:00",
+      "source": "Logistics Tech Daily",
+      "source_url": "https://logisticstech.com/siemens-partnership-warehouse-automation",
+      "tags": [
+        "Logistics",
+        "Automation",
+        "Warehouse",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "استانداردسازی پروتکل‌های ارتباطی در صنایع شیمیایی با OPC UA",
+      "summary": "در یک اقدام مشترک، استانداردهای جدیدی برای ارتباطات امن در صنایع شیمیایی بر پایه پروتکل OPC UA تدوین شد. زیمنس با پیاده‌سازی این استاندارد در تجهیزات خود، امکان تبادل داده بین سیستم‌های مختلف تولیدی را تسهیل کرده است. این استانداردسازی به افزایش امنیت سایبری و قابلیت همکاری در محیط‌های صنعتی پیچیده کمک شایانی می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/07/25 13:00",
+      "collected_at": "1405/07/25 19:00",
+      "source": "Chemical Engineering News",
+      "source_url": "https://chemengonline.com/opc-ua-standardization-chemical-industry",
+      "tags": [
+        "OPC UA",
+        "Cybersecurity",
+        "Chemical Industry",
+        "Standardization"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "ارتقای امنیت سایبری سیستم‌های کنترل توزیع‌یافته PCS neo",
+      "summary": "زیمنس بسته امنیتی جدیدی را برای سیستم کنترل توزیع‌یافته PCS neo منتشر کرد که لایه‌های حفاظتی جدیدی را در برابر حملات سایبری اضافه می‌کند. این بروزرسانی شامل رمزنگاری پیشرفته داده‌ها و کنترل دسترسی‌های مبتنی بر نقش است. این اقدام برای حفاظت از زیرساخت‌های حیاتی در برابر تهدیدات مدرن سایبری بسیار ضروری است.",
+      "category": "product",
+      "published_at": "1405/07/25 14:20",
+      "collected_at": "1405/07/25 19:00",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://cybersecurity-industrial.com/pcs-neo-security-update",
+      "tags": [
+        "PCS neo",
+        "Cybersecurity",
+        "DCS",
+        "Infrastructure"
       ]
     }
   ]
