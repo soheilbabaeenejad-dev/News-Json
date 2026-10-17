@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 108,
-  "provider": "Gemini/gemini-robotics-er-2-preview",
-  "updated_at": "1405/07/25 05:01",
+  "count": 118,
+  "provider": "Gemini/gemini-3.8-flash",
+  "updated_at": "1405/07/25 05:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1699,6 +1699,173 @@
         "شبیه سازی",
         "دوقلوی دیجیتال",
         "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "یکپارچه‌سازی پلتفرم Teamcenter زیمنس با سامانه‌های مدیریت زنجیره تامین SAP",
+      "summary": "زیمنس و اس‌آپی گام جدیدی در یکپارچه‌سازی نرم‌افزار Teamcenter با سیستم‌های برنامه‌ریزی منابع سازمانی برداشتند. این اقدام با هدف کاهش زمان طراحی تا تولید و تبادل بی‌درنگ داده‌های فنی انجام شده است. بهینه‌سازی جریان داده میان واحدهای مهندسی و انبارداری موجب تسریع در پاسخ به نوسانات زنجیره تامین قطعات صنعتی می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/25 04:45",
+      "collected_at": "1405/07/25 05:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-sap-expand-partnership-industrial-software",
+      "tags": [
+        "Siemens",
+        "SAP",
+        "Teamcenter",
+        "PLM",
+        "Digital Enterprise"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "به‌روزرسانی سامانه مانیتورینگ SIMATIC WinCC Unified برای محیط‌های تحت وب",
+      "summary": "زیمنس نسخه تکمیلی پلتفرم SIMATIC WinCC Unified را با معماری بومی HTML5 و قابلیت‌های گرافیکی ارتقایافته عرضه کرد. این نسخه امکان دسترسی امن اپراتورها از طریق انواع مرورگرها و تجهیزات همراه بدون نیاز به پلاگین مجزا را فراهم می‌سازد. ارتقای ابزارهای اسکریپت‌نویسی جاوااسکریپت سرعت پیکربندی صفحات HMI صنعتی را بهبود بخشیده است.",
+      "category": "product",
+      "published_at": "1405/07/25 04:30",
+      "collected_at": "1405/07/25 05:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/hmi/article/siemens-simatic-wincc-unified-update",
+      "tags": [
+        "SIMATIC",
+        "WinCC Unified",
+        "HMI",
+        "SCADA",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "پذیرش گسترده استاندارد اتوماسیون توزیع‌یافته IEC 61499 توسط کنسرسیوم‌های صنعتی",
+      "summary": "ائتلاف جهانی اتوماسیون همگانی از افزایش استقبال سازندگان کنترلر از استاندارد IEC 61499 خبر داد. این استاندارد معماری نرم‌افزار کنترل را کاملاً از سخت‌افزار PLC جدا کرده و امکان حمل کدهای صنعتی میان سازندگان مختلف را میسر می‌سازد. هدف این طرح کاهش انحصار سخت‌افزاری و تسهیل مهاجرت خطوط تولید به فناوری‌های نوین مدولار است.",
+      "category": "industry",
+      "published_at": "1405/07/25 04:10",
+      "collected_at": "1405/07/25 05:05",
+      "source": "Control Design",
+      "source_url": "https://www.controldesign.com/control/software/article/iec-61499-open-automation-standards",
+      "tags": [
+        "IEC 61499",
+        "Open Automation",
+        "PLC",
+        "Universal Automation"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "تجهیز منابع تغذیه صنعتی SITOP PSU8600 زیمنس به ماژول‌های پایش هوشمند انرژی",
+      "summary": "شرکت زیمنس قابلیت‌های کنترلی جدیدی به خانواده منابع تغذیه SITOP PSU8600 افزود تا پایش توان مصرفی با دقت بالاتری صورت گیرد. این تجهیزات از طریق درگاه اترنت صنعتی و پروتکل PROFINET داده‌های ولتاژ و جریان خروجی را مستقیماً به TIA Portal ارسال می‌کنند. ثبت اضافه بار و پیش‌بینی خرابی خازن‌ها، پایداری برقی خطوط اتوماسیون را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 03:50",
+      "collected_at": "1405/07/25 05:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iebmedia.com/technology/power-supplies/siemens-sitop-psu8600-profinet-integration/",
+      "tags": [
+        "SITOP",
+        "Siemens",
+        "Power Supply",
+        "PROFINET",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "دریافت گواهینامه امنیت سایبری IEC 62443 برای تجهیزات شبکه صنعتی RUGGEDCOM",
+      "summary": "محصولات ارتباطی سری RUGGEDCOM زیمنس موفق به کسب استاندارد امنیتی IEC 62443-4-2 برای کاربرد در پست‌های فشار قوی شدند. این سوئیچ‌ها و روترها با ساختار سخت‌افزاری مقاوم در برابر نویزهای الکترومغناطیسی شدید، از داده‌های تله‌متری محافظت می‌کنند. تقویت فایروال داخلی و رمزنگاری داده‌ها خطرات نفوذ سایبری به شبکه انتقال نیرو را کاهش می‌دهد.",
+      "category": "regulation",
+      "published_at": "1405/07/25 03:35",
+      "collected_at": "1405/07/25 05:05",
+      "source": "ARC Advisory Group",
+      "source_url": "https://www.arcweb.com/blog/iec-62443-certification-siemens-ruggedcom-industrial-cybersecurity",
+      "tags": [
+        "RUGGEDCOM",
+        "Siemens",
+        "IEC 62443",
+        "Cybersecurity",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "یکپارچه‌سازی الگوریتم‌های هوش مصنوعی با سیستم کنترل بلادرنگ TwinCAT بکوف",
+      "summary": "شرکت بکوف اتومیشن با افزودن کتابخانه‌های یادگیری ماشین به نرم‌افزار TwinCAT 3، زمان اجرای مدل‌های بینایی ماشین را به زیر یک میلی‌ثانیه رساند. این سیستم با بهره‌گیری از پردازنده‌های چندهسته‌ای صنعتی، هدایت ربات‌ها و بازرسی کیفی محصولات را در یک بستر واحد انجام می‌دهد. حذف نیاز به رایانه‌های جانبی سبب کاهش چشمگیر پیچیدگی سیم‌کشی شده است.",
+      "category": "product",
+      "published_at": "1405/07/25 03:15",
+      "collected_at": "1405/07/25 05:05",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/articles/beckhoff-twincat-ai-machine-vision-integration/",
+      "tags": [
+        "Beckhoff",
+        "TwinCAT",
+        "Machine Vision",
+        "AI",
+        "PC Control"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "پیاده‌سازی کنترلرهای ترکیبی SIMATIC Drive Controller در ماشین‌آلات بسته‌بندی مدرن",
+      "summary": "سازندگان پیشرو ماشین‌آلات بسته‌بندی استفاده از واحدهای SIMATIC Drive Controller زیمنس را برای مدیریت همزمان کنترل فرآیند و سروو درایوها آغاز کردند. این دستگاه پردازنده S7-1500 و کنترلر چندمحوره SINAMICS S120 را درون یک فرم‌فاکتور فشرده تلفیق کرده است. کاهش فضای داخل تابلو برق و تبادل پرسرعت فرامین حرکتی از نتایج این معماری سخت‌افزاری است.",
+      "category": "industry",
+      "published_at": "1405/07/25 02:50",
+      "collected_at": "1405/07/25 05:05",
+      "source": "Drives & Controls",
+      "source_url": "https://drivesncontrols.com/news/fullstory.php/aid/siemens-simatic-drive-controller-packaging",
+      "tags": [
+        "SIMATIC",
+        "SINAMICS",
+        "Motion Control",
+        "Packaging",
+        "S7-1500"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "توسعه عملیات خودمختار در پتروشیمی‌ها با الگوریتم‌های کنترل فرآیند یوکوگاوا",
+      "summary": "شرکت یوکوگاوا پایلوت موفقیت‌آمیز کنترل خودمختار بر پایه یادگیری تقویتی را در واحدهای تقطیر یک پالایشگاه به پایان رساند. در این روش، الگوریتم هوشمند بدون دخالت اپراتور تنظیم بهینه شیرهای کنترلی را در شرایط نوسان فشار انجام می‌دهد. این فناوری فراتر از کنترل سنتی PID عمل کرده و خطاهای ناشی از تصمیمات انسانی را به حداقل می‌رساند.",
+      "category": "research",
+      "published_at": "1405/07/25 02:25",
+      "collected_at": "1405/07/25 05:05",
+      "source": "InTech Magazine",
+      "source_url": "https://www.isa.org/intech-home/2026/yokogawa-autonomous-operations-reinforcement-learning",
+      "tags": [
+        "Yokogawa",
+        "Autonomous Operations",
+        "DCS",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "کاربرد مودم‌های مقاوم صنعتی SCALANCE MUM856-1 در ارتباطات بی‌سیم ناوگان AGV",
+      "summary": "زیمنس نسل نوینی از روترهای 5G صنعتی با درجه حفاظت IP65 را با عنوان SCALANCE MUM856-1 جهت اتصال خودروهای هدایت‌پذیر خودکار به کار گرفت. این تجهیزات بدون نیاز به تابلو محافظ امکان انتقال بلادرنگ داده‌های ناوبری را در محوطه‌های روباز و خشن فراهم می‌کنند. تاخیر بسیار کم شبکه انتقال مانع از توقف‌های ناخواسته در حمل‌ونقل لجستیک داخلی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 01:55",
+      "collected_at": "1405/07/25 05:05",
+      "source": "Smart Industry",
+      "source_url": "https://www.smartindustry.com/wireless-5g/article/siemens-scalance-mum856-1-industrial-5g",
+      "tags": [
+        "SCALANCE",
+        "Industrial 5G",
+        "AGV",
+        "Siemens",
+        "Wireless"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "معرفی اپلیکیشن تشخیص ناهنجاری بدون کدنویسی در بستر Siemens Industrial Edge",
+      "summary": "زیمنس اپلیکیشن نوآورانه‌ای بر پایه یادگیری ماشین برای سیستم‌های لبه‌ای Industrial Edge معرفی کرد که ناهنجاری سیگنال‌های سنسور را تحلیل می‌کند. این ابزار به متخصصان فنی اجازه می‌دهد بدون دانش عمیق برنامه‌نویسی، الگوهای ارتعاشی و دمایی نامتعارف را شناسایی کنند. جلوگیری از توقف‌های اضطراری خط تولید مهم‌ترین دستاورد عملیاتی این برنامه تحلیل داده است.",
+      "category": "product",
+      "published_at": "1405/07/25 01:20",
+      "collected_at": "1405/07/25 05:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-industrial-edge-anomaly-detection-application/",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "Predictive Maintenance",
+        "AI"
       ]
     }
   ]
