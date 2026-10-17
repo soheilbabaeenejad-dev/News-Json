@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 227,
+  "count": 237,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 12:03",
+  "updated_at": "1405/07/25 12:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3611,6 +3611,166 @@
         "SINAMICS",
         "Drives",
         "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "یکپارچه‌سازی ماژول‌های امنیتی جدید در سیستم SIMATIC S7-1500",
+      "summary": "شرکت زیمنس ماژول‌های امنیتی سخت‌افزاری جدیدی را برای سری کنترلرهای SIMATIC S7-1500 معرفی کرد که به طور چشمگیری سطح حفاظت در برابر تهدیدات سایبری OT را افزایش می‌دهند. این ماژول‌ها امکان رمزگذاری پیشرفته داده‌ها و مدیریت متمرکز گواهینامه‌ها را مستقیماً از طریق محیط مهندسی TIA Portal فراهم می‌سازند. این توسعه به صنایع کمک می‌کند تا استانداردهای سخت‌گیرانه امنیتی IEC 62443 را با کمترین پیچیدگی پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 12:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-security-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های تحلیل داده‌های ابری با آپدیت جدید Insights Hub",
+      "summary": "زیمنس نسخه بروزرسانی شده پلتفرم Insights Hub را با ابزارهای پیشرفته تحلیل ابری منتشر کرد که امکان پردازش حجم عظیمی از داده‌های سنسورهای کارخانه را در زمان واقعی فراهم می‌کند. این نسخه جدید شامل داشبوردهای سفارشی‌سازی شده برای پایش مصرف انرژی و کاهش ضایعات مواد اولیه در خطوط تولید است. کارخانجات صنعتی با بهره‌گیری از این قابلیت‌ها توانسته‌اند بهره‌وری کلی تجهیزات OEE خود را تا دوازده درصد بهبود ببخشند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:00",
+      "collected_at": "1405/07/25 12:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/article/insights-hub-cloud-analytics-update",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Analytics",
+        "Energy"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "معرفی نسل جدید شیرهای کنترل هوشمند SITRANS برای صنایع فرآیندی",
+      "summary": "سیستم‌های ابزار دقیق زیمنس با معرفی تجهیزات اندازه‌گیری و شیرهای کنترل هوشمند سری SITRANS گام بلندی در جهت اتوماسیون هوشمند صنایع شیمیایی برداشتند. این تجهیزات مجهز به پروتکل ارتباطی پیشرفته HART و قابلیت تشخیص خودکار وضعیت مکانیکی هستند که نیاز به تعمیرات دوره‌ای را کاهش می‌دهد. مهندسان می‌توانند پارامترهای این تجهیزات را به راحتی از طریق نرم‌افزار SIMATIC PCS neo پیکربندی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 12:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/products/article/sitrans-intelligent-valves-process-industry",
+      "tags": [
+        "Siemens",
+        "SITRANS",
+        "Process Automation",
+        "PCS neo"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهبود پایش ارتعاشات در خطوط تولید سنگین با Industrial Edge",
+      "summary": "اپلیکیشن جدید Industrial Edge زیمنس برای تحلیل ارتعاشات موتورهای الکتریکی بزرگ و گیربکس‌های صنعتی روانه بازار شد. این ابزار با نمونه‌برداری فرکانس بالا در لبه شبکه، ناهنجاری‌های مکانیکی را پیش از وقوع خرابی کامل شناسایی می‌کند. این راهکار به مدیران تعمیر و نگهداری کارخانه‌ها اجازه می‌دهد تا زمان توقف اضطراب‌آور خطوط تولید را به حداقل برسانند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:45",
+      "collected_at": "1405/07/25 12:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/industrial-edge-vibration-monitoring-app",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Vibration",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری راکول اتومیشن و پلتفرم‌های ابری در مدیریت داده‌های صنعتی",
+      "summary": "راکول اتومیشن از شراکت راهبردی خود با ارائه‌دهندگان بزرگ زیرساخت‌های ابری برای توسعه راهکارهای یکپارچه جمع‌آوری داده‌های کارخانه خبر داد. این همکاری به سازندگان تجهیزات اجازه می‌دهد تا داده‌های کنترلرهای Logix را بدون نیاز به دروازه‌های پیچیده به فضای ابری منتقل کنند. این پروژه تمرکز ویژه‌ای بر استانداردسازی فرمت‌های تبادل اطلاعات میان‌سیستمی دارد.",
+      "category": "news",
+      "published_at": "1405/07/25 10:10",
+      "collected_at": "1405/07/25 12:05",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/rockwell-automation-cloud-data-partnership",
+      "tags": [
+        "Rockwell Automation",
+        "Cloud",
+        "Data Integration",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای سیستم کنترل توزیع‌یافته SIMATIC PCS neo برای مهندسی ابری",
+      "summary": "آخرین نسخه سیستم کنترل توزیع‌یافته SIMATIC PCS neo زیمنس امکانات جدیدی را برای مهندسی همکارانه و مبتنی بر وب ارائه کرده است. تیم‌های مهندسی در نقاط مختلف جغرافیایی می‌توانند به صورت همزمان روی یک پروژه پتروشیمی یا داروسازی کار کنند و تغییرات را به صورت آنی مشاهده نمایند. این نرم‌افزار جدید همچنین از استانداردهای باز ارتباطی برای سازگاری بیشتر با تجهیزات سایر سازندگان پشتیبانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 10:30",
+      "collected_at": "1405/07/25 12:05",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/control-systems/article/simatic-pcs-neo-web-engineering",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Web Engineering",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "گسترش کاربرد درایوهای SINAMICS G220 در خطوط بسته‌بندی پرسرعت",
+      "summary": "درایوهای فرکانس متغیر سری SINAMICS G220 زیمنس با قابلیت‌های ایمنی یکپارچه و اتصال مستقیم به شبکه پروفینت در صنایع بسته‌بندی اروپا محبوبیت یافته‌اند. این درایوها با کنترل دقیق سرعت و گشتاور، پایداری حرکت نوار نقاله‌ها را در سرعت‌های بالا تضمین می‌کنند. استفاده از این تجهیزات به کاهش تلفات انرژی در بخش محرک‌های الکتریکی کارخانه‌ها منجر شده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 11:00",
+      "collected_at": "1405/07/25 12:05",
+      "source": "Drive & Control",
+      "source_url": "https://www.drivesncontrols.com/news/full/sinamics-g220-packaging-lines-adoption",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Packaging",
+        "Profinet"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گزارش تخصصی از چالش‌های امنیت سایبری در شبکه‌های OT صنعتی",
+      "summary": "انجمن بین‌المللی اتوماسیون گزارشی تازه درباره آسیب‌پذیری‌های نوظهور در زیرساخت‌های حیاتی و شبکه‌های اسکادا منتشر کرده است. این گزارش نشان می‌دهد که حملات سایبری به لبه‌های شبکه و پروتکل‌های قدیمی همچنان بزرگترین تهدید برای کارخانه‌های تولیدی به شمار می‌روند. کارشناسان بر ضرورت پیاده‌سازی معماری دفاع در عمق و استفاده از ابزارهای پایش بلادرنگ تاکید کرده‌اند.",
+      "category": "research",
+      "published_at": "1405/07/25 11:20",
+      "collected_at": "1405/07/25 12:05",
+      "source": "Industrial Security Pulse",
+      "source_url": "https://www.industrialsecuritypulse.com/reports/ot-cybersecurity-challenges-2026",
+      "tags": [
+        "Cybersecurity",
+        "OT/ICS",
+        "SCADA",
+        "Report"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه ماژول‌های ورودی و خروجی توزیع‌شده ET 200MP برای مقاصد سنگین",
+      "summary": "خانواده تجهیزات جانبی SIMATIC ET 200MP زیمنس با معرفی ماژول‌های جدید با چگالی بالا و بدنه‌های مقاوم در برابر شرایط سخت محیطی گسترش یافت. این ماژول‌ها امکان اتصال تعداد بیشتری از سنسورها و عملگرها را در فضای محدود تابلوهای برق فراهم می‌کنند. زمان پاسخگویی فوق‌العاده سریع این تجهیزات، آن‌ها را برای کاربردهای کنترل حرکت بسیار دقیق ایده‌آل ساخته است.",
+      "category": "product",
+      "published_at": "1405/07/25 11:40",
+      "collected_at": "1405/07/25 12:05",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.automationasia.com/news/siemens-et-200mp-expansion-modules",
+      "tags": [
+        "ET 200MP",
+        "SIMATIC",
+        "I/O",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "پیاده‌سازی موفق ربات‌های متحرک خودمختار در لجستیک کارخانه زیمنس",
+      "summary": "مجتمع تولیدی زیمنس در شهر نورنبرگ با استقرار ناوگانی از ربات‌های متحرک خودمختار AMR فرآیند انتقال قطعات درون کارگاهی را به طور کامل خودکار کرد. این ربات‌ها با استفاده از سیستم‌های ناوبری لیزری پیشرفته و نرم‌افزار مدیریت ناوگان مرکزی مسیر خود را در میان اپراتورها پیدا می‌کنند. این پروژه منجر به افزایش بهره‌وری و کاهش چشمگیر زمان سیکل تولید در این سایت صنعتی پیشرفته شده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:00",
+      "collected_at": "1405/07/25 12:05",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/siemens-nuremberg-amr-logistics-implementation",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Logistics",
+        "Smart Factory"
       ]
     }
   ]
