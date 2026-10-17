@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 277,
+  "count": 286,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 13:05",
+  "updated_at": "1405/07/25 13:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4411,6 +4411,150 @@
         "Digital Twin",
         "SIMATIC",
         "Workforce Development"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پیش‌بینی خطا در پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس بروزرسانی جدیدی برای نرم‌افزار Industrial Edge منتشر کرد که ابزارهای تحلیل ارتعاشات را به‌طور چشمگیری بهبود می‌بخشد. این قابلیت جدید به مهندسان کارخانه اجازه می‌دهد تا خرابی تجهیزات دوران‌کننده را پیش از وقوع پیش‌بینی کنند. این راهکار مبتنی بر لبه، زمان توقف خطوط تولید را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:30",
+      "collected_at": "1405/07/25 13:07",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/industrial-edge-update-siemens",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Siemens",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف آب در صنایع آشامیدنی با سیستم کنترل SIMATIC PCS neo",
+      "summary": "یک شرکت بزرگ تولید نوشیدنی با به‌کارگیری سیستم کنترل توزیع‌یافته SIMATIC PCS neo زیمنس، مصرف آب خود را بیست درصد کاهش داد. این پلتفرم تحت وب امکان نظارت لحظه‌ای بر تمامی مراحل فرآیند را فراهم کرده و پایداری تولید را تضمین می‌کند. این پروژه نشان‌دهنده توانمندی سیستم‌های جدید در تحقق اهداف توسعه پایدار است.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 13:07",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-pcs-neo-beverage-plant",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Sustainability",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "ارتقای نرم‌افزار مهندسی TIA Portal با ابزارهای مدیریت پروژه ابری",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal زیمنس با قابلیت‌های همکاری ابری و مدیریت متمرکز پروژه منتشر شد. تیم‌های مهندسی اکنون می‌توانند به‌صورت همزمان روی پروژه‌های اتوماسیون بزرگ کار کنند و کدهای PLC را به اشتراک بگذارند. این ویژگی باعث افزایش بهره‌وری و کاهش زمان راه‌اندازی ماشین‌آلات صنعتی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 13:07",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/tia-portal-cloud-engineering",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Cloud",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری زیمنس و FESTO برای توسعه استانداردهای ماژولار در پنوماتیک",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه‌ای برای یکپارچه‌سازی عمیق‌تر تجهیزات پنوماتیک با کنترلرهای SIMATIC امضا کردند. این همکاری بر توسعه بلوک‌های نرم‌افزاری استاندارد در TIA Portal تمرکز دارد تا پیکربندی سیستم‌های ترکیبی سریع‌تر انجام شود. مهندسان می‌توانند زمان طراحی سیستم‌های اتوماسیون را به نصف برسانند.",
+      "category": "match",
+      "published_at": "1405/07/25 11:15",
+      "collected_at": "1405/07/25 13:07",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/siemens-festo-partnership-modular",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی اینورترهای سنگین سری SINAMICS G180 برای صنایع نفت و گاز",
+      "summary": "زیمنس درایوهای فرکانس متغیر جدید سری SINAMICS G180 را برای کاربردهای پرفشار در صنایع نفت، گاز و پتروشیمی معرفی کرد. این درایوها دارای گواهینامه‌های ضدانفجار بوده و قابلیت کنترل دقیق توربین‌ها و پمپ‌های بزرگ را دارند. استفاده از این تجهیزات تلفات انرژی در الکتروموتورهای سنگین را به شکل محسوسی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 11:50",
+      "collected_at": "1405/07/25 13:07",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-sinamics-g180",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Oil and Gas",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "گسترش کاربرد سنسورهای هوشمند SITRANS در خطوط بسته‌بندی دارویی",
+      "summary": "خطوط تولید صنایع داروسازی با نصب فلومترها و سنسورهای سطح جدید SITRANS دقت اندازه‌گیری خود را به بالاترین سطح رساندند. این تجهیزات مجهز به رابط IO-Link هستند که امکان عیب‌یابی از راه دور و تنظیم خودکار پارامترها را فراهم می‌کند. این نوآوری کیفیت و انطباق با استانداردهای سخت‌گیرانه بهداشتی را تضمین می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:10",
+      "collected_at": "1405/07/25 13:07",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-sitrans-pharma",
+      "tags": [
+        "SITRANS",
+        "Sensors",
+        "Pharma",
+        "IO-Link"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بررسی نقش دوقلوهای دیجیتال در کاهش هزینه‌های ساخت ماشین‌آلات",
+      "summary": "گزارش جدید موسسه تحقیقاتی اتوماسیون نشان می‌دهد استفاده از راهکارهای دوقلوی دیجیتال زیمنس هزینه‌های پروژه‌های ماشین‌سازی را ۳۰ درصد کاهش داده است. شبیه‌سازی دقیق رفتار مکانیکی و کنترلی پیش از ساخت فیزیکی، خطاهای طراحی را به صفر می‌رساند. سازندگان ماشین‌آلات از این ابزار برای تسریع ورود محصولات به بازار بهره می‌برند.",
+      "category": "research",
+      "published_at": "1405/07/25 12:35",
+      "collected_at": "1405/07/25 13:07",
+      "source": "Industrial automation Insights",
+      "source_url": "https://www.ainights.com/digital-twin-machinery-report",
+      "tags": [
+        "Digital Twin",
+        "Siemens Xcelerator",
+        "Simulation",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "پیاده‌سازی سیستم مدیریت انرژی SIMATIC Energy Suite در کارخانه خودروسازی",
+      "summary": "یک خودروساز پیشرو اروپایی با استفاده از SIMATIC Energy Suite زیمنس، مصرف برق خط مونتاژ خود را به صورت لحظه‌ای مانیتور می‌کند. این نرم‌افزار داده‌ها را مستقیماً از کنترلرهای SIMATIC جمع‌آوری کرده و گزارش‌های دقیق پایداری ارائه می‌دهد. این راهکار نقش مهمی در کاهش انتشار کربن و بهینه‌سازی هزینه‌های عملیاتی دارد.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:50",
+      "collected_at": "1405/07/25 13:07",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-energy-suite",
+      "tags": [
+        "Energy Management",
+        "SIMATIC",
+        "Automotive",
+        "Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "انتشار نسخه جدید سیستم عامل کنترلرهای SIMATIC S7-1200 با امنیت افزوده",
+      "summary": "زیمنس بروزرسانی سیستم‌عامل نسخه جدیدی را برای کنترلرهای جمع‌وجور SIMATIC S7-1200 عرضه کرد که استانداردهای امنیتی جدید را پوشش می‌دهد. این بروزرسانی مکانیزم‌های احراز هویت پسورد و ارتباطات رمزنگاری‌شده را تقویت می‌کند. این اقدام تعهد زیمنس به امنیت سایبری در تمامی سطوح اتوماسیون صنعتی را نشان می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 13:05",
+      "collected_at": "1405/07/25 13:07",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-s7-1200-firmware-update",
+      "tags": [
+        "SIMATIC S7-1200",
+        "Firmware",
+        "PLC",
+        "Cybersecurity"
       ]
     }
   ]
