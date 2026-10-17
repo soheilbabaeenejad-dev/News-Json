@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 583,
+  "count": 584,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 19:04",
+  "updated_at": "1405/07/25 19:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9030,6 +9030,21 @@
       "tags": [
         "هواشناسی",
         "بلایای طبیعی",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ai-20261017-001",
+      "title": "معرفی مدل هوش مصنوعی جدید شرکت انتروپیک برای تحلیل اسناد مالی",
+      "summary": "شرکت آنتروپیک از مدل جدید خود با نام Claude Financial رونمایی کرد که به طور اختصاصی برای تحلیل دقیق و سریع اسناد مالی پیچیده طراحی شده است. این مدل با کاهش خطاهای محاسباتی، به تحلیلگران کمک می‌کند تا گزارش‌های سالانه را در چند ثانیه بررسی کنند. این ابزار با تمرکز بر شفافیت و دقت بالا، استانداردهای جدیدی را در صنعت فین‌تک ایجاد کرده است.",
+      "category": "product",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 19:06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/anthropic-financial-model",
+      "tags": [
+        "انتروپیک",
+        "فین‌تک",
         "هوش مصنوعی"
       ]
     }
