@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 536,
+  "count": 544,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 19:06",
+  "updated_at": "1405/07/25 19:09",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8520,6 +8520,126 @@
         "Virtual Reality",
         "Training",
         "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش قابلیت‌های پلتفرم Industrial Edge برای صنایع خودروسازی",
+      "summary": "زیمنس با افزودن ماژول‌های جدید به پلتفرم Industrial Edge، امکان پردازش داده‌های حجیم سنسورها را در کارخانه‌های خودروسازی فراهم کرد. این راهکار به تولیدکنندگان کمک می‌کند تا کیفیت جوشکاری و رنگ‌آمیزی را به صورت بلادرنگ پایش کنند. این اقدام گامی مهم در جهت کاهش ضایعات تولیدی و افزایش سرعت خطوط مونتاژ است.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:05",
+      "collected_at": "1405/07/25 19:09",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/industrial-edge-automotive",
+      "tags": [
+        "Industrial Edge",
+        "Automotive",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "استانداردسازی امنیت سایبری در سیستم‌های PCS neo",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌یافته PCS neo زیمنس اکنون با استانداردهای سخت‌گیرانه IEC 62443 سازگاری کامل دارد. این ارتقا شامل پروتکل‌های رمزنگاری پیشرفته برای ارتباطات بین کنترلر و ایستگاه‌های مهندسی است. هدف از این تغییر، محافظت از زیرساخت‌های حیاتی در برابر تهدیدات سایبری پیچیده در محیط‌های صنعتی است.",
+      "category": "regulation",
+      "published_at": "1405/07/25 11:20",
+      "collected_at": "1405/07/25 19:09",
+      "source": "Cybersecurity News",
+      "source_url": "https://www.siemens.com/pcs-neo-security",
+      "tags": [
+        "PCS neo",
+        "Cybersecurity",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "همکاری زیمنس و انویدیا برای شبیه‌سازی کارخانه‌های سبز",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه دوقلوهای دیجیتال با هدف بهینه‌سازی مصرف انرژی گسترش دادند. با استفاده از پلتفرم Omniverse، کارخانه‌ها می‌توانند پیش از ساخت، مصرف انرژی را شبیه‌سازی کنند. این همکاری به کاهش ردپای کربن در صنایع سنگین از طریق مدل‌سازی دقیق فرآیندهای حرارتی کمک شایانی می‌کند.",
+      "category": "match",
+      "published_at": "1405/07/25 12:45",
+      "collected_at": "1405/07/25 19:09",
+      "source": "TechCrunch",
+      "source_url": "https://www.nvidia.com/en-us/industries/siemens-partnership",
+      "tags": [
+        "NVIDIA",
+        "Digital Twin",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "معرفی ماژول‌های ورودی/خروجی جدید برای SIMATIC ET 200SP",
+      "summary": "زیمنس خانواده ماژول‌های ET 200SP را با معرفی نسخه‌های جدید با قابلیت تشخیص خطای هوشمند توسعه داد. این ماژول‌ها امکان عیب‌یابی سریع‌تر در سیستم‌های اتوماسیون پیچیده را فراهم کرده و زمان توقف تولید را کاهش می‌دهند. این قطعات جدید با تمامی کنترلرهای سری S7-1500 کاملاً سازگار هستند.",
+      "category": "product",
+      "published_at": "1405/07/25 13:30",
+      "collected_at": "1405/07/25 19:09",
+      "source": "Control Engineering",
+      "source_url": "https://mall.industry.siemens.com/et200sp-updates",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "I/O Modules"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "گزارش بازار سیستم‌های SCADA در سال ۲۰۲۶",
+      "summary": "تحلیل‌های جدید نشان می‌دهد که بازار سیستم‌های SCADA مبتنی بر وب با رشد ۱۵ درصدی مواجه شده است. زیمنس با پلتفرم‌های پیشرفته خود سهم قابل توجهی از این بازار را در اختیار دارد. انتقال به سمت معماری‌های ابری و افزایش تقاضا برای پایش از راه دور، محرک‌های اصلی این رشد در سال جاری میلادی هستند.",
+      "category": "economy",
+      "published_at": "1405/07/25 14:10",
+      "collected_at": "1405/07/25 19:09",
+      "source": "Industrial Market Research",
+      "source_url": "https://www.marketresearch.com/scada-2026",
+      "tags": [
+        "SCADA",
+        "Market Report",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "آموزش مجازی اپراتورها با دوقلوهای دیجیتال زیمنس",
+      "summary": "زیمنس پلتفرم جدیدی برای آموزش اپراتورهای صنعتی با استفاده از واقعیت مجازی و دوقلوهای دیجیتال معرفی کرد. این سیستم به کارکنان اجازه می‌دهد بدون ریسک، کار با ماشین‌آلات پیچیده را تمرین کنند. این روش آموزشی باعث کاهش خطاهای انسانی در هنگام کار با تجهیزات واقعی در کارخانه می‌شود.",
+      "category": "society",
+      "published_at": "1405/07/25 16:20",
+      "collected_at": "1405/07/25 19:09",
+      "source": "Siemens Education",
+      "source_url": "https://www.siemens.com/digital-twin-training",
+      "tags": [
+        "VR",
+        "Training",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "توسعه پروتکل‌های ارتباطی برای یکپارچه‌سازی ساختمان و کارخانه",
+      "summary": "زیمنس راهکار جدیدی برای یکپارچه‌سازی سیستم‌های مدیریت ساختمان (BMS) با سیستم‌های اتوماسیون صنعتی (OT) ارائه داد. این راهکار با استفاده از پروتکل‌های استاندارد، امکان مدیریت یکپارچه انرژی و ایمنی را فراهم می‌کند. این همگرایی باعث کاهش هزینه‌های عملیاتی در مجتمع‌های تولیدی بزرگ می‌شود.",
+      "category": "topic",
+      "published_at": "1405/07/25 17:40",
+      "collected_at": "1405/07/25 19:09",
+      "source": "Smart Industry",
+      "source_url": "https://www.siemens.com/bms-ot-integration",
+      "tags": [
+        "BMS",
+        "OT",
+        "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "ارتقای قابلیت‌های تشخیص عیب در SIMATIC S7-1500",
+      "summary": "کنترلرهای SIMATIC S7-1500 اکنون به الگوریتم‌های پیشرفته‌تری برای تشخیص عیب در سیستم‌های پنوماتیک مجهز شده‌اند. این قابلیت به صورت خودکار نشت هوا یا افت فشار را شناسایی و به اپراتور هشدار می‌دهد. این بهبود فنی، طول عمر تجهیزات جانبی را به طور قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 18:55",
+      "collected_at": "1405/07/25 19:09",
+      "source": "Automation News",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "Diagnostics"
       ]
     }
   ]
