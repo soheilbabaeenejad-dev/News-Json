@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 518,
+  "count": 519,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 19:04",
+  "updated_at": "1405/07/25 19:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7900,6 +7900,21 @@
         "سونی",
         "دوربین",
         "عکاسی"
+      ]
+    },
+    {
+      "id": "tech-20261017-001",
+      "title": "مایکروسافت ابزارهای مدیریت هوشمند انرژی را به ویندوز ۱۱ اضافه می‌کند",
+      "summary": "مایکروسافت در حال توسعه قابلیت‌های جدیدی برای مدیریت مصرف انرژی در ویندوز ۱۱ است که به کاربران اجازه می‌دهد عملکرد سخت‌افزار را بر اساس نیاز بهینه‌سازی کنند. این ویژگی با تحلیل الگوهای استفاده، مصرف برق پردازنده و کارت گرافیک را در زمان‌های غیرضروری کاهش می‌دهد. این اقدام بخشی از تلاش شرکت برای افزایش بهره‌وری سیستم‌های دسکتاپ و کاهش اثرات زیست‌محیطی رایانه‌های شخصی است.",
+      "category": "product",
+      "published_at": "1405/07/25 19:05",
+      "collected_at": "1405/07/25 19:05",
+      "source": "Windows Central",
+      "source_url": "https://www.windowscentral.com/software-apps/windows-11/new-energy-management-features",
+      "tags": [
+        "مایکروسافت",
+        "ویندوز ۱۱",
+        "بهینه‌سازی"
       ]
     }
   ]
