@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 98,
+  "count": 108,
   "provider": "Gemini/gemini-robotics-er-2-preview",
-  "updated_at": "1405/07/25 04:19",
+  "updated_at": "1405/07/25 05:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1539,6 +1539,166 @@
         "SINAMICS",
         "Servo Drive",
         "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "رونمایی زیمنس از کنترلر جدید SIMATIC S7-1200 G2 برای اتوماسیون ماشین‌آلات کوچک",
+      "summary": "شرکت زیمنس در نمایشگاه اخیر خود از کنترلر جدید SIMATIC S7-1200 G2 رونمایی کرد. این کنترلر با هدف بهینه‌سازی فرآیندهای اتوماسیون در ماشین‌آلات کوچک طراحی شده است. این محصول با قابلیت‌های پیشرفته ارتباطی به سازندگان اجازه می‌دهد کارایی سیستم‌ها را تا ۳۰ درصد افزایش دهند. همچنین، امنیت سایبری داخلی این کنترلر برای مقابله با تهدیدات جدید ارتقا یافته است.",
+      "category": "product",
+      "published_at": "1405/07/24 14:30",
+      "collected_at": "1405/07/25 05:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-unveils-new-simatic-s7-1200-g2-controller",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1200 G2",
+        "PLC",
+        "اتوماسیون صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "همکاری زیمنس و مایکروسافت برای ادغام هوش مصنوعی مولد در TIA Portal",
+      "summary": "زیمنس و مایکروسافت همکاری جدیدی را برای ادغام ابزار هوش مصنوعی Copilot در محیط توسعه TIA Portal آغاز کرده‌اند. این ابزار به مهندسان اتوماسیون کمک می‌کند تا کدهای PLC را با سرعت بیشتری تولید و اشکال‌زدایی کنند. با استفاده از این فناوری، زمان برنامه‌نویسی پروژه‌های صنعتی تا ۴۰ درصد کاهش می‌یابد که گامی بزرگ در جهت هوشمندسازی کارخانه‌ها است.",
+      "category": "company",
+      "published_at": "1405/07/24 16:15",
+      "collected_at": "1405/07/25 05:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/siemens-microsoft-generative-ai-tia-portal",
+      "tags": [
+        "Siemens",
+        "Microsoft",
+        "TIA Portal",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "معرفی راهکار جدید مدیریت کربن Siemens EcoTech برای صنایع تولیدی",
+      "summary": "زیمنس چارچوب جدیدی به نام Siemens EcoTech را معرفی کرده است که به کارخانه‌ها امکان می‌دهد اثرات زیست‌محیطی محصولات خود را در طول چرخه عمر ارزیابی کنند. این راهکار اطلاعات دقیقی درباره مصرف انرژی ارائه می‌دهد و به شرکت‌ها در دستیابی به اهداف کربن‌صفر کمک می‌کند. این پلتفرم با استفاده از داده‌های واقعی خط تولید، گزارش‌های استانداردی تولید می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 18:00",
+      "collected_at": "1405/07/25 05:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-introduces-ecotech-for-sustainable-manufacturing",
+      "tags": [
+        "Siemens EcoTech",
+        "پایداری",
+        "مدیریت کربن",
+        "صنعت سبز"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "ارتقای امنیت سایبری در درایوهای SINAMICS S210 زیمنس با استانداردهای جدید",
+      "summary": "زیمنس نسخه جدیدی از سیستم درایو سروو SINAMICS S210 را با ویژگی‌های امنیت سایبری پیشرفته بر اساس استاندارد IEC 62443 ارائه کرده است. این به‌روزرسانی شامل ارتباطات امن پرو فینت و حفاظت از یکپارچگی داده‌ها است. این درایوها برای صنایع بسته‌بندی و داروسازی که نیاز به دقت بالا و امنیت شبکه دارند، بسیار حیاتی هستند و خطر حملات سایبری را به حداقل می‌رسانند.",
+      "category": "product",
+      "published_at": "1405/07/24 20:45",
+      "collected_at": "1405/07/25 05:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iep-book.com/siemens-upgrades-sinamics-s210-cybersecurity",
+      "tags": [
+        "SINAMICS S210",
+        "امنیت سایبری",
+        "درایو صنعتی",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "راه‌اندازی پلتفرم جدید Industrial Edge Management نسخه ۳.۰ زیمنس",
+      "summary": "زیمنس نسخه ۳.۰ پلتفرم مدیریت لبه صنعتی (Industrial Edge Management) خود را با قابلیت‌های مدیریت متمرکز دستگاه‌ها روانه بازار کرد. این نسخه جدید به کاربران اجازه می‌دهد تا هزاران دستگاه لبه را در کارخانه‌های مختلف به طور همزمان نظارت کنند. این پلتفرم با بهبود رابط کاربری و افزایش امنیت، فرآیند پیاده‌سازی برنامه‌های تحلیل داده را در سطح کارخانه تسهیل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 01:10",
+      "collected_at": "1405/07/25 05:01",
+      "source": "Smart Industry",
+      "source_url": "https://www.smartindustry.com/siemens-launches-industrial-edge-management-v3",
+      "tags": [
+        "Industrial Edge",
+        "زیمنس",
+        "دیجیتالی سازی",
+        "تحلیل داده"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "همکاری زیمنس و شرکت Schaeffler برای توسعه سیستم‌های پایش وضعیت بلادرنگ",
+      "summary": "شرکت‌های زیمنس و شفلر همکاری جدیدی را جهت یکپارچه‌سازی سنسورهای هوشمند با سیستم‌های کنترل زیمنس آغاز کرده‌اند. این راهکار مشترک به کارخانه‌ها اجازه می‌دهد تا وضعیت بلبرینگ‌ها و تجهیزات دوار را به صورت بلادرنگ پایش کنند. با استفاده از این فناوری، خرابی‌های ناگهانی تجهیزات تا ۲۵ درصد کاهش یافته و برنامه‌ریزی برای تعمیرات پیش‌بینانه بهینه می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/25 02:30",
+      "collected_at": "1405/07/25 05:01",
+      "source": "Maintenance World",
+      "source_url": "https://www.maintenanceworld.com/siemens-schaeffler-condition-monitoring-partnership",
+      "tags": [
+        "Siemens",
+        "Schaeffler",
+        "پایش وضعیت",
+        "OPC UA"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "معرفی ماژول‌های ارتباطی جدید SIMATIC ET 200SP برای شبکه‌های صنعتی ۵G",
+      "summary": "زیمنس ماژول‌های ارتباطی جدیدی را برای سیستم ورودی/خروجی SIMATIC ET 200SP معرفی کرده است که از شبکه‌های خصوصی ۵G پشتیبانی می‌کنند. این ماژول‌ها امکان اتصال بی‌سیم و با تاخیر بسیار کم را برای تجهیزات متحرک مانند AGVها در محیط کارخانه فراهم می‌سازند. این فناوری جدید به انعطاف‌پذیری بیشتر خطوط تولید و کاهش هزینه‌های کابل‌کشی کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 03:15",
+      "collected_at": "1405/07/25 05:01",
+      "source": "Telecommunication Industry News",
+      "source_url": "https://www.telecomnews.com/siemens-et200sp-5g-modules-industrial-wireless",
+      "tags": [
+        "SIMATIC ET 200SP",
+        "5G صنعتی",
+        "اتوماسیون بی‌سیم",
+        "AGV"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "انتشار استاندارد جدید امنیت سایبری برای سیستم‌های اسکادا WinCC V8",
+      "summary": "زیمنس نسخه جدیدی از سیستم مانیتورینگ WinCC V8 را با تمرکز ویژه بر امنیت سایبری و انطباق با استانداردهای بین‌المللی منتشر کرده است. این نسخه شامل رمزنگاری پیشرفته داده‌های آرشیو و احراز هویت چندعاملی برای اپراتورها است. این تغییرات به منظور محافظت از زیرساخت‌های حیاتی مانند تصفیه‌خانه‌های آب در برابر حملات پیچیده سایبری اعمال شده است.",
+      "category": "product",
+      "published_at": "1405/07/25 04:00",
+      "collected_at": "1405/07/25 05:01",
+      "source": "Cyber Security Review",
+      "source_url": "https://www.cybersecurityreview.com/siemens-wincc-v8-cybersecurity-update",
+      "tags": [
+        "WinCC V8",
+        "SCADA",
+        "امنیت سایبری",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "سرمایه‌گذاری زیمنس در توسعه فناوری‌های تولید افزایشی و چاپ سه‌بعدی صنعتی",
+      "summary": "بخش صنایع دیجیتال زیمنس از سرمایه‌گذاری ۵۰ میلیون یورویی برای توسعه نرم‌افزارها و سخت‌افزارهای مرتبط با تولید افزایشی خبر داد. این سرمایه‌گذاری با هدف یکپارچه‌سازی بیشتر سیستم‌های طراحی با پلتفرم‌های کنترل عددی SINUMERIK انجام می‌شود. این اقدام به تولیدکنندگان قطعات پیچیده اجازه می‌دهد تا زمان طراحی تا تولید را تا ۵۰ درصد کاهش دهند.",
+      "category": "economy",
+      "published_at": "1405/07/25 04:30",
+      "collected_at": "1405/07/25 05:01",
+      "source": "3D Printing Industry",
+      "source_url": "https://3dprintingindustry.com/siemens-invests-50m-in-industrial-additive-manufacturing",
+      "tags": [
+        "Siemens",
+        "چاپ سه بعدی",
+        "SINUMERIK",
+        "سرمایه گذاری"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "رونمایی از نرم‌افزار شبیه‌سازی SIMATIC S7-PLCSIM Advanced V6.0",
+      "summary": "زیمنس نسخه جدید نرم‌افزار شبیه‌سازی خود با نام SIMATIC S7-PLCSIM Advanced V6.0 را برای راه‌اندازی مجازی خطوط تولید معرفی کرد. این نرم‌افزار به مهندسان اجازه می‌دهد تا کنترلرهای S7-1500 را به صورت کاملاً مجازی شبیه‌سازی کرده و برنامه‌های خود را قبل از نصب واقعی تست کنند. این ابزار ریسک خطاهای برنامه‌نویسی را در زمان راه‌اندازی به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 04:50",
+      "collected_at": "1405/07/25 05:01",
+      "source": "Automation Technology",
+      "source_url": "https://www.automationtechnology.com/siemens-releases-plcsim-advanced-v6",
+      "tags": [
+        "S7-PLCSIM Advanced",
+        "شبیه سازی",
+        "دوقلوی دیجیتال",
+        "PLC"
       ]
     }
   ]
