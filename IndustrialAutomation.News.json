@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 553,
+  "count": 561,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 20:02",
+  "updated_at": "1405/07/25 20:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8784,6 +8784,133 @@
         "Instrumentation",
         "Process Control",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "به‌روزرسانی جدید کتابخانه‌های بلاک‌چین برای SIMATIC S7-1500",
+      "summary": "زیمنس به‌تازگی کتابخانه‌های جدیدی را برای کنترلرهای SIMATIC S7-1500 منتشر کرده است که امکان اتصال مستقیم به شبکه‌های بلاک‌چین را فراهم می‌کند. این قابلیت به تولیدکنندگان اجازه می‌دهد تا اصالت قطعات و تاریخچه تولید را به صورت غیرقابل تغییر ثبت کنند. این اقدام گامی مهم در جهت افزایش شفافیت در زنجیره تأمین صنعتی و کاهش تقلب در قطعات یدکی حساس محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 20:05",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/s7-1500.html",
+      "tags": [
+        "SIMATIC",
+        "Blockchain",
+        "Industry 4.0",
+        "Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش قابلیت‌های تحلیل ارتعاش در Industrial Edge",
+      "summary": "پلتفرم Industrial Edge زیمنس اکنون به ابزارهای پیشرفته‌ای برای تحلیل فرکانسی ارتعاشات موتورهای الکتریکی مجهز شده است. این ماژول نرم‌افزاری جدید با استفاده از الگوریتم‌های یادگیری ماشین، خرابی‌های احتمالی بلبرینگ‌ها را پیش از وقوع شناسایی می‌کند. این فناوری به کاهش زمان توقف ناخواسته خطوط تولید در صنایع سنگین کمک شایانی خواهد کرد.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 20:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/industrial-edge-vibration-analysis",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "استاندارد جدید برای ارتباطات ایمن در سیستم‌های PCS neo",
+      "summary": "زیمنس پروتکل‌های امنیتی جدیدی را برای سیستم کنترل توزیع‌یافته PCS neo معرفی کرده است که با استانداردهای IEC 62443 مطابقت کامل دارد. این به‌روزرسانی شامل مدیریت متمرکز گواهی‌های دیجیتال برای تمامی دستگاه‌های متصل به شبکه کنترل است. این تغییرات باعث می‌شود تا سیستم‌های کنترل فرآیند در برابر حملات سایبری پیچیده در لایه OT ایمن‌تر باقی بمانند.",
+      "category": "regulation",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 20:05",
+      "source": "Industrial Cybersecurity News",
+      "source_url": "https://www.siemens.com/global/en/company/topic-areas/cybersecurity.html",
+      "tags": [
+        "PCS neo",
+        "Cybersecurity",
+        "IEC 62443",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "معرفی درایوهای SINAMICS با قابلیت بازگشت انرژی به شبکه",
+      "summary": "سری جدید درایوهای فرکانس متغیر SINAMICS با سیستم بازیابی انرژی داخلی عرضه شد. این درایوها قادرند انرژی ترمزگیری موتورهای بزرگ را به شبکه برق کارخانه بازگردانند که منجر به کاهش ۱۵ درصدی مصرف انرژی کل در خطوط تولید می‌شود. این محصول برای صنایع فولاد و کاغذ که دارای اینرسی حرکتی بالایی هستند، بسیار کاربردی است.",
+      "category": "product",
+      "published_at": "1405/07/25 11:20",
+      "collected_at": "1405/07/25 20:05",
+      "source": "Energy Efficiency Today",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics.html",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "همکاری زیمنس و شرکت‌های رباتیک برای استانداردسازی رابط کاربری",
+      "summary": "زیمنس با همکاری چندین تولیدکننده بزرگ رباتیک، پروتکل جدیدی برای یکپارچه‌سازی ربات‌ها در محیط TIA Portal معرفی کرده است. این استاندارد به مهندسان اجازه می‌دهد بدون نیاز به برنامه‌نویسی پیچیده، ربات‌های برندهای مختلف را در یک پروژه واحد مدیریت کنند. این همکاری باعث کاهش چشمگیر زمان راه‌اندازی سلول‌های رباتیک در خطوط مونتاژ خودرو شده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:50",
+      "collected_at": "1405/07/25 20:05",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/robotics.html",
+      "tags": [
+        "Robotics",
+        "TIA Portal",
+        "Integration",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "توسعه ماژول‌های ورودی/خروجی فشرده برای ET 200SP",
+      "summary": "خانواده ماژول‌های ورودی/خروجی ET 200SP زیمنس با معرفی مدل‌های جدید با چگالی بالا گسترش یافت. این ماژول‌ها که فضای بسیار کمی در تابلوهای برق اشغال می‌کنند، از ارتباطات سریع با پروتکل Profinet پشتیبانی می‌کنند. این محصول برای ماشین‌سازانی که با محدودیت فضا در طراحی پنل‌های کنترل روبرو هستند، یک راهکار ایده‌آل محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 14:10",
+      "collected_at": "1405/07/25 20:05",
+      "source": "Control Engineering",
+      "source_url": "https://mall.industry.siemens.com/et200sp",
+      "tags": [
+        "ET 200SP",
+        "Profinet",
+        "PLC",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "پیاده‌سازی شبکه‌های خصوصی 5G در کارخانه‌های هوشمند",
+      "summary": "زیمنس با همکاری اپراتورهای مخابراتی، زیرساخت‌های شبکه خصوصی 5G را در چندین سایت تولیدی بزرگ در اروپا پیاده‌سازی کرده است. این شبکه‌ها امکان جابجایی داده‌های حجیم بین سنسورهای صنعتی و سیستم‌های کنترل را با تأخیر نزدیک به صفر فراهم می‌کنند. این فناوری ستون فقرات ارتباطی برای ربات‌های خودمختار و سیستم‌های لجستیک هوشمند است.",
+      "category": "industry",
+      "published_at": "1405/07/25 18:15",
+      "collected_at": "1405/07/25 20:05",
+      "source": "Tech Industrial News",
+      "source_url": "https://new.siemens.com/global/en/products/automation/topic-areas/5g.html",
+      "tags": [
+        "5G",
+        "Smart Factory",
+        "Connectivity",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع سیمان با Insights Hub",
+      "summary": "نرم‌افزار Insights Hub زیمنس اکنون با الگوریتم‌های جدید برای پایش مصرف انرژی در کوره‌های سیمان بهینه شده است. این ابزار با تحلیل داده‌های سنسورهای حرارتی و فشار، بهترین زمان برای تزریق سوخت را پیشنهاد می‌دهد. این راهکار به کارخانه‌های سیمان کمک می‌کند تا ضمن کاهش هزینه‌های انرژی، استانداردهای زیست‌محیطی سخت‌گیرانه را رعایت کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 19:40",
+      "collected_at": "1405/07/25 20:05",
+      "source": "Cement Production Monthly",
+      "source_url": "https://www.siemens.com/insights-hub-energy",
+      "tags": [
+        "Insights Hub",
+        "Energy Management",
+        "Cement Industry",
+        "Efficiency"
       ]
     }
   ]
