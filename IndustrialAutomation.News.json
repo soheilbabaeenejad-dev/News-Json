@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 157,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/25 09:02",
+  "count": 167,
+  "provider": "Gemini/gemini-3.8-flash",
+  "updated_at": "1405/07/25 10:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2490,6 +2490,167 @@
         "Cloud",
         "Market Report",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "پیاده‌سازی ابزار هوش مصنوعی زیمنس Copilot در خطوط تولید پیشرفته",
+      "summary": "زیمنس همکاری خود را با چندین خودروساز بزرگ برای استقرار گسترده ابزار Siemens Industrial Copilot آغاز کرده است. این سامانه با ترجمه زبان طبیعی به کدهای اتوماسیون در محیط مهندسی، زمان برنامه‌ریزی PLCها را تا ۳۰ درصد کاهش می‌دهد. اپراتورها اکنون می‌توانند تنها با پرامپت‌های متنی خطاهای فرآیندی را ردیابی و عیب‌یابی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:55",
+      "collected_at": "1405/07/25 10:08",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-industrial-copilot-generative-ai-shopfloor",
+      "tags": [
+        "Siemens",
+        "Industrial AI",
+        "PLC",
+        "Copilot"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "رونمایی از سوئیچ‌های صنعتی SCALANCE XC-200 با امنیت سخت‌افزاری MACsec",
+      "summary": "بخش اتوماسیون زیمنس نسل نوینی از سوئیچ‌های اترنت صنعتی خانواده SCALANCE XC-200 را با قابلیت رمزنگاری سخت‌افزاری لایه ۲ معرفی کرد. این تجهیزات ارتباطات امن در سطح فیلد را بدون افت سرعت انتقال داده و پهنای باند گیگابیتی تضمین می‌کنند. ارتقای مزبور پاسخی به تهدیدات فزاینده سایبری و استاندارد IEC 62443 است.",
+      "category": "product",
+      "published_at": "1405/07/25 09:40",
+      "collected_at": "1405/07/25 10:08",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/industrial-ethernet-switches-strengthen-ot-security/",
+      "tags": [
+        "SCALANCE",
+        "OT Security",
+        "Siemens",
+        "Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "ادغام کنترل مبتنی بر رایانه شخصی بکهوف با استاندارد ارتباطی EtherCAT G",
+      "summary": "شرکت بکهوف راهکارهای جدید پردازشی خود را مجهز به پروتکل پرسرعت EtherCAT G برای ماشین‌آلات با دینامیک بالا ارائه داد. این معماری نوین امکان جابه‌جایی مقادیر عظیم داده سنسورها را با نرخ تبادل ۱ گیگابیت بر ثانیه فراهم می‌سازد. مهندسان با استفاده از کنترلرهای TwinCAT می‌توانند الگوریتم‌های پیچیده بینایی ماشین را بلادرنگ همگام سازند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 10:08",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com/en-en/products/automation/ethercat-g/",
+      "tags": [
+        "Beckhoff",
+        "EtherCAT",
+        "PC-based Control",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "انتشار بسته به‌روزرسانی سیستم مانیتورینگ SIMATIC WinCC Unified",
+      "summary": "زیمنس نسخه تکمیلی پلتفرم بصری‌سازی صنعتی SIMATIC WinCC Unified را با تمرکز بر اجرای نیتیو روی معماری‌های وب مدرن منتشر کرد. این نرم‌افزار بهینه‌سازی شده اکنون مصرف منابع سخت‌افزاری را به میزان ۲۵ درصد کاهش داده و ابزارهای منعطف‌تری دارد. مهندسان کارخانه‌ها از این پس گزارش‌های فرآیندی را با سرعت بهتری روی تبلت‌های صنعتی دریافت می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:50",
+      "collected_at": "1405/07/25 10:08",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/scada-hmi/article/wincc-unified-modern-web-scada",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "ارتقای پلتفرم ناوبری SIMOVE زیمنس برای ناوگان‌های رباتیک متحرک",
+      "summary": "راهکار نرم‌افزاری هدایت ناوگان ربات‌های خودران، زیمنس SIMOVE، به الگوریتم‌های پیشرفته مسیریابی پویا مجهز شد. این قابلیت جدید امکان هماهنگی روان بیش از ۵۰ وسیله نقلیه خودران صنعتی (AGV/AMR) را در محیط‌های انباری پرتراکم میسر می‌سازد. کاهش توقف‌های ناخواسته و یکپارچه‌سازی بی‌دردسر با کنترلرهای کارخانه‌ای از دستاوردهای مهم این ارتقا است.",
+      "category": "industry",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 10:08",
+      "source": "Robotics World",
+      "source_url": "https://www.roboticsbusinessreview.com/supply-chain/simatic-simove-agv-fleet-coordination/",
+      "tags": [
+        "SIMOVE",
+        "AMR",
+        "AGV",
+        "Robotics",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "همکاری زیمنس و اشنایدر الکتریک در توسعه چارچوب باز اتوماسیون جهانی",
+      "summary": "دو قطب مهندسی اروپا برای پیشبرد استانداردهای متن‌باز Universal Automation بر پایه IEC 61499 گام‌های نوینی برداشتند. این اقدام مشترک با هدف پایان دادن به قفل‌شدگی کاربران بر سخت‌افزارهای انحصاری و تسهیل جابه‌جایی کدهای کنترلی انجام می‌شود. با این رویکرد، برنامه‌های نرم‌افزاری بدون وابستگی به سازنده کنترلر روی ماژول‌های گوناگون اجرا می‌شوند.",
+      "category": "company",
+      "published_at": "1405/07/25 08:10",
+      "collected_at": "1405/07/25 10:08",
+      "source": "ARC Advisory Group",
+      "source_url": "https://www.arcweb.com/blog/open-process-automation-iec-61499-standards",
+      "tags": [
+        "Universal Automation",
+        "IEC 61499",
+        "Open Automation",
+        "Schneider Electric"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "عرضه آنالایزرهای گازی جدید سری ULTRAMAT برای پایش مداوم آلاینده‌ها",
+      "summary": "زیمنس سری جدید آنالایزرهای صنعتی گاز ULTRAMAT را با هدف نظارت دقیق بر انتشار گازهای گلخانه‌ای در سایت‌های تولیدی عرضه کرد. این دستگاه‌ها با حساسیت بالا تغییرات غلظت ترکیبات شیمیایی را در محیط‌های پرریسک ثبت می‌کنند. اتصال مستقیم این تجهیزات به شبکه پروفی‌نت، فرآیند نگهداری و کالیبراسیون دوره‌ای را به صورت کاملاً خودکار ممکن می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/25 07:45",
+      "collected_at": "1405/07/25 10:08",
+      "source": "Process Industry Informer",
+      "source_url": "https://www.processindustryinformer.com/siemens-continuous-gas-analyzers-ultramat/",
+      "tags": [
+        "Process Instrumentation",
+        "Gas Analyzer",
+        "Profinet",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "تجهیز کنترلرهای عددی SINUMERIK ONE به نرم‌افزارهای لبه برای بهینه‌سازی برش",
+      "summary": "زیمنس برنامه‌های تحلیلی تازه‌ای را برای سامانه‌های کنترل ماشین‌ابزار CNC سری SINUMERIK ONE ارائه کرده است. این نرم‌افزارهای پردازش لبه داده‌های سنسورهای اسپیندل را در مقیاس میکروثانیه بررسی کرده و از سایش زودهنگام تیغه‌های برش جلوگیری می‌کنند. تولیدکنندگان قطعات دقیق با بهره‌گیری از این فناوری، راندمان ماشین‌کاری و عمر مفید ابزارها را ارتقا می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 07:20",
+      "collected_at": "1405/07/25 10:08",
+      "source": "Modern Machine Shop",
+      "source_url": "https://www.mmsonline.com/articles/sinumerik-one-edge-analytics-machining-efficiency",
+      "tags": [
+        "SINUMERIK ONE",
+        "CNC",
+        "Industrial Edge",
+        "Machining"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "دستورالعمل تازه امنیت سایبری صنعتی برای حفاظت از سیستم‌های ورودی-خروجی توزیع‌شده",
+      "summary": "نهادهای تنظیم‌گر امنیت و زیمنس سند راهنمای جدیدی را برای ایمن‌سازی ماژول‌های ورودی و خروجی در برابر نفوذ بدافزاری تدوین کردند. این رهنمود استفاده از احراز هویت رمزنگاری‌شده و فیلترینگ بسته را در پایین‌ترین لایه‌های فیلدباس الزامی می‌سازد. پیاده‌سازی این تدابیر مانع از تزریق فرامین مخرب و توقف فرآیندهای حساس در صنایع پتروشیمی و تولید انرژی خواهد شد.",
+      "category": "regulation",
+      "published_at": "1405/07/25 06:55",
+      "collected_at": "1405/07/25 10:08",
+      "source": "Industrial Cybersecurity Center",
+      "source_url": "https://www.securityweek.com/ics-fieldbus-security-hardening-guidelines/",
+      "tags": [
+        "OT Cybersecurity",
+        "Fieldbus",
+        "IEC 62443",
+        "Industrial Security"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "یکپارچه‌سازی کنترلرهای اتوماسیون شبکه SICAM با سیستم‌های ذخیره‌ساز انرژی صنعتی",
+      "summary": "زیمنس نسل جدید سیستم‌های پایش و کنترل ریزشبکه سری SICAM را برای پایداری انرژی در صنایع پرمصرف عرضه کرد. این کنترلرها با پاسخگویی میلی‌ثانیه‌ای، نوسانات جریان برق شبکه را خنثی کرده و تغذیه پشتیبان خطوط تولید را تضمین می‌نمایند. صنایع سنگین نظیر فولاد و شیشه‌سازی با این راهکار فناورانه از خسارات ناشی از افت ولتاژهای ناگهانی شبکه در امان می‌مانند.",
+      "category": "product",
+      "published_at": "1405/07/25 06:30",
+      "collected_at": "1405/07/25 10:08",
+      "source": "Smart Energy International",
+      "source_url": "https://www.smart-energy.com/industry-sectors/grid-modernization/siemens-sicam-microgrid-storage/",
+      "tags": [
+        "SICAM",
+        "Energy Storage",
+        "Microgrid",
+        "Substation Automation"
       ]
     }
   ]
