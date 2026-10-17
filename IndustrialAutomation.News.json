@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 477,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 18:00",
+  "count": 491,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/25 18:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7604,6 +7604,217 @@
         "Digital Twin",
         "Simulation",
         "Engineering Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسل جدید ماژول‌های ایمنی SIMATIC Safety Advanced برای TIA Portal",
+      "summary": "شرکت زیمنس نسخه جدید ماژول‌های ایمنی SIMATIC Safety Advanced را برای محیط مهندسی TIA Portal عرضه کرد. این راهکار به مهندسان کمک می‌کند تا استانداردهای ایمنی ماشین‌آلات را با سرعت و دقت بیشتری پیاده‌سازی کنند. این نسخه شامل قابلیت‌های جدید برای اعتبارسنجی خودکار توابع ایمنی است.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 18:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/simatic-safety-advanced-tia",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی با ابزار SIMATIC Energy Manager V8.0",
+      "summary": "نسخه جدید SIMATIC Energy Manager V8.0 توسط زیمنس معرفی شد تا بهینه‌سازی مصرف انرژی در کارخانه‌ها ساده‌تر شود. این نرم‌افزار امکان تحلیل لحظه‌ای داده‌های مصرف برق و گاز را برای مدیران تولید فراهم می‌کند. استفاده از این ابزار می‌تواند هزینه‌های انرژی واحدهای صنعتی را تا پانزده درصد کاهش دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 18:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/simatic-energy-manager-v8",
+      "tags": [
+        "Siemens",
+        "Energy Management",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری زیمنس و شرکت فستو در زمینه اتوماسیون پنوماتیک هوشمند",
+      "summary": "زیمنس و فستو شراکت راهبردی جدیدی را برای integration تجهیزات پنوماتیک با کنترلرهای SIMATIC آغاز کردند. این همکاری به توسعه ماژول‌های ارتباطی مشترک بر مبنای پروتکل PROFINET منجر خواهد شد. هدف اصلی این پروژه کاهش زمان راه‌اندازی خطوط تولید خودکار در صنایع گوناگون است.",
+      "category": "company",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 18:01",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی پنل‌های اپراتوری جدید SIMATIC HMI Unified Comfort با قابلیت HTML5",
+      "summary": "سری جدید پنل‌های اپراتوری SIMATIC HMI Unified Comfort با پشتیبانی کامل از استاندارد HTML5 به بازار عرضه شدند. این سخت‌افزارها امکان دسترسی ایمن به تصاویر گرافیکی اسکادا را از طریق مرورگرهای وب فراهم می‌کنند. نمایشگرهای مذکور دارای گواهینامه‌های حفاظتی سخت‌سخت برای محیط‌های خشن صنعتی هستند.",
+      "category": "product",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 18:01",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/simatic-hmi-unified-comfort",
+      "tags": [
+        "Siemens",
+        "HMI",
+        "Unified Comfort"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه راهکار Industrial Edge برای پایش پیش‌بینانه پمپ‌های صنعتی",
+      "summary": "اپلیکیشن جدید پایش پمپ‌ها روی بستر Industrial Edge زیمنس برای تشخیص زودهنگام خرابی‌ها منتشر شد. این برنامه با جمع‌آوری داده‌های ارتعاشی از سنسورهای محلی، وضعیت سلامت تجهیزات را تحلیل می‌کند. این رویکرد مانع از توقف‌های ناخواسته خطوط انتقال سیالات در کارخانه‌ها می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 18:01",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/edge-pump-monitoring",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "افزایش امنیت سایبری در شبکه‌های اتوماسیون با تجهیزات SCALANCE جدید",
+      "summary": "شرکت زیمنس سبد محصولات شبکه خود را با معرفی سویچ‌های صنعتی سری SCALANCE X-100 با قابلیت‌های امنیتی توسعه داد. این تجهیزات دارای دیوارهای آتش یکپارچه برای محافظت از لایه کنترل در برابر نفوذهای خارجی هستند. این اقدام گامی مهم در جهت انطباق با استانداردهای امنیتی IEC 62443 به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/25 12:15",
+      "collected_at": "1405/07/25 18:01",
+      "source": "Automation Inside",
+      "source_url": "https://www.automation-inside.com/scalance-x100-security",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای سیستم کنترل توزیع‌یافته SIMATIC PCS 7 با نسخه ابزارهای مهندسی پیشرفته",
+      "summary": "نسخه به‌روزرسانی‌شده سیستم کنترل SIMATIC PCS 7 ابزارهای مهندسی خود را برای پروژه‌های بزرگ پتروشیمی بهینه‌سازی کرد. این نسخه جدید زمان کامپایل پروژه‌ها را به میزان چشمگیری کاهش می‌دهد. مهندسان فرآیند اکنون می‌توانند تغییرات پیکربندی را بدون وقفه در روند تولید اعمال کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 13:00",
+      "collected_at": "1405/07/25 18:01",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/simatic-pcs7-update",
+      "tags": [
+        "Siemens",
+        "PCS 7",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی نسل جدید منبع تغذیه‌های SITOP PSU6200 برای تابلوهای برق صنعتی",
+      "summary": "منبع تغذیه‌های ریل‌پسند SITOP PSU6200 با راندمان انرژی بالا و ابعاد فشرده‌تر توسط زیمنس معرفی شدند. این تجهیزات قابلیت عیب‌یابی هوشمند را از طریق رابط متصل به کنترلر صنعتی فراهم می‌کنند. طراحی مقاوم آن‌ها پایداری سیستم‌های اتوماسیون را در شرایط نوسان شدید ولتاژ تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 14:20",
+      "collected_at": "1405/07/25 18:01",
+      "source": "Control Design",
+      "source_url": "https://www.controldesign.com/sitop-psu6200-power",
+      "tags": [
+        "Siemens",
+        "SITOP",
+        "Power Supply"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گسترش پلتفرم ابری Insights Hub برای تحلیل متمرکز داده‌های تولیدی",
+      "summary": "سرویس‌های ابری Insights Hub زیمنس قابلیت‌های جدیدی را برای تج تجمیع داده‌های چند کارخانه مختلف دریافت کرد. این پلتفرم ابری به مدیران ارشد اجازه می‌دهد شاخص‌های کلیدی عملکرد را به صورت یکجا رصد کنند. اتصال سیستم‌های لبه به این ابر صنعتی از طریق پروتکل‌های استاندارد امن انجام می‌گیرد.",
+      "category": "product",
+      "published_at": "1405/07/25 15:10",
+      "collected_at": "1405/07/25 18:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/insights-hub-expansion",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه کاربردهای رباتیک در خطوط مونتاژ با ماژول‌های فناوری زیمنس",
+      "summary": "کتابخانه‌های نرم‌افزاری جدید زیمنس برای کنترل دقیق بازوهای رباتیک در محیط TIA Portal انتشار یافتند. این ماژول‌ها هماهنگی حرکتی بین ربات‌های چندمحوره و نقاله‌های صنعتی را به‌طور قابل‌توجهی ساده‌تر می‌کنند. این راهکار زمان راه‌اندازی سلول‌های رباتیک را در صنایع خودرو و الکترونیک کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 16:00",
+      "collected_at": "1405/07/25 18:01",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/siemens-robotics-libraries",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "انتشار نسخه جدید سیستم کنترل توزیع‌یافته SIMATIC PCS neo",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌یافته SIMATIC PCS neo با قابلیت‌های تحت وب گسترده‌تر منتشر شد. این سیستم به تیم‌های مهندسی اجازه می‌دهد تا از هر نقطه از جهان به محیط پروژه دسترسی داشته باشند و تغییرات را در زمان واقعی اعمال کنند. تمرکز اصلی این نسخه بر تسهیل همکاری میان تیم‌های عملیاتی و نگهداری در محیط‌های صنعتی پیچیده و گسترده است.",
+      "category": "product",
+      "published_at": "1405/07/25 13:20",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Control Engineering",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-control/simatic-pcs-neo.html",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "رونمایی از سیستم درایو سروو SINAMICS S200 برای کاربردهای دقیق",
+      "summary": "زیمنس سیستم درایو سروو جدید SINAMICS S200 را برای کاربردهای نیازمند دقت بالا معرفی کرد. این درایو با طراحی فشرده و رابط کاربری آسان، برای استفاده در ماشین‌آلات بسته‌بندی و مونتاژ الکترونیک ایده‌آل است. این محصول با پشتیبانی از پروتکل‌های ارتباطی استاندارد، به راحتی در سیستم‌های اتوماسیون موجود مبتنی بر TIA Portal یکپارچه می‌شود و عملکرد حرکتی را بهینه می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/25 15:05",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Drives & Motion",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics/s200.html",
+      "tags": [
+        "SINAMICS",
+        "Servo",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "یکپارچه‌سازی پیشرفته ربات‌های Comau در محیط نرم‌افزاری TIA Portal",
+      "summary": "زیمنس اعلام کرد که یکپارچه‌سازی ربات‌های صنعتی Comau در محیط TIA Portal به سطح جدیدی رسیده است. اکنون مهندسان می‌توانند ربات‌های Comau را مستقیماً از طریق کنترلرهای SIMATIC برنامه‌ریزی و مدیریت کنند. این یکپارچه‌سازی نیاز به نرم‌افزارهای واسط را از بین برده و زمان راه‌اندازی خطوط تولید رباتیک را به طور قابل توجهی کاهش می‌دهد که برای صنایع خودروسازی بسیار حیاتی است.",
+      "category": "industry",
+      "published_at": "1405/07/25 17:20",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Robotics Today",
+      "source_url": "https://www.comau.com/en/our-solutions/robotics",
+      "tags": [
+        "Robotics",
+        "Comau",
+        "TIA Portal",
+        "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "معرفی اپلیکیشن جدید Industrial Edge برای محاسبه ردپای کربن",
+      "summary": "زیمنس اپلیکیشن جدیدی را برای پلتفرم Industrial Edge معرفی کرده که به تولیدکنندگان کمک می‌کند ردپای کربن محصولات خود را در زمان واقعی محاسبه کنند. این ابزار با جمع‌آوری داده‌های مصرف انرژی از سنسورها و ماشین‌آلات، گزارش‌های دقیقی از میزان انتشار گازهای گلخانه‌ای تهیه می‌کند. این قابلیت به شرکت‌ها کمک می‌کند تا به اهداف پایداری محیط‌زیستی خود دست یابند و استانداردهای سبز را رعایت کنند.",
+      "category": "topic",
+      "published_at": "1405/07/25 17:55",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Sustainability Tech",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industrial-edge.html",
+      "tags": [
+        "Industrial Edge",
+        "Sustainability",
+        "Carbon Footprint"
       ]
     }
   ]
