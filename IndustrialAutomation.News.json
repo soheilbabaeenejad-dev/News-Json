@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 207,
+  "count": 217,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 12:01",
+  "updated_at": "1405/07/25 12:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3291,6 +3291,166 @@
         "Predictive Maintenance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "یکپارچه‌سازی پلتفرم SIMATIC WinCC Unified با ابزارهای تحلیل ابری",
+      "summary": "شرکت زیمنس قابلیت‌های جدیدی را برای اتصال نرم‌افزار مانیتورینگ SIMATIC WinCC Unified به بستر ابری Insights Hub ارائه کرده است. این به‌روزرسانی به اپراتورها اجازه می‌دهد تا داده‌های بلادرنگ خطوط تولید را با امنیت بالا به فضای ابری منتقل کنند. هدف اصلی این توسعه، فراهم کردن امکان تحلیل کلان‌داده‌ها و بهبود تصمیم‌گیری مدیریتی در کارخانه‌های هوشمند است.",
+      "category": "product",
+      "published_at": "1405/07/25 08:15",
+      "collected_at": "1405/07/25 12:02",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/wincc-unified-insights-hub-integration",
+      "tags": [
+        "WinCC Unified",
+        "Insights Hub",
+        "SCADA",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "معرفی ماژول‌های ایمنی جدید برای سیستم کنترل SIMATIC ET 200MP",
+      "summary": "زیمنس سبد محصولات ایمنی خود را با عرضه ماژول‌های جدید I/O برای خانواده SIMATIC ET 200MP گسترش داد. این ماژول‌های جدید دارای تأییدیه‌های سخت‌گیرانه SIL3 و PL e بوده و از ارتباط Fail-safe از طریق پروتکل PROFINET پشتیبانی می‌کنند. این تجهیزات به مهندسان کمک می‌کنند تا سیستم‌های ایمنی ماشین‌آلات را با انعطاف‌پذیری و سرعت بیشتری پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:45",
+      "collected_at": "1405/07/25 12:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/safety/siemens-et200mp-safety-modules",
+      "tags": [
+        "SIMATIC ET 200MP",
+        "Safety",
+        "PROFINET",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه راهکارهای مدیریت انرژی در صنایع فلزی با سیستم SIMATIC Energy Manager",
+      "summary": "کارخانجات فولاد و صنایع فلزی سنگین اکنون می‌توانند با استفاده از نسخه جدید SIMATIC Energy Manager مصرف انرژی خود را به دقت ردیابی کنند. این نرم‌افزار با اتصال مستقیم به کنترلرهای صنعتی، هشدارهای آنی درباره اتلاف انرژی صادر می‌کند. این راهکار نقش مهمی در کاهش هزینه‌های عملیاتی و دستیابی به اهداف توسعه پایدار صنعتی ایفا می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/25 09:10",
+      "collected_at": "1405/07/25 12:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-energy-manager-metals-industry",
+      "tags": [
+        "Energy Management",
+        "SIMATIC",
+        "Sustainability",
+        "Steel Industry"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای توسعه الگوریتم‌های تعمیر و نگهداری پیش‌بینانه",
+      "summary": "پروژه تحقیقاتی مشترکی میان زیمنس و دانشگاه فنی مونیخ برای ارتقای مدل‌های هوش مصنوعی در تعمیر و نگهداری تجهیزات صنعتی آغاز شد. این پروژه بر پایه داده‌های جمع‌آوری‌شده از سنسورهای ارتعاشی و درایوهای SINAMICS بنا شده است. نتایج این تحقیق به کاهش زمان توقف اضطراب‌آور خطوط تولید و بهینه‌سازی زمان‌بندی سرویس ماشین‌آلات کمک خواهد کرد.",
+      "category": "research",
+      "published_at": "1405/07/25 09:30",
+      "collected_at": "1405/07/25 12:02",
+      "source": "Industrial AI Journal",
+      "source_url": "https://www.industrial-ai-journal.com/siemens-tum-predictive-maintenance",
+      "tags": [
+        "Research",
+        "Artificial Intelligence",
+        "Predictive Maintenance",
+        "SINAMICS"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "عرضه نسل جدید تجهیزات شناسایی صنعتی با سیستم SIMATIC Ident",
+      "summary": "شرکت زیمنس سری جدید خواننده‌های RFID و سیستم‌های بارکدخوان را تحت برند SIMATIC Ident به بازار معرفی کرد. این تجهیزات با استاندارد حفاظتی IP67 برای محیط‌های سخت کارگاهی و خطوط مونتاژ خودرو طراحی شده‌اند. قابلیت یکپارچگی کامل با TIA Portal راه‌اندازی این تجهیزات را برای مهندسان اتوماسیون به شدت ساده‌تر می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:55",
+      "collected_at": "1405/07/25 12:02",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/story/2026/10/siemens-simatic-ident-rfid-release",
+      "tags": [
+        "SIMATIC Ident",
+        "RFID",
+        "TIA Portal",
+        "Traceability"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "گسترش پروتکل ارتباطی OPC UA TSN در زیرساخت‌های اتوماسیون صنعتی",
+      "summary": "سازمان CiA و گروه کاربری PROFINET با همکاری زیمنس پیاده‌سازی استاندارد ارتباطی OPC UA TSN را در تجهیزات لبه شبکه شتاب بخشیدند. این فناوری تضمین‌کننده تبادل داده بلادرنگ، قطعی و همگام‌سازی شده در شبکه‌های پیچیده کارخانه‌ای است. این تحول زیر1 میلی‌ثانیه، ارتباط بین ربات‌ها و کنترلرهای مرکزی را بی‌نهایت قابل‌اعتماد می‌سازد.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:20",
+      "collected_at": "1405/07/25 12:02",
+      "source": "Automation Global",
+      "source_url": "https://www.automation-global.com/opc-ua-tsn-siemens-update",
+      "tags": [
+        "OPC UA",
+        "TSN",
+        "Networking",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای امنیت تجهیزات شبکه صنعتی با سویچ‌های جدید SCALANCE X",
+      "summary": "زیمنس مجموعه سویچ‌های مدیریتی شبکه خود را با معرفی سری SCALANCE X-300 تقویت کرد. این محصولات مجهز به ویژگی‌های پیشرفته امنیت سایبری مطابق با استاندارد IEC 62443-4-2 برای مقابله با تهدیدات سایبری در لایه OT هستند. این سویچ‌ها به مدیران شبکه کارخانه امکان می‌دهند بخش‌های مختلف تولید را با دیوارهای آتش داخلی ایزوله کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 10:40",
+      "collected_at": "1405/07/25 12:02",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-scalance-x-security-update",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "IEC 62443",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهینه‌سازی مصرف آب در صنایع شیمیایی با سیستم‌های کنترل توزیع‌یافته PCS 7",
+      "summary": "یک واحد بزرگ تولید مواد شیمیایی در اروپا با به‌کارگیری نسخه به‌روزشده سیستم کنترل PCS 7 موفق شد مصرف آب صنعتی خود را بیست درصد کاهش دهد. این سیستم با پایش مداوم جریان‌های فرآیندی و تنظیم دقیق ولوهای کنترلی عمل می‌کند. این دستاورد گواهی بر کارایی بالای نرم‌افزار زیمنس در مدیریت بهینه منابع طبیعی است.",
+      "category": "industry",
+      "published_at": "1405/07/25 11:05",
+      "collected_at": "1405/07/25 12:02",
+      "source": "Chemical Processing",
+      "source_url": "https://www.chemicalprocessing.com/siemens-pcs7-water-optimization",
+      "tags": [
+        "PCS 7",
+        "Process Control",
+        "Chemical Industry",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی ابزار جدید مهندسی برای پیکربندی روبات‌های صنعتی در TIA Portal",
+      "summary": "زیمنس با انتشار یک پکیج نرم‌افزاری جدید، امکان برنامه‌نویسی و شبیه‌سازی بازوهای رباتیک مختلف را مستقیماً درون محیط TIA Portal فراهم کرده است. این ابزار از کدهای استاندارد PLCopen پیروی کرده و نیاز به نرم‌افزارهای جانبی و پیچیده را از بین می‌برد. این یکپارچه‌سازی، زمان راه‌اندازی سلول‌های رباتیک در خطوط مونتاژ را به طور چشمگیری کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 12:02",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-tia-portal-robotics-tool",
+      "tags": [
+        "TIA Portal",
+        "Robotics",
+        "PLCopen",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه زیرساخت‌های آموزشی هوشمند با کیت‌های جدید آموزشی زیمنس",
+      "summary": "بخش آموزش پیشرفته زیمنس (Siemens STC) از کیت‌های جدید آموزشی مبتنی بر کنترلرهای SIMATIC S7-1200 و پنل‌های لمسی رونمایی کرد. این کیت‌ها برای هنرستان‌ها و دانشگاه‌های فنی جهت آموزش عملی اتوماسیون طراحی شده‌اند. هدف از این اقدام، آماده‌سازی دانشجویان برای ورود به بازار کار در عصر صنعت 4.0 و کار با فناوری‌های نوین است.",
+      "category": "society",
+      "published_at": "1405/07/25 11:55",
+      "collected_at": "1405/07/25 12:02",
+      "source": "Education Technology News",
+      "source_url": "https://www.edtechnews.com/siemens-stc-automation-kits-2026",
+      "tags": [
+        "Education",
+        "SIMATIC S7-1200",
+        "Industry 4.0",
+        "Training"
       ]
     }
   ]
