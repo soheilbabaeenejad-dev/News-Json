@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 345,
+  "count": 355,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 15:00",
+  "updated_at": "1405/07/25 15:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5499,6 +5499,166 @@
         "Industrial Ethernet",
         "TSN",
         "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای امنیت شبکه‌های صنعتی SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید CP 1543-1 با قابلیت‌های پیشرفته امنیتی رونمایی کرد. این ماژول به کنترلرهای SIMATIC S7-1500 امکان اتصال امن به شبکه‌های اترنت صنعتی و حفاظت از داده‌ها در برابر تهدیدات سایبری را می‌دهد. استفاده از این قطعه، استانداردهای امنیتی لایه شبکه را در خطوط تولید حساس ارتقا می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 15:02",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/cp-1543-1-security-module",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Cybersecurity",
+        "Industrial Networks",
+        "CP 1543-1"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "بهینه‌سازی مصرف آب در صنایع با نسخه جدید نرم‌افزار SIMATIC Energy Manager",
+      "summary": "نسخه بروزرسانی شده نرم‌افزار SIMATIC Energy Manager زیمنس با تمرکز بر پایش و بهینه‌سازی مصرف آب منتشر شد. این ابزار به مدیران کارخانه‌ها کمک می‌کند تا نشت‌ها و نقاط پرمصرف را در فرآیندهای صنعتی شناسایی کنند. این راهکار نقش مهمی در کاهش هزینه‌های عملیاتی و دستیابی به اهداف توسعه پایدار ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 15:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/energy-management/news/siemens-simatic-energy-manager-water",
+      "tags": [
+        "SIMATIC Energy Manager",
+        "Sustainability",
+        "Water Management",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "گسترش قابلیت‌های مانیتورینگ بلادرنگ در پلتفرم Industrial Edge با اپلیکیشن Edge Analytics",
+      "summary": "زیمنس اپلیکیشن جدید Edge Analytics را برای اکوسیستم Industrial Edge خود عرضه کرد که امکان تحلیل پیشرفته داده‌های سنسورها را در لبه شبکه فراهم می‌سازد. این نرم‌افزار به مهندسان اجازه می‌دهد تا الگوهای غیرعادی در عملکرد تجهیزات را پیش از بروز خرابی شناسایی کنند. این قابلیت از توقف‌های ناخواسته خط تولید به طور چشمگیری جلوگیری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 15:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/edge-computing/siemens-industrial-edge-analytics",
+      "tags": [
+        "Industrial Edge",
+        "Edge Analytics",
+        "Predictive Maintenance",
+        "OT Data"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "همکاری زیمنس و FESTO برای یکپارچه‌سازی تجهیزات پنوماتیک در بستر TIA Portal",
+      "summary": "شرکت‌های زیمنس و فستو توافق‌نامه جدیدی را برای توسعه کتابخانه‌های بلوک‌های تابع در TIA Portal امضا کردند. این همکاری امکان یکپارچه‌سازی سریع‌تر و آسان‌تر جزایر سوپاپ و تجهیزات پنوماتیک فستو را با سیستم‌های کنترل SIMATIC فراهم می‌کند. مهندسان می‌توانند زمان مهندسی و راه‌اندازی ماشین‌آلات را تا حد زیادی کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 15:02",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/automation/siemens-festo-tia-portal-integration",
+      "tags": [
+        "TIA Portal",
+        "Festo",
+        "Pneumatics",
+        "System Integration"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "معرفی کنترلرهای ایمنی جدید SIMATIC S7-1500F برای برنامه‌های روباتیک پیچیده",
+      "summary": "نسخه جدید کنترلرهای ایمنی SIMATIC S7-1500F زیمنس با زمان چرخه کوتاه‌تر برای کاربردهای رباتیک پیشرفته معرفی شدند. این کنترلرها با پشتیبانی از پروتکل PROFIsafe، بالاترین سطح ایمنی (SIL 3 / PLe) را در تعاملات انسان و ربات تضمین می‌کنند. این محصول برای خطوط مونتاژ خودکار خودروسازی بسیار ایده‌آل است.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 15:02",
+      "source": "Design World",
+      "source_url": "https://www.designworld.com/siemens-simatic-s7-1500f-safety-controllers-robotics",
+      "tags": [
+        "SIMATIC S7-1500F",
+        "Safety PLC",
+        "PROFIsafe",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "ارتقای سیستم کنترل توزیع‌یافته SIMATIC PCS 7 با ابزارهای مهندسی مبتنی بر وب",
+      "summary": "زیمنس نسخه جدید بسته نرم‌افزاری SIMATIC PCS 7 V9.1 SP3 را با قابلیت‌های گسترده مانیتورینگ تحت وب منتشر کرد. این بروزرسانی به اپراتورها اجازه می‌دهد تا به صورت امن از طریق مرورگرهای استاندارد به تصاویر فرآیندی دسترسی داشته باشند. این راهکار انعطاف‌پذیری اتاق‌های کنترل را در صنایع پتروشیمی و پالایشگاهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 12:10",
+      "collected_at": "1405/07/25 15:02",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/siemens-simatic-pcs-7-web-features",
+      "tags": [
+        "SIMATIC PCS 7",
+        "DCS",
+        "Web HMI",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "توسعه زیرساخت‌های ارتباطی پروفینت با سوئیچ‌های مدیریت‌شده جدید SCALANCE X",
+      "summary": "خانواده سوئیچ‌های صنعتی SCALANCE X زیمنس با مدل‌های جدید مجهز به پورت‌های سرعت بالا گسترش یافت. این تجهیزات شبکه‌ای برای پشتیبانی از بارهای ترافیکی سنگین در کارخانه‌های دیجیتال کاملاً بهینه‌سازی شده‌اند. این سوئیچ‌ها پایداری ارتباطات زمان‌بندی شده (IRT) را در شبکه‌های بزرگ PROFIBUS و PROFINET تضمین می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 12:55",
+      "collected_at": "1405/07/25 15:02",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/news/siemens-scalance-x-industrial-switches",
+      "tags": [
+        "SCALANCE",
+        "PROFINET",
+        "Industrial Ethernet",
+        "Network Infrastructure"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "انتشار گزارش جدید بازار اتوماسیون صنعتی: رشد تقاضا برای نرم‌افزارهای دوقلوی دیجیتال",
+      "summary": "تحلیلگران بازار اتوماسیون صنعتی در گزارش تازه خود از رشد ۳۰ درصدی تقاضا برای پلتفرم‌های دوقلوی دیجیتال خبر دادند. شرکت‌هایی مانند زیمنس با توسعه ابزارهای شبیه‌سازی مبتنی بر ابر پیشتاز این عرصه هستند. این فناوری به تولیدکنندگان امکان می‌دهد قبل از ساخت فیزیکی کارخانه، تمامی فرآیندها را بهینه‌سازی کنند.",
+      "category": "research",
+      "published_at": "1405/07/25 13:40",
+      "collected_at": "1405/07/25 15:02",
+      "source": "ARC Advisory Group",
+      "source_url": "https://www.arcweb.com/industry-news/industrial-automation-digital-twin-market-2026",
+      "tags": [
+        "Digital Twin",
+        "Market Research",
+        "Siemens Xcelerator",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "معرفی رله‌های حفاظتی هوشمند SIRIUS جهت پایش وضعیت موتورهای الکتریکی",
+      "summary": "نسخه جدید رله‌های اضافه‌بار و حفاظتی SIRIUS زیمنس با قابلیت اندازه‌گیری پیوسته جریان و توان موتور معرفی شد. این تجهیزات هوشمند داده‌های تشخیصی را از طریق ارتباط IO-Link به سیستم کنترل ارسال می‌کنند. این رویکرد به تیم‌های نگهداری کمک می‌کند تا خرابی‌های مکانیکی موتورها را پیش از توقف خط تولید شناسایی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 14:20",
+      "collected_at": "1405/07/25 15:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sirius-intelligent-relays-motor-monitoring",
+      "tags": [
+        "SIRIUS",
+        "IO-Link",
+        "Motor Protection",
+        "Condition Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "گسترش همکاری زیمنس و دانشگاه فنی مونیخ در زمینه پژوهش‌های هوش مصنوعی صنعتی",
+      "summary": "زیمنس و دانشگاه فنی مونیخ (TUM) از راه‌اندازی یک مرکز تحقیقاتی جدید برای کاربردهای هوش مصنوعی در اتوماسیون خبر دادند. این آزمایشگاه مشترک بر توسعه الگوریتم‌های یادگیری ماشین برای خودکارسازی فرآیندهای مهندسی تمرکز خواهد کرد. این پروژه گامی مهم در جهت پرورش نسل آینده مهندسان تسلط‌یافته بر فناوری‌های دیجیتال است.",
+      "category": "news",
+      "published_at": "1405/07/25 15:00",
+      "collected_at": "1405/07/25 15:02",
+      "source": "TUM News",
+      "source_url": "https://www.tum.de/en/news-and-events/all-news/press-releases/siemens-ai-research-lab-tum",
+      "tags": [
+        "Artificial Intelligence",
+        "TUM",
+        "Research and Development",
+        "Industrial Automation"
       ]
     }
   ]
