@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 563,
+  "count": 571,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 21:04",
+  "updated_at": "1405/07/25 21:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8943,6 +8943,129 @@
         "Drives",
         "Energy Efficiency",
         "Motors"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "یکپارچه‌سازی هوش مصنوعی در درایوهای SINAMICS برای کاهش مصرف انرژی",
+      "summary": "زیمنس از قابلیت‌های جدید هوش مصنوعی در درایوهای سری SINAMICS رونمایی کرد که به بهینه‌سازی مصرف انرژی در موتورهای صنعتی کمک می‌کند. این فناوری با تحلیل الگوهای حرکتی، اتلاف توان را تا ۱۵ درصد کاهش می‌دهد. این اقدام گامی مهم در راستای پایداری محیط‌زیستی در کارخانه‌های هوشمند محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 21:06",
+      "collected_at": "1405/07/25 21:06",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/drives.html",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "AI",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش قابلیت‌های پایش وضعیت در Industrial Edge برای صنایع سنگین",
+      "summary": "پلتفرم Industrial Edge زیمنس اکنون از الگوریتم‌های پیشرفته برای پایش وضعیت تجهیزات دوار در صنایع سنگین پشتیبانی می‌کند. این به‌روزرسانی به مدیران کارخانه اجازه می‌دهد تا خرابی‌های احتمالی را پیش از وقوع شناسایی کنند. این راهکار با کاهش زمان توقف تولید، بهره‌وری کلی تجهیزات را به شدت افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 21:06",
+      "collected_at": "1405/07/25 21:06",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/industrial-edge",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "استاندارد جدید امنیت سایبری برای سیستم‌های SIMATIC S7-1500",
+      "summary": "زیمنس استانداردهای امنیتی جدیدی را برای کنترلرهای SIMATIC S7-1500 معرفی کرده است تا در برابر تهدیدات سایبری پیچیده مقاوم‌تر شوند. این قابلیت‌ها شامل رمزنگاری سخت‌افزاری پیشرفته و احراز هویت چندعاملی برای دسترسی به شبکه است. این تغییرات برای حفاظت از زیرساخت‌های حیاتی در برابر حملات بدافزاری بسیار ضروری است.",
+      "category": "regulation",
+      "published_at": "1405/07/25 21:06",
+      "collected_at": "1405/07/25 21:06",
+      "source": "Cybersecurity Industrial News",
+      "source_url": "https://www.siemens.com/cybersecurity",
+      "tags": [
+        "SIMATIC",
+        "Cybersecurity",
+        "PLC",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "همکاری زیمنس و انویدیا برای شبیه‌سازی دقیق خطوط تولید خودرو",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه دوقلوهای دیجیتال در مقیاس بزرگ برای صنعت خودروسازی گسترش دادند. این همکاری امکان شبیه‌سازی دقیق رفتار ربات‌ها و ماشین‌آلات را در محیط مجازی فراهم می‌کند. با این ابزار، شرکت‌ها می‌توانند پیش از ساخت فیزیکی، تمامی فرآیندهای تولید را بهینه‌سازی کنند.",
+      "category": "industry",
+      "published_at": "1405/07/25 21:06",
+      "collected_at": "1405/07/25 21:06",
+      "source": "Industrial Digitalization Review",
+      "source_url": "https://www.siemens.com/nvidia-partnership",
+      "tags": [
+        "Digital Twin",
+        "NVIDIA",
+        "Automotive",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "معرفی ماژول‌های ورودی/خروجی جدید برای سیستم ET 200SP",
+      "summary": "خانواده سیستم‌های توزیع‌یافته SIMATIC ET 200SP با معرفی ماژول‌های جدید ورودی/خروجی هوشمند توسعه یافت. این ماژول‌ها قابلیت تشخیص خطای بلادرنگ را دارا بوده و نصب آن‌ها در تابلوهای برق بسیار ساده‌تر شده است. این محصول جدید برای افزایش انعطاف‌پذیری در طراحی سیستم‌های اتوماسیون مقیاس‌پذیر طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/25 21:06",
+      "collected_at": "1405/07/25 21:06",
+      "source": "Siemens Industry Mall",
+      "source_url": "https://mall.industry.siemens.com",
+      "tags": [
+        "ET 200SP",
+        "I/O Modules",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "توسعه زیرساخت‌های ۵G در کارخانه‌های هوشمند با تجهیزات زیمنس",
+      "summary": "زیمنس با پیاده‌سازی شبکه‌های خصوصی 5G در سایت‌های تولیدی، امکان ارتباط بی‌سیم با تاخیر بسیار کم را برای ربات‌های خودمختار فراهم کرده است. این زیرساخت به کارخانه‌ها اجازه می‌دهد تا انعطاف‌پذیری خطوط تولید را به شدت افزایش دهند. استفاده از 5G جایگزین مناسبی برای کابل‌کشی‌های پرهزینه در محیط‌های صنعتی است.",
+      "category": "industry",
+      "published_at": "1405/07/25 21:06",
+      "collected_at": "1405/07/25 21:06",
+      "source": "Tech Industrial Journal",
+      "source_url": "https://www.siemens.com/5g-industry",
+      "tags": [
+        "5G",
+        "Smart Factory",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "بهینه‌سازی زنجیره تامین با استفاده از پلتفرم Insights Hub",
+      "summary": "پلتفرم Insights Hub زیمنس اکنون ابزارهای جدیدی برای تحلیل زنجیره تامین و پیش‌بینی تقاضا ارائه می‌دهد. با اتصال داده‌های تولید به سیستم‌های لجستیک، کارخانه‌ها می‌توانند موجودی قطعات را به صورت خودکار مدیریت کنند. این یکپارچگی باعث کاهش هزینه‌های انبارداری و افزایش سرعت پاسخگویی به مشتریان می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 21:06",
+      "collected_at": "1405/07/25 21:06",
+      "source": "Logistics Automation News",
+      "source_url": "https://www.siemens.com/insights-hub",
+      "tags": [
+        "Insights Hub",
+        "Supply Chain",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "معرفی فلومترهای هوشمند SITRANS برای صنایع شیمیایی",
+      "summary": "نسل جدید فلومترهای SITRANS زیمنس با قابلیت‌های هوشمند برای پایش دقیق سیالات در صنایع شیمیایی عرضه شد. این دستگاه‌ها مجهز به حسگرهای پیشرفته‌ای هستند که تغییرات فشار و دما را به صورت آنی گزارش می‌دهند. این دقت بالا به بهبود کیفیت محصولات نهایی و کاهش ضایعات در فرآیندهای شیمیایی کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 21:06",
+      "collected_at": "1405/07/25 21:06",
+      "source": "Process Industry News",
+      "source_url": "https://www.siemens.com/sitrans",
+      "tags": [
+        "SITRANS",
+        "Instrumentation",
+        "Chemical Industry"
       ]
     }
   ]
