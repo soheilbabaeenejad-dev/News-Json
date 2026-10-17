@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 467,
+  "count": 477,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 17:04",
+  "updated_at": "1405/07/25 18:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7444,6 +7444,166 @@
         "DCS",
         "Process Control",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای اتصال امن به شبکه‌های ابری",
+      "summary": "شرکت زیمنس ماژول ارتباطی جدید CP 1543-1 را برای کنترلرهای SIMATIC S7-1500 معرفی کرد که امکان اتصال امن و رمزنگاری‌شده به پلتفرم‌های ابری را فراهم می‌سازد. این ماژول با پشتیبانی از پروتکل‌های پیشرفته امنیتی، از داده‌های حساس صنعتی در برابر نفوذهای سایبری محافظت می‌کند. استفاده از این ابزار به مهندسان اجازه می‌دهد تا پایش از راه دور تجهیزات را با اطمینان خاطر بیشتری پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 18:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/cp-1543-1-secure-cloud-connection",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Industrial Security",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "بهینه‌سازی مصرف آب در خطوط تولید با راهکار Integrated Water Management زیمنس",
+      "summary": "زیمنس از راهکار جامع Integrated Water Management برای پایش و کاهش مصرف آب در کارخانه‌های بزرگ صنعتی پرده برداشت. این نرم‌افزار با استفاده از سنسورهای هوشمند SITRans و تحلیل داده‌های بلادرنگ در پلتفرم Insights Hub، نقاط اتلاف آب را شناسایی می‌کند. این فناوری به شرکت‌ها کمک می‌کند تا علاوه بر کاهش هزینه‌های عملیاتی، استانداردهای سخت‌گیرانه زیست‌محیطی را رعایت کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 18:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/siemens-water-management-insights-hub",
+      "tags": [
+        "Insights Hub",
+        "SITRANS",
+        "Sustainability",
+        "Water Management"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "گسترش قابلیت‌های مانیتورینگ ارتعاش در Industrial Edge با اپلیکیشن جدید",
+      "summary": "نسخه جدید اپلیکیشن Vibration Analytics برای پلتفرم Industrial Edge زیمنس عرضه شد که قابلیت پیش‌بینی خرابی یاتاقان‌ها را به‌طور چشمگیری افزایش می‌دهد. این ابزار لبه‌ای با پردازش محلی داده‌های ارتعاشی موتورهای سنگین، زمان توقف اضطراب‌آور خطوط تولید را به حداقل می‌رساند. صنایع سنگین با به‌کارگیری این فناوری می‌توانند هزینه‌های تعمیر و نگهداری اضطرابی را تا حد زیادی کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 18:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-industrial-edge-vibration-analytics-update",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Vibration Analysis",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "همکاری زیمنس و FESTO برای توسعه استانداردهای ماژولار در پنوماتیک صنعتی",
+      "summary": "زیمنس و شرکت فستو توافقنامه همکاری جدیدی را برای یکپارچه‌سازی تجهیزات پنوماتیک با معماری TIA Portal امضا کردند. این همکاری به برنامه‌نویسان سیستم‌های اتوماسیون اجازه می‌دهد تا بلوک‌های کنترلی شیرهای برقی را با سرعت بیشتری پیکربندی کنند. هدف اصلی این پروژه، ساده‌سازی طراحی ماشین‌آلات پیچیده و کاهش زمان راه‌اندازی خطوط تولیدی است.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 18:00",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.iaasiaonline.com/siemens-festo-pneumatic-modular-integration",
+      "tags": [
+        "TIA Portal",
+        "Festo",
+        "Pneumatics",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "معرفی پنل‌های اپراتوری جدید SIMATIC HMI Unified Comfort Panels PRO",
+      "summary": "سری جدید پنل‌های اپراتوری SIMATIC HMI Unified Comfort Panels PRO با طراحی مقاوم برای نصب بدون کابینت در محیط‌های خشن صنعتی معرفی شدند. این نمایشگرها با پشتیبانی کامل از فناوری HTML5 و قابلیت‌های وب‌پایه، دسترسی به تصاویر گرافیکی اسکاردا را به صورت مستقیم روی دستگاه فراهم می‌کنند. این محصول انعطاف‌پذیری اپراتورها را در سالن‌های تولید وسیع به‌طور قابل‌توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 18:00",
+      "source": "Siemens Global",
+      "source_url": "https://new.siemens.com/global/en/products/automation/simatic-hmi/unified-comfort-panels-pro.html",
+      "tags": [
+        "SIMATIC HMI",
+        "Unified Comfort",
+        "SCADA",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "افزایش بهره‌وری انرژی در کمپرسورهای صنعتی با درایوهای SINAMICS G180",
+      "summary": "سری جدید درایوهای فرکانس متغیر SINAMICS G180 زیمنس برای کاربردهای سنگین پمپ و کمپرسور در صنایع نفت و گاز به بازار عرضه شد. این درایوها با بهره‌گیری از الگوریتم‌های پیشرفته کنترل برداری، تلفات انرژی الکتریکی را در بارهای جزئی به حداقل می‌رسانند. استفاده از این تجهیزات نقش کلیدی در کاهش ردپای کربن پالایشگاه‌ها و مجتمع‌های پتروشیمی دارد.",
+      "category": "product",
+      "published_at": "1405/07/25 12:15",
+      "collected_at": "1405/07/25 18:00",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/siemens-sinamics-g180-compressor-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Oil and Gas"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "گسترش کاربرد سیستم شناسایی هوشمند SIMATIC RF600 در لجستیک انبارها",
+      "summary": "زیمنس نسل جدید ریدرهای RFID سری SIMATIC RF600 را با قابلیت خواندن همزمان تگ‌ها در سرعت‌های بالا معرفی کرد. این تجهیزات به سیستم‌های مدیریت انبار کمک می‌کنند تا ردیابی اقلام و پالت‌ها در خطوط انتقال سریع با دقت صددرصدی انجام شود. یکپارچه‌سازی این سیستم با کنترلرهای SIMATIC اتوماسیون فرآیندهای انبارداری را تسریع می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 13:00",
+      "collected_at": "1405/07/25 18:00",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/article/siemens-simatic-rf600-rfid-logistics",
+      "tags": [
+        "SIMATIC RFID",
+        "Logistics",
+        "Warehouse Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "انتشار راهنمای جدید امنیت سایبری برای شبکه‌های صنعتی پروفینت",
+      "summary": "سازمان PROFIBUS & PROFINET International نسخه به‌روزرسانی شده راهنمای امنیت سایبری را برای حفاظت از شبکه‌های ارتباطی صنعتی منتشر کرد. این سند راهکارهای عملی برای پیاده‌سازی بخش‌بندی شبکه و پروتکل‌های رمزگذاری شده در تجهیزات اتوماسیون ارائه می‌دهد. رعایت این استانداردها برای مهندسان OT جهت مقابله با تهدیدات روزافزون سایبری الزامی است.",
+      "category": "regulation",
+      "published_at": "1405/07/25 13:45",
+      "collected_at": "1405/07/25 18:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/security/article/profinet-cybersecurity-guidelines-update",
+      "tags": [
+        "PROFINET",
+        "Cybersecurity",
+        "OT Security",
+        "Standards"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "توسعه ابزارهای مهندسی معکوس برای مهاجرت از سیستم‌های قدیمی به SIMATIC S7-1500",
+      "summary": "زیمنس ابزار نرم‌افزاری جدیدی را برای تسهیل مهاجرت کدهای کنترلی از کنترلرهای قدیمی سری S7-300 به نسل جدید SIMATIC S7-1500 عرضه کرد. این ابزار به طور خودکار منطق برنامه‌نویسی و ساختار بلوک‌ها را در محیط TIA Portal بازسازی و بهینه‌سازی می‌کند. این راهکار زمان و هزینه‌های توقف خط تولید را هنگام نوسازی تجهیزات قدیمی کارخانه‌ها به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 14:30",
+      "collected_at": "1405/07/25 18:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-migration-tool-s7-1500",
+      "tags": [
+        "TIA Portal",
+        "SIMATIC S7-1500",
+        "Migration",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "ارتقای پلتفرم Simcenter Amesim برای شبیه‌سازی پیشرفته سیستم‌های هیدرولیک",
+      "summary": "نسخه جدید نرم‌افزار Simcenter Amesim از سوی زیمنس با قابلیت‌های پیشرفته برای مدل‌سازی دینامیکی مدارهای هیدرولیک و پنوماتیک منتشر شد. این ابزار مهندسی به طراحان ماشین‌آلات صنعتی امکان می‌دهد تا رفتار سیالات را پیش از ساخت نمونه فیزیکی با دقت بالایی شبیه‌سازی کنند. این رویکرد نوآورانه خطاهای طراحی مکانیکی را کاهش داده و روند توسعه محصولات صنعتی را تسریع می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/25 15:15",
+      "collected_at": "1405/07/25 18:00",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/story/siemens-releases-simcenter-amesim-hydraulics-update",
+      "tags": [
+        "Simcenter",
+        "Digital Twin",
+        "Simulation",
+        "Engineering Software"
       ]
     }
   ]
