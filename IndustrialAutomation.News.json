@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 167,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 11:00",
+  "count": 177,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/25 11:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2651,6 +2651,166 @@
         "Energy Storage",
         "Microgrid",
         "Substation Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی کنترلرهای جدید SIMATIC S7-1200 با ویژگی‌های ارتباطی پیشرفته",
+      "summary": "شرکت زیمنس از نسل تازه کنترلرهای منطقی برنامه‌پذیر سری SIMATIC S7-1200 با امکانات ارتباطی گسترده‌تر رونمایی کرد. این سری جدید با پشتیبانی بهبودیافته از پروتکل‌های صنعتی، سرعت پردازش داده‌ها را در خطوط تولید کوچک و متوسط افزایش می‌دهد. این ارتقا به مهندسان کمک می‌کند تا تجهیزات اتوماسیون را با انعطاف‌پذیری بیشتری در بستر TIA Portal یکپارچه‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:15",
+      "collected_at": "1405/07/25 11:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/news/siemens-simatic-s7-1200-update",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "TIA Portal",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پایش انرژی در نرم‌افزار SIMATIC Energy Manager",
+      "summary": "نسخه جدید نرم‌افزار مدیریت انرژی زیمنس با قابلیت‌های پیشرفته برای تحلیل مصرف برق و گاز در کارخانه‌های بزرگ صنعتی عرضه شد. این ابزار به مدیران صنعتی امکان می‌دهد تا نقاط پرمصرف خطوط تولید را شناسایی کرده و با بهینه‌سازی عملکرد درایوها، هزینه‌های انرژی را به طور چشمگیری کاهش دهند. این نرم‌افزار به‌طور کامل با سیستم‌های اسکادا و کنترل توزیع‌یافته همگام‌سازی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 08:45",
+      "collected_at": "1405/07/25 11:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-simatic-energy-manager-update",
+      "tags": [
+        "Energy Management",
+        "SIMATIC",
+        "Industrial Software",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "راهکار جامع زیمنس برای امنیت لبه شبکه در صنایع خودروسازی",
+      "summary": "زیمنس از یک ماژول امنیتی جدید مبتنی بر پلتفرم Industrial Edge برای حفاظت از تجهیزات حساس در کارخانه‌های خودروسازی خبر داد. این راهکار با پایش بلادرنگ ترافیک شبکه OT، از حملات سایبری به کنترلرهای صنعتی جلوگیری می‌کند. این فناوری به خودروسازان کمک می‌کند تا استانداردهای سخت‌گیرانه امنیت سایبری IEC 62443 را به راحتی پیاده‌سازی کنند.",
+      "category": "news",
+      "published_at": "1405/07/25 09:10",
+      "collected_at": "1405/07/25 11:01",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-industrial-edge-security",
+      "tags": [
+        "Industrial Edge",
+        "Cybersecurity",
+        "OT Security",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "ارتقای سیستم‌های اسکادا با راهکارهای مبتنی بر وب زیمنس",
+      "summary": "نسخه جدید سیستم‌های نظارت و کنترل اسکادا زیمنس با معماری کاملاً مبتنی بر وب و رابط کاربری انعطاف‌پذیر منتشر شد. این ویژگی به اپراتورها اجازه می‌دهد تا وضعیت خطوط تولید را از طریق مرورگرهای مختلف و با امنیت بالا در هر مکانی پایش کنند. این تحول دیجیتال زمان واکنش به هشدارهای خط را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:30",
+      "collected_at": "1405/07/25 11:01",
+      "source": "IEB Media",
+      "source_url": "https://www.iebmedia.com/automation/siemens-web-based-scada-solutions",
+      "tags": [
+        "SCADA",
+        "Digitalization",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری راهبردی برای توسعه ربات‌های صنعتی هوشمند در خطوط مونتاژ",
+      "summary": "شرکت ABB با همکاری سازندگان تجهیزات اتوماسیون، نسل جدیدی از ربات‌های مشارکتی را با سیستم‌های کنترل پیشرفته سازگار کرد. این ربات‌ها قادرند با استفاده از الگوریتم‌های یادگیری ماشین، مسیر حرکت خود را در مواجهه با موانع کارگاهی به صورت پویا تنظیم کنند. این نوآوری ایمنی اپراتورها را در کارخانه‌های هوشمند به شکل قابل توجهی افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/25 09:50",
+      "collected_at": "1405/07/25 11:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/2026/10/abb-collaborative-robots-update",
+      "tags": [
+        "Robotics",
+        "Cobots",
+        "Factory Automation",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی نسل جدید سنسورهای فشار دیجیتال SITRANS برای صنایع پتروشیمی",
+      "summary": "خط تولید تجهیزات ابزار دقیق زیمنس با معرفی سری جدید سنسورهای فشار دیجیتال SITRANS توسعه یافت. این سنسورها با دارا بودن گواهینامه‌های ضدانفجار سخت‌گیرانه، برای کار در محیط‌های پرخطر پالایشگاهی طراحی شده‌اند. قابلیت عیب‌یابی خودکار در این تجهیزات، زمان توقف اضطراب‌آور واحدهای صنعتی را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:05",
+      "collected_at": "1405/07/25 11:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/instruments-automation/siemens-sitrans-pressure-sensors",
+      "tags": [
+        "SITRANS",
+        "Instrumentation",
+        "Process Automation",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه زیرساخت‌های ارتباطی 5G اختصاصی در کارخانه‌های هوشمند",
+      "summary": "پروژه مشترک زیمنس و اریکسون برای پیاده‌سازی شبکه‌های 5G صنعتی در سایت‌های تولیدی به مرحله عملیاتی رسید. این فناوری ارتباطی پرسرعت و با تاخیر بسیار پایین، امکان اتصال صدها سنسور بی‌سیم و ربات متحرک را به صورت همزمان فراهم می‌کند. این زیرساخت ستون فقرات لازم برای انتقال حجم عظیمی از داده‌ها به پلتفرم‌های ابری را ایجاد می‌نماید.",
+      "category": "news",
+      "published_at": "1405/07/25 10:20",
+      "collected_at": "1405/07/25 11:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/wireless-iot/siemens-ericsson-private-5g-manufacturing",
+      "tags": [
+        "5G",
+        "Industrial IoT",
+        "Wireless",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهینه‌سازی تعمیر و نگهداری پیش‌بینانه با راهکارهای هوش مصنوعی Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس قابلیت‌های جدیدی مبتنی بر هوش مصنوعی برای پیش‌بینی خرابی تجهیزات مکانیکی دریافت کرد. این ماژول جدید با تحلیل الگوهای ارتعاش و دمای موتورهای صنعتی، زمان دقیق نیاز بهسرویس قطعات را اعلام می‌کند. این رویکرد پیشگیرانه هزینه‌های تعمیرات اضطرابی را در کارخانه‌های تولید انبوه کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:35",
+      "collected_at": "1405/07/25 11:01",
+      "source": "InTech Magazine",
+      "source_url": "https://www.intechplus.com/siemens-insights-hub-ai-predictive-maintenance",
+      "tags": [
+        "Insights Hub",
+        "Predictive Maintenance",
+        "Cloud",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گسترش سبد محصولات درایو SINAMICS با تمرکز بر بازدهی بالا",
+      "summary": "زیمنس خانواده درایوهای فرکانس متغیر SINAMICS را با مدل‌های جدید مجهز به فناوری بازگردانی انرژی به شبکه توسعه داد. این درایوها با بهینه‌سازی توان مصرفی موتورهای الکتریکی بزرگ، نقش مهمی در کاهش ردپای کربن صنایع سنگین ایفا می‌کنند. مهندسان می‌توانند این تجهیزات را به راحتی از طریق پلتفرم مهندسی TIA Portal پیکربندی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 10:48",
+      "collected_at": "1405/07/25 11:01",
+      "source": "Drive & Control",
+      "source_url": "https://www.drivesncontrols.com/news/full-story/siemens-expands-sinamics-drives-portfolio",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "انتشار گزارش جامع امنیت سایبری شبکه‌های صنعتی در سال ۲۰۲۶",
+      "summary": "انجمن بین‌المللی اتوماسیون گزارش تازه‌ای پیرامون تهدیدات سایبری علیه زیرساخت‌های حیاتی و شبکه‌های OT منتشر کرد. این پژوهش بر اهمیت به‌روزرسانی سیستم‌های کنترل صنعتی و استفاده از راهکارهای حفاظتی لایه به لایه تأکید دارد. کارشناسان توصیه می‌کنند شرکت‌ها آموزش کارکنان را در زمینه پروتکل‌های امنیتی به عنوان یک ضرورت دنبال کنند.",
+      "category": "research",
+      "published_at": "1405/07/25 11:00",
+      "collected_at": "1405/07/25 11:01",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/reports/global-industrial-cybersecurity-report-2026",
+      "tags": [
+        "Cybersecurity",
+        "OT/ICS",
+        "Report",
+        "Industrial Automation"
       ]
     }
   ]
