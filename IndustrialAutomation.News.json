@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 88,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 04:04",
+  "count": 98,
+  "provider": "Gemini/gemini-robotics-er-2-preview",
+  "updated_at": "1405/07/25 04:19",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1389,6 +1389,156 @@
         "Training",
         "Digital Twin",
         "Education"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی ایستگاه کاری نرم‌افزاری SIMATIC Workstation برای اتوماسیون تعریف‌شده با نرم‌افزار",
+      "summary": "زیمنس با معرفی SIMATIC Workstation گام مهمی در جهت اتوماسیون تعریف‌شده با نرم‌افزار برداشته است. این پلتفرم جدید به تولیدکنندگان اجازه می‌دهد تا چندین عملکرد کنترلی، تجسم‌سازی و پردازش داده را روی یک سخت‌افزار واحد صنعتی اجرا کنند. این راهکار با کاهش هزینه‌های سخت‌افزاری و تسهیل مدیریت سیستم، انعطاف‌پذیری خطوط تولید را به شدت افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 14:30",
+      "collected_at": "1405/07/25 04:19",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-redefines-automation-simatic-workstation",
+      "tags": [
+        "SIMATIC",
+        "Industrial IoT",
+        "Software Defined Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "ادغام دستیار هوش مصنوعی Copilot در سیستم مانیتورینگ WinCC Unified زیمنس",
+      "summary": "شرکت زیمنس با همکاری مایکروسافت، دستیار هوش مصنوعی مولد Copilot را به سیستم اسکادا و مانیتورینگ WinCC Unified اضافه کرده است. این ابزار به اپراتورها کمک می‌کند تا با استفاده از زبان طبیعی، گزارش‌های پیچیده تولید کنند و کدهای اسکریپت‌نویسی را سریع‌تر بنویسند. این ادغام زمان عیب‌یابی در خطوط تولید را تا ۳۰ درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 15:45",
+      "collected_at": "1405/07/25 04:19",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/software/article/33012345/siemens-integrates-copilot-into-wincc-unified",
+      "tags": [
+        "WinCC Unified",
+        "Generative AI",
+        "Microsoft Copilot"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "رونمایی از سوئیچ‌های صنعتی جدید سری SCALANCE XC-200 با پشتیبانی از فناوری TSN",
+      "summary": "زیمنس نسل جدید سوئیچ‌های شبکه صنعتی SCALANCE XC-200 را با قابلیت پشتیبانی از شبکه‌های حساس به زمان (TSN) روانه بازار کرد. این سوئیچ‌ها ارتباطات بلادرنگ و بسیار ایمن را در محیط‌های سخت کارخانه‌ای تضمین می‌کنند. این تجهیزات برای صنایع خودروسازی و فرآیندی که نیاز به پهنای باند بالا و تاخیر بسیار کم دارند، طراحی شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/24 17:15",
+      "collected_at": "1405/07/25 04:19",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iep-net.com/siemens-launches-scalance-xc200-tsn-switches",
+      "tags": [
+        "SCALANCE",
+        "TSN",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "ارتقای نرم‌افزار تعمیر و نگهداری پیش‌بینانه Senseye زیمنس با هوش مصنوعی مولد",
+      "summary": "زیمنس نسخه جدید پلتفرم Senseye Predictive Maintenance را مجهز به قابلیت‌های هوش مصنوعی مولد معرفی کرد. این سیستم اکنون می‌تواند هشدارهای خرابی ماشین‌آلات را به تحلیل‌های متنی ساده و راهکارهای گام‌به‌گام برای تکنسین‌ها تبدیل کند. این نوآوری زمان توقف برنامه‌ریزی‌نشده تجهیزات را در صنایع بزرگ تا حد زیادی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 19:00",
+      "collected_at": "1405/07/25 04:19",
+      "source": "Smart Industry",
+      "source_url": "https://www.smartindustry.com/siemens-senseye-generative-ai-upgrade",
+      "tags": [
+        "Senseye",
+        "Predictive Maintenance",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "همکاری زیمنس و یونیورسال رباتس برای کنترل مستقیم بازوهای رباتیک در TIA Portal",
+      "summary": "شرکت زیمنس و یونیورسال رباتس همکاری جدیدی را آغاز کرده‌اند که به کاربران اجازه می‌دهد ربات‌های همکار (کوبات) را مستقیماً از طریق محیط نرم‌افزاری TIA Portal برنامه‌نویسی و کنترل کنند. این کار با استفاده از کتابخانه استاندارد SRCI انجام می‌شود و نیاز به دانش تخصصی برنامه‌نویسی ربات را حذف می‌کند و سرعت راه‌اندازی خطوط را افزایش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/24 21:10",
+      "collected_at": "1405/07/25 04:19",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/news/siemens-universal-robots-tia-portal-integration",
+      "tags": [
+        "TIA Portal",
+        "Universal Robots",
+        "SRCI"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "رونمایی از کامپیوترهای صنعتی فشرده SIMATIC IPC BX-39 برای پردازش‌های لبه",
+      "summary": "زیمنس از کامپیوتر صنعتی جدید و بدون فن SIMATIC IPC BX-39 رونمایی کرد که برای کاربردهای پردازش لبه (Edge Computing) در محیط‌های سخت صنعتی بهینه‌سازی شده است. این دستگاه با پردازنده‌های قدرتمند اینتل و طراحی بسیار فشرده، امکان تحلیل داده‌های حجیم سنسورها را در نزدیکی خط تولید فراهم کرده و امنیت داده‌ها را بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/24 23:00",
+      "collected_at": "1405/07/25 04:19",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-introduces-simatic-ipc-bx39",
+      "tags": [
+        "SIMATIC IPC",
+        "Edge Computing",
+        "Industrial PC"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "گسترش همکاری زیمنس و اس‌آ‌پ برای یکپارچه‌سازی عمیق‌تر سیستم‌های IT و OT",
+      "summary": "دو غول فناوری زیمنس و SAP همکاری استراتژیک خود را برای پل زدن میان دنیای فناوری اطلاعات (IT) و فناوری عملیاتی (OT) گسترش دادند. این مشارکت به کارخانه‌ها اجازه می‌دهد تا داده‌های بلادرنگ تولید را مستقیماً به سیستم‌های برنامه‌ریزی منابع سازمانی (ERP) متصل کنند. این امر موجب بهینه‌سازی زنجیره تامین و تصمیم‌گیری‌های مالی دقیق‌تر می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/25 00:45",
+      "collected_at": "1405/07/25 04:19",
+      "source": "Enterprise IoT Insights",
+      "source_url": "https://enterpriseiotinsights.com/siemens-sap-expand-it-ot-partnership",
+      "tags": [
+        "SAP",
+        "IT-OT Integration",
+        "ERP"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "معرفی کنتور آب باتری‌خور SITRANS FM MAG 8000 با قابلیت اتصال سلولار",
+      "summary": "بخش صنایع فرآیندی زیمنس از نسخه جدید کنتورهای جریان مغناطیسی SITRANS FM MAG 8000 رونمایی کرد که مجهز به ماژول ارتباطی سلولار داخلی هستند. این تجهیزات بدون نیاز به منبع تغذیه خارجی تا ده سال کار می‌کنند و داده‌های مصرف آب را به صورت بی‌سیم به سیستم‌های اسکادا ارسال می‌نمایند که برای مدیریت هوشمند شبکه‌های توزیع آب حیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/25 01:30",
+      "collected_at": "1405/07/25 04:19",
+      "source": "Water Technology",
+      "source_url": "https://www.watertechonline.com/siemens-sitrans-mag8000-cellular-upgrade",
+      "tags": [
+        "SITRANS",
+        "Flowmeter",
+        "Water Management"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "معرفی راهکار جدید شناسایی ناهنجاری صنعتی زیمنس برای حفاظت از شبکه‌های OT",
+      "summary": "زیمنس ابزار جدیدی به نام Industrial Anomaly Detection را برای پایش مداوم و شناسایی تهدیدات سایبری در شبکه‌های اتوماسیون صنعتی معرفی کرد. این نرم‌افزار با تحلیل الگوهای ترافیک شبکه و رفتارهای غیرعادی تجهیزات، از حملات سایبری به زیرساخت‌های حساس جلوگیری می‌کند. این راهکار به راحتی با سیستم‌های مدیریت امنیت زیمنس یکپارچه می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 02:50",
+      "collected_at": "1405/07/25 04:19",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-launches-industrial-anomaly-detection-for-ot",
+      "tags": [
+        "Cybersecurity",
+        "OT Security",
+        "Anomaly Detection"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "رونمایی از سیستم درایو سروو ارتقایافته SINAMICS S210 برای کاربردهای دینامیکی متوسط",
+      "summary": "زیمنس سیستم درایو سروو جدید SINAMICS S210 را با قابلیت‌های ایمنی پیشرفته و راندمان انرژی بالاتر برای ماشین‌آلات بسته‌بندی و جابجایی مواد معرفی کرد. این درایو با موتورهای سیماتیک هماهنگی کامل دارد و از طریق کابل واحد (OCC) متصل می‌شود که سیم‌کشی را ساده می‌کند. این سیستم زمان راه‌اندازی ماشین‌آلات را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 03:40",
+      "collected_at": "1405/07/25 04:19",
+      "source": "Drives & Controls",
+      "source_url": "https://drivesncontrols.com/siemens-upgrades-sinamics-s210-servo-system",
+      "tags": [
+        "SINAMICS",
+        "Servo Drive",
+        "Motion Control"
       ]
     }
   ]
