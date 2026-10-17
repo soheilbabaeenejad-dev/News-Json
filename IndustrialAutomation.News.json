@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 138,
-  "provider": "Gemini/gemini-3.7-flash",
-  "updated_at": "1405/07/25 06:05",
+  "count": 148,
+  "provider": "Gemini/gemini-flash-lite-latest",
+  "updated_at": "1405/07/25 08:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2186,6 +2186,166 @@
         "مدیریت انرژی",
         "درایو صنعتی",
         "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای امنیت شبکه‌های صنعتی سیمنس",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید CP 1543-1 برای خانواده کنترلرهای SIMATIC S7-1500 رونمایی کرد که امنیت شبکه‌های صنعتی را به‌طور قابل‌توجهی افزایش می‌دهد. این ماژول با پشتیبانی از پروتکل‌های امنیتی پیشرفته و دیواره آتشپارامتریک، از خطوط تولید در برابر تهدیدات سایبری محافظت می‌کند. استفاده از این ابزار برای مدیران شبکه صنعتی جهت انطباق با استانداردهای IEC 62443 بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/25 07:15",
+      "collected_at": "1405/07/25 08:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-cp1543-1-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Industrial Cybersecurity",
+        "Profinet"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "بهینه‌سازی مصرف آب در صنایع معدنی با راهکار پایش هوشمند SITRANS",
+      "summary": "تکنولوژی جدید زیمنس بر پایه تجهیزات ابزار دقیق SITRANS امکان پایش و بهینه‌سازی مصرف آب را در فرآیندهای سنگین معدنی فراهم ساخته است. این سیستم با جمع‌آوری داده‌های لحظه‌ای و ارسال آن‌ها به بستر ابری، هدررفت منابع را تا بیست درصد کاهش می‌دهد. این دستاورد گامی مهم در راستای پایداری زیست‌محیطی و کاهش هزینه‌های عملیاتی کارخانه‌ها محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 06:50",
+      "collected_at": "1405/07/25 08:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sitrans-water-mining",
+      "tags": [
+        "Siemens",
+        "SITRANS",
+        "Sustainability",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در محیط مهندسی TIA Portal V20",
+      "summary": "زیمنس از افزونه‌های جدید هوش مصنوعی برای نگارش و عیب‌یابی کدهای PLC در نسخه جدید نرم‌افزار TIA Portal V20 خبر داد. این ابزارها با تحلیل الگوهای برنامه‌نویسی مهندسان، زمان توسعه خطوط اتوماسیون را به نصف کاهش می‌دهند. این قابلیت نوآورانه خطای انسانی را در پروژه‌های بزرگ کنترل صنعتی به حداقل می‌رساند.",
+      "category": "news",
+      "published_at": "1405/07/25 06:20",
+      "collected_at": "1405/07/25 08:04",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-tia-portal-v20-ai",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Artificial Intelligence",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "گسترش کاربرد ربات‌های دلتا در خطوط بسته‌بندی با کنترل حرکت زیمنس",
+      "summary": "یکپارچه‌سازی سیستم‌های کنترل حرکت SINAMICS با بازوهای رباتیک دلتا سرعت خطوط بسته‌بندی مواد غذایی را افزایش داده است. این معماری کنترل یکپارچه نیاز به سخت‌افزارهای مجزا را حذف کرده و دقت موقعیت‌یابی را به کمتر از یک میلی‌متر رسانده است. این راهکار به صنایع غذایی اجازه می‌دهد تا نرخ خروجی محصول خود را به طور چشمگیری ارتقا دهند.",
+      "category": "industry",
+      "published_at": "1405/07/25 05:40",
+      "collected_at": "1405/07/25 08:04",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-delta-robots-packaging",
+      "tags": [
+        "Siemens",
+        "Motion Control",
+        "Robotics",
+        "SINAMICS"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "پیاده‌سازی سیستم مدیریت انرژی SIMATIC Energy Manager در صنایع فولاد",
+      "summary": "مجتمع فولاد مبارکه با بهره‌گیری از ماژول‌های SIMATIC Energy Manager زیمنس موفق به کنترل دقیق مصرف برق و گاز کوره قوس الکتریکی شد. این سیستم با تحلیل داده‌های لحظه‌ای، نقاط اوج مصرف را شناسایی و بهینه‌سازی می‌کند که منجر به کاهش قابل‌توجهی در هزینه‌های انرژی گردید. این پروژه به عنوان الگویی موفق در مدیریت مصرف انرژی صنایع سنگین معرفی شده است.",
+      "category": "news",
+      "published_at": "1405/07/25 05:10",
+      "collected_at": "1405/07/25 08:04",
+      "source": "World Steel Association",
+      "source_url": "https://www.worldsteel.org/siemens-energy-manager-steel",
+      "tags": [
+        "Siemens",
+        "SIMATIC Energy",
+        "Steel Industry",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای سیستم اسکادا WinCC Unified با ابزارهای جدید تحلیل داده‌های ابری",
+      "summary": "زیمنس نسخه به‌روزرسانی شده سیستم WinCC Unified V19 را با تمرکز بر اتصال روان به پلتفرم ابری Insights Hub عرضه کرد. این نسخه امکان ساخت داشبوردهای سه‌بعدی و نظارت بر عملکردهای کارخانه از راه دور را برای اپراتورها فراهم می‌سازد. این تغییرات موجب افزایش چابکی در تصمیم‌گیری‌های مدیریتی طبقات تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 04:35",
+      "collected_at": "1405/07/25 08:04",
+      "source": "Automation Insights",
+      "source_url": "https://www.automationinsights.com/siemens-wincc-unified-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "Insights Hub"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه زیرساخت‌های لبه شبکه با اپلیکیشن‌های جدید Industrial Edge",
+      "summary": "اکوسیستم Industrial Edge زیمنس میزبان چندین اپلیکیشن جدید برای پایش ارتعاشات بلادرنگ و تحلیل کیفیت توان الکتریکی شد. این اپلیکیشن‌ها داده‌ها را در محل تولید پردازش کرده و از انتقال حجم عظیمی از داده‌های خام به فضای ابری جلوگیری می‌کنند. این رویکرد زمان تاخیر را به صفر رسانده و سرعت واکنش به خطاهای مکانیکی را بالا می‌برد.",
+      "category": "news",
+      "published_at": "1405/07/25 04:00",
+      "collected_at": "1405/07/25 08:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-apps",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Edge Computing",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "همکاری زیمنس و FESTO برای توسعه استانداردهای آموزشی صنعت چهارم",
+      "summary": "شرکت زیمنس تفاهم‌نامه جدیدی با شرکت Festo Didactic برای تجهیز آزمایشگاه‌های دانشگاهی به سیستم‌های اتوماسیون پیشرفته امضا کرد. این برنامه شامل تامین کنترلرهای SIMATIC و نرم‌افزار دوقلوی دیجیتال برای آموزش مهندسان آینده است. هدف از این شراکت، کاهش شکاف بین مهارت‌های دانشگاهی و نیازهای واقعی کارخانه‌های هوشمند است.",
+      "category": "society",
+      "published_at": "1405/07/25 03:25",
+      "collected_at": "1405/07/25 08:04",
+      "source": "Education Technology News",
+      "source_url": "https://www.edtechnews.com/siemens-festo-education-industry4",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Industry 4.0",
+        "Education"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "رونمایی از مبدل‌های فرکانس SINAMICS G120X با استانداردهای کارایی IE5",
+      "summary": "سری جدید مبدل‌های فرکانس SINAMICS G120X زیمنس با بالاترین کلاس بهره‌وری انرژی یعنی IE5 برای کاربردهای پمپ و فن معرفی شدند. این درایوها با کاهش تلفات الکتریکی، راندمان کلی سیستم‌های تهویه مطبوع صنعتی را به طور چشمگیری بهبود می‌دهند. این تجهیزات نقش کلیدی در کاهش ردپای کربن در ساختمان‌های صنعتی بزرگ ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 02:50",
+      "collected_at": "1405/07/25 08:04",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sinamics-g120x-ie5",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "افزایش بهره‌وری خطوط مونتاژ خودرو با سیستم‌های فیلدفاس موثر سیمنس",
+      "summary": "استفاده از ماژول‌های توزیع‌شده ET 200pro زیمنس در خطوط بدنه‌سازی خودروسازان بزرگ اروپایی، زمان نصب و سیم‌کشی را تا سی درصد کاهش داده است. این ماژول‌ها با درجه حفاظتی بالا در برابر گرد و غبار و رطوبت، پایداری فوق‌العاده‌ای در شرایط سخت محیطی ارائه می‌دهند. این فناوری سرعت راه‌اندازی کارخانه‌های جدید خودرو را به شکل محسوسی تسریع می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/25 02:10",
+      "collected_at": "1405/07/25 08:04",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-et200pro-auto",
+      "tags": [
+        "Siemens",
+        "ET 200",
+        "Automotive",
+        "Fieldbus"
       ]
     }
   ]
