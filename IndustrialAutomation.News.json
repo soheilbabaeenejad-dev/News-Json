@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 591,
+  "count": 593,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 22:03",
+  "updated_at": "1405/07/25 22:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9377,6 +9377,38 @@
         "Xcelerator",
         "Robotics",
         "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم ابری Insights Hub برای صنایع سنگین",
+      "summary": "پلتفرم Insights Hub زیمنس اکنون به ابزارهای تحلیل پیشرفته‌تری برای صنایع سنگین مجهز شده است. این به‌روزرسانی به مدیران کارخانه‌ها کمک می‌کند تا داده‌های حجیم سنسورها را به بینش‌های عملیاتی تبدیل کنند. با استفاده از این قابلیت‌ها، پیش‌بینی خرابی تجهیزات در خطوط تولید فولاد و سیمان با دقت بسیار بالاتری نسبت به گذشته انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 09:30",
+      "collected_at": "1405/07/25 22:05",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.siemens.com/insights-hub",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Analytics",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "توسعه ربات‌های خودمختار با همکاری زیمنس و شرکت‌های لجستیک پیشرو",
+      "summary": "زیمنس با همکاری چندین شرکت بزرگ لجستیک، نسل جدیدی از ربات‌های خودمختار (AMR) را برای انبارهای هوشمند معرفی کرد. این ربات‌ها با سیستم‌های مدیریت انبار زیمنس یکپارچه شده‌اند تا بهره‌وری جابجایی کالا را به حداکثر برسانند. استفاده از هوش مصنوعی در مسیر‌یابی این ربات‌ها باعث کاهش تداخل در محیط‌های کاری شلوغ شده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 11:20",
+      "collected_at": "1405/07/25 22:05",
+      "source": "Logistics Tech Daily",
+      "source_url": "https://www.siemens.com/robotics",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Logistics",
+        "Automation"
       ]
     }
   ]
