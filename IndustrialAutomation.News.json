@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 257,
+  "count": 267,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 13:01",
+  "updated_at": "1405/07/25 13:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4091,6 +4091,166 @@
         "Digital Twin",
         "Automotive",
         "Supply Chain"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای امنیت شبکه‌های صنعتی SIMATIC",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید CP 1543-1 برای کنترلرهای SIMATIC S7-1500 رونمایی کرد که امنیت شبکه‌های صنعتی را به طور چشمگیری افزایش می‌دهد. این ماژول با پشتیبانی از پروتکل‌های امنیتی پیشرفته و فایروال یکپارچه، از سیستم‌های کنترل در برابر تهدیدات سایبری محافظت می‌کند. این محصول گامی مهم در جهت ایمن‌سازی زیرساخت‌های حیاتی و ارتباطات صنعتی به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/25 08:15",
+      "collected_at": "1405/07/25 13:04",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/new-cp-1543-1-module",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Industrial Security",
+        "OT Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "بهینه‌سازی مصرف انرژی در خطوط مونتاژ با SIMATIC Energy Manager V7.2",
+      "summary": "نسخه جدید نرم‌افزار SIMATIC Energy Manager V7.2 از سوی زیمنس منتشر شد تا مدیریت مصرف انرژی در کارخانه‌ها دقیق‌تر شود. این ابزار با تحلیل بلادرنگ داده‌های مصرف، نقاط تلفات انرژی را شناسایی کرده و راهکارهای بهینه‌سازی ارائه می‌دهد. استفاده از این نرم‌افزار به واحدهای صنعتی کمک می‌کند تا استانداردهای زیست‌محیطی را راحت‌تر رعایت کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:00",
+      "collected_at": "1405/07/25 13:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/energy-management/siemens-simatic-energy-manager-v72",
+      "tags": [
+        "Siemens",
+        "Energy Management",
+        "SIMATIC",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "گسترش قابلیت‌های هوش مصنوعی در پلتفرم Industrial Edge برای پایش ارتعاشات",
+      "summary": "زیمنس قابلیت‌های هوش مصنوعی جدیدی را به اپلیکیشن‌های پایش ارتعاش در پلتفرم Industrial Edge اضافه کرد. این قابلیت‌ها به مهندسان اجازه می‌دهد تا خرابی احتمالی یاتاقان‌ها و گیربوکس‌ها را پیش از وقوع پیش‌بینی کنند. این توسعه نقش مهمی در کاهش زمان توقف اضطراب‌آور خطوط تولید دارد.",
+      "category": "topic",
+      "published_at": "1405/07/25 09:45",
+      "collected_at": "1405/07/25 13:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-expands-industrial-edge-ai-vibration-monitoring/",
+      "tags": [
+        "Industrial Edge",
+        "Artificial Intelligence",
+        "Predictive Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "همکاری زیمنس و فستو برای استانداردسازی رابط‌های پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو توافقنامه همکاری جدیدی برای یکپارچه‌سازی تجهیزات پنوماتیک با کنترلرهای SIMATIC امضا کردند. این همکاری به توسعه استانداردهای مشترک ارتباطی برای ماژول‌های فیلدباس منجر خواهد شد. مهندسان از این پس می‌توانند قطعات پنوماتیک را سریع‌تر و با کابل‌کشی کمتری در پروژه‌های TIA Portal پیاده‌سازی کنند.",
+      "category": "company",
+      "published_at": "1405/07/25 10:20",
+      "collected_at": "1405/07/25 13:04",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/siemens-festo-partnership-pneumatics",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Fieldbus"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "معرفی کنترلرهای ایمنی جدید SIMATIC S7-1500F با گواهینامه SIL3",
+      "summary": "نسخه‌های جدید کنترلرهای ایمنی SIMATIC S7-1500F با تأییدیه SIL3 برای کاربردهای پرخطر صنعتی معرفی شدند. این کنترلرها اجرای توابع ایمنی اضطراری را با سرعت و دقت بیشتری در خطوط پرس و رباتیک انجام می‌دهند. این محصول استانداردهای ایمنی ماشین‌آلات را در خطوط تولید پیچیده ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:55",
+      "collected_at": "1405/07/25 13:04",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-releases-new-safety-controllers-simatic-s7-1500f",
+      "tags": [
+        "Siemens",
+        "Safety Integrated",
+        "SIMATIC",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "ارتقای نرم‌افزار SCADA زیمنس WinCC Unified با ابزارهای گزارش‌گیری تحت وب",
+      "summary": "زیمنس نسخه به‌روزرسانی‌شده سیستم WinCC Unified V19 را با امکانات پیشرفته گزارش‌گیری تحت وب عرضه کرد. اپراتورها اکنون می‌توانند داشبوردهای گرافیکی تعاملی را بدون نیاز به نصب نرم‌افزار جانبی روی هر مرورگری مشاهده کنند. این قابلیت نظارت بر فرآیندهای صنعتی را از راه دور بسیار تسهیل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 13:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-updates-wincc-unified-v19",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "توسعه زیرساخت‌های تولید باتری خودروهای الکتریکی با فناوری اتوماسیون زیمنس",
+      "summary": "یک شرکت خودروسازی بزرگ اروپایی خط تولید جدید باتری‌های لیتیومی خود را به طور کامل بر پایه راهکارهای اتوماسیون زیمنس راه‌اندازی کرد. این پروژه شامل استفاده از دوقلوهای دیجیتال و کنترلرهای SIMATIC برای کنترل دقیق مواد شیمیایی است. این رویکرد سرعت تولید را ۲۰ درصد افزایش داده و ضایعات را به حداقل رسانده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:00",
+      "collected_at": "1405/07/25 13:04",
+      "source": "E&T Magazine",
+      "source_url": "https://eandt.theiet.org/content/articles/siemens-ev-battery-manufacturing-plant",
+      "tags": [
+        "Siemens",
+        "EV Batteries",
+        "Digital Twin",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "انتشار نسخه جدید کتابچه راهنمای امنیت سایبری برای تجهیزات SIMATIC S7",
+      "summary": "تیم امنیتی زیمنس راهنمای جامع جدیدی برای پیکربندی امن کنترلرهای SIMATIC S7 منتشر کرد. این مستند به مدیران شبکه آموزش می‌دهد که چگونه با مسدودسازی پورت‌های اضافی و فعال‌سازی رمزنگاری ارتباطات، خطر نفوذ به لایه کنترل را کاهش دهند. انتشار این راهنما پاسخگویی به استانداردهای سخت‌گیرانه IEC 62443 را ساده‌تر می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/07/25 12:25",
+      "collected_at": "1405/07/25 13:04",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-releases-simatic-security-guidelines",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "IEC 62443",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "بهره‌گیری از درایوهای SINAMICS G120X برای پمپاژ هوشمند در تصفیه‌خانه‌ها",
+      "summary": "درایوهای فرکانس متغیر SINAMICS G120X زیمنس در پروژه جدید تصفیه آب شهری برای کنترل دور پمپ‌ها به کار گرفته شدند. این درایوها با تنظیم دقیق دبی آب بر اساس نیاز شبکه، مصرف برق را تا ۳۰ درصد کاهش می‌دهند. قابلیت‌های تشخیصی داخلی این تجهیزات همچنین هزینه‌های تعمیر و نگهداری را کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:40",
+      "collected_at": "1405/07/25 13:04",
+      "source": "Water Technology",
+      "source_url": "https://www.waterworld.com/siemens-sinamics-g120x-water-treatment-plants",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Water Treatment"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "ارتقای پلتفرم ابری Insights Hub با ابزارهای پیشرفته تحلیل داده‌های بلادرنگ",
+      "summary": "زیمنس آپدیت جدیدی برای پلتفرم ابری Insights Hub (مندسفر سابق) ارائه کرد که قابلیت پردازش داده‌های کلان را بهبود می‌بخشد. کارخانه‌ها می‌توانند جریان‌های داده‌ای سنگین سنسورهای IoT را بدون تاخیر تحلیل کنند و گزارش‌های پایداری تولید بگیرند. این بستر ابری به مدیران کمک می‌کند تصمیمات استراتژیک بهتری اتخاذ کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 13:00",
+      "collected_at": "1405/07/25 13:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud/siemens-upgrades-insights-hub-real-time-analytics",
+      "tags": [
+        "Insights Hub",
+        "MindSphere",
+        "Cloud Computing",
+        "Siemens"
       ]
     }
   ]
