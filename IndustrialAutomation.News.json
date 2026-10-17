@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 217,
+  "count": 227,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 12:02",
+  "updated_at": "1405/07/25 12:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3451,6 +3451,166 @@
         "SIMATIC S7-1200",
         "Industry 4.0",
         "Training"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای امنیت شبکه‌های SIMATIC S7-1500",
+      "summary": "شرکت زیمنس ماژول ارتباطی جدید CP 1543-1 را برای کنترلرهای SIMATIC S7-1500 عرضه کرد که امنیت شبکه‌های صنعتی را به طور چشمگیری افزایش می‌دهد. این ماژول دارای فایروال یکپارچه و قابلیت‌های رمزنگاری پیشرفته برای حفاظت از تجهیزات OT در برابر حملات سایبری است. این ابزار به مدیران شبکه اجازه می‌دهد تا ترافیک داده‌ها را با دقت بالایی مانیتور کرده و استانداردهای امنیتی IEC 62443 را به راحتی پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:15",
+      "collected_at": "1405/07/25 12:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-cp-1543-1-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "بهینه‌سازی مصرف آب در صنایع با سیستم اندازه‌گیری SITRANS F M",
+      "summary": "راهکار جدید زیمنس مبتنی بر فلومترهای الکترومغناطیسی SITRANS F M به کارخانجات کمک می‌کند تا مصرف آب و سیالات خود را با دقت بیشتری مدیریت کنند. این تجهیزات با پروتکل‌های ارتباطی Profinet سازگار بوده و داده‌ها را به صورت بلادرنگ به سیستم‌های SCADA ارسال می‌کنند. استفاده از این فلومترها موجب کاهش اتلاف منابع و بهبود شاخص‌های پایداری زیست‌محیطی در خطوط تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 08:45",
+      "collected_at": "1405/07/25 12:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-sitrans-fm-water-management",
+      "tags": [
+        "Siemens",
+        "SITRANS",
+        "Process Instrumentation",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در نرم‌افزار مانیتورینگ WinCC Unified",
+      "summary": "زیمنس نسخه جدید پلتفرم WinCC Unified را با افزونه‌های یادگیری ماشین برای تحلیل بهتر داده‌های HMI منتشر کرد. این قابلیت جدید به اپراتورها اجازه می‌دهد تا ناهنجاری‌های سیستم را پیش از وقوع خرابی شناسایی کرده و تصمیمات سریعی اتخاذ کنند. این نرم‌افزار باز طراحی شده است تا تجربه کاربری بهتری در محیط‌های تحت وب و موبایل فراهم آورد.",
+      "category": "product",
+      "published_at": "1405/07/25 09:10",
+      "collected_at": "1405/07/25 12:03",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-wincc-unified-ai-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "HMI",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "گسترش کاربرد ربات‌های دلتا در خطوط بسته‌بندی با کنترل موشن زیمنس",
+      "summary": "سیستم‌های کنترل حرکت SIMATIC Technology CPU زیمنس اکنون از ربات‌های دلتا با سرعت بالا برای خطوط بسته‌بندی مواد غذایی پشتیبانی کامل می‌کنند. اینپارچه‌سازی kinematics در محیط TIA Portal مهندسان را قادر می‌سازد تا مسیرهای حرکتی پیچیده را بدون نیاز به کنترلرهای خارجی برنامه‌نویسی کنند. این فناوری بهره‌وری خطوط بسته‌بندی را تا پانزده درصد افزایش داده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 09:35",
+      "collected_at": "1405/07/25 12:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-delta-robot-motion-control",
+      "tags": [
+        "Siemens",
+        "Motion Control",
+        "Robotics",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری زیمنس و شرکت FESTO برای توسعه استانداردهای پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه‌ای برای یکپارچه‌سازی تجهیزات پنوماتیک هوشمند با سیستم‌های کنترل SIMATIC امضا کردند. این همکاری به توسعه ماژول‌های IO-Link مشترک منجر می‌شود که وضعیت سلامت قطعات پنوماتیک را به صورت بلادرنگ گزارش می‌دهند. هدف از این پروژه کاهش زمان توقف اضطراب‌آور در ماشین‌آلات صنعتی و تسهیل تعمیرات پیش‌بینانه است.",
+      "category": "company",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 12:03",
+      "source": "Automation Magazine",
+      "source_url": "https://www.automation-magazine.com/siemens-festo-smart-pneumatics",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "IO-Link",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی کلیدهای مدیریت‌شده شبکه SCALANCE X-200 برای محیط‌های سخت صنعتی",
+      "summary": "زیمنس خانواده جدیدی از کلیدهای اترنت صنعتی SCALANCE را برای کاربردهایی با شرایط محیطی سخت و دماهای بالا معرفی کرد. این سوییچ‌ها با طراحی مقاوم در برابر لرزش، پایداری ارتباطات را در صنایع نفت، گاز و پتروشیمی تضمین می‌کنند. پشتیبانی از قابلیت‌های تشخیصی پیشرفته، عیب‌یابی مشکلات شبکه را برای تکنسین‌های سایت بسیار ساده‌تر کرده است.",
+      "category": "product",
+      "published_at": "1405/07/25 10:25",
+      "collected_at": "1405/07/25 12:03",
+      "source": "IEc Global",
+      "source_url": "https://www.iecglobal.com/siemens-scalance-x200-rugged",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Industrial Ethernet",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "نقش پلتفرم Siemens Xcelerator در تسریع طراحی ماشین‌آلات پیشرفته",
+      "summary": "گزارش جدید بازار نشان می‌دهد استفاده از اکوسیستم Siemens Xcelerator توسط سازندگان ماشین‌آلات (OEM) زمان ورود محصولات به بازار را به طور چشمگیری کاهش داده است. این پلتفرم ابزارهای مهندسی مکانیک، برق و اتوماسیون را در یک محیط واحد ابری یکپارچه می‌کند. شرکت‌های سازنده با استفاده از این ابزار توانسته‌اند هزینه‌های پروژه‌های خود را تا بیست درصد کاهش دهند.",
+      "category": "economy",
+      "published_at": "1405/07/25 10:50",
+      "collected_at": "1405/07/25 12:03",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-xcelerator-oem-impact",
+      "tags": [
+        "Siemens",
+        "Siemens Xcelerator",
+        "Engineering",
+        "OEM"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "ارتقای ایمنی پرسنل با رله‌های حفاظتی جدید SIRIUS 3SK2 زیمنس",
+      "summary": "رله‌های ایمنی قابل برنامه‌ریزی SIRIUS 3SK2 زیمنس با ویژگی‌های جدید برای حفاظت از اپراتورهای ماشین‌آلات خطرناک به بازار عرضه شدند. این رله‌ها قابلیت پیکربندی نرم‌افزاری آسان داشته و با سایر تجهیزات ایمنی شبکه Safety Integrated زیمنس سازگار هستند. این سیستم‌ها به صنایع کمک می‌کنند تا الزامات سخت‌گیرانه استانداردهای ایمنی جهانی را به بهترین شکل رعایت کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:15",
+      "collected_at": "1405/07/25 12:03",
+      "source": "Safety and Health Magazine",
+      "source_url": "https://www.safetyandhealth.com/siemens-sirius-safety-relays",
+      "tags": [
+        "Siemens",
+        "SIRIUS",
+        "Machine Safety",
+        "Protection"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه سیستم‌های اسکادا مبتنی بر وب با تکنولوژی SIMATIC PCS neo",
+      "summary": "متخصصان اتوماسیون صنعتی از استقبال گسترده کارخانه‌ها از سیستم کنترل توزیع‌یافته SIMATIC PCS neo به دلیل معماری تحت وب آن خبر دادند. این پلتفرم امکان مهندسی همزمان از راه دور را برای تیم‌های بزرگ مهندسی بدون نیاز به نصب نرم‌افزارهای سنگین محلی فراهم می‌سازد. امنیت بالا و دسترسی به داده‌ها از طریق مرورگرهای استاندارد از ویژگی‌های کلیدی این نسخه است.",
+      "category": "industry",
+      "published_at": "1405/07/25 11:40",
+      "collected_at": "1405/07/25 12:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-pcs-neo-web-based-dcs",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "DCS",
+        "Web-based"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "افزایش بهره‌وری انرژی در کمپرسورها با استفاده از درایوهای SINAMICS G120",
+      "summary": "کاربرد درایوهای فرکانس متغیر SINAMICS G120 زیمنس در کنترل دور موتور کمپرسورهای صنعتی موجب کاهش چشمگیر مصرف برق شده است. این درایوها با الگوریتم‌های کنترل برداری پیشرفته، کارایی موتور را در بارهای جزئی بهینه می‌کنند. گزارش‌های اولیه حاکی از بازگشت سرمایه سریع این طرح در کارخانه‌های بزرگ تولیدی است.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:00",
+      "collected_at": "1405/07/25 12:03",
+      "source": "Energy Efficiency News",
+      "source_url": "https://www.energy-efficiency-news.com/siemens-sinamics-g120-compressors",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
       ]
     }
   ]
