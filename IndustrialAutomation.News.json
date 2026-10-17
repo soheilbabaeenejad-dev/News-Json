@@ -4,8 +4,8 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 491,
-  "provider": "Gemini/gemini-3.1-flash-lite",
+  "count": 501,
+  "provider": "Gemini/gemini-3.5-flash-lite",
   "updated_at": "1405/07/25 18:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
@@ -7815,6 +7815,166 @@
         "Industrial Edge",
         "Sustainability",
         "Carbon Footprint"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "یکپارچه‌سازی ماژول‌های ایمنی پیشرفته در کنترلرهای SIMATIC S7-1500F",
+      "summary": "شرکت زیمنس از افزودن قابلیت‌های جدید ایمنی عملکردی (Functional Safety) به کنترلرهای SIMATIC S7-1500F خبر داد. این به‌روزرسانی به مهندسان کمک می‌کند تا استانداردهای سخت‌گیرانه ایمنی ماشین‌آلات را با سرعت بیشتری پیاده‌سازی کنند. این ماژول‌ها نقش مهمی در کاهش زمان توقف خطوط تولید و حفاظت از نیروی کار دارند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500f-safety-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "معرفی نسخه جدید نرم‌افزار SCADA برای کنترل متمرکز فرآیندهای صنعتی",
+      "summary": "نسخه جدید سیستم نظارت و جمع‌آوری داده‌های صنعتی با تمرکز بر بهبود رابط کاربری تحت وب منتشر شد. این نرم‌افزار به اپراتورها اجازه می‌دهد تا اطلاعات حیاتی کارخانه را از هر نقطه‌ای به صورت بلادرنگ مانیتور کنند. این فناوری نقش کلیدی در افزایش بهره‌وری و تصمیم‌گیری سریع‌تر در صنایع فرآیندی دارد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:30",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada-web-update-2026",
+      "tags": [
+        "SCADA",
+        "HMI",
+        "Control Room",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "بهینه‌سازی مصرف آب در صنایع معدنی با پلتفرم دیجیتال زیمنس",
+      "summary": "یک معدن بزرگ مس در آمریکای جنوبی با استفاده از راهکارهای مدیریت منابع زیمنس موفق به کاهش مصرف آب شد. این پروژه بر پایه تحلیل داده‌های سنسورهای میدانی و الگوریتم‌های هوش مصنوعی اجرا گردید. این دستاورد گامی مهم در راستای توسعه پایدار و کاهش هزینه‌های عملیاتی در صنایع سنگین محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 11:00",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/mining-water-siemens-solution",
+      "tags": [
+        "Insights Hub",
+        "Sustainability",
+        "Mining",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "گسترش کاربرد سنسورهای فشار SITRANS P در خطوط بسته‌بندی دارویی",
+      "summary": "سری جدید سنسورهای فشار SITRANS P زیمنس گواهینامه‌های جدید بهداشتی را برای کاربردهای دارویی دریافت کرد. این تجهیزات دقت بالایی در اندازه‌گیری فشار سیالات حساس در خطوط تولید دارو ارائه می‌دهند. استفاده از این سنسورها تضمین‌کننده کیفیت و رعایت استانداردهای دقیق بهداشتی در کارخانه‌ها است.",
+      "category": "product",
+      "published_at": "1405/07/25 12:20",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/products/sensors/sitrans-p-pharma",
+      "tags": [
+        "SITRANS",
+        "Sensors",
+        "Pharma",
+        "Instrumentation"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "توسعه زیرساخت‌های ارتباطی TSN در تجهیزات اتوماسیون صنعتی",
+      "summary": "گروهی از تولیدکنندگان بزرگ اتوماسیون صنعتی از جمله زیمنس از استقرار موفقیت‌آمیز استانداردهای TSN در سویچ‌های شبکه خبر دادند. این فناوری امکان انتقال همزمان داده‌های IT و OT را با تضمین تاخیر صفر فراهم می‌کند. این رویکرد زیرساخت لازم برای تحقق کارخانه‌های کاملاً همگام و مبتنی بر اترنت صنعتی را ایجاد می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/25 13:45",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/tsn-industrial-ethernet-update-2026",
+      "tags": [
+        "TSN",
+        "Industrial Ethernet",
+        "Networking",
+        "OT/IT"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "همکاری زیمنس و ارائه‌دهندگان کلود برای توسعه زیرساخت‌های لبه شبکه",
+      "summary": "زیمنس همکاری خود را با شرکت‌های پیشرو در زمینه رایانش ابری برای توسعه قابلیت‌های لبه شبکه (Edge Computing) گسترش داد. این همکاری به صنایع اجازه می‌دهد تا پردازش‌های سنگین داده‌های ماشین‌آلات را مستقیماً در محل کارخانه انجام دهند. این معماری ترکیبی، امنیت داده‌ها را افزایش و وابستگی به اینترنت را کاهش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/25 14:10",
+      "collected_at": "1405/07/25 18:02",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud-edge-siemens-partnership",
+      "tags": [
+        "Industrial Edge",
+        "Cloud",
+        "IIoT",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "معرفی پکیج‌های آموزشی جدید برای مهندسان اتوماسیون و TIA Portal",
+      "summary": "بخش آموزش زیمنس پکیج‌های جدیدی را برای یادگیری پیشرفته نرم‌افزار TIA Portal و عیب‌یابی شبکه‌های صنعتی معرفی کرد. این دوره‌ها شامل شبیه‌سازهای مجازی خطوط تولید برای تمرین عملی کارشناسان است. این ابتکار به رفع کمبود نیروی کار متخصص در زمینه نگهداری سیستم‌های کنترل صنعتی کمک شایانی می‌کند.",
+      "category": "society",
+      "published_at": "1405/07/25 15:00",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/news/siemens-tia-portal-training-2026",
+      "tags": [
+        "TIA Portal",
+        "Training",
+        "Education",
+        "Skills"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "افزایش ضریب امنیت سایبری در سیستم‌های کنترل صنعتی با پروتکل‌های جدید",
+      "summary": "استانداردهای جدید امنیت سایبری برای تجهیزات SIMATIC و زیرساخت‌های شبکه ارائه‌شده توسط زیمنس الزامی شد. این راهنماها به مدیران آی‌تی کارخانه‌ها کمک می‌کند تا در برابر حملات سایبری پیچیده به لایه‌های کنترل و اسکادا مقاومت کنند. رعایت این پروتکل‌ها برای حفاظت از تاسیسات حیاتی زیرساختی از اهمیت فوق‌العاده‌ای برخوردار است.",
+      "category": "regulation",
+      "published_at": "1405/07/25 15:55",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-security-guidelines-2026",
+      "tags": [
+        "Cybersecurity",
+        "SIMATIC",
+        "IEC 62443",
+        "Networks"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "پیاده‌سازی سیستم‌های کنترل توزیع‌یافته در صنایع شیمیایی پیشرفته",
+      "summary": "یک کارخانه بزرگ پتروشیمی در اروپا فرآیند مهاجرت به نسل جدید سیستم‌های کنترل توزیع‌یافته را با موفقیت به پایان رساند. این پروژه شامل استفاده از معماری ماژولار برای کاهش زمان راه‌اندازی واحدهای جدید شیمیایی بود. این سیستم‌ها پایداری و ایمنی فرآیندهای پیوسته را به طور قابل توجهی افزایش می‌دهند.",
+      "category": "industry",
+      "published_at": "1405/07/25 16:30",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/2026/dcs-upgrade-chemical-plant",
+      "tags": [
+        "DCS",
+        "Process Automation",
+        "Chemicals",
+        "PCS neo"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "استفاده از ربات‌های سیار خودمختار در لجستیک درون‌کارگاهی زیمنس",
+      "summary": "مجتمع تولیدی هوشمند زیمنس ناوگان جدیدی از ربات‌های سیار خودمختار (AMRs) را برای جابجایی قطعات بین ایستگاه‌های کاری فعال کرد. این ربات‌ها با استفاده از سیستم‌های ناوبری لیزری پیشرفته مسیر خود را در سالن‌های شلوغ پیدا می‌کنند. این تکنولوژی انعطاف‌پذیری خطوط مونتاژ را برای تولید محصولات سفارشی به شدت بالا می‌برد.",
+      "category": "product",
+      "published_at": "1405/07/25 17:15",
+      "collected_at": "1405/07/25 18:02",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/article/amrs-smart-factory-logistics-siemens",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Logistics",
+        "Smart Factory"
       ]
     }
   ]
