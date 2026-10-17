@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 286,
+  "count": 296,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 13:07",
+  "updated_at": "1405/07/25 14:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4555,6 +4555,166 @@
         "Firmware",
         "PLC",
         "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "معرفی ماژول‌های ایمنی جدید برای خانواده SIMATIC ET 200MP",
+      "summary": "شرکت زیمنس از ماژول‌های ایمنی پیشرفته جدید برای سیستم‌های توزیع‌شده SIMATIC ET 200MP رونمایی کرد. این تجهیزات جدید امکان پیاده‌سازی استانداردهای سخت‌گیرانه ایمنی SIL3 و PLe را در خطوط تولید پیچیده فراهم می‌سازند. با این توسعه، مهندسان می‌توانند ایمنی اپراتورها را بدون کاهش سرعت پردازش خط به طور چشمگیری افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 14:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-et200mp-safety-modules-2026",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200MP",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "توسعه راهکار جدید Industrial Edge برای مدیریت کیفیت در صنایع خودروسازی",
+      "summary": "زیمنس پلتفرم نرم‌افزاری Industrial Edge خود را با اپلیکیشن جدیدی برای پایش کیفیت لحظه‌ای مجهز کرد. این ابزار به خودروسازان کمک می‌کند تا عیوب رنگ‌آمیزی بدنه خودرو را در میلی‌ثانیه شناسایی کنند. این راهکار مبتنی بر لبه، وابستگی به ابر را کاهش داده و امنیت داده‌های تولید را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 14:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-edge-quality-2026",
+      "tags": [
+        "Industrial Edge",
+        "Quality Control",
+        "Automotive",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "آپدیت جدید TIA Portal V20 با ابزارهای مدیریت پروژه ابری",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal V20 زیمنس با قابلیت‌های یکپارچه کار تیمی ابری عرضه شد. این نسخه به تیم‌های برنامه‌نویسی PLC اجازه می‌دهد همزمان روی یک پروژه بزرگ کار کنند و تغییرات را ردیابی نمایند. این ویژگی باعث کاهش چشمگیر زمان راه‌اندازی و مهندسی خطوط تولید جدید خواهد شد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 14:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/tia-portal-v20-cloud-engineering",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "بهینه‌سازی مصرف آب در صنایع آشامیدنی با سیستم SIMATIC PCS neo",
+      "summary": "کارخانه بزرگ تولید نوشیدنی در اروپا با به‌کارگیری سیستم کنترل توزیع‌یافته SIMATIC PCS neo توانست مصرف آب خود را بیست درصد کاهش دهد. این پلتفرم تحت وب به اپراتورها دید جامع و لحظه‌ای از تمامی شیرها و پمپ‌ها می‌دهد. این پروژه موفق نشان‌دهنده تعهد زیمنس به توسعه پایدار در صنایع فرآیندی است.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 14:00",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-pcs-neo-water-saving-2026",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Sustainability",
+        "Food & Beverage"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "همکاری زیمنس و شنایدر الکتریک برای ارتقای استانداردهای سخت‌افزاری باز",
+      "summary": "دو غول اتوماسیون صنعتی یعنی زیمنس و شنایدر الکتریک توافق‌نامه جدیدی برای توسعه معماری‌های باز سخت‌افزاری امضا کردند. این همکاری بر سازگاری بیشتر پروتکل‌های ارتباطی و کاهش هزینه‌های سیم‌کشی در تابلوهای برق تمرکز دارد. هدف اصلی این اتحاد، تسهیل یکپارچه‌سازی سیستم‌های گوناگون برای مهندسان کنترل است.",
+      "category": "company",
+      "published_at": "1405/07/25 11:20",
+      "collected_at": "1405/07/25 14:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-schneider-open-hardware-standards",
+      "tags": [
+        "Siemens",
+        "Schneider Electric",
+        "Interoperability",
+        "Standards"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "عرضه نسل جدید آنالایزرهای گاز SITRANS برای صنایع پتروشیمی",
+      "summary": "شرکت زیمنس از سری جدید آنالایزرهای گاز SITRANS FS با دقت فوق‌العاده بالا برای پایش انتشار آلاینده‌ها رونمایی کرد. این تجهیزات دارای قابلیت خودتخیصه پیشرفته هستند که نیاز به کالیبراسیون‌های دستی مکرر را از بین می‌برد. این دستگاه‌ها نقش کلیدی در رعایت قوانین سخت‌گیرانه زیست‌محیطی در پالایشگاه‌ها دارند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:55",
+      "collected_at": "1405/07/25 14:00",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-sitrans-gas-analyzers-2026",
+      "tags": [
+        "SITRANS",
+        "Instrumentation",
+        "Petrochemical",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "گسترش امنیت سایبری در لبه شبکه با راهکارهای جدید Scalance",
+      "summary": "سوئیچ‌های صنعتی جدید سری Scalance زیمنس با قابلیت‌های پیشرفته رمزنگاری سخت‌افزاری و دیوار آتش داخلی معرفی شدند. این تجهیزات شبکه برای محافظت از زیرساخت‌های حیاتی در برابر حملات سایبری پیچیده طراحی شده‌اند. این ماژول‌ها به مدیران شبکه OT امکان می‌دهند ترافیک داده‌ها را با دقت بالا تفکیک کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 12:30",
+      "collected_at": "1405/07/25 14:00",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-scalance-cybersecurity-switches-2026",
+      "tags": [
+        "Scalance",
+        "Cybersecurity",
+        "Networking",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "پیاده‌سازی موفق دوقلوهای دیجیتال در کارخانه تولید موتور زیمنس در باد Neustadt",
+      "summary": "کارخانه تولید موتورهای الکتریکی زیمنس در باد نویشتات با استفاده از پلتفرم Siemens Xcelerator به یک واحد کاملاً دیجیتال تبدیل شد. شبیه‌سازی دقیق فرآیند مونتاژ قبل از اجرا، زمان توقف خط را تا سی درصد کاهش داد. این سایت اکنون به‌عنوان یک مرجع جهانی برای کارخانه‌های هوشمند فردا شناخته می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 13:00",
+      "collected_at": "1405/07/25 14:00",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-bad-neustadt-digital-twin",
+      "tags": [
+        "Digital Twin",
+        "Siemens Xcelerator",
+        "Smart Factory",
+        "Motors"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "معرفی نرم‌افزار SIMATIC Energy Manager برای پایش کربن در زنجیره تولید",
+      "summary": "نسخه به‌روزرسانی‌شده نرم‌افزار SIMATIC Energy Manager زیمنس ابزارهای ویژه‌ای برای محاسبه ردپای کربن ارائه داد. این نرم‌افزار داده‌های مصرف انرژی تمامی ماشین‌آلات را جمع‌آوری کرده و گزارش‌های انطباق با قوانین سبز اتحادیه اروپا تولید می‌کند. این ابزار به مدیران کارخانه‌ها کمک می‌کند تا اهداف پایداری خود را دقیق‌تر دنبال کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 13:30",
+      "collected_at": "1405/07/25 14:00",
+      "source": "Energy Manager Today",
+      "source_url": "https://www.energymanagertoday.com/siemens-energy-manager-carbon-tracking",
+      "tags": [
+        "Energy Management",
+        "SIMATIC",
+        "Sustainability",
+        "Carbon Footprint"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "توسعه برنامه‌های آموزشی اتوماسیون صنعتی با همکاری دانشگاه فنی مونیخ و زیمنس",
+      "summary": "زیمنس و دانشگاه فنی مونیخ طرح آموزشی مشترکی را برای تربیت متخصصان آینده اتوماسیون و هوش مصنوعی صنعتی راه‌اندازی کردند. در این برنامه، دانشجویان به آخرین تجهیزات SIMATIC و نرم‌افزارهای مهندسی زیمنس در آزمایشگاه‌های تخصصی دسترسی خواهند داشت. این اقدام پاسخی به نیاز رو به رشد بازار کار به مهندسان مسلط به فناوری‌های دیجیتال است.",
+      "category": "society",
+      "published_at": "1405/07/25 14:00",
+      "collected_at": "1405/07/25 14:00",
+      "source": "EdTech Review",
+      "source_url": "https://www.edtechreview.in/siemens-tum-industrial-automation-education",
+      "tags": [
+        "Education",
+        "Siemens",
+        "TUM",
+        "Workforce Development"
       ]
     }
   ]
