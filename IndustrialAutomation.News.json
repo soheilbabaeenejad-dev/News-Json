@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 524,
+  "count": 526,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 19:00",
+  "updated_at": "1405/07/25 19:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8337,6 +8337,38 @@
         "Cybersecurity",
         "DCS",
         "Infrastructure"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی نسل جدید ماژول‌های ارتباطی Profinet برای سری SIMATIC S7-1500",
+      "summary": "زیمنس از نسل جدید ماژول‌های ارتباطی Profinet برای کنترلرهای SIMATIC S7-1500 رونمایی کرد. این ماژول‌ها با هدف افزایش سرعت تبادل داده و کاهش زمان تأخیر در شبکه‌های صنعتی طراحی شده‌اند. این ارتقا به مهندسان اجازه می‌دهد تا سیستم‌های اتوماسیون پیچیده را با پایداری بیشتری در محیط‌های پرنویز کارخانه مدیریت کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 19:04",
+      "collected_at": "1405/07/25 19:04",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation.html",
+      "tags": [
+        "SIMATIC",
+        "Profinet",
+        "S7-1500",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم ابری Insights Hub برای صنایع فولاد",
+      "summary": "پلتفرم ابری Insights Hub زیمنس اکنون به ابزارهای تحلیل پیشرفته برای صنایع فولاد مجهز شده است. این قابلیت‌ها به مدیران کارخانه کمک می‌کند تا مصرف انرژی و بهره‌وری کوره‌های ذوب را به صورت لحظه‌ای پایش کنند. با استفاده از این تحلیل‌ها، هزینه‌های عملیاتی به طور قابل توجهی کاهش یافته و طول عمر تجهیزات افزایش می‌یابد.",
+      "category": "industry",
+      "published_at": "1405/07/25 19:04",
+      "collected_at": "1405/07/25 19:04",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.industrial-automation.com/insights-hub-steel",
+      "tags": [
+        "Insights Hub",
+        "فولاد",
+        "بهره‌وری",
+        "تحلیل داده"
       ]
     }
   ]
