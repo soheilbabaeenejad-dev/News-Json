@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 187,
+  "count": 197,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 11:03",
+  "updated_at": "1405/07/25 11:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2971,6 +2971,166 @@
         "DCS",
         "Mining",
         "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای امنیت پیشرفته در SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید CP 1543-1 برای کنترلرهای SIMATIC S7-1500 رونمایی کرد. این ماژول با پشتیبانی از پروتکل‌های امنیتی پیشرفته، دیواره آتش داخلی و مکانیزم‌های رمزنگاری پیشرفته، حفاظت شبکه‌های صنعتی را بهبود می‌بخشد. این راهکار به مهندسان اتوماسیون اجازه می‌دهد تا ارتباطات امن‌تری را در لایه OT پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:10",
+      "collected_at": "1405/07/25 11:04",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/cp-1543-1-security-module",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "OT Security",
+        "Industrial Communication"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پایش انرژی با نسخه جدید SIMATIC Energy Suite V19",
+      "summary": "نسخه جدید SIMATIC Energy Suite V19 توسط زیمنس عرضه شد که ابزارهای قدرتمندتری برای مدیریت و مانیتورینگ مصرف انرژی ارائه می‌دهد. این نرم‌افزار به صورت یکپارچه با TIA Portal کار کرده و تحلیل دقیق مصرف برق در خطوط تولید را ممکن می‌سازد. صنایع می‌توانند با استفاده از این ابزار به اهداف پایداری و کاهش انتشار کربن دست یابند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:35",
+      "collected_at": "1405/07/25 11:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/energy-management/siemens-simatic-energy-suite-v19",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Energy Management",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری زیمنس و فستو برای اتوماسیون پنوماتیک هوشمند در کارخانه‌ها",
+      "summary": "شرکت‌های زیمنس و فستو شراکت راهبردی جدیدی را برای ادغام تجهیزات پنوماتیک با کنترلرهای SIMATIC اعلام کردند. این همکاری امکان اتصال مستقیم جزایر ولو به شبکه‌های Profinet را فراهم می‌سازد. هدف از این پروژه کاهش زمان سیم‌کشی و افزایش قابلیت عیب‌یابی تجهیزات پنوماتیک در خطوط مونتاژ است.",
+      "category": "company",
+      "published_at": "1405/07/25 09:00",
+      "collected_at": "1405/07/25 11:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-festo-pneumatics-integration/",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Profinet",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی ماژول‌های توزیع‌شده جدید SIMATIC ET 200MP برای محیط‌های سخت",
+      "summary": "سیستم ورودی/خروجی توزیع‌شده SIMATIC ET 200MP با ماژول‌های جدید مقاوم در برابر شرایط محیطی دشوار گسترش یافت. این ماژول‌ها دارای درجه حفاظتی بالا بوده و در برابر لرزش و دماهای شدید مقاومت بالایی دارند. این ویژگی باعث افزایش قابلیت اطمینان سیستم‌های کنترل در صنایع نفت، گاز و پتروشیمی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 09:20",
+      "collected_at": "1405/07/25 11:04",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialethernet.com/news/article/siemens-et-200mp-expansion",
+      "tags": [
+        "Siemens",
+        "ET 200MP",
+        "I/O Systems",
+        "Process Industry"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای نرم‌افزار SCADA زیمنس WinCC Unified با ابزارهای تحلیل تحت وب",
+      "summary": "زیمنس نسخه به‌روزرسانی‌شده سیستم WinCC Unified را با قابلیت‌های پیشرفته تحلیل داده‌های تحت وب منتشر کرد. این نسخه جدید به اپراتورها اجازه می‌دهد داشبوردهای تعاملی خود را بدون نیاز به نصب نرم‌افزار اضافی روی هر مرورگری مشاهده کنند. این تحول نظارت بر فرآیندهای صنعتی را در بستر ابری و محلی تسهیل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:45",
+      "collected_at": "1405/07/25 11:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-wincc-unified-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "گسترش کاربرد هوش مصنوعی در تعمیر و نگهداری با اپلیکیشن‌های Industrial Edge",
+      "summary": "زیمنس مجموعه اپلیکیشن‌های Industrial Edge خود را برای تحلیل ارتعاشات موتورهای الکتریکی توسعه داد. این ابزارها با استفاده از الگوریتم‌های یادگیری ماشین، خرابی‌های احتمالی را پیش از وقوع شناسایی می‌کنند. این فناوری به کارخانه‌ها کمک می‌کند تا زمان توقف اضطراب‌آور خطوط تولید را به حداقل برسانند.",
+      "category": "news",
+      "published_at": "1405/07/25 10:05",
+      "collected_at": "1405/07/25 11:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/industrial-iot/siemens-industrial-edge-ai-maintenance",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "بهینه‌سازی مصرف آب در صنایع معدنی با سیستم کنترل توزیع‌یافته PCS neo",
+      "summary": "پروژه جدیدی مبتنی بر سیستم کنترل توزیع‌یافته SIMATIC PCS neo برای مدیریت مصرف آب در معادن بزرگ اجرا شد. این سیستم مبتنی بر وب امکان پایش لحظه‌ای و کنترل دقیق فرآیندهای تصفیه پساب را فراهم می‌کند. این راهکار نقش مهمی در کاهش اتلاف منابع آبی و رعایت استانداردهای زیست‌محیطی دارد.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:20",
+      "collected_at": "1405/07/25 11:04",
+      "source": "Mining Technology",
+      "source_url": "https://www.mining-technology.com/news/siemens-pcs-neo-water-management",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "DCS",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی تجهیزات ابزار دقیق جدید SITRANS برای اندازه‌گیری سطح مواد پودری",
+      "summary": "خانواده محصولات ابزار دقیق زیمنس با معرفی ترانسمیترهای راداری جدید SITRANS برای سیلوهای مواد پودری تکمیل شد. این تجهیزات با فرکانس بالا کار کرده و حتی در حضور گرد و غبار غلیظ، اندازه‌گیری دقیقی ارائه می‌دهند. این دستگاه‌ها به طور کامل با سیستم‌های اتوماسیون SIMATIC سازگار هستند.",
+      "category": "product",
+      "published_at": "1405/07/25 10:35",
+      "collected_at": "1405/07/25 11:04",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sitrans-radar-level-measurement",
+      "tags": [
+        "Siemens",
+        "SITRANS",
+        "Instrumentation",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه قابلیت‌های ارتباطی در ربات‌های صنعتی با ماژول‌های PROFINET جدید",
+      "summary": "استاندارد ارتباطی PROFINET برای اتصال بازوهای رباتیک به کنترلرهای مرکزی زیمنس ارتقا یافت. این فناوری سرعت تبادل داده را میان کنترلر و درایوهای ربات به طور چشمگیری افزایش می‌دهد. این پیشرفت برای کاربردهایی که نیازمند دقت بالا و هماهنگی صدم ثانیه‌ای هستند، بسیار حیاتی است.",
+      "category": "research",
+      "published_at": "1405/07/25 10:50",
+      "collected_at": "1405/07/25 11:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/2026/10/siemens-profinet-robotics-communication",
+      "tags": [
+        "Siemens",
+        "Profinet",
+        "Robotics",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش اکوسیستم Siemens Xcelerator با اضافه‌شدن ابزارهای مهندسی ابری",
+      "summary": "پلتفرم دیجیتال Siemens Xcelerator میزبان ابزارهای جدید طراحی و شبیه‌سازی مبتنی بر ابر شد. این توسعه به تیم‌های مهندسی امکان می‌دهد تا پروژه‌های اتوماسیون پیچیده را به صورت همزمان و از راه دور توسعه دهند. این رویکرد همکاری میان‌رشته‌ای را در پروژه‌های بزرگ صنعتی تسریع می‌کند.",
+      "category": "company",
+      "published_at": "1405/07/25 11:00",
+      "collected_at": "1405/07/25 11:04",
+      "source": "Digital Engineering",
+      "source_url": "https://www.digitaleng.news/de/siemens-xcelerator-cloud-engineering-update/",
+      "tags": [
+        "Siemens",
+        "Siemens Xcelerator",
+        "Cloud",
+        "Digital Twin"
       ]
     }
   ]
