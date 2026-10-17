@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 438,
+  "count": 448,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 17:00",
+  "updated_at": "1405/07/25 17:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6980,6 +6980,166 @@
         "Ruggedcom",
         "استاندارد امنیتی",
         "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی ماژول امنیتی جدید برای سیستم‌های SIMATIC S7-1500",
+      "summary": "شرکت زیمنس ماژول امنیتی جدیدی را برای سری کنترلرهای SIMATIC S7-1500 معرفی کرد که به طور ویژه برای مقابله با تهدیدات پیچیده سایبری در شبکه‌های صنعتی طراحی شده است. این محصول با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته، امنیت ارتباطات لایه OT را به شکل چشمگیری افزایش می‌دهد. این ماژول به مدیران شبکه کمک می‌کند تا پویایی و حفاظت داده‌ها را در خطوط تولید حساس تضمین کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 17:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-security-module",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "توسعه قابلیت‌های پایش انرژی در پلتفرم Industrial Edge",
+      "summary": "آپدیت جدید پلتفرم Industrial Edge زیمنس ابزارهای پیشرفته‌ای را برای تحلیل بلادرنگ مصرف انرژی در کارخانه‌های بزرگ ارائه کرده است. این نرم‌افزار با تجمیع داده‌های سنسورهای مختلف، نقاط تلفات انرژی را شناسایی و بهینه‌سازی مصرف را پیشنهاد می‌دهد. این راهکار نقش مهمی در کاهش هزینه‌های عملیاتی و دستیابی به اهداف پایداری زیست‌محیطی صنایع ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 17:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/edge/article/siemens-industrial-edge-energy-update",
+      "tags": [
+        "Industrial Edge",
+        "Energy Management",
+        "Insights Hub",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "یکپارچه‌سازی هوش مصنوعی مولد در نرم‌افزار TIA Portal V20",
+      "summary": "نسخه جدید نرم‌افزار مهندسی TIA Portal V20 با دستیار مبتنی بر هوش مصنوعی مولد زیمنس مجهز شد تا فرآیند برنامه‌نویسی PLCها را سرعت بخشد. این قابلیت به مهندسان اجازه می‌دهد کدهای استاندارد را به صورت خودکار تولید و خطاهای منطقی را پیش از استقرار شناسایی کنند. این نوآوری زمان مهندسی پروژه را تا حد زیادی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 17:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/article/siemens-tia-portal-v20-generative-ai",
+      "tags": [
+        "TIA Portal",
+        "Artificial Intelligence",
+        "Engineering",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "همکاری زیمنس و FESTO برای هوشمندسازی خطوط مونتاژ پنوماتیک",
+      "summary": "زیمنس و شرکت FESTO طی توافقی استراتژیک، راهکار مشترکی برای اتصال تجهیزات پنوماتیک به سیستم‌های کنترل SIMATIC ارائه دادند. این همکاری امکان مانیتورینگ دقیق فشار و جریان هوا را در بستر شبکه Profinet فراهم می‌کند. این سیستم به پیش‌بینی خرابی قطعات پنوماتیک و کاهش توقفات ناخواسته خط تولید کمک شایانی می‌کند.",
+      "category": "company",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 17:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/factory-automation/siemens-festo-pneumatic-integration",
+      "tags": [
+        "Partnership",
+        "Profinet",
+        "Pneumatics",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "عرضه درایوهای سری SINAMICS G240 با بازده انرژی فوق‌العاده",
+      "summary": "نسل جدید درایوهای فرکانس متغیر SINAMICS G240 با راندمان انرژی IE5 توسط زیمنس روانه بازار شد. این سری از درایوها برای کنترل دقیق دور موتورهای سنکرون و آسنکرون در کاربردهای صنعتی سنگین بهینه شده‌اند. این محصول با الگوریتم‌های پیشرفته کنترلی، تلفات حرارتی را به حداقل رسانده و طول عمر تجهیزات محرک را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 17:01",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/SIEMENS-SINAMICS-G240-LAUNCH",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Motors"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "گسترش سیستم کنترل توزیع‌یافته SIMATIC PCS neo برای صنایع پتروشیمی",
+      "summary": "نسخه به‌روزرسانی‌شده سیستم کنترل توزیع‌یافته SIMATIC PCS neo با ویژگی‌های جدید تحت وب برای پتروشیمی‌ها معرفی شد. این سیستم معماری کاملاً بازی را فراهم می‌کند که مهندسی همزمان را از هر نقطه جغرافیایی میسر می‌سازد. امنیت بالا و مقیاس‌پذیری بی‌نظیر از ویژگی‌های کلیدی این نسخه جدید است.",
+      "category": "product",
+      "published_at": "1405/07/25 12:15",
+      "collected_at": "1405/07/25 17:01",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/siemens-simatic-pcs-neo-update",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Process Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "توسعه ابزارهای شبیه‌سازی سه بعدی در پلتفرم Siemens Xcelerator",
+      "summary": "بخش نرم‌افزاری زیمنس ابزارهای جدیدی برای شبیه‌سازی سه‌بعدی و دوقلوهای دیجیتال به پلتفرم Xcelerator اضافه کرد. این امکانات به طراحان اجازه می‌دهد رفتار فیزیکی و کنترلی ماشین‌آلات را پیش از ساخت نمونه واقعی ارزیابی کنند. این رویکرد خطاهای طراحی را کاهش داده و زمان ورود محصولات به بازار را به نصف می‌رساند.",
+      "category": "research",
+      "published_at": "1405/07/25 13:00",
+      "collected_at": "1405/07/25 17:01",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/automation/siemens-xcelerator-3d-simulation-tools",
+      "tags": [
+        "Siemens Xcelerator",
+        "Digital Twin",
+        "Simulation",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "بهینه‌سازی لجستیک کارخانه با ربات‌های خودمختار و کنترلرهای زیمنس",
+      "summary": "یک پروژه صنعتی جدید نشان داد چگونه ترکیب ناوگان ربات‌های خودمختار (AMR) با کنترلرهای زیمنس، کارایی انبارش را افزایش می‌دهد. این سیستم با استفاده از ارتباطات بی‌سیم امن، مسیرهای حرکت ربات‌ها را در سالن‌های تولید به صورت پویا مدیریت می‌کند. این فناوری باعث حذف گلوگاه‌های زنجیره تامین داخلی در کارخانه‌های هوشمند می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 13:45",
+      "collected_at": "1405/07/25 17:01",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/article/siemens-amr-factory-logistics",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Logistics",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "معرفی فلومترهای هوشمند SITRANS FC430 با قابلیت تشخیص خودکار",
+      "summary": "فلومتر کوریولیس جدید SITRANS FC430 زیمنس با قابلیت‌های عیب‌یابی پیشرفته و هوشمند عرضه شد. این تجهیز قادر است وضعیت سلامت لوله‌ها و سیال عبوری را به طور مداوم ارزیابی کند و از بروز خطاهای اندازه‌گیری جلوگیری نماید. دقت بالا در صنایع دارویی و غذایی از مزایای اصلی این دستگاه به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/25 14:30",
+      "collected_at": "1405/07/25 17:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/instruments-automation/siemens-sitrans-fc430-flowmeter",
+      "tags": [
+        "SITRANS",
+        "Sensors",
+        "Process Instrumentation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "گزارش جدید از وضعیت استانداردسازی ارتباطات صنعتی با OPC UA FX",
+      "summary": "آخرین گزارش کنسرسیوم OPC نشان می‌دهد پذیرش استاندارد OPC UA Field Exchange (FX) در میان تولیدکنندگان تجهیزات اتوماسیون شتاب گرفته است. شرکت زیمنس نیز اعلام کرد که محصولات آینده خود را به طور کامل با این پروتکل سازگار می‌کند. این استاندارد ارتباطی بستر لازم برای تبادل داده میان تجهیزات برندهای مختلف را بدون وابستگی به سخت‌افزار خاص فراهم می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/07/25 15:15",
+      "collected_at": "1405/07/25 17:01",
+      "source": "Automation Insights",
+      "source_url": "https://www.automationinsights.com/opc-ua-fx-standardization-update",
+      "tags": [
+        "OPC UA",
+        "Standardization",
+        "Industrial Communication",
+        "Interoperability"
       ]
     }
   ]
