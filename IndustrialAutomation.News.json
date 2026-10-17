@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 177,
+  "count": 187,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 11:01",
+  "updated_at": "1405/07/25 11:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2811,6 +2811,166 @@
         "OT/ICS",
         "Report",
         "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های ایمنی جدید برای کنترلرهای SIMATIC S7-1500F",
+      "summary": "شرکت زیمنس از عرضه ماژول‌های ایمنی پیشرفته جدید برای خانواده کنترلرهای SIMATIC S7-1500F خبر داد. این ماژول‌ها امکان یکپارچه‌سازی سریع‌تر توابع ایمنی ماشین‌آلات را در محیط TIA Portal فراهم می‌کنند. این توسعه به مهندسان کمک می‌کند استانداردهای سخت‌گیرانه ایمنی اروپا را با هزینه‌کرد کمتری پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:15",
+      "collected_at": "1405/07/25 11:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500f-safety-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TIA Portal",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی با ماژول‌های جدید Energy Meter",
+      "summary": "خط تولید ماژول‌های اندازه‌گیری انرژی زیمنس برای سیستم SIMATIC ET 200MP به روزرسانی شد. این تجهیزات جدید داده‌های مصرف توان را با دقت میلی‌ثانیه جمع‌آوری کرده و به سیستم‌های مدیریت انرژی انتقال می‌دهند. این قابلیت نقش کلیدی در کاهش تلفات انرژی در خطوط مونتاژ خودرو ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:45",
+      "collected_at": "1405/07/25 11:03",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/siemens-energy-meter-et200mp",
+      "tags": [
+        "Energy Management",
+        "SIMATIC",
+        "ET 200MP",
+        "Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای پلتفرم SCADA برند WinCC Unified با ابزارهای تحلیل تحت وب",
+      "summary": "نسخه جدید نرم‌افزار SIMATIC WinCC Unified V19 با امکانات پیشرفته گرافیکی و تحلیل داده‌های وب‌محور منتشر شد. اپراتورها اکنون می‌توانند داشبوردهای سفارشی را بدون نیاز به نصب نرم‌افزار جانبی روی هر مرورگری مشاهده کنند. این تغییر انعطاف‌پذیری اتاق‌های کنترل را در صنایع پتروشیمی به طور قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 09:00",
+      "collected_at": "1405/07/25 11:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/scada/wincc-unified-v19-update",
+      "tags": [
+        "SCADA",
+        "WinCC Unified",
+        "HMI",
+        "Control Room"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری زیمنس و راک‌ول در توسعه پروتکل‌های ارتباطی باز TSN",
+      "summary": "دو غول اتوماسیون صنعتی زیمنس و راک‌ول اتومیشن توافقنامه جدیدی برای توسعه زیرساخت‌های ارتباطی Time-Sensitive Networking امضا کردند. این استاندارد ارتباطی تبادل داده‌های قطعی را در شبکه‌های اترنت صنعتی تضمین می‌کند. هدف از این پروژه حذف موانع ارتباطی میان تجهیزات برندهای مختلف در کارخانه‌ها است.",
+      "category": "news",
+      "published_at": "1405/07/25 09:20",
+      "collected_at": "1405/07/25 11:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/industry-news/siemens-rockwell-tsn-collaboration",
+      "tags": [
+        "TSN",
+        "Industrial Ethernet",
+        "Standardization",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "بهه‌سازی خطوط بسته‌بندی با رولرهای هوشمند مجهز به درایو SINAMICS",
+      "summary": "سری جدید درایوهای فشرده SINAMICS G120C با قابلیت ارتباط پروفینت یکپارچه برای صنایع بسته‌بندی معرفی شد. این درایوها با الگوریتم‌های پیشرفته کنترل بردار، لرزش مکانیکی را به حداقل می‌رسانند. استفاده از این تجهیزات سرعت تعویض محصول را در خطوط تولید مواد غذایی تا بیست درصد بهبود می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 09:40",
+      "collected_at": "1405/07/25 11:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/sinamics-g120c-packaging-upgrade",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Packaging",
+        "Profinet"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "گزارش جامع امنیت سایبری OT در سال ۲۰۲۶ و چالش‌های تجهیزات میراثی",
+      "summary": "انجمن بین‌المللی امنیت زیرساخت‌ها گزارش سالانه خود را پیرامون تهدیدات سایبری سیستم‌های کنترل صنعتی منتشر کرد. این گزارش نشان می‌دهد که آسیب‌پذیری در تجهیزات قدیمی متصل به شبکه مهم‌ترین دغدغه مدیران IT و OT است. کارشناسان استفاده از راهکارهای امنیتی لایه به لایه زیمنس را برای mitigation پیشنهاد می‌کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 11:03",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/ot-security-report-2026",
+      "tags": [
+        "Cybersecurity",
+        "OT/ICS",
+        "Network Security",
+        "Defense"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "استقرار ربات‌های سیار خودمختار در انبار لجستیک هوشمند زیمنس در نورمبرگ",
+      "summary": "کارخانه نمونه زیمنس در نورمبرگ از ناوگان جدید ربات‌های AMR برای انتقال قطعات الکترونیکی بهره‌برداری کرد. این ربات‌ها با استفاده از سیستم‌های ناوبری لیزری پیشرفته و نرم‌افزار ناوبر مرکزی هدایت می‌شوند. این پروژه کارایی لجستیک داخلی را به میزان قابل توجهی ارتقا داده و زمان توقف خط را کاهش داده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:20",
+      "collected_at": "1405/07/25 11:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/2026/10/siemens-nuremberg-amr-fleet",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Logistics",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه قابلیت‌های هوش مصنوعی لبه در پلتفرم Industrial Edge زیمنس",
+      "summary": "بسته‌های نرم‌افزاری جدیدی برای پلتفرم Industrial Edge زیمنس جهت اجرای مدل‌های یادگیری ماشین ارائه شد. این ابزارها به تحلیلگران داده اجازه می‌دهند مدل‌های پیش‌بینی خرابی را مستقیماً روی سخت‌افزارهای لبه کارخانه اجرا کنند. این روش تأخیر انتقال داده به فضای ابری را از بین برده و تصمیم‌گیری بلادرنگ را ممکن می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:40",
+      "collected_at": "1405/07/25 11:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/industrial-edge-ai-update-2026",
+      "tags": [
+        "Industrial Edge",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "استانداردسازی ارتباطات ابری با پشتیبانی کامل از پروتکل MQTT در کنترلرهای SIMATIC",
+      "summary": "سفت‌افزار جدید کنترلرهای SIMATIC S7-1200 امکان ارسال مستقیم داده‌ها به پلتفرم‌های ابری از طریق پروتکل MQTT را فراهم آورد. این ویژگی ارتباط مستقیم تجهیزات فیلد را با پلتفرم‌های مانیتورینگ مبتنی بر وب تسهیل می‌کند. این رویکرد هزینه‌های پیاده‌سازی معماری‌های اینترنت اشیاء صنعتی را برای پروژه‌های کوچک کاهش می‌دهد.",
+      "category": "topic",
+      "published_at": "1405/07/25 10:55",
+      "collected_at": "1405/07/25 11:03",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/simatic-s7-1200-mqtt-update",
+      "tags": [
+        "SIMATIC",
+        "MQTT",
+        "IIoT",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "بهینه‌سازی مصرف آب در صنایع معدنی با سیستم‌های کنترل توزیع‌یافته PCS neo",
+      "summary": "یک معدن بزرگ مس در آمریکای جنوبی با به‌کارگیری سیستم کنترل توزیع‌یافته SIMATIC PCS neo توانست مصرف آب خود را ۱۵ درصد کاهش دهد. این سیستم با یکپارچه‌سازی پمپ‌ها، شیرهای صنعتی و سنسورهای سطح جریان، کنترل دقیقی بر فرآیندهای جداسازی اعمال می‌کند. این پروژه نشان‌دهنده توانمندی سیستم‌های زیمنس در توسعه پایدار صنعتی است.",
+      "category": "industry",
+      "published_at": "1405/07/25 11:00",
+      "collected_at": "1405/07/25 11:03",
+      "source": "Mining Technology",
+      "source_url": "https://www.mining-technology.com/news/siemens-pcs-neo-water-optimization",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Mining",
+        "Sustainability"
       ]
     }
   ]
