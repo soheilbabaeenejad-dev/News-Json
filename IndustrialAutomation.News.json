@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 501,
+  "count": 511,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 18:02",
+  "updated_at": "1405/07/25 18:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7975,6 +7975,166 @@
         "AMR",
         "Logistics",
         "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای امنیت پیشرفته در کنترلرهای SIMATIC",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید CP 1543-1 برای خانواده کنترلرهای SIMATIC S7-1500 رونمایی کرد. این ماژول با ارائه دیواره آتش یکپارچه و پروتکل‌های رمزنگاری پیشرفته، امنیت شبکه‌های صنعتی را به‌طور چشمگیری افزایش می‌دهد. این راهکار به مهندسان اتوماسیون کمک می‌کند تا تجهیزات OT را در برابر تهدیدات سایبری مدرن محافظت کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 18:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-cp1543-1-security-module",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Industrial Security",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در نرم‌افزار پایش مصرف انرژی SIMATIC Energy Suite",
+      "summary": "نسخه جدید نرم‌افزار SIMATIC Energy Suite زیمنس با الگوریتم‌های جدید هوش مصنوعی عرضه شد. این ابزار به مدیران کارخانه‌ها اجازه می‌دهد تا الگوهای مصرف انرژی را به صورت بلادرنگ تحلیل کرده و نقاط اتلاف انرژی را شناسایی کنند. این بهینه‌سازی می‌تواند هزینه‌های عملیاتی خطوط تولید سنگین را تا پانزده درصد کاهش دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 18:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-energy-suite-ai",
+      "tags": [
+        "Energy Efficiency",
+        "SIMATIC",
+        "Insights Hub",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "یکپارچه‌سازی عمیق ربات‌های صنعتی با محیط مهندسی TIA Portal V20",
+      "summary": "زیمنس قابلیت‌های جدیدی را برای اتصال مستقیم ربات‌های صنعتی به محیط نرم‌افزاری TIA Portal V20 ارائه کرده است. این ویژگی امکان برنامه‌نویسی همزمان منطق PLC و حرکات بازوهای رباتیک را در یک پلتفرم واحد فراهم می‌سازد. این امر زمان راه‌اندازی خطوط مونتاژ خودکار را به نصف کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 18:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-tia-portal-v20-robotics",
+      "tags": [
+        "TIA Portal",
+        "Robotics",
+        "Automation",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "عرضه درایوهای فشرده SINAMICS G120X با استانداردهای جدید بهره‌وری انرژی",
+      "summary": "سری جدید درایوهای فرکانس متغیر SINAMICS G120X زیمنس برای کاربردهای پمپ و فن در تاسیسات صنعتی معرفی شدند. این درایوها دارای راندمان انرژی IE5 بوده و با سیستم‌های مدیریت ساختمان و اتوماسیون کارخانه سازگاری کامل دارند. این تجهیزات نقش کلیدی در کاهش ردپای کربن مجتمع‌های صنعتی بزرگ ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:10",
+      "collected_at": "1405/07/25 18:05",
+      "source": "IEEMA",
+      "source_url": "https://www.ieema.org/siemens-sinamics-g120x-update",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Saving",
+        "Industrial Motors"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "گسترش کاربرد سیستم کنترل توزیع‌یافته SIMATIC PCS neo در صنایع پتروشیمی",
+      "summary": "پروژه بزرگ نوسازی یک پالایشگاه نفت با استفاده از سیستم کنترل توزیع‌یافته SIMATIC PCS neo زیمنس با موفقیت به پایان رسید. این سیستم مبتنی بر وب امکان نظارت همزمان هزاران تگ فرآیندی را از راه دور فراهم می‌کند. معماری نوین این پلتفرم پایداری عملیاتی را در فرآیندهای پیوسته شیمیایی تضمین می‌نماید.",
+      "category": "news",
+      "published_at": "1405/07/25 12:05",
+      "collected_at": "1405/07/25 18:05",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-pcs-neo-refinery",
+      "tags": [
+        "DCS",
+        "PCS neo",
+        "Process Control",
+        "Oil and Gas"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "همکاری زیمنس و شرکت فستو برای استانداردسازی رابط‌های پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه مشترکی را برای توسعه استانداردهای ارتباطی در بلوک‌های شیر پنوماتیک امضا کردند. این همکاری به ادغام آسان‌تر تجهیزات پنوماتیک در بستر سیستم‌های SIMATIC ET 200 منجر می‌شود. مهندسان می‌توانند اطلاعات تشخیصی دقیق‌تری از قطعات مکانیکی خطوط تولید استخراج کنند.",
+      "category": "news",
+      "published_at": "1405/07/25 13:20",
+      "collected_at": "1405/07/25 18:05",
+      "source": "Design World",
+      "source_url": "https://www.designworld.com/siemens-festo-pneumatic-standard",
+      "tags": [
+        "Partnership",
+        "Pneumatics",
+        "ET 200",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "افزایش قابلیت‌های لبه شبکه در پلتفرم Industrial Edge برای پایش ارتعاشات",
+      "summary": "اپلیکیشن جدید Industrial Edge زیمنس برای تحلیل ارتعاشات تجهیزات دوار در کارخانه‌ها منتشر شد. این نرم‌افزار داده‌های سنسورهای محلی را با سرعت بالا پردازش کرده و خرابی‌های احتمالی گیربکس‌ها را پیش‌بینی می‌کند. این راهکار مانع از توقف‌های ناگهانی ماشین‌آلات سنگین در خطوط تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 14:10",
+      "collected_at": "1405/07/25 18:05",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-vibration",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "IoT",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "گزارش جدید از رشد بازار سیستم‌های SCADA مبتنی بر کلاد در سال ۲۰۲۶",
+      "summary": "تحلیلگران بازار اتوماسیون صنعتی از رشد چشمگیر پذیرش سیستم‌های اسکادا مبتنی بر ابر خبر دادند. پلتفرم‌های نرم‌افزاری مدرن مانند WinCC Unified زیمنس سهم قابل توجهی از این بازار را به خود اختصاص داده‌اند. این سیستم‌ها انعطاف‌پذیری لازم را برای مدیریت کارخانه‌های توزیع‌شده فراهم می‌سازند.",
+      "category": "research",
+      "published_at": "1405/07/25 15:00",
+      "collected_at": "1405/07/25 18:05",
+      "source": "ARC Advisory Group",
+      "source_url": "https://www.arcweb.com/market-reports/cloud-scada-automation-2026",
+      "tags": [
+        "SCADA",
+        "WinCC Unified",
+        "Market Research",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "معرفی نسل جدید سنسورهای فشار SITRANS P500 با دقت بالا برای صنایع دارویی",
+      "summary": "شرکت زیمنس از سنسورهای فشار پیشرفته سری SITRANS P500 با قابلیت پاکسازی خودکار و گواهینامه‌های بهداشتی رونمایی کرد. این تجهیزات ابزار دقیق برای اندازه‌گیری دقیق در خطوط تولید استریل دارویی طراحی شده‌اند. طراحی مقاوم آن‌ها در برابر مواد شوینده صنعتی، طول عمر سنسور را به حداکثر می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/25 16:30",
+      "collected_at": "1405/07/25 18:05",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-sitrans-p500-pharma",
+      "tags": [
+        "Instrumentation",
+        "SITRANS",
+        "Pharma",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "توسعه زیرساخت‌های آموزشی هوشمند با دوقلوهای دیجیتال زیمنس در دانشگاه‌ها",
+      "summary": "دانشگاه‌های فنی مهندسی با همکاری زیمنس به لابراتورهای مجازی مبتنی بر دوقلوهای دیجیتال مجهز شدند. دانشجویان رشته‌های اتوماسیون می‌توانند کدهای برنامه‌نویسی PLC و سیستم‌های SCADA را روی مدل‌های سه‌بعدی شبیه‌سازی‌شده تست کنند. این ابتکار مهارت عملی فارغ‌التحصیلان را برای ورود به بازار کار کارخانه‌های هوشمند ارتقا می‌دهد.",
+      "category": "society",
+      "published_at": "1405/07/25 17:45",
+      "collected_at": "1405/07/25 18:05",
+      "source": "Education Technology News",
+      "source_url": "https://www.edtechnews.org/siemens-digital-twin-universities",
+      "tags": [
+        "Digital Twin",
+        "Education",
+        "Siemens Xcelerator",
+        "Future of Work"
       ]
     }
   ]
