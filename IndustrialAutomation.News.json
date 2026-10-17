@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 381,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 15:18",
+  "count": 391,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/25 16:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6068,6 +6068,166 @@
         "SITRANS",
         "Instrumentation",
         "Chemical Industry"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی ماژول‌های ایمنی جدید برای خانواده SIMATIC S7-1500F",
+      "summary": "شرکت زیمنس از عرضه نسل جدید ماژول‌های ایمنی پیشرفته برای کنترلرهای SIMATIC S7-1500F خبر داد. این ماژول‌ها امکان اجرای همزمان منطق‌های کنترلی استاندارد و ایمنی (Safety) را با سرعت بالاتر فراهم می‌کنند. این تجهیزات جدید به کاهش زمان توقف اضطراب‌آور خطوط تولید و افزایش سطح ایمنی اپراتورها کمک شایانی خواهند کرد.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 16:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500f-safety-modules",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "Safety",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "توسعه راهکارهای مدیریت انرژی با SIMATIC Energy Suite V19",
+      "summary": "نسخه جدید نرم‌افزار SIMATIC Energy Suite V19 توسط زیمنس برای بهینه‌سازی مصرف انرژی در کارخانه‌ها منتشر شد. این ابزار به مهندسان اجازه می‌دهد تا داده‌های مصرف انرژی را مستقیماً از تجهیزات میدانی جمع‌آوری و تحلیل کنند. این راهکار نقش مهمی در کاهش هزینه‌های عملیاتی و دستیابی به اهداف کربن‌زدایی در صنایع سنگین دارد.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 16:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/energy-management/siemens-simatic-energy-suite-v19",
+      "tags": [
+        "Energy Management",
+        "SIMATIC",
+        "TIA Portal",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "همکاری زیمنس و اَبّ (ABB) برای استانداردسازی پروتکل‌های رباتیک",
+      "summary": "دو غول صنعت اتوماسیون، زیمنس و ABB، در پروژه‌ای مشترک برای استانداردسازی ارتباط میان ربات‌های صنعتی و سیستم‌های کنترل PLC متحد شدند. این ابتکار عمل به یکپارچه‌سازی آسان‌تر بازوهای رباتیک در محیط TIA Portal کمک می‌کند. این استاندارد جدید زمان مهندسی و راه‌اندازی سلول‌های رباتیک پیچیده را به طور قابل توجهی کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 16:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-abb-robotics-standardization-opc-ua/",
+      "tags": [
+        "Robotics",
+        "Standardization",
+        "OPC UA",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "آپدیت جدید پلتفرم Industrial Edge برای تحلیل ابری داده‌های لرزشی",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم Industrial Edge خود برای پایش وضعیت زنده موتورها و پمپ‌ها اضافه کرد. اپلیکیشن جدید Edge Vibration Analyzer به شناسایی زودهنگام خرابی‌های مکانیکی کمک می‌کند. این سیستم با پردازش داده‌ها در لبه شبکه، از انتقال حجم عظیمی از داده‌ها به فضای ابری جلوگیری کرده و سرعت واکنش را بالا می‌برد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 16:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/industrial-edge-vibration-analyzer-siemens/",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "IoT",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "رونمایی از سیستم‌های کنترل توزیع‌یافته جدید برای صنایع پتروشیمی",
+      "summary": "نسخه ارتقایافته سیستم کنترل توزیع‌یافته (DCS) زیمنس با تمرکز بر امنیت سایبری و مقیاس‌پذیری معرفی شد. این سیستم به اپراتورهای پالایشگاه‌ها اجازه می‌دهد تا فرآیندهای شیمیایی پیچیده را با اطمینان خاطر بیشتری کنترل کنند. معماری جدید این محصول خطر حملات سایبری به زیرساخت‌های حیاتی صنعتی را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 16:00",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/siemens-advanced-dcs-petrochemical-plants",
+      "tags": [
+        "DCS",
+        "Process Automation",
+        "Cybersecurity",
+        "Oil & Gas"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "توسعه شبکه ارتباطی SCALANCE برای زیرساخت‌های صنعتی پرسرعت",
+      "summary": "شرکت زیمنس سبد محصولات شبکه صنعتی خود را با معرفی سویچ‌های جدید سری SCALANCE گسترش داد. این تجهیزات از استانداردهای ارتباطی پرسرعت و قابلیت‌های مدیریتی پیشرفته برای شبکه‌های صنعتی پشتیبانی می‌کنند. استفاده از این سویچ‌ها پایداری ارتباطات در محیط‌های خشن کارگاهی را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 12:15",
+      "collected_at": "1405/07/25 16:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-scalance-industrial-networks-expansion",
+      "tags": [
+        "Networking",
+        "SCALANCE",
+        "Industrial Ethernet",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "گزارش جدید از رشد بازار سیستم‌های SCADA مبتنی بر وب در سال ۲۰۲۶",
+      "summary": "تحلیلگران بازار صنعتی گزارش تازه‌ای را منتشر کردند که نشان‌دهنده استقبال گسترده از نرم‌افزارهای SCADA مبتنی بر وب است. در این میان، پلتفرم WinCC OA زیمنس سهم قابل توجهی از پروژه‌های بزرگ زیرساختی را به خود اختصاص داده است. قابلیت دسترسی امن به اطلاعات کارخانه از طریق مرورگرها، عامل اصلی این تحول بزرگ محسوب می‌شود.",
+      "category": "research",
+      "published_at": "1405/07/25 13:00",
+      "collected_at": "1405/07/25 16:00",
+      "source": "ARC Advisory Group",
+      "source_url": "https://www.arcweb.com/market-research/web-based-scada-systems-market-report-2026",
+      "tags": [
+        "SCADA",
+        "WinCC",
+        "Market Research",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "بهینه‌سازی خطوط تولید خودرو با شبیه‌سازی پیشرفته زیمنس Xcelerator",
+      "summary": "یک خودروساز بزرگ اروپایی با کمک پلتفرم زیمنس Xcelerator توانست زمان راه‌اندازی خط مونتاژ جدید خود را ۳۰ درصد کاهش دهد. این موفقیت از طریق ایجاد دوقلوهای دیجیتال دقیق و تست مجازی تمام توابع کنترلی به دست آمد. این روش نوین از بروز خطاهای پرهزینه در فاز اجرایی پروژه جلوگیری می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/25 13:45",
+      "collected_at": "1405/07/25 16:00",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-xcelerator-digital-twin-automotive",
+      "tags": [
+        "Digital Twin",
+        "Siemens Xcelerator",
+        "Automotive",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "معرفی نسل جدید فلومترهای SITRANS با قابلیت تشخیصی هوشمند",
+      "summary": "تجهیزات ابزار دقیق زیمنس با معرفی نسل جدید فلومترهای الکترومغناطیسی SITRANS ارتقا یافتند. این سنسورها مجهز به الگوریتم‌های تشخیصی داخلی هستند که وضعیت سلامت لوله‌ها و سیالات را پایش می‌کنند. این نوآوری به صنایع آب و فاضلاب در کاهش هدررفت سیالات و بهینه‌سازی فرآیندهای اندازه‌گیری کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 14:30",
+      "collected_at": "1405/07/25 16:00",
+      "source": "Flow Control",
+      "source_url": "https://www.flowcontrolnetwork.com/instrumentation/siemens-sitrans-smart-flowmeters-release",
+      "tags": [
+        "Instrumentation",
+        "SITRANS",
+        "Sensors",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "ارتقای امنیت سایبری شبکه‌های اتوماسیون با راهکار مشترک زیمنس و فورتی‌نت",
+      "summary": "زیمنس و شرکت امنیت سایبری Fortinet همکاری خود را برای محافظت از شبکه‌های ترکیبی IT و OT گسترش دادند. این راهکار مشترک دیواره‌های آتش صنعتی را با تجهیزات شبکه زیمنس یکپارچه می‌کند تا از نفوذ بدافزارها جلوگیری شود. این اقدام واکنشی حیاتی به افزایش تهدیدات سایبری علیه زیرساخت‌های تولیدی هوشمند است.",
+      "category": "company",
+      "published_at": "1405/07/25 15:15",
+      "collected_at": "1405/07/25 16:00",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-fortinet-partnership-ot-cybersecurity/",
+      "tags": [
+        "Cybersecurity",
+        "OT/ICS",
+        "Fortinet",
+        "Siemens"
       ]
     }
   ]
