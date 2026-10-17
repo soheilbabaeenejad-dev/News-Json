@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 571,
+  "count": 581,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 21:10",
+  "updated_at": "1405/07/25 21:15",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9066,6 +9066,166 @@
         "SITRANS",
         "Instrumentation",
         "Chemical Industry"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی نسل جدید کنترلرهای SIMATIC S7-1500V با پردازنده اختصاصی هوش مصنوعی",
+      "summary": "زیمنس از سری جدید کنترلرهای SIMATIC S7-1500V رونمایی کرد که به پردازنده اختصاصی برای پردازش‌های هوش مصنوعی در لبه شبکه مجهز شده‌اند. این محصول به مهندسان اجازه می‌دهد الگوریتم‌های یادگیری ماشین را مستقیماً در سطح PLC اجرا کنند. این نوآوری زمان تأخیر در تصمیم‌گیری‌های کنترلی را به شدت کاهش داده و دقت پیش‌بینی خرابی‌ها را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 21:15",
+      "collected_at": "1405/07/25 21:15",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500v.html",
+      "tags": [
+        "SIMATIC",
+        "AI",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش قابلیت‌های پلتفرم Industrial Edge برای مدیریت ناوگان رباتیک",
+      "summary": "پلتفرم Industrial Edge زیمنس اکنون از مدیریت متمرکز ناوگان ربات‌های متحرک خودمختار (AMR) پشتیبانی می‌کند. این به‌روزرسانی به کاربران اجازه می‌دهد تا داده‌های عملکردی ربات‌ها را در محیط TIA Portal تحلیل و بهینه‌سازی کنند. این قابلیت باعث افزایش بهره‌وری در لجستیک داخلی کارخانه‌های هوشمند و کاهش تداخلات حرکتی ربات‌ها می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 21:15",
+      "collected_at": "1405/07/25 21:15",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/robotics/news/21849201",
+      "tags": [
+        "Industrial Edge",
+        "Robotics",
+        "AMR",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "همکاری زیمنس و شرکت‌های انرژی برای استانداردسازی مدیریت کربن در صنعت",
+      "summary": "زیمنس با همکاری کنسرسیوم‌های انرژی، استانداردی جدید برای گزارش‌دهی خودکار ردپای کربن در صنایع سنگین معرفی کرد. این راهکار با استفاده از داده‌های جمع‌آوری شده از سیستم‌های SIMATIC Energy Manager، میزان دقیق انتشار گازهای گلخانه‌ای را محاسبه می‌کند. این اقدام گامی مهم برای انطباق با قوانین سخت‌گیرانه زیست‌محیطی اروپا است.",
+      "category": "industry",
+      "published_at": "1405/07/25 21:15",
+      "collected_at": "1405/07/25 21:15",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-news.com/sustainability/siemens-energy-standard",
+      "tags": [
+        "Sustainability",
+        "Energy Management",
+        "SIMATIC",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "معرفی ماژول‌های امنیتی جدید برای سیستم‌های کنترل توزیع‌یافته PCS neo",
+      "summary": "زیمنس ماژول‌های سخت‌افزاری جدیدی را برای تقویت امنیت سایبری در سیستم‌های PCS neo معرفی کرده است که از پروتکل‌های رمزنگاری پیشرفته پشتیبانی می‌کنند. این ماژول‌ها به طور خاص برای محافظت از زیرساخت‌های حیاتی در برابر حملات سایبری پیچیده طراحی شده‌اند. این محصول امنیت لایه شبکه را در محیط‌های OT به استانداردهای جدیدی ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 21:15",
+      "collected_at": "1405/07/25 21:15",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://www.cybersecurity-industrial.com/news/pcs-neo-security",
+      "tags": [
+        "PCS neo",
+        "Cybersecurity",
+        "DCS",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "توسعه زیرساخت‌های ارتباطی 6G در محیط‌های صنعتی با همکاری زیمنس",
+      "summary": "تحقیقات جدید زیمنس در حوزه ارتباطات 6G نشان می‌دهد که این فناوری می‌تواند تأخیر ارتباطی در کارخانه‌های هوشمند را به زیر یک میلی‌ثانیه برساند. این پروژه با هدف یکپارچه‌سازی کامل سنسورهای بی‌سیم در مقیاس وسیع انجام می‌شود. انتظار می‌رود این زیرساخت جدید، تحولی در کنترل دقیق ربات‌های فوق‌سریع و سیستم‌های بینایی ماشین ایجاد کند.",
+      "category": "research",
+      "published_at": "1405/07/25 21:15",
+      "collected_at": "1405/07/25 21:15",
+      "source": "Tech Industrial Daily",
+      "source_url": "https://www.tech-industrial.com/connectivity/6g-research",
+      "tags": [
+        "6G",
+        "Connectivity",
+        "Smart Factory",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع پتروشیمی با درایوهای SINAMICS S220",
+      "summary": "سری جدید درایوهای SINAMICS S220 زیمنس با بهره‌گیری از الگوریتم‌های پیشرفته کنترل موتور، مصرف انرژی در پمپ‌ها و فن‌های صنعتی را تا ۱۵ درصد کاهش داده است. این درایوها به طور کامل با پلتفرم Insights Hub یکپارچه شده‌اند تا پایش وضعیت و مصرف انرژی را به صورت بلادرنگ فراهم کنند. این محصول برای صنایع شیمیایی با هدف کاهش هزینه‌های عملیاتی طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/25 21:15",
+      "collected_at": "1405/07/25 21:15",
+      "source": "Process Automation News",
+      "source_url": "https://www.process-automation.com/drives/sinamics-s220",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Petrochemical",
+        "Insights Hub"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "ارتقای نرم‌افزار TIA Portal برای پشتیبانی از مدل‌های سه‌بعدی پیچیده",
+      "summary": "نسخه جدید TIA Portal اکنون از وارد کردن مدل‌های سه‌بعدی با جزئیات بالا برای شبیه‌سازی دوقلوهای دیجیتال پشتیبانی می‌کند. این قابلیت به مهندسان اجازه می‌دهد تا قبل از پیاده‌سازی فیزیکی، عملکرد مکانیکی تجهیزات را در محیط مجازی تست کنند. این پیشرفت باعث کاهش خطاهای طراحی و تسریع در زمان راه‌اندازی خطوط تولید جدید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 21:15",
+      "collected_at": "1405/07/25 21:15",
+      "source": "Engineering Today",
+      "source_url": "https://www.engineering-today.com/software/tia-portal-update",
+      "tags": [
+        "TIA Portal",
+        "Digital Twin",
+        "Simulation",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "گزارش بازار جهانی اتوماسیون صنعتی در سه ماهه سوم سال ۲۰۲۶",
+      "summary": "گزارش جدید بازار نشان می‌دهد که تقاضا برای سیستم‌های اتوماسیون مبتنی بر ابر و هوش مصنوعی در سال ۲۰۲۶ رشد قابل توجهی داشته است. زیمنس همچنان پیشرو در بازار سیستم‌های کنترل و نرم‌افزارهای مدیریت کارخانه باقی مانده است. این گزارش بر افزایش سرمایه‌گذاری شرکت‌ها در اتوماسیون برای مقابله با کمبود نیروی کار متخصص تأکید دارد.",
+      "category": "economy",
+      "published_at": "1405/07/25 21:15",
+      "collected_at": "1405/07/25 21:15",
+      "source": "Industry Market Watch",
+      "source_url": "https://www.industry-market-watch.com/reports/automation-q3-2026",
+      "tags": [
+        "Market Report",
+        "Automation",
+        "Industry",
+        "Trends"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "معرفی سنسورهای هوشمند SITRANS با قابلیت تشخیص خودکار خطا",
+      "summary": "سنسورهای جدید SITRANS زیمنس مجهز به قابلیت تشخیص خودکار خطا و کالیبراسیون از راه دور هستند. این سنسورها با استفاده از پروتکل‌های ارتباطی مدرن، داده‌های سلامت دستگاه را به سیستم‌های مرکزی ارسال می‌کنند. این نوآوری نیاز به بازرسی‌های دستی را کاهش داده و قابلیت اطمینان سیستم‌های اندازه‌گیری در صنایع فرآیندی را بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/25 21:15",
+      "collected_at": "1405/07/25 21:15",
+      "source": "Sensor Technology",
+      "source_url": "https://www.sensor-tech.com/news/sitrans-smart-sensors",
+      "tags": [
+        "SITRANS",
+        "Sensors",
+        "Maintenance",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "آموزش نیروی کار برای کارخانه‌های دیجیتال با همکاری زیمنس و دانشگاه‌ها",
+      "summary": "زیمنس برنامه جدیدی را برای آموزش نیروی کار متخصص در حوزه کارخانه‌های دیجیتال با همکاری دانشگاه‌های برتر آغاز کرده است. این دوره آموزشی بر کار با نرم‌افزارهای Xcelerator و سیستم‌های اتوماسیون SIMATIC تمرکز دارد. هدف از این طرح، پر کردن شکاف مهارتی در صنعت و آماده‌سازی نسل جدید مهندسان برای کار با فناوری‌های پیشرفته است.",
+      "category": "society",
+      "published_at": "1405/07/25 21:15",
+      "collected_at": "1405/07/25 21:15",
+      "source": "Education Industrial",
+      "source_url": "https://www.education-industrial.com/training/siemens-partnership",
+      "tags": [
+        "Education",
+        "Digital Factory",
+        "Xcelerator",
+        "Training"
       ]
     }
   ]
