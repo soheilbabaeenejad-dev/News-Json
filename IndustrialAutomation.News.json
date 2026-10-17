@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 237,
+  "count": 247,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 12:05",
+  "updated_at": "1405/07/25 13:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3771,6 +3771,166 @@
         "AMR",
         "Logistics",
         "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای ارتقای امنیت شبکه SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از ماژول ارتباطی پیشرفته CP 1543-1 برای کنترلرهای SIMATIC S7-1500 رونمایی کرد. این ماژول با پشتیبانی از پروتکل‌های امنیتی روز و دیواره آتشپارامتریک، امنیت شبکه‌های صنعتی را به طور چشمگیری افزایش می‌دهد. این محصول به مهندسان اتوماسیون اجازه می‌دهد تا ارتباطات OT را با بالاترین سطح حفاظت به لایه IT متصل کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:15",
+      "collected_at": "1405/07/25 13:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-cp1543-1-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Industrial Security",
+        "Profinet"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پایش وضعیت در نرم‌افزار Industrial Edge با اپلیکیشن Vibration Analytics",
+      "summary": "زیمنس نسخه جدید اپلیکیشن Vibration Analytics را برای پلتفرم Industrial Edge عرضه کرد. این ابزار به صنایع سنگین کمک می‌کند تا با تحلیل داده‌های ارتعاشی موتورها به صورت بلادرنگ، خرابی‌های احتمالی را پیش‌بینی کنند. این راهکار مانع از توقف‌های ناخواسته خطوط تولید و کاهش هزینه‌های تعمیرات می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 09:00",
+      "collected_at": "1405/07/25 13:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-edge-vibration",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Siemens",
+        "Condition Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف آب و انرژی با سیستم SIMATIC Energy Manager نسخه جدید",
+      "summary": "نسخه تازه نرم‌افزار SIMATIC Energy Manager توسط زیمنس برای مدیریت جامع مصرف منابع در کارخانه‌ها منتشر شد. این سامانه با اتصال مستقیم به کنترلرهای صنعتی، داده‌های مصرف انرژی را گردآوری و تحلیل می‌کند. این راهکار نقش مهمی در کمک به صنایع برای دستیابی به اهداف پایداری و کاهش انتشار کربن دارد.",
+      "category": "product",
+      "published_at": "1405/07/25 09:45",
+      "collected_at": "1405/07/25 13:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-energy-manager-update",
+      "tags": [
+        "SIMATIC",
+        "Energy Management",
+        "Insights Hub",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "گسترش اکوسیستم Siemens Xcelerator با افزونه‌های جدید مهندسی رباتیک",
+      "summary": "زیمنس از افزونه‌های تازه مهندسی رباتیک برای پلتفرم جامع Siemens Xcelerator خبر داد. این ابزارها امکان شبیه‌سازی دقیق و یکپارچه سلول‌های رباتیک را در محیط سه‌بعدی فراهم می‌کنند. طراحان صنعتی می‌توانند پیش از راه‌اندازی فیزیکی، تداخلات و عملکرد ربات‌ها را به طور کامل ارزیابی نمایند.",
+      "category": "news",
+      "published_at": "1405/07/25 10:10",
+      "collected_at": "1405/07/25 13:00",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-xcelerator-robotics",
+      "tags": [
+        "Siemens Xcelerator",
+        "Robotics",
+        "Digital Twin",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی کنترل‌کننده توزیع‌شده SIMATIC ET 200pro با قابلیت‌های مقاوم در برابر شرایط سخت",
+      "summary": "سیستم I/O توزیع‌شده جدید SIMATIC ET 200pro زیمنس با درجه حفاظت IP65/67 معرفی شد. این ماژول برای نصب در خارج از تابلوهای برق و مستقیماً روی بدنه ماشین‌آلات طراحی شده است. مقاومت بالا در برابر ارتعاشات شدید و رطوبت، آن را برای صنایع خودرویی و معدنی ایده‌آل ساخته است.",
+      "category": "product",
+      "published_at": "1405/07/25 10:30",
+      "collected_at": "1405/07/25 13:00",
+      "source": "IEI Magazine",
+      "source_url": "https://www.ieimagazine.com/siemens-et200pro-launch",
+      "tags": [
+        "SIMATIC ET 200",
+        "Decentralized Peripherals",
+        "Siemens",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای نرم‌افزار SCADA زیمنس WinCC Unified با ابزارهای گزارش‌گیری پیشرفته وب‌محور",
+      "summary": "زیمنس به‌روزرسانی جدیدی را برای سامانه SCADA خود یعنی WinCC Unified منتشر کرد. این نسخه شامل ابزارهای پیشرفته گزارش‌گیری تحت وب و داشبوردهای تعاملی جدید است. اپراتورها اکنون می‌توانند روند تولید را از هر نقطه‌ای و با استفاده از مرورگرهای استاندارد به صورت امن رصد کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:00",
+      "collected_at": "1405/07/25 13:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-wincc-unified-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "همکاری زیمنس و Festo برای توسعه استانداردهای اتوماسیون پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو شراکت استراتژیک جدیدی را برای یکپارچه‌سازی سیستم‌های پنوماتیک با کنترلرهای SIMATIC آغاز کردند. این همکاری بر پایه پروتکل‌های ارتباطی استاندارد مانند IO-Link شکل گرفته است. هدف این پروژه، ساده‌سازی سیم‌کشی و ارتقای قابلیت عیب‌یابی در تجهیزات پنوماتیکی کارخانه‌ها است.",
+      "category": "news",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 13:00",
+      "source": "Design World",
+      "source_url": "https://www.designworld.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "IO-Link",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "رونمایی از نسل جدید درایوهای فرکانس متغیر SINAMICS G120X با بهره‌وری انرژی بالا",
+      "summary": "سری جدید درایوهای SINAMICS G120X زیمنس با تمرکز بر کاربردهای صنعت آب و فاضلاب و تهویه مطبوع معرفی شد. این درایوها دارای الگوریتم‌های پیشرفته کنترل موتور برای به حداقل رساندن تلفات انرژی هستند. طراحی ماژولار آن‌ها نصب و راه‌اندازی اولیه را برای تکنسین‌ها به میزان زیادی تسریع می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 12:00",
+      "collected_at": "1405/07/25 13:00",
+      "source": "Pumps & Systems",
+      "source_url": "https://www.pumpsandsystems.com/siemens-sinamics-g120x",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گسترش کاربرد هوش مصنوعی صنعتی در محیط TIA Portal V20",
+      "summary": "زیمنس قابلیت‌های هوش مصنوعی را در محیط مهندسی TIA Portal V20 توسعه داد. دستیار هوشمند جدید این نرم‌افزار به برنامه‌نویسان PLC در عیب‌یابی کدهایStructured Text کمک می‌کند. این فناوری زمانه‌ توسعه و کمیسیونینگ خطوط تولید جدید را به طور محسوسی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 12:25",
+      "collected_at": "1405/07/25 13:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-tia-portal-v20-ai",
+      "tags": [
+        "TIA Portal",
+        "Artificial Intelligence",
+        "PLC Programming",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه زیرساخت‌های امنیت سایبری صنعتی بر اساس استاندارد IEC 62443 توسط زیمنس",
+      "summary": "آزمایشگاه‌های امنیت سایبری زیمنس گواهینامه‌های جدید انطباق با استاندارد IEC 62443-4-2 را برای طیف وسیعی از تجهیزات اتوماسیون دریافت کردند. این اقدام تضمین می‌کند که سخت‌افزار و نرم‌افزارهای شرکت در برابر تهدیدات سایبری نوظهور محافظت می‌شوند. این استاندارد به صنایع مختلف اطمینان خاطر بیشتری در اتصال امن سیستم‌های کنترل می‌دهد.",
+      "category": "regulation",
+      "published_at": "1405/07/25 12:50",
+      "collected_at": "1405/07/25 13:00",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-iec-62443-certification",
+      "tags": [
+        "Cybersecurity",
+        "IEC 62443",
+        "Compliance",
+        "Siemens"
       ]
     }
   ]
