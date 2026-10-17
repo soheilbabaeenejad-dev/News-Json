@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 267,
+  "count": 277,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 13:04",
+  "updated_at": "1405/07/25 13:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4251,6 +4251,166 @@
         "MindSphere",
         "Cloud Computing",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261008-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای اتصال امن کنترلرهای SIMATIC به شبکه",
+      "summary": "شرکت زیمنس ماژول ارتباطی جدید CP 1543-1 را برای کنترلرهای SIMATIC S7-1500 معرفی کرد که امنیت شبکه‌های صنعتی را به طور چشمگیری افزایش می‌دهد. این ماژول با پشتیبانی از پروتکل‌های امنیتی پیشرفته و فایروال یکپارچه، از سیستم‌های کنترل در برابر تهدیدات سایبری محافظت می‌کند. این محصول جدید به مهندسان اتوماسیون اجازه می‌دهد تا ارتباطات ابری و لبه را با بالاترین سطح اطمینان پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 13:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/new-cp-1543-1-communication-module",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Siemens",
+        "Cybersecurity",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261008-002",
+      "title": "بهینه‌سازی مصرف آب و انرژی در صنایع لبنی با پلتفرم Insights Hub",
+      "summary": "یک کارخانه بزرگ تولید محصولات لبنی در اروپا با استفاده از پلتفرم ابری Insights Hub زیمنس موفق شد مصرف انرژی و آب خود را تا ۱۵ درصد کاهش دهد. این راهکار با تحلیل داده‌های بلادر نقاط مختلف خط تولید، نقاط اتلاف انرژی را شناسایی و به اپراتورها گزارش می‌دهد. این پروژه گامی مهم در راستای پایداری و کاهش ردپای کربن در صنایع غذایی محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 13:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/insights-hub-dairy-sustainability",
+      "tags": [
+        "Insights Hub",
+        "Energy Efficiency",
+        "Food & Beverage",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261008-003",
+      "title": "بروزرسانی جدید TIA Portal V19 با ابزارهای پیشرفته مدیریت نسخه",
+      "summary": "زیمنس نسخه بروزشده TIA Portal V19 را با تمرکز بر بهبود کارایی تیم‌های مهندسی و مدیریت پروژه عرضه کرد. این نسخه شامل ابزارهای پیشرفته کنترل نسخه و مقایسه کدهای برنامه‌نویسی PLC است که سرعت توسعه نرم‌افزار را افزایش می‌دهد. مهندسین کنترل اکنون می‌توانند پروژه‌های پیچیده اتوماسیون را با دقت و هماهنگی بیشتری به صورت تیمی اجرا کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 13:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/tia-portal-v19-update-version-control",
+      "tags": [
+        "TIA Portal",
+        "PLC",
+        "Engineering",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261008-004",
+      "title": "گسترش کاربرد Industrial Edge در پایش وضعیت ربات‌های صنعتی",
+      "summary": "توسعه‌دهندگان زیمنس اپلیکیشن جدیدی برای پلتفرم Industrial Edge ارائه کرده‌اند که ارتعاشات و وضعیت سلامت موتور ربات‌های صنعتی را پایش می‌کند. این ابزار با پردازش داده‌ها در لبه شبکه، خرابی‌های احتمالی را پیش از وقوع پیش‌بینی می‌کند و زمان توقف خط تولید را به حداقل می‌رساند. این راهکار به صنایع خودرو‌سازی کمک می‌کند تا هزینه‌های تعمیر و نگهداری را به شدت کاهش دهند.",
+      "category": "news",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 13:05",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrialiotnews.com/edge-computing-robotics-monitoring",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Robotics",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261008-005",
+      "title": "معرفی کنترلرهای ایمنی جدید SIMATIC S7-1200 F برای ماشین‌آلات کوچک",
+      "summary": "نسخه جدید کنترلرهای ایمنی SIMATIC S7-1200 F زیمنس برای اتوماسیون ماشین‌آلات کوچک و متوسط معرفی شد. این کنترلرها استانداردهای سخت‌گیرانه ایمنی تا SIL 3 را پوشش داده و ایمنی اپراتورها را در فضاهای کاری محدود تضمین می‌کنند. این محصول مقرون‌به‌صرفه، امکان پیاده‌سازی توابع ایمنی پیشرفته را بدون نیاز به سخت‌افزارهای جانبی فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/25 11:20",
+      "collected_at": "1405/07/25 13:05",
+      "source": "IEB Magazine",
+      "source_url": "https://www.iebmedia.com/news/simatic-s7-1200-f-safety-controllers",
+      "tags": [
+        "SIMATIC S7-1200",
+        "Machine Safety",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261008-006",
+      "title": "توسعه سیستم SCADA مبتنی بر وب با SIMATIC WinCC Unified V19",
+      "summary": "نرم‌افزار SIMATIC WinCC Unified V19 با امکانات جدید برای تجسم داده‌های صنعتی و نظارت بر فرایندها منتشر شد. این سیستم مبتنی بر وب به اپراتورها اجازه می‌دهد از طریق هر مرورگر و دستگاهی به تصاویر گرافیکی و اطلاعات بی‌درنگ کارخانه دسترسی داشته باشند. انعطاف‌پذیری بالا و گرافیک برداری مقیاس‌پذیر از ویژگی‌های کلیدی این نسخه جدید است.",
+      "category": "product",
+      "published_at": "1405/07/25 11:50",
+      "collected_at": "1405/07/25 13:05",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/wincc-unified-v19-web-scada",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261008-007",
+      "title": "همکاری زیمنس و اپراتورهای مخابراتی برای توسعه شبکه‌های خصوصی 5G صنعتی",
+      "summary": "زیمنس برای گسترش زیرساخت‌های ارتباطی کارخانه‌های هوشمند با شرکت‌های پیشرو مخابراتی وارد همکاری استراتژیک شد. هدف از این پروژه، ارائه راهکارهای جامع شبکه خصوصی 5G برای انتقال پرسرعت و ایمن داده‌های اتوماسیون است. این فناوری زیرساخت لازم برای اتصال هزاران سنسور و کنترلر بی‌سیم را در محیط‌های صنعتی فراهم می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/25 12:10",
+      "collected_at": "1405/07/25 13:05",
+      "source": "Telecompaper",
+      "source_url": "https://www.telecompaper.com/news/siemens-industrial-5g-private-networks",
+      "tags": [
+        "5G",
+        "Industrial Communications",
+        "Wireless",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261008-008",
+      "title": "افزایش بهره‌وری خطوط مونتاژ با سیستم‌های شناسایی فرکانس رادیویی RFID زیمنس",
+      "summary": "سیستم‌های شناسایی هوشمند SIMATIC RF600 زیمنس به خودروسازان کمک می‌کنند تا قطعات را در تمام مراحل تولید به‌دقة ردیابی کنند. این فناوری با استفاده از تگ‌های RFID صنعتی، اطلاعات دقیق قطعه را به سیستم‌های کنترل منتقل می‌کند تا خطا در خطوط مونتاژ به صفر برسد. افزایش سرعت گردش کار و شفافیت زنجیره تأمین داخلی از مزایای اصلی این سیستم است.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:30",
+      "collected_at": "1405/07/25 13:05",
+      "source": "RFID Journal",
+      "source_url": "https://www.rfidjournal.com/siemens-rfid-automotive-assembly",
+      "tags": [
+        "RFID",
+        "SIMATIC RF600",
+        "Automotive",
+        "Traceability"
+      ]
+    },
+    {
+      "id": "ia-20261008-009",
+      "title": "معرفی نسل جدید منبع تغذیه SITOP PSU8600 با قابلیت یکپارچه‌سازی در TIA Portal",
+      "summary": "زیمنس خانواده جدید منابع تغذیه صنعتی SITOP PSU8600 را با قابلیت‌های تشخیصی پیشرفته معرفی کرد. این تجهیزات به‌طور کامل در محیط TIA Portal یکپارچه شده و اطلاعات دقیقی درباره ولتاژ، جریان و وضعیت سلامت باتری به سیستم کنترل ارسال می‌کنند. قابلیت مدیریت توان هوشمند در این محصولات از خاموشی‌های ناگهانی خطوط تولید جلوگیری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 12:50",
+      "collected_at": "1405/07/25 13:05",
+      "source": "Electrical Business",
+      "source_url": "https://www.electricalbusiness.com/sitop-psu8600-power-supply-update",
+      "tags": [
+        "SITOP",
+        "Power Supply",
+        "TIA Portal",
+        "Diagnostics"
+      ]
+    },
+    {
+      "id": "ia-20261008-010",
+      "title": "پیشرفت در آموزش مهندسان اتوماسیون با بسته‌های آموزشی دیجیتال زیمنس",
+      "summary": "شرکت زیمنس بسته‌های آموزشی جدیدی مبتنی بر سخت‌افزار واقعی SIMATIC و نرم‌افزار دوقلوی دیجیتال برای دانشگاه‌ها عرضه کرد. این تجهیزات به دانشجویان مهندسی برق و کنترل اجازه می‌دهد تا برنامه‌نویسی PLC و طراحی سیستم‌های SCADA را در محیطی شبیه‌سازی‌شده تجربه کنند. این ابتکار برای رفع کمبود نیروی کار متخصص در حوزه صنعت چهار صفر طراحی شده است.",
+      "category": "society",
+      "published_at": "1405/07/25 13:05",
+      "collected_at": "1405/07/25 13:05",
+      "source": "Education Technology",
+      "source_url": "https://www.edtechreview.in/siemens-digital-education-automation",
+      "tags": [
+        "Education",
+        "Digital Twin",
+        "SIMATIC",
+        "Workforce Development"
       ]
     }
   ]
