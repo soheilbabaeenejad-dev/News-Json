@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 355,
+  "count": 362,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 15:02",
+  "updated_at": "1405/07/25 15:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5659,6 +5659,118 @@
         "TUM",
         "Research and Development",
         "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی تعمیر و نگهداری با اپلیکیشن جدید Industrial Edge برای پایش بلبرینگ‌ها",
+      "summary": "اپلیکیشن تازه توسعه‌یافته Industrial Edge زیمنس برای تحلیل ارتعاشات و پایش وضعیت بلبرینگ‌ها معرفی شد. این ابزار داده‌های سنسورها را در لبه شبکه و به صورت بلادرنگ پردازش می‌کند تا نشانه‌های اولیه خرابی مکانیکی را شناسایی کند. این فناوری از توقف‌های ناخواسته خط تولید جلوگیری کرده و هزینه‌های نگهداری اضطرابی را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/25 10:30",
+      "collected_at": "1405/07/25 15:03",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/edge-computing/siemens-bearing-monitoring-app",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Condition Monitoring",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "رشد تجهیزات ابزار دقیق با معرفی نسل جدید ترانسمیترهای فشار SITRANS P500",
+      "summary": "زیمنس خانواده جدید ترانسمیترهای فشار SITRANS P500 را با دقت بالا و زمان پاسخگویی سریع‌تر روانه بازار کرد. این تجهیزات برای کار در شرایط سخت محیطی و صنایع پتروشیمی طراحی شده‌اند و مقاومت بالایی در برابر خوردگی دارند. قابلیت اتصال این ترانسمیترها به سیستم‌های DCS از طریق پروتکل‌های استاندارد، پایش فرآیند را بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/25 11:15",
+      "collected_at": "1405/07/25 15:03",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-launches-sitrans-p500-transmitters",
+      "tags": [
+        "SITRANS",
+        "Instrumentation",
+        "Process Control",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "گسترش کاربرد ربات‌های مشارکتی با ماژول کنترلر امنیتی SINAMICS Safety Integrated",
+      "summary": "سیستم کنترل ایمنی SINAMICS Safety Integrated زیمنس اکنون از استانداردهای جدید برای ربات‌های مشارکتی (کوبوت‌ها) پشتیبانی می‌کند. این فناوری امکان اجرای توابع ایمنی پیشرفته مانند محدوده سرعت امن و توقف ایمن را بدون نیاز به تجهیزات جانبی فراهم می‌آورد. این رویکرد ایمنی اپراتورها را در کنار خطوط تولید خودکار به طور قابل توجهی افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:00",
+      "collected_at": "1405/07/25 15:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-sinamics-safety-cobots",
+      "tags": [
+        "SINAMICS",
+        "Cobots",
+        "Machine Safety",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای پلتفرم ابری Insights Hub با ابزارهای پیشرفته یادگیری ماشین برای تحلیل داده‌های تولید",
+      "summary": "زیمنس قابلیت‌های جدیدی مبتنی بر یادگیری ماشین را به پلتفرم ابری Insights Hub اضافه کرد تا تحلیل داده‌های صنعتی ساده‌تر شود. مهندسان می‌توانند الگوریتم‌های پیش‌بینی را بدون نیاز به دانش عمیق برنامه‌نویسی روی داده‌های سری زمانی اعمال کنند. این به‌روزرسانی به واحدهای صنعتی کمک می‌کند الگوهای پنهان در خطوط تولید را شناسایی و بهینه‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 12:45",
+      "collected_at": "1405/07/25 15:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud/siemens-insights-hub-machine-learning-update",
+      "tags": [
+        "Insights Hub",
+        "Machine Learning",
+        "Cloud Computing",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "پیاده‌سازی موفق سیستم کنترل توزیع‌یافته PCS neo در یک پالایشگاه بزرگ شیمیایی",
+      "summary": "یک مجتمع بزرگ پتروشیمی با موفقیت سیستم کنترل توزیع‌یافته SIMATIC PCS neo زیمنس را جایگزین سیستم‌های قدیمی خود کرد. این پلتفرم تحت وب امکان دسترسی امن مهندسان به داده‌های فرآیندی را از راه دور فراهم کرده است. پروژه مذکور نشان داد که معماری نوین PCS neo می‌تواند پایداری و مقیاس‌پذیری را در صنایع فرآیندی پیچیده تضمین کند.",
+      "category": "industry",
+      "published_at": "1405/07/25 13:30",
+      "collected_at": "1405/07/25 15:03",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/siemens-pcs-neo-refinery-implementation",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Industry",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی نسل جدید رله‌های حفاظتی SIRIUS 3RM1 برای مدیریت موتورهای الکتریکی کوچک",
+      "summary": "شرکت زیمنس رله‌های حفاظتی و کنترلی جدید خانواده SIRIUS 3RM1 را با طراحی فشرده و تکنولوژی نیمه‌هادی معرفی کرد. این تجهیزات ترکیبی از چهار عملکرد مختلف شامل راه‌اندازی مستقیم و معکوس موتور را در یک بدنه باریک ارائه می‌دهند. این ماژول‌ها فضای اشغال‌شده در تابلوهای برق را کاهش داده و طول عمر تجهیزات را افزایش می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 14:15",
+      "collected_at": "1405/07/25 15:03",
+      "source": "Electrical Construction & Maintenance",
+      "source_url": "https://www.ecmweb.com/content/siemens-sirius-motor-control-relays",
+      "tags": [
+        "SIRIUS",
+        "Motor Control",
+        "Switchgear",
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه زیرساخت‌های آموزشی اتوماسیون صنعتی با همکاری زیمنس و دانشگاه‌های فنی اروپا",
+      "summary": "زیمنس برنامه تازه‌ای را برای تجهیز آزمایشگاه‌های دانشگاهی به آخرین نسل کنترلرهای SIMATIC و نرم‌افزار TIA Portal آغاز کرد. این ابتکار با هدف کاهش فاصله بین مهارت‌های فارغ‌التحصیلان و نیازهای واقعی بازار کار در حوزه صنعت چهارم طراحی شده است. دانشجویان شرکت‌کننده در این طرح، گواهینامه معتبر مهندسی اتوماسیون زیمنس را دریافت خواهند کرد.",
+      "category": "society",
+      "published_at": "1405/07/25 15:00",
+      "collected_at": "1405/07/25 15:03",
+      "source": "EdTech Review",
+      "source_url": "https://www.edtechreview.in/industry-news/siemens-university-automation-labs",
+      "tags": [
+        "Education",
+        "TIA Portal",
+        "SIMATIC",
+        "Workforce Development"
       ]
     }
   ]
