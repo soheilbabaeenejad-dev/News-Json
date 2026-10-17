@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 335,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 14:08",
+  "count": 345,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/25 15:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5339,6 +5339,166 @@
         "Industrial Edge",
         "Predictive Maintenance",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "نسخه جدید سیستم کنترل SIMATIC PCS neo V4.0 با قابلیت‌های ابری معرفی شد",
+      "summary": "شرکت زیمنس از عرضه نسخه چهارم سیستم کنترل توزیع‌یافته SIMATIC PCS neo با معماری کاملاً تحت وب و قابلیت‌های مدیریت ابری پیشرفته خبر داد. این نسخه جدید به مهندسان اجازه می‌دهد تا از هر نقطه‌ای به پروژه‌های اتوماسیون دسترسی داشته باشند و همکاری تیمی را به طور چشمگیری افزایش دهند. به‌روزرسانی‌های امنیتی مدرن و ابزارهای مهندسی بصری از شاخص‌ترین ویژگی‌های این release جدید هستند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 15:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-pcs-neo-v4-0",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "DCS",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ماژول‌های ایمنی جدید برای خانواده SIMATIC ET 200SP منتشر شد",
+      "summary": "زیمنس برای ارتقای سطح ایمنی ماشین‌آلات و خطوط تولید، سبد محصولات I/O توزیع‌شده خود را با ماژول‌های ایمنی پیشرفته توسعه داد. این ماژول‌های جدید با استانداردهای سخت‌گیرانه SIL 3 و PL e مطابقت داشته و زمان واکنش سیستم را به شدت کاهش می‌دهند. این توسعه به سازندگان ماشین ابزار کمک می‌کند تا سیستم‌های ایمنی فشرده‌تر و کارآمدتری پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 15:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/safety/siemens-et-200sp-safety",
+      "tags": [
+        "Siemens",
+        "ET 200SP",
+        "Safety",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش کاربرد Industrial Edge در پایش مصرف انرژی خطوط مونتاژ خودرو",
+      "summary": "راهکار Industrial Edge زیمنس اکنون قابلیت‌های تازه‌ای برای تحلیل بلادرنگ داده‌های مصرف انرژی در کارخانه‌های خودروسازی ارائه می‌دهد. این پلتفرم لبه با اتصال به کنتورهای هوشمند و درایوهای SINAMICS، هدررفت انرژی را به دقت شناسایی و گزارش می‌کند. خودروسازان بزرگ با استفاده از این ابزار توانسته‌اند هزینه‌های عملیاتی و ردپای کربن خود را به میزان قابل توجهی کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 15:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/industrial-edge-energy-monitoring",
+      "tags": [
+        "Industrial Edge",
+        "Energy Efficiency",
+        "SINAMICS",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری راهبردی زیمنس و فستو در زمینه اتوماسیون پنوماتیک مدلار",
+      "summary": "شرکت‌های زیمنس و فستو توافق‌نامه همکاری جدیدی برای یکپارچه‌سازی تجهیزات پنوماتیک هوشمند با کنترلرهای SIMATIC امضا کردند. این پروژه‌ مشترک اتصال بلوک‌های شیر پنوماتیک به شبکه‌های PROFINET را ساده‌تر کرده و عیب‌یابی را از طریق محیط TIA Portal ممکن می‌سازد. هدف این اتحاد استراتژیک، کاهش زمان راه‌اندازی ماشین‌آلات بسته‌بندی و مونتاژ است.",
+      "category": "company",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 15:00",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "PROFINET",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی نسل جدید تحلیلگرهای گاز SITRANS برای صنایع پتروشیمی",
+      "summary": "زیمنس از تجهیزات جدید پایش گازهای صنعتی سری SITRANS با قابلیت اتصال مستقیم به سیستم‌های اسکادا پرده برداشت. این تحلیلگرها مجهز به حسگرهای اپتیکی پیشرفته هستند و دقت اندازه‌گیری در محیط‌های سخت پالایشگاهی را تضمین می‌کنند. داده‌های جمع‌آوری شده به‌طور مستقیم به پلتفرم Insights Hub برای نگهداری پیش‌بینانه ارسال می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 15:00",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-sitrans-gas-analyzers",
+      "tags": [
+        "SITRANS",
+        "Sensors",
+        "Oil and Gas",
+        "Insights Hub"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "نقش کلیدی بلوک‌های تابعی استاندارد در پیاده‌سازی معماری نام‌گذاری NAMUR",
+      "summary": "مهندسان اتوماسیون صنعتی با استفاده از کتابخانه‌های جدید زیمنس بر پایه استاندارد NAMUR NA 158، ساختاردهی داده‌های فرآیندی را بهینه کرده‌اند. این رویکرد ساختاریافته، یکپارچه‌سازی تجهیزات ابزار دقیق را در سیستم‌های کنترل توزیع‌یافته سرعت می‌بخشد. این استانداردسازی هزینه‌های مهندسی و نگهداری بلندمدت در صنایع فرآیندی را کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/25 12:00",
+      "collected_at": "1405/07/25 15:00",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/namur-standards-in-dcss",
+      "tags": [
+        "NAMUR",
+        "Process Control",
+        "DCS",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "انتشار گزارش جدید امنیت سایبری OT در تاسیسات زیرساختی حیاتی",
+      "summary": "تازه‌ترین گزارش موسسات امنیتی نشان می‌دهد که حملات سایبری به زیرساخت‌های صنعتی همچنان رو به رشد است و نیازمند راهکارهای دفاعی چندلایه‌ای می‌باشد. شرکت زیمنس با تکیه بر مفهوم Defense-in-Depth و فایروال‌های صنعتی سری SCALANCE، راهکارهای نوینی برای ایمن‌سازی شبکه‌های OT ارائه داده است. رعایت استانداردهای بین‌المللی IEC 62443 برای تمامی تجهیزات جدید اتوماسیون الزامی شده است.",
+      "category": "regulation",
+      "published_at": "1405/07/25 12:45",
+      "collected_at": "1405/07/25 15:00",
+      "source": "ICS-CERT Insights",
+      "source_url": "https://www.ics-cert.org/reports/ot-cybersecurity-2026",
+      "tags": [
+        "Cybersecurity",
+        "OT/ICS",
+        "SCALANCE",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهینه‌سازی سیستم‌های جابجایی مواد با کنترلرهای SIMATIC S7-1200 Failsafe",
+      "summary": "استفاده از کنترلرهای ایمن SIMATIC S7-1200 در لجستیک داخلی کارخانه‌ها، ایمنی ربات‌های خودران AGV را به طور محسوب‌یاری افزایش داده است. این کنترلرهای فشرده قابلیت پردازش دستورات منطقی و ایمنی را به صورت همزمان در یک بستر واحد فراهم می‌کنند. این فناوری جدید خطر برخورد در انبارهای تمام‌اتوماتیک را به حداقل می‌رساند.",
+      "category": "industry",
+      "published_at": "1405/07/25 13:20",
+      "collected_at": "1405/07/25 15:00",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/article/s7-1200-failsafe-agv",
+      "tags": [
+        "SIMATIC S7-1200",
+        "AGV",
+        "Safety",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "ارتقای نرم‌افزار WinCC Unified برای نظارت پیشرفته بر خطوط بسته‌بندی",
+      "summary": "نسخه به‌روزرسانی شده پلتفرم مانیتورینگ SIMATIC WinCC Unified ابزارهای ویژه‌ای برای تحلیل عملکرد و محاسبه راندمان کلی تجهیزات OEE ارائه کرده است. اپراتورها اکنون می‌توانند داشبوردهای سفارشی مبتنی بر وب را بدون نیاز به نصب نرم‌افزار اضافی روی تبلت‌های صنعتی مشاهده کنند. این قابلیت تصمیم‌گیری سریع‌تر در خطوط تولید پرسرعت را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 14:00",
+      "collected_at": "1405/07/25 15:00",
+      "source": "Automation Inside",
+      "source_url": "https://www.automation-inside.com/wincc-unified-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "OEE"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه زیرساخت‌های شبکه صنعتی با سوئیچ‌های مدیریت‌شده SCALANCE X",
+      "summary": "زیمنس خط تولید سوئیچ‌های صنعتی SCALANCE X را با پشتیبانی از پورت‌های سرعت بالا و استانداردهای ارتباطی TSN به‌روزرسانی کرد. این سوئیچ‌ها تضمین می‌کنند که داده‌های حیاتی اتوماسیون بدون تاخیر و به صورت قطعی در بستر شبکه منتقل شوند. این زیرساخت شبکه برای پیاده‌سازی شبکه‌های همگرای IT/OT در کارخانه‌های هوشمند ضروری است.",
+      "category": "product",
+      "published_at": "1405/07/25 14:45",
+      "collected_at": "1405/07/25 15:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-scalance-x-tsn",
+      "tags": [
+        "SCALANCE",
+        "Industrial Ethernet",
+        "TSN",
+        "Networking"
       ]
     }
   ]
