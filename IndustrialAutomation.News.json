@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 128,
-  "provider": "Gemini/gemini-3-flash-preview",
-  "updated_at": "1405/07/25 06:01",
+  "count": 138,
+  "provider": "Gemini/gemini-3.7-flash",
+  "updated_at": "1405/07/25 06:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2026,6 +2026,166 @@
         "کم‌کد",
         "TIA Portal",
         "تحول دیجیتال"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "رونمایی از نسخه جدید SIMATIC WinCC Unified V19 با رابط کاربری برداری",
+      "summary": "شرکت زیمنس نسخه به‌روزرسانی‌شده سامانه تجسم‌سازی SIMATIC WinCC Unified V19 را با پشتیبانی کامل از گرافیک برداری مقیاس‌پذیر عرضه کرد. این ابزار به مهندسان امکان می‌دهد صفحات HMI را بدون افت کیفیت روی مرورگرهای صنعتی پیاده کنند. قابلیت کلیدی این نگارش، کاهش زمان بارگذاری تا ۳۰ درصد و ارتباط مستقیم با سیستم‌های Industrial Edge است.",
+      "category": "product",
+      "published_at": "1405/07/24 16:30",
+      "collected_at": "1405/07/25 06:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-wincc-unified-v19",
+      "tags": [
+        "SIMATIC",
+        "WinCC Unified",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "عرضه ماژول پردازش تصویر SIMATIC Edge برای کنترل کیفیت خطوط تولید",
+      "summary": "زیمنس برنامه نرم‌افزاری جدیدی بر پایه Industrial Edge معرفی کرده که با اتصال به دوربین‌های صنعتی، عیوب بسته‌بندی را با نرخ ۱۲۰ فریم بر ثانیه تحلیل می‌کند. این فناوری با استفاده از شبکه‌های عصبی فشرده، نیاز به توقف فیزیکی قطعات را برطرف می‌سازد. پیاده‌سازی این سیستم روی رایانه‌های صنعتی IPC227E دقت بازرسی ابعادی را تا ۹۹.۴ درصد افزایش داده است.",
+      "category": "product",
+      "published_at": "1405/07/24 18:15",
+      "collected_at": "1405/07/25 06:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/machine-vision/article/siemens-industrial-edge-vision",
+      "tags": [
+        "Industrial Edge",
+        "هوش مصنوعی",
+        "پردازش تصویر",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "معرفی کنترلرهای ایمنی Modicon M680 با استاندارد SIL3 توسط اشنایدر الکتریک",
+      "summary": "شرکت اشنایدر الکتریک سری جدید کنترلرهای ایمنی Modicon M680 را ویژه تأسیسات حساس پتروشیمی و گاز روانه بازار کرد. این پردازنده‌ها تطابق سخت‌گیرانه سطح یکپارچگی ایمنی SIL3 را به همراه پشتیبانی هم‌زمان از پروتکل‌های اترنت صنعتی فراهم می‌آورند. قابلیت ماژولار بودن کارت‌ها باعث کاهش ۴۰ درصدی فضای تابلو و افزایش تاب‌آوری در برابر اختلالات الکترومغناطیسی شده است.",
+      "category": "product",
+      "published_at": "1405/07/24 19:40",
+      "collected_at": "1405/07/25 06:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/schneider-electric-unveils-modicon-m680-safety-plc",
+      "tags": [
+        "Schneider Electric",
+        "PLC",
+        "ایمنی صنعتی",
+        "Modicon"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "ادغام ترانسمیترهای فشار SITRANS P با پروتکل اترنت تک‌زوج SPE",
+      "summary": "زیمنس نسل نوینی از ترانسمیترهای اندازه‌گیری فشار SITRANS P را با اتصال مستقیم اترنت تک‌زوج (SPE) عرضه کرده است. این تجهیزات امکان ارسال اطلاعات تشخیصی با پهنای باند ۱۰ مگابیت بر ثانیه را تا مسافت یک کیلومتر در مناطق خطرناک زون صفر فراهم می‌کنند. حذف مبدل‌های میانی هزینه کابل‌کشی فرآیندی را به نصف رسانده و راه‌اندازی سنسورها را تسریع می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/24 21:05",
+      "collected_at": "1405/07/25 06:05",
+      "source": "Siemens Global",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/sitrans-p-single-pair-ethernet",
+      "tags": [
+        "SITRANS",
+        "سنسور",
+        "اتوماسیون فرآیندی",
+        "SPE"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "پشتیبانی مستقیم سامانه نرم‌افزاری TwinCAT از مدل‌های یادگیری عمیق ONNX",
+      "summary": "بک‌هوف پلتفرم کنترل بر پایه رایانه TwinCAT 3 را به موتور اجرای بلادرنگ فرمت هوش مصنوعی ONNX مجهز ساخت. با این نوآوری، پردازش بینایی و الگوریتم‌های پیش‌بینانه درون حلقه کنترلی با زمان چرخه زیر ۱ میلی‌ثانیه مستقیماً اجرا می‌شوند. این رویکرد نیاز به کنترلرهای مجزای هوش مصنوعی را در خطوط بسته‌بندی و مونتاژ سریع به شکل محسوسی از میان برداشته است.",
+      "category": "product",
+      "published_at": "1405/07/24 22:50",
+      "collected_at": "1405/07/25 06:05",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com/en-en/products/automation/twincat/twincat-machine-learning-onnx",
+      "tags": [
+        "Beckhoff",
+        "TwinCAT",
+        "PC Control",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "تجهیز روترهای امنیتی SCALANCE SC-600 زیمنس به فایروال عمیق بسته‌ها",
+      "summary": "بخش صنایع دیجیتال زیمنس روترهای امنیتی سری SCALANCE SC-600 را با قابلیت بازرسی عمیق بسته‌ها (DPI) برای پروتکل‌های صنعتی ارتقا داد. این فایروال سخت‌افزاری ترافیک پروتکل‌های Profinet و Modbus را در لایه دستورات کنترلی پایش کرده و فرمان‌های غیرمجاز را بلافاصله سد می‌کند. این اقدام گامی مهم در محافظت از خطوط حساس اتوماسیون در برابر حملات تزریق فرمان مخرب است.",
+      "category": "product",
+      "published_at": "1405/07/25 01:10",
+      "collected_at": "1405/07/25 06:05",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/security/siemens-scalance-sc600-dpi-firmware-update",
+      "tags": [
+        "SCALANCE",
+        "امنیت صنعتی",
+        "OT Security",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "پیاده‌سازی معماری اعتماد صفر در سیستم کنترل توزیع‌یافته ABB System 800xA",
+      "summary": "شرکت ABB قابلیت‌های امنیتی جدیدی بر پایه معماری اعتماد صفر (Zero Trust) برای سیستم DCS خود یعنی System 800xA ارائه کرد. این سامانه با ارزیابی پیوسته هویت کنترلرها و ایستگاه‌های مهندسی طبق استاندارد IEC 62443، خطر نفوذ جانبی را به حداقل می‌رساند. این لایه دفاعی پایداری ارتباطات میان تجهیزات فرآیندی و شبکه‌های مدیریت کارخانه را به حداکثر می‌رساند.",
+      "category": "industry",
+      "published_at": "1405/07/25 02:45",
+      "collected_at": "1405/07/25 06:05",
+      "source": "ABB Media",
+      "source_url": "https://new.abb.com/news/detail/system-800xa-zero-trust-cyber-architecture",
+      "tags": [
+        "ABB",
+        "DCS",
+        "امنیت سایبری",
+        "System 800xA"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "راه‌اندازی سرویس ابری TIA Portal Cloud برای مهندسی مشترک تجهیزات اتوماسیون",
+      "summary": "شرکت زیمنس با هدف تسریع پروژه‌های مشترک بین‌المللی، پلتفرم مهندسی TIA Portal Cloud را با ویژگی همگام‌سازی چندکاربره گسترش داد. متخصصان می‌توانند از راه دور و بدون نیاز به نصب نرم‌افزارهای حجیم، منطق PLCهای S7-1500 و S7-1200 را برنامه‌نویسی و تست کنند. ایجاد تونل مستقیم VPN امن، تست آزمایشی مجازی و راه‌اندازی سرد کارخانه‌ها را تا ۲۵ درصد سرعت بخشیده است.",
+      "category": "news",
+      "published_at": "1405/07/25 03:30",
+      "collected_at": "1405/07/25 06:05",
+      "source": "Siemens Industry",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/tia-portal-cloud-collaborative-engineering",
+      "tags": [
+        "TIA Portal",
+        "زیمنس",
+        "رایانش ابری",
+        "مهندسی اتوماسیون"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "معرفی درایوهای چندمحوره Kinetix 5700 راکول اتومیشن با توابع پیشرفته ایمنی",
+      "summary": "راکول اتومیشن سری سروو درایوهای یکپارچه Kinetix 5700 را به پروفایل‌های حرکتی ایمن پیشرفته ویژه ربات‌های موازی و دلتا مجهز کرد. این تجهیزات با پایش سرعت ایمن و موقعیت توقف اضطراری بدون قطع برق درایو، بهره‌وری خطوط جابجایی کالا را بالا می‌برند. پیاده‌سازی استاندارد CIP Safety بر بستر اترنت صنعتی امکان واکنش سریع زیر ۱۰ میلی‌ثانیه را میسر می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/25 04:20",
+      "collected_at": "1405/07/25 06:05",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/kinetix-5700-advanced-safety-robotics",
+      "tags": [
+        "Rockwell Automation",
+        "Motion Control",
+        "Kinetix",
+        "رباتیک صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "بکارگیری مبدل‌های دوطرفه SINAMICS DCP زیمنس در ذخیره‌سازهای انرژی صنعتی",
+      "summary": "زیمنس نسل جدید مبدل‌های DC به DC دوطرفه سری SINAMICS DCP را برای کنترل بهینه ذخیره‌سازهای باتری در صنایع سنگین به کار گرفت. این سیستم با توان خروجی تا ۴۸۰ کیلووات، مدیریت پیک مصرف برق کارخانه را به طور خودکار انجام داده و نوسانات ولتاژ را تثبیت می‌کند. راندمان ۹۸ درصدی این مبدل‌ها به صنایع انرژی‌بر کمک می‌کند هزینه‌های دیماند مصرفی را چشمگیر کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/25 05:15",
+      "collected_at": "1405/07/25 06:05",
+      "source": "Siemens Industry Online",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/sinamics-dcp-battery-storage-plants",
+      "tags": [
+        "SINAMICS",
+        "مدیریت انرژی",
+        "درایو صنعتی",
+        "زیمنس"
       ]
     }
   ]
