@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 10,
-  "provider": "Gemini/gemini-robotics-er-2-preview",
-  "updated_at": "1405/07/26 00:04",
+  "count": 20,
+  "provider": "Gemini/gemini-3.8-flash",
+  "updated_at": "1405/07/26 01:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -167,6 +167,166 @@
         "Dragos",
         "Cybersecurity",
         "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "گسترش قابلیت‌های دستیار هوش مصنوعی زیمنس و مایکروسافت در محیط SIMATIC AX",
+      "summary": "زیمنس و مایکروسافت همکاری خود را برای گسترش دستیار هوش مصنوعی صنعتی Industrial Copilot گسترش دادند. این ابزار به مهندسان امکان می‌دهد کدهای اتوماسیون برای محیط SIMATIC AX را با زبان طبیعی تولید کنند. آزمایش‌های عملیاتی در کارخانه‌های پیشرو نشان‌دهنده کاهش ۶۰ درصدی زمان عیب‌یابی نرم‌افزارهای PLC و ارتقای چشمگیر بهره‌وری تیم‌های نگهداری است.",
+      "category": "product",
+      "published_at": "1405/07/25 15:40",
+      "collected_at": "1405/07/26 01:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-microsoft-scale-industrial-ai-copilot",
+      "tags": [
+        "زیمنس",
+        "SIMATIC AX",
+        "هوش مصنوعی",
+        "اتوماسیون صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "رونمایی از اینورتر صنعتی SINAMICS G220 زیمنس با امنیت سایبری یکپارچه",
+      "summary": "درایو فرکانس متغیر جدید زیمنس با نام SINAMICS G220 رسماً برای کاربردهای صنعتی سنگین به بازار عرضه شد. این درایو با استاندارد امنیت سایبری IEC 62443-4-2 سازگار بوده و نخستین نمونه با ویژگی‌های پیشرفته Security Integrated است. پشتیبانی ذاتی از پروتکل Profinet IRT امکان مانیتورینگ دقیق انرژی و شبیه‌سازی دیجیتال از طریق ابزار DriveSim Advanced را فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/25 16:15",
+      "collected_at": "1405/07/26 01:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/product/33005891/siemens-sinamics-g220-variable-frequency-drive",
+      "tags": [
+        "SINAMICS",
+        "زیمنس",
+        "درایو",
+        "امنیت سایبری"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "عرضه نسخه جدید سیستم کنترل فرآیند تحت وب SIMATIC PCS neo V4.1",
+      "summary": "نسخه جدید سیستم کنترل فرآیند کاملاً مبتنی بر وب SIMATIC PCS neo V4.1 توسط زیمنس معرفی شد. این ویرایش قابلیت معماری توزیع‌شده با مقیاس‌پذیری نامحدود و دسترسی همزمان چندین مهندس از بستر مرورگر را ارتقا می‌دهد. کاهش کابل‌کشی فیلدباس به کمک PROFINET و پشتیبانی مستقیم از MTP، زمان یکپارچه‌سازی ماژول‌های فرآیندی را تا ۳۵ درصد کاهش داده است.",
+      "category": "product",
+      "published_at": "1405/07/25 17:00",
+      "collected_at": "1405/07/26 01:00",
+      "source": "Process Engineering",
+      "source_url": "https://www.siemens.com/global/en/products/automation/distributed-control-system/simatic-pcs-neo.html",
+      "tags": [
+        "SIMATIC",
+        "PCS neo",
+        "DCS",
+        "اتوماسیون فرآیندی"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "ارتقای پلتفرم EcoStruxure Automation Expert توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک نگارش جدید EcoStruxure Automation Expert را با تمرکز بر اتوماسیون مبتنی بر نرم‌افزار روانه بازار کرد. این پلتفرم از استاندارد IEC 61499 پیروی کرده و استقلال کامل سخت‌افزار از منطق کنترلی را در خطوط بسته‌بندی محقق می‌سازد. ادغام بومی با سیستم‌های لینوکس صنعتی و پروتکل OPC UA، انعطاف‌پذیری فوق‌العاده‌ای در به‌روزرسانی خطوط تولید ایجاد کرده است.",
+      "category": "product",
+      "published_at": "1405/07/25 18:20",
+      "collected_at": "1405/07/26 01:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/software-centric-automation-system-update/",
+      "tags": [
+        "اشنایدر الکتریک",
+        "IEC 61499",
+        "نرم‌افزار اتوماسیون",
+        "OPC UA"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "معرفی رایانه صنعتی فشرده IPCbx-39A زیمنس ویژه پردازش لبه‌ای",
+      "summary": "زیمنس نسل جدید رایانه‌های صنعتی فشرده IPCbx-39A را ویژه پیاده‌سازی کاربردهای Industrial Edge در محیط‌های سخت صنعتی معرفی کرد. این تجهیزات مجهز به پردازنده‌های نسل ۱۳ اینتل بوده و پردازش‌های سنگین هوش مصنوعی را در سطح خط محقق می‌کنند. قابلیت کار مداوم در دمای منفی ۲۰ تا ۶۰ درجه سانتی‌گراد، اطمینان از عملکرد بلادرنگ را بدون نیاز به فن تضمین می‌نماید.",
+      "category": "product",
+      "published_at": "1405/07/25 19:10",
+      "collected_at": "1405/07/26 01:00",
+      "source": "Siemens Industry",
+      "source_url": "https://mall.industry.siemens.com/mall/en/WW/Catalog/Products/10041285",
+      "tags": [
+        "رایانه صنعتی",
+        "Industrial Edge",
+        "سخت‌افزار",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "توسعه ابزارهای ابری طراحی HMI در بستر FactoryTalk Optix راکول",
+      "summary": "راکول اتوماسیون قابلیت‌های بستر بصری‌سازی باز FactoryTalk Optix را با ابزارهای همکاری ابری جدید ارتقا داد. این نرم‌افزار به تیم‌های چندرشته‌ای اجازه می‌دهد طراحی و استقرار صفحات HMI را به‌صورت هم‌زمان و مستقل از پروتکل اختصاصی کنترلرها انجام دهند. یکپارچگی بومی با پیام‌رسانی MQTT و C# انعطاف برنامه‌نویسی را در سطح معماری اینترنت اشیاء صنعتی دوچندان کرده است.",
+      "category": "product",
+      "published_at": "1405/07/25 20:05",
+      "collected_at": "1405/07/26 01:00",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/products/software/factorytalk/optix.html",
+      "tags": [
+        "راکول اتوماسیون",
+        "HMI",
+        "FactoryTalk",
+        "رابط کاربری"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "انتشار ماژول بهینه‌سازی مصرف انرژی در پلتفرم اینترنت اشیاء Insights Hub زیمنس",
+      "summary": "زیمنس اپلیکیشن جامع مدیریت انرژی را بر بستر پلتفرم Insights Hub برای کمک به صنایع سنگین در اخذ گواهینامه ISO 50001 راه‌اندازی کرد. این برنامه با جمع‌آوری داده‌های لحظه‌ای از کنتورهای هوشمند و درایوها، الگوهای اتلاف توان الکتریکی را شناسایی می‌کند. بررسی‌های میدانی نشان می‌دهد استفاده از این راهکار باعث بهینه‌سازی ۱۵ درصدی هزینه‌های برق در کوره‌های ذوب صنعتی می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 21:15",
+      "collected_at": "1405/07/26 01:00",
+      "source": "Industrial IoT World",
+      "source_url": "https://www.siemens.com/global/en/products/software/insights-hub.html",
+      "tags": [
+        "Insights Hub",
+        "مدیریت انرژی",
+        "اینترنت اشیاء صنعتی",
+        "پایداری"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "رونمایی کوکا از روبات صنعتی KR FORTEC ultra برای ساخت باتری خودرو برقی",
+      "summary": "شرکت روباتیک کوکا از سری ربات‌های فوق سنگین KR FORTEC ultra برای مونتاژ پک‌های باتری خودروهای الکتریکی رونمایی کرد. این بازوی رباتیک با توان حمل بار تا ۸۰۰ کیلوگرم، بیشترین صلبیت و دقت مکانی را در میان رقبا ارائه می‌دهد. مصرف بهینه انرژی تا ۵۰ درصد کمتر نسبت به نسل پیشین و استفاده از کابل‌های تغذیه حفاظت‌شده، طول عمر مفید آن را در شرایط پرفشار کارگاهی افزایش داده است.",
+      "category": "product",
+      "published_at": "1405/07/25 22:00",
+      "collected_at": "1405/07/26 01:00",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/2024/kuka-launches-kr-fortec-ultra-heavy-duty-robot/",
+      "tags": [
+        "کوکا",
+        "رباتیک",
+        "باتری خودرو",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "پیاده‌سازی سامانه مدیریت ناوگان روباتیک SIMOVE زیمنس در مجتمع شیمیایی ب‌آاس‌اف",
+      "summary": "شرکت ب‌آاس‌اف آلمان سامانه مدیریت ناوگان SIMOVE زیمنس را برای هدایت بیش از پنجاه ربات متحرک خودران (AMR) در سایت لودویگس‌هافن مستقر کرد. این نرم‌افزار کنترل ترافیک بلادرنگ لجستیک داخلی کارخانه مواد شیمیایی را از طریق اتصال شبکه 5G اختصاصی مدیریت می‌کند. افزایش ۲۵ درصدی سرعت جابه‌جایی مواد و حذف کامل حوادث تصادف فیزیکی از دستاوردهای بارز اجرای این پروژه بوده است.",
+      "category": "company",
+      "published_at": "1405/07/25 22:45",
+      "collected_at": "1405/07/26 01:00",
+      "source": "Automatisierungstechnische Praxis",
+      "source_url": "https://www.siemens.com/global/en/products/automation/agv-simove.html",
+      "tags": [
+        "SIMOVE",
+        "زیمنس",
+        "ربات خودمختار",
+        "لجستیک"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "تجهیز باسبارهای فشار ضعیف SIVACON 8PS زیمنس به حسگرهای حرارتی هوشمند",
+      "summary": "زیمنس ماژول‌های پایش حرارتی دیجیتال مبتنی بر اینترنت اشیاء را برای سامانه باسبار فشار ضعیف SIVACON 8PS ارائه داد. حسگرهای بی‌سیم تعبیه‌شده به‌طور مداوم دمای اتصالات حساس را پایش کرده و هشدارهای نگهداری پیشگیرانه را به سیستم‌های بالادستی ارسال می‌نمایند. این فناوری از وقوع قطعی‌های برنامه‌ریزی‌نشده ناشی از گرمایش بیش از حد در اتاق‌های توزیع برق کارخانه‌ها پیشگیری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 23:30",
+      "collected_at": "1405/07/26 01:00",
+      "source": "Electrical Review",
+      "source_url": "https://www.siemens.com/global/en/products/energy/low-voltage/busbar-trunking-systems-sivacon-8ps.html",
+      "tags": [
+        "SIVACON",
+        "زیمنس",
+        "توزیع برق",
+        "نگهداری پیشگیرانه"
       ]
     }
   ]
