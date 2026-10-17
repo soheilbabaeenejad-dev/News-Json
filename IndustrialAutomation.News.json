@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 333,
+  "count": 335,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 14:06",
+  "updated_at": "1405/07/25 14:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5308,6 +5308,37 @@
         "TIA Portal",
         "PLC",
         "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی نسل جدید کنترلرهای SIMATIC S7-1500 با پشتیبانی از پروتکل TSN",
+      "summary": "زیمنس نسل جدید کنترلرهای SIMATIC S7-1500 را با پشتیبانی بومی از شبکه حساس به زمان (TSN) معرفی کرد. این قابلیت جدید امکان همگام‌سازی فوق‌دقیق در شبکه‌های صنعتی را فراهم کرده و تأخیر در انتقال داده‌ها را به حداقل می‌رساند. این پیشرفت برای کاربردهای رباتیک با سرعت بالا و سیستم‌های کنترل حرکت پیچیده حیاتی است و بهره‌وری خطوط تولید را به طور چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 14:08",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "TSN",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در Industrial Edge برای پایش وضعیت موتورها",
+      "summary": "پلتفرم Industrial Edge زیمنس اکنون به ابزارهای تحلیل پیشرفته برای پایش وضعیت موتورهای الکتریکی مجهز شده است. این سیستم با استفاده از الگوریتم‌های یادگیری ماشین، لرزش‌ها و نوسانات جریان را تحلیل کرده و خرابی‌های احتمالی را پیش از وقوع گزارش می‌دهد. این راهکار به کاهش زمان توقف ناخواسته دستگاه‌ها در صنایع سنگین کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:45",
+      "collected_at": "1405/07/25 14:08",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/industrial-edge/news/21289432",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Siemens"
       ]
     }
   ]
