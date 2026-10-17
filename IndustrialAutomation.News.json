@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 78,
-  "provider": "Gemini/gemini-3-flash-preview",
-  "updated_at": "1405/07/25 04:01",
+  "count": 88,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/25 04:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1229,6 +1229,166 @@
         "Instrumentation",
         "Flowmeter",
         "Smart Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "ارتقای قابلیت‌های تشخیص عیب در سیستم SIMATIC S7-1500",
+      "summary": "زیمنس به‌روزرسانی جدیدی برای کنترلرهای SIMATIC S7-1500 ارائه کرده است که قابلیت‌های تشخیص عیب (Diagnostics) را به طور چشمگیری بهبود می‌بخشد. این ارتقا به مهندسان اجازه می‌دهد تا با استفاده از ابزارهای پیشرفته در TIA Portal، خطاهای سیستم را سریع‌تر شناسایی و رفع کنند. این قابلیت باعث کاهش زمان توقف خطوط تولید و افزایش بهره‌وری کلی در کارخانه‌های هوشمند می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 01:15",
+      "collected_at": "1405/07/25 04:04",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "SIMATIC",
+        "TIA Portal",
+        "PLC",
+        "Diagnostics"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش همکاری زیمنس و انویدیا در شبیه‌سازی کارخانه‌های خودکار",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه محیط‌های شبیه‌سازی مبتنی بر Omniverse گسترش داده‌اند. این همکاری بر ایجاد دوقلوهای دیجیتال با دقت بالا برای خطوط تولید رباتیک تمرکز دارد تا فرآیندهای پیچیده پیش از اجرا در دنیای واقعی، کاملاً تست شوند. این راهکار به شرکت‌ها کمک می‌کند تا هزینه‌های راه‌اندازی خطوط تولید جدید را تا ۳۰ درصد کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/25 01:45",
+      "collected_at": "1405/07/25 04:04",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.automation.com/en-us/articles/october-2026/siemens-nvidia-digital-twin-collaboration",
+      "tags": [
+        "Digital Twin",
+        "NVIDIA",
+        "Omniverse",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "معرفی ماژول‌های جدید ارتباطی برای سیستم ET 200SP",
+      "summary": "زیمنس از نسل جدید ماژول‌های ارتباطی برای سیستم توزیع‌یافته SIMATIC ET 200SP رونمایی کرد که از پروتکل‌های ارتباطی پرسرعت پشتیبانی می‌کنند. این ماژول‌ها برای محیط‌های صنعتی با تراکم داده بالا طراحی شده‌اند و امکان اتصال آسان به شبکه‌های صنعتی مبتنی بر Profinet را فراهم می‌آورند. این محصول جدید، انعطاف‌پذیری سیستم‌های I/O را در پروژه‌های اتوماسیون مقیاس بزرگ افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 02:00",
+      "collected_at": "1405/07/25 04:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/22934567/siemens-et200sp-new-modules",
+      "tags": [
+        "ET 200SP",
+        "Profinet",
+        "I/O",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "راهکار جدید زیمنس برای پایش مصرف انرژی در صنایع سنگین",
+      "summary": "نرم‌افزار جدید Insights Hub زیمنس اکنون ابزارهای تخصصی برای پایش مصرف انرژی در صنایع سنگین مانند فولاد و سیمان ارائه می‌دهد. این راهکار با تحلیل داده‌های سنسورهای متصل، نقاط اتلاف انرژی را شناسایی کرده و پیشنهادات بهینه‌سازی ارائه می‌دهد. پیاده‌سازی این سیستم می‌تواند به کاهش چشمگیر هزینه‌های عملیاتی و ردپای کربن در کارخانه‌های بزرگ صنعتی منجر شود.",
+      "category": "topic",
+      "published_at": "1405/07/25 02:20",
+      "collected_at": "1405/07/25 04:04",
+      "source": "Energy Efficiency Journal",
+      "source_url": "https://www.siemens.com/insights-hub/energy-management-heavy-industry",
+      "tags": [
+        "Insights Hub",
+        "Energy Management",
+        "Sustainability",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "توسعه زیرساخت‌های امنیت سایبری برای شبکه‌های OT",
+      "summary": "با افزایش حملات سایبری به زیرساخت‌های صنعتی، زیمنس استانداردهای جدیدی را برای امنیت شبکه‌های OT در سیستم‌های PCS neo معرفی کرده است. این پروتکل‌های امنیتی شامل رمزنگاری پیشرفته داده‌ها و مدیریت هویت کاربران در سطح کنترلر است. این اقدامات به مدیران کارخانه‌ها اطمینان می‌دهد که سیستم‌های کنترل توزیع‌یافته آن‌ها در برابر تهدیدات مدرن سایبری محافظت شده‌اند.",
+      "category": "regulation",
+      "published_at": "1405/07/25 02:40",
+      "collected_at": "1405/07/25 04:04",
+      "source": "Cybersecurity Industrial Review",
+      "source_url": "https://www.siemens.com/cybersecurity-ot-pcs-neo",
+      "tags": [
+        "Cybersecurity",
+        "PCS neo",
+        "OT",
+        "Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "بهینه‌سازی درایوهای SINAMICS برای کاربردهای دقیق",
+      "summary": "زیمنس سری جدید درایوهای فرکانس متغیر SINAMICS را با قابلیت‌های کنترل حرکت پیشرفته معرفی کرد. این درایوها برای ماشین‌آلات دقیق در صنایع بسته‌بندی و داروسازی بهینه‌سازی شده‌اند و دقت موقعیت‌یابی را تا حد زیادی افزایش می‌دهند. با استفاده از این درایوها، تولیدکنندگان می‌توانند کیفیت محصولات نهایی خود را بهبود بخشیده و ضایعات تولید را در خطوط پرسرعت کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 03:00",
+      "collected_at": "1405/07/25 04:04",
+      "source": "Manufacturing Tech",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Motion Control",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "گزارش رشد بازار اتوماسیون صنعتی در منطقه خاورمیانه",
+      "summary": "گزارش جدید بازار نشان می‌دهد که تقاضا برای راهکارهای اتوماسیون صنعتی و دیجیتال‌سازی در خاورمیانه در سال ۲۰۲۶ رشد قابل‌توجهی داشته است. شرکت‌های بزرگ در حال سرمایه‌گذاری بر روی پلتفرم‌های زیمنس برای هوشمندسازی فرآیندهای تولید خود هستند. این روند نشان‌دهنده تغییر استراتژیک صنایع منطقه به سمت استفاده از فناوری‌های نوین برای افزایش رقابت‌پذیری در بازارهای جهانی است.",
+      "category": "economy",
+      "published_at": "1405/07/25 03:15",
+      "collected_at": "1405/07/25 04:04",
+      "source": "Global Industry Insights",
+      "source_url": "https://www.industry-reports.com/automation-middle-east-2026",
+      "tags": [
+        "Market Report",
+        "Automation",
+        "Middle East",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "توسعه اپلیکیشن‌های لبه شبکه برای پایش ارتعاشات موتورها",
+      "summary": "پلتفرم Industrial Edge زیمنس اکنون از اپلیکیشن‌های جدیدی برای تحلیل بلادرنگ داده‌های ارتعاشی موتورهای صنعتی پشتیبانی می‌کند. این ابزارها با استفاده از الگوریتم‌های هوش مصنوعی، خرابی‌های احتمالی موتور را پیش از وقوع پیش‌بینی می‌کنند. این راهکار به تیم‌های نگهداری کمک می‌کند تا از خرابی‌های غیرمنتظره جلوگیری کرده و طول عمر تجهیزات دوار را در کارخانه‌ها افزایش دهند.",
+      "category": "topic",
+      "published_at": "1405/07/25 03:30",
+      "collected_at": "1405/07/25 04:04",
+      "source": "Industrial Edge News",
+      "source_url": "https://www.siemens.com/industrial-edge/vibration-monitoring",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "AI",
+        "Motors"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "یکپارچه‌سازی سیستم‌های مدیریت ساختمان با اتوماسیون صنعتی",
+      "summary": "زیمنس راهکار جدیدی برای یکپارچه‌سازی سیستم‌های مدیریت ساختمان (BMS) با سیستم‌های اتوماسیون صنعتی (ICS) ارائه کرده است. این همگرایی امکان مدیریت یکپارچه انرژی و ایمنی را در مجتمع‌های بزرگ صنعتی فراهم می‌کند. با استفاده از پروتکل‌های استاندارد مانند BACnet و Profinet، مدیران سایت می‌توانند کنترل کاملی بر تمامی زیرساخت‌های کارخانه از یک داشبورد مرکزی داشته باشند.",
+      "category": "industry",
+      "published_at": "1405/07/25 03:45",
+      "collected_at": "1405/07/25 04:04",
+      "source": "Smart Factory Daily",
+      "source_url": "https://www.siemens.com/bms-ics-integration",
+      "tags": [
+        "BMS",
+        "ICS",
+        "Integration",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "آموزش مجازی اپراتورها با استفاده از واقعیت مجازی",
+      "summary": "زیمنس با استفاده از دوقلوهای دیجیتال و هدست‌های واقعیت مجازی، محیط‌های آموزشی جدیدی را برای اپراتورهای خطوط تولید فراهم کرده است. این سیستم به کارکنان اجازه می‌دهد تا بدون ریسک در محیط‌های شبیه‌سازی شده، کار با ماشین‌آلات پیچیده و سیستم‌های کنترل زیمنس را بیاموزند. این رویکرد آموزشی نوین، سرعت یادگیری و ایمنی نیروی کار را در محیط‌های صنعتی ارتقا می‌دهد.",
+      "category": "society",
+      "published_at": "1405/07/25 04:00",
+      "collected_at": "1405/07/25 04:04",
+      "source": "Education & Tech Review",
+      "source_url": "https://www.siemens.com/virtual-training-digital-twin",
+      "tags": [
+        "VR",
+        "Training",
+        "Digital Twin",
+        "Education"
       ]
     }
   ]
