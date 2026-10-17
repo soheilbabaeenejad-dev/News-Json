@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 511,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 18:05",
+  "count": 519,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/25 18:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8135,6 +8135,128 @@
         "Education",
         "Siemens Xcelerator",
         "Future of Work"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "یکپارچه‌سازی هوش مصنوعی در درایوهای SINAMICS S210",
+      "summary": "زیمنس با معرفی قابلیت‌های جدید هوش مصنوعی برای درایوهای سروو SINAMICS S210، امکان تشخیص خودکار ناهنجاری‌ها را فراهم کرده است. این فناوری با تحلیل الگوهای حرکتی، خرابی‌های احتمالی را پیش از وقوع شناسایی می‌کند. این نوآوری باعث کاهش چشمگیر زمان توقف خطوط تولید و افزایش بهره‌وری در ماشین‌آلات بسته‌بندی شده است.",
+      "category": "product",
+      "published_at": "1405/07/25 18:07",
+      "collected_at": "1405/07/25 18:07",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics-s210.html",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "AI",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "گسترش قابلیت‌های ارتباطی در ماژول‌های SIMATIC ET 200MP",
+      "summary": "نسل جدید ماژول‌های ارتباطی برای سیستم SIMATIC ET 200MP اکنون از پروتکل‌های پیشرفته TSN پشتیبانی می‌کند. این ارتقا امکان همگام‌سازی دقیق‌تر داده‌ها در شبکه‌های بزرگ صنعتی را فراهم می‌آورد. این تغییر به مهندسان کمک می‌کند تا تأخیر در انتقال داده‌ها را به حداقل رسانده و دقت کنترل در فرآیندهای سریع را افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 18:07",
+      "collected_at": "1405/07/25 18:07",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-et200mp-update",
+      "tags": [
+        "SIMATIC",
+        "Profinet",
+        "TSN",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "نقش دوقلوهای دیجیتال در کاهش مصرف انرژی کارخانه‌های خودروسازی",
+      "summary": "استفاده از پلتفرم Siemens Xcelerator در خطوط تولید باتری خودروهای برقی، منجر به کاهش ۱۵ درصدی مصرف انرژی شده است. با شبیه‌سازی دقیق فرآیندهای حرارتی و الکتریکی، مدیران کارخانه می‌توانند بهترین استراتژی مصرف را پیاده‌سازی کنند. این راهکار به ویژه در مدیریت بارهای پیک در کارخانه‌های بزرگ بسیار حیاتی است.",
+      "category": "industry",
+      "published_at": "1405/07/25 18:07",
+      "collected_at": "1405/07/25 18:07",
+      "source": "Industrial Digitalization News",
+      "source_url": "https://www.industry-digital.com/xcelerator-ev-battery",
+      "tags": [
+        "Xcelerator",
+        "Digital Twin",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "همکاری زیمنس و شرکت‌های رباتیک برای توسعه بازوهای هوشمند",
+      "summary": "همکاری جدید زیمنس با تولیدکنندگان ربات منجر به توسعه رابط‌های کاربری یکپارچه در TIA Portal شده است. این سیستم به برنامه‌نویسان اجازه می‌دهد تا ربات‌های پیچیده را بدون نیاز به دانش کدنویسی عمیق، مستقیماً از طریق بلوک‌های کنترلی SIMATIC مدیریت کنند. این امر سرعت راه‌اندازی خطوط تولید رباتیک را تا ۴۰ درصد افزایش می‌دهد.",
+      "category": "match",
+      "published_at": "1405/07/25 18:07",
+      "collected_at": "1405/07/25 18:07",
+      "source": "Robotics Today",
+      "source_url": "https://www.robotics-today.com/siemens-robotics-integration",
+      "tags": [
+        "Robotics",
+        "TIA Portal",
+        "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "بهره‌گیری از Industrial Edge برای پایش وضعیت کمپرسورهای صنعتی",
+      "summary": "راهکار جدید Industrial Edge زیمنس برای تحلیل داده‌های ارتعاشی کمپرسورها در صنایع نفت و گاز معرفی شد. این سیستم با پردازش داده‌ها در لبه شبکه، نیاز به ارسال حجم عظیم داده به فضای ابری را حذف می‌کند. این قابلیت باعث می‌شود که تصمیمات تعمیر و نگهداری در لحظه و با کمترین تأخیر ممکن اتخاذ شوند.",
+      "category": "product",
+      "published_at": "1405/07/25 18:07",
+      "collected_at": "1405/07/25 18:07",
+      "source": "Oil & Gas Automation",
+      "source_url": "https://www.og-automation.com/siemens-edge-monitoring",
+      "tags": [
+        "Industrial Edge",
+        "Monitoring",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "گزارش وضعیت بازار اتوماسیون صنعتی در منطقه خاورمیانه",
+      "summary": "تحلیل‌های جدید نشان می‌دهد که تقاضا برای سیستم‌های کنترل هوشمند زیمنس در پروژه‌های زیرساختی خاورمیانه به شدت افزایش یافته است. تمرکز اصلی بر روی دیجیتالی‌سازی نیروگاه‌ها و شبکه‌های توزیع آب است. پیش‌بینی می‌شود این روند در سال‌های آینده با ورود تکنولوژی‌های ۵G صنعتی شتاب بیشتری بگیرد.",
+      "category": "economy",
+      "published_at": "1405/07/25 18:07",
+      "collected_at": "1405/07/25 18:07",
+      "source": "Global Industry Insights",
+      "source_url": "https://www.global-industry.com/middle-east-automation-2026",
+      "tags": [
+        "Market Report",
+        "Automation",
+        "Middle East"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "معرفی نسل جدید فلومترهای SITRANS با قابلیت اتصال به Insights Hub",
+      "summary": "فلومترهای جدید سری SITRANS اکنون به صورت بومی با پلتفرم Insights Hub سازگار هستند. این دستگاه‌ها داده‌های مربوط به جریان سیالات را به صورت بلادرنگ برای تحلیل‌های بهره‌وری ارسال می‌کنند. این یکپارچگی به صنایع شیمیایی کمک می‌کند تا نشت‌های احتمالی و اتلاف مواد اولیه را به سرعت شناسایی و مدیریت کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 18:07",
+      "collected_at": "1405/07/25 18:07",
+      "source": "Process Industry Journal",
+      "source_url": "https://www.process-industry.com/sitrans-insights-hub",
+      "tags": [
+        "SITRANS",
+        "Insights Hub",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "توسعه آموزش فنی با استفاده از واقعیت مجازی و سخت‌افزارهای زیمنس",
+      "summary": "دانشگاه‌های فنی با استفاده از شبیه‌سازهای زیمنس، محیط‌های آموزشی مجازی برای کار با PLCهای S7-1500 ایجاد کرده‌اند. این محیط‌ها به دانشجویان اجازه می‌دهد تا بدون ریسک آسیب به تجهیزات واقعی، سناریوهای عیب‌یابی را تمرین کنند. این پروژه گامی مهم در جهت کاهش شکاف مهارتی بین محیط‌های دانشگاهی و صنعتی است.",
+      "category": "society",
+      "published_at": "1405/07/25 18:07",
+      "collected_at": "1405/07/25 18:07",
+      "source": "Tech Education Weekly",
+      "source_url": "https://www.tech-edu.com/siemens-vr-training",
+      "tags": [
+        "Education",
+        "Virtual Reality",
+        "SIMATIC"
       ]
     }
   ]
