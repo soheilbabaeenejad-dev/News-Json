@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 561,
+  "count": 563,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 20:05",
+  "updated_at": "1405/07/25 21:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8911,6 +8911,38 @@
         "Energy Management",
         "Cement Industry",
         "Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع فولاد با راهکار Insights Hub",
+      "summary": "شرکت زیمنس با به‌روزرسانی پلتفرم Insights Hub، ابزارهای جدیدی برای تحلیل مصرف انرژی در صنایع سنگین ارائه کرده است. این راهکار به کارخانه‌های فولاد اجازه می‌دهد تا با پایش بلادرنگ داده‌های مصرفی، نقاط اتلاف انرژی را شناسایی و کاهش دهند. این فناوری با استفاده از مدل‌سازی پیشرفته، هزینه‌های عملیاتی را به طور قابل‌توجهی برای تولیدکنندگان کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:15",
+      "collected_at": "1405/07/25 21:02",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.siemens.com/insights-hub/steel-efficiency",
+      "tags": [
+        "Insights Hub",
+        "Energy",
+        "Steel",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "معرفی درایوهای فرکانس متغیر سری SINAMICS با بازدهی انرژی بالا",
+      "summary": "زیمنس نسل جدید درایوهای فرکانس متغیر سری SINAMICS را با هدف کاهش مصرف انرژی در پمپ‌ها و فن‌های صنعتی معرفی کرد. این درایوها با بهره‌گیری از الگوریتم‌های کنترل برداری پیشرفته، تلفات حرارتی را کاهش داده و بازدهی موتور را بهبود می‌بخشند. این محصول جدید برای صنایع شیمیایی و تصفیه آب که به دنبال کاهش ردپای کربن هستند، بسیار ایده‌آل است.",
+      "category": "product",
+      "published_at": "1405/07/25 16:45",
+      "collected_at": "1405/07/25 21:02",
+      "source": "Drive Systems Review",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Motors"
       ]
     }
   ]
