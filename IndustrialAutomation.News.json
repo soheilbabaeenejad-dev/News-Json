@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 305,
+  "count": 315,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 14:01",
+  "updated_at": "1405/07/25 14:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4859,6 +4859,166 @@
         "SIMATIC Energy",
         "Steel Industry",
         "Green Tech"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی نسل جدید ماژول‌های ایمنی SIMATIC Safety Advanced",
+      "summary": "شرکت زیمنس نسل جدید ماژول‌های ایمنی SIMATIC Safety Advanced را برای کنترلرهای SIMATIC S7-1500 معرفی کرد. این ماژول‌ها امکان پیاده‌سازی استانداردهای سخت‌گیرانه ایمنی ماشین‌آلات را با سرعت بالاتر فراهم می‌کنند. این محصول به مهندسان کمک می‌کند تا خطوط تولید پیچیده را با امنیت بیشتری طراحی و اجرا کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:15",
+      "collected_at": "1405/07/25 14:02",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-safety-advanced-new-generation",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پایش انرژی در نرم‌افزار SIMATIC Energy Manager V8",
+      "summary": "نسخه جدید نرم‌افزار مدیریت انرژی زیمنس با نام SIMATIC Energy Manager V8 منتشر شد. این نسخه ابزارهای پیشرفته تری برای تحلیل مصرف انرژی در کارخانه‌ها و انطباق با استانداردهای زیست‌محیطی ارائه می‌دهد. کارخانجات صنعتی می‌توانند با کمک این ابزار هزینه‌های انرژی خود را به طور چشمگیری کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:00",
+      "collected_at": "1405/07/25 14:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/energy-management/siemens-simatic-energy-manager-v8",
+      "tags": [
+        "Energy Management",
+        "SIMATIC",
+        "Software",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری زیمنس و تنسورنت برای ارتقای امنیت شبکه پورت‌های صنعتی",
+      "summary": "زیمنس قرارداد همکاری جدیدی با شرکت تنسورنت برای ایمن‌سازی تجهیزات لبه شبکه و سوییچ‌های صنعتی Scalance امضا کرد. این شراکت راهکارهای دفاعی پیشرفته‌ای را در برابر تهدیدات سایبری نوظهور در شبکه‌های OT فراهم می‌سازد. امنیت سایبری لایه تجهیزات از ارکان اصلی توسعه کارخانه‌های هوشمند امروزی محسوب می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/25 09:45",
+      "collected_at": "1405/07/25 14:02",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-tensornent-partnership-ot",
+      "tags": [
+        "Cybersecurity",
+        "Scalance",
+        "Industrial Networking",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی کنترل‌کننده منطقی جدید SIMATIC ET 200pro CPU",
+      "summary": "سیستم کنترل توزیع‌پذیر SIMATIC ET 200pro CPU با قابلیت‌های پردازشی قوی‌تر و بدنه مقاوم در برابر شرایط محیطی سخت به بازار عرضه شد. این کنترلر امکان نصب مستقیم روی ماشین‌آلات بدون نیاز به تابلو برق را فراهم می‌کند. این ویژگی موجب کاهش فضای اشغال‌شده و کاهش هزینه‌های سیم‌کشی در خطوط مونتاژ می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 10:20",
+      "collected_at": "1405/07/25 14:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-launches-simatic-et-200pro-cpu",
+      "tags": [
+        "SIMATIC",
+        "ET 200",
+        "PLC",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "بهبود قابلیت‌های تشخیصی در سیستم‌های اسکادا SIMATIC WinCC Unified V19",
+      "summary": "زیمنس به‌روزرسانی جدیدی برای نرم‌افزار تجسم‌سازی SIMATIC WinCC Unified V19 منتشر کرد که امکانات تشخیصی و ابزارهای وب‌پایه را توسعه می‌دهد. اپراتورها اکنون می‌توانند از طریق تبلت و گوشی‌های هوشمند به داده‌های گرافیکی و زنده خط تولید دسترسی داشته باشند. این تحول سرعت واکنش به خطاهای احتمالی در فرآیندهای صنعتی را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:55",
+      "collected_at": "1405/07/25 14:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/scada/article/siemens-wincc-unified-v19-update",
+      "tags": [
+        "SCADA",
+        "WinCC",
+        "HMI",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه زیرساخت‌های رباتیک صنعتی با پلتفرم SIMATIC Robot Integrator",
+      "summary": "نسخه بهینه‌شده پلتفرم SIMATIC Robot Integrator زیمنس برای اتصال آسان‌تر بازوهای رباتیک برندهای مختلف منتشر شد. این ابزار به برنامه‌نویسان اجازه می‌دهد ربات‌های صنعتی را مستقیماً از طریق محیط TIA Portal کنترل کنند. اینپارچه‌سازی رباتیک با اتوماسیون سنتی کارایی خطوط تولید را به حداکثر می‌رساند.",
+      "category": "news",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 14:02",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/siemens-simatic-robot-integrator-update",
+      "tags": [
+        "Robotics",
+        "TIA Portal",
+        "Automation",
+        "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی منابع تغذیه صنعتی SITOP PSU8200 با راندمان بسیار بالا",
+      "summary": "منابع تغذیه جدید سری SITOP PSU8200 زیمنس با قابلیت ارائه توان پایدار و تلفات حرارتی کمتر معرفی شدند. این تجهیزات برای صنایع سنگین و کاربردهای حساس که نیاز به پایداری ولتاژ بالا دارند طراحی شده‌اند. طراحی جمع‌وجور این منابع تغذیه نصب آن‌ها را در تابلوهای برق متراکم آسان‌تر می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 12:05",
+      "collected_at": "1405/07/25 14:02",
+      "source": "IEB - Industrial Embedded",
+      "source_url": "https://www.iebmedia.com/siemens-sitop-psu8200-power-supply",
+      "tags": [
+        "SITOP",
+        "Power Supply",
+        "Hardware",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش کاربرد سنسورهای هوشمند SITRANS در صنایع نفت و گاز",
+      "summary": "زیمنس خط تولید سنسورهای ابزار دقیق SITRANS را با استانداردهای جدید ضد انفجار برای صنایع پتروشیمی توسعه داد. این سنسورها مجهز به پروتکل‌های ارتباطی HART و Profibus برای انتقال دقیق اطلاعات پارامترهای حیاتی هستند. پایش دقیق جریان و فشار سیالات به پیشگیری از خرابی‌های ناخواسته در پالایشگاه‌ها کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 12:40",
+      "collected_at": "1405/07/25 14:02",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-sitrans-sensors-oil-gas",
+      "tags": [
+        "SITRANS",
+        "Sensors",
+        "Instrumentation",
+        "Oil and Gas"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "بررسی نقش هوش مصنوعی در تعمیر و نگهداری پیش‌بینانه کارخانه‌ها",
+      "summary": "گزارش جدید موسسه تحقیقاتی اتوماسیون صنعتی نشان می‌دهد استفاده از راهکارهای هوش مصنوعی زیمنس زمان توقف اضطراب‌آور تجهیزات را کاهش داده است. الگوریتم‌های یادگیری ماشین با تحلیل داده‌های ارتعاشی موتورها عیوب را پیش از وقوع شناسایی می‌کنند. این رویکرد به مدیران کارخانه‌ها کمک می‌کند تا هزینه‌های تعمیرات را به صورت چشمگیری مدیریت کنند.",
+      "category": "research",
+      "published_at": "1405/07/25 13:10",
+      "collected_at": "1405/07/25 14:02",
+      "source": "Automation Insights",
+      "source_url": "https://www.automationinsights.org/ai-predictive-maintenance-report-2026",
+      "tags": [
+        "Artificial Intelligence",
+        "Predictive Maintenance",
+        "Industrial Edge",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "ارتقای پلتفرم ابری Siemens Xcelerator با ابزارهای تحلیل پایداری",
+      "summary": "شرکت زیمنس ابزارهای جدیدی مبتنی بر پلتفرم ابری Siemens Xcelerator برای محاسبه ردپای کربن در چرخه تولید ارائه کرد. این ماژول‌ها به تولیدکنندگان امکان می‌دهند مصرف انرژی و مواد اولیه را در تمام مراحل ساخت بهینه کنند. این اقدام گامی مهم در جهت تحقق اهداف توسعه پایدار و تولید سبز در صنایع بزرگ جهان است.",
+      "category": "industry",
+      "published_at": "1405/07/25 13:50",
+      "collected_at": "1405/07/25 14:02",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/story/siemens-xcelerator-sustainability-tools",
+      "tags": [
+        "Siemens Xcelerator",
+        "Cloud",
+        "Sustainability",
+        "Digital Enterprise"
       ]
     }
   ]
