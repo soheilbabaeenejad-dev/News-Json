@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 247,
+  "count": 257,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 13:00",
+  "updated_at": "1405/07/25 13:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3931,6 +3931,166 @@
         "IEC 62443",
         "Compliance",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای امنیت شبکه در SIMATIC S7-1500",
+      "summary": "شرکت زیمنس ماژول ارتباطی پیشرفته CP 1543-1 را برای کنترلرهای SIMATIC S7-1500 معرفی کرد که امنیت شبکه‌های صنعتی را به شدت افزایش می‌دهد. این ماژول دارای فایروال یکپارچه و قابلیت پشتیبانی از پروتکل‌های امنیتی روز است تا از لایه OT در برابر نفوذهای سایبری محافظت کند. این محصول گامی مهم در جهت ایمن‌سازی زیرساخت‌های حیاتی کارخانه‌ها محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 08:15",
+      "collected_at": "1405/07/25 13:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/cp-1543-1-security-module",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "بهینه‌سازی مصرف آب و انرژی با راهکار جدید SIMATIC Energy Manager V8.0",
+      "summary": "نسخه جدید نرم‌افزار مدیریت انرژی زیمنس، SIMATIC Energy Manager V8.0، با قابلیت‌های تحلیل پیشرفته برای صنایع سنگین عرضه شد. این نرم‌افزار به پایش دقیق مصرف منابع کمک کرده و ردپای کربن خطوط تولید را به طور خودکار محاسبه می‌کند. کارخانه‌ها با این ابزار می‌توانند استانداردهای سخت‌گیرانه زیست‌محیطی را راحت‌تر رعایت کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:50",
+      "collected_at": "1405/07/25 13:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/energy-management/siemens-simatic-energy-manager-v8",
+      "tags": [
+        "Siemens",
+        "Energy Management",
+        "Sustainability",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در پلتفرم TIA Portal V20",
+      "summary": "نسخه آتی پلتفرم مهندسی TIA Portal V20 زیمنس به دستیارهای هوش مصنوعی مولد مجهز خواهد شد تا زمان برنامه‌نویسی PLC را کاهش دهد. این ابزار جدید کدهای استاندارد را پیشنهاد داده و خطاهای احتمالی لاجیک را قبل از استقرار شناسایی می‌کند. این تحول بهره‌وری مهندسان اتوماسیون را در پروژه‌های بزرگ به شکل چشمگیری افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/25 09:20",
+      "collected_at": "1405/07/25 13:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-tia-portal-v20-ai-features/",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Artificial Intelligence",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "گسترش سیستم‌های اسکادا با راهکار WinCC Unified V19",
+      "summary": "سیستم نظارت و کنترل صنعتی WinCC Unified V19 زیمنس امکانات جدیدی را برای تجسم داده‌های وب‌محور فراهم کرده است. این نرم‌افزار با پشتیبانی کامل از HTML5 به اپراتورها اجازه می‌دهد تا مانیتورینگ کارخانه را روی هر دستگاهی انجام دهند. انعطاف‌پذیری بالا و مقیاس‌پذیری از ویژگی‌های کلیدی این نسخه جدید است.",
+      "category": "product",
+      "published_at": "1405/07/25 09:45",
+      "collected_at": "1405/07/25 13:01",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/siemens-wincc-unified-v19",
+      "tags": [
+        "Siemens",
+        "SCADA",
+        "WinCC Unified",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی نسل جدید شیرهای کنترل هوشمند با پروتکل Profibus PA",
+      "summary": "شرکت امرسون از نسل جدید شیرهای کنترل صنعتی با قابلیت یکپارچه‌سازی کامل با سیستم‌های کنترل زیمنس رونمایی کرد. این تجهیزات فیلد باس امکان تشخیص وضعیت داخلی شیر را فراهم کرده و از خرابی‌های ناگهانی جلوگیری می‌کنند. این همکاری به بهبود قابلیت اطمینان در صنایع فرآیندی کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 10:10",
+      "collected_at": "1405/07/25 13:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/emerson-smart-control-valves-profibus",
+      "tags": [
+        "Emerson",
+        "Process Automation",
+        "Profibus",
+        "Field Devices"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "تقویت امنیت سایبری تجهیزات لبه شبکه با Industrial Edge Hub",
+      "summary": "زیمنس پلتفرم Industrial Edge Hub را با قابلیت‌های به‌روزرسانی متمرکز برای مدیریت امنیت دستگاه‌های لبه ارتقا داد. این سیستم به مدیران IT و OT اجازه می‌دهد تا پتچ‌های امنیتی را به صورت همزمان روی هزاران اپلیکیشن لبه اعمال کنند. این راهکار ریسک آسیب‌پذیری‌های سایبری را در کارخانه‌های متصل به حداقل می‌رساند.",
+      "category": "news",
+      "published_at": "1405/07/25 10:35",
+      "collected_at": "1405/07/25 13:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-hub-security",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Cybersecurity",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "استفاده از روبات‌های مشارکتی فرانکا در خطوط مونتاژ الکترونیک",
+      "summary": "شرکت‌های خودروسازی آلمان از بازوهای روباتیک فرانکا با کنترلرهای سازگار با زیمنس برای مونتاژ بردهای الکترونیکی استفاده می‌کنند. این روبات‌ها با دقت بالا و سنسورهای نیروی پیشرفته، قطعات حساس را بدون آسیب نصب می‌کنند. این تکنولوژی انعطاف‌پذیری خطوط تولید را به شدت افزایش داده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 11:00",
+      "collected_at": "1405/07/25 13:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/franka-robots-electronics-assembly",
+      "tags": [
+        "Robotics",
+        "Cobots",
+        "Electronics",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهبود پایش ارتعاشات توربین‌ها با ماژول SM 1281 زیمنس",
+      "summary": "ماژول پایش وضعیت SM 1281 برای کنترلرهای SIMATIC S7-1200 امکان ارزیابی ارتعاشات مکانیکی را در ماشین‌آلات دوار فراهم کرده است. این ماژول با تحلیل طیفی فرکانسی، مشکلات یاتاقان‌ها و شفت‌ها را قبل از وقوع خرابی شناسایی می‌کند. این راهکار اقتصادی نقش مهمی در کاهش هزینه‌های تعمیرات اضطراری دارد.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 13:01",
+      "source": "Maintenance Technology",
+      "source_url": "https://www.maintenancetoday.com/siemens-sm-1281-condition-monitoring",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1200",
+        "Condition Monitoring",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "رشد سرمایه‌گذاری در اتوماسیون صنعتی سبز و کارخانجات کربن‌صفر",
+      "summary": "گزارش جدید بازار نشان می‌دهد که سرمایه‌گذاری در فناوری‌های اتوماسیون سازگار با محیط زیست در سال ۲۰۲۶ رشد چشمگیری داشته است. شرکت‌هایی مانند زیمنس و اشنایدر الکتریک پیشتاز ارائه راهکارهایی برای کاهش مصرف انرژی و ضایعات تولید هستند. این روند ناشی از فشارهای قانونی و تقاضای رو به رشد برای محصولات پایدار است.",
+      "category": "economy",
+      "published_at": "1405/07/25 12:00",
+      "collected_at": "1405/07/25 13:01",
+      "source": "Global Industry Analysts",
+      "source_url": "https://www.globalindustryanalysts.com/green-automation-market-2026",
+      "tags": [
+        "Market Report",
+        "Green Industry",
+        "Sustainability",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه سیستم‌های دوقلوی دیجیتال برای بهینه‌سازی زنجیره تامین خودرو",
+      "summary": "شرکت خودروسازی ب‌ام‌و با استفاده از پلتفرم Siemens Xcelerator دوقلوی دیجیتال کامل زنجیره تامین خود را راه‌اندازی کرد. این مدل شبیه‌سازی پیشرفته اجازه می‌دهد تا تنگناهای لجستیکی و خطوط تولید قبل از بروز بحران شناسایی و رفع شوند. این پروژه الگویی موفق برای تحول دیجیتال در صنعت خودروسازی اروپا به شمار می‌رود.",
+      "category": "company",
+      "published_at": "1405/07/25 12:30",
+      "collected_at": "1405/07/25 13:01",
+      "source": "Automotive Logistics",
+      "source_url": "https://www.automotivelogistics.media/bmw-siemens-digital-twin-supply-chain",
+      "tags": [
+        "Siemens Xcelerator",
+        "Digital Twin",
+        "Automotive",
+        "Supply Chain"
       ]
     }
   ]
