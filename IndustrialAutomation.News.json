@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 148,
-  "provider": "Gemini/gemini-flash-lite-latest",
-  "updated_at": "1405/07/25 08:04",
+  "count": 157,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/07/25 09:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2346,6 +2346,150 @@
         "ET 200",
         "Automotive",
         "Fieldbus"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "یکپارچه‌سازی هوش مصنوعی در سیستم‌های کنترل SIMATIC S7-1500",
+      "summary": "زیمنس از قابلیت‌های جدید هوش مصنوعی برای کنترلرهای سری SIMATIC S7-1500 رونمایی کرد. این بروزرسانی به مهندسان اجازه می‌دهد تا مدل‌های یادگیری ماشین را مستقیماً در محیط TIA Portal پیاده‌سازی کنند. این اقدام باعث بهبود دقت در پیش‌بینی خرابی‌های مکانیکی و کاهش زمان توقف خطوط تولید در کارخانه‌های هوشمند می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 08:10",
+      "collected_at": "1405/07/25 09:02",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/company/press.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "AI",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "توسعه پروتکل‌های امنیتی جدید برای شبکه های صنعتی OT",
+      "summary": "با افزایش تهدیدات سایبری، زیمنس استانداردهای جدیدی را برای ایمن‌سازی ارتباطات در شبکه‌های OT معرفی کرده است. این پروتکل‌ها بر پایه معماری Zero Trust طراحی شده‌اند و به طور خاص برای سیستم‌های کنترل توزیع‌یافته PCS neo بهینه‌سازی شده‌اند تا از نفوذهای غیرمجاز در لایه کنترل جلوگیری کنند.",
+      "category": "industry",
+      "published_at": "1405/07/25 08:15",
+      "collected_at": "1405/07/25 09:02",
+      "source": "Industrial Cybersecurity News",
+      "source_url": "https://www.industrial-cybersecurity.com/news",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "PCS neo",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "معرفی نسل جدید درایوهای SINAMICS با مصرف انرژی بهینه",
+      "summary": "شرکت زیمنس سری جدید درایوهای SINAMICS G220 را با تمرکز بر بازدهی انرژی بالا به بازار عرضه کرد. این درایوها با استفاده از الگوریتم‌های پیشرفته کنترل موتور، مصرف برق را تا ۱۵ درصد در کاربردهای پمپاژ و فن کاهش می‌دهند. این محصول به ویژه برای صنایع سنگین و تولیدات بزرگ طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/25 08:20",
+      "collected_at": "1405/07/25 09:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/drives",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Siemens",
+        "Motors"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "گسترش پلتفرم Industrial Edge برای تحلیل داده‌های سنسورها",
+      "summary": "پلتفرم Industrial Edge زیمنس اکنون از تحلیل‌های بلادرنگ برای سنسورهای ارتعاشی پشتیبانی می‌کند. این قابلیت به مدیران کارخانه‌ها کمک می‌کند تا وضعیت سلامت تجهیزات دوار را به صورت لحظه‌ای پایش کنند. با استفاده از این داده‌ها، هزینه‌های تعمیر و نگهداری به شکل چشمگیری کاهش می‌یابد.",
+      "category": "research",
+      "published_at": "1405/07/25 08:25",
+      "collected_at": "1405/07/25 09:02",
+      "source": "Digital Factory Journal",
+      "source_url": "https://www.digitalfactory.com/edge-computing",
+      "tags": [
+        "Industrial Edge",
+        "Data Analytics",
+        "Siemens",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "همکاری زیمنس و انویدیا در شبیه‌سازی کارخانه‌های خودکار",
+      "summary": "زیمنس و انویدیا همکاری خود را در حوزه دوقلوهای دیجیتال برای شبیه‌سازی کارخانه‌های کاملاً خودکار گسترش دادند. این همکاری بر استفاده از پلتفرم Omniverse برای ایجاد مدل‌های دقیق فیزیکی تمرکز دارد. هدف از این پروژه، کاهش زمان راه‌اندازی خطوط تولید جدید تا ۳۰ درصد اعلام شده است.",
+      "category": "match",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 09:02",
+      "source": "Tech Industrial Review",
+      "source_url": "https://www.techindustrial.com/nvidia-siemens",
+      "tags": [
+        "Digital Twin",
+        "Nvidia",
+        "Siemens",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "استانداردسازی ارتباطات بی‌سیم 5G در محیط‌های صنعتی",
+      "summary": "تلاش‌های جدید برای استانداردسازی شبکه‌های 5G خصوصی در محیط‌های صنعتی با پیشگامی زیمنس آغاز شد. این زیرساخت‌ها امکان ارتباط پایدار بین ربات‌های متحرک خودمختار و سیستم‌های کنترل مرکزی را فراهم می‌کنند. استفاده از 5G تأخیر در انتقال داده‌ها را به حداقل ممکن رسانده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 08:35",
+      "collected_at": "1405/07/25 09:02",
+      "source": "Wireless Industry News",
+      "source_url": "https://www.wireless-industry.com/5g-industrial",
+      "tags": [
+        "5G",
+        "Connectivity",
+        "Robotics",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "بهینه‌سازی زنجیره تامین با استفاده از Insights Hub",
+      "summary": "نرم‌افزار Insights Hub زیمنس اکنون ابزارهای جدیدی برای مدیریت هوشمند زنجیره تامین ارائه می‌دهد. این ابزارها با تحلیل داده‌های لجستیک، گلوگاه‌های تولید را شناسایی کرده و مسیرهای بهینه را پیشنهاد می‌دهند. این راهکار به شرکت‌ها کمک می‌کند تا در برابر نوسانات بازار انعطاف‌پذیری بیشتری داشته باشند.",
+      "category": "economy",
+      "published_at": "1405/07/25 08:40",
+      "collected_at": "1405/07/25 09:02",
+      "source": "Supply Chain Digest",
+      "source_url": "https://www.scdigest.com/insights-hub",
+      "tags": [
+        "Insights Hub",
+        "Supply Chain",
+        "Cloud",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "معرفی ماژول‌های ورودی/خروجی هوشمند برای سیستم ET 200SP",
+      "summary": "زیمنس نسل جدیدی از ماژول‌های ورودی/خروجی هوشمند را برای سیستم توزیع‌یافته ET 200SP معرفی کرد. این ماژول‌ها دارای قابلیت‌های تشخیص عیب داخلی هستند که به اپراتورها در شناسایی سریع مشکلات سیم‌کشی کمک می‌کند. این قطعات جدید با استانداردهای ارتباطی Profinet کاملاً سازگار هستند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:45",
+      "collected_at": "1405/07/25 09:02",
+      "source": "Automation Components Daily",
+      "source_url": "https://www.automation-components.com/et200sp",
+      "tags": [
+        "ET 200SP",
+        "Profinet",
+        "I/O",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "گزارش رشد بازار سیستم‌های SCADA مبتنی بر وب",
+      "summary": "تحلیل‌های جدید بازار نشان‌دهنده رشد سریع سیستم‌های SCADA مبتنی بر وب در سال ۲۰۲۶ است. زیمنس با ارائه پلتفرم‌های ابری و تحت وب، سهم قابل توجهی از این بازار را به خود اختصاص داده است. این سیستم‌ها امکان دسترسی ایمن به داده‌های کارخانه را از هر نقطه جغرافیایی فراهم می‌کنند.",
+      "category": "industry",
+      "published_at": "1405/07/25 08:55",
+      "collected_at": "1405/07/25 09:02",
+      "source": "Global Market Insights",
+      "source_url": "https://www.market-insights.com/scada-2026",
+      "tags": [
+        "SCADA",
+        "Cloud",
+        "Market Report",
+        "Siemens"
       ]
     }
   ]
