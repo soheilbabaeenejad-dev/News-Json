@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 410,
+  "count": 419,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 16:02",
+  "updated_at": "1405/07/25 16:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6532,6 +6532,150 @@
         "DCS",
         "Artificial Intelligence",
         "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های تحلیل پلتفرم Insights Hub برای پایش مصرف آب در کارخانه‌ها",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم ابری Insights Hub اضافه کرده است که به صنایع امکان می‌دهد مصرف آب و پساب را به صورت بلادرنگ پایش کنند. این ابزار نرم‌افزاری با جمع‌آوری داده‌ها از سنسورهای مختلف، الگوهای مصرف را تحلیل کرده و راهکارهای بهینه‌سازی ارائه می‌دهد. این اقدام گامی مهم در راستای پایداری محیط زیست و کاهش هزینه‌های عملیاتی کارخانه‌ها محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 16:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/insights-hub-water-monitoring",
+      "tags": [
+        "Insights Hub",
+        "Energy Efficiency",
+        "Cloud",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی تعمیر و نگهداری با اپلیکیشن جدید Industrial Edge برای پایش وضعیت پمپ‌ها",
+      "summary": "اپلیکیشن جدید Industrial Edge زیمنس به‌طور اختصاصی برای پایش ارتعاشات و دمای پمپ‌های صنعتی توسعه یافته است. این نرم‌افزار لبه‌ای قادر است با استفاده از الگوریتم‌های یادگیری ماشین، خرابی‌های احتمالی پمپ‌ها را پیش از وقوع شناسایی کند. این راهکار از توقف‌های ناخواسته خط تولید جلوگیری کرده و هزینه‌های تعمیرات اضطراری را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 16:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/industrial-edge-pump-monitoring",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Sensors",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "انتشار نسخه به‌روزرسانی‌شده نرم‌افزار SIMATIC PCS neo با ابزار مهندسی تحت وب",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌یافته SIMATIC PCS neo با امکانات مهندسی ابری و تحت وب توسط زیمنس منتشر شد. این نسخه امکان دسترسی همزمان تیم‌های مهندسی از راه دور به پروژه‌ها را با بالاترین استانداردهای امنیتی فراهم می‌کند. این تحول روند توسعه و راه‌اندازی پروژه‌های بزرگ فرآیندی را به طور چشمگیری سرعت می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 16:04",
+      "source": "Industrial Process News",
+      "source_url": "https://www.industrialprocess.com/simatic-pcs-neo-update",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Cloud Engineering",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری زیمنس و فستو برای توسعه استانداردهای ارتباطی در رباتیک مدولار",
+      "summary": "شرکت‌های زیمنس و فستو شراکت استراتژیک جدیدی را برای توسعه استانداردهای ارتباطی باز در تجهیزات رباتیک مدولار آغاز کردند. این همکاری بر پایه پروتکل OPC UA استوار است تا تبادل داده میان کنترلرهای SIMATIC و عملگرهای پنوماتیکی به ساده‌ترین شکل انجام شود. این رویکرد انعطاف‌پذیری خطوط تولید را برای تولید انبوه سفارشی افزایش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 16:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "OPC UA",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی اینورترهای جدید SINAMICS G120X با تمرکز بر کاربردهای صنعت آب و فاضلاب",
+      "summary": "سری جدید درایوهای فرکانس متغیر SINAMICS G120X زیمنس با قابلیت‌های ویژه برای پمپ‌ها و فن‌ها معرفی شدند. این درایوها دارای توابع نرم‌افزاری اختصاصی برای مدیریت شبکه‌های آب و فاضلاب هستند که به کاهش چشمگیر مصرف انرژی منجر می‌شود. طراحی جمع‌وجور این تجهیزات نصب آن‌ها را در تابلوهای کنترل با فضای محدود بسیار آسان می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 12:15",
+      "collected_at": "1405/07/25 16:04",
+      "source": "World Pumps",
+      "source_url": "https://www.worldpumps.com/sinamics-g120x-water-industry",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Water Industry",
+        "Energy Saving"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای سیستم اسکادا SIMATIC WinCC Unified با ویجت‌های پیشرفته داشبورد",
+      "summary": "زیمنس نسخه جدید بسته نرم‌افزاری SIMATIC WinCC Unified V19 را با ابزارهای مصورسازی پیشرفته منتشر کرد. این نسخه شامل ویجت‌های جدید تحت وب است که به اپراتورها اجازه می‌دهد داشبوردهای سفارشی و تعاملی‌تری ایجاد کنند. این قابلیت نظارت بر عملکردهای خط تولید را در پلتفرم‌های مختلف موبایل و دسکتاپ تسهیل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 13:00",
+      "collected_at": "1405/07/25 16:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/wincc-unified-v19-update",
+      "tags": [
+        "SIMATIC WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه زیرساخت‌های آموزشی هوشمند با دوقلوهای دیجیتال زیمنس در دانشگاه‌های فنی",
+      "summary": "برنامه جدیدی برای تجهیز دانشگاه‌های مهندسی به نرم‌افزارهای دوقلو دیجیتال زیمنس و پلتفرم TIA Portal آغاز شد. این طرح با هدف آماده‌سازی دانشجویان برای ورود به صنعت نسل چهارم (Industry 4.0) و کار با تجهیزات واقعی پیاده‌سازی می‌شود. دانشجویان می‌توانند فرآیندهای اتوماسیون را در یک محیط مجازی کاملاً شبیه‌سازی‌شده تجربه کنند.",
+      "category": "society",
+      "published_at": "1405/07/25 13:45",
+      "collected_at": "1405/07/25 16:04",
+      "source": "Education Technology",
+      "source_url": "https://www.edtech.com/siemens-digital-twin-universities",
+      "tags": [
+        "Digital Twin",
+        "TIA Portal",
+        "Education",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گزارش جدید امنیت سایبری OT: افزایش نیاز به پروتکل‌های رمزنگاری در تجهیزات فیلدباس",
+      "summary": "آخرین گزارش موسسه پژوهشی امنیت صنعتی نشان می‌دهد که آسیب‌پذیری در شبکه‌های فیلدباس سنتی نیازمند مهاجرت به استانداردهای مدرن است. کارشناسان توصیه می‌کنند تولیدکنندگان تجهیزات اتوماسیون مانند زیمنس و اشنایدر الکتریک، رمزنگاری端-تا-端 را در لایه دستگاه‌های میدانی تقویت کنند. این اقدام مانع از نفوذ بدافزارهای صنعتی به لایه‌های کنترلی پایینی می‌شود.",
+      "category": "regulation",
+      "published_at": "1405/07/25 14:30",
+      "collected_at": "1405/07/25 16:04",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/ot-security-report-2026",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "Fieldbus",
+        "Encryption"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "سرمایه‌گذاری مشترک زیمنس و رهبران لجستیک برای هوشمندسازی انبارهای خودکار",
+      "summary": "زیمنس با همکاری شرکت‌های بزرگ لجستیکی، راهکار جامع سیستم‌های ذخیره‌سازی و بازیابی خودکار (AS/RS) را مبتنی بر کنترلرهای SIMATIC ET 200SP معرفی کرد. این سیستم قادر است سرعت جابجایی کالاها را در انبارهای بزرگ تا چهل درصد افزایش دهد. استفاده از الگوریتم‌های هوش مصنوعی مسیر حرکت ربات‌های AGV را بهینه می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/25 15:15",
+      "collected_at": "1405/07/25 16:04",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/siemens-automated-warehouses",
+      "tags": [
+        "Logistics",
+        "SIMATIC ET 200SP",
+        "AGV",
+        "Automation"
       ]
     }
   ]
