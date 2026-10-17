@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 602,
+  "count": 609,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/25 23:02",
+  "updated_at": "1405/07/25 23:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9548,6 +9548,115 @@
         "Market",
         "Automation",
         "Industry Trends"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی نسل جدید کنترلرهای SIMATIC S7-1500 V3.1 با قابلیت‌های پردازشی بهبودیافته",
+      "summary": "زیمنس از نسخه جدید کنترلرهای SIMATIC S7-1500 V3.1 رونمایی کرد که سرعت پردازش منطقی را تا ۲۰ درصد افزایش می‌دهد. این ارتقا به مهندسان اجازه می‌دهد تا الگوریتم‌های پیچیده‌تر کنترل حرکت را در زمان واقعی اجرا کنند. این محصول با هدف کاهش تأخیر در خطوط تولید پرسرعت و بهبود یکپارچگی با سیستم‌های TIA Portal طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/25 23:03",
+      "collected_at": "1405/07/25 23:03",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در Industrial Edge برای پایش ارتعاشات توربین‌ها",
+      "summary": "پلتفرم Industrial Edge زیمنس اکنون به ابزارهای پیشرفته تحلیل ارتعاش مجهز شده است که به طور خاص برای توربین‌های صنعتی بهینه شده‌اند. این راهکار با استفاده از یادگیری ماشین، خرابی‌های احتمالی را پیش از وقوع شناسایی می‌کند. این فناوری به کاهش هزینه‌های تعمیر و نگهداری غیرمنتظره در نیروگاه‌ها کمک شایانی خواهد کرد.",
+      "category": "industry",
+      "published_at": "1405/07/25 23:03",
+      "collected_at": "1405/07/25 23:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/edge-computing/article/21564890/siemens-industrial-edge-vibration-analysis",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای پیاده‌سازی سیستم مدیریت انرژی SIMATIC",
+      "summary": "زیمنس با همکاری یکی از خودروسازان بزرگ اروپایی، سیستم مدیریت انرژی SIMATIC را در خطوط تولید باتری پیاده‌سازی کرده است. این سیستم با پایش لحظه‌ای مصرف برق، بهینه‌سازی فرآیندهای شارژ و تخلیه را ممکن می‌سازد. هدف از این پروژه، کاهش ۱۵ درصدی ردپای کربن در فرآیند تولید باتری‌های لیتیومی است.",
+      "category": "company",
+      "published_at": "1405/07/25 23:03",
+      "collected_at": "1405/07/25 23:03",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/technology-and-iiot/article/21564901/siemens-energy-management-automotive",
+      "tags": [
+        "Energy Management",
+        "SIMATIC",
+        "Automotive",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "استانداردسازی ارتباطات بی‌سیم در کارخانه‌های هوشمند با پروتکل 5G صنعتی",
+      "summary": "زیمنس زیرساخت‌های جدید 5G صنعتی خود را برای اتصال ربات‌های خودمختار در محیط‌های کارخانه‌ای معرفی کرد. این فناوری با کاهش تأخیر در شبکه، امکان کنترل دقیق‌تر تجهیزات متحرک را فراهم می‌آورد. این استاندارد جدید، جایگزین مطمئنی برای شبکه‌های Wi-Fi سنتی در محیط‌های پرنویز صنعتی محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 23:03",
+      "collected_at": "1405/07/25 23:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-industrial-5g-deployment-smart-factories/",
+      "tags": [
+        "5G",
+        "Wireless",
+        "Industrial Communication",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "معرفی درایوهای فرکانس متغیر SINAMICS G220 با بازدهی انرژی فوق‌العاده",
+      "summary": "سری جدید درایوهای SINAMICS G220 زیمنس با تمرکز بر بهره‌وری انرژی برای کاربردهای پمپ و فن عرضه شد. این درایوها از معماری جدیدی برای کاهش تلفات حرارتی استفاده می‌کنند که عمر مفید تجهیزات را افزایش می‌دهد. این محصول کاملاً با پلتفرم Insights Hub برای مانیتورینگ از راه دور یکپارچه شده است.",
+      "category": "product",
+      "published_at": "1405/07/25 23:03",
+      "collected_at": "1405/07/25 23:03",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/aid/8921/Siemens_launches_SINAMICS_G220.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Insights Hub"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "بهینه‌سازی زنجیره تامین با استفاده از ابزارهای تحلیلی Insights Hub",
+      "summary": "زیمنس از قابلیت‌های جدید پلتفرم Insights Hub برای تحلیل زنجیره تامین در صنایع تولیدی رونمایی کرد. این ابزار با جمع‌آوری داده‌های لجستیک، گلوگاه‌های تولید را شناسایی و پیشنهادهای بهینه‌سازی ارائه می‌دهد. این راهکار به شرکت‌ها کمک می‌کند تا در شرایط نوسانات بازار، انعطاف‌پذیری عملیاتی خود را حفظ کنند.",
+      "category": "industry",
+      "published_at": "1405/07/25 23:03",
+      "collected_at": "1405/07/25 23:03",
+      "source": "Supply Chain Digital",
+      "source_url": "https://www.supplychaindigital.com/technology/siemens-insights-hub-supply-chain-optimization",
+      "tags": [
+        "Insights Hub",
+        "Supply Chain",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "گزارش رشد بازار اتوماسیون صنعتی در سال ۲۰۲۶ و نقش زیمنس",
+      "summary": "بر اساس گزارش جدید موسسه تحقیقاتی بازار، تقاضا برای راهکارهای اتوماسیون یکپارچه در سال ۲۰۲۶ با رشد ۱۲ درصدی مواجه شده است. زیمنس به عنوان یکی از پیشگامان این حوزه، سهم قابل توجهی از بازار را در بخش‌های نرم‌افزارهای صنعتی و دوقلوهای دیجیتال در اختیار دارد. این رشد ناشی از تمایل صنایع به هوشمندسازی فرآیندهاست.",
+      "category": "economy",
+      "published_at": "1405/07/25 23:03",
+      "collected_at": "1405/07/25 23:03",
+      "source": "Industrial Market Research",
+      "source_url": "https://www.industrialmarketresearch.com/reports/automation-market-2026",
+      "tags": [
+        "Market Report",
+        "Automation",
+        "Siemens"
       ]
     }
   ]
