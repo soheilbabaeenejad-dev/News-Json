@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 457,
+  "count": 467,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 17:03",
+  "updated_at": "1405/07/25 17:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7284,6 +7284,166 @@
         "Education",
         "SIMATIC",
         "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "یکپارچه‌سازی ماژول‌های ایمنی جدید در سیستم SIMATIC ET 200MP",
+      "summary": "شرکت زیمنس از عرضه ماژول‌های ایمنی پیشرفته برای خانواده SIMATIC ET 200MP خبر داد. این تجهیزات جدید امکان ترکیب توابع ایمنی و استاندارد را در یک رک واحد فراهم کرده و هزینه‌های سیم‌کشی را به طور چشمگیری کاهش می‌دهند. این راهکار به مهندسان کمک می‌کند تا استانداردهای سخت‌گیرانه ایمنی ماشین‌آلات را با سرعت و دقت بیشتری پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 17:04",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-et200mp-safety-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200MP",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "ارتقای قابلیت‌های نرم‌افزار TIA Portal V19 با ابزارهای مدیریت پروژه ابری",
+      "summary": "نسخه جدید به‌روزرسانی برای نرم‌افزار جامع مهندسی TIA Portal V19 انتشار یافت که تمرکز اصلی آن بر بهبود کار تیمی مهندسان از راه دور است. این پلتفرم اکنون قابلیت‌های کنترل نسخه ابری و اشتراک‌گذاری مستقیم پروژه‌های اتوماسیون را ارائه می‌دهد. این ویژگی موجب افزایش بهره‌وری تیم‌های مهندسی و کاهش زمان راه‌اندازی خطوط تولید می‌گردد.",
+      "category": "product",
+      "published_at": "1405/07/25 10:30",
+      "collected_at": "1405/07/25 17:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/plc/news/siemens-tia-portal-v19-cloud-features",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Engineering",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "گسترش راهکارهای مانیتورینگ انرژی با ماژول‌های جدید SIMATIC Energy Meter",
+      "summary": "زیمنس ماژول‌های جدید انرژی‌سنج را برای پایش دقیق مصرف برق و سیالات در تابلوهای برق صنعتی معرفی کرد. این تجهیزات به صورت کاملاً یکپارچه با کنترلرهای SIMATIC کار کرده و داده‌های مصرف را بلادرنگ ارسال می‌کنند. این داده‌ها نقش کلیدی در بهینه‌سازی مصرف انرژی و دستیابی به اهداف پایداری در کارخانه‌های هوشمند ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:00",
+      "collected_at": "1405/07/25 17:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-expands-simatic-energy-meter-line/",
+      "tags": [
+        "Energy Management",
+        "SIMATIC",
+        "Siemens",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "توسعه قابلیت‌های امنیت شبکه در تجهیزات لبه شبکه Industrial Edge",
+      "summary": "بخش اتوماسیون صنعتی زیمنس بروزرسانی امنیتی جدیدی را برای سخت‌افزارهای Industrial Edge منتشر کرد. این پکیج امنیتی شامل مدیریت متمرکز گواهی‌نامه‌ها و فایروال‌های پیشرفته لبه شبکه است. هدف از این توسعه، مقابله با تهدیدات سایبری فزاینده در شبکه‌های ترکیبی OT و IT در زیرساخت‌های حیاتی صنعتی است.",
+      "category": "news",
+      "published_at": "1405/07/25 12:20",
+      "collected_at": "1405/07/25 17:04",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-industrial-edge-security-update",
+      "tags": [
+        "Industrial Edge",
+        "Cybersecurity",
+        "OT",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "معرفی کنترلرهای کامپکت جدید برای صنایع بسته‌بندی و ماشین‌سازی",
+      "summary": "سری جدید کنترلرهای منطقی برنامه‌پذیر کامپکت زیمنس با قابلیت‌های پردازشی بالا برای صنعت ماشین‌سازی عرضه شد. این کنترلرها با برخورداری از پورت‌های ارتباطی متنوع صنعتی، ارتباط روان با انواع اینورترها و سروو درایوها را تضمین می‌کنند. این تجهیزات حجم اشغال شده در تابلو برق را کاهش داده و سرعت اجرای برنامه‌های کنترلی را افزایش می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 13:05",
+      "collected_at": "1405/07/25 17:04",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/automation/siemens-compact-controllers-packaging",
+      "tags": [
+        "PLC",
+        "SIMATIC",
+        "Packaging",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "بهینه‌سازی تعمیر و نگهداری با تحلیل ارتعاشات در پلتفرم Insights Hub",
+      "summary": "زیمنس قابلیت‌های جدیدی مبتنی بر یادگیری ماشین را به پلتفرم ابری Insights Hub اضافه کرد که به تحلیل پیش‌بینانه ارتعاشات موتورها می‌پردازد. این سیستم با پایش مداوم داده‌های سنسورها، خرابی‌های احتمالی تجهیزات دوار را پیش از وقوع هشدار می‌دهد. این رویکرد به کارخانه‌ها کمک می‌کند تا از توقف‌های برنامه‌ریزی‌نشده خطوط تولید جلوگیری کنند.",
+      "category": "news",
+      "published_at": "1405/07/25 14:10",
+      "collected_at": "1405/07/25 17:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-vibration-analytics",
+      "tags": [
+        "Insights Hub",
+        "Predictive Maintenance",
+        "IoT",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "همکاری زیمنس و سازندگان ربات برای استانداردسازی پروتکل OPC UA Safety",
+      "summary": "زیمنس به همراه چند شرکت پیشرو در صنعت رباتیک، پروتکل ارتباطی استاندارد OPC UA Safety را در بازوهای رباتیک جدید پیاده‌سازی کرد. این استاندارد ارتباطی امن و مستقل از سازنده را بین ربات‌ها و سیستم‌های کنترل مرکزی تضمین می‌کند. این اقدام گامی مهم در جهت تسهیل یکپارچه‌سازی سلول‌های رباتیک در خطوط تولید پیچیده محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 14:45",
+      "collected_at": "1405/07/25 17:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/siemens-opc-ua-safety-robotics",
+      "tags": [
+        "OPC UA",
+        "Robotics",
+        "Safety",
+        "Standardization"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "افزایش راندمان سیستم‌های انتقال مواد با درایوهای جدید SINAMICS G120X",
+      "summary": "نسل جدید درایوهای فرکانس متغیر SINAMICS G120X زیمنس بهینه‌سازی شده برای کاربردهای پمپ، فن و تسمه‌نقاله معرفی شدند. این درایوها با بهره‌گیری از الگوریتم‌های پیشرفته کنترل بردار، مصرف انرژی را در فرآیندهای انتقال مواد به حداقل می‌رسانند. راه‌اندازی و پارامتردهی این تجهیزات به لطف رابط کاربری گرافیکی پلتفرم زیمنس بسیار سریع انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 15:20",
+      "collected_at": "1405/07/25 17:04",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/NID/siemens-sinamics-g120x-updates",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "گسترش کاربرد دوقلوهای دیجیتال در طراحی خطوط مونتاژ خودکار",
+      "summary": "شرکت زیمنس از توسعه جدید در نرم‌افزار Tecnomatix برای شبیه‌سازی پیشرفته خطوط مونتاژ خودکار خبر داد. این ابزار مهندسی به طراحان کارخانه اجازه می‌دهد تا رفتار فیزیکی و کنترلی ماشین‌آلات را پیش از ساخت واقعی آزمایش کنند. استفاده از این دوقلوهای دیجیتال خطای طراحی را کاهش داده و زمان ورود محصولات به بازار را سرعت می‌بخشد.",
+      "category": "research",
+      "published_at": "1405/07/25 16:00",
+      "collected_at": "1405/07/25 17:04",
+      "source": "Digital Engineering",
+      "source_url": "https://www.digitaleng.news/de/siemens-tecnomatix-digital-twin-assembly",
+      "tags": [
+        "Digital Twin",
+        "Tecnomatix",
+        "Simulation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS neo برای صنایع شیمیایی پیوسته",
+      "summary": "نسخه تازه‌ای از سامانه کنترل توزیع‌یافته SIMATIC PCS neo با تمرکز بر مدیریت مجتمع‌های بزرگ شیمیایی عرضه شد. این سیستم مبتنی بر وب، دسترسی امن مهندسان فرآیند را به اطلاعات بلادرنگ کارخانه از هر نقطه‌ای فراهم می‌کند. معماری جدید این پلتفرم مدیریت تغییرات و نگهداری سیستم‌های کنترل را به شدت ساده‌تر می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/25 16:40",
+      "collected_at": "1405/07/25 17:04",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/siemens-simatic-pcs-neo-process-control",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Process Control",
+        "Siemens"
       ]
     }
   ]
