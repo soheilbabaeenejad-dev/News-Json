@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 391,
+  "count": 400,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 16:00",
+  "updated_at": "1405/07/25 16:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6227,6 +6227,150 @@
         "Cybersecurity",
         "OT/ICS",
         "Fortinet",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های ارتباطی در نسخه جدید نرم‌افزار TIA Portal V19",
+      "summary": "آخرین به‌روزرسانی نرم‌افزار مهندسی TIA Portal V19 زیمنس با تمرکز بر بهبود قابلیت‌های ارتباطی و تبادل داده منتشر شد. این نسخه از پروتکل‌های پیشرفته صنعتی پشتیبانی بهتری به عمل می‌آورد و زمان مهندسی پروژه‌ها را به طور قابل توجهی کاهش می‌دهد. این ابزار نقش کلیدی در یکپارچه‌سازی تجهیزات مختلف خطوط تولید دارد.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 16:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/siemens-tia-portal-v19-updates",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Engineering",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای امنیت شبکه‌های صنعتی با راهکارهای جدید پایش لبه",
+      "summary": "زیمنس از راهکار جامع جدیدی برای پایش امنیت شبکه‌های صنعتی مبتنی بر پلتفرم Industrial Edge رونمایی کرد. این سیستم به صورت بلادرنگ ترافیک شبکه OT را تحلیل کرده و ناهنجاری‌ها را شناسایی می‌کند. این رویکرد پیشگیرانه مانع از بروز حملات سایبری به زیرساخت‌های حیاتی تولیدی می‌شود.",
+      "category": "news",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 16:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/security/industrial-edge-security-siemens",
+      "tags": [
+        "Industrial Edge",
+        "Cybersecurity",
+        "OT",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌های سیمان با Insights Hub",
+      "summary": "یک کارخانه بزرگ تولید سیمان با بهره‌گیری از پلتفرم ابری Insights Hub زیمنس موفق شد مصرف انرژی خود را به میزان دوازده درصد کاهش دهد. این پلتفرم داده‌های مصرف را از سنسورهای مختلف جمع‌آوری کرده و الگوهای بهینه‌سازی را پیشنهاد می‌کند. این پروژه نمونه‌ای موفق از پیاده‌سازی صنعت سبز به شمار می‌رود.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 16:01",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrial-iot.com/case-study/insights-hub-cement-plant",
+      "tags": [
+        "Insights Hub",
+        "Energy Efficiency",
+        "Cloud",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی نسل جدید تجهیزات اندازه‌گیری سطح SITRANS با دقت بالا",
+      "summary": "شرکت زیمنس سری جدید تجهیزات اندازه‌گیری و فلومترهای SITRANS را با تکنولوژی راداری پیشرفته معرفی کرد. این تجهیزات برای کار در شرایط سخت محیطی در صنایع شیمیایی و نفت و گاز طراحی شده‌اند. دقت بالا در اندازه‌گیری، خطاهای عملیاتی را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 16:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/instrumentation/siemens-sitrans-radar",
+      "tags": [
+        "SITRANS",
+        "Sensors",
+        "Process Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "گسترش کاربرد دوقلوهای دیجیتال در خطوط مونتاژ خودروسازی",
+      "summary": "شرکت زیمنس با همکاری یکی از خودروسازان بزرگ اروپایی، پروژه توسعه دوقلوهای دیجیتال خط مونتاژ را کلید زد. این شبیه‌سازی پیشرفته امکان بهینه‌سازی چیدمان ربات‌ها و کاهش زمان راه‌اندازی را فراهم می‌کند. این فناوری هزینه‌های تغییرات فیزیکی در خطوط تولید را به شدت کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/25 12:15",
+      "collected_at": "1405/07/25 16:01",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/story/siemens-digital-twin-automotive",
+      "tags": [
+        "Digital Twin",
+        "Automotive",
+        "Robotics",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای پلتفرم SIMATIC PCS neo با قابلیت‌های مدیریت تحت وب",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌یافته SIMATIC PCS neo با رابط‌های کاربری کاملاً تحت وب و ابزارهای مهندسی مشارکتی عرضه شد. این سیستم به تیم‌های مهندسی اجازه می‌دهد از نقاط مختلف جغرافیایی به صورت همزمان روی یک پروژه کار کنند. این ویژگی انعطاف‌پذیری مدیریت فرآیندهای صنعتی را به طور چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 13:00",
+      "collected_at": "1405/07/25 16:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/simatic-pcs-neo-web-based-features",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه راهکارهای اتوماسیون برای خطوط بسته‌بندی صنایع غذایی",
+      "summary": "زیمنس مجموعه‌ای از راهکارهای تخصصی اتوماسیون را برای خطوط سرعت بالای بسته‌بندی مواد غذایی معرفی کرد. این پکیج شامل کنترلرهای حرکتی پیشرفته و درایوهای هماهنگ برای افزایش سرعت و دقت است. استفاده از این تجهیزات ضایعات مواد اولیه را در خطوط بسته‌بندی به حداقل می‌رساند.",
+      "category": "industry",
+      "published_at": "1405/07/25 13:45",
+      "collected_at": "1405/07/25 16:01",
+      "source": "Food Engineering",
+      "source_url": "https://www.foodengineeringmag.com/siemens-packaging-automation-solutions",
+      "tags": [
+        "Packaging",
+        "Food & Beverage",
+        "Motion Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "افزایش بهره‌وری موتورهای الکتریکی با درایوهای SINAMICS G120X",
+      "summary": "سری درایوهای فرکانس متغیر SINAMICS G120X زیمنس توانسته‌اند استانداردهای جدیدی در زمینه صرفه‌جویی انرژی در سیستم‌های پمپ و فن ثبت کنند. این درایوها با الگوریتم‌های کنترل پیشرفته، تلفات انرژی را به میزان قابل توجهی کاهش می‌دهند. نصب و راه‌اندازی آسان از دیگر مزایای اصلی این تجهیزات است.",
+      "category": "product",
+      "published_at": "1405/07/25 14:30",
+      "collected_at": "1405/07/25 16:01",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/siemens-sinamics-g120x-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Saving",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "همکاری زیمنس و اپراتورهای مخابراتی برای توسعه شبکه ۵G صنعتی",
+      "summary": "زیمنس توافق‌نامه جدیدی را برای توسعه زیرساخت‌های شبکه اختصاصی ۵G در محیط‌های کارخانه‌ای امضا کرد. این فناوری ارتباطی پرسرعت و پایدار، بستر لازم برای ارتباط بی‌سیم ربات‌های متحرک خودمختار را فراهم می‌سازد. توسعه این زیرساخت‌ها گامی مهم در جهت تحقق کارخانه‌های کاملاً هوشمند است.",
+      "category": "company",
+      "published_at": "1405/07/25 15:15",
+      "collected_at": "1405/07/25 16:01",
+      "source": "Industrial Communication",
+      "source_url": "https://www.industrial-comms.com/siemens-5g-private-networks-manufacturing",
+      "tags": [
+        "5G",
+        "Industrial Communication",
+        "Wireless",
         "Siemens"
       ]
     }
