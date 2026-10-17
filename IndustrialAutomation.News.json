@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 296,
+  "count": 305,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 14:00",
+  "updated_at": "1405/07/25 14:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4715,6 +4715,150 @@
         "Siemens",
         "TUM",
         "Workforce Development"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در پلتفرم Industrial Edge برای تحلیل لبه",
+      "summary": "زیمنس از به‌روزرسانی جدید پلتفرم Industrial Edge رونمایی کرد که امکان اجرای مدل‌های هوش مصنوعی سبک‌وزن را به صورت مستقیم روی سخت‌افزارهای لبه شبکه فراهم می‌کند. این قابلیت جدید به صنایع اجازه می‌دهد تا داده‌های سنسورهای با فرکانس بالا را بدون نیاز به انتقال به ابر تحلیل کنند. این رویکرد زمان تاخیر را به حداقل رسانده و دقت پیش‌بینی خرابی تجهیزات را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 08:45",
+      "collected_at": "1405/07/25 14:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/edge-computing/siemens-industrial-edge-ai",
+      "tags": [
+        "Industrial Edge",
+        "Artificial Intelligence",
+        "Edge Computing",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "یکپارچه‌سازی عمیق‌تر نرم‌افزار NX MCD با محیط مهندسی TIA Portal",
+      "summary": "نسخه جدید نرم‌افزار NX Mechatronics Concept Designer زیمنس امکان اتصال بی‌درنگ به محیط TIA Portal را فراهم کرده است. اینپارچه‌سازی به طراحان مکانیک و اتوماسیون اجازه می‌دهد تا رفتارهای دینامیکی ماشین‌آلات را پیش از ساخت فیزیکی شبیه‌سازی کنند. این راهکار مهندسی همزمان، زمان راه‌اندازی خطوط تولید جدید را تا سی درصد کاهش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/25 09:10",
+      "collected_at": "1405/07/25 14:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-nx-mcd-tia-portal-integration/",
+      "tags": [
+        "TIA Portal",
+        "Digital Twin",
+        "NX MCD",
+        "Engineering Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی نسل جدید رله‌های حفاظتی هوشمند SIRIUS برای حفاظت موتورها",
+      "summary": "زیمنس خانواده جدیدی از رله‌های حفاظتی و نظارتی موتور سری SIRIUS را با قابلیت ارتباطی IO-Link روانه بازار کرد. این تجهیزات قادرند داده‌های دقیق جریان، ولتاژ و دمای موتور را به صورت مداوم به سیستم کنترل مرکزی ارسال کنند. این امر امکان تشخیص زودهنگام اضافه‌بار و جلوگیری از توقف‌های ناخواسته خطوط تولید را میسر می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/25 09:40",
+      "collected_at": "1405/07/25 14:01",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/news/siemens-sirius-iOLink-relays-2026",
+      "tags": [
+        "SIRIUS",
+        "IO-Link",
+        "Motor Management",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش همکاری زیمنس و اوبنتو برای توسعه سیستم‌عامل‌های مقاوم در تجهیزات لبه",
+      "summary": "شرکت زیمنس با همکاری Canonical پشتیبانی گسترده از سیستم‌عامل Ubuntu Core را برای سخت‌افزارهای صنعتی SIMATIC IPC خود تضمین کرد. این همکاری بستر امن و پایداری را برای اجرای کانتینرهای نرم‌افزاری و برنامه‌های کاربردی Industrial Edge فراهم می‌کند. توسعه‌دهندگان اکنون می‌توانند نرم‌افزارهای صنعتی را با استانداردهای مدرن فناوری اطلاعات توسعه دهند.",
+      "category": "company",
+      "published_at": "1405/07/25 10:05",
+      "collected_at": "1405/07/25 14:01",
+      "source": "IoT Central",
+      "source_url": "https://www.iotcentral.tech/siemens-canonical-ubuntu-industrial-ipc",
+      "tags": [
+        "SIMATIC IPC",
+        "Ubuntu Core",
+        "Industrial IoT",
+        "Software-defined Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "بهینه‌سازی مصرف آب در صنایع آشامیدنی با سیستم کنترل فرآیند PCS neo",
+      "summary": "یک کارخانه بزرگ تولید نوشیدنی در اروپا با به‌کارگیری سیستم کنترل توزیع‌یافته SIMATIC PCS neo توانست مصرف آب خود را بیست درصد کاهش دهد. این سیستم تحت وب با استفاده از الگوریتم‌های پیشرفته، چرخه شستشو و ضدعفونی تجهیزات را به صورت خودکار بهینه می‌کند. این پروژه نشان‌دهنده پتانسیل بالای سیستم‌های کنترل مدرن در راستای پایداری محیط زیست است.",
+      "category": "industry",
+      "published_at": "1405/07/25 10:30",
+      "collected_at": "1405/07/25 14:01",
+      "source": "Food Engineering",
+      "source_url": "https://www.foodengineeringmag.com/siemens-pcs-neo-water-saving",
+      "tags": [
+        "PCS neo",
+        "Process Control",
+        "Sustainability",
+        "Food and Beverage"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "عرضه ماژول‌های ورودی/خروجی ایمن جدید برای سیستم ET 200MP",
+      "summary": "زیمنس سبد محصولات ایمنی خود را با معرفی ماژول‌های جدید F-DI و F-DO برای سیستم غیرمتمرکز SIMATIC ET 200MP توسعه داد. این ماژول‌ها دارای استانداردهای حفاظتی بالا تا سطح SIL 3 و PL e هستند و به راحتی با کنترلرهای ایمنی متصل می‌شوند. طراحی فشرده این تجهیزات نصب در تابلوهای برق با فضای محدود را بسیار آسان‌تر می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:00",
+      "collected_at": "1405/07/25 14:01",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/siemens-et-200mp-safe-modules",
+      "tags": [
+        "ET 200MP",
+        "Machine Safety",
+        "SIMATIC Safety",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "رشد تجهیزات ابزاردقیق با معرفی نسل جدید ترانسمیترهای فشار SITRANS P",
+      "summary": "زیمنس نسل جدید ترانسمیترهای فشار SITRANS P را با قابلیت پشتیبانی از پروفایلهای ارتباطی پروفینت و پروتکل‌های رمزنگاری شده معرفی کرد. این ابزار دقیق‌ها دارای بدنه استیل ضدزنگ و نمایشگر گرافیکی لمسی برای تنظیمات محلی آسان هستند. دقت اندازه‌گیری بالا در شرایط سخت محیطی از ویژگی‌های بارز این تجهیزات جدید است.",
+      "category": "product",
+      "published_at": "1405/07/25 11:35",
+      "collected_at": "1405/07/25 14:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sitrans-p-pressure-transmitters",
+      "tags": [
+        "SITRANS",
+        "Instrumentation",
+        "Process Automation",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "پیاده‌سازی شبکه خصوصی 5G صنعتی در کارخانه مدل زیمنس در آمبرگ",
+      "summary": "کارخانه الکترونیک زیمنس در آمبرگ آلمان زیرساخت شبکه خصوصی 5G خود را برای پشتیبانی از اتوماسیون بی‌سیم بلادرنگ ارتقا داد. این شبکه با پهنای باند بالا و تاخیر بسیار کم، اتصال ربات‌های متحرک خودمختار و گاری‌های خودران را تسهیل می‌کند. این زیرساخت گامی مهم در جهت تحقق انعطاف‌پذیری حداکثری در خطوط تولید مونتاژ است.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:10",
+      "collected_at": "1405/07/25 14:01",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrialiotnews.com/siemens-amberg-5g-private-network",
+      "tags": [
+        "5G Industrial",
+        "Smart Factory",
+        "AGV",
+        "Amberg Plant"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "راهکار جامع مدیریت انرژی زیمنس برای کارخانه‌های تولید فولاد سبز",
+      "summary": "زیمنس پلتفرم SIMATIC Energy Manager را با قابلیت‌های جدید برای ردیابی ردپای کربن در صنایع فولادسازی عرضه کرد. این نرم‌افزار اطلاعات مصرف انرژی کوره‌های قوس الکتریکی را با داده‌های تولید تج تجمیع می‌کند. این ابزار به مدیران صنعتی کمک می‌کند تا استراتژی‌های کاهش انتشار گازهای گلخانه‌ای را به طور دقیق پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 12:50",
+      "collected_at": "1405/07/25 14:01",
+      "source": "Green Manufacturing",
+      "source_url": "https://www.greenmanufacturing.com/siemens-energy-manager-steel-industry",
+      "tags": [
+        "Energy Management",
+        "SIMATIC Energy",
+        "Steel Industry",
+        "Green Tech"
       ]
     }
   ]
