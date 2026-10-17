@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 362,
+  "count": 372,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 15:03",
+  "updated_at": "1405/07/25 15:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5771,6 +5771,166 @@
         "TIA Portal",
         "SIMATIC",
         "Workforce Development"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "یکپارچه‌سازی ماژول‌های ایمنی پیشرفته در کنترلرهای SIMATIC S7-1500F زیمنس",
+      "summary": "شرکت زیمنس از به‌روزرسانی جدید برای کنترلرهای ایمنی SIMATIC S7-1500F رونمایی کرد که امکان مدیریت همزمان توابع ایمنی و استاندارد را فراهم می‌کند. این فناوری جدید به مهندسان اجازه می‌دهد تا زمان راه‌اندازی خطوط تولید را به طور چشمگیری کاهش دهند و استانداردهای حفاظتی ماشین‌آلات را ارتقا بخشند. این ماژول‌ها به‌طور کامل با محیط مهندسی TIA Portal سازگار هستند.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 15:04",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500f-safety-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TIA Portal",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با نسخه جدید SIMATIC Energy Suite V19",
+      "summary": "نسخه جدید سیماتیک انرژی سوئیت V19 توسط زیمنس منتشر شد که قابلیت‌های پیشرفته‌ای برای پایش و تحلیل مصرف انرژی در کارخانه‌ها ارائه می‌دهد. این نرم‌افزار به مدیران صنعتی کمک می‌کند تا نقاط اتلاف انرژی را در خطوط تولید شناسایی کرده و هزینه‌های عملیاتی را کاهش دهند. این راهکار به صورت یکپارچه با کنترلرهای SIMATIC S7 و پلتفرم ابری همکاری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 15:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/energy/siemens-simatic-energy-suite-v19",
+      "tags": [
+        "Energy Management",
+        "SIMATIC",
+        "Efficiency",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش قابلیت‌های مانیتورینگ بلادرنگ با اپلیکیشن‌های جدید Industrial Edge",
+      "summary": "زیمنس مجموعه‌ای از اپلیکیشن‌های جدید را برای پلتفرم Industrial Edge معرفی کرد که امکان تحلیل داده‌های ارتعاشی موتورها را در لبه شبکه فراهم می‌کنند. این ابزارها با پردازش محلی داده‌ها، از انتقال حجم عظیمی از اطلاعات به فضای ابری جلوگیری کرده و زمان پاسخگویی را به milliseconds می‌رسانند. این نوآوری نقش مهمی در جلوگیری از خرابی‌های ناگهانی تجهیزات دارد.",
+      "category": "news",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 15:04",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/edge-computing/siemens-industrial-edge-vibration",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "IIoT",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی نسل جدید اینورترهای فرکانسی SINAMICS G120X برای صنایع آب و فاضلاب",
+      "summary": "شرکت زیمنس درایوهای فرکانس متغیر جدید سری SINAMICS G120X را به طور ویژه برای کاربردهای پمپاژ و تهویه مطبوع در صنایع آب و فاضلاب عرضه کرد. این درایوها با دارا بودن الگوریتم‌های پیشرفته صرفه‌جویی در انرژی و طراحی مقاوم در برابر شرایط سخت محیطی، راندمان کلی سیستم را به حداکثر می‌رسانند. راه‌اندازی این تجهیزات از طریق پنل اپراتوری و نرم‌افزار TIA Portal به سادگی انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 15:04",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-sinamics-g120x-update",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Water Industry",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای امنیت شبکه‌های صنعتی OT با راهکارهای دیواره آتش جدید زیمنس",
+      "summary": "زیمنس از سخت‌افزارهای جدید امنیت شبکه سری SCALANCE برای حفاظت از زیرساخت‌های حیاتی و شبکه‌های اتوماسیون صنعتی رونمایی کرد. این تجهیزات با پشتیبانی از پروتکل‌های امنیتی روز دنیا، از شبکه‌های صنعتی در برابر نفوذهای سایبری محافظت می‌کنند. این اقدام بخشی از راهبرد کلان زیمنس برای تامین امنیت ساختارهای تولیدی متصل است.",
+      "category": "regulation",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 15:04",
+      "source": "IEICE Security",
+      "source_url": "https://www.ieice.org/security/siemens-scalance-firewall-2026",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT Security",
+        "Networks"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه ابزارهای مهندسی ابری با قابلیت‌های جدید در پلتفرم Siemens Xcelerator",
+      "summary": "پلتفرم جامع Siemens Xcelerator با اضافه‌شدن ماژول‌های طراحی مشارکتی مبتنی بر ابر گسترش یافت تا تیم‌های مهندسی از سراسر جهان بتوانند به‌طور همزمان روی پروژه‌های اتوماسیون کار کنند. این محیط ابری یکپارچه، چرخه توسعه محصول را کوتاه کرده و هماهنگی میان تیم‌های طراحی مکانیک و اتوماسیون را بهبود می‌بخشد. کاربران می‌توانند به راحتی کتابخانه‌های مشترک را مدیریت کنند.",
+      "category": "company",
+      "published_at": "1405/07/25 12:00",
+      "collected_at": "1405/07/25 15:04",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/siemens-xcelerator-cloud-updates",
+      "tags": [
+        "Siemens Xcelerator",
+        "Cloud Engineering",
+        "Digital Twin",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "افزایش بهره‌وری خطوط مونتاژ خودکار با سیستم‌های شناسایی RFID صنعتی زیمنس",
+      "summary": "سیستم‌های شناسایی هوشمند SIMATIC RF600 زیمنس برای ردیابی قطعات در خطوط مونتاژ خودکار خودروسازی بهینه‌سازی شدند. این تگ‌های RFID با خوانش سریع و دقیق، امکان مدیریت کامل زنجیره تامین داخلی کارخانه را فراهم می‌کنند و خطاهای انسانی در جابجایی قطعات را به صفر می‌رسانند. اطلاعات این سیستم مستقیماً به کنترلرهای SIMATIC منتقل می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:45",
+      "collected_at": "1405/07/25 15:04",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/smart-manufacturing/siemens-rfid-tracking-assembly",
+      "tags": [
+        "RFID",
+        "SIMATIC",
+        "Automation",
+        "Supply Chain"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهبود قابلیت اطمینان در سیستم‌های کنترل توزیع‌یافته با سیماتیک PCS 7 نسخه پیشرفته",
+      "summary": "نسخه به‌روزرسانی‌شده سیستم کنترل توزیع‌یافته SIMATIC PCS 7 با قابلیت‌های اضافی برای صنایع فرآیندی عرضه شد. این نسخه پایداری سیستم را در فرآیندهای پیوسته سنگین نظیر پتروشیمی و پالایشگاه‌ها افزایش می‌دهد و ابزارهای عیب‌یابی پیشرفته‌تری در اختیار اپراتورها قرار می‌دهد. زیمنس با این به‌روزرسانی بر تداوم کارکرد امن و بدون وقفه سایت‌های صنعتی تاکید کرده است.",
+      "category": "product",
+      "published_at": "1405/07/25 13:15",
+      "collected_at": "1405/07/25 15:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-simatic-pcs-7-update",
+      "tags": [
+        "PCS 7",
+        "DCS",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گسترش کاربرد روبات‌های صنعتی مشارکتی با ماژول‌های رباتیک زیمنس",
+      "summary": "زیمنس راهکار جدیدی برای همگام‌سازی ربات‌های مشارکتی (کوبوت‌ها) با کنترلرهای SIMATIC معرفی کرد که برنامه‌نویسی حرکات ربات را درون محیط TIA Portal ساده می‌سازد. این ماژول نرم‌افزاری نیاز به کدهای پیچیده را از بین برده و امکان ایمن‌سازی تعامل انسان و ربات را در محیط کارخانه فراهم می‌کند. این رویکرد انعطاف‌پذیری خطوط تولید را به شدت افزایش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/25 14:00",
+      "collected_at": "1405/07/25 15:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-collaborative-robotics-tia-portal",
+      "tags": [
+        "Robotics",
+        "Cobots",
+        "TIA Portal",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی سنسورهای هوشمند SITRANS برای اندازه‌گیری دقیق سطح و فشار در صنایع غذایی",
+      "summary": "خانواده سنسورهای ابزار دقیق SITRANS زیمنس با مدل‌های جدیدی که دارای تأییدیه‌های بهداشتی سخت‌گیرانه هستند، توسعه یافت. این تجهیزات با قابلیت ارتباط IO-Link امکان انتقال داده‌های تشخیصی و پارامترهای اندازه‌گیری را به صورت دیجیتال فراهم می‌کنند. این ویژگی به صنایع غذایی و دارویی کمک می‌کند تا استانداردهای کیفی تولید را به شکلی دقیق‌تر رعایت کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 14:45",
+      "collected_at": "1405/07/25 15:04",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-sitrans-sensors-food-industry",
+      "tags": [
+        "Sensors",
+        "SITRANS",
+        "IO-Link",
+        "Food Industry"
       ]
     }
   ]
