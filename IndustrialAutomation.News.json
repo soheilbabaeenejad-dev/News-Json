@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 448,
+  "count": 457,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 17:01",
+  "updated_at": "1405/07/25 17:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7140,6 +7140,150 @@
         "Standardization",
         "Industrial Communication",
         "Interoperability"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای ارتقای امنیت شبکه SIMATIC",
+      "summary": "شرکت زیمنس ماژول ارتباطی جدید CP 1543-1 را برای کنترلرهای SIMATIC S7-1500 معرفی کرد که به طور ویژه برای حفاظت از شبکه‌های صنعتی در برابر تهدیدات سایبری طراحی شده است. این ماژول با پشتیبانی از پروتکل‌های امنیتی پیشرفته مانند TLS 1.3 و دیواره آتش یکپارچه، امکان اتصال امن اتوماسیون کارخانه به لایه IT را فراهم می‌کند. این محصول گامی مهم در جهت ایمن‌سازی زیرساخت‌های حیاتی در برابر نفوذهای احتمالی به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 17:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-cp1543-1-security-module",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "بهینه‌سازی مصرف آب در صنایع با ماژول‌های جدید SITRANS F",
+      "summary": "سری جدید تجهیزات اندازه‌گیری SITRANS F زیمنس برای پایش دقیق جریان آب و فاضلاب در خطوط تولید صنعتی عرضه شد. این دستگاه‌ها با دقت بالا و قابلیت اتصال به سیستم‌های اسکادا، به مدیران کارخانه‌ها کمک می‌کنند تا هدررفت سیالات را به حداقل برسانند. این راهکار نقش کلیدی در کاهش هزینه‌های عملیاتی و انطباق با استانداردهای زیست‌محیطی ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 17:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-sitrans-f-water-management",
+      "tags": [
+        "Siemens",
+        "SITRANS",
+        "Sensors",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "توسعه قابلیت‌های نگهداری پیش‌بینانه با نسخه جدید Industrial Edge",
+      "summary": "زیمنس بروزرسانی جدیدی برای پلتفرم Industrial Edge منتشر کرد که ابزارهای تحلیلی پیشرفته‌تری را برای پایش سلامت تجهیزات دوار در اختیار مهندسان قرار می‌دهد. این نرم‌افزار با پردازش داده‌های ارتعاشی موتورها در لبه شبکه، خرابی‌های احتمالی را پیش از وقوع شناسایی می‌کند. این رویکرد مانع از توقف‌های ناخواسته خطوط تولید و کاهش چشمگیر هزینه‌های تعمیرات می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 17:03",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/siemens-industrial-edge-update-2026",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "معرفی سیستم جدید SIMATIC ET 200MP برای کاربردهای کنترل توزیع‌شده",
+      "summary": "نسخه‌ی ماژولار و مقیاس‌پذیر سیستم ورودی/خروجی SIMATIC ET 200MP با سرعت پردازش بالاتر توسط زیمنس معرفی شد. این سیستم با طراحی کامپکت خود، فضای اشغال‌شده در تابلوهای برق را کاهش داده و سرعت تبادل اطلاعات را بهبود می‌بخشد. این تجهیزات به ویژه برای خطوط مونتاژ پرسرعت و صنایع بسته‌بندی کاربرد فراوانی دارند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 17:03",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-simatic-et-200mp-release",
+      "tags": [
+        "Siemens",
+        "ET 200MP",
+        "I/O Systems",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "گسترش کاربرد سیستم‌های اسکادا در مانیتورینگ انرژی کارخانه‌ها",
+      "summary": "آخرین گزارش بازار نشان می‌دهد که استفاده از نرم‌افزار SIMATIC WinCC Unified برای مدیریت مصرف انرژی در کارخانه‌ها با رشد قابل توجهی روبرو شده است. این پلتفرم تحت وب امکان نظارت لحظه‌ای بر شاخص‌های کلیدی عملکرد انرژی را برای مدیران فراهم می‌کند. این امر به واحدهای تولیدی کمک می‌کند تا اهداف کربن‌زدایی خود را با دقت بیشتری دنبال کنند.",
+      "category": "industry",
+      "published_at": "1405/07/25 12:15",
+      "collected_at": "1405/07/25 17:03",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/smart-manufacturing/scada-energy-monitoring",
+      "tags": [
+        "SCADA",
+        "WinCC Unified",
+        "Energy Management",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "ارتقای قابلیت‌های رباتیک در TIA Portal با ابزارهای برنامه‌نویسی جدید",
+      "summary": "زیمنس بسته‌ی نرم‌افزاری جدیدی را برای یکپارچه‌سازی کنترل بازوهای رباتیک مختلف درون محیط مهندسی TIA Portal ارائه داد. این ابزار به برنامه‌نویسان اجازه می‌دهد تا حرکت ربات‌ها و منطق PLC را به صورت یکپارچه و بدون نیاز به نرم‌افزارهای جانبی توسعه دهند. این یکپارچه‌سازی زمان راه‌اندازی سلول‌های رباتیک را تا چهل درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 13:00",
+      "collected_at": "1405/07/25 17:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-tia-portal-robotics-integration",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Robotics",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "نقش کلیدی دوقلوهای دیجیتال در شبیه‌سازی کارخانه‌های باتری‌سازی",
+      "summary": "با افزایش تقاضای جهانی برای خودروهای الکتریکی، زیمنس پلتفرم Siemens Xcelerator را برای طراحی و شبیه‌سازی کامل خطوط تولید باتری لیتیومی توسعه داده است. این راهکار به سازندگان اجازه می‌دهد قبل از احداث فیزیکی کارخانه، تمامی فرآیندهای تولید را در محیط مجازی بهینه‌سازی کنند. این فناوری نوآورانه از بروز خطاهای پرهزینه در فاز اجرایی جلوگيری می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/25 13:45",
+      "collected_at": "1405/07/25 17:03",
+      "source": "CleanTechnica",
+      "source_url": "https://cleantechnica.com/siemens-xcelerator-battery-plants-digital-twin",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "EV Battery"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "بهبود بهره‌وری در صنایع معدنی با درایوهای ولتاژ متوسط SINAMICS",
+      "summary": "شرکت زیمنس مجموعه جدیدی از درایوهای ولتاژ متوسط سری SINAMICS GM را برای کاربردهای سنگین معدنی و سیمان روانه بازار کرد. این درایوها با بازدهی بالای انرژی و قابلیت کنترل دقیق گشتاور، استهلاک تجهیزات مکانیکی را به شدت کاهش می‌دهند. این فناوری نقش مؤثری در پایداری و کاهش مصرف برق در معادن بزرگ جهان دارد.",
+      "category": "product",
+      "published_at": "1405/07/25 14:30",
+      "collected_at": "1405/07/25 17:03",
+      "source": "Mining Technology",
+      "source_url": "https://www.mining-technology.com/siemens-sinamics-gm-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Mining"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "گسترش همکاری‌های آموزشی زیمنس برای تربیت متخصصان اتوماسیون",
+      "summary": "زیمنس برنامه‌ی جهانی جدیدی را برای تجهیز آزمایشگاه‌های دانشگاهی به آخرین تجهیزات اتوماسیون صنعتی و بسته‌های آموزشی SIMATIC آغاز کرد. این ابتکار با هدف پر کردن شکاف مهارت‌های دیجیتال و آماده‌سازی دانشجویان برای ورود به صنعت نسل چهارم اجرا می‌شود. این مراکز آموزشی به ابزارهای مدرن برنامه‌نویسی و شبیه‌سازی صنعتی مجهز خواهند شد.",
+      "category": "society",
+      "published_at": "1405/07/25 15:15",
+      "collected_at": "1405/07/25 17:03",
+      "source": "EdTech Review",
+      "source_url": "https://www.edtechreview.com/siemens-global-automation-education-initiative",
+      "tags": [
+        "Siemens",
+        "Education",
+        "SIMATIC",
+        "Industry 4.0"
       ]
     }
   ]
