@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 372,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 15:04",
+  "count": 381,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/25 15:18",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5931,6 +5931,143 @@
         "SITRANS",
         "IO-Link",
         "Food Industry"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی نسل جدید کنترلرهای SIMATIC S7-1500V با تمرکز بر پردازش لبه",
+      "summary": "زیمنس از نسل جدید کنترلرهای SIMATIC S7-1500V رونمایی کرد که با قابلیت‌های پردازش لبه یکپارچه طراحی شده‌اند. این کنترلرها با بهره‌گیری از معماری جدید، امکان تحلیل داده‌های پیچیده را مستقیماً در سطح PLC فراهم می‌کنند. این نوآوری به مهندسان اجازه می‌دهد تا بدون نیاز به سرورهای جانبی، تصمیمات بلادرنگ اتخاذ کرده و بهره‌وری خطوط تولید را به شکل قابل توجهی افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 15:18",
+      "collected_at": "1405/07/25 15:18",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/simatic-s7-1500v.html",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "Industrial Edge",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "توسعه پروتکل‌های امنیتی در سیستم‌های کنترل توزیع‌یافته PCS neo",
+      "summary": "شرکت زیمنس استانداردهای جدیدی را برای امنیت سایبری در سیستم‌های کنترل توزیع‌یافته PCS neo معرفی کرده است. این به‌روزرسانی شامل رمزنگاری پیشرفته برای ارتباطات بین‌شبکه‌ای و احراز هویت چندعاملی برای اپراتورهاست. هدف از این اقدام، مقابله با تهدیدات سایبری فزاینده در زیرساخت‌های حیاتی و تضمین پایداری عملیاتی در محیط‌های صنعتی پیچیده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 15:18",
+      "collected_at": "1405/07/25 15:18",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/security/article/21987654",
+      "tags": [
+        "Cybersecurity",
+        "PCS neo",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "همکاری زیمنس و انویدیا برای شبیه‌سازی دقیق دوقلوهای دیجیتال",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه پلتفرم‌های شبیه‌سازی پیشرفته در محیط Xcelerator گسترش دادند. این همکاری بر استفاده از هوش مصنوعی برای ایجاد دوقلوهای دیجیتال با دقت فیزیکی بالا تمرکز دارد. با این فناوری، تولیدکنندگان می‌توانند کل فرآیند تولید را قبل از پیاده‌سازی فیزیکی در محیط مجازی تست کرده و هزینه‌های راه‌اندازی را کاهش دهند.",
+      "category": "research",
+      "published_at": "1405/07/25 15:18",
+      "collected_at": "1405/07/25 15:18",
+      "source": "Digital Engineering",
+      "source_url": "https://www.digitalengineering.com/news/siemens-nvidia-partnership",
+      "tags": [
+        "Digital Twin",
+        "AI",
+        "Xcelerator",
+        "Nvidia"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع فولاد با ابزارهای Insights Hub",
+      "summary": "استفاده از پلتفرم ابری Insights Hub زیمنس در کارخانه‌های فولاد منجر به کاهش ۱۵ درصدی مصرف انرژی شده است. این سیستم با تحلیل داده‌های سنسورهای حرارتی و الکتریکی، نقاط اتلاف انرژی را شناسایی کرده و بهینه‌سازی خودکار را پیشنهاد می‌دهد. این راهکار به صنایع سنگین کمک می‌کند تا به اهداف پایداری و کاهش کربن خود در سال ۲۰۲۶ دست یابند.",
+      "category": "industry",
+      "published_at": "1405/07/25 15:18",
+      "collected_at": "1405/07/25 15:18",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-news.com/energy-optimization-steel",
+      "tags": [
+        "Insights Hub",
+        "Energy Efficiency",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "معرفی درایوهای هوشمند SINAMICS G220 برای کاربردهای دقیق",
+      "summary": "زیمنس سری جدید درایوهای فرکانس متغیر SINAMICS G220 را با قابلیت‌های هوشمند پایش وضعیت معرفی کرد. این درایوها مجهز به الگوریتم‌های پیش‌بینی خرابی هستند که وضعیت موتور را به‌صورت مداوم بررسی می‌کنند. این فناوری از توقف‌های ناخواسته خط تولید جلوگیری کرده و طول عمر تجهیزات دوار را در محیط‌های صنعتی سخت افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 15:18",
+      "collected_at": "1405/07/25 15:18",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/sinamics-g220-launch",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "گسترش زیرساخت‌های شبکه خصوصی 5G در کارخانه‌های هوشمند",
+      "summary": "زیمنس در حال پیاده‌سازی شبکه‌های خصوصی 5G در سایت‌های تولیدی بزرگ در اروپا است تا ارتباطات بی‌سیم با تأخیر بسیار کم را فراهم کند. این زیرساخت برای کنترل ربات‌های خودمختار و سیستم‌های لجستیک هوشمند حیاتی است. با این فناوری، انعطاف‌پذیری خطوط تولید افزایش یافته و امکان تغییر سریع پیکربندی کارخانه فراهم می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 15:18",
+      "collected_at": "1405/07/25 15:18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/siemens-5g-factory-deployment",
+      "tags": [
+        "5G",
+        "Smart Factory",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "یکپارچه‌سازی ربات‌های صنعتی با TIA Portal",
+      "summary": "زیمنس قابلیت‌های جدیدی را به TIA Portal اضافه کرده که امکان برنامه‌نویسی و یکپارچه‌سازی مستقیم ربات‌های صنعتی برندهای مختلف را فراهم می‌کند. این ابزار جدید، پیچیدگی‌های برنامه‌نویسی رباتیک را کاهش داده و به کاربران اجازه می‌دهد تا ربات‌ها را به عنوان بخشی از سیستم اتوماسیون یکپارچه مدیریت کنند. این امر سرعت توسعه پروژه‌های اتوماسیون را افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/25 15:18",
+      "collected_at": "1405/07/25 15:18",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/tia-portal-robotics",
+      "tags": [
+        "TIA Portal",
+        "Robotics",
+        "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "تحول در مدیریت زنجیره تامین با بلاک‌چین صنعتی",
+      "summary": "زیمنس راهکار جدیدی را برای ردیابی قطعات در زنجیره تامین با استفاده از تکنولوژی بلاک‌چین معرفی کرد. این سیستم به تولیدکنندگان اجازه می‌دهد تا اصالت و تاریخچه قطعات حساس را در طول فرآیند تولید و توزیع به صورت شفاف ثبت کنند. این نوآوری به ویژه در صنایع داروسازی و خودروسازی برای جلوگیری از ورود قطعات تقلبی بسیار حیاتی است.",
+      "category": "industry",
+      "published_at": "1405/07/25 15:18",
+      "collected_at": "1405/07/25 15:18",
+      "source": "Supply Chain Dive",
+      "source_url": "https://www.supplychaindive.com/siemens-blockchain-tracking",
+      "tags": [
+        "Blockchain",
+        "Supply Chain",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "ارتقای سیستم‌های مانیتورینگ SITRANS برای صنایع شیمیایی",
+      "summary": "نسل جدید فلومترهای هوشمند SITRANS با قابلیت‌های پیشرفته اندازه‌گیری در شرایط دمای بالا معرفی شدند. این تجهیزات با استفاده از پروتکل‌های ارتباطی مدرن، داده‌های دقیق را به سیستم‌های کنترل مرکزی ارسال می‌کنند. این ارتقا به کارخانه‌های شیمیایی کمک می‌کند تا استانداردهای ایمنی سخت‌گیرانه را رعایت کرده و فرآیندهای تولید خود را بهینه کنند.",
+      "category": "product",
+      "published_at": "1405/07/25 15:18",
+      "collected_at": "1405/07/25 15:18",
+      "source": "Process Automation",
+      "source_url": "https://www.process-automation.com/sistrans-new-series",
+      "tags": [
+        "SITRANS",
+        "Instrumentation",
+        "Chemical Industry"
       ]
     }
   ]
