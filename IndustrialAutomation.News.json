@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 20,
+  "count": 30,
   "provider": "Gemini/gemini-3.8-flash",
-  "updated_at": "1405/07/26 01:00",
+  "updated_at": "1405/07/26 02:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -327,6 +327,174 @@
         "زیمنس",
         "توزیع برق",
         "نگهداری پیشگیرانه"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "گسترش کاربرد پی‌ال‌سی مجازی SIMATIC S7-1500V در معماری‌های نرم‌افزارمحور",
+      "summary": "زیمنس نسخه به‌روزشده پی‌ال‌سی نرم‌افزاری SIMATIC S7-1500V را با قابلیت استقرار در بستر لینوکس و کانتینرهای داکر معرفی کرد. این راه‌حل به کارخانه‌ها اجازه می‌دهد عملکردهای سنتی کنترلر را بدون نیاز به سخت‌افزار اختصاصی روی سرورهای صنعتی اجرا کنند. پشتیبانی بومی از پروتکل‌های مجازی PROFINET و ادغام با TIA Portal، انعطاف‌پذیری خطوط تولید ماژولار را دوچندان کرده است.",
+      "category": "product",
+      "published_at": "1405/07/25 18:30",
+      "collected_at": "1405/07/26 02:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/virtual-plc-simatic-s7-1500v-industrial-operations",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Virtual PLC",
+        "TIA Portal",
+        "OT-IT"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "ادغام عمیق‌تر پلتفرم Industrial Edge زیمنس با زیرساخت ابری AWS IoT",
+      "summary": "زیمنس و آمازون وب سرویسز همکاری مشترکی را برای ساده‌سازی انتقال مستقیم داده‌های لبه تولید به ابر گسترش دادند. با این ادغام، اتصال حسگرها و کنترلرهای کارخانه به سرویس AWS IoT SiteWise از طریق اپلیکیشن‌های آماده Industrial Edge زیمنس میسر شده است. این روند پردازش محلی با تأخیر کم را حفظ کرده و هزینه توسعه ابزارهای تحلیل ابری را در صنایع سنگین تا ۳۰ درصد کاهش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/25 19:15",
+      "collected_at": "1405/07/26 02:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/cloud-computing/article/siemens-industrial-edge-aws-integration",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AWS",
+        "Cloud",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "معرفی قابلیت TwinCAT Core Boost توسط بکهوف برای کنترل حرکت بلادرنگ",
+      "summary": "شرکت بکهوف قابلیت نرم‌افزاری جدیدی تحت عنوان TwinCAT Core Boost را برای رایانه‌های صنعتی چند‌هسته‌ای خود عرضه کرد. این فناوری فرکانس هسته‌های پردازنده اختصاص‌یافته به وظایف اتوماسیون را در زمان پیک کاری بدون افت پایداری کنترل بلادرنگ تنظیم می‌کند. با این راهکار، بازدهی محاسبات پیچیده موشن کنترل و بینایی ماشین صنعتی حدود ۲۵ درصد بهبود یافته و لرزش سیگنال به حداقل می‌رسد.",
+      "category": "product",
+      "published_at": "1405/07/25 20:00",
+      "collected_at": "1405/07/26 02:01",
+      "source": "Beckhoff News",
+      "source_url": "https://www.beckhoff.com/en-en/products/automation/twincat/twincat-core-boost.html",
+      "tags": [
+        "Beckhoff",
+        "TwinCAT",
+        "Motion Control",
+        "Industrial PC"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "کاهش ۴۰ درصدی زمان راه‌اندازی ماشین‌آلات با دوقلوی دیجیتال SINUMERIK ONE",
+      "summary": "زیمنس نتایج جدیدی از پیاده‌سازی سیستم CNC مدل SINUMERIK ONE در صنعت ساخت ماشین‌افزار را منتشر کرد. سازندگان تجهیزات با بهره‌گیری از شبیه‌سازی کامل با Create MyVirtual Machine توانسته‌اند زمان راه‌اندازی نهایی ماشین‌آلات را ۴۰ درصد تسریع کنند. این سیستم به مهندسان اجازه می‌دهد سناریوهای ماشین‌کاری ۵ محوره و عیب‌یابی کدهای PLC را پیش از ساخت فیزیکی اعتبارسنجی کنند.",
+      "category": "industry",
+      "published_at": "1405/07/25 21:10",
+      "collected_at": "1405/07/26 02:01",
+      "source": "Manufacturing Automation",
+      "source_url": "https://www.automationmag.com/siemens-sinumerik-one-digital-twin-success",
+      "tags": [
+        "Siemens",
+        "SINUMERIK",
+        "CNC",
+        "Digital Twin",
+        "Machining"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "عرضه سیستم حمل خطی و ماژولار Lexium MC12 توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک سیستم نقاله مغناطیسی چندتکه Lexium MC12 را با فناوری موتور خطی برای خطوط بسته‌بندی دارو و غذا روانه بازار کرد. کالسکه‌های این سیستم با قابلیت حرکت و موقعیت‌یابی مستقل، مانورپذیری بالایی در جابه‌جایی سریع قطعات ظریف فراهم می‌کنند. یکپارچگی بومی با پلتفرم EcoStruxure زمان توقف خط برای تغییر فرمت محصول را از چند ساعت به کمتر از ده دقیقه تقلیل می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 21:45",
+      "collected_at": "1405/07/26 02:01",
+      "source": "Schneider Electric Press",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/press-releases/lexium-mc12-multi-carrier.jsp",
+      "tags": [
+        "Schneider Electric",
+        "Motion",
+        "Packaging",
+        "EcoStruxure"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "پیاده‌سازی شبکه خصوصی 5G زیمنس با مودم صنعتی SCALANCE MUM856-1",
+      "summary": "زیمنس پروژه‌ای پیشرفته در حوزه لجستیک خودکار با استفاده از روتر بی‌سیم صنعتی SCALANCE MUM856-1 و شبکه خصوصی 5G راه‌اندازی کرد. این روتر تبادل بلادرنگ فرامین کنترلی با تأخیر کمتر از ۱۰ میلی‌ثانیه را برای روبات‌های خودران انبار (AGV) برقرار می‌سازد. ایمنی بالای شبکه در محیط‌های پرتداخل فلزی سوله، بهره‌وری جریان انتقال بار را در این سایت لجستیکی ۳۰ درصد ارتقا داده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 22:30",
+      "collected_at": "1405/07/26 02:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-private-5g-scalance-industrial-logistics",
+      "tags": [
+        "Siemens",
+        "5G",
+        "SCALANCE",
+        "AGV",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "تجهیز خطوط جوشکاری خودروسازی به نسل جدید کنترل‌کننده‌های OmniCore شرکت ABB",
+      "summary": "شرکت ABB کنترل‌کننده روباتیک پیشرفته OmniCore را برای ارتقای خطوط جوش بدنه خودروهای برقی روانه بازار کرد. این کنترلر دقت ردیابی مسیر بازوی روباتیک را حتی در شتاب‌های شدید به سطح کمتر از ۰٫۶ میلی‌متر رسانده و لرزش را خنثی می‌کند. سازگاری کامل با استانداردهای اترنت صنعتی و قابلیت‌های ایمنی یکپارچه، زمان سیکل جوشکاری مقاومتی را حدود ۱۵ درصد کوتاه کرده است.",
+      "category": "product",
+      "published_at": "1405/07/25 23:15",
+      "collected_at": "1405/07/26 02:01",
+      "source": "Robotics World",
+      "source_url": "https://www.roboticsbusinessreview.com/manufacturing/abb-omnicore-controller-automotive-welding",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "OmniCore",
+        "Automotive",
+        "Welding"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "همکاری استراتژیک زیمنس و دانفوس برای بهینه‌سازی انرژی در درایوهای الکتریکی",
+      "summary": "زیمنس و شرکت دانفوس تفاهم‌نامه‌ای را با هدف توسعه راه‌حل‌های یکپارچه بهره‌وری انرژی در الکتروموتورها و درایوهای صنعتی امضا کردند. این اتحاد بر طراحی مدل‌های پیش‌بینانه مصرف برق در پمپ‌ها و کمپرسورهای کارخانه‌ای تمرکز دارد. اتصال پارامترهای عملیاتی درایوها به محیط نرم‌افزاری Simcenter زیمنس امکان بازیافت بهینه انرژی حرارتی و کاهش ردپای کربن را برای صنایع فراهم می‌کند.",
+      "category": "company",
+      "published_at": "1405/07/26 00:20",
+      "collected_at": "1405/07/26 02:01",
+      "source": "Smart Industry",
+      "source_url": "https://www.smart-industry.com/energy-management/siemens-danfoss-drive-efficiency-partnership",
+      "tags": [
+        "Siemens",
+        "Danfoss",
+        "Drives",
+        "Energy Efficiency",
+        "Simcenter"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "انتشار پلتفرم تحلیلی OpreX Asset Health Insights توسط یوکوگاوا",
+      "summary": "شرکت یوکوگاوا پلتفرم نرم‌افزاری تحت وب OpreX Asset Health Insights را برای نظارت مستمر بر سلامت شیرآلات کنترلی و ترانسمیترهای فرآیندی رونمایی کرد. این ابزار داده‌های دریافتی از پروتکل‌های HART و فیلدباس را پردازش کرده و عیوب مکانیکی شیرها را پیش از وقوع خرابی پیش‌بینی می‌کند. پیاده‌سازی این سیستم در واحدهای شیمیایی باعث افت ۲۵ درصدی تعمیرات اضطراری و بهبود شاخص اثربخشی OEE شده است.",
+      "category": "product",
+      "published_at": "1405/07/26 01:05",
+      "collected_at": "1405/07/26 02:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/process-control-automation/article/yokogawa-oprex-asset-health-insights",
+      "tags": [
+        "Yokogawa",
+        "OpreX",
+        "Predictive Maintenance",
+        "DCS",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "رونمایی میتسوبیشی الکتریک از ماژول ایمنی سری MELSEC iQ-R با پروتکل TSN",
+      "summary": "میتسوبیشی الکتریک ماژول کنترل ایمنی تازه‌ای را برای سری پی‌ال‌سی MELSEC iQ-R با پشتیبانی بومی از شبکه CC-Link IE TSN عرضه کرد. این ماژول قادر است تبادل سیگنال‌های ایمنی تا سطح SIL 3 و فرامین کنترلی استاندارد را همزمان روی یک بستر کابلی بدون تداخل انجام دهد. این نوآوری حجم سیم‌کشی تابلوهای اتوماسیون را نصف کرده و فرآیند خطایابی شبکه‌های روباتیک را تسریع می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 01:45",
+      "collected_at": "1405/07/26 02:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/automation/mitsubishi-melsec-iqr-tsn-safety-module",
+      "tags": [
+        "Mitsubishi Electric",
+        "MELSEC",
+        "Safety PLC",
+        "TSN",
+        "CC-Link"
       ]
     }
   ]
