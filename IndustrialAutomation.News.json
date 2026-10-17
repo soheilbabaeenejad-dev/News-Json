@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 400,
+  "count": 410,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/25 16:01",
+  "updated_at": "1405/07/25 16:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6372,6 +6372,166 @@
         "Industrial Communication",
         "Wireless",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "یکپارچه‌سازی ماژول‌های امنیتی جدید در سیستم کنترل SIMATIC S7-1500",
+      "summary": "شرکت زیمنس ماژول‌های امنیتی جدیدی را برای کنترلرهای SIMATIC S7-1500 معرفی کرد که به صورت سخت‌افزاری از رمزنگاری پیشرفته پشتیبانی می‌کنند. این تجهیزات جدید به مهندسان اتوماسیون کمک می‌کند تا از شبکه‌های صنعتی در برابر تهدیدات سایبری پیچیده محافظت کنند. این اقدام گامی مهم در جهت ارتقای استاندارد امنیت سایبری در خطوط تولید مدرن به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/25 16:02",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/s7-1500-security-modules",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Cybersecurity",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پردازش ابری در پلتفرم Insights Hub برای صنایع سنگین",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به‌روزرسانی جدیدی را دریافت کرده که امکان پردازش حجم عظیمی از داده‌های سنسورهای صنعتی را با سرعت بالاتر فراهم می‌کند. این ابزار به مدیران کارخانه‌ها اجازه می‌دهد تا وضعیت سلامت تجهیزات سنگین را به صورت بلادرنگ مانیتور کنند. این فناوری نقش کلیدی در کاهش زمان توقف اضطراری خطوط تولید ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/25 16:02",
+      "source": "Industrial IoT World",
+      "source_url": "https://www.industrialiotworld.com/insights-hub-heavy-industry-update",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "IIoT",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "معرفی نسل تازه رله‌های حفاظتی SIRIUS برای بهینه‌سازی توزیع برق کارخانه‌ها",
+      "summary": "زیمنس سری جدیدی از رله‌های حفاظتی و مانیتورینگ SIRIUS را روانه بازار کرد که با سیستم‌های مدیریت انرژی در تیا پورتال سازگاری کامل دارند. این تجهیزات مصرف برق موتورهای الکتریکی را با دقت بالایی اندازه‌گیری کرده و از اضافه‌بار جلوگیری می‌کنند. استفاده از این رله‌ها باعث کاهش چشمگیر هزینه‌های انرژی در مجتمع‌های صنعتی بزرگ می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/25 16:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/sirius-relays-siemens",
+      "tags": [
+        "SIRIUS",
+        "Energy Management",
+        "Totally Integrated Power",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "گسترش کاربرد سیستم SCADA مبتنی بر وب در صنایع پتروشیمی",
+      "summary": "استفاده از نسل جدید سیستم‌های اسکادا مبتنی بر وب در مجتمع‌های پتروشیمی رو به افزایش است و اپراتورها می‌توانند فرآیندها را از راه دور کنترل کنند. این نرم‌افزارها امنیت تبادل داده را بر اساس استانداردهای بین‌المللی IEC 62443 تضمین می‌کنند. این تحول نظارت بر واحدهای فرآیندی پیچیده را به صورت ایمن‌تر و کارآمدتر ممکن ساخته است.",
+      "category": "news",
+      "published_at": "1405/07/25 10:45",
+      "collected_at": "1405/07/25 16:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/articles/web-scada-petrochemical",
+      "tags": [
+        "SCADA",
+        "Process Control",
+        "IEC 62443",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "بهینه‌سازی لجستیک داخلی با استفاده از ربات‌های AMR و نرم‌افزار زیمنس",
+      "summary": "یک شرکت خودروسازی بزرگ با به‌کارگیری ربات‌های متحرک خودمختار (AMR) یکپارچه‌شده با نرم‌افزار شبیه‌سازی زیمنس، جریان انتقال مواد را بهینه‌سازی کرد. این سیستم مسیرهای حرکت ربات‌ها را در سالن مونتاژ به صورت پویا مدیریت می‌کند تا ترافیک داخلی کارخانه به حداقل برسد. این پروژه بهره‌وری لجستیک کارخانه را بیش از بیست درصد افزایش داده است.",
+      "category": "industry",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/25 16:02",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/amr-siemens-logistics",
+      "tags": [
+        "AMR",
+        "Robotics",
+        "Digital Twin",
+        "Intralogistics"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای نرم‌افزار مهندسی TIA Portal V19 با ابزارهای پیشرفته مدیریت پروژه",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal V19 قابلیت‌های تازه‌ای را برای همکاری همزمان تیم‌های مهندسی اتوماسیون ارائه داده است. این ابزار امکان کنترل نسخه برنامه‌های PLC و پنل‌های HMI را با دقت بالاتری فراهم می‌کند. این ویژگی خطاهای انسانی در مستندسازی پروژه‌های بزرگ صنعتی را به شکل محسوسی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 12:15",
+      "collected_at": "1405/07/25 16:02",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.iaasiaonline.com/tia-portal-v19-update",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "پیاده‌سازی شبکه ارتباطی Profinet با پهنای باند بالا در خطوط مونتاژ الکترونیک",
+      "summary": "کارخانجات تولید تجهیزات الکترونیکی با مهاجرت به استانداردهای ارتباطی جدید Profinet، سرعت تبادل اطلاعات میان ربات‌ها و کنترلرها را افزایش دادند. این زیرساخت ارتباطی جدید تاخیر شبکه را به کمتر از یک میلی‌ثانیه رسانده است. چنین عملکردی برای همگام‌سازی حرکت‌های دقیق در خطوط تولید سرعت‌بالا حیاتی محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/25 13:00",
+      "collected_at": "1405/07/25 16:02",
+      "source": "IE Network",
+      "source_url": "https://industrial-embedded.com/news/profinet-high-speed-networks",
+      "tags": [
+        "Profinet",
+        "Industrial Ethernet",
+        "Networking",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه ماژول‌های ورودی و خروجی توزیع‌شده برای سیستم SIMATIC ET 200MP",
+      "summary": "زیمنس سبد محصولات سیستم I/O توزیع‌شده SIMATIC ET 200MP را با معرفی ماژول‌های کانال‌بالا گسترش داد. این ماژول‌ها فضای اشغال‌شده در تابلوهای برق را کاهش داده و سیم‌کشی را ساده‌تر می‌کنند. این تجهیزات برای استفاده در محیط‌های صنعتی سخت و دارای ارتعاش بالا طراحی و تایید شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/25 13:45",
+      "collected_at": "1405/07/25 16:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-et-200mp-expansion",
+      "tags": [
+        "ET 200MP",
+        "I/O Systems",
+        "Control Cabinets",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "افزایش بهره‌وری انرژی در صنایع سیمان با درایوهای فرکانس متغیر SINAMICS",
+      "summary": "یک کارخانه بزرگ تولید سیمان با نصب درایوهای فرکانس متغیر سری SINAMICS بر روی کوره‌های پخت، مصرف انرژی الکتریکی را به طور قابل توجهی کاهش داد. این درایوها با کنترل دقیق دور موتورهای سنگین، از اتلاف انرژی جلوگیری می‌کنند. این پروژه گامی موثر در راستای کاهش انتشار گازهای گلخانه‌ای در صنعت سیمان به شمار می‌رود.",
+      "category": "industry",
+      "published_at": "1405/07/25 14:30",
+      "collected_at": "1405/07/25 16:02",
+      "source": "Global Cement",
+      "source_url": "https://www.globalcement.com/news/siemens-sinamics-cement-plant",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Cement Industry"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "بررسی تاثیر هوش مصنوعی لبه شبکه بر افزایش پایداری سیستم‌های کنترل توزیع‌یافته",
+      "summary": "کارشناسان صنعت اتوماسیون بر نقش کلیدی فناوری لبه شبکه (Edge Computing) در بهبود عملکرد سیستم‌های کنترل توزیع‌یافته تاکید کردند. استفاده از الگوریتم‌های هوش مصنوعی در سطح لبه به شناسایی زودهنگام ناهنجاری‌های فرآیندی کمک شایانی می‌کند. این رویکرد نوین زیرساخت‌های حیاتی صنایع را در برابر خطرات احتمالی ایمن‌تر می‌سازد.",
+      "category": "research",
+      "published_at": "1405/07/25 15:15",
+      "collected_at": "1405/07/25 16:02",
+      "source": "Automation Insights",
+      "source_url": "https://www.automation-insights.com/ai-edge-dcs-stability",
+      "tags": [
+        "Industrial Edge",
+        "DCS",
+        "Artificial Intelligence",
+        "OT Security"
       ]
     }
   ]
