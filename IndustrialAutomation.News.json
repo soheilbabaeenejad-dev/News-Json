@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 337,
+  "count": 346,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 16:02",
+  "updated_at": "1405/07/26 16:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5393,6 +5393,150 @@
         "TSN",
         "Industrial Ethernet",
         "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی لبه‌ای در پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس نسخه به‌روزرسانی شده پلتفرم Industrial Edge را با ابزارهای پیشرفته یادگیری ماشین عرضه کرد. این قابلیت به اپراتورهای کارخانه‌ها اجازه می‌دهد تا مدل‌های هوش مصنوعی را مستقیماً روی رایانه‌های صنعتی اجرا کنند. این فناوری تا ۳۰ درصد هزینه‌های پردازش ابری را کاهش داده و زمان واکنش تجهیزات را بهبود می‌بخشد.",
+      "category": "news",
+      "published_at": "1405/07/26 10:30",
+      "collected_at": "1405/07/26 16:04",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-edge-ai-update",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Edge Computing",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "همکاری زیمنس و فستو برای توسعه استانداردهای ارتباطی مدولار در پنوماتیک",
+      "summary": "شرکت‌های زیمنس و فستو شراکت استراتژیک جدیدی را برای یکپارچه‌سازی سیستم‌های پنوماتیک با کنترل‌کننده‌های SIMATIC آغاز کردند. این همکاری به توسعه ماژول‌های ارتباطی مبتنی بر PROFINET منجر می‌شود که سیم‌کشی سنتی را حذف می‌کنند. صنایع بسته‌بندی از این طریق می‌توانند زمان راه‌اندازی ماشین‌آلات را تا چهل درصد کاهش دهند.",
+      "category": "company",
+      "published_at": "1405/07/26 11:00",
+      "collected_at": "1405/07/26 16:04",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-partnership-profinet",
+      "tags": [
+        "PROFINET",
+        "Festo",
+        "Siemens",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "رونمایی از ماژول ارتباطی جدید SCALANCE برای شبکه‌های امن فیلدباس صنعتی",
+      "summary": "زیمنس خانواده محصولات شبکه SCALANCE خود را با یک ماژول جدید مجهز به پروتکل‌های رمزنگاری پیشرفته توسعه داد. این سخت‌افزار از زیرساخت‌های شبکه امن در برابر حملات سایبری محافظت می‌کند. مدیران شبکه می‌توانند تجهیزات OT را با بالاترین سطح اطمینان به سیستم‌های سطح سازمانی متصل نمایند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:45",
+      "collected_at": "1405/07/26 16:04",
+      "source": "IEB",
+      "source_url": "https://www.iebmedia.com/scalance-secure-fieldbus-siemens",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانجات با ابزار جدید Insights Hub زیمنس",
+      "summary": "پلتفرم ابری Insights Hub زیمنس ماژول جدیدی را برای پایش لحظه‌ای و تحلیل مصرف انرژی معرفی کرد. این ابزار به مدیران کارخانه کمک می‌کند نقاط پرتلفات انرژی را شناسایی و بهینه‌سازی کنند. این راهکار نقش مهمی در دستیابی به اهداف کربن‌زدایی و استانداردهای ISO 50001 ایفا می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/26 12:20",
+      "collected_at": "1405/07/26 16:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/insights-hub-energy-management-siemens",
+      "tags": [
+        "Insights Hub",
+        "Energy Management",
+        "Cloud",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS 7 با بسته نرم‌افزاری جدید",
+      "summary": "نسخه جدید بسته نرم‌افزاری SIMATIC PCS 7 با تمرکز بر پایداری و بهبود قابلیت‌های تشخیصی منتشر شد. این نسخه ابزارهای مهندسی را بهبود داده و خطاهای انسانی در پیکربندی سیستم‌های بزرگ را به حداقل می‌رساند. صنایع فرآیندی مانند پتروشیمی از پایداری بالاتر این سیستم بهره‌مند خواهند شد.",
+      "category": "product",
+      "published_at": "1405/07/26 13:05",
+      "collected_at": "1405/07/26 16:04",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-simatic-pcs7-update-news",
+      "tags": [
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "گسترش کاربرد ربات‌های متحرک خودگردان در لجستیک داخلی کارخانه با SIMOVE",
+      "summary": "سیستم مدیریت ناوگان SIMOVE زیمنس اکنون از طیف وسیع‌تری از ربات‌های متحرک خودگردان (AMR) پشتیبانی می‌کند. این پلتفرم امکان هماهنگی دقیق حرکت ربات‌ها را در سالن‌های تولید شلوغ فراهم می‌سازد. خودروسازان بزرگ از این فناوری برای انتقال خودکار قطعات بین ایستگاه‌های کاری استفاده می‌کنند.",
+      "category": "industry",
+      "published_at": "1405/07/26 13:40",
+      "collected_at": "1405/07/26 16:04",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-simove-amr-fleet-management",
+      "tags": [
+        "SIMOVE",
+        "AMR",
+        "Robotics",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "استفاده از دوقلوی دیجیتال SINUMERIK ONE در ساخت قالب‌های صنعتی پیچیده",
+      "summary": "شرکت‌های ابزارسازی با بهره‌گیری از قابلیت‌های دوقلوی دیجیتال SINUMERIK ONE توانستند زمان تولید قالب را کاهش دهند. این فناوری تمام فرآیندهای ماشین‌کاری را پیش از اجرای واقعی در محیط مجازی شبیه‌سازی می‌کند. کاهش خطاهای انسانی و بهینه‌سازی مسیرهای حرکت ابزار از مزایای اصلی این راهکار است.",
+      "category": "research",
+      "published_at": "1405/07/26 14:15",
+      "collected_at": "1405/07/26 16:04",
+      "source": "Modern Machine Shop",
+      "source_url": "https://www.mmsonline.com/siemens-sinumerik-one-digital-twin",
+      "tags": [
+        "SINUMERIK ONE",
+        "Digital Twin",
+        "CNC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "عرضه رایانه صنعتی فشرده IPC227G با گواهینامه‌های سخت‌گیرانه دریایی",
+      "summary": "زیمنس رایانه صنعتی فشرده IPC227G را با تاییدیه رسمی برای کاربردهای دریایی و ساحلی روانه بازار کرد. این محصول بدون فن طراحی شده و در برابر شوک‌ها و ارتعاشات شدید مقاوم است. پردازنده‌های قدرتمند این سیستم اجرای برنامه‌های مانیتورینگ سنگین را در محیط‌های سخت تضمین می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 14:50",
+      "collected_at": "1405/07/26 16:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-ipc227g-industrial-pc-release",
+      "tags": [
+        "Industrial PC",
+        "Hardware",
+        "IPC227G",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "توسعه پروتکل‌های ارتباطی امن در سیستم‌های اتوماسیون با استاندارد IEC 62443",
+      "summary": "تیم مهندسی زیمنس پکیج امنیتی جدیدی را برای انطباق تجهیزات اتوماسیون با استاندارد IEC 62443-4-2 ارائه داد. این بسته امنیتی کمک می‌کند تا تجهیزات صنعتی در برابر نفوذهای سایبری مقاوم‌تر شوند. تولیدکنندگان تجهیزات OT با این استاندارد می‌توانند سطح اطمینان شبکه‌های صنعتی را به شکل چشمگیری ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/26 15:30",
+      "collected_at": "1405/07/26 16:04",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-iec-62443-compliance",
+      "tags": [
+        "Cybersecurity",
+        "IEC 62443",
+        "Compliance",
+        "Siemens"
       ]
     }
   ]
