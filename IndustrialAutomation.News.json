@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 624,
+  "count": 632,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/26 22:05",
+  "updated_at": "1405/07/26 22:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -10005,6 +10005,126 @@
         "اتاق کنترل",
         "ایمنی",
         "اپراتور"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم Insights Hub با هوش مصنوعی",
+      "summary": "پلتفرم Insights Hub زیمنس اکنون به ابزارهای تحلیل پیش‌بینی‌کننده مبتنی بر هوش مصنوعی مجهز شده است. این به‌روزرسانی به مدیران کارخانه‌ها اجازه می‌دهد تا الگوهای خرابی تجهیزات را پیش از وقوع شناسایی کنند. با استفاده از این قابلیت، هزینه‌های نگهداری و تعمیرات به میزان قابل توجهی کاهش یافته و بهره‌وری کلی خطوط تولید افزایش می‌یابد.",
+      "category": "industry",
+      "published_at": "1405/07/26 22:08",
+      "collected_at": "1405/07/26 22:08",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.siemens.com/insights-hub",
+      "tags": [
+        "Insights Hub",
+        "AI",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "همکاری زیمنس و شرکت‌های مخابراتی برای گسترش شبکه‌های 5G خصوصی",
+      "summary": "زیمنس در همکاری جدیدی با اپراتورهای مخابراتی، زیرساخت‌های 5G خصوصی را برای صنایع سنگین فراهم می‌کند. این شبکه امکان ارتباط بی‌سیم با تأخیر بسیار کم را برای ربات‌های متحرک و سیستم‌های اتوماسیون فراهم می‌سازد. این پروژه در حال حاضر در چندین کارخانه بزرگ خودروسازی در آلمان به صورت آزمایشی در حال اجراست.",
+      "category": "industry",
+      "published_at": "1405/07/26 22:08",
+      "collected_at": "1405/07/26 22:08",
+      "source": "Automation World",
+      "source_url": "https://www.siemens.com/5g-industrial",
+      "tags": [
+        "5G",
+        "Industrial Networking",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "عرضه درایوهای جدید SINAMICS G120X با بهره‌وری انرژی بالاتر",
+      "summary": "زیمنس سری جدید درایوهای فرکانس متغیر SINAMICS G120X را برای کاربردهای پمپ و فن در صنایع زیرساختی عرضه کرد. این درایوها با الگوریتم‌های هوشمند مدیریت انرژی، مصرف برق را تا ۱۵ درصد کاهش می‌دهند. طراحی فشرده و مقاومت بالا در برابر شرایط محیطی سخت از ویژگی‌های اصلی این محصول جدید است.",
+      "category": "product",
+      "published_at": "1405/07/26 22:08",
+      "collected_at": "1405/07/26 22:08",
+      "source": "Siemens Drive Technologies",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics/g120x.html",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "ارتقای امنیت سایبری در سیستم‌های مانیتورینگ WinCC Unified",
+      "summary": "زیمنس با انتشار یک بسته امنیتی جدید، قابلیت‌های احراز هویت و رمزنگاری داده‌ها را در WinCC Unified تقویت کرد. این به‌روزرسانی برای مقابله با تهدیدات سایبری مدرن و نفوذ به سیستم‌های HMI حیاتی است. کاربران سیستم‌های مانیتورینگ صنعتی اکنون می‌توانند از پروتکل‌های امنیتی چندلایه برای حفاظت از داده‌های فرآیندی استفاده کنند.",
+      "category": "news",
+      "published_at": "1405/07/26 22:08",
+      "collected_at": "1405/07/26 22:08",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://cert-portal.siemens.com",
+      "tags": [
+        "WinCC",
+        "Cybersecurity",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "رونمایی از سیستم کنترل حرکت SIMOTION جدید برای ماشین‌های بسته‌بندی",
+      "summary": "نسل جدید سیستم کنترل حرکت SIMOTION به بازار عرضه شد که دقت و سرعت ماشین‌های بسته‌بندی را به شدت افزایش می‌دهد. این سیستم با یکپارچه‌سازی کامل در محیط TIA Portal، امکان هماهنگی دقیق بین چندین محور حرکتی را فراهم می‌کند. این فناوری برای خطوط تولید با سرعت بالا و دقت میلی‌متری بسیار ایده‌آل است.",
+      "category": "product",
+      "published_at": "1405/07/26 22:08",
+      "collected_at": "1405/07/26 22:08",
+      "source": "Packaging Automation Review",
+      "source_url": "https://www.siemens.com/motion-control",
+      "tags": [
+        "SIMOTION",
+        "Motion Control",
+        "Packaging"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "گسترش کاربرد دوقلوی دیجیتال در طراحی کارخانه‌های شیمیایی",
+      "summary": "زیمنس با استفاده از نرم‌افزار COMOS، فرآیند طراحی و شبیه‌سازی کارخانه‌های شیمیایی را متحول کرده است. دوقلوی دیجیتال ایجاد شده به مهندسان اجازه می‌دهد تا پیش از ساخت فیزیکی، تمامی فرآیندهای شیمیایی را در محیط مجازی تست کنند. این رویکرد باعث کاهش خطاهای طراحی و تسریع در راه‌اندازی پروژه‌های عظیم صنعتی می‌شود.",
+      "category": "research",
+      "published_at": "1405/07/26 22:08",
+      "collected_at": "1405/07/26 22:08",
+      "source": "Chemical Engineering Journal",
+      "source_url": "https://www.siemens.com/comos",
+      "tags": [
+        "Digital Twin",
+        "COMOS",
+        "Chemical Industry"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "به‌روزرسانی نرم‌افزار SIMATIC AX برای توسعه‌دهندگان اتوماسیون",
+      "summary": "زیمنس نسخه جدید SIMATIC AX را با ابزارهای بهبودیافته برای برنامه‌نویسی شی‌گرا منتشر کرد. این نرم‌افزار به مهندسان اتوماسیون اجازه می‌دهد تا کدهای پیچیده را با استفاده از استانداردهای مدرن توسعه دهند. این تغییرات باعث افزایش انعطاف‌پذیری در مدیریت پروژه‌های بزرگ اتوماسیون صنعتی می‌شود.",
+      "category": "topic",
+      "published_at": "1405/07/26 22:08",
+      "collected_at": "1405/07/26 22:08",
+      "source": "Automation Software News",
+      "source_url": "https://www.siemens.com/simatic-ax",
+      "tags": [
+        "SIMATIC AX",
+        "Software Development",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "همکاری راکول اتوماسیون برای بهبود یکپارچه‌سازی سیستم‌های ابری",
+      "summary": "راکول اتوماسیون با هدف تسهیل انتقال داده‌های کارخانه به فضای ابری، همکاری جدیدی را با تامین‌کنندگان زیرساخت‌های ابری آغاز کرد. این راهکار به تولیدکنندگان کمک می‌کند تا داده‌های تولید را به صورت آنی تحلیل کرده و تصمیمات مدیریتی بهتری اتخاذ کنند. این پلتفرم با سیستم‌های موجود FactoryTalk سازگاری کامل دارد.",
+      "category": "company",
+      "published_at": "1405/07/26 22:08",
+      "collected_at": "1405/07/26 22:08",
+      "source": "Rockwell Automation Press",
+      "source_url": "https://www.rockwellautomation.com",
+      "tags": [
+        "Rockwell Automation",
+        "Cloud",
+        "FactoryTalk"
       ]
     }
   ]
