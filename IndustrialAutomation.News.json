@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 240,
+  "count": 250,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 14:04",
+  "updated_at": "1405/07/26 14:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3821,6 +3821,166 @@
         "SIMATIC S7-1200",
         "Industry 4.0",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی کنترل‌کننده ایمنی جدید SIMATIC S7-1500F برای خطوط تولید پیچیده",
+      "summary": "شرکت زیمنس از عضو جدید خانواده کنترل‌کننده‌های ایمنی SIMATIC S7-1500F رونمایی کرد که برای اتوماسیون‌های مقیاس بزرگ و دارای استانداردهای ایمنی سخت‌گیرانه طراحی شده است. این کنترل‌کننده جدید با پردازش سریع‌تر بلوک‌های ایمنی، زمان پاسخ‌دهی سیستم را به حداقل می‌رساند و از پروتکل‌های ارتباطی امن پشتیبانی می‌کند. مهندسان می‌توانند این ماژول را به‌راحتی از طریق محیط مهندسی TIA Portal پیکربندی کرده و ایمنی اپراتورها را به طور چشمگیری افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 14:07",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500f-advanced-safety",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TIA Portal",
+        "Safety PLC"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "ارتقای نرم‌افزار مانیتورینگ WinCC Unified با ابزارهای تحلیل داده ابری",
+      "summary": "نسخه جدید پلتفرم تجسم صنعتی زیمنس، WinCC Unified، با قابلیت‌های پیشرفته اتصال به ابر و تحلیل داده‌های بی‌درنگ منتشر شد. این بروزرسانی به اپراتورهای خطوط تولید اجازه می‌دهد تا وضعیت ماشین‌آلات را از طریق داشبوردهای وب‌پایه و بدون نیاز به نصب نرم‌افزار اضافی پایش کنند. این ابزار جدید با کاهش زمان قطعی ناخواسته، بهره‌وری کلی تجهیزات را در کارخانه‌های هوشمند بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/26 10:30",
+      "collected_at": "1405/07/26 14:07",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/article/siemens-wincc-unified-cloud-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Industrial Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "گسترش کاربرد ربات‌های متحرک خودگردان در لجستیک کارخانه با راهکار SIMOVE",
+      "summary": "سیستم مدیریت ناوگان SIMOVE زیمنس اکنون از نسل جدید ربات‌های متحرک خودگردان (AMR) با قابلیت مسیریابی هوشمند پشتیبانی می‌کند. این نرم‌افزار بهینه‌سازی مسیر، ترافیک ربات‌ها را در سالن‌های تولید شلوغ کنترل کرده و از برخورد مانع جلوگیری می‌کند. صنایع خودروسازی و بسته‌بندی با استفاده از این فناوری توانسته‌اند هزینه‌های جابجایی مواد داخلی را به طور قابل توجهی کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:00",
+      "collected_at": "1405/07/26 14:07",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/siemens-simove-fleet-management-amr",
+      "tags": [
+        "SIMOVE",
+        "AMR",
+        "Logistics",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "معقدی‌سازی درایوهای SINAMICS با قابلیت تشخیص خطای زودهنگام مبتنی بر هوش مصنوعی",
+      "summary": "زیمنس قابلیت‌های هوش مصنوعی را به صورت توکار به نسل جدید درایوهای دورمتغیر SINAMICS اضافه کرده است. این الگوریتم‌های هوشمند الگوهای لرزش و تغییرات ج جریان موتور را تحلیل کرده و پیش از وقوع خرابی مکانیکی، هشدار صادر می‌کنند. این فناوری نگهداری پیشگیرانه نقش مهمی در جلوگیری از توقف‌های پرهزینه خطوط تولید پیوسته دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 11:45",
+      "collected_at": "1405/07/26 14:07",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/products/drives/article/siemens-sinamics-ai-predictive-maintenance",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "AI",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "توسعه زیرساخت‌های امنیت سایبری صنعتی بر مبنای استاندارد IEC 62443 در محصولات SIMATIC",
+      "summary": "شرکت زیمنس مجموعه جدیدی از دستورالعمل‌های سخت‌گیرانه امنیتی را برای محصولات اتوماسیون SIMATIC S7 پیاده‌سازی کرد تا از شبکه‌های صنعتی در برابر نفوذهای سایبری محافظت کند. این راهکارها شامل رمزگذاری پیشرفته ارتباطات و مدیریت متمرکز گواهی‌نامه‌های امنیتی در محیط TIA Portal است. این اقدام گامی مهم برای ایمن‌سازی زیرساخت‌های حیاتی در برابر تهدیدات روزافزون دیجیتال محسوب می‌شود.",
+      "category": "regulation",
+      "published_at": "1405/07/26 12:10",
+      "collected_at": "1405/07/26 14:07",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-enhances-cybersecurity-simatic-controllers",
+      "tags": [
+        "Cybersecurity",
+        "IEC 62443",
+        "SIMATIC",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "همکاری زیمنس و فستو برای توسعه استانداردهای ماژولار در اتوماسیون کارخانه‌ای",
+      "summary": "دو شرکت پیشرو زیمنس و فستو توافقنامه‌ای را برای توسعه تجهیزات ماژولار و سازگار با معماری MTP امضا کردند. این استاندارد به مهندسان اجازه می‌دهد تا ماژول‌های مختلف فرآیندی را سریع‌تر و با کمترین نیاز به برنامه‌نویسی مجدد به خطوط تولید متصل کنند. این همکاری انعطاف‌پذیری کارخانه‌ها را برای تغییر سریع سبد محصولات به شدت افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/26 12:40",
+      "collected_at": "1405/07/26 14:07",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-festo-modular-automation-mtp",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Modular Automation",
+        "MTP"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "عرضه ماژول پردازش لبه‌ای جدید SCALANCE برای شبکه‌های پرسرعت صنعتی",
+      "summary": "زیمنس از روترها و سوییچ‌های صنعتی سری SCALANCE با ماژول‌های پردازش لبه‌ای یکپارچه رونمایی کرد. این تجهیزات ارتباط امن و پرسرعت را در بستر شبکه‌های صنعتی مدرن فراهم کرده و امکان تحلیل محلی داده‌های سنسورها را فراهم می‌سازند. این محصولات به ویژه برای استقرار در محیط‌های سخت کارگاهی و صنایع نفت و گاز بهینه‌سازی شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/26 13:00",
+      "collected_at": "1405/07/26 14:07",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/siemens-scalance-edge-computing-routers",
+      "tags": [
+        "SCALANCE",
+        "Industrial Edge",
+        "Networking",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "استفاده از پلتفرم Industrial Edge برای بهینه‌سازی مصرف انرژی در صنایع فولاد",
+      "summary": "یک مجتمع بزرگ تولید فولاد با نصب پلتفرم Industrial Edge زیمنس موفق شد مصرف انرژی کوره قوس الکتریکی خود را به دقت پایش و بهینه‌سازی کند. این سیستم با جمع‌آوری داده‌های لحظه‌ای انرژی و اعمال الگوریتم‌های کاهشی، تلفات الکتریکی را به حداقل رساند. این پروژه نمونه‌ای بارز از نقش راهکارهای دیجیتال در کاهش ردپای کربن صنایع سنگین است.",
+      "category": "industry",
+      "published_at": "1405/07/26 13:25",
+      "collected_at": "1405/07/26 14:07",
+      "source": "Steel Times International",
+      "source_url": "https://www.steeltimesint.com/news/siemens-industrial-edge-steel-energy-efficiency",
+      "tags": [
+        "Industrial Edge",
+        "Energy Management",
+        "Steel Industry",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "بهبود قابلیت‌های مهندسی معکوس و طراحی مجازی با نسخه جدید SIMATIC PCS neo",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo ابزارهای مهندسی مبتنی بر وب را برای طراحان کارخانه‌های فرآیندی بهبود بخشیده است. این پلتفرم به تیم‌های مهندسی اجازه می‌دهد از هر نقطه‌ای در جهان به مدل سه‌بعدی کارخانه دسترسی داشته باشند و تغییرات را به صورت همزمان اعمال کنند. این رویکرد همکاری تیمی را تقویت کرده و زمان اجرای پروژه‌های بزرگ را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 13:50",
+      "collected_at": "1405/07/26 14:07",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-simatic-pcs-neo-web-based-engineering",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Control",
+        "Cloud Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "گسترش قابلیت‌های مانیتورینگ مصرف کربن در بستر نرم‌افزاری Siemens Xcelerator",
+      "summary": "زیمنس ابزار جدیدی را به اکوسیستم دیجیتال Siemens Xcelerator اضافه کرد که به شرکت‌ها اجازه می‌دهد گزارش دقیقی از انتشار گازهای گلخانه‌ای در زنجیره تامین تولید تهیه کنند. این نرم‌افزار با اتصال به تجهیزات اتوماسیون کف کارخانه، میزان مصرف انرژی ماشین‌آلات را مستقیماً به شاخص‌های پایداری پیوند می‌زند. این راهکار به صنایع کمک می‌کند تا الزامات قانونی رو به رشد محیط‌زیستی را به راحتی رعایت کنند.",
+      "category": "news",
+      "published_at": "1405/07/26 14:05",
+      "collected_at": "1405/07/26 14:07",
+      "source": "CleanTech News",
+      "source_url": "https://www.cletechnews.com/siemens-xcelerator-carbon-tracking-manufacturing",
+      "tags": [
+        "Siemens Xcelerator",
+        "Sustainability",
+        "Carbon Footprint",
+        "Software"
       ]
     }
   ]
