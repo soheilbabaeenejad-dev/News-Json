@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 544,
+  "count": 553,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/26 20:03",
+  "updated_at": "1405/07/26 20:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8729,6 +8729,150 @@
         "صنایع غذایی",
         "اتوماسیون",
         "بهداشت"
+      ]
+    },
+    {
+      "id": "ia-20241018-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس با ارائه به‌روزرسانی جدید برای پلتفرم Industrial Edge، ابزارهای تحلیل داده‌های بلادرنگ را بهبود بخشیده است. این ارتقا به کاربران اجازه می‌دهد تا مدل‌های یادگیری ماشین را مستقیماً بر روی کنترل‌کننده‌های لبه‌ای اجرا کنند. این قابلیت برای بهینه‌سازی مصرف انرژی و پیش‌بینی خرابی تجهیزات در کارخانه‌های هوشمند بسیار حیاتی است.",
+      "category": "industry",
+      "published_at": "1403/07/27 10:15",
+      "collected_at": "1405/07/26 20:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/industrial-edge/news/21849302/siemens-edge-analytics",
+      "tags": [
+        "Industrial Edge",
+        "Data Analytics",
+        "AI",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20241018-003",
+      "title": "همکاری زیمنس و شرکت‌های انرژی برای توسعه شبکه‌های هوشمند صنعتی",
+      "summary": "زیمنس در همکاری جدید با اپراتورهای شبکه، راهکارهای مدیریت توزیع انرژی مبتنی بر نرم‌افزار را برای مجتمع‌های صنعتی بزرگ توسعه می‌دهد. این پروژه بر استفاده از سیستم‌های مدیریت انرژی زیمنس برای کاهش کربن و افزایش بهره‌وری در فرآیندهای تولیدی تمرکز دارد. این همکاری به صنایع کمک می‌کند تا با استفاده از داده‌های بلادرنگ، نوسانات مصرف برق را مدیریت کنند.",
+      "category": "company",
+      "published_at": "1403/07/27 11:30",
+      "collected_at": "1405/07/26 20:05",
+      "source": "Energy Industry Review",
+      "source_url": "https://www.energyindustryreview.com/smart-grid/siemens-industrial-energy-management/",
+      "tags": [
+        "Energy Management",
+        "Sustainability",
+        "Smart Grid",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-004",
+      "title": "رونمایی از نسل جدید درایوهای فرکانس متغیر SINAMICS G120X",
+      "summary": "زیمنس سری جدید درایوهای SINAMICS G120X را با تمرکز بر کاربردهای پمپاژ و تهویه مطبوع در صنایع سنگین عرضه کرد. این درایوها دارای ویژگی‌های پیشرفته‌ای برای صرفه‌جویی در انرژی و قابلیت اتصال به سیستم‌های مدیریت ساختمان هستند. طراحی فشرده و رابط کاربری بهبود یافته، نصب و راه‌اندازی این تجهیزات را در پروژه‌های اتوماسیون صنعتی تسهیل کرده است.",
+      "category": "product",
+      "published_at": "1403/07/27 12:45",
+      "collected_at": "1405/07/26 20:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-launches-new-sinamics-g120x-drives/",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-005",
+      "title": "ارتقای امنیت سایبری در سیستم‌های کنترل توزیع‌شده PCS 7",
+      "summary": "زیمنس وصله‌های امنیتی جدیدی را برای سیستم کنترل توزیع‌شده SIMATIC PCS 7 منتشر کرد تا در برابر تهدیدات سایبری مدرن مقاوم شود. این به‌روزرسانی شامل بهبود در احراز هویت کاربران و رمزنگاری ارتباطات بین ایستگاه‌های مهندسی و کنترل‌کننده‌ها است. این اقدام بخشی از تعهد زیمنس به استانداردهای امنیت سایبری صنعتی و حفاظت از زیرساخت‌های حیاتی است.",
+      "category": "regulation",
+      "published_at": "1403/07/27 14:00",
+      "collected_at": "1405/07/26 20:05",
+      "source": "Cybersecurity News",
+      "source_url": "https://cert-portal.siemens.com/productcert/pdf/ssa-485920.pdf",
+      "tags": [
+        "Cybersecurity",
+        "PCS 7",
+        "Industrial Security",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-006",
+      "title": "توسعه ابزارهای شبیه‌سازی برای ربات‌های صنعتی در محیط NX",
+      "summary": "زیمنس قابلیت‌های جدیدی را به نرم‌افزار NX برای شبیه‌سازی دقیق حرکات رباتیک اضافه کرده است. این ابزارها به مهندسان اجازه می‌دهند تا قبل از استقرار فیزیکی ربات‌ها در خط تولید، تمامی فرآیندهای حرکتی و تداخل‌های احتمالی را در محیط مجازی بررسی کنند. این فناوری دوقلوی دیجیتال باعث کاهش چشمگیر زمان طراحی و هزینه‌های پیاده‌سازی سیستم‌های روباتیک می‌شود.",
+      "category": "research",
+      "published_at": "1403/07/27 15:15",
+      "collected_at": "1405/07/26 20:05",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/news/2024/10/18/siemens-nx-robotics-simulation/",
+      "tags": [
+        "NX",
+        "Robotics",
+        "Digital Twin",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20241018-007",
+      "title": "گسترش اکوسیستم Xcelerator با ابزارهای مدیریت چرخه حیات محصول",
+      "summary": "پلتفرم زیمنس Xcelerator با افزودن ماژول‌های جدید مدیریت چرخه حیات محصول (PLM) توسعه یافت. این ابزارها به تولیدکنندگان کمک می‌کنند تا داده‌های مهندسی را از مرحله طراحی تا تولید نهایی به صورت یکپارچه مدیریت کنند. این یکپارچگی باعث می‌شود تا تغییرات در طراحی به سرعت به خطوط تولید و سیستم‌های اتوماسیون منتقل شود و بهره‌وری کلی افزایش یابد.",
+      "category": "industry",
+      "published_at": "1403/07/27 16:30",
+      "collected_at": "1405/07/26 20:05",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/technology-and-iiot/siemens-xcelerator-plm-update",
+      "tags": [
+        "Xcelerator",
+        "PLM",
+        "Digitalization",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-008",
+      "title": "استفاده از هوش مصنوعی برای بهینه‌سازی فرآیندهای شیمیایی در کارخانه‌های هوشمند",
+      "summary": "یک پروژه مشترک با استفاده از پلتفرم Insights Hub زیمنس، الگوریتم‌های هوش مصنوعی را برای کنترل بهینه واکنش‌های شیمیایی در مقیاس صنعتی پیاده‌سازی کرده است. این سیستم با تحلیل داده‌های سنسورها، پارامترهای عملیاتی را به طور خودکار تنظیم می‌کند تا ضایعات کاهش و کیفیت محصول نهایی افزایش یابد. این رویکرد نمونه‌ای موفق از کاربرد هوش مصنوعی در صنایع فرآیندی است.",
+      "category": "topic",
+      "published_at": "1403/07/27 17:45",
+      "collected_at": "1405/07/26 20:05",
+      "source": "Chemical Engineering Journal",
+      "source_url": "https://www.che.com/news/siemens-ai-chemical-process-optimization/",
+      "tags": [
+        "AI",
+        "Insights Hub",
+        "Process Industry",
+        "Optimization"
+      ]
+    },
+    {
+      "id": "ia-20241018-009",
+      "title": "رونمایی از کنترل‌کننده منطقی برنامه‌پذیر کوچک SIMATIC S7-1200 G2",
+      "summary": "زیمنس نسل دوم کنترل‌کننده‌های محبوب S7-1200 را با نام G2 معرفی کرد که دارای توان پردازشی بالاتر و حافظه بیشتر است. این سری جدید برای کاربردهای اتوماسیون کوچک تا متوسط طراحی شده و از پروتکل‌های ارتباطی پیشرفته مانند OPC UA و MQTT پشتیبانی می‌کند. این کنترل‌کننده به دلیل انعطاف‌پذیری بالا، گزینه‌ای ایده‌آل برای ماشین‌سازان و صنایع کوچک محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/27 19:00",
+      "collected_at": "1405/07/26 20:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/plc/news/21849305/siemens-s7-1200-g2",
+      "tags": [
+        "SIMATIC",
+        "S7-1200",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-010",
+      "title": "توسعه استانداردهای ارتباطی TSN برای سیستم‌های کنترل حرکت",
+      "summary": "زیمنس در همکاری با سایر تولیدکنندگان اتوماسیون، استانداردهای شبکه حساس به زمان (TSN) را برای بهبود ارتباطات در سیستم‌های کنترل حرکت توسعه داده است. این استانداردها امکان همگام‌سازی دقیق‌تر بین درایوها و کنترل‌کننده‌ها را فراهم می‌کنند. این فناوری برای خطوط تولید با سرعت بالا که نیاز به دقت میلی‌ثانیه‌ای دارند، یک ضرورت فنی محسوب می‌شود.",
+      "category": "research",
+      "published_at": "1403/07/27 20:00",
+      "collected_at": "1405/07/26 20:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iebmedia.com/news/tsn-standard-motion-control-siemens/",
+      "tags": [
+        "TSN",
+        "Motion Control",
+        "Networking",
+        "Automation"
       ]
     }
   ]
