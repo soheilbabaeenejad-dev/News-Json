@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 129,
+  "count": 139,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 11:01",
+  "updated_at": "1405/07/26 11:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2041,6 +2041,166 @@
         "دوقلوی دیجیتال",
         "دانشگاه",
         "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی کنترل‌کننده ایمنی جدید SIMATIC S7-1500F برای خطوط تولید رباتیک پیچیده",
+      "summary": "شرکت زیمنس از کنترل‌کننده ایمنی جدید خانواده SIMATIC S7-1500F رونمایی کرد که برای مدیریت خطوط تولید رباتیک پیچیده طراحی شده است. این پی‌ال‌سی پیشرفته با پردازش سریع‌تر سیگنال‌های ایمنی و ادغام کامل در محیط TIA Portal، زمان توقف اضطراری را به حداقل می‌رساند. این محصول به مهندسان اتوماسیون اجازه می‌دهد تا استانداردهای سخت‌گیرانه ایمنی ماشین‌آلات را با انعطاف‌پذیری بیشتری پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:15",
+      "collected_at": "1405/07/26 11:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/siemens-simatic-s7-1500f-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety PLC",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم Industrial Edge زیمنس با هوش مصنوعی لبه‌ای",
+      "summary": "زیمنس نسخه جدید بسته نرم‌افزاری Industrial Edge را با تمرکز بر پردازش هوش مصنوعی در لبه شبکه منتشر کرد. این قابلیت جدید به واحدهای صنعتی امکان می‌دهد الگوریتم‌های یادگیری ماشین را مستقیماً روی رایانه‌های صنعتی اجرا کرده و ناهنجاری‌های تجهیزات را پیش از خرابی شناسایی کنند. این راهکار باعث کاهش چشمگیر هزینه‌های تعمیر و نگهداری پیشگیرانه در کارخانه‌های هوشمند می‌شود.",
+      "category": "news",
+      "published_at": "1405/07/26 08:45",
+      "collected_at": "1405/07/26 11:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-industrial-edge-ai-update",
+      "tags": [
+        "Industrial Edge",
+        "Edge Computing",
+        "AI",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "به‌روزرسانی امنیتی سیستم کنترل صنعتی SIMATIC PCS 7 برای مقابله با تهدیدات سایبری جدید",
+      "summary": "تیم امنیت سایبری زیمنس پکیج امنیتی جدیدی را برای سامانه کنترل فرآیند SIMATIC PCS 7 عرضه کرد. این به‌روزرسانی حیاتی آسیب‌پذیری‌های کشف‌شده در پروتکل‌های ارتباطی صنعتی را برطرف کرده و لایه‌های دفاعی جدیدی را مبتنی بر استاندارد IEC 62443 اضافه می‌کند. اجرای این پچ امنیتی برای پالایشگاه‌ها و کارخانه‌های فرآیندی جهت حفاظت از زیرساخت‌های حیاتی ضروری است.",
+      "category": "regulation",
+      "published_at": "1405/07/26 09:10",
+      "collected_at": "1405/07/26 11:02",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-pcs7-security-update",
+      "tags": [
+        "Cybersecurity",
+        "SIMATIC PCS 7",
+        "IEC 62443",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "همکاری زیمنس و فستو برای استانداردسازی ارتباطات پنوماتیک هوشمند در اتوماسیون کارخانه‌ای",
+      "summary": "شرکت‌های زیمنس و فستو شراکت راهبردی جدیدی را برای یکپارچه‌سازی تجهیزات پنوماتیک با معماری اتوماسیون مبتنی بر پی‌ال‌سی‌های زیمنس آغاز کردند. این همکاری به توسعه ماژول‌های ارتباطی استاندارد بر پایه پروتکل PROFINET منجر می‌شود که امکان مانیتورینگ دقیق مصرف هوا و فشار را فراهم می‌کند. این رویکرد نقش مهمی در بهینه‌سازی مصرف انرژی و کاهش اتلاف در خطوط مونتاژ دارد.",
+      "category": "industry",
+      "published_at": "1405/07/26 09:30",
+      "collected_at": "1405/07/26 11:02",
+      "source": "IED - Industrial Ethernet",
+      "source_url": "https://www.industrialethernet.com/siemens-festo-partnership-profinet",
+      "tags": [
+        "PROFINET",
+        "Pneumatics",
+        "Energy Efficiency",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "رونمایی از سری جدید درایوهای فرکانس متغیر SINAMICS G120X با گواهینامه‌های حفاظتی پیشرفته",
+      "summary": "زیمنس نسل جدید درایوهای کنترل دور SINAMICS G120X را با بدنه‌ای مقاوم و استانداردهای حفاظتی بالا برای کاربردهای صنعت آب و فاضلاب معرفی کرد. این درایوهای کم‌مصرف مجهز به الگوریتم‌های پیشرفته کنترل موتور هستند که راندمان سیستم‌های پمپاژ را تا حد زیادی افزایش می‌دهند. نصب و راه‌اندازی این تجهیزات به لطف ابزارهای نرم‌افزاری جدید زیمنس به سرعت انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 09:55",
+      "collected_at": "1405/07/26 11:02",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sinamics-g120x-launch",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Water Industry",
+        "Energy Saving"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "گسترش کاربرد نرم‌افزار صوتی و تصویری WinCC Unified در اتاق‌های کنترل مجتمع‌های پتروشیمی",
+      "summary": "مجتمع‌های پتروشیمی بزرگ در اروپا استفاده از پلتفرم مانیتورینگ WinCC Unified زیمنس را برای نظارت بر فرآیندهای شیمیایی گسترش دادند. این نرم‌افزار مبتنی بر وب امکان دسترسی امن اپراتورها به اطلاعات حیاتی فرآیند را از طریق تبلت‌ها و نمایشگرهای صنعتی فراهم می‌کند. رابط کاربری مدرن و انعطاف‌پذیر این سیستم باعث کاهش خطاهای انسانی در شرایط اضطراری می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/26 10:12",
+      "collected_at": "1405/07/26 11:02",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-wincc-unified-petrochem",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "ارتقای سیستم‌های اتوماسیون انبار با استفاده از روبات‌های متحرک و کنترل‌کننده‌های SIMATIC",
+      "summary": "یک ارائه‌دهنده پیشرو لجستیک از راهکار جدید مبتنی بر پی‌ال‌سی‌های SIMATIC S7-1200 و ناوگان روبات‌های خودگردان (AMR) برای اتوماسیون انبارها رونمایی کرد. این سیستم با هماهنگی دقیق حرکت روبات‌ها و سیستم‌های انتقال مواد خطی، سرعت جابجایی کالا را افزایش می‌دهد. هماهنگی بی‌نقص تجهیزات سخت‌افزاری و نرم‌افزاری زیمنس کلید موفقیت این پروژه لجستیکی بوده است.",
+      "category": "industry",
+      "published_at": "1405/07/26 10:25",
+      "collected_at": "1405/07/26 11:02",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/siemens-simatic-amr-warehouse",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "SIMATIC S7-1200",
+        "Warehouse Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "بهبود قابلیت‌های مهندسی از راه دور با نسخه جدید پلتفرم ابری TIA Portal Cloud",
+      "summary": "زیمنس دسترسی به محیط مهندسی TIA Portal Cloud را برای تیم‌های توسعه اتوماسیون در سراسر جهان تسهیل کرد. این بستر ابری به برنامه‌نویسان امکان می‌دهد کدهای پی‌ال‌سی و پروژه‌های HMI را به صورت همزمان و بدون نیاز به نصب محلی نرم‌افزارهای سنگین ویرایش کنند. این قابلیت باعث افزایش بهره‌وری و تسهیل همکاری میان تیم‌های مهندسی توزیع‌شده می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 10:40",
+      "collected_at": "1405/07/26 11:02",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-tia-portal-cloud-update",
+      "tags": [
+        "TIA Portal Cloud",
+        "Engineering",
+        "Cloud Computing",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "توسعه روش‌های تست خودکار برای کدهای پی‌ال‌سی با ابزار SIMATIC AX در صنایع خودروسازی",
+      "summary": "یک خودروساز مطرح اروپایی با به‌کارگیری ابزار توسعه نرم‌افزاری SIMATIC AX زیمنس، فرآیند تست کدهای اتوماسیون را خودکارسازی کرد. این رویکرد که بر مبنای توسعه نرم‌افزاری چابک بنا شده، خطاها پیش از بارگذاری روی سخت‌افزار واقعی شناسایی و برطرف می‌شوند. این روش نوآورانه زمان راه‌اندازی خطوط تولید جدید را تا ۳۰ درصد کاهش داده است.",
+      "category": "research",
+      "published_at": "1405/07/26 10:50",
+      "collected_at": "1405/07/26 11:02",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-simatic-ax-testing",
+      "tags": [
+        "SIMATIC AX",
+        "Automotive",
+        "Software Testing",
+        "Agile Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "پایش لحظه‌ای مصرف انرژی کارخانه‌ها با ماژول جدید پلتفرم Siemens Xcelerator",
+      "summary": "زیمنس ماژول جدیدی را به اکوسیستم دیجیتال Siemens Xcelerator اضافه کرد که به واحدهای صنعتی کمک می‌کند ردپای کربن و مصرف انرژی خود را ردیابی کنند. این ابزار با اتصال به کنتورهای هوشمند و درایوهای صنعتی، داده‌های مصرف برق را به صورت لحظه‌ای تحلیل می‌کند. این راهکار به مدیران کارخانه‌ها کمک می‌کند تا اهداف پایداری و بهینه‌سازی انرژی را سریع‌تر محقق سازند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:00",
+      "collected_at": "1405/07/26 11:02",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-xcelerator-energy-management-module",
+      "tags": [
+        "Siemens Xcelerator",
+        "Energy Management",
+        "Sustainability",
+        "IoT"
       ]
     }
   ]
