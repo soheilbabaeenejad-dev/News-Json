@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 499,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/26 19:03",
+  "count": 509,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/26 19:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8009,6 +8009,166 @@
         "SIMATIC",
         "PLC",
         "Virtualization"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی سری جدید منبع تغذیه SIMATIC PM1500 زیمنس برای کارخانه‌های آینده",
+      "summary": "شرکت زیمنس از نسل جدید منابع تغذیه صنعتی SIMATIC PM1500 با راندمان بالا رونمایی کرد. این تجهیزات پایداری ولتاژ را در شبکه‌های پیچیده اتوماسیون تضمین کرده و از قابلیت عیب‌یابی هوشمند بهره می‌برند. این دستاورد نقش مهمی در کاهش توقفات ناخواسته خطوط تولید صنعتی ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 19:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-pm1500-launch",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Power Supply",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "به‌روزرسانی بست نرم‌افزاری SIMATIC STEP 7 برای مهندسی ماژولار",
+      "summary": "نسخه جدید نرم‌افزار مهندسی SIMATIC STEP 7 ابزارهای پیشرفته‌ای را برای توسعه ماژولار کدهای PLC ارائه می‌دهد. این نسخه سرعت کامپایل پروژه‌های بزرگ در محیط TIA Portal را به طور چشمگیری افزایش می‌دهد. مهندسان می‌توانند از کتابخانه‌های استاندارد جدید برای بهینه‌سازی ساختار برنامه‌ها استفاده کنند.",
+      "category": "news",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 19:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-step7-modular-update",
+      "tags": [
+        "TIA Portal",
+        "STEP 7",
+        "PLC",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "گسترش قابلیت‌های ارتباطی مودم صنعتی SCALANCE MUM853-1",
+      "summary": "زیمنس ماژول ارتباطی جدید SCALANCE MUM853-1 را برای اتصال امن تجهیزات از راه دور به شبکه معرفی کرد. این سخت‌افزار از پروتکل‌های رمزنگاری پیشرفته پشتیبانی کرده و امنیت تبادل داده را در زیرساخت‌های حیاتی تضمین می‌کند. این راهکار به مدیران سایت امکان پایش لحظه‌ای وضعیت تجهیزات را می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/26 19:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-scalance-mum853-release",
+      "tags": [
+        "SCALANCE",
+        "Industrial Networks",
+        "Cybersecurity",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "توسعه الگوریتم‌های پیش‌بینی خرابی در پلتفرم Insights Hub زیمنس",
+      "summary": "بخش نرم‌افزارهای صنعتی زیمنس قابلیت‌های جدید یادگیری ماشین را به پلتفرم Insights Hub اضافه کرد. این ابزارها با تحلیل داده‌های ارسالی از حسگرهای میدان، خرابی‌های احتمالی پمپ‌ها و موتورها را پیش‌بینی می‌کنند. صنایع مختلف می‌توانند هزینه‌های تعمیر و نگهداری اضطرابی را به حداقل برسانند.",
+      "category": "research",
+      "published_at": "1405/07/26 11:10",
+      "collected_at": "1405/07/26 19:05",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-ml-update",
+      "tags": [
+        "Insights Hub",
+        "Predictive Maintenance",
+        "Machine Learning",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "معرفی کنترل‌کننده دور موتور SINAMICS G120X با استانداردهای جدید بهینه‌سازی",
+      "summary": "نسخه بهینه‌شده اینورتر SINAMICS G120X زیمنس برای کاربردهای پمپ و فن در تاسیسات بزرگ عرضه شد. این درایو با کاهش تلفات انرژی، سهم بسزایی در کاهش مصرف برق در پروژه‌های صنعتی دارد. راه‌اندازی آسان و سازگاری با سیستم‌های کنترل مرکزی از مزایای کلیدی آن است.",
+      "category": "product",
+      "published_at": "1405/07/26 12:20",
+      "collected_at": "1405/07/26 19:05",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-sinamics-g120x-upgrade",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "یکپارچه‌سازی سیستم اسکادا SIMATIC WinCC OA با استانداردهای مدیریت انرژی",
+      "summary": "زیمنس نسخه تازه‌ای از پلتفرم SIMATIC WinCC Open Architecture را با تمرکز بر مدیریت کلان انرژی منتشر کرد. این نرم‌افزار امکان تج تجمیع داده‌های مصرف انرژی را در مقیاس‌های جغرافیایی وسیع فراهم می‌سازد. اپراتورها قادر خواهند بود بهینه‌سازی مصرف را به صورت خودکار اعمال نمایند.",
+      "category": "news",
+      "published_at": "1405/07/26 13:40",
+      "collected_at": "1405/07/26 19:05",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-wincc-oa-energy-update",
+      "tags": [
+        "WinCC OA",
+        "SCADA",
+        "Energy Management",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "گسترش کاربرد روبات‌های متحرک خودگردان با نرم‌افزار ناوبری زیمنس",
+      "summary": "سیستم مدیریت ناوگان SIMOVE زیمنس اکنون از طیف وسیع‌تری از روبات‌های متحرک در انبارهای خودکار پشتیبانی می‌کند. این نرم‌افزار مسیرهای حرکت را به صورت پویا بهینه‌سازی کرده و از ترافیک داخلی جلوگیری می‌نماید. شرکت‌های لجستیکی می‌توانند بهره‌وری زنجیره تامین خود را به شکل قابل توجهی ارتقا دهند.",
+      "category": "industry",
+      "published_at": "1405/07/26 14:50",
+      "collected_at": "1405/07/26 19:05",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/siemens-simove-fleet-expansion",
+      "tags": [
+        "SIMOVE",
+        "AMR",
+        "Robotics",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "عرضه ماژول امنیتی جدید برای تجهیزات توزیع برق در محیط Totally Integrated Power",
+      "summary": "زیمنس ماژول حفاظت دیجیتال جدیدی را برای تابلوهای فشار متوسط و ضعیف معرفی کرد که امنیت شبکه برق را افزایش می‌دهد. این تجهیزات قابلیت اتصال مستقیم به سیستم‌های اتوماسیون مبتنی بر SIMATIC را دارا هستند. تحلیل دقیق خطاهای شبکه به کاهش زمان قطعی برق کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 15:30",
+      "collected_at": "1405/07/26 19:05",
+      "source": "Electrical Construction & Maintenance",
+      "source_url": "https://www.ecmweb.com/siemens-power-distribution-module",
+      "tags": [
+        "Power Distribution",
+        "TIP",
+        "Grid Security",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای توسعه مدل‌های پیشرفته دوقلوی دیجیتال",
+      "summary": "یک پروژه پژوهشی مشترک میان زیمنس و دانشگاه فنی مونیخ برای ارتقای دقت مدل‌های دوقلوی دیجیتال آغاز شد. این تحقیق بر شبیه‌سازی همزمان رفتار مکانیکی و الکتریکی ماشین‌آلات پیچیده تمرکز دارد. نتایج این همکاری در نسخه‌های آتی ابزارهای مهندسی Xcelerator به کار گرفته خواهد شد.",
+      "category": "research",
+      "published_at": "1405/07/26 16:45",
+      "collected_at": "1405/07/26 19:05",
+      "source": "Industrial Digitalisation",
+      "source_url": "https://www.industrialdigitalisation.com/siemens-tum-digital-twin",
+      "tags": [
+        "Digital Twin",
+        "Xcelerator",
+        "Research",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "ارتقای قابلیت‌های پردازش ابری در پایانه اپراتوری SIMATIC HMI Comfort Pro",
+      "summary": "زیمنس سیستم‌عامل پنل‌های اپراتوری SIMATIC HMI Comfort Pro را با قابلیت‌های اتصال امن ابری به‌روزرسانی کرد. این ارتقا به اپراتورها اجازه می‌دهد تا گزارش‌های تولید را مستقیماً بر روی بسترهای ابری ذخیره و تحلیل کنند. این رویکرد شفافیت داده‌ها را در طبقه تولید به حداکثر می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/26 18:00",
+      "collected_at": "1405/07/26 19:05",
+      "source": "Control Engineering Europe",
+      "source_url": "https://www.controleng.com/siemens-simatic-hmi-comfort-update",
+      "tags": [
+        "SIMATIC HMI",
+        "Comfort Panel",
+        "Cloud Integration",
+        "HMI"
       ]
     }
   ]
