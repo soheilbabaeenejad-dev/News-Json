@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 365,
-  "provider": "Gemini/gemini-3.8-flash",
-  "updated_at": "1405/07/26 17:00",
+  "count": 375,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/26 17:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5843,6 +5843,176 @@
         "DCS",
         "کنترل فرآیند",
         "ابزار دقیق"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی نسل جدید ماژول‌های ورودی و خروجی ایمن در سری SIMATIC ET 200SP زیمنس",
+      "summary": "شرکت زیمنس از ماژول‌های ایمنی جدید و پیشرفته در خانواده SIMATIC ET 200SP رونمایی کرد که استانداردهای حفاظتی بالاتری را در خطوط تولید پیاده‌سازی می‌کنند. این تجهیزات جدید با کاهش قابل توجه فضا و سیم‌کشی تابلوهای برق، ایمنی اپراتورها و تجهیزات را به حداکثر می‌رسانند. این توسعه نقش مهمی در تسریع پیاده‌سازی معماری‌های ایمنی یکپارچه در اتوماسیون کارخانه‌ها ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 17:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-et200sp-safety",
+      "tags": [
+        "Siemens",
+        "SIMATIC ET 200SP",
+        "Safety",
+        "PLC",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "توسعه ابزارهای برنامه‌نویسی شی‌گرا در محیط TIA Portal V19 برای مهندسی نرم‌افزار PLC",
+      "summary": "زیمنس قابلیت‌های پیشرفته‌ای را برای مهندسی نرم‌افزار در بستر TIA Portal V19 ارائه داده است که تمرکز ویژه‌ای بر برنامه‌نویسی شی‌گرا دارند. این قابلیت‌ها به مهندسان اتوماسیون اجازه می‌دهد تا کدهای پیچیده کنترل را با ماژولار بودن بیشتری توسعه دهند و زمان تست را کاهش دهند. این به‌روزرسانی گامی بزرگ در جهت همگام‌سازی اتوماسیون صنعتی با اصول مدرن مهندسی نرم‌افزار است.",
+      "category": "news",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 17:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-tia-portal-v19-oop",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Software Engineering",
+        "PLC",
+        "Programming"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "بهره‌گیری از قابلیت‌های پردازش ابری در سیستم SCADA جدید زیمنس WinCC Unified V19",
+      "summary": "نسخه جدید سیستم اسکادای زیمنس موسوم به WinCC Unified V19 با امکانات گسترده‌تری برای اتصال به بسترهای ابری و لبه‌ای عرضه شده است. این سیستم مانیتورینگ به مدیران کارخانه‌ها اجازه می‌دهد تا داده‌های تولیدی را با امنیت بالا در فضای ابری تحلیل و پایش کنند. استفاده از این فناوری بستر مناسبی را برای بهینه‌سازی مصرف انرژی و افزایش بهره‌وری کلی فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/26 17:02",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-wincc-unified-v19-cloud",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "Cloud Computing",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "گسترش راهکارهای رباتیک صنعتی با اتصال مستقیم کنترل‌کننده‌های زیمنس به بازوهای KUKA",
+      "summary": "زیمنس با توسعه درایورهای ارتباطی جدید، امکان کنترل دقیق بازوهای رباتیک KUKA را مستقیماً از طریق کنترل‌کننده‌های حرکتی SIMATIC فراهم کرد. اینپارچه‌سازی سخت‌افزاری و نرم‌افزاری موجب کاهش تاخیرهای ارتباطی و بهبود هماهنگی میان خطوط انتقال و ربات‌ها می‌شود. این همکاری استراتژیک انعطاف‌پذیری سلول‌های مونتاژ خودکار را به شکل چشمگیری افزایش می‌دهد.",
+      "category": "match",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 17:02",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-kuka-integration",
+      "tags": [
+        "Siemens",
+        "KUKA",
+        "Robotics",
+        "Motion Control",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "معرفی سوئیچ‌های صنعتی مدیریت‌شده SCALANCE X برای شبکه‌های پرسرعت TSN",
+      "summary": "سری جدید سوئیچ‌های صنعتی SCALANCE X زیمنس با پشتیبانی کامل از فناوری شبکه زمان‌بندی‌شده حساس یا همان TSN به بازار عرضه شدند. این تجهیزات شبکه‌ای تضمین می‌کنند که تبادل داده‌های بلادرنگ در خطوط تولید بزرگ بدون هیچ‌گونه افت بسته اطلاعاتی انجام شود. استفاده از این سوئیچ‌ها زیرساخت ارتباطی لازم برای کارخانه‌های کاملاً دیجیتال و مبتنی بر اترنت صنعتی را مهیا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:30",
+      "collected_at": "1405/07/26 17:02",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-scalance-x-tsn-switches",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "TSN",
+        "Industrial Ethernet",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS 7 با افزونگی سخت‌افزاری پیشرفته برای صنایع شیمیایی",
+      "summary": "زیمنس آخرین به‌روزرسانی سیستم کنترل توزیع‌شده SIMATIC PCS 7 را با تمرکز بر پایداری حداکثری و افزونگی سخت‌افزاری معرفی کرد. این نسخه جدید به پالایشگاه‌ها و صنایع فرآیندی کمک می‌کند تا از توقف‌های ناخواسته جلوگیری کرده و ایمنی عملیاتی را ارتقا دهند. این راهکار نقش کلیدی در مدیریت پیچیدگی‌های فرآیندهای مداوم شیمیایی و پتروشیمی دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 12:15",
+      "collected_at": "1405/07/26 17:02",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-simatic-pcs7-upgrade",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control",
+        "Chemical Industry"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "توسعه پلتفرم MindSphere برای تحلیل پیش‌بینانه پمپ‌ها و کمپرسورهای صنعتی",
+      "summary": "بخش خدمات دیجیتال زیمنس ماژول‌های جدیدی را به پلتفرم اینترنت اشیاء صنعتی Insights Hub برای پایش سلامت تجهیزات دوار اضافه نمود. این ابزارها با تحلیل داده‌های ارسالی از حسگرهای لرزشی و دمایی، خرابی‌های احتمالی پمپ‌ها را پیش از وقوع هشدار می‌دهند. این فناوری نوین هزینه‌های نگهداری اضطرابی را در کارخانه‌های بزرگ به شدت کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/26 13:00",
+      "collected_at": "1405/07/26 17:02",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-mindsphere-rotating-equipment",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "MindSphere",
+        "Predictive Maintenance",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "عرضه درایوهای کم‌صدا و پرقدرت SINAMICS G120X با استانداردهای جدید بهره‌وری انرژی",
+      "summary": "نسخه بهینه‌شده درایوهای فرکانس متغیر SINAMICS G120X زیمنس با قابلیت کنترل هوشمند موتورهای پمپ و فن روانه بازار شد. این اینورترها با به حداقل رساندن تلفات الکتریکی، سهم بسزایی در کاهش مصرف انرژی در سیستم‌های تهویه مطبوع صنعتی دارند. این محصول دارای گواهینامه‌های بین‌المللی سبز بوده و با اکوسیستم Siemens Xcelerator سازگاری کامل دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 13:45",
+      "collected_at": "1405/07/26 17:02",
+      "source": "World Pumps",
+      "source_url": "https://www.worldpumps.com/siemens-sinamics-g120x-energy-efficiency",
+      "tags": [
+        "Siemens",
+        "SINAMICS G120X",
+        "Drives",
+        "Energy Efficiency",
+        "Inverter"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "استفاده از هوش مصنوعی مولد در راهکارهای مهندسی برق کارخانه‌ها توسط زیمنس",
+      "summary": "زیمنس از ابزار مبتنی بر هوش مصنوعی مولد برای خودکارسازی طراحی تابلوهای برق و نقشه‌های الکتریکی در محیط TIA Portal خبر داد. این ابزار به مهندسان کمک می‌کند تا طرح‌های پیشنهادی بهینه‌تر را در کسری از زمان تهیه و اعتبارسنجی کنند. این نوآوری گام بلندی در جهت کاهش زمان مهندسی و خطاهای انسانی در پروژه‌های اتوماسیون است.",
+      "category": "research",
+      "published_at": "1405/07/26 14:30",
+      "collected_at": "1405/07/26 17:02",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/siemens-generative-ai-electrical-engineering",
+      "tags": [
+        "Siemens",
+        "Generative AI",
+        "TIA Portal",
+        "Engineering",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "راه‌اندازی خط تولید کاملاً خودکار باتری خودروهای برقی با تجهیزات کامل اتوماسیون زیمنس",
+      "summary": "یک خودروساز بزرگ اروپایی خط جدید تولید سلول باتری خود را بر پایه راهکارهای جامع دیجیتال‌سازی و اتوماسیون زیمنس راهاندازی کرد. این خط تولید از نرم‌افزار دوقلوی دیجیتال برای شبیه‌سازی کامل فرآیند پیش از ساخت فیزیکی بهره برده است. این پروژه نمونه بارزی از توانمندی‌های پلتفرم Xcelerator در تسریع ساخت کارخانه‌های پایدار است.",
+      "category": "industry",
+      "published_at": "1405/07/26 15:15",
+      "collected_at": "1405/07/26 17:02",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-ev-battery-plant",
+      "tags": [
+        "Siemens",
+        "EV Battery",
+        "Digital Twin",
+        "Xcelerator",
+        "Smart Factory"
       ]
     }
   ]
