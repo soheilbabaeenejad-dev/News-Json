@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 526,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 20:00",
+  "count": 536,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/26 20:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8441,6 +8441,166 @@
         "TIA Portal",
         "Automation",
         "PLC Integration"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی ماژول‌های ورودی/خروجی جدید سری SIMATIC ET 200SP با قابلیت ارتباطی پیشرفته",
+      "summary": "زیمنس از نسل جدید ماژول‌های ورودی/خروجی سری SIMATIC ET 200SP رونمایی کرد که برای محیط‌های صنعتی با تراکم بالا طراحی شده‌اند. این ماژول‌ها با پشتیبانی از پروتکل‌های ارتباطی سریع‌تر، امکان تبادل داده‌های بلادرنگ را در سیستم‌های اتوماسیون فراهم می‌کنند. این ارتقا به مهندسان کمک می‌کند تا زمان پاسخ‌دهی سیستم‌های کنترل را در خطوط تولید پرسرعت به طور قابل توجهی کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 20:02",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-et200sp.html",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "IO",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم Insights Hub با ابزارهای هوش مصنوعی",
+      "summary": "شرکت زیمنس قابلیت‌های جدیدی را به پلتفرم ابری Insights Hub اضافه کرده است که تحلیل داده‌های صنعتی را با استفاده از الگوریتم‌های هوش مصنوعی تسهیل می‌کند. این ابزارها به کاربران اجازه می‌دهند تا الگوهای خرابی تجهیزات را پیش از وقوع شناسایی کنند. با این توسعه، مدیریت دارایی‌های فیزیکی در کارخانه‌های بزرگ به شکلی هوشمندتر و با دقت پیش‌بینی بالاتر انجام خواهد شد.",
+      "category": "industry",
+      "published_at": "1405/07/26 10:30",
+      "collected_at": "1405/07/26 20:02",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.siemens.com/insights-hub-updates",
+      "tags": [
+        "Insights Hub",
+        "AI",
+        "Cloud",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "رونمایی از سوئیچ‌های صنعتی SCALANCE XC-200 با استاندارد امنیتی جدید",
+      "summary": "زیمنس سوئیچ‌های شبکه صنعتی سری SCALANCE XC-200 را با تمرکز بر امنیت سایبری سخت‌گیرانه به‌روزرسانی کرد. این تجهیزات اکنون از استانداردهای IEC 62443 به صورت بومی پشتیبانی می‌کنند تا در برابر حملات نفوذی در شبکه‌های OT مقاوم باشند. این محصول برای زیرساخت‌های حیاتی که نیاز به پایداری شبکه در شرایط سخت محیطی دارند، گزینه‌ای ایده‌آل محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 11:45",
+      "collected_at": "1405/07/26 20:02",
+      "source": "Automation World",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industrial-communication/industrial-ethernet/scalance-x-industrial-ethernet-switches.html",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای بهینه‌سازی مصرف انرژی در رباتیک",
+      "summary": "زیمنس در همکاری جدید با خودروسازان اروپایی، راهکارهای مدیریت انرژی را برای بازوهای رباتیک صنعتی پیاده‌سازی کرده است. این سیستم‌ها با تحلیل دقیق مصرف برق در هر سیکل کاری، میزان اتلاف انرژی را تا ۱۵ درصد کاهش می‌دهند. این پروژه بخشی از استراتژی گسترده‌تر زیمنس برای دستیابی به تولید سبز و کاهش ردپای کربن در صنایع سنگین است.",
+      "category": "industry",
+      "published_at": "1405/07/26 12:20",
+      "collected_at": "1405/07/26 20:02",
+      "source": "Manufacturing Today",
+      "source_url": "https://www.siemens.com/sustainability-robotics",
+      "tags": [
+        "Robotics",
+        "Energy Efficiency",
+        "Automotive",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "ارتقای نرم‌افزار SIMATIC WinCC Unified برای پشتیبانی از نمایشگرهای لمسی بزرگ",
+      "summary": "نسخه جدید نرم‌افزار WinCC Unified زیمنس اکنون بهینه‌سازی‌های گسترده‌ای برای اجرا بر روی پنل‌های لمسی با ابعاد بزرگ دریافت کرده است. این رابط کاربری جدید امکان مانیتورینگ همزمان چندین فرآیند پیچیده را با گرافیک برداری فراهم می‌کند. این به‌روزرسانی باعث بهبود تجربه کاربری اپراتورها در اتاق‌های کنترل مرکزی و کاهش خطاهای انسانی در مدیریت سیستم‌های اسکادا می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 13:10",
+      "collected_at": "1405/07/26 20:02",
+      "source": "Control Engineering",
+      "source_url": "https://new.siemens.com/global/en/products/automation/simatic-hmi/wincc-unified.html",
+      "tags": [
+        "WinCC",
+        "HMI",
+        "SCADA",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "معرفی درایوهای فرکانس متغیر SINAMICS G120X با قابلیت اتصال به شبکه",
+      "summary": "زیمنس درایوهای SINAMICS G120X را برای کاربردهای پمپاژ و تهویه مطبوع در ساختمان‌های هوشمند ارتقا داد. این درایوها اکنون دارای ماژول‌های ارتباطی داخلی برای اتصال مستقیم به سیستم‌های مدیریت ساختمان هستند. این قابلیت باعث می‌شود تا کنترل جریان سیالات با دقت بسیار بالاتری انجام شده و هزینه‌های عملیاتی در پروژه‌های زیرساختی به شکل محسوسی کاهش یابد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:05",
+      "collected_at": "1405/07/26 20:02",
+      "source": "Electrical Review",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics/g120x.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Building Automation",
+        "HVAC"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "گسترش استفاده از دوقلوهای دیجیتال در طراحی خطوط تولید مواد غذایی",
+      "summary": "استفاده از پلتفرم Xcelerator زیمنس برای شبیه‌سازی خطوط تولید مواد غذایی به سرعت در حال افزایش است. دوقلوهای دیجیتال به تولیدکنندگان اجازه می‌دهند تا تغییرات در فرمولاسیون یا بسته‌بندی را پیش از پیاده‌سازی فیزیکی تست کنند. این رویکرد ریسک‌های عملیاتی را کاهش داده و سرعت ورود محصولات جدید به بازار را برای صنایع غذایی به طور چشمگیری افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/26 15:30",
+      "collected_at": "1405/07/26 20:02",
+      "source": "Food Processing Tech",
+      "source_url": "https://www.siemens.com/xcelerator-food-beverage",
+      "tags": [
+        "Digital Twin",
+        "Xcelerator",
+        "Food Industry",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "انتشار راهنمای جدید امنیت سایبری برای سیستم‌های کنترل فرآیند زیمنس",
+      "summary": "زیمنس یک راهنمای جامع برای ایمن‌سازی سیستم‌های کنترل فرآیند (DCS) در برابر تهدیدات سایبری مدرن منتشر کرد. این مستندات شامل دستورالعمل‌های گام‌به‌گام برای پیکربندی فایروال‌ها و مدیریت دسترسی کاربران در محیط‌های صنعتی است. هدف از این اقدام، افزایش آگاهی تیم‌های فنی در برابر حملات باج‌افزاری است که زیرساخت‌های تولیدی را هدف قرار می‌دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/26 16:45",
+      "collected_at": "1405/07/26 20:02",
+      "source": "Cybersecurity Daily",
+      "source_url": "https://cert-portal.siemens.com/security-guidelines",
+      "tags": [
+        "Cybersecurity",
+        "DCS",
+        "Safety",
+        "Compliance"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "رونمایی از سیستم مدیریت ناوگان رباتیک هوشمند برای انبارهای لجستیکی",
+      "summary": "زیمنس سیستم مدیریت ناوگان جدیدی را معرفی کرده که با استفاده از الگوریتم‌های مسیریابی هوشمند، حرکت ربات‌های متحرک خودگردان (AMR) را در انبارها بهینه می‌کند. این سیستم با پلتفرم Industrial Edge یکپارچه شده و امکان مدیریت بلادرنگ ترافیک ربات‌ها را فراهم می‌سازد. این فناوری باعث افزایش بهره‌وری در مراکز توزیع و کاهش تداخلات حرکتی در محیط‌های کاری شلوغ می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 17:50",
+      "collected_at": "1405/07/26 20:02",
+      "source": "Logistics Automation",
+      "source_url": "https://new.siemens.com/global/en/products/automation/robotics/amr-management.html",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "Industrial Edge",
+        "Fleet Management"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "توسعه ابزارهای برنامه‌نویسی مبتنی بر متن در محیط TIA Portal",
+      "summary": "زیمنس قابلیت‌های جدیدی را برای برنامه‌نویسی متنی در TIA Portal اضافه کرده است تا توسعه‌دهندگان بتوانند کدهای پیچیده را با انعطاف بیشتری مدیریت کنند. این ابزارها با استاندارد IEC 61131-3 سازگاری کامل دارند و امکان استفاده از کتابخانه‌های متن‌باز را فراهم می‌کنند. این تغییر گامی بزرگ برای جذب برنامه‌نویسان نرم‌افزار به حوزه اتوماسیون صنعتی و توسعه سیستم‌های هوشمند است.",
+      "category": "product",
+      "published_at": "1405/07/26 19:10",
+      "collected_at": "1405/07/26 20:02",
+      "source": "Software Engineering Today",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry-software/tia-portal.html",
+      "tags": [
+        "TIA Portal",
+        "Programming",
+        "Automation",
+        "Software"
       ]
     }
   ]
