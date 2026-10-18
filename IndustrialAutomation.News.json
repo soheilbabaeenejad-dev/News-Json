@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 179,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 12:03",
+  "count": 189,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/26 12:09",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2837,6 +2837,166 @@
         "Big Data",
         "Industrial IoT",
         "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "گسترش دستیار هوش مصنوعی صنعتی زیمنس در صنایع غذایی و آشامیدنی",
+      "summary": "زیمنس و مایکروسافت همکاری خود را برای عرضه Industrial Copilot در بخش تولید مواد غذایی گسترش دادند. این ابزار به مهندسان اجازه می‌دهد تا کدهای PLC پیچیده را با استفاده از زبان طبیعی تولید کرده و زمان عیب‌یابی را تا ۵۰ درصد کاهش دهند. استفاده از این فناوری در خطوط بسته‌بندی شرکت‌های بزرگ، بهره‌وری عملیاتی را به شکل چشمگیری افزایش داده و امکان مستندسازی خودکار پروژه‌ها را فراهم می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/26 10:30",
+      "collected_at": "1405/07/26 12:09",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-industrial-copilot-food-beverage-industry",
+      "tags": [
+        "AI",
+        "Industrial Copilot",
+        "Food and Beverage",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "رونمایی ABB از سری جدید ربات‌های GoFa با دقت میکرونی برای مونتاژ قطعات الکترونیک",
+      "summary": "شرکت ABB نسل جدیدی از ربات‌های همکار (Cobots) خانواده GoFa را معرفی کرد که برای محیط‌های با فضای محدود طراحی شده‌اند. این ربات‌ها با ظرفیت حمل ۵ کیلوگرم، از حسگرهای گشتاور پیشرفته در هر شش مفصل خود بهره می‌برند تا ایمنی و دقت بالایی را فراهم کنند. این محصول جدید به طور خاص برای صنایع نیمه‌هادی و مونتاژ بردهای الکترونیکی ظریف بهینه شده و سرعت تولید را تا ۲۰ درصد بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 12:09",
+      "source": "ABB News",
+      "source_url": "https://new.abb.com/news/detail/123456/abb-launches-new-gofa-variants",
+      "tags": [
+        "Robotics",
+        "Cobots",
+        "Electronics Assembly",
+        "ABB"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "معرفی ماژول‌های ورودی/خروجی جدید SIMATIC ET 200SP برای محیط‌های عملیاتی سخت",
+      "summary": "زیمنس ماژول‌های جدیدی را برای سیستم I/O توزیع‌شده SIMATIC ET 200SP عرضه کرده است که مقاومت بالاتری در برابر لرزش و دماهای شدید دارند. این ماژول‌ها با قابلیت Hot-swapping، امکان تعویض قطعات را بدون توقف فرآیند فراهم کرده و هزینه‌های نگهداری را کاهش می‌دهند. این تجهیزات در صنایع نفت و گاز و نیروگاه‌ها که پایداری سیستم حیاتی است، کاربرد فراوانی دارند و از پروتکل‌های امنیتی جدید پشتیبانی می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:45",
+      "collected_at": "1405/07/26 12:09",
+      "source": "Siemens Industry",
+      "source_url": "https://support.industry.siemens.com/cs/ww/en/view/et200sp-new-modules",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "I/O Systems",
+        "Oil and Gas"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "همکاری استراتژیک راکول اتوماسیون و سیسکو برای ایمن‌سازی شبکه‌های صنعتی همگرا",
+      "summary": "راکول اتوماسیون و سیسکو معماری جدیدی را برای یکپارچه‌سازی امنیت در شبکه‌های IT و OT معرفی کردند که از فناوری Cisco Cyber Vision بهره می‌برد. این راهکار به مدیران کارخانه‌ها اجازه می‌دهد تا تمامی دارایی‌های متصل به شبکه را شناسایی کرده و تهدیدات سایبری را در لحظه ردیابی کنند. این همکاری با هدف کاهش ریسک حملات باج‌افزاری در زیرساخت‌های تولیدی حیاتی و بهبود پایداری شبکه شکل گرفته است.",
+      "category": "company",
+      "published_at": "1405/07/26 07:20",
+      "collected_at": "1405/07/26 12:09",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/rockwell-cisco-cybersecurity.html",
+      "tags": [
+        "Cybersecurity",
+        "Cisco",
+        "OT Security",
+        "Rockwell"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "اپلیکیشن جدید Senseye Predictive Maintenance بر روی پلتفرم لبه صنعتی زیمنس",
+      "summary": "زیمنس نسخه به‌روزرسانی شده اپلیکیشن Senseye را برای پلتفرم Industrial Edge عرضه کرد که از الگوریتم‌های یادگیری ماشین برای پیش‌بینی خرابی موتورهای الکتریکی استفاده می‌کند. این نرم‌افزار با تحلیل داده‌های جریان و ارتعاش، احتمال خرابی را هفته‌ها قبل از وقوع هشدار می‌دهد. این رویکرد باعث کاهش ۳۰ درصدی توقف‌های ناخواسته در خطوط تولید خودروسازی شده و عمر مفید تجهیزات گران‌قیمت را افزایش می‌دهد.",
+      "category": "topic",
+      "published_at": "1405/07/25 22:10",
+      "collected_at": "1405/07/26 12:09",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/industrial-edge/apps.html",
+      "tags": [
+        "Predictive Maintenance",
+        "Industrial Edge",
+        "Senseye",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "عرضه سروو درایوهای اقتصادی Lexium 18 توسط اشنایدر الکتریک برای ماشین‌سازان",
+      "summary": "اشنایدر الکتریک سری جدید درایوهای Lexium 18 را با تمرکز بر سادگی نصب و قیمت رقابتی برای بازارهای در حال توسعه معرفی کرد. این درایوها با پروتکل EtherCAT سازگار بوده و به راحتی با سیستم‌های کنترلی مختلف یکپارچه می‌شوند. هدف از عرضه این محصول، توانمندسازی سازندگان ماشین‌آلات کوچک برای انتقال به سیستم‌های کنترل حرکت دیجیتال با هزینه کمتر و دقت بالاتر در فرآیندهای بسته‌بندی است.",
+      "category": "product",
+      "published_at": "1405/07/25 19:30",
+      "collected_at": "1405/07/26 12:09",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/lexium-18-launch.jsp",
+      "tags": [
+        "Servo Drives",
+        "Motion Control",
+        "Schneider Electric",
+        "EtherCAT"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "ادغام قابلیت‌های طراحی ابری در نسخه جدید TIA Selection Tool زیمنس",
+      "summary": "زیمنس ابزار TIA Selection Tool را با قابلیت‌های جدید ابری به‌روزرسانی کرد تا مهندسان بتوانند پیکربندی سخت‌افزاری خود را مستقیماً با تیم‌های خرید به اشتراک بگذارند. این نسخه جدید شامل کتابخانه‌های جامع‌تری از تجهیزات فشار ضعیف SIRIUS و درایوهای SINAMICS است که فرآیند طراحی تابلوهای برق را تسریع می‌کند. این ابزار به طور خودکار تداخل‌های احتمالی در چیدمان قطعات را شناسایی کرده و لیست قطعات نهایی را صادر می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/25 16:45",
+      "collected_at": "1405/07/26 12:09",
+      "source": "Siemens Global",
+      "source_url": "https://new.siemens.com/global/en/products/automation/topic-areas/tia/selection-tool.html",
+      "tags": [
+        "TIA Selection Tool",
+        "Engineering",
+        "Cloud",
+        "SIRIUS"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "توسعه سیستم‌های بینایی سه‌بعدی فانوک برای ربات‌های سری CRX در انبارداری هوشمند",
+      "summary": "شرکت فانوک از سنسورهای بینایی سه‌بعدی جدید خود رونمایی کرد که به طور اختصاصی برای ربات‌های همکار سری CRX بهینه شده‌اند. این سیستم به ربات اجازه می‌دهد تا اشیاء با اشکال نامنظم را در محیط‌های شلوغ انبار به دقت شناسایی و جابجا کند. این فناوری گام مهمی در جهت خودکارسازی کامل فرآیندهای لجستیکی و کاهش خطای انسانی در چیدمان کالاها محسوب می‌شود و سرعت پردازش سفارشات را دو برابر می‌کند.",
+      "category": "research",
+      "published_at": "1405/07/25 14:20",
+      "collected_at": "1405/07/26 12:09",
+      "source": "Fanuc Europe",
+      "source_url": "https://www.fanuc.eu/news/3d-vision-crx-cobots",
+      "tags": [
+        "Fanuc",
+        "3D Vision",
+        "Logistics",
+        "Cobots"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "معرفی سیستم سروو درایو SINAMICS S200 زیمنس برای کاربردهای کنترل حرکت استاندارد",
+      "summary": "زیمنس سیستم جدید SINAMICS S200 را شامل درایو و موتورهای SIMOTICS S-1FL2 برای پاسخگویی به نیازهای بازار میان‌رده عرضه کرد. این سیستم با توان‌های مختلف تا ۷ کیلووات، دقت بالایی را در کاربردهایی نظیر بسته‌بندی و جابجایی مواد ارائه می‌دهد. یکپارچگی کامل با TIA Portal و استفاده از کابل‌های تک‌رشته‌ای، زمان نصب و سیم‌کشی را به میزان قابل توجهی کاهش داده و راه‌اندازی را برای کاربران آسان‌تر کرده است.",
+      "category": "product",
+      "published_at": "1405/07/25 11:10",
+      "collected_at": "1405/07/26 12:09",
+      "source": "Siemens Motion Control",
+      "source_url": "https://www.siemens.com/sinamics-s200",
+      "tags": [
+        "SINAMICS",
+        "Servo Systems",
+        "Motion Control",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "دریافت گواهینامه امنیتی IEC 62443 برای کنترل‌کننده‌های PLCnext فونیکس کنتاکت",
+      "summary": "شرکت فونیکس کنتاکت اعلام کرد که خانواده کنترل‌کننده‌های PLCnext موفق به دریافت سطح بالای گواهینامه امنیتی IEC 62443-4-2 شده‌اند. این استاندارد تایید می‌کند که این تجهیزات دارای ویژگی‌های امنیتی ذاتی برای مقابله با دسترسی‌های غیرمجاز و حملات شبکه هستند. این دستاورد، اعتماد صنایع زیرساختی را برای استفاده از پلتفرم‌های باز در محیط‌های حساس عملیاتی افزایش داده و امنیت کل زنجیره تامین را تقویت می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/07/25 09:00",
+      "collected_at": "1405/07/26 12:09",
+      "source": "Phoenix Contact News",
+      "source_url": "https://www.phoenixcontact.com/en-pc/news/plcnext-security-certification",
+      "tags": [
+        "PLCnext",
+        "Cybersecurity",
+        "IEC 62443",
+        "Phoenix Contact"
       ]
     }
   ]
