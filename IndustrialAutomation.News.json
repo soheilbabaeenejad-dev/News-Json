@@ -4,8 +4,8 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 433,
-  "provider": "Gemini/gemini-3.1-flash-lite",
+  "count": 443,
+  "provider": "Gemini/gemini-3.5-flash-lite",
   "updated_at": "1405/07/26 18:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
@@ -6932,6 +6932,176 @@
         "هوش مصنوعی",
         "TIA Portal",
         "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی کنترل‌کننده ایمنی پیشرفته SIMATIC S7-1500F جدید با قابلیت‌های تشخیصی هوشمند",
+      "summary": "شرکت زیمنس از نسخه جدید کنترل‌کننده‌های ایمنی SIMATIC S7-1500F با امکانات تشخیصی پیشرفته رونمایی کرد. این پردازنده صنعتی با هدف افزایش ضریب امنیت در خطوط تولید پیچیده و کاهش زمان توقف اضطراری طراحی شده است. این محصول جدید به مهندسان کمک می‌کند تا استانداردهای سخت‌گیرانه ایمنی ماشین‌آلات را با,دقت بالاتری در بستر TIA Portal پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:15",
+      "collected_at": "1405/07/26 18:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/simatic-s7-1500f-advanced",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety",
+        "TIA Portal",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "توسعه قابلیت‌های مانیتورینگ ابری در پلتفرم Insights Hub زیمنس برای تحلیل داده‌های انرژی",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم ابری Insights Hub خود اضافه کرد که به صنایع امکان پایش لحظه‌ای و بهینه‌سازی مصرف انرژی را می‌دهد. این ابزار تحلیلی با پردازش داده‌های مصرفی تجهیزات سنگین، نقاط اتلاف انرژی را شناسایی می‌کند. این راهکار نقش مهمی در کمک به واحدهای صنعتی برای دستیابی به اهداف پایداری و کاهش هزینه‌های عملیاتی دارد.",
+      "category": "industry",
+      "published_at": "1405/07/26 11:30",
+      "collected_at": "1405/07/26 18:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/insights-hub-energy-update",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Energy Management",
+        "Siemens",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "ارتقای سیستم اسکادا SIMATIC WinCC Unified با ابزارهای گزارش‌گیری خودکار تحت وب",
+      "summary": "زیمنس به‌روزرسانی جدیدی برای نرم‌افزار مانیتورینگ SIMATIC WinCC Unified منتشر کرد که قابلیت‌های گزارش‌گیری تحت وب را به‌طور چشمگیری بهبود می‌بخشد. این نسخه جدید به اپراتورها اجازه می‌دهد بدون نیاز به نصب نرم‌افزارهای جانبی، به تحلیل داده‌های فرایندی در هر مرورگری دسترسی داشته باشند. این ویژگی انعطاف‌پذیری نظارت بر خطوط تولید را در معماری‌های مدرن اتوماسیون افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 12:05",
+      "collected_at": "1405/07/26 18:01",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.ia-asia.com/wincc-unified-web-reports",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens",
+        "Web-based"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "همکاری زیمنس و فستو برای استانداردسازی ارتباطات پنوماتیک هوشمند در اتوماسیون کارخانه‌ها",
+      "summary": "شرکت‌های زیمنس و فستو توافق‌نامه همکاری جدیدی برای یکپارچه‌سازی تجهیزات پنوماتیک با شبکه‌های صنعتی مبتنی بر پروتکل PROFINET امضا کردند. این پروژه‌های مشترک به طراحان ماشین‌آلات اجازه می‌دهد تا بلوک‌های شیر برقی را به‌صورت مستقیم و با کمترین سیم‌کشی به کنترل‌کننده‌های SIMATIC متصل کنند. این رویکرد نوآورانه زمان راه‌اندازی سیستم‌های مکانیکی را به‌طور قابل‌توجهی کاهش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/26 13:20",
+      "collected_at": "1405/07/26 18:01",
+      "source": "IEB Media",
+      "source_url": "https://www.iebmedia.com/siemens-festo-pumping-automation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "PROFINET",
+        "Pneumatics",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "عرضه ماژول پردازش لبه‌ای جدید Industrial Edge برای تحلیل ارتعاشات تجهیزات دوار",
+      "summary": "زیمنس از ماژول سخت‌افزاری جدیدی تحت پلتفرم Industrial Edge رونمایی کرد که به طور تخصصی برای تحلیل ارتعاشات و پایش وضعیت الکتروموتورها کاربرد دارد. این دستگاه با نمونه‌برداری سریع از داده‌های حسگرها، ناهنجاری‌های مکانیکی را پیش از وقوع خرابی شناسایی می‌کند. این راهکار مانع از توقف‌های ناخواسته در خطوط تولید و کارخانه‌های فرآیندی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 14:10",
+      "collected_at": "1405/07/26 18:01",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/industrial-edge-vibration-module",
+      "tags": [
+        "Industrial Edge",
+        "Condition Monitoring",
+        "Siemens",
+        "Edge Computing",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "پیاده‌سازی موفق دوقلوی دیجیتال ماشین‌ابزار با سینومریک وان در صنایع هوافضای اروپا",
+      "summary": "یک شرکت پیشرو در صنایع هوافضا با استفاده از سیستم CNC مدل SINUMERIK ONE زیمنس و دوقلوی دیجیتال آن، زمان برنامه‌نویسی قطعات پیچیده را به نصف رساند. این فناوری به اپراتورها اجازه می‌دهد کل فرایند ماشین‌کاری را پیش از اجرای واقعی در محیط مجازی شبیه‌سازی و بهینه‌سازی کنند. این اقدام ضریب خطای انسانی را در تولید قطعات حساس به حداقل می‌رساند.",
+      "category": "industry",
+      "published_at": "1405/07/26 15:00",
+      "collected_at": "1405/07/26 18:01",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/aerospace-sinumerik-digital-twin",
+      "tags": [
+        "SINUMERIK ONE",
+        "Digital Twin",
+        "CNC",
+        "Siemens",
+        "Aerospace"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "انتشار بسته امنیتی جدید زیمنس برای مقاوم‌سازی تجهیزات شبکه صنعتی در برابر تهدیدات سایبری",
+      "summary": "زیمنس بسته به‌روزرسانی امنیتی مهمی را برای سوئیچ‌ها و روترهای صنعتی سری SCALANCE منتشر کرد تا از زیرساخت‌های حیاتی در برابر نفوذهای سایبری محافظت کند. این پچ امنیتی آسیب‌پذیری‌های کشف‌شده در پروتکل‌های ارتباطی را رفع کرده و رمزنگاری داده‌ها را تقویت می‌نماید. رعایت استانداردهای سخت‌گیرانه IEC 62443 از اهداف اصلی این به‌روزرسانی است.",
+      "category": "regulation",
+      "published_at": "1405/07/26 15:45",
+      "collected_at": "1405/07/26 18:01",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-security-update",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "Siemens",
+        "IEC 62443",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "گسترش کاربرد درایوهای فشرده SINAMICS G120X در پروژه‌های تصفیه آب شهری",
+      "summary": "شرکت زیمنس از به‌کارگیری گسترده درایوهای فرکانس متغیر SINAMICS G120X در پروژه‌های بزرگ تصفیه آب و فاضلاب شهری خبر داد. این سری از درایوها با طراحی بهینه و راندمان بالا، مصرف برق پمپ‌ها و فن‌های صنعتی را به‌طور محسوسی کاهش می‌دهند. قابلیت‌های حفاظتی داخلی این تجهیزات عمر مفید سیستم‌های هیدرولیکی را افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/26 16:25",
+      "collected_at": "1405/07/26 18:01",
+      "source": "Water Technology",
+      "source_url": "https://www.watertechonline.com/sinamics-g120x-water-treatment",
+      "tags": [
+        "SINAMICS G120X",
+        "Drives",
+        "VFD",
+        "Siemens",
+        "Water Industry"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "رونمایی از نسل جدید ماژول‌های ورودی و خروجی توزیع‌شده SIMATIC ET 200SP با سرعت پردازش بالا",
+      "summary": "زیمنس خانواده محصولات I/O توزیع‌شده SIMATIC ET 200SP را با معرفی ماژول‌های جدید با سرعت پاسخ‌دهی بالا گسترش داد. این ماژول‌ها برای کاربردهای اتوماسیون با سرعت بالا و پردازش دقیق سیگنال‌ها در خطوط مونتاژ بسیار مناسب هستند. طراحی فشرده این تجهیزات فضای اشغال شده در تابلوهای برق را به شکل چشمگیری کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 17:10",
+      "collected_at": "1405/07/26 18:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/simatic-et-200sp-high-speed-io",
+      "tags": [
+        "SIMATIC ET 200SP",
+        "I/O Systems",
+        "Siemens",
+        "Automation",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "توسعه نرم‌افزار مهندسی SIMATIC AX برای برنامه‌نویسی شیءگرا در اتوماسیون صنعتی",
+      "summary": "زیمنس نسخه‌های جدیدی از ابزار مهندسی SIMATIC AX را عرضه کرد که به برنامه‌نویسان امکان استفاده از الگوهای برنامه‌نویسی شیءگرا و مدرن را در پی‌ال‌سی‌ها می‌دهد. این پلتفرم مبتنی بر استانداردهای باز بوده و امکان یکپارچه‌سازی ابزارهای کنترل نسخه مانند Git را فراهم می‌کند. این رویکرد توسعه نرم‌افزارهای اتوماسیون را به استانداردهای صنعت نرم‌افزار نزدیک‌تر می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/26 17:50",
+      "collected_at": "1405/07/26 18:01",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/simatic-ax-object-oriented-programming",
+      "tags": [
+        "SIMATIC AX",
+        "Software Engineering",
+        "PLC",
+        "Siemens",
+        "Git"
       ]
     }
   ]
