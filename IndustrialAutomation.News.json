@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 149,
-  "provider": "Gemini/gemini-3-flash-preview",
-  "updated_at": "1405/07/26 11:09",
+  "count": 159,
+  "provider": "Gemini/gemini-3.8-flash",
+  "updated_at": "1405/07/26 12:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2351,6 +2351,172 @@
         "انرژی تجدیدپذیر",
         "مانیتورینگ",
         "زیمنس انرژی"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "ادغام سامانه مکان‌یابی بلادرنگ SIMATIC RTLS زیمنس با هوش مصنوعی لبه‌ای",
+      "summary": "شرکت زیمنس ماژول جدیدی برای سامانه مکان‌یابی SIMATIC RTLS معرفی کرد که امکان پردازش بلادرنگ مختصات تجهیزات و ربات‌های AGV را در بستر پلتفرم Industrial Edge فراهم می‌سازد. این سامانه با تکیه بر فناوری باند فوق‌وسیع (UWB) و دقت سانتی‌متری، تداخل‌های حرکتی در کارخانه‌ها را به حداقل رسانده و بهره‌وری جابه‌جایی کالا را تا ۱۵ درصد ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 11:45",
+      "collected_at": "1405/07/26 12:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-rtls-edge-integration",
+      "tags": [
+        "Siemens",
+        "SIMATIC RTLS",
+        "Industrial Edge",
+        "AGV"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "انتشار نسخه جدید پلتفرم شبیه‌سازی SIMIT زیمنس برای تست پیشرفته سیستم‌های خودکار",
+      "summary": "زیمنس از به‌روزرسانی پلتفرم شبیه‌سازی SIMIT V11.2 پرده برداشت که امکان راه‌اندازی مجازی سریع‌تر خطوط تولید پیچیده را از طریق ارتباط مستقیم با TIA Portal و کنترل‌کننده‌های S7-1500 مهیا می‌کند. این ابزار مهندسی زمان تست نرم‌افزارهای کنترلی در محل فیزیکی پروژه را بیش از ۳۰ درصد کاهش داده و از پروتکل‌های باز صنعتی مانند OPC UA پشتیبانی کامل دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 11:20",
+      "collected_at": "1405/07/26 12:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/simulation/article/siemens-simit-update",
+      "tags": [
+        "Siemens",
+        "SIMIT",
+        "TIA Portal",
+        "Virtual Commissioning"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "هشدار امنیتی زیمنس و آژانس CISA درباره آسیب‌پذیری‌های پشته ارتباطی PROFINET",
+      "summary": "شرکت زیمنس با هماهنگی آژانس امنیت سایبری CISA پچ‌های امنیتی جدیدی برای رفع آسیب‌پذیری‌های پروتکل PROFINET در سوئیچ‌های سری SCALANCE X و پردازنده‌های ارتباطی CP عرضه کرد. این به‌روزرسانی مانع از حملات منع سرویس توزیع‌شده (DoS) و نفوذ به لایه کنترل کارخانه شده و انطباق تأسیسات زیرساختی با استاندارد IEC 62443 را تضمین می‌نماید.",
+      "category": "regulation",
+      "published_at": "1405/07/26 10:55",
+      "collected_at": "1405/07/26 12:00",
+      "source": "CISA ICS Advisory",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-290-01",
+      "tags": [
+        "Siemens",
+        "PROFINET",
+        "SCALANCE",
+        "ICS Security",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "پیاده‌سازی راهکار نگهداری پیش‌بینانه زیمنس در خطوط بسته‌بندی صنایع غذایی",
+      "summary": "اپلیکیشن نوین مدیریت دارایی در پلتفرم Industrial Edge زیمنس برای پایش وضعیت ارتعاش و حرارت در کارخانه‌های بسته‌بندی مواد غذایی پیاده‌سازی شد. این راهکار با اتصال حسگرهای صنعتی به رایانه‌های فشرده SIMATIC IPC227G و تحلیل بلادرنگ داده‌ها، امکان پیش‌بینی خرابی الکتروموتورها را فراهم ساخته و توقف‌های ناخواسته خطوط تولید را ۲۵ درصد کاهش داده است.",
+      "category": "industry",
+      "published_at": "1405/07/26 10:30",
+      "collected_at": "1405/07/26 12:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/predictive-maintenance-edge-packaging",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "SIMATIC IPC",
+        "Packaging"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "رونمایی اشنایدر الکتریک از کنترل‌کننده صنعتی Modicon M600 با پشتیبانی بومی از MQTT",
+      "summary": "اشنایدر الکتریک کنترل‌کننده منطقی برنامه‌پذیر Modicon M600 را مجهز به پورت‌های دوگانه گیگابیت اترنت و پشتیبانی بومی از پروتکل‌های MQTT و Sparkplug B به بازار اتوماسیون عرضه کرد. این پی‌ال‌سی بر اساس استاندارد سختگیرانه امنیتی IEC 62443-4-2 طراحی شده و ارسال مستقیم داده‌های میدانی را به سیستم‌های تحلیلی ابری بدون نیاز به گیت‌وی واسط میسر می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/26 10:05",
+      "collected_at": "1405/07/26 12:00",
+      "source": "Schneider Electric Newsroom",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/modicon-m600-launch",
+      "tags": [
+        "Schneider Electric",
+        "Modicon",
+        "PLC",
+        "MQTT",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "گسترش کتابخانه SIMATIC Robot Integrator برای برنامه‌نویسی یکپارچه بازوهای چندمحوره",
+      "summary": "زیمنس با گسترش کتابخانه نرم‌افزاری SIMATIC Robot Integrator، قابلیت برنامه‌نویسی و هدایت مستقیم ربات‌های صنعتی چندمحوره را بدون نیاز به کنسول‌های اختصاصی در محیط TIA Portal فراهم آورد. این راهکار استاندارد مبتنی بر PLCopen، پیچیدگی هماهنگی میان کنترل‌کننده SIMATIC S7-1500 و بازوهای مکانیکی را حذف کرده و هزینه آموزش اپراتورها را به میزان چشمگیری می‌کاهد.",
+      "category": "product",
+      "published_at": "1405/07/26 09:40",
+      "collected_at": "1405/07/26 12:00",
+      "source": "Robotics World",
+      "source_url": "https://www.roboticsbusinessreview.com/industrial/siemens-robot-integrator-library",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "TIA Portal",
+        "S7-1500",
+        "PLCopen"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "همکاری راکول اتوماسیون و اندرس هاوزر برای یکپارچه‌سازی ابزار دقیق در سیستم PlantPAx",
+      "summary": "راکول اتوماسیون و شرکت اندرس هاوزر در یک همکاری استراتژیک، پکیج‌های پیش‌پیکربندی ابزار دقیق فلومتر و سطح‌سنج اترنت صنعتی را برای سیستم کنترل توزیع‌شده PlantPAx رونمایی کردند. این اقدام زمان مهندسی و راه‌اندازی پروژه‌های فرآیندی را تا ۲۰ درصد کاهش داده و امکان عیب‌یابی دقیق تجهیزات را از طریق صفحات گرافیکی آماده در مانیتورینگ فراهم می‌کند.",
+      "category": "company",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 12:00",
+      "source": "Rockwell Automation Press",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/rockwell-endress-hauser-plantpax",
+      "tags": [
+        "Rockwell Automation",
+        "PlantPAx",
+        "Endress+Hauser",
+        "Instrumentation"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "استقرار ماژول‌های ورودی و خروجی فشرده SIMATIC ET 200SP HA در پروژه‌های هیدروژن سبز",
+      "summary": "ماژول‌های ورودی و خروجی ماژولار و فشرده SIMATIC ET 200SP HA زیمنس در چندین مجتمع بزرگ تولید هیدروژن سبز برای نظارت دقیق بر الکترولایزرها به‌کار گرفته شدند. این تجهیزات با گواهی ضدانفجار ATEX Zone 2 و تحمل دمایی منفی ۴۰ تا مثبت ۷۰ درجه سانتی‌گراد، قابلیت اطمینان عملیاتی سیستم‌های حیاتی را در شرایط سخت محیطی و اتمسفرهای پرخطر ارتقا می‌دهند.",
+      "category": "industry",
+      "published_at": "1405/07/26 08:50",
+      "collected_at": "1405/07/26 12:00",
+      "source": "Siemens Industry News",
+      "source_url": "https://press.siemens.com/global/en/feature/simatic-et-200sp-ha-green-hydrogen",
+      "tags": [
+        "Siemens",
+        "SIMATIC ET 200SP",
+        "DCS",
+        "Hydrogen",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "عرضه نسخه تازه سرور اطلاعات اشتراکی یوکوگاوا برای پایش یکپارچه مجتمع‌های پالایشگاهی",
+      "summary": "شرکت یوکوگاوا نسخه به‌روزشده سرور یکپارچه Collaborative Information Server را برای پایش بلادرنگ و متمرکز مجتمع‌های نفت، گاز و پتروشیمی پراکنده عرضه کرد. این پلتفرم با استانداردسازی جریان داده‌های سامانه‌های SCADA و DCS از طریق رابط‌های مدرن REST API، تصمیم‌گیری از راه دور را برای مهندسان فرآیند در مراکز کنترل مرکزی تسهیل کرده است.",
+      "category": "product",
+      "published_at": "1405/07/26 08:25",
+      "collected_at": "1405/07/26 12:00",
+      "source": "Yokogawa Global News",
+      "source_url": "https://www.yokogawa.com/news/press-releases/ci-server-remote-operations",
+      "tags": [
+        "Yokogawa",
+        "DCS",
+        "SCADA",
+        "Oil and Gas",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "توسعه سامانه سروودرایو SINAMICS S210 زیمنس برای خطوط تولید سلول باتری لیتیومی",
+      "summary": "زیمنس سامانه سروودرایو فشرده SINAMICS S210 را با موتورهای دینامیک سری SIMOTICS S-1FK2 برای کاربرد ویژه در خطوط دقیق مونتاژ سلول باتری خودروهای برقی بهینه‌سازی کرد. این سیستم حرکتی با بهره‌گیری از تک‌کابل رابط OCC و عملکردهای ایمنی یکپارچه تا سطح SIL 3، زمان پاسخ‌دهی مکانیکی را به کسری از میلی‌ثانیه رسانده و دقت بسته‌بندی سلول‌ها را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:00",
+      "collected_at": "1405/07/26 12:00",
+      "source": "Drives & Controls",
+      "source_url": "https://drivesncontrols.com/news/fullstory.php/aid/siemens-sinamics-s210-battery-motion",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Motion Control",
+        "Servo Drives",
+        "Battery Manufacturing"
       ]
     }
   ]
