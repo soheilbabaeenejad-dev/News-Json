@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 578,
+  "count": 587,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/26 21:05",
+  "updated_at": "1405/07/26 21:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9276,6 +9276,149 @@
         "IIoT",
         "SIMATIC",
         "Interoperability"
+      ]
+    },
+    {
+      "id": "ia-20241018-002",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌های فولاد با سیستم مدیریت انرژی زیمنس",
+      "summary": "شرکت زیمنس راهکار جدیدی را برای پایش و مدیریت مصرف انرژی در صنایع سنگین مانند فولاد معرفی کرد. این سیستم با استفاده از تحلیل داده‌های بلادرنگ در پلتفرم Insights Hub، نقاط اتلاف انرژی را شناسایی کرده و پیشنهادهای بهینه‌سازی ارائه می‌دهد. این اقدام به کاهش ۱۰ درصدی هزینه‌های عملیاتی و کربن‌زدایی از خطوط تولید کمک شایانی می‌کند.",
+      "category": "industry",
+      "published_at": "1403/07/27 09:15",
+      "collected_at": "1405/07/26 21:07",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/energy-management-steel",
+      "tags": [
+        "Energy",
+        "Sustainability",
+        "Insights Hub",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20241018-003",
+      "title": "گسترش قابلیت‌های پردازش تصویر در دوربین‌های صنعتی SIMATIC MV500",
+      "summary": "زیمنس قابلیت‌های جدیدی را به سری دوربین‌های بینایی ماشین SIMATIC MV500 اضافه کرد که امکان تشخیص دقیق‌تر قطعات در خطوط مونتاژ پرسرعت را فراهم می‌کند. این به‌روزرسانی شامل الگوریتم‌های پیشرفته یادگیری عمیق برای شناسایی عیوب ظاهری در محصولات است. این فناوری به تولیدکنندگان کمک می‌کند تا نرخ ضایعات را به حداقل برسانند.",
+      "category": "product",
+      "published_at": "1403/07/27 10:00",
+      "collected_at": "1405/07/26 21:07",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industrial-controls/industrial-identification/simatic-mv500.html",
+      "tags": [
+        "Machine Vision",
+        "SIMATIC",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20241018-004",
+      "title": "همکاری استراتژیک برای توسعه استانداردهای امنیت سایبری در شبکه TSN",
+      "summary": "زیمنس در همکاری با چندین نهاد استانداردسازی، پروتکل‌های جدیدی را برای تقویت امنیت سایبری در شبکه‌های حساس TSN (شبکه حساس به زمان) تدوین کرده است. این استانداردها تضمین می‌کنند که ارتباطات بلادرنگ در کارخانه‌های هوشمند در برابر حملات سایبری مصون بمانند. این گام مهمی برای یکپارچه‌سازی ایمن تجهیزات OT و IT در محیط‌های صنعتی است.",
+      "category": "regulation",
+      "published_at": "1403/07/27 11:45",
+      "collected_at": "1405/07/26 21:07",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://www.siemens.com/cybersecurity-tsn",
+      "tags": [
+        "Cybersecurity",
+        "TSN",
+        "Networking",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20241018-005",
+      "title": "رونمایی از درایوهای فرکانس متغیر SINAMICS G220 با قابلیت‌های هوشمند",
+      "summary": "زیمنس نسل جدید درایوهای SINAMICS G220 را با تمرکز بر بهره‌وری انرژی و قابلیت‌های دیجیتال معرفی کرد. این درایوها دارای حسگرهای داخلی برای پایش وضعیت سلامت موتور بوده و از طریق Industrial Edge به سیستم‌های مرکزی متصل می‌شوند. این محصول برای کاربردهای پمپ، فن و کمپرسور در صنایع مختلف بهینه‌سازی شده است.",
+      "category": "product",
+      "published_at": "1403/07/27 12:30",
+      "collected_at": "1405/07/26 21:07",
+      "source": "Control Engineering",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics-g220.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Industrial Edge",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-006",
+      "title": "توسعه پلتفرم ابری برای مدیریت ناوگان روباتیک در انبارها",
+      "summary": "زیمنس با همکاری شرکای روباتیک خود، پلتفرم جدیدی را برای مدیریت متمرکز ناوگان روبات‌های متحرک خودگردان (AMR) عرضه کرد. این سیستم امکان برنامه‌ریزی مسیرهای بهینه و جلوگیری از ترافیک در انبارهای هوشمند را فراهم می‌کند. این راهکار به طور کامل با سیستم‌های مدیریت انبار (WMS) موجود در صنایع لجستیک یکپارچه می‌شود.",
+      "category": "topic",
+      "published_at": "1403/07/27 13:15",
+      "collected_at": "1405/07/26 21:07",
+      "source": "Robotics Today",
+      "source_url": "https://www.siemens.com/robotics-fleet-management",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Logistics",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20241018-007",
+      "title": "ارتقای سیستم مانیتورینگ WinCC Unified با ابزارهای تحلیل داده",
+      "summary": "نسخه جدید WinCC Unified زیمنس اکنون شامل ابزارهای پیشرفته تحلیل داده است که به اپراتورها اجازه می‌دهد روندهای تولید را به صورت بلادرنگ مشاهده و تحلیل کنند. این به‌روزرسانی شامل ویجت‌های جدید برای نمایش شاخص‌های کلیدی عملکرد (KPI) است. این قابلیت به تصمیم‌گیری سریع‌تر و دقیق‌تر در اتاق‌های کنترل صنعتی کمک می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/27 14:00",
+      "collected_at": "1405/07/26 21:07",
+      "source": "Automation World",
+      "source_url": "https://new.siemens.com/global/en/products/automation/simatic-hmi/wincc-unified.html",
+      "tags": [
+        "WinCC",
+        "HMI",
+        "SCADA",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20241018-008",
+      "title": "پیاده‌سازی دوقلوی دیجیتال در خطوط تولید باتری خودروهای برقی",
+      "summary": "یک تولیدکننده بزرگ خودرو با استفاده از نرم‌افزارهای شبیه‌سازی زیمنس، دوقلوی دیجیتال کاملی از خط تولید باتری خود ایجاد کرده است. این مدل دیجیتال امکان تست تغییرات فرآیندی قبل از اجرا در محیط واقعی را فراهم می‌کند. این امر منجر به کاهش ۳۰ درصدی زمان راه‌اندازی خطوط جدید و افزایش کیفیت نهایی سلول‌های باتری شده است.",
+      "category": "research",
+      "published_at": "1403/07/27 15:45",
+      "collected_at": "1405/07/26 21:07",
+      "source": "Automotive News",
+      "source_url": "https://www.siemens.com/digital-twin-automotive",
+      "tags": [
+        "Digital Twin",
+        "Automotive",
+        "Battery",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20241018-009",
+      "title": "معرفی سوئیچ‌های صنعتی SCALANCE XC-200 با قابلیت‌های شبکه TSN",
+      "summary": "زیمنس سری جدید سوئیچ‌های صنعتی SCALANCE XC-200 را برای کاربردهای شبکه حساس به زمان (TSN) معرفی کرد. این سوئیچ‌ها پایداری بالایی در محیط‌های صنعتی سخت داشته و از پروتکل‌های ارتباطی پیشرفته پشتیبانی می‌کنند. این تجهیزات برای زیرساخت‌های شبکه در کارخانه‌های هوشمند که نیاز به تأخیر بسیار کم دارند، ایده‌آل هستند.",
+      "category": "product",
+      "published_at": "1403/07/27 16:30",
+      "collected_at": "1405/07/26 21:07",
+      "source": "Industrial Networking",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industrial-communication/scalance-xc-200.html",
+      "tags": [
+        "Networking",
+        "SCALANCE",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20241018-010",
+      "title": "گسترش همکاری زیمنس و AWS برای تحلیل داده‌های صنعتی در ابر",
+      "summary": "زیمنس و آمازون وب سرویس (AWS) همکاری خود را برای ساده‌سازی انتقال داده‌های ماشین‌آلات به ابر گسترش دادند. این همکاری شامل اتصال مستقیم تجهیزات SIMATIC به سرویس‌های ابری AWS برای پردازش‌های سنگین هوش مصنوعی است. این راهکار به شرکت‌ها اجازه می‌دهد تا بدون نیاز به زیرساخت‌های پیچیده، از قدرت محاسباتی ابری بهره‌مند شوند.",
+      "category": "company",
+      "published_at": "1403/07/27 17:15",
+      "collected_at": "1405/07/26 21:07",
+      "source": "Cloud Computing News",
+      "source_url": "https://www.siemens.com/aws-partnership",
+      "tags": [
+        "Cloud",
+        "AWS",
+        "Data",
+        "Industrial IoT"
       ]
     }
   ]
