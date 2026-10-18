@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 170,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 13:00",
+  "count": 180,
+  "provider": "Gemini/gemini-3.8-flash",
+  "updated_at": "1405/07/26 13:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2627,6 +2627,166 @@
         "Gemini",
         "Finance",
         "AI"
+      ]
+    },
+    {
+      "id": "ai-20261018-001",
+      "title": "گیتهاب امکان انتخاب میان مدل‌های کلود و جمنای را به کوپایلت اضافه کرد",
+      "summary": "شرکت گیتهاب در جریان کنفرانس Universe اعلام کرد که کاربران گیت‌هاب کوپایلت اکنون می‌توانند علاوه بر مدل‌های اوپن‌ای‌آی، از مدل‌های کلود ۳.۵ سونیک آنتروپیک و جمنای ۱.۵ پرو گوگل نیز برای تولید کد استفاده کنند. این اقدام انحصار اوپن‌ای‌آی را شکسته و انعطاف‌پذیری توسعه‌دهندگان را در انتخاب ابزارهای کدنویسی دوچندان می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 12:45",
+      "collected_at": "1405/07/26 13:01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2024/10/29/github-copilot-anthropic-google-models",
+      "tags": [
+        "GitHub",
+        "Copilot",
+        "Anthropic",
+        "Gemini"
+      ]
+    },
+    {
+      "id": "ai-20261018-002",
+      "title": "گوگل دیپ‌مایند با مدل GenCast دقت پیش‌بینی الگوهای آب‌وهوایی شدید را ارتقا داد",
+      "summary": "تیم پژوهشی گوگل دیپ‌مایند از مدل یادگیری ماشین جدیدی با عنوان GenCast رونمایی کرد که قادر است پیش‌بینی‌های اقلیمی را تا ۱۵ روز با دقت بالاتری نسبت به سیستم‌های سنتی هواشناسی انجام دهد. این مدل آماری متکی بر داده‌های ۴۰ ساله بازتحلیل ECMWF بوده و به سازمان‌های امدادی امکان می‌دهد پیش از وقوع طوفان‌های سهمگین آماده شوند.",
+      "category": "research",
+      "published_at": "1405/07/26 12:15",
+      "collected_at": "1405/07/26 13:01",
+      "source": "Google DeepMind",
+      "source_url": "https://deepmind.google/discover/blog/gencast-weather-forecasting",
+      "tags": [
+        "DeepMind",
+        "GenCast",
+        "Weather",
+        "ClimateAI"
+      ]
+    },
+    {
+      "id": "ai-20261018-003",
+      "title": "تصویب قانون درج واترمارک اجباری روی محتوای تولیدشده با هوش مصنوعی در کالیفرنیا",
+      "summary": "فرماندار کالیفرنیا بسته قوانین جدیدی را برای الزام پلتفرم‌های هوش مصنوعی به تعبیه برچسب و واترمارک نامرئی دیجیتال روی تصاویر و ویدیوهای شبیه‌سازی‌شده امضا کرد. این قانون با هدف مقابله با اخبار جعلی در دوران انتخابات و حمایت از حریم خصوصی وضع شده و شرکت‌های خاطی با جریمه‌های روزانه سنگین تا سقف ۵۰۰ هزار دلار مواجه خواهند شد.",
+      "category": "regulation",
+      "published_at": "1405/07/26 11:50",
+      "collected_at": "1405/07/26 13:01",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/california-ai-watermarking-bill-signed-into-law",
+      "tags": [
+        "Regulation",
+        "California",
+        "Watermark",
+        "Deepfake"
+      ]
+    },
+    {
+      "id": "ai-20261018-004",
+      "title": "ران‌وی قابلیت تبدیل ویدیو به ویدیو را با کنترل حرکتی پیشرفته به Gen-3 اضافه کرد",
+      "summary": "شرکت هوش مصنوعی Runway قابلیت پیشرفته Video-to-Video را در مدل نسل سوم Gen-3 Alpha در دسترس کاربران عمومی قرار داد. این ویژگی به سینماگران امکان می‌دهد ساختار و فرم فیزیکی ویدیوهای ضبط‌شده را حفظ کرده و تنها با یک دستور متنی استایل بصری یا نورپردازی را بدون افت رزولوشن 4K به‌صورت بی‌درنگ دگرگون سازند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:20",
+      "collected_at": "1405/07/26 13:01",
+      "source": "RunwayML Blog",
+      "source_url": "https://runwayml.com/blog/introducing-video-to-video-gen-3-alpha",
+      "tags": [
+        "Runway",
+        "Gen3Alpha",
+        "GenerativeVideo",
+        "VFX"
+      ]
+    },
+    {
+      "id": "ai-20261018-005",
+      "title": "سرمایه‌گذاری گسترده غول‌های فناوری در راکتورهای هسته‌ای کوچک برای مراکز داده هوش مصنوعی",
+      "summary": "شرکت گوگل قرارداد تجاری جدیدی با شرکت Kairos Power برای راه‌اندازی شش راکتور ماژولار کوچک (SMR) تا سال ۲۰۳۰ به امضا رساند تا ۵۰۰ مگاوات برق پایدار تأمین کند. با توجه به مصرف برق نجومی کلاسترهای آموزش مدل‌های زبانی عظیم، تکیه بر انرژی اتمی کم‌کربن اکنون به راهبرد اصلی غول‌های ابری برای پایداری انرژی تبدیل شده است.",
+      "category": "industry",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 13:01",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com/content/google-kairos-nuclear-power-ai-datacenters",
+      "tags": [
+        "Google",
+        "DataCenter",
+        "NuclearEnergy",
+        "CleanEnergy"
+      ]
+    },
+    {
+      "id": "ai-20261018-006",
+      "title": "استابیلیتی ای‌آی مدل‌های متن‌باز Stable Diffusion 3.5 را با مجوز تجاری آسان منتشر کرد",
+      "summary": "شرکت Stability AI مجموعه جدید مدل‌های تولید تصویر Stable Diffusion 3.5 را در دو نسخه Medium و Large با ۲.۵ و ۸ میلیارد پارامتر عرضه کرد. این نسخه‌ها عملکرد چشمگیری در تفسیر پرامپت‌های پیچیده و ارائه فونت‌های خوانا دارند و کسب‌وکارهایی با درآمد زیر ۱ میلیون دلار سالانه می‌توانند به‌صورت کاملاً رایگان از آن‌ها استفاده کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:10",
+      "collected_at": "1405/07/26 13:01",
+      "source": "VentureBeat",
+      "source_url": "https://venturebeat.com/ai/stability-ai-releases-stable-diffusion-3-5",
+      "tags": [
+        "StabilityAI",
+        "StableDiffusion",
+        "OpenSource",
+        "TextToImage"
+      ]
+    },
+    {
+      "id": "ai-20261018-007",
+      "title": "رکوردشکنی مدل پزشکی Med-Gemini در تحلیل تصاویر سی‌تی‌اسکن و مستندات بالینی",
+      "summary": "پژوهشگران گوگل نتایج ارزیابی مدل تخصصی Med-Gemini را در مجلات علمی منتشر کردند که نشان‌دهنده دقت ۹۱ درصدی آن در آزمون‌های دشوار بورد پزشکی آمریکا است. این مدل چندوجهی توانایی تفسیر همزمان اسکن‌های رادیولوژی پیچیده و تاریخچه درمانی بیمار را داراست و خطای تشخیص در بیماری‌های نادر بالینی را به‌میزان قابل‌توجهی کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/26 09:40",
+      "collected_at": "1405/07/26 13:01",
+      "source": "Nature Medicine",
+      "source_url": "https://www.nature.com/articles/s41591-med-gemini-clinical-eval",
+      "tags": [
+        "MedGemini",
+        "HealthcareAI",
+        "Radiology",
+        "GoogleHealth"
+      ]
+    },
+    {
+      "id": "ai-20261018-008",
+      "title": "سیلزفورس پلتفرم Agentforce را برای واگذاری خودکار خدمات مشتریان به هوش مصنوعی راه‌اندازی کرد",
+      "summary": "شرکت سیلزفورس پلتفرم سازمانی Agentforce را به‌طور رسمی راه‌اندازی کرد که به کسب‌وکارها اجازه می‌دهد عوامل هوشمند خودکاری را برای پاسخ به مشکلات پشتیبانی مشتریان بسازند. این ایجنت‌ها فراتر از چت‌بات‌های متنی مرسوم عمل کرده و بدون دخالت انسان می‌توانند سفارش‌ها را بازبینی، مرجوعی‌ها را پردازش و سیستم انبارداری را ویرایش کنند.",
+      "category": "company",
+      "published_at": "1405/07/26 09:05",
+      "collected_at": "1405/07/26 13:01",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com/sites/salesforce-launches-agentforce-autonomous-agents",
+      "tags": [
+        "Salesforce",
+        "Agentforce",
+        "AutonomousAgents",
+        "EnterpriseAI"
+      ]
+    },
+    {
+      "id": "ai-20261018-009",
+      "title": "جهش تقاضای تراشه‌های پردازش ویفری شرکت سربرس برای رقابت مستقیم با کلاسترهای گرافیکی",
+      "summary": "استارتاپ سخت‌افزاری Cerebras Systems اعلام کرد تقاضای مراکز داده برای تراشه WSE-3 با بیش از ۴ تریلیون ترانزیستور نسبت به دوره مشابه رشد سه‌برابری را تجربه کرده است. این تراشه یکپارچه غول‌پیکر به شرکت‌های داروسازی و تحقیقاتی اجازه می‌دهد ابرمدل‌های شیمیایی را با کسر کوچکی از مصرف برق کلاسترهای سنتی پردازشگر گرافیکی آموزش دهند.",
+      "category": "economy",
+      "published_at": "1405/07/26 08:35",
+      "collected_at": "1405/07/26 13:01",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/cerebras-systems-chip-demand-ai-growth",
+      "tags": [
+        "Cerebras",
+        "Semiconductors",
+        "Hardware",
+        "WSE3"
+      ]
+    },
+    {
+      "id": "ai-20261018-010",
+      "title": "پیوستن شرکت‌های بزرگ دوربین‌سازی به ائتلاف C2PA برای جلوگیری از جعل هویت بصری",
+      "summary": "ائتلاف جهانی صحت محتوا (C2PA) از همکاری مشترک با سونی و لایکا برای تعبیه امضای دیجیتال رمزنگاری‌شده در سنسور دوربین‌های عکاسی حرفه‌ای خبر داد. این سیستم مبدأ ثبت عکس‌ها را به شکل غیرقابل دستکاری ثبت می‌کند تا با محتواهای دیپ‌فیک و تصاویر تولیدی توسط هوش مصنوعی تمایز داده شده و اصالت کار عکاسان مستند تضمین گردد.",
+      "category": "society",
+      "published_at": "1405/07/26 08:00",
+      "collected_at": "1405/07/26 13:01",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/2024/10/22/c2pa-camera-manufacturers-provenance-metadata",
+      "tags": [
+        "C2PA",
+        "Authentication",
+        "Deepfake",
+        "Photography"
       ]
     }
   ]

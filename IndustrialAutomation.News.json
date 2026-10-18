@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 199,
+  "count": 209,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 13:00",
+  "updated_at": "1405/07/26 13:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3157,6 +3157,166 @@
         "OT/IT",
         "Python",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی نسل جدید کنترل‌کننده‌های SIMATIC S7-1200 G2 زیمنس برای خطوط تولیدی متوسط",
+      "summary": "شرکت زیمنس از نسل دوم کنترل‌کننده‌های منطقی برنامه‌پذیر SIMATIC S7-1200 G2 با قابلیت‌های پیشرفته و سرعت پردازش بالاتر رونمایی کرد. این سری جدید به مهندسان اجازه می‌دهد تا سیستم‌های اتوماسیون ماشین‌آلات متوسط را با دقت و انعطاف‌پذیری بیشتری طراحی و اجرا کنند. این محصول همچنین از ابزارهای مهندسی مدرن در بستر TIA Portal پشتیبانی کامل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 13:02",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1200-g2-launch",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TIA Portal",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "همکاری استراتژیک زیمنس و سونی برای توسعه کاربردهای صنعتی واقعیت ترکیبی",
+      "summary": "زیمنس و سونی طی همکاری مشترک، راهکارهای جدیدی را بر پایه هدست واقعیت ترکیبی و پلتفرم زیمنس Xcelerator معرفی کردند. این فناوری به مهندسان خطوط تولید امکان می‌دهد تا مدل‌های سه‌بعدی پیچیده و دوقلوهای دیجیتال را به صورت تعاملی و در محیط واقعی کارخانه بررسی کنند. این نوآوری نقش مهمی در کاهش خطاهای طراحی و سرعت‌بخشی به تعمیرات دارد.",
+      "category": "news",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 13:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/news/siemens-sony-industrial-metaverse",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Xcelerator",
+        "AR"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "یکپارچه‌سازی پیشرفته پلتفرم Industrial Edge زیمنس با سرویس ابری Snowflake",
+      "summary": "زیمنس قابلیت اتصال لبه به ابر را در پلتفرم Industrial Edge توسعه داده و امکان انتقال امن داده‌های صنعتی به پایگاه داده ابری Snowflake را فراهم ساخته است. این یکپارچه‌سازی به تحلیلگران داده اجازه می‌دهد تا الگوریتم‌های هوش مصنوعی کلان‌داده را روی اطلاعات تولید پیاده‌سازی کنند. این رویکرد بهینه‌سازی مصرف انرژی و کاهش زمان توقف ماشین‌آلات را تسریع می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/26 13:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/edge-computing/siemens-industrial-edge-snowflake",
+      "tags": [
+        "Industrial Edge",
+        "Cloud",
+        "Analytics",
+        "Data"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "استفاده شرکت ABB از هوش مصنوعی مولد برای بهینه‌سازی عملیات رباتیک صنعتی",
+      "summary": "شرکت ABB از به‌روزرسانی نرم‌افزاری جدیدی برای بازوهای رباتیک خود خبر داد که از هوش مصنوعی مولد برای برنامه‌نویسی خودکار مسیر حرکت بهره می‌برد. این سیستم قادر است زمان لازم برای راه‌اندازی ربات‌های صنعتی را تا پنجاه درصد کاهش دهد. اپراتورها می‌توانند با دستورات متنی ساده، وظایف پیچیده مونتاژ را به ربات‌ها محول کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 13:02",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/2026/10/abb-generative-ai-robotics/24100/",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "AI",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "گسترش همکاری زیمنس و ب‌آاس‌اف برای ارتقای پایداری و کاهش کربن در صنایع شیمیایی",
+      "summary": "شرکت‌های زیمنس و ب‌آاس‌اف توافق‌نامه خود را برای توسعه راهکارهای دیجیتال مدیریت انرژی و کاهش انتشار گازهای گلخانه‌ای در مجتمع‌های شیمیایی تمدید کردند. در این پروژه از سیستم‌های اتوماسیون پیشرفته و نرم‌افزارهای تحلیلی زیمنس برای پایش دقیق مصرف منابع استفاده می‌شود. هدف اصلی این طرح رسیدن به استانداردهای بالاتر در تولید سبز و پایدار است.",
+      "category": "company",
+      "published_at": "1405/07/26 11:20",
+      "collected_at": "1405/07/26 13:02",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-basf-sustainability-partnership-a-1098234/",
+      "tags": [
+        "Siemens",
+        "BASF",
+        "Sustainability",
+        "Energy"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "معرفی پلتفرم نرم‌افزاری FactoryTalk DataMosaix توسط راکول اتوماسیون",
+      "summary": "راکول اتوماسیون پلتفرم جدیدی موسوم به FactoryTalk DataMosaix را برای یکپارچه‌سازی و مدیریت داده‌های جزیره‌ای در کارخانه‌ها عرضه کرد. این ابزار کمک می‌کند تا اطلاعات حاصل از کنترل‌کننده‌ها و سیستم‌های SCADA به راحتی با نرم‌افزارهای مدیریتی سطح بالا تبادل شوند. این سیستم نقش کلیدی در ایجاد دیدگاه جامع از عملکرد خطوط تولید دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 11:50",
+      "collected_at": "1405/07/26 13:02",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/october-2026/rockwell-factorytalk-datamosaix-release",
+      "tags": [
+        "Rockwell",
+        "FactoryTalk",
+        "SCADA",
+        "Data Management"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "ارتقای قابلیت‌های ماشین‌کاری دقیق با به‌روزرسانی سیستم CNC مدل SINUMERIK ONE",
+      "summary": "زیمنس نسخه جدید بسته نرم‌افزاری SINUMERIK ONE را با تمرکز بر شبیه‌سازی دقیق‌تر فرآیندهای براده‌برداری و ماشین‌کاری پرسرعت منتشر کرد. این نسخه با محیط دوقلوی دیجیتال ادغام عمیق‌تری دارد و امکان تست کامل برنامه‌های CNC را پیش از اجرا روی ماشین واقعی فراهم می‌سازد. این امر به طور چشمگیری از استهلاک ابزارها و خطاهای اپراتوری می‌کاهد.",
+      "category": "product",
+      "published_at": "1405/07/26 12:10",
+      "collected_at": "1405/07/26 13:02",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/story/2026/10/siemens-sinumerik-one-update/21500/",
+      "tags": [
+        "Siemens",
+        "SINUMERIK",
+        "CNC",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "توسعه راهکارهای هوشمند مدیریت و توزیع آب توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک مجموعه جدیدی از تجهیزات اتوماسیون و نرم‌افزارهای مانیتورینگ EcoStruxure ویژه تاسیسات تصفیه و انتقال آب معرفی نمود. این راهکارها به شرکت‌های خدماتی اجازه می‌دهند تا هدررفت آب را کاهش داده و مصرف انرژی پمپ‌ها را به صورت بهینه مدیریت کنند. امنیت سایبری بالا از ویژگی‌های بارز این تجهیزات جدید است.",
+      "category": "product",
+      "published_at": "1405/07/26 12:30",
+      "collected_at": "1405/07/26 13:02",
+      "source": "Water Technology",
+      "source_url": "https://www.watertechonline.com/automation/news/schneider-electric-ecostruxure-water-solutions",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Water",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "عرضه نسخه چهارم بستر مهندسی ابری TIA Portal Cloud برای تیم‌های توزیع‌شده",
+      "summary": "زیمنس نسخه چهارم TIA Portal Cloud را با امکانات پیشرفته برای کار گروهی مهندسان اتوماسیون در مکان‌های مختلف منتشر کرد. این بستر ابری نیاز به نصب نرم‌افزارهای سنگین روی سیستم‌های محلی را از بین برده و امنیت پروژه را در بالاترین سطح حفظ می‌کند. تیم‌های مهندسی می‌توانند به صورت هم‌زمان روی یک پروژه PLC کار کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 12:45",
+      "collected_at": "1405/07/26 13:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-releases-tia-portal-cloud-v4/",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Cloud",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "تقویت امنیت زیرساخت‌های حیاتی با افزوده شدن پروتکل‌های امنیتی جدید به SIMATIC S7-1500",
+      "summary": "زیمنس قابلیت‌های امنیتی خانواده پی‌ال‌سی‌های SIMATIC S7-1500 را با ارائه یک بسته فریم‌ور جدید تقویت کرد. این به‌روزرسانی شامل استانداردهای رمزنگاری پیشرفته‌تر و مکانیزم‌های سخت‌گیرانه‌تر برای احراز هویت کاربران در شبکه‌های صنعتی است. این اقدام در راستای تطابق کامل با استانداردهای سخت‌گیرانه IEC 62443 برای مقابله با تهدیدات سایبری انجام گرفته است.",
+      "category": "regulation",
+      "published_at": "1405/07/26 13:00",
+      "collected_at": "1405/07/26 13:02",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-simatic-s7-1500-security-update-2026/",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "SIMATIC",
+        "IEC 62443"
       ]
     }
   ]
