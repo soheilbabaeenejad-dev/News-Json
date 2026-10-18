@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 159,
-  "provider": "Gemini/gemini-3.8-flash",
-  "updated_at": "1405/07/26 12:00",
+  "count": 169,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/26 12:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2517,6 +2517,166 @@
         "Motion Control",
         "Servo Drives",
         "Battery Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی کنترل‌کننده ایمنی پیشرفته SIMATIC S7-1500F جدید توسط زیمنس",
+      "summary": "شرکت زیمنس از نسل جدید کنترل‌کننده‌های ایمنی SIMATIC S7-1500F با قابلیت‌های پردازشی بهبودیافته و استانداردهای حفاظتی بالا رونمایی کرد. این تجهیزات جدید به مهندسان اجازه می‌دهند تا برنامه‌های ایمنی پیچیده را با سرعتی بالاتر در خطوط تولید پیاده‌سازی کنند. این محصول نقش کلیدی در ارتقای سطح ایمنی اپراتورها و کاهش زمان توقف اضطراب‌آمیز ماشین‌آلات صنعتی ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 12:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500f-new-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500F",
+        "PLC",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "ارتقای قابلیت‌های مانیتورینگ انرژی در سیستم WinCC Unified زیمنس",
+      "summary": "زیمنس نسخه بروزرسانی شده نرم‌افزار مانیتورینگ WinCC Unified را با ماژول تخصصی مدیریت انرژی منتشر کرد. این قابلیت جدید به واحدهای صنعتی امکان می‌دهد مصرف برق و آب را به‌صورت لحظه‌ای رصد و بهینه‌سازی کنند. این ابزار با ارائه گزارش‌های دقیق، به کارخانه‌ها در مسیر کاهش هزینه‌های انرژی و دستیابی به اهداف پایداری کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 12:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/siemens-wincc-unified-energy-update",
+      "tags": [
+        "WinCC Unified",
+        "HMI",
+        "Energy Management",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "توسعه راهکارهای اتوماسیون انعطاف‌پذیر با ماژول‌های جدید ET 200SP زیمنس",
+      "summary": "سیستم I/O توزیع‌شده SIMATIC ET 200SP زیمنس با معرفی ماژول‌های ارتباطی جدید، پتانسیل بالایی در اتصال تجهیزات میدان پیدا کرده است. این ماژول‌ها طراحی فشرده‌ای داشته و نصب و سیم‌کشی را در تابلوهای کنترل به نصف کاهش می‌دهند. این ویژگی باعث صرفه‌جویی چشمگیر در فضای فیزیکی تابلوهای برق و هزینه‌های نصب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/26 12:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-expands-et200sp-io-modules/",
+      "tags": [
+        "ET 200SP",
+        "I/O",
+        "Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "همکاری زیمنس و فستو برای توسعه سیستم‌های پنوماتیک هوشمند در خطوط مونتاژ",
+      "summary": "شرکت‌های زیمنس و فستو شراکت استراتژیک جدیدی را برای ادغام تجهیزات پنوماتیک با پلتفرم TIA Portal آغاز کردند. این همکاری امکان پیکربندی یکپارچه شیرهای برقی و محرک‌های بادی را مستقیماً ازحیث نرم‌افزاری فراهم می‌سازد. اینپارچه‌سازی فرآیند مهندسی، خطاهای انسانی را کاهش داده و کارایی سیستم‌های ترکیبی را افزایش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 12:01",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-festo-partnership-pneumatics",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "رونمایی از رله‌های حفاظتی جدید SIPROTEC 5 زیمنس برای پست‌های برق هوشمند",
+      "summary": "زیمنس سری جدید رله‌های حفاظتی و کنترلی SIPROTEC 5 را با قابلیت‌های سایبری پیشرفته معرفی کرد. این تجهیزات برای پایداری شبکه‌های انتقال نیرو و توزیع در برابر خطاهای ناگهانی حیاتی هستند. با پشتیبانی از پروتکل‌های ارتباطی مدرن، این رله‌ها نقش مهمی در هوشمندسازی شبکه‌های توزیع برق ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:10",
+      "collected_at": "1405/07/26 12:01",
+      "source": "Power Engineering",
+      "source_url": "https://www.power-eng.com/news/siemens-siprotec-5-smart-substations/",
+      "tags": [
+        "SIPROTEC 5",
+        "Power Systems",
+        "Protection",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "بهبود قابلیت‌های پردازشی در رایانه‌های صنعتی SIMATIC IPC 547G",
+      "summary": "نسخه جدید رایانه‌های صنعتی SIMATIC IPC 547G زیمنس با پردازنده‌های قدرتمند اینتل به بازار عرضه شد. این کامپیوترها به طور ویژه برای اجرای بارهای کاری سنگین پردازش داده‌های صنعتی و SCADA طراحی شده‌اند. پایداری بالا در شرایط سخت محیطی کارخانه از ویژگی‌های بارز این سخت‌افزار است.",
+      "category": "product",
+      "published_at": "1405/07/26 11:25",
+      "collected_at": "1405/07/26 12:01",
+      "source": "Embedded Computing",
+      "source_url": "https://www.embedded-computing.com/siemens-simatic-ipc-547g-update",
+      "tags": [
+        "SIMATIC IPC",
+        "Industrial PC",
+        "Hardware",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "استفاده از هوش مصنوعی در تحلیل داده‌های کیفیت آب با سیستم SIMATIC PCS 7",
+      "summary": "یک نیروگاه بزرگ تصفیه آب در اروپا با به‌روزرسانی سیستم کنترل توزیع‌شده خود به SIMATIC PCS 7، هوش مصنوعی را وارد فرآیند تصفیه کرد. این سیستم قادر است با تحلیل پارامترهای شیمیایی آب، دوز مواد افزودنی را به صورت خودکار تنظیم کند. این راهکار موجب صرفه‌جویی بیست درصدی در مصرف مواد شیمیایی و بهبود کیفیت آب خروجی شده است.",
+      "category": "industry",
+      "published_at": "1405/07/26 11:40",
+      "collected_at": "1405/07/26 12:01",
+      "source": "Water Technology",
+      "source_url": "https://www.waterworld.com/siemens-pcs7-water-treatment-ai",
+      "tags": [
+        "SIMATIC PCS 7",
+        "DCS",
+        "Water Treatment",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "گسترش شبکه ارتباطی بی‌سیم صنعتی با روترهای جدید SCALANCE W زیمنس",
+      "summary": "زیمنس روترهای بی‌سیم جدید سری SCALANCE W را مبتنی بر فناوری Wi-Fi 6 برای محیط‌های صنعتی معرفی کرد. این تجهیزات اتصال پایدار و با پهنای باند بالا را برای روبات‌های متحرک خودگردان (AMR) در سالن‌های تولید فراهم می‌کنند. این فناوری تأخیر ارتباطی را به حداقل رسانده و جابجایی داده‌ها را سرعت می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/26 11:50",
+      "collected_at": "1405/07/26 12:01",
+      "source": "Automationcom",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-scalance-w-wifi6-industrial",
+      "tags": [
+        "SCALANCE W",
+        "Industrial Wireless",
+        "Wi-Fi 6",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "عرضه ابزار مهندسی جدید برای پیکربندی درایوهای SINAMICS G120",
+      "summary": "نرم‌افزار Startdrive زیمنس به‌روزرسانی جدیدی را برای راه‌اندازی آسان‌تر درایوهای دورمتغیر SINAMICS G120 دریافت کرد. این ابزار به لطف رابط کاربری بصری خود، زمان پارامتردهی اینورترها را به طور چشمگیری کاهش می‌دهد. مهندسان می‌توانند به راحتی تنظیمات حفاظتی و حرکتی موتور را در بستر TIA Portal انجام دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:55",
+      "collected_at": "1405/07/26 12:01",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/A_Siemens_Startdrive_Sinamics_G120",
+      "tags": [
+        "SINAMICS G120",
+        "Drives",
+        "Startdrive",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "توسعه آموزش مهندسی اتوماسیون صنعتی با تجهیز آزمایشگاه‌های دانشگاهی به SIMATIC S7-1200",
+      "summary": "شرکت زیمنس طی برنامه‌ای جدید، تجهیزات آموزشی پیشرفته شامل پی‌ال‌سی‌های SIMATIC S7-1200 و نرم‌افزار TIA Portal را به دانشگاه‌های فنی اهدا کرد. این ابتکار عمل با هدف آماده‌سازی دانشجویان برای ورود به بازار کار اتوماسیون صنعتی و آشنایی با فناوری‌های روز دنیا صورت گرفته است. این رویکرد به کاهش شکاف بین صنعت و دانشگاه کمک شایانی می‌کند.",
+      "category": "society",
+      "published_at": "1405/07/26 12:00",
+      "collected_at": "1405/07/26 12:01",
+      "source": "Education Technology",
+      "source_url": "https://www.edtech.com/siemens-university-automation-labs",
+      "tags": [
+        "Education",
+        "SIMATIC S7-1200",
+        "TIA Portal",
+        "Siemens"
       ]
     }
   ]
