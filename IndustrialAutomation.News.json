@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 220,
+  "count": 230,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 14:00",
+  "updated_at": "1405/07/26 14:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3492,6 +3492,175 @@
         "SIMATIC",
         "PLC",
         "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی کنترل‌کننده ایمنی جدید SIMATIC Failsafe توسط زیمنس",
+      "summary": "شرکت زیمنس از نسل جدید کنترل‌کننده‌های ایمنی SIMATIC Failsafe با هدف ارتقای سطح ایمنی در خطوط تولید پیچیده رونمایی کرد. این تجهیزات جدید با پشتیبانی از استانداردهای سخت‌گیرانه IEC 62443 امکان پاسخگویی سریع‌تر در شرایط اضطراری را فراهم می‌کنند. مهندسان می‌توانند این ماژول‌ها را به راحتی در بستر نرم‌افزاری TIA Portal پیکربندی و مدیریت نمایند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 14:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-failsafe-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety",
+        "TIA Portal",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با سیستم مانیتورینگ جدید زیمنس",
+      "summary": "زیمنس پلتفرم نرم‌افزاری جدیدی برای پایش لحظه‌ای و بهینه‌سازی مصرف انرژی در خطوط مونتاژ صنعتی معرفی کرد. این ابزار با اتصال به تجهیزات اندازه‌گیری SIMATIC ET 200 تحلیل دقیقی از میزان اتلاف انرژی ارائه می‌دهد. استفاده از این سامانه به واحدهای تولیدی کمک می‌کند تا هزینه‌های عملیاتی خود را به‌طور چشمگیری کاهش دهند.",
+      "category": "news",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 14:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-energy-monitoring-platform",
+      "tags": [
+        "Energy Efficiency",
+        "Siemens",
+        "SIMATIC ET 200",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "توسعه قابلیت‌های تحلیل داده در لبه شبکه با Industrial Edge زیمنس",
+      "summary": "نسخه جدید نرم‌افزار Industrial Edge زیمنس با پشتیبانی از ابزارهای پیشرفته یادگیری ماشین عرضه شد. این به‌روزرسانی به اپراتورها اجازه می‌دهد مدل‌های هوش مصنوعی را مستقیماً روی رایانه‌های صنعتی IPC اجرا کنند. این راهکار باعث کاهش تأخیر در پردازش داده‌ها و افزایش دقت در تشخیص خطوط تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/26 14:01",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrial-iot.com/siemens-industrial-edge-ml-update",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "Edge Computing",
+        "AI",
+        "IPC"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS 7 با ابزارهای عیب‌یابی هوشمند",
+      "summary": "شرکت زیمنس بسته به‌روزرسانی جدیدی را برای سیستم کنترل فرآیند SIMATIC PCS 7 منتشر کرد. این نسخه شامل الگوریتم‌های پیشرفته برای پیش‌بینی خرابی تجهیزات ابزاردقیق و شیرهای صنعتی است. این قابلیت‌ها به پتروشیمی‌ها و نیروگاه‌ها کمک می‌کند تا زمان توقف ناخواسته تجهیزات را به حداقل برسانند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 14:01",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-simatic-pcs7-update",
+      "tags": [
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control",
+        "Siemens",
+        "Diagnostics"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "همکاری زیمنس و فستو برای توسعه استانداردهای ارتباطی در اتوماسیون پنوماتیک",
+      "summary": "زیمنس و شرکت فستو در پروژه‌ای مشترک برای یکپارچه‌سازی تجهیزات پنوماتیک با شبکه‌های PROFINET همکاری می‌کنند. این همکاری به توسعه ماژول‌های ارتباطی جدیدی منجر شده است که اطلاعات تشخیصی عملگرها را مستقیماً به پی‌ال‌سی منتقل می‌کنند. این رویکرد نقش مهمی در توسعه مفاهیم تعمیر و نگهداری پیشگیرانه دارد.",
+      "category": "industry",
+      "published_at": "1405/07/26 11:20",
+      "collected_at": "1405/07/26 14:01",
+      "source": "Robotics & Automation News",
+      "source_url": "https://www.roboticsandautomationnews.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "PROFINET",
+        "Pneumatics",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "عرضه درایوهای پیشرفته SINAMICS با قابلیت یکپارچه‌سازی با سرویس‌های ابری",
+      "summary": "نسخه تازه‌ای از درایوهای فرکانس متغیر SINAMICS زیمنس با ماژول‌های ارتباطی ابری داخلی روانه بازار شد. این سری از درایوها امکان ارسال پارامترهای حیاتی موتور مانند دما و ارتعاش را به پلتفرم‌های ابری فراهم می‌سازند. این ویژگی مهندسان را قادر می‌سازد تا سلامت الکتروموتورهای سنگین را از راه دور مانیتور کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:55",
+      "collected_at": "1405/07/26 14:01",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-cloud-drives",
+      "tags": [
+        "SINAMICS",
+        "Siemens",
+        "Drives",
+        "Cloud",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "گسترش استفاده از روبات‌های متحرک خودگردان در لجستیک کارخانه‌های زیمنس",
+      "summary": "مجتمع تولیدی بزرگ زیمنس در شهر آمبرگ آلمان از ناوگان جدید روبات‌های متحرک خودگردان برای حمل قطعات الکترونیکی بهره‌برداری کرد. این روبات‌ها با استفاده از سیستم مدیریت ناوگان SIMOVE به صورت کاملاً هماهنگ در سالن‌ها تردد می‌کنند. این طرح توانسته سرعت انتقال قطعات بین ایستگاه‌های کاری را به میزان قابل توجهی افزایش دهد.",
+      "category": "industry",
+      "published_at": "1405/07/26 12:30",
+      "collected_at": "1405/07/26 14:01",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/siemens-amr-implementation",
+      "tags": [
+        "SIMOVE",
+        "AMR",
+        "Logistics",
+        "Smart Factory",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "ارتقای امنیت سایبری تجهیزات شبکه صنعتی با تجهیزات جدید SCALANCE",
+      "summary": "زیمنس خانواده جدیدی از سوئیچ‌های مدیریت‌شده صنعتی سری SCALANCE را با قابلیت‌های دیواره آتش پیشرفته معرفی کرد. این تجهیزات برای محافظت از شبکه‌های OT در برابر حملات سایبری پیچیده طراحی شده‌اند و از پروتکل‌های رمزنگاری مدرن پشتیبانی می‌کنند. این محصولات گام مهمی در جهت ایمن‌سازی زیرساخت‌های حیاتی اتوماسیون به شمار می‌روند.",
+      "category": "product",
+      "published_at": "1405/07/26 13:05",
+      "collected_at": "1405/07/26 14:01",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-switches",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Industrial Networks",
+        "Siemens",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "استفاده از واقعیت افزوده در آموزش تعمیرکاران خطوط تولید با نرم‌افزار زیمنس",
+      "summary": "راهکار جدید واقعیت افزوده زیمنس برای عیب‌یابی و تعمیر تجهیزات اتوماسیون صنعتی در اختیار واحدهای صنعتی قرار گرفت. تکنسین‌ها با استفاده از عینک‌های هوشمند می‌توانند نقشه‌های سیم‌کشی و راهنمای تعمیر ماژول‌های SIMATIC را به صورت سه‌بعدی روی تجهیزات ببینند. این فناوری خطاهای انسانی را کاهش داده و زمان تعمیرات اضطراری را کوتاه می‌کند.",
+      "category": "topic",
+      "published_at": "1405/07/26 13:35",
+      "collected_at": "1405/07/26 14:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-augmented-reality-maintenance",
+      "tags": [
+        "Augmented Reality",
+        "Maintenance",
+        "SIMATIC",
+        "Siemens",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "توسعه ابزارهای مهندسی خودکار در پلتفرم TIA Portal V19 برای طراحان ماشین",
+      "summary": "آخرین بسته‌های الحاقی برای نرم‌افزار مهندسی TIA Portal V19 امکان تولید خودکار کدهای برنامه‌نویسی را فراهم کرده است. این ویژگی به سازندگان ماشین‌آلات اجازه می‌دهد تا با استفاده از کتابخانه‌های استاندارد، زمان طراحی و تست پروژه‌ها را کوتاه‌تر کنند. این ابزار مهندسی پیشرفته نقش کلیدی در افزایش بهره‌وری تیم‌های توسعه نرم‌افزار اتوماسیون دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:00",
+      "collected_at": "1405/07/26 14:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-tia-portal-v19-tools",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "PLC Programming",
+        "Siemens",
+        "Automation Software"
       ]
     }
   ]
