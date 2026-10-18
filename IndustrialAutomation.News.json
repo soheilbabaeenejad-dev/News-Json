@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 606,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/26 21:13",
+  "count": 615,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/26 22:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9717,6 +9717,150 @@
         "Interoperability",
         "SIMATIC",
         "Standardization"
+      ]
+    },
+    {
+      "id": "ia-20241018-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در سیستم SCADA زیمنس WinCC V8.5",
+      "summary": "نسخه جدید WinCC V8.5 با تمرکز بر تحلیل داده‌های حجیم صنعتی منتشر شد. این به‌روزرسانی به اپراتورها اجازه می‌دهد تا با استفاده از ابزارهای بصری‌سازی پیشرفته، گلوگاه‌های تولید را در لحظه شناسایی کنند. این سیستم اکنون از پروتکل‌های ارتباطی جدید برای اتصال آسان‌تر به دیتابیس‌های ابری پشتیبانی می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/27 10:30",
+      "collected_at": "1405/07/26 22:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/article/22923456/siemens-wincc-v85-release",
+      "tags": [
+        "SCADA",
+        "WinCC",
+        "Data Analytics",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20241018-003",
+      "title": "همکاری استراتژیک برای توسعه شبکه‌های صنعتی TSN در کارخانه‌های هوشمند",
+      "summary": "زیمنس با همکاری چندین شرکت پیشرو در حوزه نیمه‌هادی، استانداردهای جدیدی را برای شبکه زمان‌بندی‌شده (TSN) در اتوماسیون صنعتی تدوین کرد. این همکاری به منظور تضمین ارتباطات بلادرنگ و بدون تأخیر در محیط‌های صنعتی پرنویز انجام شده است. این فناوری زیرساخت اصلی برای کنترل حرکت دقیق در روبات‌های فوق‌سریع خواهد بود.",
+      "category": "industry",
+      "published_at": "1403/07/27 11:45",
+      "collected_at": "1405/07/26 22:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iebmedia.com/news/tsn-industrial-automation-partnership",
+      "tags": [
+        "TSN",
+        "Networking",
+        "Industrial Automation",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20241018-004",
+      "title": "معرفی درایوهای فرکانس متغیر SINAMICS G120X با بهره‌وری انرژی بالا",
+      "summary": "سری جدید درایوهای SINAMICS G120X زیمنس برای کاربردهای پمپاژ و تهویه مطبوع در صنایع سنگین بهینه‌سازی شده است. این درایوها با الگوریتم‌های کنترل برداری پیشرفته، مصرف انرژی را تا ۱۵ درصد نسبت به مدل‌های قبلی کاهش می‌دهند. قابلیت عیب‌یابی داخلی این درایوها به کاهش هزینه‌های نگهداری کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/27 13:15",
+      "collected_at": "1405/07/26 22:00",
+      "source": "Siemens Industry",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics-g120x.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20241018-005",
+      "title": "ارتقای امنیت سایبری در تجهیزات لبه صنعتی با استاندارد IEC 62443",
+      "summary": "زیمنس تمامی محصولات پلتفرم Industrial Edge خود را با استانداردهای سخت‌گیرانه IEC 62443 به‌روزرسانی کرد. این اقدام در پاسخ به افزایش تهدیدات سایبری علیه زیرساخت‌های حیاتی صورت گرفته است. کاربران اکنون می‌توانند با استفاده از مدیریت کلیدهای رمزنگاری پیشرفته، امنیت تبادل داده بین لبه و ابر را تضمین کنند.",
+      "category": "regulation",
+      "published_at": "1403/07/27 14:40",
+      "collected_at": "1405/07/26 22:00",
+      "source": "Cybersecurity News",
+      "source_url": "https://www.cybersecurity-news.com/siemens-industrial-edge-security",
+      "tags": [
+        "Cybersecurity",
+        "Industrial Edge",
+        "IEC 62443",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20241018-006",
+      "title": "استفاده از هوش مصنوعی مولد در طراحی دوقلوی دیجیتال با همکاری انویدیا",
+      "summary": "زیمنس و انویدیا اعلام کردند که قابلیت‌های هوش مصنوعی مولد را به پلتفرم Xcelerator اضافه کرده‌اند. این فناوری به مهندسان اجازه می‌دهد تا با استفاده از دستورات متنی، مدل‌های سه‌بعدی پیچیده و شبیه‌سازی‌های حرکتی را در محیط Omniverse ایجاد کنند. این نوآوری زمان طراحی ماشین‌آلات جدید را به شدت کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1403/07/27 16:00",
+      "collected_at": "1405/07/26 22:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2024/10/siemens-nvidia-generative-ai-digital-twin",
+      "tags": [
+        "Digital Twin",
+        "AI",
+        "NVIDIA",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20241018-007",
+      "title": "رونمایی از سیستم مدیریت انرژی هوشمند برای صنایع شیمیایی",
+      "summary": "پلتفرم جدید مدیریت انرژی زیمنس برای صنایع شیمیایی، امکان پایش دقیق مصرف برق و گاز را در سطح هر واحد تولیدی فراهم می‌کند. این سیستم با استفاده از داده‌های لحظه‌ای، الگوهای مصرف را تحلیل کرده و پیشنهاداتی برای کاهش هزینه‌ها ارائه می‌دهد. این راهکار به شرکت‌ها کمک می‌کند تا به اهداف کربن‌خنثی خود دست یابند.",
+      "category": "industry",
+      "published_at": "1403/07/27 17:20",
+      "collected_at": "1405/07/26 22:00",
+      "source": "Chemical Engineering Journal",
+      "source_url": "https://www.chemeurope.com/en/news/siemens-energy-management-solution",
+      "tags": [
+        "Energy Management",
+        "Sustainability",
+        "Chemical Industry",
+        "Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20241018-008",
+      "title": "توسعه قابلیت‌های برنامه‌نویسی در محیط SIMATIC AX برای توسعه‌دهندگان IT",
+      "summary": "زیمنس با به‌روزرسانی محیط SIMATIC AX، امکان استفاده از زبان‌های برنامه‌نویسی مدرن مانند Python و C# را برای مهندسان اتوماسیون فراهم کرد. این رویکرد به همگرایی بیشتر دنیای IT و OT کمک کرده و اجازه می‌دهد تا الگوریتم‌های پیچیده هوش مصنوعی مستقیماً بر روی کنترل‌کننده‌های صنعتی اجرا شوند.",
+      "category": "topic",
+      "published_at": "1403/07/27 18:45",
+      "collected_at": "1405/07/26 22:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-simatic-ax-update",
+      "tags": [
+        "SIMATIC AX",
+        "IT/OT Convergence",
+        "Programming",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241018-009",
+      "title": "رشد بازار روبات‌های متحرک خودگردان (AMR) در لجستیک کارخانه‌ها",
+      "summary": "گزارش‌های جدید نشان می‌دهد که تقاضا برای سیستم‌های مدیریت ناوگان روباتیک SIMOVE زیمنس به دلیل افزایش خودکارسازی انبارها به شدت افزایش یافته است. این سیستم‌ها با یکپارچه‌سازی با سیستم‌های ERP و MES، جریان مواد را در کارخانه‌های هوشمند مدیریت می‌کنند. این روند باعث بهبود چشمگیر بهره‌وری لجستیک داخلی شده است.",
+      "category": "economy",
+      "published_at": "1403/07/27 20:10",
+      "collected_at": "1405/07/26 22:00",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/article/amr-market-growth-siemens-simove",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "Robotics",
+        "SIMOVE"
+      ]
+    },
+    {
+      "id": "ia-20241018-010",
+      "title": "به‌روزرسانی نرم‌افزار طراحی HMI در بستر FactoryTalk Optix راکول",
+      "summary": "راکول اتوماسیون نسخه جدید FactoryTalk Optix را برای طراحی رابط‌های کاربری مدرن منتشر کرد. این نرم‌افزار با قابلیت‌های گرافیکی پیشرفته و پشتیبانی از استانداردهای وب، تجربه کاربری بهتری را برای اپراتورها فراهم می‌کند. این ابزار به طور کامل با سیستم‌های کنترل موجود در خطوط تولید یکپارچه می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/27 21:30",
+      "collected_at": "1405/07/26 22:00",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/factorytalk-optix-update.html",
+      "tags": [
+        "HMI",
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Visualization"
       ]
     }
   ]
