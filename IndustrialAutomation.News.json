@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 553,
+  "count": 562,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/26 20:05",
+  "updated_at": "1405/07/26 21:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8873,6 +8873,150 @@
         "Motion Control",
         "Networking",
         "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی نسل جدید کنترل‌کننده‌های SIMATIC S7-1500 با پردازنده امنیتی مجزا",
+      "summary": "زیمنس از سری جدید پردازنده‌های SIMATIC S7-1500 رونمایی کرد که به یک واحد پردازش امنیتی سخت‌افزاری اختصاصی مجهز شده‌اند. این ارتقا با هدف مقابله با تهدیدات سایبری پیچیده در محیط‌های صنعتی طراحی شده و امکان رمزنگاری داده‌ها را در سطح سخت‌افزار فراهم می‌کند. این محصول جدید به مهندسان اجازه می‌دهد تا استانداردهای امنیتی IEC 62443 را با سهولت بیشتری در پروژه‌های اتوماسیون خود پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 21:01",
+      "collected_at": "1405/07/26 21:01",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای استانداردسازی دوقلوهای دیجیتال",
+      "summary": "زیمنس در همکاری جدیدی با تولیدکنندگان بزرگ خودرو، چارچوب استانداردی برای تبادل داده‌های دوقلوی دیجیتال در کل زنجیره تأمین ایجاد کرده است. این ابتکار بر پایه پلتفرم Xcelerator استوار است و به شرکت‌ها اجازه می‌دهد تا مدل‌های سه‌بعدی و داده‌های عملکردی را به صورت یکپارچه بین تأمین‌کنندگان قطعات و خطوط مونتاژ نهایی به اشتراک بگذارند. این اقدام باعث کاهش خطاهای طراحی و تسریع در زمان عرضه به بازار می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/26 21:01",
+      "collected_at": "1405/07/26 21:01",
+      "source": "IndustryWeek",
+      "source_url": "https://www.industryweek.com/technology-and-iiot/article/21885001",
+      "tags": [
+        "Digital Twin",
+        "Xcelerator",
+        "Automotive",
+        "Collaboration"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "عرضه ماژول جدید ارتباطی برای شبکه TSN در تجهیزات SINAMICS",
+      "summary": "زیمنس ماژول ارتباطی جدیدی را برای درایوهای SINAMICS معرفی کرد که از پروتکل شبکه حساس به زمان (TSN) پشتیبانی می‌کند. این فناوری امکان همگام‌سازی فوق‌دقیق بین درایوها و کنترل‌کننده‌های حرکتی را در شبکه‌های صنعتی فراهم می‌آورد. با استفاده از این ماژول، نوسانات در ارتباطات شبکه به حداقل رسیده و دقت کنترل حرکت در ماشین‌آلات بسته‌بندی و چاپ به طور قابل توجهی افزایش می‌یابد.",
+      "category": "product",
+      "published_at": "1405/07/26 21:01",
+      "collected_at": "1405/07/26 21:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-tsn-module-sinamics/",
+      "tags": [
+        "SINAMICS",
+        "TSN",
+        "Motion Control",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "به‌کارگیری هوش مصنوعی در سیستم‌های مانیتورینگ WinCC Unified",
+      "summary": "قابلیت‌های جدید هوش مصنوعی به سیستم مانیتورینگ WinCC Unified زیمنس اضافه شد تا تحلیل وضعیت فرآیندها را خودکار کند. این سیستم اکنون می‌تواند الگوهای غیرعادی در داده‌های سنسورها را شناسایی کرده و پیش از وقوع خرابی، به اپراتورها هشدار دهد. این تحول گامی بزرگ در جهت تبدیل اتاق‌های کنترل سنتی به مراکز تصمیم‌گیری هوشمند مبتنی بر داده‌های واقعی است.",
+      "category": "product",
+      "published_at": "1405/07/26 21:01",
+      "collected_at": "1405/07/26 21:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/hmi-scada/news/21885120",
+      "tags": [
+        "WinCC",
+        "AI",
+        "SCADA",
+        "Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "توسعه راهکارهای مدیریت انرژی در صنایع شیمیایی با استفاده از Insights Hub",
+      "summary": "زیمنس با ارتقای پلتفرم Insights Hub، ابزارهای تخصصی برای پایش مصرف انرژی در صنایع شیمیایی ارائه کرده است. این راهکار به شرکت‌ها کمک می‌کند تا ردپای کربن فرآیندهای تولیدی خود را به صورت دقیق محاسبه و گزارش کنند. با اتصال سنسورهای هوشمند به این پلتفرم ابری، مدیران می‌توانند نقاط اتلاف انرژی را شناسایی کرده و بهره‌وری کلی کارخانه را بهبود بخشند.",
+      "category": "industry",
+      "published_at": "1405/07/26 21:01",
+      "collected_at": "1405/07/26 21:01",
+      "source": "Chemical Processing",
+      "source_url": "https://www.chemicalprocessing.com/energy-management/siemens-insights-hub",
+      "tags": [
+        "Insights Hub",
+        "Energy Management",
+        "Sustainability",
+        "Chemical Industry"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "رونمایی از ربات‌های متحرک خودگردان (AMR) با قابلیت یکپارچگی SIMOVE",
+      "summary": "نسل جدید ربات‌های متحرک خودگردان زیمنس که با سیستم مدیریت ناوگان SIMOVE سازگار هستند، به بازار عرضه شد. این ربات‌ها قادرند به صورت کاملاً خودکار در انبارهای بزرگ حرکت کرده و قطعات را بین ایستگاه‌های کاری جابه‌جا کنند. یکپارچگی عمیق با سیستم‌های مدیریت انبار (WMS) باعث شده تا ترافیک رباتیک در سالن‌های تولید بهینه شده و بهره‌وری لجستیک داخلی افزایش یابد.",
+      "category": "product",
+      "published_at": "1405/07/26 21:01",
+      "collected_at": "1405/07/26 21:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/news/2026/10/18/siemens-amr-simove",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Logistics",
+        "SIMOVE"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "ارتقای استانداردهای ایمنی در ماشین‌آلات با کنترل‌کننده‌های جدید F-PLC",
+      "summary": "زیمنس سری جدید کنترل‌کننده‌های ایمنی (F-PLC) را برای کاربردهای با ریسک بالا معرفی کرد. این کنترل‌کننده‌ها با پشتیبانی از پروتکل‌های ایمنی پیشرفته، زمان واکنش سیستم در شرایط اضطراری را کاهش می‌دهند. این محصولات برای استفاده در خطوط پرس و رباتیک سنگین طراحی شده‌اند و با استانداردهای جهانی ایمنی ماشین‌آلات کاملاً مطابقت دارند.",
+      "category": "product",
+      "published_at": "1405/07/26 21:01",
+      "collected_at": "1405/07/26 21:01",
+      "source": "Machine Design",
+      "source_url": "https://www.machinedesign.com/automation/safety-controllers-siemens",
+      "tags": [
+        "Safety",
+        "PLC",
+        "Automation",
+        "Standards"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "گسترش زیرساخت‌های 5G صنعتی در کارخانه‌های هوشمند",
+      "summary": "زیمنس با همکاری اپراتورهای مخابراتی، زیرساخت‌های شبکه خصوصی 5G را برای محیط‌های صنعتی توسعه داده است. این شبکه با تأخیر بسیار کم، امکان کنترل بی‌سیم تجهیزات متحرک و ربات‌ها را فراهم می‌کند. استفاده از مودم‌های صنعتی SCALANCE در این پروژه‌ها، پایداری ارتباطات را حتی در محیط‌های دارای تداخل الکترومغناطیسی بالا تضمین می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/26 21:01",
+      "collected_at": "1405/07/26 21:01",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-world.com/5g-industrial-siemens",
+      "tags": [
+        "5G",
+        "Industrial Networking",
+        "SCALANCE",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "انتشار راهنمای جدید امنیت سایبری برای تجهیزات اتوماسیون صنعتی",
+      "summary": "سازمان‌های بین‌المللی با همکاری زیمنس، راهنمای جدیدی را برای ایمن‌سازی تجهیزات اتوماسیون صنعتی منتشر کردند. این سند بر اهمیت به‌روزرسانی‌های مداوم میان‌افزارها و مدیریت دسترسی‌های کاربری تأکید دارد. با توجه به افزایش حملات سایبری به زیرساخت‌های حیاتی، این راهنما به مدیران IT و OT کمک می‌کند تا استراتژی‌های دفاعی خود را در برابر تهدیدات مدرن تقویت کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/26 21:01",
+      "collected_at": "1405/07/26 21:01",
+      "source": "Cybersecurity Review",
+      "source_url": "https://www.cybersecurity-review.com/industrial-automation-security-guide",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "Regulation",
+        "Best Practices"
       ]
     }
   ]
