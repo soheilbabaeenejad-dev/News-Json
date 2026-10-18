@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 632,
+  "count": 642,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/26 22:08",
+  "updated_at": "1405/07/26 23:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -10125,6 +10125,166 @@
         "Rockwell Automation",
         "Cloud",
         "FactoryTalk"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی ماژول‌های جدید ارتباطی سری SIMATIC برای شبکه‌های TSN",
+      "summary": "زیمنس با هدف افزایش سرعت و دقت در ارتباطات بلادرنگ، ماژول‌های جدید ارتباطی سری SIMATIC را برای پشتیبانی کامل از استاندارد TSN معرفی کرد. این ماژول‌ها امکان همگام‌سازی دقیق داده‌ها را در محیط‌های صنعتی فراهم کرده و تأخیر در تبادل اطلاعات بین کنترل‌کننده‌ها را به حداقل می‌رسانند. استفاده از این فناوری در خطوط تولید پیچیده، پایداری شبکه را به طور قابل توجهی بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/26 23:01",
+      "collected_at": "1405/07/26 23:01",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/simatic/tsn.html",
+      "tags": [
+        "SIMATIC",
+        "TSN",
+        "Industrial Communication",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم Insights Hub",
+      "summary": "شرکت زیمنس قابلیت‌های جدیدی را به پلتفرم ابری Insights Hub اضافه کرده است که امکان تحلیل پیشرفته داده‌های عملیاتی را فراهم می‌کند. این به‌روزرسانی به کاربران اجازه می‌دهد تا با استفاده از مدل‌های یادگیری ماشین، الگوهای خرابی تجهیزات را پیش‌بینی کنند. این ابزار به مدیران کارخانه کمک می‌کند تا با کاهش زمان توقف غیرمنتظره، بهره‌وری کلی سیستم را افزایش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/26 23:01",
+      "collected_at": "1405/07/26 23:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/insights-hub-update",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Data Analytics",
+        "Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "رونمایی از کنترل‌کننده منطقی برنامه‌پذیر جدید سری S7-1500H",
+      "summary": "زیمنس نسل جدید کنترل‌کننده‌های منطقی برنامه‌پذیر S7-1500H را با تمرکز بر کاربردهای حساس و حیاتی معرفی کرد. این سیستم با قابلیت افزونگی بالا، تضمین می‌کند که در صورت بروز خطا در یکی از پردازنده‌ها، عملیات بدون وقفه ادامه یابد. این محصول برای صنایع نفت، گاز و پتروشیمی که نیاز به پایداری بسیار بالا دارند، طراحی و بهینه‌سازی شده است.",
+      "category": "product",
+      "published_at": "1405/07/26 23:01",
+      "collected_at": "1405/07/26 23:01",
+      "source": "Siemens Industry News",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/s7-1500h.html",
+      "tags": [
+        "SIMATIC",
+        "S7-1500H",
+        "PLC",
+        "Redundancy"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "همکاری استراتژیک برای استانداردسازی امنیت سایبری در اتوماسیون",
+      "summary": "زیمنس و گروهی از پیشگامان صنعت اتوماسیون برای ایجاد استانداردهای جدید امنیت سایبری در دستگاه‌های لبه صنعتی همکاری می‌کنند. این ابتکار بر اساس پروتکل‌های IEC 62443 تنظیم شده است تا از نفوذهای احتمالی به شبکه‌های OT جلوگیری شود. این همکاری به تولیدکنندگان کمک می‌کند تا با اطمینان بیشتری تجهیزات خود را به اینترنت اشیاء صنعتی متصل کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/26 23:01",
+      "collected_at": "1405/07/26 23:01",
+      "source": "Industrial Cybersecurity Daily",
+      "source_url": "https://www.industrialcybersecurity.com/news/standardization",
+      "tags": [
+        "Cybersecurity",
+        "IEC 62443",
+        "OT",
+        "Security"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "ارتقای سیستم مانیتورینگ انرژی با هوش مصنوعی در کارخانه‌های هوشمند",
+      "summary": "زیمنس با معرفی ماژول جدید هوش مصنوعی برای سیستم‌های مانیتورینگ انرژی، به صنایع کمک می‌کند تا مصرف برق خود را به صورت هوشمند بهینه کنند. این سیستم با تحلیل داده‌های لحظه‌ای از سنسورهای مختلف، نقاط هدررفت انرژی را شناسایی کرده و پیشنهادهای خودکاری برای کاهش هزینه‌ها ارائه می‌دهد. این راهکار بخشی از اکوسیستم گسترده‌تر Siemens Xcelerator است.",
+      "category": "industry",
+      "published_at": "1405/07/26 23:01",
+      "collected_at": "1405/07/26 23:01",
+      "source": "Energy Management Today",
+      "source_url": "https://www.energy-management.com/siemens-ai-energy",
+      "tags": [
+        "Energy Efficiency",
+        "AI",
+        "Xcelerator",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "روبات‌های همکار جدید ABB با قابلیت ادغام در محیط TIA Portal",
+      "summary": "شرکت ABB نسل جدید روبات‌های همکار خود را معرفی کرده که به طور کامل با محیط مهندسی TIA Portal زیمنس سازگار هستند. این یکپارچگی به مهندسان اجازه می‌دهد تا برنامه‌نویسی روبات و PLC را در یک محیط واحد انجام دهند. این اقدام گامی مهم در جهت کاهش پیچیدگی‌های مهندسی و تسریع در راه‌اندازی سلول‌های روباتیک در خطوط تولید خودرو است.",
+      "category": "match",
+      "published_at": "1405/07/26 23:01",
+      "collected_at": "1405/07/26 23:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/abb-siemens-integration",
+      "tags": [
+        "ABB",
+        "Cobots",
+        "TIA Portal",
+        "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "گسترش پلتفرم لبه صنعتی برای پردازش داده‌های بینایی ماشین",
+      "summary": "زیمنس پلتفرم Industrial Edge خود را با ابزارهای جدید برای پردازش سریع تصاویر بینایی ماشین ارتقا داد. این قابلیت به سیستم‌های کنترل کیفیت اجازه می‌دهد تا بدون نیاز به ارسال داده‌ها به ابر، در همان محل تولید تصمیم‌گیری کنند. این امر باعث افزایش دقت در تشخیص عیوب قطعات با سرعت بسیار بالا در خطوط تولید انبوه می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 23:01",
+      "collected_at": "1405/07/26 23:01",
+      "source": "Machine Vision News",
+      "source_url": "https://www.machinevision.com/siemens-edge-vision",
+      "tags": [
+        "Industrial Edge",
+        "Machine Vision",
+        "Quality Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "به‌روزرسانی نرم‌افزار WinCC Unified برای مدیریت داشبوردهای موبایل",
+      "summary": "نسخه جدید نرم‌افزار WinCC Unified زیمنس با تمرکز بر بهبود تجربه کاربری در دستگاه‌های موبایل منتشر شد. این به‌روزرسانی به اپراتورها اجازه می‌دهد تا از طریق تبلت و گوشی‌های هوشمند، کنترل کامل‌تری بر فرآیندهای تولید داشته باشند. رابط کاربری جدید با استفاده از فناوری HTML5 طراحی شده و امنیت بالایی را برای دسترسی از راه دور فراهم می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 23:01",
+      "collected_at": "1405/07/26 23:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/wincc-unified-update",
+      "tags": [
+        "WinCC",
+        "HMI",
+        "Mobile",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "استفاده از دوقلوی دیجیتال در طراحی خطوط تولید باتری‌های لیتیومی",
+      "summary": "یک تولیدکننده بزرگ باتری با استفاده از راهکارهای دوقلوی دیجیتال زیمنس، زمان طراحی و راه‌اندازی خط تولید خود را ۳۰ درصد کاهش داد. این تکنولوژی اجازه می‌دهد تا تمامی فرآیندهای مکانیکی و کنترلی قبل از ساخت فیزیکی در محیط مجازی شبیه‌سازی شوند. این روش از بروز خطاهای پرهزینه در مرحله نصب و راه‌اندازی نهایی جلوگیری می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/26 23:01",
+      "collected_at": "1405/07/26 23:01",
+      "source": "Digital Twin Journal",
+      "source_url": "https://www.digitaltwinjournal.com/battery-production",
+      "tags": [
+        "Digital Twin",
+        "Battery Manufacturing",
+        "Simulation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "معرفی درایوهای فرکانس متغیر سری SINAMICS G220 برای کاربردهای پمپ و فن",
+      "summary": "زیمنس سری جدید درایوهای SINAMICS G220 را با قابلیت‌های پیشرفته مدیریت انرژی برای صنایع پمپ و فن عرضه کرد. این درایوها با داشتن الگوریتم‌های کنترل هوشمند، مصرف انرژی را در بارهای متغیر بهینه می‌کنند. همچنین، قابلیت‌های امنیتی داخلی این درایوها از دسترسی‌های غیرمجاز به پارامترهای موتور جلوگیری کرده و امنیت شبکه را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 23:01",
+      "collected_at": "1405/07/26 23:01",
+      "source": "Industrial Drives News",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics-g220.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
       ]
     }
   ]
