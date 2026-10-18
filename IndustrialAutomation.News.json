@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 288,
+  "count": 297,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 15:04",
+  "updated_at": "1405/07/26 15:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4589,6 +4589,150 @@
         "OT/ICS",
         "IEC 62443",
         "Regulation"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی در پلتفرم WinCC Unified V19",
+      "summary": "به‌روزرسانی جدید WinCC Unified V19 ابزارهای پیشرفته‌ای برای تحلیل مصرف انرژی و مدیریت پایداری در کارخانه‌ها ارائه می‌دهد. این ماژول جدید به اپراتورها کمک می‌کند تا نقاط اتلاف انرژی را در خطوط تولید شناسایی کنند. این قابلیت نقش مهمی در کاهش هزینه‌های عملیاتی و دستیابی به اهداف کربن‌صفر دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 15:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/wincc-unified-v19-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "مدیریت انرژی",
+        "توسعه پایدار"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "همکاری زیمنس و فستو برای هوشمندسازی ماژول‌های پنوماتیک خطوط مونتاژ",
+      "summary": "زیمنس با همکاری شرکت فستو راهکار جدیدی برای یکپارچه‌سازی شیرهای پنوماتیک با محیط TIA Portal معرفی کرد. این فناوری امکان عیب‌یابی هوشمند و پیش‌بینی خرابی را در سیستم‌های حرکتی فراهم می‌سازد. این همکاری به کاهش زمان توقف تجهیزات و افزایش بهره‌وری در خطوط مونتاژ منجر می‌شود.",
+      "category": "news",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/26 15:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-festo-pneumatic-integration",
+      "tags": [
+        "TIA Portal",
+        "فستو",
+        "پنوماتیک",
+        "تعمیرات پیشگیرانه"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "عرضه ماژول پردازش تصویر هوش مصنوعی برای کامپیوترهای صنعتی SIMATIC IPC",
+      "summary": "زیمنس ماژول جدید هوش مصنوعی را برای سری کامپیوترهای صنعتی SIMATIC IPC رونمایی کرد که پردازش بینایی ماشین را سرعت می‌بخشد. این سخت‌افزار به خطوط تولید اجازه می‌دهد تا بازرسی کیفیت محصولات را با دقت بالا انجام دهند. این ماژول به‌طور کامل با اکوسیستم Industrial Edge سازگار است.",
+      "category": "product",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 15:05",
+      "source": "Industrial Embedded Systems",
+      "source_url": "https://www.embedded-computing.com/siemens-simatic-ipc-ai-module",
+      "tags": [
+        "SIMATIC IPC",
+        "بینایی ماشین",
+        "هوش مصنوعی",
+        "Industrial Edge"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "ارتقای امنیت شبکه صنعتی با پشتیبانی از پروتکل‌های رمزنگاری جدید در SCALANCE",
+      "summary": "تجهیزات شبکه صنعتی SCALANCE زیمنس اکنون از استانداردهای جدید رمزنگاری برای محافظت در برابر حملات سایبری پیچیده پشتیبانی می‌کنند. این ارتقا به مدیران شبکه اجازه می‌دهد تا امنیت ارتباطات OT را در برابر تهدیدات روزافزون تضمین کنند. این اقدام در راستای پیروی از الزامات استاندارد امنیتی IEC 62443 انجام شده است.",
+      "category": "regulation",
+      "published_at": "1405/07/26 11:30",
+      "collected_at": "1405/07/26 15:05",
+      "source": "Industrial Cyber Security",
+      "source_url": "https://www.industrialcyber.co/siemens-scalance-security-update",
+      "tags": [
+        "SCALANCE",
+        "امنیت سایبری",
+        "IEC 62443",
+        "شبکه صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "بهینه‌سازی مصرف درایوهای SINAMICS G120 با الگوریتم‌های جدید کنترل دور",
+      "summary": "نسخه جدید سیستم‌عامل درایوهای SINAMICS G120 زیمنس با الگوریتم‌های پیشرفته برای کاهش تلفات الکتریکی عرضه شد. این بهبود نرم‌افزاری بازدهی موتورهای الکتریکی را در بارهای جزئی تا چهار درصد افزایش می‌دهد. این راهکار نقش کلیدی در بهینه‌سازی مصرف انرژی در صنایع پمپ و فن دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 12:15",
+      "collected_at": "1405/07/26 15:05",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/siemens-sinamics-g120-efficiency",
+      "tags": [
+        "SINAMICS",
+        "درایو صنعتی",
+        "بهینه‌سازی انرژی",
+        "موتور الکتریکی"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "توسعه ابزارهای برنامه‌نویسی شی‌گرا در محیط مهندسی SIMATIC AX",
+      "summary": "زیمنس با به‌روزرسانی پلتفرم SIMATIC AX امکانات پیشرفته‌ای برای توسعه نرم‌افزار صنعتی مبتنی بر استانداردهای آی‌تی فراهم کرد. این محیط توسعه به برنامه‌نویسان اجازه می‌دهد از الگوهای مدرن شی‌گرا در پروژه‌های اتوماسیون استفاده کنند. این امر پیچیدگی توسعه نرم‌افزارهای بزرگ مقیاس را در صنعت کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/26 13:00",
+      "collected_at": "1405/07/26 15:05",
+      "source": "Automation Magazine",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-simatic-ax-oop-update",
+      "tags": [
+        "SIMATIC AX",
+        "برنامه‌نویسی",
+        "مهندسی نرم‌افزار",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "پیاده‌سازی راهکار دوقلوی دیجیتال زیمنس در کارخانه تولید باتری فورد",
+      "summary": "شرکت فورد از پلتفرم Siemens Xcelerator برای ایجاد دوقلوی دیجیتال کامل خطوط تولید باتری خودروهای الکتریکی استفاده کرد. این شبیه‌سازی پیشرفته امکان بهینه‌سازی چیدمان تجهیزات و کاهش زمان راه‌اندازی را فراهم کرده است. این پروژه گامی بزرگ در جهت تسریع تولید انبوه خودروهای الکتریکی به شمار می‌رود.",
+      "category": "industry",
+      "published_at": "1405/07/26 13:45",
+      "collected_at": "1405/07/26 15:05",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/smart-manufacturing/ford-siemens-digital-twin-battery",
+      "tags": [
+        "دوقلوی دیجیتال",
+        "Siemens Xcelerator",
+        "خودروسازی",
+        "شبیه‌سازی"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "معرفی نسل جدید سیستم کنترل فرآیند SIMATIC PCS neo با قابلیت مهندسی ابری",
+      "summary": "زیمنس نسخه‌ای تازه از سیستم کنترل فرآیند توزیع‌شده SIMATIC PCS neo را با تمرکز بر همکاری همه‌جانبه مهندسی معرفی کرد. تیم‌های مهندسی می‌توانند از هر نقطه‌ای در جهان به‌طور همزمان روی یک پروژه DCS کار کنند. این پلتفرم تحت وب امنیت و شفافیت بالایی را در پروژه‌های بزرگ صنعتی ارائه می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:20",
+      "collected_at": "1405/07/26 15:05",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-simatic-pcs-neo-cloud-engineering",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "کنترل فرآیند",
+        "مهندسی ابری"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "همکاری زیمنس و آمازون وب سرویس برای توسعه قابلیت‌های هوش مصنوعی صنعتی",
+      "summary": "زیمنس و AWS همکاری خود را برای ادغام مدل‌های هوش مصنوعی ابری با لبه صنعتی گسترش دادند. این شراکت به صنایع اجازه می‌دهد از خدمات یادگیری ماشین پیشرفته برای تحلیل داده‌های زمان واقعی بهره ببرند. این راهکار ترکیبی، تصمیم‌گیری مبتنی بر داده را در کارخانه‌های هوشمند تسهیل می‌کند.",
+      "category": "company",
+      "published_at": "1405/07/26 15:00",
+      "collected_at": "1405/07/26 15:05",
+      "source": "Cloud Computing News",
+      "source_url": "https://www.cloudcomputing-news.net/news/siemens-aws-industrial-ai-partnership",
+      "tags": [
+        "AWS",
+        "هوش مصنوعی",
+        "Industrial Edge",
+        "رایانش ابری"
       ]
     }
   ]
