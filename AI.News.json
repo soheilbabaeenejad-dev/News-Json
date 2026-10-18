@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 40,
+  "count": 50,
   "provider": "Gemini/gemini-robotics-er-2-preview",
-  "updated_at": "1405/07/27 02:00",
+  "updated_at": "1405/07/27 03:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -627,6 +627,166 @@
         "مایکروسافت",
         "عامل_هوشمند",
         "مدیریت"
+      ]
+    },
+    {
+      "id": "ai-20261018-001",
+      "title": "عرضه نسخه وب حالت صوتی پیشرفته ChatGPT توسط OpenAI",
+      "summary": "شرکت OpenAI اعلام کرد که قابلیت محبوب «حالت صوتی پیشرفته» را برای نسخه وب چت‌جی‌پی‌تی فعال کرده است. این ویژگی به کاربران اجازه می‌دهد تا مستقیماً از طریق مرورگر خود با هوش مصنوعی مکالمه طبیعی و همزمان داشته باشند. این به‌روزرسانی ابتدا برای کاربران اشتراکی Plus و Team در دسترس قرار گرفته و تعامل صوتی با مدل‌های پیشرفته را بسیار آسان‌تر می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 14:30",
+      "collected_at": "1405/07/27 03:04",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2024/11/18/openai-brings-chatgpts-advanced-voice-mode-to-the-web/",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Advanced Voice",
+        "AI Web"
+      ]
+    },
+    {
+      "id": "ai-20261018-002",
+      "title": "معرفی مدل هوش مصنوعی AlphaProteo توسط گوگل دیپ‌مایند برای طراحی پروتئین‌های جدید",
+      "summary": "آزمایشگاه گوگل دیپ‌مایند از ابزار هوش مصنوعی جدیدی به نام AlphaProteo رونمایی کرد که قادر است پروتئین‌های کاملاً جدیدی را برای اتصال به مولکول‌های هدف طراحی کند. این فناوری می‌تواند فرآیند توسعه داروهای جدید و درمان بیماری‌های سختی مانند سرطان را به‌شدت سرعت ببخشد. نتایج آزمایش‌ها نشان می‌دهد که این مدل در مقایسه با روش‌های سنتی، نرخ موفقیت بسیار بالاتری دارد.",
+      "category": "research",
+      "published_at": "1405/07/26 15:15",
+      "collected_at": "1405/07/27 03:04",
+      "source": "Nature",
+      "source_url": "https://www.nature.com/articles/d41586-024-02891-2",
+      "tags": [
+        "Google DeepMind",
+        "AlphaProteo",
+        "Biology",
+        "AI Research"
+      ]
+    },
+    {
+      "id": "ai-20261018-003",
+      "title": "انتشار مدل Claude 3.5 Haiku توسط آنتروپیک با سرعت و کارایی فوق‌العاده",
+      "summary": "شرکت آنتروپیک مدل جدید Claude 3.5 Haiku را به عنوان سریع‌ترین و مقرون‌به‌صرفه‌ترین مدل خود معرفی کرد. این مدل زبانی کوچک اما قدرتمند، در کارهای کدنویسی و تحلیل داده عملکردی نزدیک به مدل‌های بزرگتر نسل قبل نشان می‌دهد و هزینه استفاده از آن بسیار پایین‌تر است. توسعه‌دهندگان می‌توانند از این ابزار برای ساخت برنامه‌های کاربردی بلادرنگ استفاده کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 16:00",
+      "collected_at": "1405/07/27 03:04",
+      "source": "VentureBeat",
+      "source_url": "https://venturebeat.com/ai/anthropic-releases-claude-3-5-haiku-with-improved-speed-and-coding-capabilities/",
+      "tags": [
+        "Anthropic",
+        "Claude 3.5 Haiku",
+        "LLM",
+        "AI Coding"
+      ]
+    },
+    {
+      "id": "ai-20261018-004",
+      "title": "رونمایی متا از مدل‌های چندرسانه‌ای Llama 3.2 برای دستگاه‌های موبایل",
+      "summary": "شرکت متا از نسخه جدید مدل‌های متن‌باز خود با نام Llama 3.2 رونمایی کرد که شامل مدل‌های سبک وزن و بهینه‌سازی‌شده برای دستگاه‌های موبایل است. این مدل‌ها توانایی پردازش همزمان تصویر و متن را دارند و به توسعه‌دهندگان اجازه می‌دهند تا بدون نیاز به سرورهای ابری قدرتمند، برنامه‌های هوش مصنوعی محلی بسازند. این اقدام گام مهمی در جهت دموکراتیزه کردن هوش مصنوعی است.",
+      "category": "product",
+      "published_at": "1405/07/26 17:10",
+      "collected_at": "1405/07/27 03:04",
+      "source": "Meta AI",
+      "source_url": "https://ai.meta.com/blog/llama-3-2-multi-modal-pocket-sized-models/",
+      "tags": [
+        "Meta",
+        "Llama 3.2",
+        "Open Source",
+        "Edge AI"
+      ]
+    },
+    {
+      "id": "ai-20261018-005",
+      "title": "جذب سرمایه تاریخی ۶.۶ میلیارد دلاری توسط OpenAI و ارزش‌گذاری ۱۵۷ میلیارد دلاری",
+      "summary": "شرکت OpenAI موفق شد در یکی از بزرگترین دوره‌های جذب سرمایه در تاریخ فناوری، مبلغ ۶.۶ میلیارد دلار از سرمایه‌گذاران مختلف از جمله مایکروسافت و انویدیا دریافت کند. با این سرمایه‌گذاری جدید، ارزش این استارتاپ پیشرو به ۱۵۷ میلیارد دلار رسید. این منابع مالی عظیم قرار است صرف افزایش قدرت پردازشی، تحقیق روی مدل‌های مرزی و توسعه زیرساخت‌های هوش مصنوعی مولد شود.",
+      "category": "economy",
+      "published_at": "1405/07/26 18:45",
+      "collected_at": "1405/07/27 03:04",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2024-10-02/openai-closes-6-6-billion-funding-round-at-157-billion-valuation",
+      "tags": [
+        "OpenAI",
+        "Funding",
+        "AI Economy",
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "ai-20261018-006",
+      "title": "راه‌اندازی ابرکامپیوتر Colossus توسط xAI با ۱۰۰ هزار تراشه انویدیا H100",
+      "summary": "ایلان ماسک اعلام کرد که شرکت هوش مصنوعی xAI موفق به راه‌اندازی ابرکامپیوتر غول‌پیکر Colossus در ایالت تنسی شده است. این سیستم پردازشی عظیم که از ۱۰۰ هزار پردازنده گرافیکی انویدیا H100 بهره می‌برد، قدرتمندترین کلاستر آموزش هوش مصنوعی در جهان به شمار می‌رود. هدف از ساخت این ابرکامپیوتر، آموزش نسخه‌های بعدی مدل زبانی Grok و دستیابی به هوش مصنوعی عمومی است.",
+      "category": "company",
+      "published_at": "1405/07/26 19:20",
+      "collected_at": "1405/07/27 03:04",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/elon-musks-xai-launches-colossus-supercomputer-with-100k-nvidia-gpus-2024-09-02/",
+      "tags": [
+        "xAI",
+        "Colossus",
+        "Nvidia",
+        "Supercomputer"
+      ]
+    },
+    {
+      "id": "ai-20261018-007",
+      "title": "معرفی قابلیت ساخت عامل‌های خودکار در مایکروسافت Copilot Studio",
+      "summary": "مایکروسافت در رویداد جدید خود از ابزارهای پیشرفته‌ای در پلتفرم Copilot Studio رونمایی کرد که به سازمان‌ها اجازه می‌دهد عامل‌های هوش مصنوعی خودکار بسازند. این عامل‌ها می‌توانند بدون نیاز به دخالت مداوم انسان، کارهای پیچیده‌ای مانند مدیریت زنجیره تامین و تحلیل‌های مالی را انجام دهند. این قابلیت گام جدیدی در جهت اتوماسیون هوشمند فرآیندهای سازمانی است.",
+      "category": "product",
+      "published_at": "1405/07/26 20:30",
+      "collected_at": "1405/07/27 03:04",
+      "source": "Microsoft Blog",
+      "source_url": "https://blogs.microsoft.com/blog/2024/10/21/introducing-autonomous-agents-in-copilot-studio/",
+      "tags": [
+        "Microsoft",
+        "Copilot Studio",
+        "AI Agents",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ai-20261018-008",
+      "title": "عرضه مدل تصویری Pixtral 12B توسط استارتاپ فرانسوی Mistral AI",
+      "summary": "استارتاپ فرانسوی Mistral AI اولین مدل چندرسانه‌ای خود را با نام Pixtral 12B به صورت متن‌باز منتشر کرد. این مدل قادر است علاوه بر متن، تصاویر را نیز با دقت بالا تحلیل کند و به سوالات مرتبط با نمودارها و اسناد تصویری پاسخ دهد. انتشار این مدل نشان‌دهنده تعهد مستمر این شرکت به توسعه هوش مصنوعی متن‌باز و رقابت مستقیم با غول‌های فناوری آمریکایی است.",
+      "category": "product",
+      "published_at": "1405/07/26 21:15",
+      "collected_at": "1405/07/27 03:04",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2024/09/11/mistral-releases-pixtral-12b-its-first-multimodal-model/",
+      "tags": [
+        "Mistral AI",
+        "Pixtral 12B",
+        "Multimodal",
+        "Open Source"
+      ]
+    },
+    {
+      "id": "ai-20261018-009",
+      "title": "مخالفت فرماندار کالیفرنیا با لایحه جنجالی ایمنی هوش مصنوعی SB 1047",
+      "summary": "گوین نیوسام، فرماندار ایالت کالیفرنیا، لایحه جنجالی SB 1047 را که با هدف تنظیم مقررات سخت‌گیرانه برای شرکت‌های بزرگ هوش مصنوعی تدوین شده بود، وتو کرد. وی دلیل این تصمیم را آسیب احتمالی به نوآوری و فرار استارتاپ‌ها از این ایالت عنوان کرد. این تصمیم با استقبال گسترده شرکت‌های فناوری مواجه شد، هرچند حامیان ایمنی هوش مصنوعی از آن ابراز ناامیدی کردند.",
+      "category": "politics",
+      "published_at": "1405/07/26 22:40",
+      "collected_at": "1405/07/27 03:04",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2024/09/29/california-gov-newsom-vetoes-landmark-ai-safety-bill-sb-1047.html",
+      "tags": [
+        "AI Regulation",
+        "SB 1047",
+        "California",
+        "AI Safety"
+      ]
+    },
+    {
+      "id": "ai-20261018-010",
+      "title": "همکاری انویدیا و لنوو برای ارایه راهکارهای هوش مصنوعی ترکیبی به شرکت‌ها",
+      "summary": "شرکت‌های انویدیا و لنوو در جریان یک کنفرانس مشترک از همکاری جدیدی برای عرضه سیستم‌های هوش مصنوعی ترکیبی به مشتریان سازمانی خبر دادند. این راهکارها به شرکت‌ها اجازه می‌دهد تا مدل‌های هوش مصنوعی خود را به صورت امن و محلی روی سرورهای لنوو مجهز به تراشه‌های انویدیا اجرا کنند. این همکاری با هدف تسهیل پذیرش هوش مصنوعی در صنایع سنتی انجام می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/26 23:50",
+      "collected_at": "1405/07/27 03:04",
+      "source": "VentureBeat",
+      "source_url": "https://venturebeat.com/ai/nvidia-and-lenovo-expand-partnership-to-bring-hybrid-ai-to-enterprises/",
+      "tags": [
+        "Nvidia",
+        "Lenovo",
+        "Enterprise AI",
+        "Hardware"
       ]
     }
   ]
