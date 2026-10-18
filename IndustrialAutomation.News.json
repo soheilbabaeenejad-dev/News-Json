@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 60,
-  "provider": "Gemini/gemini-3-flash-preview",
-  "updated_at": "1405/07/26 04:01",
+  "count": 70,
+  "provider": "Gemini/gemma-4-26b-a4b-it",
+  "updated_at": "1405/07/26 04:35",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -955,6 +955,166 @@
         "Cobots",
         "Robotics",
         "AI"
+      ]
+    },
+    {
+      "id": "ia-20240520-001",
+      "title": "گسترش همکاری زیمنس و مایکروسافت برای هوش مصنوعی صنعتی",
+      "summary": "زیمنس در یک همکاری استراتژیک با مایکروسافت، در حال توسعه ابزارهای پیشرفته هوش مصنوعی برای محیط‌های مهندسی پیچیده است. این همکاری بر استفاده از مدل‌های زبانی بزرگ برای تسهیل برنامه‌نویسی و عیب‌یابی در محیط TIA Portal تمرکز دارد. این حرکت می‌تواند زمان توسعه پروژه‌های اتوماسیون را تا ۳۰ درصد کاهش داده و دقت کدنویسی را به شدت افزایش دهد.",
+      "category": "company",
+      "published_at": "1405/07/25 10:00",
+      "collected_at": "1405/07/26 04:35",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/news/ai-collaboration-microsoft",
+      "tags": [
+        "Siemens",
+        "Microsoft",
+        "AI",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20240520-002",
+      "title": "رونمایی از قابلیت‌های امنیتی جدید در سری SIMATIC S7-1500",
+      "summary": "زیمنس از به‌روزرسانی‌های امنیتی جدید و بسیار مهم برای کنترل‌کننده‌های سری SIMATIC S7-1500 رونمایی کرد که امنیت در سطح سخت‌افزار را تقویت می‌کند. این ویژگی‌های جدید شامل احراز هویت چندعاملی و رمزنگاری پیشرفته برای تمامی پروتکل‌های ارتباطی صنعتی است. این اقدام باعث می‌شود زیرساخت‌های حیاتی در برابر حملات سایبری پیچیده بسیار مقاوم‌تر شوند.",
+      "category": "product",
+      "published_at": "1405/07/25 12:30",
+      "collected_at": "1405/07/26 04:35",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/news/siemens-s7-1500-security-update",
+      "tags": [
+        "SIMATIC",
+        "Cybersecurity",
+        "S7-1500",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20240520-003",
+      "title": "معرفی روبات‌های سنگین جدید ABB برای صنایع خودروسازی",
+      "summary": "شرکت ABB از نسل جدید روبات‌های صنعتی خود با قابلیت جابجایی بار بسیار بالا و دقت بی‌نظیر رونمایی کرد. این روبات‌ها به طور اختصاصی برای خطوط مونتاژ سنگین و فرآیندهای جوشکاری خودکار در صنایع خودروسازی طراحی شده‌اند. استفاده از این تجهیزات مدرن می‌تواند بهره‌وری کلی خطوط تولید را در کارخانه‌های بزرگ به طور چشمگیری افزایش دهد.",
+      "category": "product",
+      "published_at": "1405/07/25 14:15",
+      "collected_at": "1405/07/26 04:35",
+      "source": "ABB Newsroom",
+      "source_url": "https://new.abb.com/news/heavy-duty-robotics-launch",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Automotive",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20240520-004",
+      "title": "ارتقای پلتفرم EcoStruxure اشنایدر الکتریک برای مدیریت انرژی",
+      "summary": "اشنایدر الکتریک نسخه جدید پلتفرم EcoStruxure را با تمرکز ویژه بر پایداری و مدیریت هوشمند انرژی عرضه کرد. این به‌روزرسانی شامل ابزارهای پیشرفته تحلیل داده‌های مصرف برق در سطح کل کارخانه و تجهیزات جانبی است. این سیستم به مدیران اجازه می‌دهد تا با استفاده از داده‌های بلادرنگ، مصرف انرژی را تا ۱۵ درصد کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/25 16:45",
+      "collected_at": "1405/07/26 04:35",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com/ecostruxure-energy-update",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Sustainability",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20240520-005",
+      "title": "ادغام فناوری 5G در راهکارهای Industrial Edge زیمنس",
+      "summary": "زیمنس اعلام کرد که راهکارهای Industrial Edge خود را با شبکه‌های خصوصی 5G به طور کامل یکپارچه کرده است. این فناوری جدید امکان انتقال داده‌های حجیم با تأخیر بسیار کم را در محیط‌های صنعتی پر از نویز فراهم می‌کند. این پیشرفت برای مدیریت هوشمند روبات‌های متحرک (AMR) و حسگرهای لبه‌ای در کارخانه‌های نسل چهارم ضروری است.",
+      "category": "industry",
+      "published_at": "1405/07/26 01:20",
+      "collected_at": "1405/07/26 04:35",
+      "source": "Industrial IT News",
+      "source_url": "https://www.industrial-it.com/siemens-5g-edge-integration",
+      "tags": [
+        "Siemens",
+        "5G",
+        "Industrial Edge",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20240520-006",
+      "title": "توسعه ابزارهای مدیریت داده در پلتفرم FactoryTalk راکول",
+      "summary": "شرکت راکول اتوماسیون از قابلیت‌های جدید و قدرتمند مدیریت داده در محیط نرم‌افزاری FactoryTalk رونمایی کرد. این ابزارهای جدید به کاربران اجازه می‌دهند تا داده‌های تولیدی را به راحتی و بدون خطا به سیستم‌های مدیریت منابع (ERP) منتقل کنند. این یکپارچگی باعث بهبود چشمگیر تصمیم‌گیری‌های مدیریتی بر اساس داده‌های واقعی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 02:00",
+      "collected_at": "1405/07/26 04:35",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/factorytalk-data-management",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Data Management",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20240520-007",
+      "title": "بهبود کارایی درایوهای SINAMICS زیمنس با الگوریتم‌های جدید",
+      "summary": "زیمنس از به‌روزرسانی نرم‌افزاری جدیدی برای درایوهای سری SINAMICS رونمایی کرد که کارایی موتورهای الکتریکی را بهینه می‌کند. این الگوریتم‌های جدید باعث کاهش تلفات حرارتی و افزایش طول عمر قطعات الکترومکانیکی در درایوها می‌شوند. این فناوری برای صنایع سنگین که از توان‌های بسیار بالا استفاده می‌کنند، بسیار حیاتی و سودمند است.",
+      "category": "product",
+      "published_at": "1405/07/26 03:10",
+      "collected_at": "1405/07/26 04:35",
+      "source": "Electrical Engineering News",
+      "source_url": "https://www.ee-news.com/siemens-sinamics-efficiency-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20240520-008",
+      "title": "پیشرفت دوقلوی دیجیتال با استفاده از NVIDIA Omniverse در زیمنس",
+      "summary": "زیمنس در پروژه‌های جدید خود از قدرت موتور گرافیکی NVIDIA Omniverse برای ساخت دوقلوهای دیجیتال بسیار دقیق استفاده می‌کند. این همکاری اجازه می‌دهد تا شبیه‌سازی‌های بسیار پیشرفته از خطوط تولید در یک محیط مجازی کاملاً واقع‌گرایانه انجام شود. این کار ریسک خطاهای عملیاتی در زمان راه‌اندازی واقعی خطوط تولید را به شدت کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/26 03:45",
+      "collected_at": "1405/07/26 04:35",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/siemens-digital-twin-omniverse",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Digital Twin",
+        "Omniverse"
+      ]
+    },
+    {
+      "id": "ia-20240520-009",
+      "title": "سیستم بینایی ماشین جدید FANUC برای کنترل کیفیت خودکار",
+      "summary": "شرکت FANUC از سیستم بینایی ماشین جدید خود که با الگوریتم‌های هوش مصنوعی ادغام شده است، رونمایی کرد. این سیستم می‌تواند عیوب بسیار ریز و غیرقابل مشاهده را در قطعات تولیدی با دقت ۹۹ درصد شناسایی کند. این فناوری باعث کاهش ضایعات تولید و افزایش سرعت خطوط کنترل کیفیت در صنایع حساس الکترونیک می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 04:00",
+      "collected_at": "1405/07/26 04:35",
+      "source": "Robotics Today",
+      "source_url": "https://www.roboticstoday.com/fanuc-ai-vision-system",
+      "tags": [
+        "FANUC",
+        "Machine Vision",
+        "AI",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20240520-010",
+      "title": "گسترش اکوسیستم Xcelerator زیمنس برای دیجیتالی‌سازی",
+      "summary": "زیمنس پلتفرم جامع Xcelerator خود را برای دسترسی آسان‌تر و سریع‌تر به نرم‌افزارهای صنعتی گسترش داد. این پلتفرم شامل مجموعه‌ای از ابزارهای نرم‌افزاری، سخت‌افزاری و سرویس‌های ابری برای دیجیتالی‌سازی فرآیندها است. هدف از این اقدام، تسهیل همکاری بین تامین‌کنندگان و مشتریان در یک اکوسیستم باز و بسیار منعطف است.",
+      "category": "company",
+      "published_at": "1405/07/26 04:15",
+      "collected_at": "1405/07/26 04:35",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://www.siemens.com/xcelerator-ecosystem-expansion",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digitalization",
+        "Software"
       ]
     }
   ]
