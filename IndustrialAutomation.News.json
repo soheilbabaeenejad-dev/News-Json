@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 307,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/26 15:14",
+  "count": 317,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/26 16:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4893,6 +4893,176 @@
         "PLM",
         "SME",
         "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261008-001",
+      "title": "معرفی سری جدید ماژول‌های ورودی و خروجی فایلد کامپکت SIMATIC ET 200SP زیمنس",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های فایلد کامپکت SIMATIC ET 200SP با طراحی بهینه‌شده و ابعاد کوچک‌تر رونمایی کرد. این تجهیزات جدید با هدف کاهش فضای اشغال‌شده در تابلوهای برق و افزایش سرعت انتقال داده‌ها در محیط‌های صنعتی سخت توسعه یافته‌اند. این ماژول‌ها امکان ارتباط پایدار را با پروتکل‌های صنعتی استاندارد فراهم کرده و هزینه‌های سیم‌کشی را به طور چشمگیری کاهش می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 16:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-et-200sp-compact",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200SP",
+        "PLC",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261008-002",
+      "title": "ارتقای قابلیت‌های تحلیل داده در پلتفرم Industrial Edge زیمنس با اپلیکیشن‌های جدید",
+      "summary": "زیمنس بسته نرم‌افزاری جدیدی را برای پلتفرم Industrial Edge منتشر کرد که ابزارهای پیشرفته‌ای را برای تحلیل بلادرنگ داده‌های تولیدی ارائه می‌دهد. این به‌روزرسانی به مهندسان کارخانه اجازه می‌دهد تا الگوریتم‌های یادگیری ماشین را بدون نیاز به زیرساخت ابری خارجی، مستقیماً در لبه شبکه اجرا کنند. این امر امنیت داده‌ها را افزایش داده و تأخیر زمانی در پردازش سیگنال‌های حیاتی را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 16:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/edge-computing/siemens-industrial-edge-update",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "Edge Computing",
+        "Data Analytics",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261008-003",
+      "title": "گسترش کاربرد سیستم کنترل فرآیند SIMATIC PCS 7 در صنایع پالایشگاهی با نسخه جدید",
+      "summary": "نسخه ارتقایافته سیستم کنترل فرآیند SIMATIC PCS 7 زیمنس با تمرکز بر پایداری حداکثری و یکپارچگی بیشتر در مجتمع‌های نفت و گاز عرضه شد. این نسخه جدید ابزارهای تشخیصی پیشرفته‌ای را برای شناسایی زودهنگام خطاهای سخت‌افزاری و نرم‌افزاری در اختیار اپراتورها قرار می‌دهد. این تغییرات به پالایشگاه‌ها کمک می‌کند تا زمان توقف ناخواسته خطوط تولید را به طور قابل توجهی کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/26 16:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/products/article/siemens-simatic-pcs7-upgrade",
+      "tags": [
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control",
+        "Siemens",
+        "Oil and Gas"
+      ]
+    },
+    {
+      "id": "ia-20261008-004",
+      "title": "همکاری زیمنس و فستو برای توسعه استانداردهای ارتباطی در بلوک‌های شیر پنوماتیک",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه همکاری جدیدی را برای یکپارچه‌سازی عمیق‌تر تجهیزات پنوماتیک با کنترل‌کننده‌های SIMATIC امضا کردند. این پروژه‌ مشترک بر استفاده از پروتکل‌های ارتباطی پیشرفته برای مانیتورینگ دقیق مصرف هوا و تشخیص خرابی در شیرهای برقی تمرکز دارد. این راهکار به صنایع مونتاژ کمک می‌کند تا بهره‌وری انرژی را در تجهیزات پنوماتیک خود بهینه‌سازی کنند.",
+      "category": "company",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 16:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/automation/siemens-festo-pneumatics-cooperation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "PROFIBUS",
+        "Profinet"
+      ]
+    },
+    {
+      "id": "ia-20261008-005",
+      "title": "رونمایی از جعبه ابزار امنیت سایبری زیمنس برای حفاظت از شبکه‌های OT",
+      "summary": "زیمنس مجموعه ابزارهای امنیتی جدیدی را تحت عنوان Industrial Security Guard برای حفاظت از زیرساخت‌های اتوماسیون صنعتی معرفی کرد. این راهکار جامع به مدیران شبکه اجازه می‌دهد تا آسیب‌پذیری‌های تجهیزات SIMATIC و SCADA را به‌صورت خودکار اسکن و برطرف کنند. این محصول پاسخگویی به الزامات سخت‌گیرانه استاندارد بین‌المللی IEC 62443 را در کارخانه‌ها تسهیل می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/07/26 11:30",
+      "collected_at": "1405/07/26 16:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-industrial-security-guard-ot/",
+      "tags": [
+        "Cybersecurity",
+        "Siemens",
+        "IEC 62443",
+        "SIMATIC",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261008-006",
+      "title": "توسعه قابلیت‌های روباتیک در نرم‌افزار مهندسی TIA Portal با پکیج جدید SIMATIC Robot Integrator",
+      "summary": "بسته نرم‌افزاری SIMATIC Robot Integrator زیمنس برای اتصال آسان بازوهای روباتیک مختلف به سیستم‌های کنترل اصلی به‌روزرسانی شد. این ماژول مهندسی به برنامه‌نویسان اتوماسیون اجازه می‌دهد بدون نیاز به دانش تخصصی زبان‌های روباتیک، حرکت بازوها را در محیط TIA Portal پیکربندی کنند. این رویکرد زمان راه‌اندازی سلول‌های روباتیک را در خطوط تولید خودرو و بسته‌بندی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 12:15",
+      "collected_at": "1405/07/26 16:00",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/siemens-tia-portal-robot-integrator",
+      "tags": [
+        "TIA Portal",
+        "Robotics",
+        "SIMATIC",
+        "Siemens",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261008-007",
+      "title": "افزایش راندمان مصرف انرژی با اینورترهای صنعتی SINAMICS G120X در صنایع آب و فاضلاب",
+      "summary": "سری درایوهای فرکانس متغیر SINAMICS G120X زیمنس به‌طور گسترده‌ای در پروژه‌های تصفیه آب شهری برای کنترل پمپ‌ها به کار گرفته شدند. این اینورترها با الگوریتم‌های پیشرفته کنترل برداری، تلفات انرژی را در الکتروموتورهای سنگین تا حد زیادی کاهش می‌دهند. قابلیت اتصال این تجهیزات به سامانه‌های اسکادا از طریق پروتکل‌های استاندارد، پایش مصرف انرژی را ساده‌تر کرده است.",
+      "category": "industry",
+      "published_at": "1405/07/26 13:00",
+      "collected_at": "1405/07/26 16:00",
+      "source": "Water World",
+      "source_url": "https://www.waterworld.com/municipal/article/siemens-sinamics-g120x-water-treatment",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Siemens",
+        "Energy Efficiency",
+        "Water Industry"
+      ]
+    },
+    {
+      "id": "ia-20261008-008",
+      "title": "ارتقای سیستم مانیتورینگ WinCC Unified برای پشتیبانی از پنل‌های لمسی نسل جدید",
+      "summary": "زیمنس نسخه جدیدی از نرم‌افزار تجسم‌سازی WinCC Unified را با پشتیبانی از سخت‌افزارهای مانیتورینگ پیشرفته روانه بازار کرد. این به‌روزرسانی گرافیک وب‌محور، امکان طراحی صفحات HMI با واکنش‌گرایی بالا و انیمیشن‌های صنعتی روان‌تر را فراهم می‌کند. این ابزار به اپراتورها دید جامع‌تری از وضعیت لحظه‌ای خطوط تولید و پارامترهای حیاتی فرآیند می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 13:45",
+      "collected_at": "1405/07/26 16:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-wincc-unified-update",
+      "tags": [
+        "WinCC Unified",
+        "HMI",
+        "SCADA",
+        "Siemens",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261008-009",
+      "title": "پیاده‌سازی شبکه بی‌سیم صنعتی SCALANCE با فناوری 5G خصوصی در کارخانه ارلانگن زیمنس",
+      "summary": "مجتمع تولیدی زیمنس در ارلانگن آلمان به زیرساخت کامل شبکه بی‌سیم 5G خصوصی با تجهیزات سری SCALANCE مجهز شد. این زیرساخت پرسرعت و کم‌تاخیر امکان اتصال انعطاف‌پذیر ماشین‌آلات متحرک و خودروهای AGV را به سیستم‌های کنترل مرکزی فراهم ساخته است. این پروژه الگویی عملی برای پیاده‌سازی کارخانه‌های کاملاً ماژولار و مبتنی بر اینترنت اشیاء صنعتی محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/26 14:30",
+      "collected_at": "1405/07/26 16:00",
+      "source": "Industrial IoT 5G",
+      "source_url": "https://www.iiot5g.com/news/siemens-erlangen-private-5g-scalance",
+      "tags": [
+        "5G",
+        "SCALANCE",
+        "Industrial Wireless",
+        "Siemens",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261008-010",
+      "title": "توسعه همکاری‌های آموزشی زیمنس با دانشگاه‌های صنعتی برای تربیت مهندسان اتوماسیون",
+      "summary": "شرکت زیمنس برنامه‌ای جدید را برای تجهیز آزمایشگاه‌های دانشگاهی به تجهیزات پیشرفته TIA Portal و کنترل‌کننده‌های SIMATIC S7-1200 آغاز کرد. این ابتکار با هدف کاهش شکاف بین آموزش‌های آکادمیک و نیازهای واقعی بازار کار در حوزه دیجیتالی‌سازی صنعت طراحی شده است. دانشجویان با شرکت در این دوره‌ها تجربه عملی با استانداردهای مدرن اتوماسیون صنعتی کسب خواهند کرد.",
+      "category": "society",
+      "published_at": "1405/07/26 15:15",
+      "collected_at": "1405/07/26 16:00",
+      "source": "Education Technology News",
+      "source_url": "https://www.edtechindustrial.com/news/siemens-university-automation-partnership",
+      "tags": [
+        "Education",
+        "Siemens",
+        "TIA Portal",
+        "SIMATIC",
+        "Workforce Development"
       ]
     }
   ]
