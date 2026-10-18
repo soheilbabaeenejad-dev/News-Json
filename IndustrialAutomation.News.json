@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 375,
+  "count": 385,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 17:02",
+  "updated_at": "1405/07/26 17:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6013,6 +6013,166 @@
         "Digital Twin",
         "Xcelerator",
         "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "رونمایی زیمنس از ماژول ارتباطی جدید SCALANCE برای شبکه‌های صنعتی پرسرعت",
+      "summary": "شرکت زیمنس ماژول ارتباطی جدید سری SCALANCE را برای ارتقای زیرساخت‌های شبکه در کارخانه‌های هوشمند معرفی کرد. این محصول با پشتیبانی از استانداردهای نوین ارتباطی، امکان تبادل امن و سریع داده‌ها را در بسترهای صنعتی فراهم می‌کند. این فناوری به مدیران اتوماسیون کمک می‌کند تا پایداری شبکه را در خطوط تولید پیچیده بهبود ببخشند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:15",
+      "collected_at": "1405/07/26 17:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/news/siemens-scalance-communication-module",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Industrial Networks",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "به‌روزرسانی بزرگ برای نرم‌افزار مهندسی TIA Portal با تمرکز بر مدیریت پروژه",
+      "summary": "نسخه جدید به‌روزرسانی‌شده محیط مهندسی TIA Portal زیمنس ابزارهای پیشرفته‌ای را برای مدیریت یکپارچه پروژه‌های بزرگ اتوماسیون ارائه می‌دهد. این پلتفرم با بهینه‌سازی فرآیندهای کامپایل و عیب‌یابی، زمان توقف مهندسی را به طور چشمگیری کاهش می‌دهد. مهندسان می‌توانند از این طریق کدهای برنامه‌نویسی SIMATIC را با دقت و سرعت بیشتری توسعه دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:30",
+      "collected_at": "1405/07/26 17:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/engineering-software/siemens-tia-portal-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "SIMATIC",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "گسترش کاربرد کنترل‌کننده‌های SIMATIC S7-1500 در صنایع داروسازی پیشرفته",
+      "summary": "خطوط تولید داروسازی در اروپا به طور گسترده‌ای به استفاده از پی‌ال‌سی‌های پیشرفته SIMATIC S7-1500 زیمنس روی آورده‌اند. این تجهیزات با ارائه بالاترین سطح دقت در کنترل فرآیندهای بچ، استانداردهای سخت‌گیرانه بهداشتی را برآورده می‌کنند. این اقدام نقش مهمی در افزایش کیفیت و ردیابی‌پذیری در صنایع پزشکی دارد.",
+      "category": "industry",
+      "published_at": "1405/07/26 12:05",
+      "collected_at": "1405/07/26 17:03",
+      "source": "Pharmaceutical Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/automation/siemens-s7-1500-pharma",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Pharma",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "همکاری جدید زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط مونتاژ",
+      "summary": "زیمنس و شرکت فستو در پروژه‌ای مشترک به دنبال یکپارچه‌سازی تجهیزات پنوماتیک با معماری سیستم‌های کنترل SIMATIC هستند. این همکاری امکان مانیتورینگ بلادرنگ مصرف هوا و تشخیص خطاهای احتمالی را در محرک‌های صنعتی فراهم می‌سازد. هدف از این راهکار، کاهش هزینه‌های انرژی و ارتقای بهره‌وری در کارخانه‌های خودکار است.",
+      "category": "company",
+      "published_at": "1405/07/26 12:45",
+      "collected_at": "1405/07/26 17:03",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industriale-networks.com/siemens-festo-pneumatics-automation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "ارتقای قابلیت‌های امنیت سایبری در سیستم‌های کنترل توزیع‌شده SIMATIC PCS 7",
+      "summary": "زیمنس پکیج امنیتی جدیدی را برای سیستم کنترل توزیع‌شده SIMATIC PCS 7 منتشر کرد تا از زیرساخت‌های حیاتی در برابر تهدیدات سایبری محافظت کند. این به‌روزرسانی شامل پروتکل‌های رمزنگاری پیشرفته و ابزارهای مانیتورینگ مداوم برای شناسایی نفوذ است. این رویکرد به اپراتورهای نیروگاه‌ها اطمینان می‌دهد که از بالاترین استانداردهای ایمنی برخوردارند.",
+      "category": "news",
+      "published_at": "1405/07/26 13:20",
+      "collected_at": "1405/07/26 17:03",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/automation/siemens-simatic-pcs7-security",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "Cybersecurity",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با ماژول‌های جدید مدیریت توان زیمنس",
+      "summary": "ماژول‌های جدید اندازه‌گیری انرژی زیمنس امکان پایش دقیق مصرف برق را در تابلوهای فشار ضعیف فراهم کرده‌اند. این تجهیزات با اتصال به پلتفرم‌های ابری و لبه‌ای، داده‌های مصرف را به صورت لحظه‌ای تحلیل می‌کنند. این راهکار به صنایع کمک می‌کند تا اهداف پایداری و کاهش ردپای کربن را بهتر محقق سازند.",
+      "category": "product",
+      "published_at": "1405/07/26 14:00",
+      "collected_at": "1405/07/26 17:03",
+      "source": "IEB - Industrial Embedded",
+      "source_url": "https://www.iebmedia.com/siemens-power-management-modules",
+      "tags": [
+        "Siemens",
+        "Energy Management",
+        "Industrial Edge",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "توسعه ابزارهای هوش مصنوعی در محیط توسعه SINAMICS Startdrive",
+      "summary": "زیمنس با افزودن قابلیت‌های مبتنی بر هوش مصنوعی به نرم‌افزار SINAMICS Startdrive، فرآیند راه‌اندازی و تنظیم درایوها را تسهیل کرد. این ابزار به طور خودکار پارامترهای موتور را بهینه کرده و خطاهای احتمالی را پیش‌بینی می‌کند. این نوآوری زمان نصب درایوهای صنعتی را به نصف کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:30",
+      "collected_at": "1405/07/26 17:03",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/siemens-sinamics-startdrive-ai",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "پیاده‌سازی موفق دوقلوی دیجیتال خطوط تولید با فناوری Xcelerator زیمنس",
+      "summary": "یک شرکت خودروسازی بزرگ از پلتفرم Siemens Xcelerator برای شبیه‌سازی کامل یک خط مونتاژ جدید استفاده کرد. این دوقلوی دیجیتال به مهندسان اجازه داد پیش از ساخت فیزیکی کارخانه، تمامی گلوگاه‌های تولیدی را شناسایی و اصلاح کنند. این پروژه نشان‌دهنده قدرت نرم‌افزارهای صنعتی زیمنس در شبیه‌سازی دقیق مقیاس بزرگ است.",
+      "category": "industry",
+      "published_at": "1405/07/26 15:10",
+      "collected_at": "1405/07/26 17:03",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-xcelerator-digital-twin",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "عرضه رایانه صنعتی مقاوم SIMATIC IPC برای محیط‌های خشن کارگاهی",
+      "summary": "زیمنس نسل جدیدی از رایانه‌های صنعتی فشرده SIMATIC IPC را با بدنه مقاوم در برابر لرزش و حرارت بالا معرفی کرد. این سخت‌افزار قدرتمند برای اجرای بارهای پردازشی لبه‌ای و سیستم‌های مانیتورینگ سنگین طراحی شده است. این محصول به پایداری سیستم‌های اسکادا در شرایط سخت محیطی کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 15:50",
+      "collected_at": "1405/07/26 17:03",
+      "source": "Industrial PC",
+      "source_url": "https://www.industrial-pc.com/news/siemens-simatic-ipc-rugged",
+      "tags": [
+        "Siemens",
+        "SIMATIC IPC",
+        "Edge Computing",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "همکاری زیمنس با دانشگاه‌های فنی برای آموزش تخصصی اتوماسیون صنعتی",
+      "summary": "برنامه جدید آموزشی زیمنس برای تجهز آزمایشگاه‌های دانشگاهی به نرم‌افزارهای پیشرفته TIA Portal و سخت‌افزارهای SIMATIC آغاز شد. هدف از این طرح، آماده‌سازی دانشجویان مهندسی برای ورود به بازار کار هوشمند و آشنایی با فناوری‌های اتوماسیون نوین است. این سرمایه‌گذاری آموزشی شکاف بین صنعت و دانشگاه را در حوزه دیجیتالی‌سازی کاهش می‌دهد.",
+      "category": "society",
+      "published_at": "1405/07/26 16:35",
+      "collected_at": "1405/07/26 17:03",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-university-automation-training",
+      "tags": [
+        "Siemens",
+        "Education",
+        "TIA Portal",
+        "Workforce Development"
       ]
     }
   ]
