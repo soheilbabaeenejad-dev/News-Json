@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 230,
+  "count": 240,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 14:01",
+  "updated_at": "1405/07/26 14:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3661,6 +3661,166 @@
         "PLC Programming",
         "Siemens",
         "Automation Software"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی نسل جدید ماژول‌های ورودی و خروجی فایلدبار SIMATIC ET 200SP زیمنس",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های I/O فایلدبار SIMATIC ET 200SP با قابلیت‌های پیشرفته تشخیصی رونمایی کرد. این تجهیزات جدید با هدف کاهش زمان نصب و افزایش پایداری ارتباطات در تابلوهای کنترل صنعتی طراحی شده‌اند. این ماژول‌ها به‌طور کامل با پلتفرم مهندسی TIA Portal یکپارچه شده و به مهندسان امکان مانیتورینگ دقیق‌تر سیگنال‌ها را می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 14:04",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-et-200sp-new-generation",
+      "tags": [
+        "SIMATIC",
+        "TIA Portal",
+        "Industrial Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "ارتقای سیستم کنترل اسکادا SIMATIC WinCC V8.0 با قابلیت‌های جدید امنیت ابری",
+      "summary": "زیمنس نسخه جدید نرم‌افزار مانیتورینگ و اسکادا SIMATIC WinCC V8.0 را با تمرکز بر امنیت سایبری و اتصال ابری عرضه کرد. این نسخه ابزارهای قدرتمندتری برای تجسم داده‌های فرآیندی در اختیار اپراتورهای خطوط تولید قرار می‌دهد. با این به‌روزرسانی، تبادل اطلاعات میان لایه اتوماسیون صنعتی و سرویس‌های ابری با استاندارد امنیتی IEC 62443 انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 14:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/article/siemens-releases-simatic-wincc-v8",
+      "tags": [
+        "WinCC",
+        "SCADA",
+        "Cybersecurity",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "توسعه همکاری زیمنس و فستو برای اتوماسیون پنوماتیک مبتنی بر پروتکل PROFINET",
+      "summary": "شرکت‌های زیمنس و فستو شراکت استراتژیک خود را برای توسعه تجهیزات پنوماتیک هوشمند سازگار با PROFINET گسترش دادند. این همکاری به سازندگان ماشین‌آلات اجازه می‌دهد تا اکچوئیتورهای بادی را به‌طور مستقیم به کنترل‌کننده‌های SIMATIC S7-1500 متصل کنند. این راهکار مشترک باعث کاهش سیم‌کشی فیزیکی و تسهیل عیب‌یابی در سیستم‌های اتوماسیون خطوط مونتاژ می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/26 14:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-festo-expand-profinet-partnership",
+      "tags": [
+        "PROFINET",
+        "SIMATIC",
+        "Festo",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "انتشار بسته نرم‌افزاری جدید برای بهینه‌سازی مصرف انرژی در پلتفرم Insights Hub",
+      "summary": "زیمنس از ماژول جدید تحلیل مصرف انرژی در بستر ابری Insights Hub (MindSphere سابق) پرده برداشت. این ابزار به صنایع سنگین کمک می‌کند تا ردپای کربن و میزان مصرف برق تجهیزات را به‌صورت لحظه‌ای ردیابی کنند. این سیستم با تحلیل داده‌های جمع‌آوری‌شده از مترهای دیجیتال، راهکارهای خودکار برای کاهش هزینه‌های انرژی پیشنهاد می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 14:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud/siemens-updates-insights-hub-energy-management",
+      "tags": [
+        "Insights Hub",
+        "Energy Efficiency",
+        "Cloud",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "عرضه ماژول ارتباطی جدید SCALANCE برای شبکه‌های پرسرعت صنعتی TSN",
+      "summary": "خانواده تجهیزات شبکه صنعتی زیمنس با معرفی سوئیچ‌های جدید SCALANCE با پشتیبانی از فناوری Time-Sensitive Networking گسترش یافت. این تجهیزات امکان انتقال بلادرنگ داده‌ها را در توپولوژی‌های پیچیده شبکه فراهم می‌کنند. استفاده از این سوئیچ‌ها پایداری ارتباطات میان ربات‌ها و کنترل‌کننده‌ها را در خطوط تولید پرسرعت تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:20",
+      "collected_at": "1405/07/26 14:04",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-scalance-tsn-switches",
+      "tags": [
+        "SCALANCE",
+        "TSN",
+        "Industrial Network",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "بهینه‌سازی پردازش لبه‌ای با نسخه جدید Industrial Edge App Publisher زیمنس",
+      "summary": "زیمنس ابزار توسعه اپلیکیشن Industrial Edge App Publisher را با امکانات پیشرفته برای برنامه‌نویسان صنعتی به‌روزرسانی کرد. این ابزار به شرکت‌ها اجازه می‌دهد کدهای سفارشی خود را به کانتینرهای نرم‌افزاری تبدیل کرده و روی رایانه‌های صنعتی اجرا کنند. این راهکار انعطاف‌پذیری پردازش داده‌های سنسورها را مستقیماً در لایه ماشین فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/26 12:05",
+      "collected_at": "1405/07/26 14:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-industrial-edge-app-publisher",
+      "tags": [
+        "Industrial Edge",
+        "Edge Computing",
+        "Software",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "استفاده از دوقلوی دیجیتال زیمنس در طراحی خطوط تولید باتری خودروهای الکتریکی",
+      "summary": "یک خودروساز بزرگ اروپایی از نرم‌افزار ممیزی و طراحی کارخانه زیمنس Xcelerator برای راه‌اندازی خط تولید باتری استفاده کرد. این فناوری دوقلوی دیجیتال امکان شبیه‌سازی کامل فرآیند مونتاژ سلول‌های باتری را پیش از ساخت فیزیکی فراهم آورد. این اقدام زمان راه‌اندازی کارخانه جدید را به نصف کاهش داده و راندمان تولید را به حداکثر رساند.",
+      "category": "industry",
+      "published_at": "1405/07/26 12:40",
+      "collected_at": "1405/07/26 14:04",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/technology/siemens-digital-twin-ev-battery-plant",
+      "tags": [
+        "Digital Twin",
+        "Xcelerator",
+        "EV Battery",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "معرفی کنترل‌کننده دور موتور SINAMICS G120X با استانداردهای حفاظتی بالا",
+      "summary": "زیمنس درایوهای فرکانس متغیر SINAMICS G120X را با بدنه‌های مقاوم در برابر شرایط سخت محیطی برای صنایع آب و فاضلاب عرضه کرد. این اینورترها با نرم‌افزارهای مدیریت انرژی زیمنس کاملاً سازگار بوده و تلفات انرژی پمپ‌ها را به حداقل می‌رسانند. طراحی ماژولار این تجهیزات نگهداری و تعویض قطعات را برای تکنسین‌های سایت بسیار آسان‌تر می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 13:10",
+      "collected_at": "1405/07/26 14:04",
+      "source": "Pumps & Systems",
+      "source_url": "https://www.pumpsandsystems.com/siemens-sinamics-g120x-water-industry",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Water Industry",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "گسترش قابلیت‌های امنیت سایبری در سیستم کنترل توزیع‌شده SIMATIC PCS neo",
+      "summary": "نسخه به‌روزرسانی‌شده سیستم کنترل فرآیند SIMATIC PCS neo با لایه‌های دفاعی جدید برای حفاظت از زیرساخت‌های حیاتی معرفی شد. این سیستم بومی مبتنی بر وب، از مدیریت متمرکز گواهی‌نامه‌های امنیتی پشتیبانی می‌کند. این ویژگی به پالایشگاه‌ها و صنایع پتروشیمی کمک می‌کند تا با خیال راحت‌تر به مدیریت از راه دور فرآیندها بپردازند.",
+      "category": "product",
+      "published_at": "1405/07/26 13:35",
+      "collected_at": "1405/07/26 14:04",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/siemens-updates-simatic-pcs-neo-cybersecurity",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "توسعه آموزش‌های تخصصی اتوماسیون صنعتی با تجهیز آزمایشگاه‌های دانشگاهی به پی‌ال‌سی‌های زیمنس",
+      "summary": "شرکت زیمنس در قالب یک برنامه حمایتی جدید، تجهیزات پیشرفته اتوماسیون شامل کنترل‌کننده‌های SIMATIC S7-1200 و پنل‌های HMI را به دانشگاه‌های فنی اهدا کرد. این ابتکار با هدف آماده‌سازی دانشجویان مهندسی برای ورود به بازار کار و آشنایی با فناوری‌های صنعت ۴.۰ انجام شده است. اساتید دانشگاه اکنون می‌توانند دوره‌های عملی برنامه‌نویسی TIA Portal را با سخت‌افزارهای به‌روز برگزار کنند.",
+      "category": "society",
+      "published_at": "1405/07/26 14:00",
+      "collected_at": "1405/07/26 14:04",
+      "source": "Education Technology Insights",
+      "source_url": "https://www.edtechinsights.com/news/siemens-equips-universities-automation-labs",
+      "tags": [
+        "Education",
+        "SIMATIC S7-1200",
+        "Industry 4.0",
+        "Siemens"
       ]
     }
   ]
