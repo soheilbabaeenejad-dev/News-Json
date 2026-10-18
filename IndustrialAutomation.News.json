@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 490,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 19:01",
+  "count": 499,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/26 19:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7873,6 +7873,142 @@
         "Education",
         "TIA Portal",
         "Workforce Development"
+      ]
+    },
+    {
+      "id": "ia-20241018-001",
+      "title": "معرفی ماژول‌های جدید ورودی/خروجی ایمن برای سری SIMATIC ET 200SP",
+      "summary": "زیمنس از نسل جدید ماژول‌های ورودی/خروجی ایمن (F-DI/F-DQ) برای سیستم توزیع‌شده ET 200SP رونمایی کرد. این ماژول‌ها با هدف افزایش سطح ایمنی در محیط‌های صنعتی پرخطر و کاهش زمان توقف خطوط تولید طراحی شده‌اند. این تجهیزات جدید به طور کامل با استاندارد ایمنی SIL 3 مطابقت داشته و ادغام آن‌ها در محیط TIA Portal بسیار ساده‌تر از نسل‌های قبلی است.",
+      "category": "product",
+      "published_at": "1403/07/27 08:30",
+      "collected_at": "1405/07/26 19:03",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-et200sp.html",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "Safety",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20241018-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم Insights Hub",
+      "summary": "شرکت زیمنس به‌روزرسانی جدیدی را برای پلتفرم اینترنت اشیاء صنعتی خود یعنی Insights Hub ارائه کرد. این نسخه جدید شامل ابزارهای پیشرفته تحلیل داده‌های زمانی (Time Series) است که به مدیران کارخانه‌ها اجازه می‌دهد الگوهای مصرف انرژی را با دقت بسیار بالاتری شناسایی کنند. این بهبود به کاهش هزینه‌های عملیاتی و بهینه‌سازی مصرف منابع در مقیاس وسیع کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/27 09:15",
+      "collected_at": "1405/07/26 19:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/iiot/news/21890000/siemens-insights-hub-update",
+      "tags": [
+        "Insights Hub",
+        "IIoT",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20241018-003",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای استانداردسازی پروتکل OPC UA",
+      "summary": "زیمنس در یک همکاری استراتژیک با تولیدکنندگان بزرگ خودرو، بر گسترش استفاده از پروتکل OPC UA در خطوط مونتاژ تمرکز کرده است. هدف از این اقدام، ایجاد یک زبان مشترک بین ماشین‌آلات مختلف و سیستم‌های مدیریت تولید (MES) است تا تبادل داده‌ها در کارخانه‌های هوشمند بدون وابستگی به برند خاصی انجام شود. این استانداردسازی، انعطاف‌پذیری خطوط تولید را به شدت افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1403/07/27 10:00",
+      "collected_at": "1405/07/26 19:03",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.industrial-automation.news/opc-ua-standardization",
+      "tags": [
+        "OPC UA",
+        "Interoperability",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20241018-005",
+      "title": "توسعه راهکارهای امنیت سایبری برای شبکه‌های صنعتی با SCALANCE",
+      "summary": "با افزایش حملات سایبری به زیرساخت‌های OT، زیمنس سری جدید سوئیچ‌های صنعتی SCALANCE XC-200 را با قابلیت‌های امنیتی پیشرفته عرضه کرد. این سوئیچ‌ها دارای دیواره آتش (Firewall) یکپارچه و سیستم تشخیص نفوذ هستند که امنیت ارتباطات بین PLCها و سیستم‌های مانیتورینگ را تضمین می‌کند. این اقدام گامی مهم در جهت انطباق با استانداردهای سخت‌گیرانه IEC 62443 است.",
+      "category": "industry",
+      "published_at": "1403/07/27 12:30",
+      "collected_at": "1405/07/26 19:03",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://www.cybersecurity-industrial.com/siemens-scalance-security",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20241018-006",
+      "title": "معرفی نرم‌افزار جدید شبیه‌سازی فرآیند برای صنایع شیمیایی",
+      "summary": "زیمنس نرم‌افزار جدیدی را برای مدل‌سازی و شبیه‌سازی فرآیندهای شیمیایی در محیط SIMATIC PCS 7 معرفی کرد. این ابزار به مهندسان اجازه می‌دهد قبل از اجرای واقعی فرآیند در کارخانه، تمامی متغیرها را در یک محیط مجازی تست کنند. این رویکرد باعث کاهش خطاهای انسانی و افزایش بهره‌وری در فرآیندهای پیچیده شیمیایی و پتروشیمی می‌شود.",
+      "category": "research",
+      "published_at": "1403/07/27 13:15",
+      "collected_at": "1405/07/26 19:03",
+      "source": "Process Automation Today",
+      "source_url": "https://www.process-automation.today/simulation-chemicals",
+      "tags": [
+        "PCS 7",
+        "Simulation",
+        "Chemical Industry"
+      ]
+    },
+    {
+      "id": "ia-20241018-007",
+      "title": "ارتقای سیستم‌های مانیتورینگ WinCC با هوش مصنوعی مولد",
+      "summary": "زیمنس در حال ادغام هوش مصنوعی مولد در سیستم‌های مانیتورینگ WinCC Unified است تا به اپراتورها در تحلیل سریع خطاهای سیستم کمک کند. این دستیار هوشمند می‌تواند گزارش‌های متنی از وضعیت آلارم‌ها تهیه کرده و راهکارهای پیشنهادی برای رفع مشکل ارائه دهد. این قابلیت جدید زمان پاسخگویی تیم‌های فنی را در مواجهه با حوادث غیرمترقبه در خطوط تولید کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1403/07/27 14:00",
+      "collected_at": "1405/07/26 19:03",
+      "source": "Tech Automation Review",
+      "source_url": "https://www.tech-automation.review/wincc-ai-integration",
+      "tags": [
+        "WinCC",
+        "AI",
+        "Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20241018-008",
+      "title": "گسترش بازار روبات‌های متحرک خودگردان (AMR) در لجستیک صنعتی",
+      "summary": "با توجه به افزایش تقاضا برای اتوماسیون انبارها، زیمنس همکاری خود را با تامین‌کنندگان روبات‌های متحرک خودگردان (AMR) گسترش داد. این روبات‌ها اکنون با سیستم مدیریت ناوگان SIMOVE زیمنس کاملاً یکپارچه شده‌اند تا مسیرهای بهینه را در محیط‌های شلوغ کارخانه‌ای پیدا کنند. این سیستم باعث افزایش سرعت انتقال قطعات بین ایستگاه‌های کاری مختلف می‌شود.",
+      "category": "industry",
+      "published_at": "1403/07/27 15:20",
+      "collected_at": "1405/07/26 19:03",
+      "source": "Robotics World",
+      "source_url": "https://www.roboticsworld.com/amr-logistics-siemens",
+      "tags": [
+        "AMR",
+        "SIMOVE",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20241018-009",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌های فولاد با سیستم‌های زیمنس",
+      "summary": "زیمنس راهکار جدیدی را برای مدیریت هوشمند انرژی در صنایع سنگین مانند فولاد معرفی کرد که بر پایه پلتفرم Industrial Edge عمل می‌کند. این سیستم با تحلیل داده‌های مصرف برق در لحظه، بارهای غیرضروری را شناسایی و مدیریت می‌کند. این فناوری به شرکت‌های فولادی کمک می‌کند تا ضمن کاهش هزینه‌های انرژی، ردپای کربن خود را مطابق با استانداردهای زیست‌محیطی کاهش دهند.",
+      "category": "industry",
+      "published_at": "1403/07/27 16:45",
+      "collected_at": "1405/07/26 19:03",
+      "source": "Energy Industry News",
+      "source_url": "https://www.energy-industry.news/steel-energy-optimization",
+      "tags": [
+        "Energy",
+        "Industrial Edge",
+        "Steel Industry"
+      ]
+    },
+    {
+      "id": "ia-20241018-010",
+      "title": "انتشار نسخه جدید SIMATIC S7-1500V برای محیط‌های مجازی‌سازی شده",
+      "summary": "زیمنس نسخه جدید پی‌ال‌سی مجازی SIMATIC S7-1500V را برای استفاده در سرورهای صنعتی منتشر کرد. این نرم‌افزار به کاربران اجازه می‌دهد بدون نیاز به سخت‌افزار اختصاصی، کنترل‌کننده‌های منطقی را در محیط‌های ابری یا سرورهای محلی اجرا کنند. این انعطاف‌پذیری برای پروژه‌های اتوماسیون مقیاس‌پذیر و معماری‌های نرم‌افزارمحور (Software-Defined) بسیار ایده‌آل است.",
+      "category": "product",
+      "published_at": "1403/07/27 18:00",
+      "collected_at": "1405/07/26 19:03",
+      "source": "Automation Insider",
+      "source_url": "https://www.automation-insider.com/s7-1500v-virtual-plc",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "Virtualization"
       ]
     }
   ]
