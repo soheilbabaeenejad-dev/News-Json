@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 355,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/26 16:08",
+  "count": 365,
+  "provider": "Gemini/gemini-3.8-flash",
+  "updated_at": "1405/07/26 17:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5673,6 +5673,176 @@
         "WinCC",
         "HMI",
         "Cloud Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "استقرار ابزار هوش مصنوعی زیمنس Industrial Copilot در خطوط مونتاژ باتری",
+      "summary": "زیمنس همکاری خود با خودروسازان بزرگ را برای پیاده‌سازی دستیار هوش مصنوعی مولد Industrial Copilot در فرآیند تولید باتری نهایی کرد. این ابزار با تحلیل کدهای مهندسی در محیط SIMATIC و TIA Portal، خطاهای برنامه‌نویسی را تا ۶۰ درصد سریع‌تر شناسایی می‌کند. این اقدام گامی کلیدی در کاهش زمان راه‌اندازی سلول‌های تولیدی به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/26 16:45",
+      "collected_at": "1405/07/26 17:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-industrial-copilot",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Industrial Copilot",
+        "هوش مصنوعی",
+        "باتری خودرو"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "رونمایی زیمنس از گیت‌وی اینترنت اشیاء صنعتی SIMATIC IOT2050 پیشرفته",
+      "summary": "شرکت زیمنس نسخه به‌روزشده گیت‌وی پردازش داده SIMATIC IOT2050 را مجهز به پردازنده چهار هسته‌ای ARM و حافظه رم ارتقایافته معرفی نمود. این دستگاه امکان اتصال امن سنسورهای نسل قدیم به سیستم‌های ابری مانند Insights Hub را فراهم می‌سازد. بهینه‌سازی ارتباطات از طریق درگاه‌های اترنت دوگانه و پورت سریال، انعطاف مهندسی را به‌شدت افزایش داده است.",
+      "category": "product",
+      "published_at": "1405/07/26 16:25",
+      "collected_at": "1405/07/26 17:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/21554890/siemens-simatic-iot2050",
+      "tags": [
+        "SIMATIC",
+        "IOT2050",
+        "اینترنت اشیاء صنعتی",
+        "زیمنس",
+        "سخت‌افزار"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "تجهیز خطوط تولید مرسدس بنز به معماری دیجیتال مبتنی بر Siemens Xcelerator",
+      "summary": "مرسدس بنز اعلام کرد خطوط اختصاصی ساخت موتورهای الکتریکی در آلمان را به پلتفرم Xcelerator زیمنس مجهز کرده است. این سامانه با ایجاد دوقلوی دیجیتال از جریان خط و استفاده از کنترل‌کننده‌های SIMATIC S7-1500، نرخ توقفات ناخواسته را تا ۱۵ درصد کاهش داده است. این ادغام، مدیریت زنجیره داده را از طراحی تا نگهداری تجهیزات یکپارچه می‌کند.",
+      "category": "company",
+      "published_at": "1405/07/26 16:05",
+      "collected_at": "1405/07/26 17:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/mercedes-benz-deploys-siemens-digital-enterprise-solutions/",
+      "tags": [
+        "زیمنس",
+        "Siemens Xcelerator",
+        "خودروسازی",
+        "مرسدس بنز",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "معرفی اکسس پوینت‌های صنعتی SCALANCE WAM766-1 زیمنس با استاندارد Wi-Fi 6",
+      "summary": "زیمنس ماژول‌های ارتباط بی‌سیم SCALANCE WAM766-1 را با پشتیبانی از فناوری Wi-Fi 6 و استاندارد حفاظتی IP65 برای محیط‌های نامساعد عملیاتی عرضه کرد. این محصول تبادل داده با نرخ گیگابیت را برای جرثقیل‌ها و ربات‌های انبار ممکن کرده و تأخیر ارتباطی را به حداقل می‌رساند. هدف اصلی، پایدارسازی شبکه‌های داده در صنایع پتروشیمی و معدنی است.",
+      "category": "product",
+      "published_at": "1405/07/26 15:40",
+      "collected_at": "1405/07/26 17:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/scalance-wam766-1-industrial-wireless-lan",
+      "tags": [
+        "SCALANCE",
+        "Wi-Fi 6",
+        "شبکه صنعتی",
+        "اتوماسیون",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "ارتقای ایمنی فرآیندی با نسخه جدید پلتفرم Triconex اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک ویرایش جدید سیستم ایمنی و حفاظت ابزار دقیق Triconex General Purpose را روانه بازار اتوماسیون فرآیندی کرد. این سامانه با برخورداری از معماری سه‌گانه TMR و استاندارد IEC 61508 SIL 3، قابلیت اطمینان پالایشگاه‌ها را ارتقا می‌دهد. بهینه‌سازی لایه‌های پایش عملکرد، امنیت سایبری را در برابر تهدیدات بدافزاری صنعتی تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 15:15",
+      "collected_at": "1405/07/26 17:00",
+      "source": "Process Industry Informer",
+      "source_url": "https://www.processindustryinformer.com/schneider-electric-upgrades-triconex-safety-systems/",
+      "tags": [
+        "اشنایدر الکتریک",
+        "Triconex",
+        "ایمنی صنعتی",
+        "SIL 3",
+        "اتوماسیون فرآیندی"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "عرضه نسل دوم سیستم سروودرایو SINAMICS S210 زیمنس برای ماشین‌آلات دقیق",
+      "summary": "زیمنس نسل جدید درایوهای تک‌محور SINAMICS S210 را با قابلیت‌های گسترده ایمنی یکپارچه تا سطح SIL 3 معرفی کرد. این درایوها با موتورهای سری SIMOTICS S-1FK2 سازگاری کامل داشته و از پروتکل PROFINET IRT برای پاسخ زمانی آنی بهره می‌برند. عملکرد دینامیکی بالا و کاهش ابعاد فیزیکی، بازده خطوط بسته‌بندی دارو و مواد غذایی را متحول می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 14:50",
+      "collected_at": "1405/07/26 17:00",
+      "source": "Drives & Controls",
+      "source_url": "https://drivesncontrols.com/news/fullstory.php/aid/6954/Siemens_unveils_next_gen_sinamics_s210.html",
+      "tags": [
+        "SINAMICS",
+        "سروودرایو",
+        "SIMOTICS",
+        "کنترل حرکت",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "معرفی سرور صنعتی قدرتمند SIMATIC IPC1047E زیمنس جهت مجازی‌سازی کارخانه",
+      "summary": "شرکت زیمنس رایانه صنعتی قدرتمند SIMATIC IPC1047E را با پردازنده‌های چند‌هسته‌ای Intel Xeon و توان پردازش گرافیکی بالا رونمایی کرد. این رایانه رکمونت برای اجرای هم‌زمان ماشین‌های مجازی کنترل و پردازش‌های بینایی ماشین در سطح لبه طراحی شده است. استفاده از این سرور، جایگزینی مناسب برای کاهش سخت‌افزارهای پراکنده در اتاق‌های کنترل به‌شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/26 14:20",
+      "collected_at": "1405/07/26 17:00",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.iaasiaonline.com/siemens-simatic-ipc1047e-edge-computing/",
+      "tags": [
+        "SIMATIC IPC",
+        "رایانه صنعتی",
+        "مجازی‌سازی",
+        "Industrial Edge",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "رونمایی کوکا از روبات متحرک صنعتی KMP 600P با سامانه ناوبری ترکیبی",
+      "summary": "شرکت کوکا ربات متحرک خودران KMP 600P را با ظرفیت باربری ۶۰۰ کیلوگرم و الگوریتم‌های ناوبری SLAM دوگانه معرفی نمود. این ربات قادر است در سالن‌های تولید با سرعت ۲ متر بر ثانیه بدون نیاز به خط‌کشی مغناطیسی تردد نماید. یکپارچگی سریع با نرم‌افزارهای MES کارخانه‌ای، چابکی خطوط تولید در صنایع الکترونیک و خودروسازی را دوچندان می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 13:55",
+      "collected_at": "1405/07/26 17:00",
+      "source": "Robotics World",
+      "source_url": "https://www.roboticsbusinessreview.com/kuka-launches-kmp-600p-amr/",
+      "tags": [
+        "کوکا",
+        "روبات صنعتی",
+        "AMR",
+        "لجستیک هوشمند",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "اخذ استاندارد SIL 3 توسط ماژول‌های I/O سری SIMATIC ET 200SP HA زیمنس",
+      "summary": "شرکت زیمنس از دریافت گواهینامه ایمنی عملکردی SIL 3 برای رده کامل ماژول‌های ورودی و خروجی فشرده SIMATIC ET 200SP HA خبر داد. این تجهیزات ویژه سیستم کنترل توزیع‌شده SIMATIC PCS neo و PCS 7 بوده و امکان نصب در مناطق خطرناک Zone 2 را دارند. حذف نیاز به قطعات واسط مجزا، هزینه سیم‌کشی و فضای تابلوهای کنترل را بیش از ۳۰ درصد کاهش می‌دهد.",
+      "category": "regulation",
+      "published_at": "1405/07/26 13:25",
+      "collected_at": "1405/07/26 17:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-et-200sp-ha-sil-3-certification",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "ایمنی عملکردی",
+        "PCS neo",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "ارتقای کارایی سیستم کنترل توزیع‌شده Centum VP یوکوگاوا برای صنایع فرآیندی",
+      "summary": "شرکت یوکوگاوا به‌روزرسانی جامعی برای کنترل‌کننده میدانی سری Centum VP منتشر کرد که توان پردازشی الگوریتم‌های پیچیده را دو برابر می‌کند. این سامانه با پروتکل‌های مدرن نظیر OPC UA و HART-IP سازگاری داشته و اتصال بدون درز داده‌های تجهیزات میدانی را تضمین می‌نماید. این ارتقا پایداری عملکرد در بویلرها و توربین‌های بخار صنعتی را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 12:50",
+      "collected_at": "1405/07/26 17:00",
+      "source": "Yokogawa News",
+      "source_url": "https://www.yokogawa.com/news/press-releases/2026/centum-vp-performance-enhancement/",
+      "tags": [
+        "یوکوگاوا",
+        "Centum VP",
+        "DCS",
+        "کنترل فرآیند",
+        "ابزار دقیق"
       ]
     }
   ]
