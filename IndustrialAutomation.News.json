@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 327,
+  "count": 337,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 16:01",
+  "updated_at": "1405/07/26 16:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5223,6 +5223,176 @@
         "IoT",
         "Predictive Maintenance",
         "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261008-001",
+      "title": "معرفی سری جدید ماژول‌های ورودی و خروجی غیرمتمرکز SIMATIC ET 200SP زیمنس",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های I/O غیرمتمرکز سری SIMATIC ET 200SP با سرعت پردازش بالاتر و ابعاد فشرده‌تر رونمایی کرد. این تجهیزات جدید به مهندسان اتوماسیون اجازه می‌دهد تا فضای کمتری را در تابلوهای برق اشغال کنند و در عین حال تبادل اطلاعات را با دقت بیشتری انجام دهند. این محصول نقش کلیدی در بهینه‌سازی سیم‌کشی و کاهش زمان نصب در خطوط تولید مدرن ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 16:02",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-et200sp-new-generation",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200SP",
+        "PLC",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261008-002",
+      "title": "ارتقای قابلیت‌های امنیت شبکه در روترهای صنعتی SCALANCE زیمنس",
+      "summary": "زیمنس به‌روزرسانی امنیتی مهمی را برای تجهیزات شبکه صنعتی سری SCALANCE منتشر کرد که شامل پروتکل‌های رمزنگاری پیشرفته و دیواره آتش داخلی است. این تغییرات به مدیران شبکه کارخانه کمک می‌کند تا در برابر تهدیدات سایبری روزافزون، از زیرساخت‌های حیاتی OT محافظت بهتری داشته باشند. این نسخه جدید استاندارد سخت‌گیرانه IEC 62443 را به طور کامل پوشش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 16:02",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-security-update",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Cybersecurity",
+        "ICS",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261008-003",
+      "title": "گسترش کاربرد سیستم کنترل سیم‌پیچی SINAMICS S120 در صنایع سنگین",
+      "summary": "شرکت زیمنس با بهینه‌سازی درایوهای صنعتی SINAMICS S120، کارایی کنترل حرکت را در ماشین‌آلات بزرگ فلزکاری و نورد افزایش داد. این درایوهای پیشرفته با الگوریتم‌های جدید کنترلی، تلفات انرژی را به حداقل رسانده و دقت گشتاور را به طور قابل توجهی بهبود می‌بخشند. این توسعه به کارخانجات صنعتی کمک می‌کند تا هزینه‌های عملیاتی و مصرف برق خود را کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/26 16:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/drives/siemens-sinamics-s120-heavy-industry",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Motion Control",
+        "Heavy Industry"
+      ]
+    },
+    {
+      "id": "ia-20261008-004",
+      "title": "استفاده از سیستم SCADA مبتنی بر وب SIMATIC WinCC OA در صنایع نفت و گاز",
+      "summary": "یک پروژه بزرگ پالایشگاهی در اروپا از پلتفرم SIMATIC WinCC Open Architecture زیمنس برای مانیتورینگ جامع فرآیندهای توزیع‌شده استفاده کرد. این سامانه مقیاس‌پذیر به اپراتورها اجازه می‌دهد حجم عظیمی از داده‌های لحظه‌ای را از مناطق جغرافیایی مختلف یکپارچه‌سازی و تحلیل کنند. این رویکرد نظارتی باعث افزایش ایمنی و کاهش زمان توقف اضطراری در تاسیسات حیاتی می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 16:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/articles/siemens-wincc-oa-oil-gas-project",
+      "tags": [
+        "Siemens",
+        "WinCC OA",
+        "SCADA",
+        "Oil and Gas",
+        "Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20261008-005",
+      "title": "معرفی ابزار مهندسی جدید برای پیکربندی تجهیزات ابزاردقیق Sitrans زیمنس",
+      "summary": "زیمنس نرم‌افزار مدیریت ابزاردقیق Sitrans IQ را با قابلیت تشخیص خطای هوشمند و اتصال مستقیم به پلتفرم TIA Portal عرضه کرد. این ابزار به تکنسین‌ها امکان می‌دهد تجهیزات اندازه‌گیری دما، فشار و سطح را سریع‌تر راه‌اندازی و کالیبره کنند. این قابلیت خطاهای انسانی را کاهش داده و روند تعمیر و نگهداری را به شدت تسریع می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:30",
+      "collected_at": "1405/07/26 16:02",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-sitrans-iq-instrumentation-tool",
+      "tags": [
+        "Siemens",
+        "Sitrans",
+        "Instrumentation",
+        "TIA Portal",
+        "Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261008-006",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در پلتفرم لبه صنعتی زیمنس برای تشخیص ناهنجاری",
+      "summary": "برنامه‌نویسان زیمنس بسته نرم‌افزاری جدیدی را برای Industrial Edge منتشر کردند که مدل‌های یادگیری ماشین را مستقیماً روی رایانه‌های صنعتی اجرا می‌کند. این سیستم قادر است لرزش‌ها و نوسانات غیرعادی موتورهای الکتریکی را پیش از وقوع خرابی مکانیکی شناسایی کند. این راهکار نگهداری مبتنی بر وضعیت، بهره‌وری کلی تجهیزات را به شکل چشمگیری افزایش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/26 12:15",
+      "collected_at": "1405/07/26 16:02",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/industrial-iot/siemens-industrial-edge-ai-anomaly-detection",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Artificial Intelligence",
+        "Predictive Maintenance",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261008-007",
+      "title": "همکاری زیمنس و فستو برای استانداردسازی ارتباطات پنوماتیک در بستر IO-Link",
+      "summary": "شرکت‌های زیمنس و فستو توافقنامه‌ای را برای یکپارچه‌سازی عمیق‌تر شیرهای پنوماتیک با کنترل‌کننده‌های SIMATIC از طریق فناوری IO-Link امضا کردند. این همکاری مهندسان را قادر می‌سازد تا وضعیت تجهیزات پنوماتیک را به صورت بلادرنگ در نرم‌افزار TIA Portal مانیتور کنند. این یکپارچه‌سازی باعث کاهش هزینه‌های سیم‌کشی و افزایش شفافیت اطلاعاتی در خطوط مونتاژ می‌شود.",
+      "category": "match",
+      "published_at": "1405/07/26 13:00",
+      "collected_at": "1405/07/26 16:02",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/siemens-festo-io-link-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "IO-Link",
+        "Automation",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261008-008",
+      "title": "عرضه نسخه جدید کنترل‌کننده CNC مدل SINUMERIK 840D sl با توابع ایمنی پیشرفته",
+      "summary": "زیمنس نسل جدید کنترل‌کننده‌های عددی SINUMERIK 840D sl را با قابلیت‌های پیشرفته ایمنی یکپارچه (Integrated Safety) به بازار عرضه کرد. این سیستم به سازندگان ماشین‌آلات ابزار دقیق اجازه می‌دهد تا استانداردهای ایمنی اپراتور را بدون کاهش سرعت براده‌برداری پیاده‌سازی کنند. این به‌روزرسانی نقش مهمی در ارتقای دقت تراشکاری و فرزکاری قطعات پیچیده هوافضا دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 13:45",
+      "collected_at": "1405/07/26 16:02",
+      "source": "Modern Machine Shop",
+      "source_url": "https://www.mmsonline.com/news/siemens-sinumerik-840d-sl-safety-update",
+      "tags": [
+        "Siemens",
+        "SINUMERIK",
+        "CNC",
+        "Machining",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261008-009",
+      "title": "پیاده‌سازی سیستم مدیریت انرژی کارخانه مبتنی بر بستر ابری Insights Hub زیمنس",
+      "summary": "یک واحد تولیدی بزرگ در بخش خودروسازی، سیستم جامع مدیریت مصرف انرژی خود را بر پایه پلتفرم ابری Insights Hub زیمنس راه‌اندازی کرد. این سامانه با جمع‌آوری داده‌های مصرف برق، گاز و آب از کنتورهای صنعتی، گزارش‌های تحلیلی دقیقی برای کاهش اتلاف انرژی ارائه می‌دهد. این پروژه به شرکت کمک کرد تا به استانداردهای سخت‌گیرانه محیط زیستی و اهداف کربن صفر دست یابد.",
+      "category": "economy",
+      "published_at": "1405/07/26 14:30",
+      "collected_at": "1405/07/26 16:02",
+      "source": "Energy Manager Today",
+      "source_url": "https://www.energymanagertoday.com/siemens-insights-hub-energy-management-factory",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Energy Management",
+        "Sustainability",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261008-010",
+      "title": "رونمایی از ماژول‌های ارتباطی جدید برای اتصال کنترل‌کننده‌های SIMATIC S7-1200 به شبکه‌های TSN",
+      "summary": "شرکت زیمنس ماژول‌های توسعه جدیدی را معرفی کرد که امکان اتصال پی‌ال‌سی‌های اقتصادی SIMATIC S7-1200 را به شبکه‌های صنعتی حساس به زمان (TSN) فراهم می‌کند. این فناوری ارتباطی تضمین می‌کند که داده‌های حیاتی بدون تأخیر و با بالاترین اولویت در بستر اترنت صنعتی منتقل شوند. این توسعه دسترسی صنایع کوچک و متوسط را به زیر شبکههای ارتباطی پرسرعت و بلادرنگ هموار می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/26 15:15",
+      "collected_at": "1405/07/26 16:02",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-simatic-s7-1200-tsn-modules",
+      "tags": [
+        "Siemens",
+        "S7-1200",
+        "TSN",
+        "Industrial Ethernet",
+        "PLC"
       ]
     }
   ]
