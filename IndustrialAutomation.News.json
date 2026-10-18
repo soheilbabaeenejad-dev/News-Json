@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 453,
+  "count": 462,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 18:03",
+  "updated_at": "1405/07/26 18:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7272,6 +7272,159 @@
         "مجازی‌سازی",
         "آموزش",
         "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "توسعه قابلیت‌های پردازش ابری در نرم‌افزار مانیتورینگ WinCC Unified V19",
+      "summary": "زیمنس نسخه به‌روزرسانی‌شده نرم‌افزار SCADA خود یعنی WinCC Unified V19 را با تمرکز بر تبادل داده‌های ابری عرضه کرد. این نسخه جدید امکان اتصال بی‌نقص به پلتفرم‌های ابری و تحلیل بلادرنگ داده‌های کارخانه را فراهم می‌سازد. این ابزار به مدیران صنعتی کمک می‌کند تا عملکرد خطوط تولید را از راه دور و با امنیت سایبری بالا پایش کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:30",
+      "collected_at": "1405/07/26 18:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/wincc-unified-v19-update",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "SCADA",
+        "Cloud",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "بهینه‌سازی مصرف انرژی در درایوهای صنعتی با تکنولوژی جدید SINAMICS Active Front End",
+      "summary": "فناوری جدید SINAMICS Active Front End زیمنس برای درایوهای فرکانس متغیر معرفی شد که تلفات انرژی را به طور چشمگیری کاهش می‌دهد. این ماژول توانایی بازگردانی انرژی ترمز به شبکه برق را با بالاترین راندمان داراست. این نوآوری نقش مهمی در کاهش هزینه‌های انرژی واحدهای تولیدی بزرگ و دستیابی به اهداف پایداری صنعتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 11:00",
+      "collected_at": "1405/07/26 18:05",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/sinamics-afe-energy",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "گسترش کاربرد ماژول‌های ارتباطی SCALANCE برای شبکه‌های صنعتی پرسرعت",
+      "summary": "زیمنس سبد محصولات شبکه صنعتی خود را با معرفی سویچ‌های جدید سری SCALANCE برای پروتکل‌های PROFINET و TSN توسعه داد. این تجهیزات امنیت ارتباطی زیرساخت‌های اتوماسیون را در برابر تهدیدات سایبری به شدت تقویت می‌کنند. این تجهیزات به دلیل مقاومت در برابر شرایط سخت محیطی، گزینه‌ای ایده‌آل برای صنایع نفت، گاز و پتروشیمی محسوب می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/26 12:20",
+      "collected_at": "1405/07/26 18:05",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/scalance-industrial-networks",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Networking",
+        "PROFINET",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "ارتقای اتوماسیون پست‌های برق با سیستم کنترل توزیع‌شده SIPROTEC زیمنس",
+      "summary": "نسخه جدید سیستم مدیریت و حفاظت شبکه قدرت SIPROTEC توسط زیمنس برای پست‌های فشار قوی معرفی شد. این سیستم با پشتیبانی از استانداردهای ارتباطی IEC 61850، انعطاف‌پذیری بالایی در شبکه‌های توزیع انرژی هوشمند ایجاد می‌کند. این راهکار به اپراتورها امکان می‌دهد خطاهای شبکه را در کوتاه‌ترین زمان ممکن شناسایی و برطرف کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 13:10",
+      "collected_at": "1405/07/26 18:05",
+      "source": "Power Engineering",
+      "source_url": "https://www.power-eng.com/siemens-siprotec-update",
+      "tags": [
+        "Siemens",
+        "SIPROTEC",
+        "Smart Grid",
+        "Power Automation",
+        "Substation"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "همکاری زیمنس و فستو برای ارتقای استانداردهای پنوماتیک در خطوط مونتاژ",
+      "summary": "شرکت زیمنس در پروژه‌ای مشترک با فستو، ماژول‌های کنترلی جدیدی را برای یکپارچه‌سازی سیستم‌های پنوماتیک با کنترل‌کننده‌های SIMATIC توسعه داد. این همکاری به مهندسان اجازه می‌دهد تا عملگرهای بادی را مستقیماً از طریق بستر TIA Portal مانیتور و عیب‌یابی کنند. این رویکرد زمان توقف خطوط تولید را به میزان قابل توجهی کاهش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/26 14:05",
+      "collected_at": "1405/07/26 18:05",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Automation",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "معرفی ابزار مهندسی جدید برای پیکربندی روبات‌های صنعتی در بستر Siemens Xcelerator",
+      "summary": "زیمنس پلتفرم نرم‌افزاری جدیدی را برای شبیه‌سازی و برنامه‌نویسی آفلاین بازوهای رباتیک در اکوسیستم Xcelerator ارائه داد. این ابزار به طراحان خطوط تولید کمک می‌کند تا مسیرهای حرکتی روبات‌ها را پیش از راه‌اندازی فیزیکی به دقت بررسی کنند. این فناوری نوآورانه خطاهای نصب را کاهش داده و سرعت راه‌اندازی کارخانه‌ها را تسریع می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 15:00",
+      "collected_at": "1405/07/26 18:05",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-xcelerator-robotics",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Robotics",
+        "Simulation",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "استفاده از رایانه صنعتی SIMATIC IPC برای پردازش بارهای کاری هوش مصنوعی",
+      "summary": "نسخه قدرتمندتری از رایانه‌های صنعتی SIMATIC IPC مجهز به پردازنده‌های گرافیکی پیشرفته برای کاربردهای لبه‌ای معرفی شد. این سخت‌افزار صنعتی توانایی اجرای الگوریتم‌های بینایی ماشین و یادگیری عمیق را در محیط‌های کارگاهی دارد. این رایانه مقاوم برای تحلیل داده‌های حسگرها و پیش‌بینی خرابی تجهیزات در خطوط تولید پیوسته کاربرد دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 15:45",
+      "collected_at": "1405/07/26 18:05",
+      "source": "Industrial IoT World",
+      "source_url": "https://www.industrialiotworld.com/simatic-ipc-ai-edge",
+      "tags": [
+        "Siemens",
+        "SIMATIC IPC",
+        "Edge Computing",
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "راه‌اندازی سیستم مدیریت کیفیت یکپارچه بر پایه سیستم‌های MES زیمنس در صنایع داروسازی",
+      "summary": "یک شرکت بزرگ داروسازی اروپایی خطوط تولید خود را به سیستم مدیریت تولید (Opcenter Execution) زیمنس مجهز کرد. این سامانه تمام مراحل ساخت دارو را از ورود مواد اولیه تا بسته‌بندی نهایی به صورت دیجیتالی ردیابی می‌کند. اینپارچه‌سازی این سیستم با تجهیزات اتوماسیون SIMATIC دقت و تطابق با استانداردهای سخت‌گیرانه بهداشتی را تضمین می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/26 16:30",
+      "collected_at": "1405/07/26 18:05",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-opcenter-pharma",
+      "tags": [
+        "Siemens",
+        "Opcenter",
+        "MES",
+        "Pharma",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "گسترش کاربرد سنسورهای وضعیت هوشمند در تجهیزات توزیع نیروی الکتریکی زیمنس",
+      "summary": "زیمنس حسگرهای هوشمند جدیدی را برای پایش سلامت کلیدهای اتوماتیک و تابلوافق فشار ضعیف معرفی کرد. این سنسورها پارامترهای حیاتی مانند دما و ارتعاش را اندازه‌گیری کرده و داده‌ها را به پلتفرم ابری ارسال می‌کنند. این رویکرد از خرابی‌های ناگهانی تابلوهای برق جلوگیری کرده و ایمنی تاسیسات صنعتی را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 17:15",
+      "collected_at": "1405/07/26 18:05",
+      "source": "Electrical Review",
+      "source_url": "https://www.electricalreview.co.uk/siemens-smart-sensors",
+      "tags": [
+        "Siemens",
+        "Sensors",
+        "Condition Monitoring",
+        "Electrical",
+        "Maintenance"
       ]
     }
   ]
