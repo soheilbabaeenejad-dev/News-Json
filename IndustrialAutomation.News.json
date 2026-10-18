@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 219,
-  "provider": "Gemini/gemini-3-flash-preview",
-  "updated_at": "1405/07/26 13:08",
+  "count": 220,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/26 14:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3476,6 +3476,22 @@
         "OT Security",
         "ICS",
         "Cyber Insights"
+      ]
+    },
+    {
+      "id": "ia-20261008-001",
+      "title": "معرفی نسل جدید کنترل‌کننده‌های SIMATIC S7-1200 G2 زیمنس",
+      "summary": "شرکت زیمنس از نسل جدید کنترل‌کننده‌های منطقی برنامه‌پذیر خود تحت عنوان SIMATIC S7-1200 G2 رونمایی کرد. این سری جدید با افزایش چشمگیر قدرت پردازش و پشتیبانی بهتر از ارتباطات صنعتی، انعطاف‌پذیری بالایی را برای مهندسان فراهم می‌کند. این محصول نقش کلیدی در توسعه اتوماسیون مقیاس‌پذیر در ماشین‌آلات صنعتی ایفا خواهد کرد.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 14:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1200-g2",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "Automation"
       ]
     }
   ]
