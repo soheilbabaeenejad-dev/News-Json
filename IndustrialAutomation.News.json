@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 189,
-  "provider": "Gemini/gemini-3-flash-preview",
-  "updated_at": "1405/07/26 12:09",
+  "count": 199,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/26 13:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2997,6 +2997,166 @@
         "Cybersecurity",
         "IEC 62443",
         "Phoenix Contact"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی کنترل‌کننده ایمنی جدید SIMATIC S7-1500F با گواهینامه SIL3",
+      "summary": "شرکت زیمنس از نسخه پیشرفته کنترل‌کننده ایمنی SIMATIC S7-1500F پرده برداشت که از استانداردهای سخت‌گیرانه SIL3 و PL e پشتیبانی می‌کند. این محصول جدید با هدف ارتقای ایمنی اپراتورها در خطوط تولید پرسرعت و رباتیک طراحی شده است. این کنترل‌کننده به مهندسان اجازه می‌دهد تا منطق‌های ایمنی و استاندارد را در یک سخت‌افزار واحد پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 13:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500f-sil3",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی در پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس ماژول جدیدی برای مدیریت و تحلیل مصرف انرژی به بستر لبه صنعتی Industrial Edge خود اضافه کرد. این ابزار به کارخانه‌ها کمک می‌کند تا ردپای کربن خود را به صورت لحظه‌ای رصد کرده و هزینه‌های عملیاتی را کاهش دهند. این راهکار به راحتی با تجهیزات اندازه‌گیری SINAMICS و SENTRON یکپارچه می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 13:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/industrial-edge-energy-siemens",
+      "tags": [
+        "Industrial Edge",
+        "Energy Management",
+        "Siemens",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "همکاری زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط مونتاژ",
+      "summary": "دو شرکت بزرگ صنعتی زیمنس و فستو تفاهم‌نامه‌ای برای توسعه تجهیزات پنوماتیک هوشمند امضا کردند. این همکاری بر پایه اتصال شیرهای برقی فستو به سیستم‌های کنترل SIMATIC S7 و محیط TIA Portal شکل گرفته است. هدف این پروژه، ارائه عیب‌یابی پیش‌بینی‌پذیر و کاهش زمان توقف ماشین‌آلات در صنایع بسته‌بندی است.",
+      "category": "industry",
+      "published_at": "1405/07/26 09:50",
+      "collected_at": "1405/07/26 13:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/industry-news/siemens-festo-pneumatics-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "عرضه ماژول ارتباطی جدید SCALANCE برای شبکه‌های صنعتی پرسرعت",
+      "summary": "شرکت زیمنس سری جدید سوئیچ‌های مدیریت‌شده SCALANCE را برای پشتیبانی از شبکه‌های صنعتی مبتنی بر فیبر نوری معرفی کرد. این تجهیزات امنیت ارتباطی را در زیرساخت‌های حیاتی OT تقویت کرده و از پروتکل‌های استاندارد صنعتی پشتیبانی می‌کنند. این سوئیچ‌ها پایداری بالایی در محیط‌های سخت کارگاهی از خود نشان می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:20",
+      "collected_at": "1405/07/26 13:00",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/siemens-scalance-fiber-optic-switches",
+      "tags": [
+        "SCALANCE",
+        "Networking",
+        "Cybersecurity",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "ارتقای نرم‌افزار NX CAD/CAM زیمنس با الگوریتم‌های هوش مصنوعی مولد",
+      "summary": "نسخه جدید نرم‌افزار NX از سوی زیمنس منتشر شد که شامل ابزارهای پیشرفته طراحی به کمک هوش مصنوعی مولد است. این قابلیت به مهندسان کمک می‌کند تا قطعات مکانیکی پیچیده را با وزن کمتر و مقاومت بالاتر به صورت خودکار بهینه‌سازی کنند. این نرم‌افزار نقش کلیدی در تسریع فرآیند توسعه محصولات صنعتی دارد.",
+      "category": "news",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 13:00",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/story/siemens-nx-generative-ai-update",
+      "tags": [
+        "Siemens",
+        "NX CAD",
+        "AI",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "پیوستن شرکت‌های داروسازی به شبکه مشتریان سیستم SIMATIC PCS neo",
+      "summary": "چندین شرکت بزرگ داروسازی اروپایی فرآیندهای تولید پیوسته خود را به سیستم کنترل توزیع‌شده SIMATIC PCS neo زیمنس مجهز کردند. این پلتفرم تحت وب امکان مهندسی همکارانه از راه دور را بدون نیاز به نصب نرم‌افزار محلی فراهم می‌کند. این تغییر باعث کاهش چشمگیر زمان اعتبارسنچی تجهیزات دارویی شده است.",
+      "category": "industry",
+      "published_at": "1405/07/26 11:10",
+      "collected_at": "1405/07/26 13:00",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-pcs-neo-pharma-adoption",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Pharma",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "رونمایی از ربات‌های متحرک خودگردان جدید با ناوبری مبتنی بر هوش مصنوعی",
+      "summary": "شرکت مرودا نسل جدید AMRهای خود را با سیستم ناوبری پیشرفته مجهز به پردازنده‌های لبه‌ای معرفی کرد. این ربات‌ها قادرند در محیط‌های پویا و شلوغ کارخانه‌ها بدون نیاز به نشانگرهای مغناطیسی به راحتی مسیر خود را بیابند. این تجهیزات سهم بسزایی در اتوماسیون لجستیک داخلی کارخانه‌ها دارند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:35",
+      "collected_at": "1405/07/26 13:00",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/article/new-autonomous-mobile-robots-ai-navigation",
+      "tags": [
+        "AMR",
+        "Robotics",
+        "Logistics",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "توسعه پروتکل‌های امنیتی برای درایوهای صنعتی SINAMICS با استاندارد IEC 62443",
+      "summary": "زیمنس بسته‌های به‌روزرسانی امنیتی جدیدی را برای خانواده درایوهای SINAMICS عرضه کرد که با استاندارد بین‌المللی IEC 62443 مطابقت کامل دارند. این به‌روزرسانی‌ها آسیب‌پذیری‌های احتمالی شبکه را پوشش داده و از نفوذهای سایبری جلوگیری می‌کنند. این اقدام امنیت لایه‌های مختلف اتوماسیون کارخانه‌ها را به شدت بالا می‌برد.",
+      "category": "regulation",
+      "published_at": "1405/07/26 12:00",
+      "collected_at": "1405/07/26 13:00",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-sinamics-iec62443-security-updates",
+      "tags": [
+        "SINAMICS",
+        "Cybersecurity",
+        "IEC 62443",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "پیاده‌سازی موفق دوقلوی دیجیتال در خط تولید خودروسازی با راهکار زیمنس",
+      "summary": "یک شرکت خودروسازی پیشرو توانست با استفاده از پلتفرم Siemens Xcelerator زمان راه‌اندازی خط بدنه‌سازی جدید خود را ۳۰ درصد کاهش دهد. دوقلوی دیجیتال ایجاد شده تمامی مراحل جوشکاری رباتیک را پیش از اجرا شبیه‌سازی کرد. این پروژه نمونه بارزی از کارایی مهندسی مجازی در صنایع سنگین است.",
+      "category": "industry",
+      "published_at": "1405/07/26 12:25",
+      "collected_at": "1405/07/26 13:00",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-digital-twin-body-shop",
+      "tags": [
+        "Digital Twin",
+        "Siemens Xcelerator",
+        "Automotive",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "انتشار کتابچه راهنمای جدید برای توسعه اپلیکیشن‌ها در بستر Industrial Edge",
+      "summary": "تیم توسعه‌دهندگان زیمنس مرجع آموزشی جدیدی برای برنامه‌نویسان جهت ساخت اپلیکیشن‌های کانتینری در بستر Industrial Edge منتشر کرد. این راهنما به مهندسان نرم‌افزار کمک می‌کند تا کدهای پایتون خود را به راحتی به محیط‌های اتوماسیون صنعتی منتقل کنند. این اقدام گامی مهم در جهت همگرایی فناوری اطلاعات (IT) و فناوری عملیاتی (OT) محسوب می‌شود.",
+      "category": "research",
+      "published_at": "1405/07/26 12:50",
+      "collected_at": "1405/07/26 13:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-industrial-edge-developer-guide",
+      "tags": [
+        "Industrial Edge",
+        "OT/IT",
+        "Python",
+        "Siemens"
       ]
     }
   ]

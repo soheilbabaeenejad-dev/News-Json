@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 169,
-  "provider": "Gemini/gemini-3.7-flash",
-  "updated_at": "1405/07/26 12:05",
+  "count": 170,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/26 13:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2611,6 +2611,22 @@
         "فیگور",
         "رباتیک",
         "خودکارسازی"
+      ]
+    },
+    {
+      "id": "ai-20261017-001",
+      "title": "گوگل از قابلیت‌های جدید هوش مصنوعی برای تحلیل پیشرفته داده‌های مالی پرده برداشت",
+      "summary": "شرکت گوگل ابزار جدیدی مبتنی بر مدل جمنای معرفی کرده است که به تحلیلگران مالی اجازه می‌دهد روند بازار را با دقت بالاتری پیش‌بینی کنند. این ابزار قادر است هزاران گزارش حسابداری و اقتصادی را در کسری از ثانیه پردازش کرده و خلاصه جامع ارائه دهد. هدف از این توسعه، کاهش خطاهای انسانی و افزایش سرعت تصمیم‌گیری در مؤسسات بزرگ سرمایه‌گذاری است.",
+      "category": "economy",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 13:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/ai-financial-analysis-google",
+      "tags": [
+        "Google",
+        "Gemini",
+        "Finance",
+        "AI"
       ]
     }
   ]
