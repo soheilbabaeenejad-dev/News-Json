@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 169,
+  "count": 179,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 12:01",
+  "updated_at": "1405/07/26 12:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2677,6 +2677,166 @@
         "SIMATIC S7-1200",
         "TIA Portal",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول ارتباطی جدید SCALANCE برای توسعه شبکه‌های صنعتی پرسرعت",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید SCALANCE برای ارتقای زیرساخت‌های شبکه در صنایع خودکارسازی پرده برداشت. این محصول با پشتیبانی از استانداردهای نوین ارتباطی، امکان انتقال داده‌ها با سرعت بالا و تأخیر کم را در محیط‌های صنعتی فراهم می‌کند. استفاده از این ماژول به مهندسان کمک می‌کند تا پایداری و امنیت تبادل اطلاعات را در خطوط تولید به شکل قابل توجهی افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:15",
+      "collected_at": "1405/07/26 12:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/scalance-new-module-siemens",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Industrial Network",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "به‌روزرسانی نرم‌افزار TIA Portal با ابزارهای پیشرفته مدیریت پروژه",
+      "summary": "نسخه جدید به‌روزرسانی‌شده محیط مهندسی TIA Portal قابلیت‌های تازه‌ای برای مدیریت کارآمدتر پروژه‌های اتوماسیون صنعتی ارائه می‌دهد. این ابزارها با هدف کاهش زمان مهندسی و افزایش همگام‌سازی تیم‌های توسعه طراحی شده‌اند و به کاربران اجازه می‌دهند کدهای پی‌ال‌سی را سریع‌تر عیب‌یابی کنند. این تغییرات گامی مهم در جهت ساده‌سازی فرآیندهای پیچیده پیاده‌سازی سیستم‌های SIMATIC است.",
+      "category": "product",
+      "published_at": "1405/07/26 08:45",
+      "collected_at": "1405/07/26 12:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/tia-portal-update-engineering",
+      "tags": [
+        "TIA Portal",
+        "SIMATIC",
+        "Engineering",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش کاربرد ربات‌های متحرک خودگردان با پلتفرم SIMOVE زیمنس",
+      "summary": "سیستم مدیریت ناوگان SIMOVE زیمنس اکنون از طیف وسیع‌تری از ربات‌های متحرک خودگردان یا همان AMRها پشتیبانی می‌کند. این پلتفرم نرم‌افزاری بهینه‌سازی مسیر و هماهنگی تردد درون‌کارگاهی را برای لجستیک هوشمند بهبود می‌بخشد. کارخانه‌ها با به‌کارگیری این فناوری می‌توانند بهره‌وری زنجیره تامین داخلی خود را تا حد زیادی بالا ببرند.",
+      "category": "industry",
+      "published_at": "1405/07/26 09:10",
+      "collected_at": "1405/07/26 12:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/simove-fleet-management-amr",
+      "tags": [
+        "SIMOVE",
+        "AMR",
+        "Logistics",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "ارتقای امنیت سیستم‌های کنترل صنعتی با پروتکل‌های حفاظتی جدید SIMATIC",
+      "summary": "زیمنس استانداردهای حفاظتی جدیدی را برای سری کنترل‌کننده‌های SIMATIC S7-1500 معرفی کرد که مقاومت در برابر تهدیدات سایبری را افزایش می‌دهد. این ارتقا شامل رمزنگاری پیشرفته سخت‌افزاری و ابزارهای مانیتورینگ بلادرنگ برای شناسایی دسترسی‌های غیرمجاز است. این اقدام به‌ویژه برای زیرساخت‌های حیاتی که به امنیت بالایی نیاز دارند اهمیت راهبردی دارد.",
+      "category": "regulation",
+      "published_at": "1405/07/26 09:30",
+      "collected_at": "1405/07/26 12:03",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-simatic-security-upgrade",
+      "tags": [
+        "SIMATIC",
+        "Cybersecurity",
+        "IEC 62443",
+        "ICS"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با قابلیت‌های جدید Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس ماژول جدیدی برای تحلیل و پایش مصرف انرژی در خطوط تولید سنگین ارائه داد. این ابزار با جمع‌آوری داده‌های لحظه‌ای از کنتورهای هوشمند و درایوها، الگوهای مصرف را شناسایی و پیشنهادهای بهینه‌سازی ارائه می‌کند. مدیران صنعتی با این راهکار می‌توانند هزینه‌های انرژی و ردپای کربن مجموعه خود را کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 09:55",
+      "collected_at": "1405/07/26 12:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/insights-hub-energy-management",
+      "tags": [
+        "Insights Hub",
+        "Energy Efficiency",
+        "Cloud",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "همکاری جدید زیمنس و شرکای صنعتی برای توسعه معماری‌های نرم‌افزارمحور",
+      "summary": "زیمنس در چارچوب اکوسیستم Xcelerator با شرکت‌های پیشرو در حوزه نرم‌افزار برای توسعه اتوماسیون مبتنی بر نرم‌افزار همکاری می‌کند. این شراکت بر جداسازی سخت‌افزار و نرم‌افزار در کنترل‌کننده‌ها و پیاده‌سازی سیستم‌های مجازی تمرکز دارد. این رویکرد انعطاف‌پذیری طراحان ماشین‌آلات را برای توسعه سریع‌تر محصولات جدید بهبود می‌بخشد.",
+      "category": "company",
+      "published_at": "1405/07/26 10:20",
+      "collected_at": "1405/07/26 12:03",
+      "source": "Automation Magazine",
+      "source_url": "https://www.automation.com/siemens-software-defined-automation",
+      "tags": [
+        "Siemens Xcelerator",
+        "Software-Defined",
+        "Partnership",
+        "Virtual PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی سری جدید درایوهای فرکانس متغیر برای کنترل دقیق موتورهای الکتریکی",
+      "summary": "نسخه‌های پیشرفته درایوهای صنعتی سری SINAMICS با قابلیت‌های تشخیصی هوشمند و توان خروجی بالا به بازار عرضه شدند. این درایوها با الگوریتم‌های پیشرفته کنترل بردار، راندمان مصرف انرژی موتورهای الکتریکی را به طور چشمگیری افزایش می‌دهند. ادغام آسان این تجهیزات با محیط TIA Portal از مزایای کلیدی این محصولات به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/26 10:40",
+      "collected_at": "1405/07/26 12:03",
+      "source": "Drive & Control",
+      "source_url": "https://www.driveandcontrol.co.uk/sinamics-new-variable-frequency",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Motors",
+        "Energy Saving"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش کاربرد هوش مصنوعی لبه‌ای در سیستم‌های مانیتورینگ WinCC Unified",
+      "summary": "سیستم مانیتورینگ و کنترل WinCC Unified زیمنس با قابلیت‌های پردازش هوش مصنوعی در لبه شبکه تقویت شد. این ویژگی به اپراتورها اجازه می‌دهد تصاویر و داده‌های حیاتی فرآیند را به‌صورت خودکار تحلیل و ناهنجاری‌ها را پیش از وقوع خرابی شناسایی کنند. این فناوری نقش مهمی در کاهش توقفات ناخواسته خطوط تولید ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:05",
+      "collected_at": "1405/07/26 12:03",
+      "source": "InTech Magazine",
+      "source_url": "https://www.intechplus.com/wincc-unified-edge-ai",
+      "tags": [
+        "WinCC Unified",
+        "Edge AI",
+        "HMI",
+        "Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "افزایش بهره‌وری تولید با راهکارهای دوقلوی دیجیتال در صنایع خودروسازی",
+      "summary": "یک خودروساز بزرگ اروپایی با استفاده از ابزارهای شبیه‌سازی و دوقلوی دیجیتال زیمنس توانست زمان راه‌اندازی خط مونتاژ جدید خود را کوتاه‌تر کند. این بستر نرم‌افزاری امکان تست و اعتبارسنجی کدهای PLC و روبات‌ها را پیش از نصب فیزیکی فراهم ساخته است. چنین راهکارهایی خطاهای انسانی و هزینه‌های اصلاح تجهیزات را به حداقل می‌رسانند.",
+      "category": "industry",
+      "published_at": "1405/07/26 11:30",
+      "collected_at": "1405/07/26 12:03",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/digital-twin-automotive-siemens",
+      "tags": [
+        "Digital Twin",
+        "Automotive",
+        "Simulation",
+        "Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه زیرساخت‌های ابری برای تجمیع داده‌های اتوماسیون صنعتی",
+      "summary": "راهکارهای جدید ابری زیمنس امکان اتصال یکپارچه داده‌های لایه کنترل را به بسترهای کلان‌داده فراهم کرده‌اند. این زیرساخت‌ها با استفاده از پروتکل‌های استاندارد صنعتی، تبادل امن اطلاعات را بین کارخانه و دفاتر مرکزی میسر می‌سازند. این تحول به تحلیلگران داده کمک می‌کند تا مدل‌های پیش‌بینی عملکرد را با دقت بالاتری پیاده‌سازی کنند.",
+      "category": "news",
+      "published_at": "1405/07/26 11:50",
+      "collected_at": "1405/07/26 12:03",
+      "source": "Industrial IoT 247",
+      "source_url": "https://www.industrialiot247.com/cloud-infrastructure-industrial-data",
+      "tags": [
+        "Cloud",
+        "Big Data",
+        "Industrial IoT",
+        "Connectivity"
       ]
     }
   ]
