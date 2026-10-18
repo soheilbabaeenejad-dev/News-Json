@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 562,
+  "count": 571,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/26 21:01",
+  "updated_at": "1405/07/26 21:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9017,6 +9017,153 @@
         "OT",
         "Regulation",
         "Best Practices"
+      ]
+    },
+    {
+      "id": "ia-20241017-001",
+      "title": "معرفی نسل جدید کنترل‌کننده‌های SIMATIC S7-1500 V3.1 توسط زیمنس",
+      "summary": "زیمنس نسخه ۳.۱ از کنترل‌کننده‌های پیشرفته SIMATIC S7-1500 را با تمرکز بر افزایش سرعت پردازش و امنیت سایبری معرفی کرد. این به‌روزرسانی شامل بهبودهای قابل توجه در مدیریت حافظه و پشتیبانی از پروتکل‌های ارتباطی جدید برای محیط‌های صنعتی است. این ارتقا به مهندسان اجازه می‌دهد تا سیستم‌های اتوماسیون پیچیده را با کارایی بالاتر و تأخیر کمتر در TIA Portal پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 21:04",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "TIA Portal",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241017-003",
+      "title": "همکاری استراتژیک راکول اتوماسیون و مایکروسافت برای هوش مصنوعی صنعتی",
+      "summary": "راکول اتوماسیون از همکاری جدید خود با مایکروسافت برای ادغام سرویس‌های هوش مصنوعی Azure در پلتفرم FactoryTalk خبر داد. هدف از این همکاری، بهینه‌سازی فرآیندهای تولید و پیش‌بینی نیازهای تعمیر و نگهداری است. این راهکار به مدیران کارخانه‌ها کمک می‌کند تا با استفاده از داده‌های ابری، تصمیمات دقیق‌تری در مقیاس بزرگ اتخاذ کنند.",
+      "category": "company",
+      "published_at": "1405/07/26 11:45",
+      "collected_at": "1405/07/26 21:04",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases.html",
+      "tags": [
+        "Rockwell Automation",
+        "Microsoft",
+        "AI",
+        "Cloud",
+        "FactoryTalk"
+      ]
+    },
+    {
+      "id": "ia-20241017-004",
+      "title": "رونمایی از اینورترهای هوشمند SINAMICS G220 با امنیت یکپارچه",
+      "summary": "زیمنس نسل جدید اینورترهای SINAMICS G220 را با تمرکز بر بهره‌وری انرژی و امنیت سایبری داخلی روانه بازار کرد. این درایوها به گونه‌ای طراحی شده‌اند که با استانداردهای امنیتی IEC 62443 سازگاری کامل دارند. این محصول با کاهش مصرف انرژی در موتورهای الکتریکی، هزینه‌های عملیاتی را در خطوط تولید به میزان قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 12:20",
+      "collected_at": "1405/07/26 21:04",
+      "source": "Siemens Industry",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics-g220.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Cybersecurity",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241017-005",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS neo برای صنایع شیمیایی",
+      "summary": "نسخه جدید سیستم کنترل فرآیند تحت وب SIMATIC PCS neo با قابلیت‌های پیشرفته مدیریت داده‌های فرآیندی عرضه شد. این سیستم به مهندسان اجازه می‌دهد تا از هر نقطه جغرافیایی به مدیریت و مانیتورینگ فرآیندهای پیچیده شیمیایی بپردازند. پایداری و مقیاس‌پذیری بالا از ویژگی‌های کلیدی این به‌روزرسانی برای محیط‌های صنعتی حساس است.",
+      "category": "product",
+      "published_at": "1405/07/26 13:50",
+      "collected_at": "1405/07/26 21:04",
+      "source": "Process Automation Magazine",
+      "source_url": "https://www.siemens.com/global/en/products/automation/process-control/simatic-pcs-neo.html",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Process Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241017-006",
+      "title": "گسترش کاربرد روبات‌های متحرک خودگردان (AMR) در انبارهای هوشمند",
+      "summary": "بازار روبات‌های متحرک خودگردان به دلیل نیاز به بهینه‌سازی زنجیره تأمین، رشد سریعی را تجربه می‌کند. شرکت‌های پیشرو در حال پیاده‌سازی سیستم‌های ناوبری هوشمند هستند که با پلتفرم‌های اتوماسیون کارخانه هماهنگ می‌شوند. این روبات‌ها با کاهش خطاهای انسانی در جابجایی کالا، بهره‌وری کلی انبارها را تا ۳۰ درصد افزایش داده‌اند.",
+      "category": "industry",
+      "published_at": "1405/07/26 14:10",
+      "collected_at": "1405/07/26 21:04",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/logistics/amr-market-growth",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "Robotics",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241017-007",
+      "title": "استانداردسازی ارتباطات بلادرنگ با پروتکل TSN در اتوماسیون صنعتی",
+      "summary": "تکنولوژی شبکه حساس به زمان (TSN) به عنوان ستون فقرات ارتباطات صنعتی در حال تبدیل شدن به یک استاندارد جهانی است. این فناوری امکان تبادل داده‌های بلادرنگ را میان کنترل‌کننده‌ها و سنسورها با کمترین تأخیر ممکن فراهم می‌کند. زیمنس با ادغام این پروتکل در تجهیزات شبکه SCALANCE، زیرساخت‌های ارتباطی کارخانه‌های آینده را تقویت کرده است.",
+      "category": "topic",
+      "published_at": "1405/07/26 15:30",
+      "collected_at": "1405/07/26 21:04",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/tsn-industrial-automation",
+      "tags": [
+        "TSN",
+        "Networking",
+        "Industrial Ethernet",
+        "SCALANCE"
+      ]
+    },
+    {
+      "id": "ia-20241017-008",
+      "title": "به‌روزرسانی نرم‌افزار WinCC Unified برای مدیریت بهتر داده‌های عظیم",
+      "summary": "زیمنس نسخه جدید WinCC Unified را با ابزارهای پیشرفته برای مدیریت و تجسم داده‌های عظیم صنعتی منتشر کرد. این نرم‌افزار با بهره‌گیری از فناوری‌های وب، امکان طراحی رابط‌های کاربری پویا و مقیاس‌پذیر را برای اپراتورها فراهم می‌کند. این به‌روزرسانی همچنین امنیت تبادل داده بین HMI و سرورهای مرکزی را به طور چشمگیری بهبود بخشیده است.",
+      "category": "product",
+      "published_at": "1405/07/26 16:45",
+      "collected_at": "1405/07/26 21:04",
+      "source": "Siemens Software",
+      "source_url": "https://new.siemens.com/global/en/products/automation/simatic-hmi/wincc-unified.html",
+      "tags": [
+        "WinCC",
+        "HMI",
+        "Visualization",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241017-009",
+      "title": "نقش دوقلوهای دیجیتال در کاهش زمان راه‌اندازی ماشین‌آلات صنعتی",
+      "summary": "استفاده از دوقلوهای دیجیتال در محیط SINUMERIK ONE به تولیدکنندگان اجازه می‌دهد تا قبل از ساخت فیزیکی، عملکرد ماشین‌آلات را شبیه‌سازی کنند. این رویکرد باعث کاهش ۴۰ درصدی زمان راه‌اندازی و بهینه‌سازی فرآیندهای تولید شده است. دوقلوی دیجیتال اکنون به ابزاری ضروری برای مهندسی همزمان در پروژه‌های بزرگ صنعتی تبدیل شده است.",
+      "category": "research",
+      "published_at": "1405/07/26 18:05",
+      "collected_at": "1405/07/26 21:04",
+      "source": "Digital Twin Journal",
+      "source_url": "https://www.siemens.com/global/en/company/stories/industry/digital-twin.html",
+      "tags": [
+        "Digital Twin",
+        "SINUMERIK",
+        "Simulation",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20241017-010",
+      "title": "تقویت امنیت سایبری زیرساخت‌های حیاتی با استاندارد IEC 62443",
+      "summary": "با افزایش حملات سایبری به شبکه‌های صنعتی، رعایت استاندارد IEC 62443 برای تمامی تجهیزات اتوماسیون الزامی شده است. زیمنس با انتشار راهنماهای جدید برای محصولات SIMATIC، به کاربران کمک می‌کند تا لایه‌های دفاعی خود را در برابر تهدیدات تقویت کنند. این اقدامات شامل مدیریت دسترسی‌ها و رمزنگاری ارتباطات بین PLCها و سیستم‌های مدیریت مرکزی است.",
+      "category": "regulation",
+      "published_at": "1405/07/26 19:50",
+      "collected_at": "1405/07/26 21:04",
+      "source": "Cybersecurity Industrial News",
+      "source_url": "https://www.iec.ch/cybersecurity-62443",
+      "tags": [
+        "Cybersecurity",
+        "IEC 62443",
+        "SIMATIC",
+        "Security"
       ]
     }
   ]
