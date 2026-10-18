@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 571,
+  "count": 578,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/26 21:04",
+  "updated_at": "1405/07/26 21:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9164,6 +9164,118 @@
         "IEC 62443",
         "SIMATIC",
         "Security"
+      ]
+    },
+    {
+      "id": "ia-20241018-003",
+      "title": "همکاری زیمنس و SAP برای یکپارچه‌سازی مدیریت دارایی‌های صنعتی",
+      "summary": "زیمنس و SAP در یک همکاری استراتژیک، پلتفرم Xcelerator را با سیستم‌های ERP شرکت SAP ادغام کردند. این اتصال باعث می‌شود داده‌های عملیاتی از کف کارخانه به صورت بلادرنگ به سیستم‌های مدیریت مالی و زنجیره تأمین منتقل شود. این اقدام به مدیران کارخانه‌ها کمک می‌کند تا تصمیمات دقیق‌تری در مورد نگهداری و تعمیرات پیشگیرانه بر اساس هزینه‌های واقعی اتخاذ کنند.",
+      "category": "company",
+      "published_at": "1403/07/27 11:30",
+      "collected_at": "1405/07/26 21:05",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-news.com/siemens-sap-integration-partnership",
+      "tags": [
+        "Xcelerator",
+        "SAP",
+        "ERP",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20241018-004",
+      "title": "انتشار راهنمای جدید امنیت سایبری برای شبکه‌های PROFINET",
+      "summary": "سازمان PROFIBUS & PROFINET International (PI) نسخه جدیدی از راهنمای امنیت سایبری را برای شبکه‌های صنعتی منتشر کرد. این مستندات بر نحوه پیاده‌سازی پروتکل‌های امنیتی در تجهیزات زیمنس و سایر برندها تمرکز دارد. هدف اصلی این راهنما، مقابله با تهدیدات نوظهور در لایه ارتباطی شبکه و اطمینان از پایداری ارتباطات در سیستم‌های کنترل صنعتی است.",
+      "category": "regulation",
+      "published_at": "1403/07/27 12:45",
+      "collected_at": "1405/07/26 21:05",
+      "source": "PI Organization",
+      "source_url": "https://www.profibus.com/news/new-cybersecurity-guidelines-profinet",
+      "tags": [
+        "PROFINET",
+        "Cybersecurity",
+        "IEC 62443",
+        "Network"
+      ]
+    },
+    {
+      "id": "ia-20241018-005",
+      "title": "رونمایی از سوئیچ‌های صنعتی مدیریت‌شونده SCALANCE XC-200",
+      "summary": "زیمنس سری جدید سوئیچ‌های صنعتی SCALANCE XC-200 را برای محیط‌های خشن معرفی کرد. این سوئیچ‌ها دارای قابلیت‌های پیشرفته مدیریت شبکه و پشتیبانی از پروتکل‌های افزونگی هستند که برای زیرساخت‌های حیاتی مانند صنایع نفت و گاز طراحی شده‌اند. مقاومت بالا در برابر دما و لرزش از ویژگی‌های کلیدی این سری جدید است که پایداری شبکه را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/27 14:00",
+      "collected_at": "1405/07/26 21:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-scalance-xc-200-series-launch",
+      "tags": [
+        "SCALANCE",
+        "Networking",
+        "Industrial Ethernet",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-007",
+      "title": "توسعه کتابخانه‌های جدید برای SIMATIC S7-1500 در حوزه پردازش تصویر",
+      "summary": "زیمنس کتابخانه‌های نرم‌افزاری جدیدی را برای کنترلرهای SIMATIC S7-1500 جهت پردازش تصویر صنعتی منتشر کرد. این ابزارها به مهندسان اجازه می‌دهد تا بدون نیاز به کامپیوترهای جانبی، عملیات کنترل کیفیت و تشخیص قطعات را مستقیماً در PLC انجام دهند. این موضوع باعث کاهش تأخیر در خطوط تولید و ساده‌سازی معماری سیستم‌های بینایی ماشین شده است.",
+      "category": "product",
+      "published_at": "1403/07/27 16:45",
+      "collected_at": "1405/07/26 21:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/vision-systems/news/21948380/siemens-vision-libraries",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Machine Vision",
+        "TIA Portal",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241018-008",
+      "title": "گسترش قابلیت‌های شبیه‌سازی در نرم‌افزار Tecnomatix Process Simulate",
+      "summary": "نسخه جدید نرم‌افزار Tecnomatix Process Simulate زیمنس، قابلیت‌های شبیه‌سازی تعامل انسان و روبات را بهبود بخشید. این به‌روزرسانی به طراحان اجازه می‌دهد تا ارگونومی کارگران را در محیط‌های همکاری با روبات‌های صنعتی به دقت بررسی کنند. این ابزار با استفاده از مدل‌های سه‌بعدی دقیق، ریسک‌های ایمنی را قبل از راه‌اندازی واقعی خط تولید شناسایی و رفع می‌کند.",
+      "category": "research",
+      "published_at": "1403/07/27 18:00",
+      "collected_at": "1405/07/26 21:05",
+      "source": "Digital Engineering",
+      "source_url": "https://www.digitalengineering247.com/article/siemens-tecnomatix-update",
+      "tags": [
+        "Tecnomatix",
+        "Simulation",
+        "Digital Twin",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20241018-009",
+      "title": "رونمایی از سیستم جدید مانیتورینگ وضعیت موتورهای صنعتی",
+      "summary": "زیمنس سیستم جدید SIMOTICS CONNECT 400 را برای پایش وضعیت موتورهای الکتریکی معرفی کرد. این دستگاه کوچک به صورت بی‌سیم داده‌های لرزش و دما را جمع‌آوری کرده و به پلتفرم ابری ارسال می‌کند. این سیستم به کاربران اجازه می‌دهد تا خرابی‌های احتمالی موتور را پیش از وقوع شناسایی کرده و از توقف‌های ناخواسته در خطوط تولید جلوگیری کنند.",
+      "category": "product",
+      "published_at": "1403/07/27 19:30",
+      "collected_at": "1405/07/26 21:05",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/articles/siemens-simotics-connect-400-launch",
+      "tags": [
+        "SIMOTICS",
+        "Predictive Maintenance",
+        "IoT",
+        "Motors"
+      ]
+    },
+    {
+      "id": "ia-20241018-010",
+      "title": "استانداردسازی ارتباطات صنعتی با پروتکل OPC UA در محصولات زیمنس",
+      "summary": "زیمنس اعلام کرد که تمامی کنترلرهای جدید سری SIMATIC S7-1200 و S7-1500 اکنون به صورت بومی از پروتکل OPC UA پشتیبانی می‌کنند. این استانداردسازی، تبادل داده بین دستگاه‌های مختلف از تولیدکنندگان متفاوت را تسهیل کرده و به ایجاد معماری‌های باز در کارخانه‌های هوشمند کمک می‌کند. این اقدام گامی مهم در جهت تحقق اینترنت اشیاء صنعتی (IIoT) است.",
+      "category": "topic",
+      "published_at": "1403/07/27 20:45",
+      "collected_at": "1405/07/26 21:05",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.automation-news.com/siemens-opc-ua-standardization",
+      "tags": [
+        "OPC UA",
+        "IIoT",
+        "SIMATIC",
+        "Interoperability"
       ]
     }
   ]
