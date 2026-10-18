@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 395,
+  "count": 404,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 17:04",
+  "updated_at": "1405/07/26 17:10",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6332,6 +6332,150 @@
         "Robotics",
         "Research",
         "Partnership",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "گسترش ابزارهای تحلیل داده با یکپارچه‌سازی Insights Hub و هوش مصنوعی",
+      "summary": "زیمنس قابلیت‌های جدید مبتنی بر هوش مصنوعی را به پلتفرم اینترنت اشیاء صنعتی Insights Hub اضافه کرده است. این قابلیت‌ها به اپراتورهای خطوط تولید کمک می‌کند تا ناهنجاری‌های پنهان در داده‌های سنسورها را شناسایی کنند. این فناوری نقش مهمی در پیش‌بینی خرابی تجهیزات و بهینه‌سازی مصرف انرژی در کارخانه‌های بزرگ دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 17:10",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-insights-hub-ai-analytics-update",
+      "tags": [
+        "Insights Hub",
+        "Industrial IoT",
+        "AI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "بهینه‌سازی مصرف انرژی در درایوهای SINAMICS با الگوریتم‌های جدید",
+      "summary": "شرکت زیمنس بسته نرم‌افزاری جدیدی را برای سری درایوهای صنعتی SINAMICS منتشر کرده که بهره‌وری انرژی را بهبود می‌بخشد. این سیستم با تنظیم پویا جریان الکتریکی موتورها بر اساس بار مکانیکی واقعی، از هلاف رفت انرژی جلوگیری می‌کند. این به‌روزرسانی گامی مهم در راستای تحقق اهداف پایداری و کاهش ردپای کربن در صنایع سنگین است.",
+      "category": "product",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/26 17:10",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-sinamics-energy-efficiency-update",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "توسعه زیرساخت‌های ارتباطی امن با روترهای صنعتی جدید SCALANCE",
+      "summary": "زیمنس سری جدید روترهای صنعتی SCALANCE را با پشتیبانی از پروتکل‌های امنیتی پیشرفته معرفی کرد. این تجهیزات ارتباط امن بین شبکه‌های OT و IT را در کارخانه‌های هوشمند تضمین می‌کنند. این روترها به ویژه برای ارتباطات امن از راه دور و نظارت بر تجهیزات توزیع‌شده کاربرد دارند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 17:10",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-scalance-industrial-routers-security",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "ارتقای قابلیت‌های مهندسی رباتیک در محیط TIA Portal V19 SP1",
+      "summary": "به‌روزرسانی جدید نرم‌افزار TIA Portal زیمنس ابزارهای پیشرفته‌ای را برای برنامه‌نویسی و شبیه‌سازی بازوهای رباتیک ارائه می‌دهد. مهندسان اکنون می‌توانند کینماتیک‌های پیچیده ربات را مستقیماً در همین محیط مهندسی پیکربندی کنند. این یکپارچه‌سازی زمان راه‌اندازی سلول‌های رباتیک را در خطوط مونتاژ به طور قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 11:30",
+      "collected_at": "1405/07/26 17:10",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/story/2026/siemens-tia-portal-v19-robotics-update",
+      "tags": [
+        "TIA Portal",
+        "Robotics",
+        "Engineering",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "تجهیز سامانه‌های مانیتورینگ WinCC Unified به ابزارهای تحلیل پیشرفته",
+      "summary": "زیمنس قابلیت‌های جدیدی را به سیستم اسکادا WinCC Unified افزوده است که امکان مصورسازی پیشرفته داده‌های تولید را فراهم می‌کند. این ابزارها به مدیران کارخانه اجازه می‌دهد داشبوردهای سفارشی برای پایشKPIهای حیاتی تولید بسازند. این سیستم نقش کلیدی در افزایش شفافیت فرآیندهای صنعتی و تصمیم‌گیری سریع‌تر دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 12:15",
+      "collected_at": "1405/07/26 17:10",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/siemens-wincc-unified-advanced-analytics",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "افزایش بهره‌وری تولید با راهکار دوقلوی دیجیتال ماشین‌آلات SINUMERIK ONE",
+      "summary": "سیستم کنترل CNC زیمنس یعنی SINUMERIK ONE با قابلیت‌های جدید دوقلوی دیجیتال کامل به‌روزرسانی شد. سازندگان ماشین‌ابزار می‌توانند پیش از ساخت فیزیکی دستگاه، عملکرد آن را به صورت مجازی تست کنند. این رویکرد خطاهای طراحی را به حداقل رسانده و زمان ورود محصول به بازار را تسریع می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 13:00",
+      "collected_at": "1405/07/26 17:10",
+      "source": "Machine Design",
+      "source_url": "https://www.machinedesign.com/automation/siemens-sinumerik-one-digital-twin-update",
+      "tags": [
+        "SINUMERIK ONE",
+        "Digital Twin",
+        "CNC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "گسترش قابلیت‌های پردازش لبه‌ای در رایانه‌های صنعتی Microbox IPC",
+      "summary": "زیمنس نسل جدید رایانه‌های صنعتی Microbox IPC را برای اجرای بارهای کاری سنگین هوش مصنوعی در لبه شبکه عرضه کرد. این سخت‌افزار قدرتمند امکان پردازش محلی داده‌های بینایی ماشین و الگوریتم‌های کنترلی را فراهم می‌کند. این امر تأخیر در انتقال داده‌ها را از بین برده و قابلیت اطمینان سیستم را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 13:45",
+      "collected_at": "1405/07/26 17:10",
+      "source": "Embedded Computing",
+      "source_url": "https://www.embedded-computing.com/siemens-microbox-ipc-edge-computing",
+      "tags": [
+        "Industrial PC",
+        "Edge Computing",
+        "Hardware",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای هوشمندسازی خطوط رنگ",
+      "summary": "زیمنس طی پروژه‌ای جدید با چندین خودروساز بزرگ اروپایی برای بهینه‌سازی مصرف انرژی در خطوط رنگ همکاری می‌کند. با استفاده از پلتفرم Siemens Xcelerator و سنسورهای هوشمند، مصرف گاز و برق در کوره‌های رنگ به شدت کاهش می‌یابد. این پروژه نشان‌دهنده تعهد صنعت خودرو به کاهش انتشار گازهای گلخانه‌ای است.",
+      "category": "industry",
+      "published_at": "1405/07/26 14:30",
+      "collected_at": "1405/07/26 17:10",
+      "source": "Automotive Manufacturing",
+      "source_url": "https://www.automotivemanufacturing.com/siemens-automotive-paint-shop-efficiency",
+      "tags": [
+        "Automotive",
+        "Sustainability",
+        "Xcelerator",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "توسعه استانداردهای امنیت سایبری در اتوماسیون صنعتی با محصولات SIMATIC",
+      "summary": "شرکت زیمنس تمامی تجهیزات کنترلر SIMATIC خود را با الزامات سخت‌گیرانه استاندارد بین‌المللی IEC 62443 سازگار کرد. این اقدام لایه‌های حفاظتی جدیدی در برابر تهدیدات سایبری صنعتی ایجاد می‌کند. این پروتکل‌ها امنیت زنجیره تأمین و پایداری زیرساخت‌های حیاتی را در برابر حملات احتمالی تضمین می‌کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/26 15:15",
+      "collected_at": "1405/07/26 17:10",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-simatic-iec-62443-cybersecurity-compliance",
+      "tags": [
+        "Cybersecurity",
+        "IEC 62443",
+        "SIMATIC",
         "Siemens"
       ]
     }
