@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 278,
+  "count": 288,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 15:03",
+  "updated_at": "1405/07/26 15:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4429,6 +4429,166 @@
         "CNC",
         "Digital Twin",
         "Machining"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی کنترل‌کننده مجازی SIMATIC S7-1500V با قابلیت مقیاس‌پذیری ابری",
+      "summary": "شرکت زیمنس نسخه جدید کنترل‌کننده نرم‌افزاری SIMATIC S7-1500V را عرضه کرد که امکان اجرای منطق کنترل صنعتی را در بسترهای ابری و لبه‌ای فراهم می‌سازد. این راهکار به مهندسان اجازه می‌دهد تا سیستم‌های اتوماسیون را با انعطاف‌پذیری بیشتری توسعه دهند. محصول جدید با استانداردهای امنیتی سخت‌گیرانه IEC 62443 سازگار است.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 15:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500v-cloud",
+      "tags": [
+        "SIMATIC",
+        "Virtual PLC",
+        "Siemens",
+        "Cloud Control"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "ارتقای قابلیت‌های بینایی ماشین در پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس قابلیت‌های پردازش تصویر مبتنی بر هوش مصنوعی را به بستر لبه صنعتی خود اضافه کرد تا بازرسی کیفیت در خطوط تولید با سرعت بیشتری انجام شود. این ماژول نرم‌افزاری جدید با دوربین‌های صنعتی گ گ سازگاری کامل دارد و خطای تشخیص نقص را به حداقل می‌رساند. این فناوری به کاهش ضایعات مواد اولیه در کارخانه‌ها کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 15:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-industrial-edge-vision",
+      "tags": [
+        "Industrial Edge",
+        "Machine Vision",
+        "AI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "همکاری زیمنس و فستو برای توسعه اتوماسیون پنوماتیک هوشمند",
+      "summary": "دو شرکت بزرگ زیمنس و فستو تفاهم‌نامه جدیدی برای یکپارچه‌سازی تجهیزات پنوماتیک با پلتفرم TIA Portal امضا کردند. این همکاری به کاربران صنعتی امکان می‌دهد تا شیرهای برقی و محرک‌های بادی را مستقیماً از طریق پروتکل PROFINET کنترل و مانیتور کنند. این پروژه مشترک مصرف هوای فشرده را در خطوط مونتاژ تا بیست درصد کاهش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/26 15:04",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-festo-partnership",
+      "tags": [
+        "TIA Portal",
+        "PROFINET",
+        "Festo",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "انتشار نسخه جدید نرم‌افزار مانیتورینگ WinCC Unified V19 SP1",
+      "summary": "زیمنس بسته به‌روزرسانی جدیدی را برای سیستم اسکادا و مانیتورینگ WinCC Unified منتشر کرد که ابزارهای گرافیکی وب‌محور را بهبود می‌بخشد. این نسخه از استانداردهای جدید HTML5 برای ایجاد داشبوردهای پویا بدون نیاز به نصب پلاگین پشتیبانی می‌کند. اپراتورها اکنون می‌توانند روند تولید را با پایداری بالاتر روی تبلت‌های صنعتی بررسی کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 15:04",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/wincc-unified-v19-sp1",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "تجهیز پست‌های فشار متوسط به سیستم حفاظتی SIPROTEC 5 زیمنس",
+      "summary": "شرکت زیمنس نسل جدید رله‌های حفاظتی هوشمند سری SIPROTEC 5 را با قابلیت ارتباط امن امنیتی معرفی کرد. این تجهیزات وظیفه پایداری شبکه توزیع برق در کارخانه‌های بزرگ صنعتی را بر عهده دارند و از قطع ناخواسته خطوط تولید جلوگیری می‌کنند. مدل جدید مجهز به ماژول تحلیل نوسانات فرکانسی است.",
+      "category": "product",
+      "published_at": "1405/07/26 11:20",
+      "collected_at": "1405/07/26 15:04",
+      "source": "Power Engineering",
+      "source_url": "https://www.power-eng.com/siemens-siprotec-5-update",
+      "tags": [
+        "SIPROTEC",
+        "Power Grid",
+        "Protection",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "گسترش کاربرد ربات‌های متحرک خودگردان در لجستیک داخلی کارخانه زیمنس",
+      "summary": "کارخانه تجهیزات الکتریکی زیمنس در شهر آمبرگ آلمان ناوگان جدیدی از روبات‌های متحرک خودگردان را برای انتقال قطعات مونتاژی راه‌اندازی کرد. این روبات‌ها با استفاده از سیستم مدیریت ناوگان SIMOVE به صورت کاملاً هماهنگ در کنار کارگران انسانی تردد می‌کنند. این راهکار زمان جابجایی مواد را در سالن‌های تولید به نصف رسانده است.",
+      "category": "news",
+      "published_at": "1405/07/26 12:05",
+      "collected_at": "1405/07/26 15:04",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/siemens-amr-implementation",
+      "tags": [
+        "AMR",
+        "SIMOVE",
+        "Logistics",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "عرضه ماژول‌های ورودی/خروجی ایمن جدید برای سیستم SIMATIC ET 200SP",
+      "summary": "زیمنس خانواده محصولات سیستم‌های توزیع‌شده SIMATIC ET 200SP را با افزودن ماژول‌های ایمنی پیشرفته توسعه داد. این ماژول‌ها امکان قطع اضطراری مدارها را در کمتر از چند میلی‌ثانیه فراهم نموده و گواهینامه SIL3 را دریافت کرده‌اند. طراحی فشرده این تجهیزات فضای اشغال‌شده داخل تابلوهای برق را به شکل قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 12:50",
+      "collected_at": "1405/07/26 15:04",
+      "source": "IEB Magazine",
+      "source_url": "https://www.iebmedia.com/siemens-et-200sp-safety",
+      "tags": [
+        "ET 200SP",
+        "Safety",
+        "I/O",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "بهینه‌سازی مصرف انرژی در درایوهای صنعتی SINAMICS با الگوریتم‌های جدید",
+      "summary": "توسعه‌دهندگان زیمنس الگوریتم کنترل دور موتور جدیدی را برای سری درایوهای SINAMICS G120 ارائه دادند که تلفات انرژی الکتریکی را کاهش می‌دهد. این سیستم با تحلیل بار مکانیکی لحظه‌ای، ولتاژ خروجی را با دقت بالا تنظیم می‌کند. این به‌روزرسانی نرم‌افزاری بدون نیاز به تعویض سخت‌افزار قابل نصب روی درایوهای موجود است.",
+      "category": "product",
+      "published_at": "1405/07/26 13:30",
+      "collected_at": "1405/07/26 15:04",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-energy-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "یکپارچه‌سازی پلتفرم Insights Hub با ابزارهای تحلیل کلان‌داده سازمانی",
+      "summary": "زیمنس قابلیت اتصال ابری پلتفرم Insights Hub (مینداسفر سابق) را با انبارهای داده مدرن توسعه داد. این قابلیت به مدیران کارخانه اجازه می‌دهد داده‌های مصرف انرژی و عملکرد ماشین‌آلات را با سیستم‌های ERP سازمانی ادغام کنند. این گزارش‌گیری پیشرفته تصمیم‌گیری استراتژیک را در سطح مدیریت کلان تسهیل می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:15",
+      "collected_at": "1405/07/26 15:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-integration",
+      "tags": [
+        "Insights Hub",
+        "IIoT",
+        "Cloud",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "انتشار دستورالعمل‌های جدید امنیتی برای حفاظت از زیرساخت‌های اتوماسیون",
+      "summary": "آژانس امنیت سایبری صنعتی با همکاری شرکت‌های پیشرو مانند زیمنس و اشنایدر الکتریک راهنمای جدیدی برای ایمن‌سازی پروتکل‌های ارتباطی OT منتشر کرد. این مستند روی مقابله با تهدیدات سایبری پیشرفته در شبکه‌های صنعتی متمرکز است. کارشناسان توصیه می‌کنند مدیران شبکه هرچه سریع‌تر پتچ‌های امنیتی جدید را روی کنترل‌کننده‌ها اعمال کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/26 15:00",
+      "collected_at": "1405/07/26 15:04",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/ot-security-guidelines-2026",
+      "tags": [
+        "Cybersecurity",
+        "OT/ICS",
+        "IEC 62443",
+        "Regulation"
       ]
     }
   ]
