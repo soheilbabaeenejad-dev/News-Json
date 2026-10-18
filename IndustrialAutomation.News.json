@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 260,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/26 14:14",
+  "count": 269,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/26 15:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4141,6 +4141,150 @@
         "Inverter",
         "Energy Efficiency",
         "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی نسل جدید کنترل‌کننده‌های SIMATIC S7-1200 G2 زیمنس با قابلیت‌های پیشرفته",
+      "summary": "شرکت زیمنس از نسل دوم کنترل‌کننده‌های منطقی برنامه‌پذیر SIMATIC S7-1200 G2 با بهبود چشمگیر در سرعت پردازش و ظرفیت حافظه رونمایی کرد. این سری جدید برای ارتقای اتوماسیون در ماشین‌آلات متوسط طراحی شده و امکان مهندسی یکپارچه‌تر را در محیط TIA Portal فراهم می‌سازد. استفاده از این تجهیزات به مهندسان کمک می‌کند تا سیستم‌های پیچیده‌تر را با دقت بالاتر و زمان پاسخگویی سریع‌تر پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:15",
+      "collected_at": "1405/07/26 15:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/siemens-simatic-s7-1200-g2",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "گسترش کاربرد هوش مصنوعی مولد در سیستم‌های مانیتورینگ WinCC Unified زیمنس",
+      "summary": "زیمنس قابلیت‌های هوش مصنوعی مولد را به پلتفرم مانیتورینگ و اسکادا WinCC Unified اضافه کرد تا اپراتورها بتوانند گزارش‌های خطای پیچیده را به زبان طبیعی دریافت کنند. این ابزار جدید با تحلیل بلادرنگ داده‌های کارخانه، الگوهای غیرعادی را شناسایی کرده و راه حل‌های پیشنهادی را برای رفع عیب نمایش می‌دهد. این فناوری نقش مهمی در کاهش توقف‌های ناخواسته خطوط تولید و افزایش بهره‌وری اپراتوری دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 15:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/wincc-unified-ai-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "به‌روزرسانی بزرگ پلتفرم Industrial Edge زیمنس برای پردازش ابری توزیع‌شده",
+      "summary": "نسخه جدید پلتفرم Industrial Edge زیمنس با امکانات پیشرفته برای مدیریت همزمان صدها دستگاه لبه‌ای و اتصال به سرویس‌های ابری منتشر شد. این زیرساخت نرم‌افزاری به صنایع اجازه می‌دهد کدهای کنترلی و مدل‌های یادگیری ماشین را به صورت امن در سطح کارگاه اجرا کنند. این راهکار انعطاف‌پذیری بالایی در مدیریت داده‌های صنعتی و کاهش پهنای باند شبکه ایجاد می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:20",
+      "collected_at": "1405/07/26 15:01",
+      "source": "Industrial IoT For You",
+      "source_url": "https://www.industrialiotifyou.com/siemens-industrial-edge-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Edge Computing",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "ارتقای امنیت سایبری تجهیزات اتوماسیون صنعتی با استانداردهای جدید IEC 62443 در محصولات زیمنس",
+      "summary": "زیمنس مجموعه‌ای از گواهینامه‌های امنیتی جدید بر اساس استاندارد IEC 62443-4-2 را برای طیف وسیعی از کنترل‌کننده‌ها و سوئیچ‌های صنعتی SCALANCE دریافت کرد. این گواهینامه‌ها تضمین می‌کنند که تجهیزات شبکه و کنترل در برابر تهدیدات سایبری نوظهور مقاومت حداکثری دارند. اجرای این راهکارهای امنیتی برای صیانت از زیرساخت‌های حیاتی و شبکه‌های صنعتی کلیدی است.",
+      "category": "regulation",
+      "published_at": "1405/07/26 12:25",
+      "collected_at": "1405/07/26 15:01",
+      "source": "Industrial Cyber Security",
+      "source_url": "https://www.industrialcyber.co/siemens-iec-62443-certification",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "SCALANCE",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "توسعه دوقلوی دیجیتال خطوط مونتاژ با نرم‌افزار Tecnomatix زیمنس و عینک‌های واقعیت ترکیبی",
+      "summary": "نسخه جدید نرم‌افزار Tecnomatix زیمنس امکان شبیه‌سازی همه‌جانبه خطوط تولید را با استفاده از ابزارهای واقعیت ترکیبی فراهم کرد. مهندسین می‌توانند ارگونومی ایستگاه‌های کاری و مسیر حرکت روبات‌ها را پیش از ساخت فیزیکی در محیط سه‌بعدی ارزیابی کنند. این فناوری نوآورانه خطاهای طراحی را تا حد زیادی کاهش داده و سرعت راه‌اندازی کارخانه‌ها را تسریع می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 12:55",
+      "collected_at": "1405/07/26 15:01",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-tecnomatix-update",
+      "tags": [
+        "Siemens",
+        "Tecnomatix",
+        "Digital Twin",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "معرفی اینورترهای پیشرفته SINAMICS G220 با قابلیت تجزیه و تحلیل سلامت درایو",
+      "summary": "شرکت زیمنس سری جدید درایوهای فرکانس متغیر SINAMICS G220 را با قابلیت‌های تشخیص خطای داخلی و اتصال ایمن به شبکه عرضه نمود. این درایوهای صنعتی با بهره‌گیری از الگوریتم‌های پیشرفته، وضعیت سلامت قطعات الکترومکانیکی را به صورت مداوم پایش می‌کنند. این قابلیت مانع از خرابی‌های ناگهانی الکتروموتورها شده و برنامه‌ریزی تعمیرات را بهینه می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/26 13:30",
+      "collected_at": "1405/07/26 15:01",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-g220-release",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "پیاده‌سازی موفق سیستم مدیریت انرژی Insights Hub زیمنس در صنایع فولاد آلمان",
+      "summary": "یک مجتمع بزرگ فولاد در آلمان با استفاده از پلتفرم ابری Insights Hub زیمنس موفق شد مصرف انرژی کوره قوس الکتریکی خود را ده درصد کاهش دهد. این سیستم با جمع‌آوری داده‌های مصرف در لحظه و تحلیل الگوهای حرارتی، نقاط اتلاف انرژی را شناسایی می‌کند. این پروژه گامی مهم در جهت دستیابی به اهداف پایداری صنعتی و کاهش انتشار کربن محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/26 14:00",
+      "collected_at": "1405/07/26 15:01",
+      "source": "Global Steel News",
+      "source_url": "https://www.globalsteelnews.com/siemens-insights-hub-implementation",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "گسترش قابلیت‌های برنامه‌نویسی شی‌گرا در محیط مهندسی SIMATIC AX زیمنس",
+      "summary": "زیمنس آخرین به‌روزرسانی ابزار مهندسی SIMATIC AX را با تمرکز بر توسعه برنامه‌نویسی شی‌گرا و سازگاری با سیستم‌های کنترل نسخه ارائه داد. این ابزار به برنامه‌نویسان صنعتی اجازه می‌دهد تا کدهای اتوماسیون را مشابه نرم‌افزارهای مدرن IT توسعه داده و در پروژه‌های بزرگ به اشتراک بگذارند. این رویکرد کیفیت و قابلیت نگهداری کدهای کنترل‌کننده‌ها را به طور چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:30",
+      "collected_at": "1405/07/26 15:01",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.iaasiaonline.com/siemens-simatic-ax-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC AX",
+        "PLC",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "توسعه زیرساخت ارتباطی TSN در تجهیزات اتوماسیون صنعتی زیمنس برای تبادل بلادرنگ داده‌ها",
+      "summary": "شرکت زیمنس ماژول‌های جدید ارتباطی مبتنی بر فناوری شبکه زمان‌بندی‌شده حساس یا همان TSN را برای سری تجهیزات SIMATIC S7-1500 معرفی کرد. این فناوری امکان ادغام ترافیک‌های مختلف شبکه را با تاخیر بسیار پایین و قطعیت بالا در یک بستر اترنت واحد فراهم می‌سازد. این بستر ارتباطی ستون فقرات کارخانه‌های کاملاً متصل و هوشمند نسل آینده خواهد بود.",
+      "category": "news",
+      "published_at": "1405/07/26 15:00",
+      "collected_at": "1405/07/26 15:01",
+      "source": "Automation Insider",
+      "source_url": "https://www.automationinsider.net/siemens-tsn-networking",
+      "tags": [
+        "Siemens",
+        "TSN",
+        "Industrial Ethernet",
+        "Networking"
       ]
     }
   ]
