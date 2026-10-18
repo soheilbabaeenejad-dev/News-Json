@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 139,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 11:02",
+  "count": 149,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/26 11:09",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2201,6 +2201,156 @@
         "Energy Management",
         "Sustainability",
         "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "گسترش دسترسی به دستیار هوش مصنوعی Siemens Industrial Copilot در صنایع تولیدی",
+      "summary": "زیمنس و مایکروسافت اعلام کردند که دستیار هوش مصنوعی صنعتی خود را برای طیف گسترده‌تری از مشتریان در پلتفرم زیمنس Xcelerator در دسترس قرار داده‌اند. این ابزار به مهندسان اجازه می‌دهد کدهای پیچیده PLC را با زبان طبیعی تولید کرده و زمان عیب‌یابی را به شدت کاهش دهند. استفاده از این فناوری در شرکت‌هایی مانند بوش نشان‌دهنده پتانسیل بالای آن در افزایش بهره‌وری است.",
+      "category": "news",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 11:09",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-microsoft-scale-generative-ai-across-industries",
+      "tags": [
+        "هوش مصنوعی",
+        "Industrial Copilot",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "معرفی ماژول‌های جدید SIMATIC ET 200SP برای اندازه‌گیری دقیق انرژی",
+      "summary": "زیمنس سری جدیدی از ماژول‌های ورودی آنالوگ و مدیریت انرژی را برای سیستم ورودی/خروجی توزیع‌شده ET 200SP معرفی کرد. این ماژول‌ها امکان پایش لحظه‌ای مصرف توان و پارامترهای کیفیت برق را در سطح تجهیزات فراهم می‌کنند. با ادغام این داده‌ها در سیستم‌های مانیتورینگ، کارخانه‌ها می‌توانند تا ۱۵ درصد در هزینه‌های انرژی خود صرفه‌جویی کنند و پایداری شبکه را بهبود بخشند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:30",
+      "collected_at": "1405/07/26 11:09",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/siemens-simatic-et200sp-energy-meter",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "مدیریت انرژی"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "رونمایی اشنایدر الکتریک از سری جدید روبات‌های همکار Lexium برای محیط‌های فشرده",
+      "summary": "شرکت اشنایدر الکتریک از نسل جدید کوبات‌های سری Lexium رونمایی کرد که برای کار در فضاهای محدود کارخانه‌ای طراحی شده‌اند. این روبات‌ها دارای سیستم‌های ایمنی پیشرفته‌ای هستند که اجازه می‌دهند بدون نیاز به حصار در کنار اپراتورهای انسانی فعالیت کنند. دقت تکرارپذیری این مدل‌ها حدود ۰.۰۲ میلی‌متر است که برای صنایع الکترونیک و مونتاژ قطعات ظریف بسیار حیاتی و کاربردی است.",
+      "category": "product",
+      "published_at": "1405/07/26 10:15",
+      "collected_at": "1405/07/26 11:09",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/press-releases/schneider-electric-lexium-cobot-launch.jsp",
+      "tags": [
+        "روباتیک",
+        "Lexium",
+        "کوبات"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "ارتقای قابلیت‌های مدیریت دارایی در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس اپلیکیشن جدیدی برای پلتفرم لبه صنعتی خود عرضه کرده است که به طور اختصاصی بر مدیریت طول عمر دارایی‌های فیزیکی تمرکز دارد. این نرم‌افزار با تحلیل داده‌های ارتعاشی و دمایی موتورهای SIMOTICS، زمان دقیق خرابی را پیش‌بینی کرده و از توقف‌های ناخواسته جلوگیری می‌کند. این راهکار به ویژه برای خطوط تولید پیوسته در صنایع غذایی و دارویی که حساسیت بالایی دارند بهینه‌سازی شده است.",
+      "category": "topic",
+      "published_at": "1405/07/26 09:50",
+      "collected_at": "1405/07/26 11:09",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-industrial-edge-asset-manager-update/",
+      "tags": [
+        "Industrial Edge",
+        "نگهداری پیشگیرانه",
+        "SIMOTICS"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری راکول اتوماسیون با شرکت سیسکو برای تقویت امنیت شبکه‌های صنعتی",
+      "summary": "راکول اتوماسیون و سیسکو از یک معماری مرجع جدید برای ایمن‌سازی شبکه‌های اترنت صنعتی (EtherNet/IP) رونمایی کردند. این راهکار شامل استفاده از سوئیچ‌های سری Stratix و ابزارهای شناسایی تهدیدات سایبری است که به طور خاص برای محیط‌های سخت کارخانه‌ای طراحی شده‌اند. هدف از این همکاری، جلوگیری از حملات باج‌افزاری به سیستم‌های کنترل حیاتی در زیرساخت‌های حساس و کارخانه‌های بزرگ است.",
+      "category": "company",
+      "published_at": "1405/07/26 09:30",
+      "collected_at": "1405/07/26 11:09",
+      "source": "Rockwell News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/rockwell-cisco-cybersecurity-partnership.html",
+      "tags": [
+        "امنیت سایبری",
+        "Cisco",
+        "EtherNet/IP"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "عرضه درایوهای سروو SINAMICS S200 زیمنس برای کاربردهای دقیق و اقتصادی",
+      "summary": "زیمنس سیستم درایو سروو جدید SINAMICS S200 را برای پاسخگویی به نیازهای بازار ماشین‌سازی میان‌رده معرفی کرد. این سیستم شامل درایو و موتورهای SIMOTICS S-1FL2 است که نصب و راه‌اندازی بسیار ساده‌ای دارند و از طریق پروتکل PROFINET به کنترل‌کننده‌های سری S7-1500 متصل می‌شوند. این محصول برای دستگاه‌های بسته‌بندی و جابجایی مواد با سرعت و دقت بالا طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/26 09:10",
+      "collected_at": "1405/07/26 11:09",
+      "source": "Siemens Global",
+      "source_url": "https://www.siemens.com/global/en/products/automation/drives/sinamics/sinamics-s200.html",
+      "tags": [
+        "SINAMICS",
+        "سروو درایو",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه قابلیت‌های بصری در روبات‌های سری GoFa شرکت ABB با هوش مصنوعی",
+      "summary": "شرکت ABB سیستم بینایی ماشین جدیدی را معرفی کرد که به طور مستقیم با بازوهای همکار سری GoFa ادغام می‌شود. این سیستم با استفاده از الگوریتم‌های یادگیری ماشین، قادر به شناسایی قطعات نامنظم در محیط‌های شلوغ است و نیاز به فیکسچرهای گران‌قیمت را از بین می‌برد. این فناوری سرعت چرخه تولید را در خطوط مونتاژ تا ۲۰ درصد افزایش داده و خطای انسانی را به حداقل می‌رساند.",
+      "category": "research",
+      "published_at": "1405/07/26 08:45",
+      "collected_at": "1405/07/26 11:09",
+      "source": "Robotics World",
+      "source_url": "https://new.abb.com/products/robotics/collaborative-robots/gofa",
+      "tags": [
+        "ABB",
+        "بینایی ماشین",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی منبع تغذیه هوشمند SITOP PSU6200 زیمنس با رابط ارتباطی IO-Link",
+      "summary": "زیمنس نسل جدید منابع تغذیه SITOP سری PSU6200 را به بازار عرضه کرد که اکنون از پروتکل IO-Link پشتیبانی می‌کنند. این قابلیت به کاربران اجازه می‌دهد تا وضعیت سلامت منبع تغذیه، میزان بار و دمای داخلی را مستقیماً در محیط TIA Portal مشاهده کنند. این شفافیت داده‌ای باعث می‌شود تا قبل از بروز خرابی در سیستم تغذیه، اقدامات پیشگیرانه انجام شده و زمان توقف خط کاهش یابد.",
+      "category": "product",
+      "published_at": "1405/07/26 08:20",
+      "collected_at": "1405/07/26 11:09",
+      "source": "Industrial Automation Mag",
+      "source_url": "https://mall.industry.siemens.com/mall/en/WW/Catalog/Products/10348259",
+      "tags": [
+        "SITOP",
+        "IO-Link",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "به‌روزرسانی فریم‌ور PLCnext فونیکس کنتاکت برای پشتیبانی از کانتینرهای Docker",
+      "summary": "فونیکس کنتاکت نسخه جدیدی از فریم‌ور کنترل‌کننده‌های PLCnext را منتشر کرد که امکان اجرای مستقیم اپلیکیشن‌های کانتینری Docker را فراهم می‌کند. این ویژگی به توسعه‌دهندگان اجازه می‌دهد تا کدهای نوشته شده به زبان‌های سطح بالا مانند Python یا C++ را در کنار منطق کنترلی سنتی اجرا کنند. این رویکرد باعث انعطاف‌پذیری بی‌سابقه در پروژه‌های اینترنت اشیاء صنعتی و لبه‌ای می‌شود.",
+      "category": "topic",
+      "published_at": "1405/07/26 08:00",
+      "collected_at": "1405/07/26 11:09",
+      "source": "Phoenix Contact News",
+      "source_url": "https://www.phoenixcontact.com/en-pc/products/plcnext-technology",
+      "tags": [
+        "PLCnext",
+        "Docker",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "پیاده‌سازی سیستم مانیتورینگ وضعیت زیمنس در نیروگاه‌های بادی دریایی",
+      "summary": "زیمنس انرژی اعلام کرد که سیستم‌های مانیتورینگ وضعیت (CMS) خود را در یک پروژه عظیم نیروگاه بادی دریایی نصب کرده است. این سیستم با استفاده از حسگرهای پیشرفته و پلتفرم تحلیل داده، سلامت توربین‌ها را در شرایط سخت دریایی پایش می‌کند. استفاده از این فناوری هزینه‌های نگهداری را تا ۳۰ درصد کاهش داده و پایداری شبکه برق را در بلندمدت تضمین می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/26 07:45",
+      "collected_at": "1405/07/26 11:09",
+      "source": "Renewable Energy News",
+      "source_url": "https://www.siemens-energy.com/global/en/offerings/power-generation/renewables.html",
+      "tags": [
+        "انرژی تجدیدپذیر",
+        "مانیتورینگ",
+        "زیمنس انرژی"
       ]
     }
   ]
