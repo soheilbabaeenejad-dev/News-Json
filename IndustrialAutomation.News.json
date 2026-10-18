@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 517,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/26 19:11",
+  "count": 526,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/26 20:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8297,6 +8297,150 @@
         "Microsoft",
         "TIA Portal",
         "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "به‌روزرسانی بزرگ نرم‌افزار TIA Portal برای بهینه‌سازی مهندسی یکپارچه",
+      "summary": "نسخه جدید به‌روزرسانی شده TIA Portal با ابزارهای مهندسی پیشرفته و محیط کاربری بهینه‌شده عرضه شد. این پلتفرم با هدف کاهش زمان راه‌اندازی پروژه‌های اتوماسیون و افزایش بهره‌وری تیم‌های مهندسی طراحی شده است. قابلیت‌های جدید مدیریت کتابخانه در این نسخه، امکان استفاده مجدد از کدهای برنامه‌نویسی را به طور چشمگیری ساده‌تر می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:30",
+      "collected_at": "1405/07/26 20:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/software/siemens-tia-portal-update",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "PLC",
+        "Automation Software"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "گسترش کاربرد کنترل‌کننده‌های SIMATIC S7-1500 در خطوط مونتاژ پیشرفته",
+      "summary": "کارخانه‌های خودروسازی اروپایی به‌طور گسترده‌ای از کنترل‌کننده‌های پیشرفته SIMATIC S7-1500 برای مدیریت خطوط مونتاژ رباتیک خود استفاده می‌کنند. این پی‌ال‌سی‌ها با پردازش سریع داده‌ها و امنیت سایبری داخلی، پایداری بالایی را در فرایندهای تولیدی تضمین می‌کنند. این توسعه نشان‌دهنده اعتماد صنعت به سخت‌افزارهای رده‌بالای زیمنس است.",
+      "category": "industry",
+      "published_at": "1405/07/26 11:45",
+      "collected_at": "1405/07/26 20:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/simatic-s7-1500-assembly-lines",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "PLC",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای پیاده‌سازی سیستم‌های پایش انرژی",
+      "summary": "زیمنس با امضای قراردادهای جدیدی، سیستم‌های جامع مدیریت و پایش انرژی خود را در کارخانه‌های بزرگ تولید خودرو پیاده‌سازی می‌کند. این راهکارها با استفاده از پلتفرم Industrial Edge مصرف برق تجهیزات را تحلیل و بهینه‌سازی می‌کنند. هدف اصلی این پروژه دستیابی به اهداف پایداری و کاهش انتشار کربن در تولید صنعتی است.",
+      "category": "company",
+      "published_at": "1405/07/26 13:00",
+      "collected_at": "1405/07/26 20:00",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrialiotnews.com/siemens-energy-monitoring-automotive",
+      "tags": [
+        "Industrial Edge",
+        "Energy Management",
+        "Sustainability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "ارتقای قابلیت‌های مانیتورینگ صنعتی با نسخه جدید WinCC Unified V19",
+      "summary": "نسخه جدید سیستم‌های مانیتورینگ WinCC Unified V19 با امکانات گرافیکی تحت وب و ابزارهای تحلیلی قدرتمند معرفی شد. این سیستم به اپراتورها اجازه می‌دهد تا تصاویر گرافیکی پویا را روی هر دستگاهی بدون نیاز به نصب نرم‌افزار اضافی مشاهده کنند. این به‌روزرسانی انعطاف‌پذیری اتاق‌های کنترل را در صنایع فرایندی به طور قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:20",
+      "collected_at": "1405/07/26 20:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/wincc-unified-v19-update",
+      "tags": [
+        "WinCC Unified",
+        "HMI",
+        "SCADA",
+        "Control Room"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "توسعه درایوهای فرکانس متغیر SINAMICS با قابلیت‌های تشخیص خطای هوشمند",
+      "summary": "نسخه‌های جدید درایوهای SINAMICS زیمنس به حسگرهای داخلی و الگوریتم‌های پیشرفته برای پیش‌بینی خرابی قطعات مکانیکی مجهز شدند. این فناوری به تکنسین‌ها هشدار می‌دهد پیش از بروز توقف ناگهانی در خط تولید، اقدامات تعمیراتی را انجام دهند. کاهش هزینه‌های نگهداری از مزایای اصلی این سری درایوها محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 15:10",
+      "collected_at": "1405/07/26 20:00",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/news/full-story/siemens-sinamics-smart-fault-detection",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Predictive Maintenance",
+        "Motors"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "افزایش بهره‌وری تولید با راهکارهای دوقلوی دیجیتال مبتنی بر زیمنس Xcelerator",
+      "summary": "استفاده از پلتفرم Siemens Xcelerator به شرکت‌های تولیدی اجازه داده است تا خطوط تولید جدید را پیش از ساخت فیزیکی شبیه‌سازی و بهینه‌سازی کنند. این رویکرد خطاهای طراحی را به حداقل رسانده و زمان ورود محصول به بازار را تسریع می‌کند. دوقلوهای دیجیتال اکنون به ابزاری استاندارد در مهندسی مدرن کارخانه‌ها تبدیل شده‌اند.",
+      "category": "news",
+      "published_at": "1405/07/26 16:00",
+      "collected_at": "1405/07/26 20:00",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/story/2026/10/siemens-xcelerator-digital-twin",
+      "tags": [
+        "Digital Twin",
+        "Xcelerator",
+        "Simulation",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "تقویت امنیت سایبری تجهیزات اتوماسیون با استانداردهای جدید IEC 62443",
+      "summary": "زیمنس مجموعه‌ای از راهنمایی‌های امنیتی جدید را برای تطبیق تجهیزات SIMATIC و SCALANCE با استانداردهای سخت‌گیرانه IEC 62443 منتشر کرد. این اقدام برای محافظت از زیرساخت‌های حیاتی در برابر حملات سایبری فزاینده ضروری است. امنیت لایه‌ای به عنوان یک اصل پایه در تمام محصولات جدید این شرکت پیاده‌سازی می‌شود.",
+      "category": "regulation",
+      "published_at": "1405/07/26 17:15",
+      "collected_at": "1405/07/26 20:00",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-iec62443-compliance",
+      "tags": [
+        "Cybersecurity",
+        "IEC 62443",
+        "SIMATIC",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "پیاده‌سازی پلتفرم Industrial Edge در صنایع داروسازی برای تحلیل داده‌های بلادرنگ",
+      "summary": "شرکت‌های داروسازی پیشرو از پلتفرم Industrial Edge زیمنس برای جمع‌آوری و پردازش داده‌های حساس در سطح ماشین‌آلات استفاده می‌کنند. این فناوری پردازش ابری لبه‌ای امکان نظارت دقیق بر پارامترهای حیاتی تولید داروها را فراهم می‌سازد. سرعت بالا و امنیت داده‌ها از دلایل اصلی انتخاب این پلتفرم است.",
+      "category": "industry",
+      "published_at": "1405/07/26 18:30",
+      "collected_at": "1405/07/26 20:00",
+      "source": "Pharmaceutical Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/industrynews/siemens-industrial-edge-pharma",
+      "tags": [
+        "Industrial Edge",
+        "Pharma",
+        "Edge Computing",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "توسعه روبات‌های صنعتی هوشمند با قابلیت برنامه‌نویسی مستقیم در TIA Portal",
+      "summary": "فناوری جدید زیمنس امکان کنترل و برنامه‌نویسی بازوهای روباتیک صنعتی را به صورت مستقیم از طریق محیط یکپارچه TIA Portal فراهم کرده است. این قابلیت نیاز به نرم‌افزارهای جانبی پیچیده را از بین برده و هماهنگی بین PLC و روبات را به حداکثر می‌رساند. این یکپارچه‌سازی گامی بزرگ toward اتوماسیون انعطاف‌پذیر به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/26 19:45",
+      "collected_at": "1405/07/26 20:00",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/manufacturing/siemens-tia-portal-robotics-integration",
+      "tags": [
+        "Robotics",
+        "TIA Portal",
+        "Automation",
+        "PLC Integration"
       ]
     }
   ]
