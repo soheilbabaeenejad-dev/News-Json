@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 120,
-  "provider": "Gemini/gemini-3.7-flash",
-  "updated_at": "1405/07/26 10:00",
+  "count": 121,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/26 11:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1847,6 +1847,22 @@
         "بوستون داینامیکس",
         "اطلس",
         "هوش چندوجهی"
+      ]
+    },
+    {
+      "id": "ai-20261017-001",
+      "title": "گوگل از نسخه پیشرفته ابزار NotebookLM با قابلیت‌های صوتی پویا رونمایی کرد",
+      "summary": "شرکت گوگل آپدیت بزرگی برای ابزار یادداشت‌برداری هوشمند خود یعنی NotebookLM منتشر کرد. این نسخه جدید امکان تعامل صوتی طبیعی‌تر و تحلیل هم‌زمان اسناد پیچیده را برای کاربران فراهم می‌کند. هدف از این توسعه، افزایش بهره‌وری پژوهشگران و دانشجویان در پردازش حجم انبوهی از متون علمی است.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 11:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/google-notebooklm-update-2026",
+      "tags": [
+        "Google",
+        "NotebookLM",
+        "AI",
+        "Productivity"
       ]
     }
   ]
