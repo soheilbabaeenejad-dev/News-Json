@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 99,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/26 08:18",
+  "count": 109,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/26 09:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1551,6 +1551,166 @@
         "Regulation",
         "Sustainability",
         "Carbon Footprint"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "گسترش استفاده از دستیار هوشمند Siemens Industrial Copilot در خطوط تولید",
+      "summary": "زیمنس و مایکروسافت همکاری خود را برای ادغام هوش مصنوعی مولد در محیط‌های صنعتی گسترش داده‌اند. این دستیار هوشمند به مهندسان اجازه می‌دهد کدهای PLC را با سرعت بیشتری تولید کرده و خطاهای سیستم را در زمان واقعی شناسایی کنند. استفاده از این فناوری در پلتفرم TIA Portal باعث کاهش چشمگیر زمان برنامه‌نویسی و افزایش بهره‌وری در کارخانه‌های هوشمند شده است.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 09:04",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-microsoft-scale-generative-ai-across-industries",
+      "tags": [
+        "AI",
+        "TIA Portal",
+        "Microsoft",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "معرفی قابلیت‌های جدید در سیستم‌های کنترل افزونه SIMATIC S7-1500R/H",
+      "summary": "زیمنس به‌روزرسانی جدیدی برای سری کنترل‌کننده‌های S7-1500R/H عرضه کرده است که پایداری سیستم‌های اتوماسیون را در صنایع حساس تضمین می‌کند. این سیستم‌ها با قابلیت سوئیچینگ بدون وقفه، از توقف خطوط تولید در صورت بروز نقص فنی جلوگیری می‌کنند. این به‌روزرسانی شامل بهبود پروتکل‌های ارتباطی PROFINET برای مدیریت بهتر داده‌های حجیم در پروژه‌های زیرساختی بزرگ است.",
+      "category": "product",
+      "published_at": "1405/07/26 08:15",
+      "collected_at": "1405/07/26 09:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/siemens-simatic-s71500-redundancy",
+      "tags": [
+        "PLC",
+        "SIMATIC",
+        "Redundancy",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "ارتقای مدیریت متمرکز دستگاه‌ها با پلتفرم Industrial Edge Management 2.0",
+      "summary": "نسخه جدید پلتفرم مدیریت لبه صنعتی زیمنس با هدف تسهیل نظارت بر هزاران دستگاه متصل در سطح کارخانه معرفی شد. این سیستم به مدیران IT و OT اجازه می‌دهد تا اپلیکیشن‌های صنعتی را به صورت متمرکز نصب، به‌روزرسانی و مدیریت کنند. با استفاده از این راهکار، امنیت داده‌ها در لبه شبکه تقویت شده و هزینه‌های عملیاتی مربوط به نگهداری نرم‌افزارها تا ۳۰ درصد کاهش می‌یابد.",
+      "category": "news",
+      "published_at": "1405/07/26 07:45",
+      "collected_at": "1405/07/26 09:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-industrial-edge-management-update",
+      "tags": [
+        "Industrial Edge",
+        "IoT",
+        "Software",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "تسهیل تحول دیجیتال در صنایع کوچک با سرویس‌های ابری Siemens Xcelerator",
+      "summary": "زیمنس با ارائه مدل جدید نرم‌افزار به عنوان سرویس (SaaS)، دسترسی شرکت‌های کوچک و متوسط را به ابزارهای پیشرفته طراحی و شبیه‌سازی فراهم کرده است. این رویکرد به تولیدکنندگان اجازه می‌دهد بدون سرمایه‌گذاری سنگین اولیه، از قدرت دوقلوی دیجیتال برای بهینه‌سازی محصولات خود استفاده کنند. این پلتفرم ابری همکاری بین تیم‌های مهندسی را در نقاط جغرافیایی مختلف بهبود می‌بخشد.",
+      "category": "economy",
+      "published_at": "1405/07/26 07:20",
+      "collected_at": "1405/07/26 09:04",
+      "source": "Industrial Automation Mag",
+      "source_url": "https://www.industrialautomationmag.com/siemens-xcelerator-cloud-sme",
+      "tags": [
+        "SaaS",
+        "Xcelerator",
+        "SME",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "رونمایی از سیستم سروو درایو SINAMICS S200 برای کاربردهای دقیق کنترلی",
+      "summary": "سیستم جدید SINAMICS S200 زیمنس به عنوان یک راهکار اقتصادی و با کارایی بالا برای کنترل حرکت در ماشین‌آلات بسته‌بندی و نساجی معرفی شد. این درایوها با موتورهای SIMOTICS S-1FL2 هماهنگی کامل داشته و تنظیمات آن‌ها از طریق وب‌سرور داخلی به سادگی انجام می‌شود. دقت بالای این سیستم در موقعیت‌یابی، کیفیت نهایی محصولات تولیدی را در خطوط با سرعت بالا تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 06:50",
+      "collected_at": "1405/07/26 09:04",
+      "source": "Drives & Controls",
+      "source_url": "https://drivesncontrols.com/news/siemens-launches-sinamics-s200-servo-system",
+      "tags": [
+        "SINAMICS",
+        "Servo Drive",
+        "Motion Control",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "همکاری استراتژیک زیمنس و AWS برای توسعه هوش مصنوعی مولد در تولید",
+      "summary": "زیمنس و آمازون (AWS) برای ادغام سرویس Amazon Bedrock در پلتفرم‌های صنعتی زیمنس به توافق رسیدند. این همکاری با هدف ساده‌سازی فرآیند ساخت و استقرار مدل‌های هوش مصنوعی در محیط‌های تولیدی شکل گرفته است. کاربران می‌توانند از این قابلیت برای تحلیل داده‌های پیچیده سنسورها و پیش‌بینی خرابی تجهیزات با دقت بسیار بالاتر از روش‌های سنتی استفاده کنند.",
+      "category": "industry",
+      "published_at": "1405/07/26 06:10",
+      "collected_at": "1405/07/26 09:04",
+      "source": "TechCrunch Industrial",
+      "source_url": "https://techcrunch.com/siemens-aws-generative-ai-manufacturing",
+      "tags": [
+        "AWS",
+        "AI",
+        "Cloud Computing",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "بهبود پایش وضعیت تغذیه با منبع تغذیه هوشمند SITOP PSU6200 زیمنس",
+      "summary": "سری جدید منابع تغذیه SITOP PSU6200 با قابلیت‌های تشخیصی پیشرفته، اطلاعات دقیقی از وضعیت بار و دمای دستگاه را به سیستم کنترل ارسال می‌کنند. این تجهیزات با اتصال به رابط‌های ارتباطی، امکان نگهداری پیشگیرانه را فراهم کرده و از خاموشی‌های ناخواسته ناشی از مشکلات برقی جلوگیری می‌کنند. طراحی فشرده و بازدهی انرژی بالای ۹۵ درصد، این محصول را برای تابلوهای برق مدرن ایده‌آل کرده است.",
+      "category": "product",
+      "published_at": "1405/07/26 05:30",
+      "collected_at": "1405/07/26 09:04",
+      "source": "Electrical Review",
+      "source_url": "https://www.electricalreview.co.uk/news/siemens-sitop-psu6200-diagnostics",
+      "tags": [
+        "SITOP",
+        "Power Supply",
+        "Diagnostics",
+        "Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "بهینه‌سازی فرآیندهای شیمیایی با ماژول‌های SIMATIC ET 200SP HA",
+      "summary": "زیمنس ماژول‌های ورودی/خروجی جدیدی را برای سیستم‌های کنترل فرآیند معرفی کرده است که به طور خاص برای محیط‌های با تراکم بالا طراحی شده‌اند. سیستم ET 200SP HA با اشغال فضای کمتر در تابلو برق، امکان مدیریت تعداد بیشتری از سیگنال‌ها را در صنایع نفت و گاز فراهم می‌کند. این تجهیزات از استانداردهای ایمنی سخت‌گیرانه پیروی کرده و قابلیت تعویض در زمان کار (Hot Swapping) را دارا هستند.",
+      "category": "industry",
+      "published_at": "1405/07/26 04:45",
+      "collected_at": "1405/07/26 09:04",
+      "source": "Process Online",
+      "source_url": "https://www.processonline.com.au/content/automation/siemens-et200sp-ha-process-automation",
+      "tags": [
+        "SIMATIC",
+        "I/O Modules",
+        "Process Control",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "تقویت امنیت شبکه‌های صنعتی با سوئیچ‌های مدیریتی SCALANCE XC-200",
+      "summary": "نسل جدید سوئیچ‌های SCALANCE سری XC-200 زیمنس با ویژگی‌های امنیتی لایه ۲ ارتقا یافته، برای مقابله با دسترسی‌های غیرمجاز در شبکه‌های OT طراحی شده‌اند. این سوئیچ‌ها از پروتکل‌های redundancy برای تضمین پایداری شبکه در صورت قطع کابل استفاده می‌کنند. قابلیت پیکربندی آسان از طریق TIA Portal، زمان راه‌اندازی شبکه‌های پیچیده صنعتی را به طور قابل توجهی کاهش داده است.",
+      "category": "research",
+      "published_at": "1405/07/26 04:15",
+      "collected_at": "1405/07/26 09:04",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-scalance-xc200-security-update",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "توسعه اپلیکیشن‌های سفارشی صنعتی با پلتفرم کم‌کد Mendix زیمنس",
+      "summary": "پلتفرم Mendix که اکنون بخشی از اکوسیستم زیمنس است، به مهندسان اجازه می‌دهد بدون نیاز به دانش عمیق برنامه‌نویسی، اپلیکیشن‌های کاربردی برای پایش تولید بسازند. این ابزار با اتصال مستقیم به داده‌های PLC و سیستم‌های ERP، شکاف بین بخش عملیات و مدیریت را پر می‌کند. استفاده از این راهکار در صنایع خودروسازی باعث تسریع در دیجیتالی‌سازی گزارش‌های روزانه و حذف فرآیندهای کاغذی شده است.",
+      "category": "topic",
+      "published_at": "1405/07/26 03:30",
+      "collected_at": "1405/07/26 09:04",
+      "source": "Mendix Blog",
+      "source_url": "https://www.mendix.com/blog/siemens-low-code-industrial-apps",
+      "tags": [
+        "Mendix",
+        "Low-code",
+        "Digitalization",
+        "Software"
       ]
     }
   ]
