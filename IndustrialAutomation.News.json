@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 89,
+  "count": 99,
   "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/26 07:58",
+  "updated_at": "1405/07/26 08:18",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1401,6 +1401,156 @@
         "Carbon Footprint",
         "SIMATIC",
         "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20240522-001",
+      "title": "گسترش پلتفرم Siemens Xcelerator با ابزارهای جدید مدیریت داده‌های صنعتی",
+      "summary": "زیمنس با هدف تسهیل فرآیند دیجیتالی‌سازی، ابزارهای جدیدی را به اکوسیستم Xcelerator اضافه کرد که تمرکز اصلی آن‌ها بر مدیریت یکپارچه داده‌ها در محیط‌های هیبریدی است. این به‌روزرسانی به شرکت‌ها اجازه می‌دهد داده‌های تولیدی را از سطح تجهیزات تا لایه ابری بدون وقفه منتقل کنند. این اقدام باعث افزایش کارایی در پیاده‌سازی استراتژی‌های صنعت ۴.۰ می‌شود.",
+      "category": "product",
+      "published_at": "1403/03/02 10:30",
+      "collected_at": "1405/07/26 08:18",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-expands-xcelerator-portfolio",
+      "tags": [
+        "Xcelerator",
+        "Digitalization",
+        "Data Management"
+      ]
+    },
+    {
+      "id": "ia-20240522-002",
+      "title": "رونمایی اشنایدر الکتریک از راهکار جدید مدیریت انرژی برای مراکز داده",
+      "summary": "شرکت اشنایدر الکتریک از نسخه ارتقایافته پلتفرم EcoStruxure برای بهینه‌سازی مصرف برق در مراکز داده بزرگ رونمایی کرد. این سیستم با استفاده از الگوریتم‌های پیشرفته، مصرف انرژی را در بخش‌های حساس کاهش داده و پایداری شبکه را تضمین می‌کند. این محصول با هدف پاسخگویی به استانداردهای جدید پایداری محیط‌زیستی و کاهش هزینه‌ها عرضه شده است.",
+      "category": "product",
+      "published_at": "1403/03/02 11:15",
+      "collected_at": "1405/07/26 08:18",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/",
+      "tags": [
+        "EcoStruxure",
+        "Energy Management",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "ia-20240522-003",
+      "title": "تقویت امنیت سایبری در تجهیزات SIMATIC با استانداردهای جدید IEC 62443",
+      "summary": "زیمنس در راستای مقابله با تهدیدات سایبری رو به رشد، پروتکل‌های امنیتی جدیدی را در محصولات سری SIMATIC خود پیاده‌سازی کرد. این به‌روزرسانی با تمرکز بر استاندارد IEC 62443، امنیت ارتباطات بین PLCها و سیستم‌های مانیتورینگ را به شدت افزایش می‌دهد. این اقدام برای حفاظت از زیرساخت‌های حیاتی در برابر حملات خارجی بسیار حیاتی و ضروری است.",
+      "category": "news",
+      "published_at": "1403/03/02 12:00",
+      "collected_at": "1405/07/26 08:18",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://new.siemens.com/global/en/products/automation/topic-safety/cybersecurity.html",
+      "tags": [
+        "SIMATIC",
+        "Cybersecurity",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20240522-004",
+      "title": "معرفی نسل جدید روبات‌های همکار ABB برای صنایع مونتاژ دقیق",
+      "summary": "شرکت ABB از سری جدید روبات‌های همکار (Cobots) خود رونمایی کرد که با دقت بسیار بالا و حسگرهای پیشرفته مجهز شده‌اند. این روبات‌ها برای کار در کنار انسان در خطوط مونتاژ الکترونیک و قطعات حساس طراحی شده‌اند و قابلیت برنامه‌ریزی آسان را دارند. این محصول می‌تواند سرعت تولید را در صنایع کوچک و متوسط به طور چشمگیری افزایش دهد.",
+      "category": "product",
+      "published_at": "1403/03/02 13:45",
+      "collected_at": "1405/07/26 08:18",
+      "source": "ABB Robotics",
+      "source_url": "https://new.abb.com/products/robotics",
+      "tags": [
+        "ABB",
+        "Cobots",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20240522-005",
+      "title": "کاربرد هوش مصنوعی در پردازش لبه‌ای با پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس قابلیت‌های جدیدی را برای اجرای مدل‌های یادگیری عمیق مستقیماً روی سخت‌افزار Industrial Edge معرفی کرد. این ویژگی به اپراتورها اجازه می‌دهد تا تحلیل‌های بلادرنگ از کیفیت محصول را بدون نیاز به ارسال داده به ابر انجام دهند. کاهش تأخیر در پردازش داده‌ها، یکی از مزایای اصلی این ارتقاء برای خطوط تولید پرسرعت است.",
+      "category": "research",
+      "published_at": "1403/03/02 14:20",
+      "collected_at": "1405/07/26 08:18",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industrial-edge.html",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20240522-006",
+      "title": "راکول اتوماسیون از قابلیت‌های جدید مدیریت داده در FactoryTalk رونمایی کرد",
+      "summary": "شرکت راکول اتوماسیون ابزارهای جدیدی را برای یکپارچه‌سازی داده‌های عملیاتی با سیستم‌های مدیریت کسب‌وکار در پلتفرم FactoryTalk معرفی کرد. این به‌روزرسانی به مدیران کارخانه کمک می‌کند تا دید جامع‌تری از عملکرد خطوط تولید داشته باشند. این حرکت بخشی از استراتژی راکول برای تقویت اتصال بین OT و IT در سازمان‌های بزرگ است.",
+      "category": "product",
+      "published_at": "1403/03/02 15:10",
+      "collected_at": "1405/07/26 08:18",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news.html",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Data Integration"
+      ]
+    },
+    {
+      "id": "ia-20240522-007",
+      "title": "نقش دوقلوی دیجیتال در کاهش هزینه‌های راه‌اندازی خطوط تولید جدید",
+      "summary": "تحقیقات جدید نشان می‌دهد که استفاده از دوقلوی دیجیتال (Digital Twin) می‌تواند زمان راه‌اندازی خطوط تولید صنعتی را تا ۳۰ درصد کاهش دهد. این فناوری با شبیه‌سازی دقیق فرآیندها پیش از اجرای فیزیکی، خطاهای طراحی را شناسایی می‌کند. شرکت‌های پیشرو در حال توسعه ابزارهای قدرتمندتری برای این حوزه جهت کاهش هزینه‌های عملیاتی هستند.",
+      "category": "research",
+      "published_at": "1403/03/02 16:05",
+      "collected_at": "1405/07/26 08:18",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/",
+      "tags": [
+        "Digital Twin",
+        "Manufacturing",
+        "Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20240522-008",
+      "title": "چالش‌ها و فرصت‌های پیاده‌سازی شبکه 5G در محیط‌های صنعتی پر از نویز",
+      "summary": "با گسترش اینترنت اشیاء صنعتی، استفاده از شبکه 5G برای ارتباطات بدون سیم در کارخانه‌ها مورد توجه قرار گرفته است. با این حال، وجود نویزهای الکترومغناطیسی در محیط‌های صنعتی می‌تواند پایداری اتصال را مختل کند. شرکت‌ها در حال توسعه مودم‌های صنعتی مقاوم برای حل این چالش‌های فنی جهت ایجاد شبکه‌های خصوصی هستند.",
+      "category": "topic",
+      "published_at": "1403/03/02 17:00",
+      "collected_at": "1405/07/26 08:18",
+      "source": "TechCrunch Industry",
+      "source_url": "https://techcrunch.com/",
+      "tags": [
+        "5G",
+        "IIoT",
+        "Industrial Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20240522-009",
+      "title": "معرفی درایوهای هوشمند SINAMICS با قابلیت عیب‌یابی خودکار",
+      "summary": "زیمنس نسل جدید درایوهای SINAMICS را با قابلیت‌های مانیتورینگ پیشرفته معرفی کرد که قادر به تشخیص زودهنگام خرابی‌های مکانیکی هستند. این درایوها با تحلیل الگوهای جریان الکتریکی، وضعیت سلامت موتور را گزارش می‌دهند. این ویژگی باعث کاهش زمان توقف ناخواسته در خطوط تولید و بهبود استراتژی نگهداری پیشگیرانه می‌شود.",
+      "category": "product",
+      "published_at": "1403/03/02 18:30",
+      "collected_at": "1405/07/26 08:18",
+      "source": "Siemens Drive Technology",
+      "source_url": "https://www.siemens.com/global/en/products/automation/drive-technology.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20240522-010",
+      "title": "قوانین جدید اتحادیه اروپا برای گزارش‌دهی کربن در فرآیندهای تولیدی",
+      "summary": "اتحادیه اروپا قوانین سخت‌گیرانه‌ای را برای نظارت بر ردپای کربن در صنایع سنگین وضع کرده است که شرکت‌ها را ملزم به شفافیت در مصرف انرژی می‌کند. این مقررات باعث شده تا تقاضا برای نرم‌افزارهای مدیریت انرژی و پایش پایداری افزایش یابد. شرکت‌های اتوماسیون اکنون در حال توسعه ابزارهایی برای کمک به صنایع جهت رعایت این استانداردها هستند.",
+      "category": "regulation",
+      "published_at": "1403/03/02 19:45",
+      "collected_at": "1405/07/26 08:18",
+      "source": "Reuters Business",
+      "source_url": "https://www.reuters.com/business/",
+      "tags": [
+        "Regulation",
+        "Sustainability",
+        "Carbon Footprint"
       ]
     }
   ]
