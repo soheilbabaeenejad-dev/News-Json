@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 209,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 13:02",
+  "count": 219,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/26 13:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3317,6 +3317,165 @@
         "Cybersecurity",
         "SIMATIC",
         "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20241017-001",
+      "title": "گسترش همکاری زیمنس و AWS برای استفاده از هوش مصنوعی مولد در تولید",
+      "summary": "زیمنس و آمازون (AWS) همکاری خود را برای ادغام سرویس Amazon Bedrock در پلتفرم Xcelerator گسترش دادند. این اقدام به تولیدکنندگان اجازه می‌دهد تا از مدل‌های هوش مصنوعی مولد برای بهبود فرآیندهای طراحی و عیب‌یابی استفاده کنند. هدف اصلی این پروژه کاهش زمان توسعه محصول و بهینه‌سازی زنجیره تأمین با استفاده از داده‌های ابری و ابزارهای تحلیلی پیشرفته است.",
+      "category": "company",
+      "published_at": "1403/07/26 09:15",
+      "collected_at": "1405/07/26 13:08",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-aws-strengthen-partnership",
+      "tags": [
+        "Siemens",
+        "AWS",
+        "Generative AI",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20241017-002",
+      "title": "معرفی ماژول‌های جدید SIMATIC ET 200SP برای جمع‌آوری داده‌های پرسرعت",
+      "summary": "زیمنس ماژول‌های ورودی آنالوگ جدیدی را برای سیستم I/O غیرمتمرکز SIMATIC ET 200SP معرفی کرده است که دقت اندازه‌گیری را به شکل چشمگیری افزایش می‌دهد. این ماژول‌ها برای کاربردهایی که نیاز به نمونه‌برداری سریع دارند، مانند کنترل فرآیندهای شیمیایی پیچیده، طراحی شده‌اند. با استفاده از این سخت‌افزار، مهندسان می‌توانند تحلیل‌های دقیق‌تری از وضعیت ماشین‌آلات در لحظه داشته باشند.",
+      "category": "product",
+      "published_at": "1403/07/26 09:45",
+      "collected_at": "1405/07/26 13:08",
+      "source": "Siemens Industry",
+      "source_url": "https://support.industry.siemens.com/cs/ww/en/view/109825678",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "Data Acquisition",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20241017-003",
+      "title": "رونمایی اشنایدر الکتریک از ابزار جدید پایداری برای کارخانه‌های هوشمند",
+      "summary": "شرکت اشنایدر الکتریک نرم‌افزار جدیدی را تحت پلتفرم EcoStruxure برای ردیابی و گزارش‌دهی میزان انتشار کربن در سطح کارخانه عرضه کرد. این ابزار به مدیران صنعتی کمک می‌کند تا مصرف انرژی تجهیزات را به صورت تفکیک شده مشاهده و برای کاهش هزینه‌ها برنامه‌ریزی کنند. این راهکار به ویژه برای انطباق با مقررات جدید زیست‌محیطی در اروپا و آمریکای شمالی توسعه یافته است.",
+      "category": "news",
+      "published_at": "1403/07/26 10:10",
+      "collected_at": "1405/07/26 13:08",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/",
+      "tags": [
+        "Sustainability",
+        "EcoStruxure",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20241017-004",
+      "title": "ادغام دستیار هوش مصنوعی Siemens Industrial Copilot در فرآیندهای مهندسی",
+      "summary": "زیمنس اعلام کرد که دستیار هوش مصنوعی Industrial Copilot اکنون به طور مستقیم با محیط برنامه‌نویسی TIA Portal یکپارچه شده است تا کدنویسی PLC را تسریع کند. این ابزار می‌تواند کدهای ساختاریافته (SCL) را بر اساس توضیحات متنی کاربر تولید کرده و خطاهای احتمالی را پیش از اجرا شناسایی کند. این فناوری باعث می‌شود تا زمان راه‌اندازی پروژه‌های اتوماسیون تا ۳۰ درصد کاهش یابد.",
+      "category": "product",
+      "published_at": "1403/07/26 10:35",
+      "collected_at": "1405/07/26 13:08",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/software/article/siemens-industrial-copilot",
+      "tags": [
+        "AI",
+        "TIA Portal",
+        "Copilot",
+        "SCL"
+      ]
+    },
+    {
+      "id": "ia-20241017-005",
+      "title": "خرید استراتژیک شرکت Sevensense توسط ABB برای ارتقای ربات‌های متحرک",
+      "summary": "شرکت ABB با هدف تقویت بخش رباتیک خود، استارتاپ سوئیسی Sevensense را که در زمینه ناوبری مبتنی بر هوش مصنوعی فعالیت می‌کند، خریداری کرد. این فناوری به ربات‌های متحرک خودگردان (AMR) اجازه می‌دهد تا در محیط‌های شلوغ کارخانه بدون نیاز به نشانگرهای فیزیکی جابجا شوند. این خرید نشان‌دهنده تمرکز ABB بر خودکارسازی کامل لجستیک داخلی در صنایع مختلف است.",
+      "category": "company",
+      "published_at": "1403/07/26 11:00",
+      "collected_at": "1405/07/26 13:08",
+      "source": "ABB Press",
+      "source_url": "https://new.abb.com/news/detail/111456/abb-acquires-sevensense",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "AMR",
+        "Acquisition"
+      ]
+    },
+    {
+      "id": "ia-20241017-006",
+      "title": "عرضه بلوک‌های I/O جدید ArmorBlock 5000 توسط راکول اتوماسیون",
+      "summary": "راکول اتوماسیون سری جدید ماژول‌های ArmorBlock 5000 را برای استفاده در محیط‌های سخت صنعتی با درجه حفاظت IP69K معرفی کرد. این تجهیزات به گونه‌ای طراحی شده‌اند که بدون نیاز به تابلو برق، مستقیماً روی ماشین‌آلات نصب شوند و هزینه‌های کابل‌کشی را کاهش دهند. پشتیبانی از پروتکل EtherNet/IP در این ماژول‌ها، اتصال سریع و پایدار به کنترل‌کننده‌های Logix را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/26 11:25",
+      "collected_at": "1405/07/26 13:08",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/armorblock-5000-io.html",
+      "tags": [
+        "Rockwell",
+        "I/O Modules",
+        "EtherNet/IP",
+        "Industrial Hardware"
+      ]
+    },
+    {
+      "id": "ia-20241017-007",
+      "title": "به‌روزرسانی امنیتی زیمنس برای پلتفرم Sinema Remote Connect",
+      "summary": "زیمنس نسخه جدیدی از نرم‌افزار Sinema Remote Connect را برای مدیریت ایمن دسترسی‌های از راه دور به شبکه‌های صنعتی منتشر کرد. این به‌روزرسانی شامل وصله‌های امنیتی برای مقابله با حملات سایبری جدید و بهبود مدیریت گواهینامه‌های دیجیتال در ایستگاه‌های کاری است. با این راهکار، تکنسین‌ها می‌توانند با امنیت کامل و از طریق تونل‌های VPN به تجهیزات SIMATIC در نقاط مختلف دنیا متصل شوند.",
+      "category": "regulation",
+      "published_at": "1403/07/26 11:50",
+      "collected_at": "1405/07/26 13:08",
+      "source": "Siemens Security",
+      "source_url": "https://cert-portal.siemens.com/productcert/",
+      "tags": [
+        "Cybersecurity",
+        "Remote Access",
+        "Sinema",
+        "VPN"
+      ]
+    },
+    {
+      "id": "ia-20241017-008",
+      "title": "ارتقای پلتفرم Ovation امرسون برای مدیریت انرژی‌های تجدیدپذیر",
+      "summary": "شرکت امرسون قابلیت‌های جدیدی را به سیستم کنترل Ovation اضافه کرده است تا ادغام منابع انرژی پراکنده مانند مزارع خورشیدی و بادی را تسهیل کند. این نسخه جدید شامل الگوریتم‌های پیش‌بینی تولید انرژی است که به پایداری شبکه‌های برق هوشمند کمک می‌کند. این تحول به اپراتورها اجازه می‌دهد تا نوسانات ناشی از منابع تجدیدپذیر را بهتر مدیریت کرده و بهره‌وری شبکه را افزایش دهند.",
+      "category": "industry",
+      "published_at": "1403/07/26 12:15",
+      "collected_at": "1405/07/26 13:08",
+      "source": "Emerson News",
+      "source_url": "https://www.emerson.com/en-us/news/automation/ovation-renewable-update",
+      "tags": [
+        "Emerson",
+        "Ovation",
+        "Renewable Energy",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20241017-009",
+      "title": "کاربرد واحد پردازش عصبی S7-1500 TM NPU در کنترل کیفیت خودکار",
+      "summary": "زیمنس با استفاده از ماژول TM NPU در سری S7-1500، امکان اجرای مدل‌های یادگیری ماشین را مستقیماً در سطح PLC فراهم کرده است. این واحد پردازش عصبی برای وظایفی مانند بازرسی بصری محصولات و تشخیص ناهنجاری‌ها در خطوط تولید بدون نیاز به کامپیوترهای صنعتی مجزا استفاده می‌شود. این نوآوری باعث کاهش تأخیر در تصمیم‌گیری‌های حیاتی و افزایش سرعت خطوط بسته‌بندی شده است.",
+      "category": "research",
+      "published_at": "1403/07/26 12:40",
+      "collected_at": "1405/07/26 13:08",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://www.siemens.com/global/en/products/automation/systems/industrial/simatic-s7-1500/tm-npu.html",
+      "tags": [
+        "S7-1500",
+        "NPU",
+        "Machine Learning",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20241017-010",
+      "title": "معرفی سامانه Cyber Insights توسط هانی‌ول برای حفاظت از زیرساخت‌های OT",
+      "summary": "هانی‌ول راهکار جدید Cyber Insights را برای پایش مداوم امنیت سایبری در سیستم‌های کنترل صنعتی (ICS) معرفی کرد. این سامانه با تحلیل ترافیک شبکه، نقاط ضعف احتمالی و فعالیت‌های مشکوک را شناسایی کرده و گزارش‌های دقیقی برای تیم‌های امنیتی ارسال می‌کند. هدف این ابزار کاهش ریسک توقف تولید ناشی از حملات باج‌افزاری در صنایع نفت، گاز و پتروشیمی است.",
+      "category": "regulation",
+      "published_at": "1403/07/26 13:05",
+      "collected_at": "1405/07/26 13:08",
+      "source": "Honeywell Forge",
+      "source_url": "https://www.honeywell.com/us/en/press-release/cyber-insights-ot-security",
+      "tags": [
+        "Honeywell",
+        "OT Security",
+        "ICS",
+        "Cyber Insights"
       ]
     }
   ]
