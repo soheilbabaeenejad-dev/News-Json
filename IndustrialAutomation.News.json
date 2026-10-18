@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 269,
+  "count": 278,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/26 15:01",
+  "updated_at": "1405/07/26 15:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4285,6 +4285,150 @@
         "TSN",
         "Industrial Ethernet",
         "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "معرفی کنترل‌کننده ایمنی جدید SIMATIC S7-1500F با پشتیبانی از پروتکل‌های امنیتی پیشرفته",
+      "summary": "شرکت زیمنس از نسل جدید کنترل‌کننده‌های ایمنی SIMATIC S7-1500F با قابلیت‌های پیشرفته رمزنگاری و پشتیبانی از پروتکل پروفی‌سف برای خطوط تولید اتوماتیک رونمایی کرد. این محصول جدید به مهندسان اجازه می‌دهد تا استانداردهای ایمنی ماشین‌آلات را طبق الزامات IEC 61508 با دقت بیشتری پیاده‌سازی کنند. این کنترل‌کننده با کاهش قابل توجه زمان پاسخ‌دهی ایمنی، نقش مهمی در ارتقای بهره‌وری و حفاظت از نیروی کار در کارخانه‌های هوشمند ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 08:30",
+      "collected_at": "1405/07/26 15:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500f-advanced-safety",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety PLC",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "توسعه قابلیت‌های پردازش ابری در پلتفرم TIA Portal V20 با ماژول‌های جدید مهندسی",
+      "summary": "زیمنس بسته به‌روزرسانی جدیدی برای نرم‌افزار مهندسی TIA Portal V20 منتشر کرد که قابلیت‌های کار تیمی ابری را به‌طور چشمگیری افزایش می‌دهد. این نسخه به چندین کاربر اجازه می‌دهد به‌صورت همزمان روی یک پروژه اتوماسیون کار کنند و تغییرات را به صورت بلادرنگ همگام‌سازی نمایند. این ابزار مهندسی پیشرفته زمان توسعه پروژه‌های بزرگ صنعتی و راه‌اندازی خطوط تولید را تا حد زیادی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 09:15",
+      "collected_at": "1405/07/26 15:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/plc/article/siemens-releases-tia-portal-v20-cloud-updates",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Cloud",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "عرضه ماژول ارتباطی جدید SCALANCE برای توسعه زیرساخت‌های شبکه صنعتی TSN",
+      "summary": "زیمنس خانواده محصولات شبکه صنعتی SCALANCE را با معرفی سوئیچ‌های جدید سازگار با فناوری زمان‌بندی شبکه TSN توسعه داد. این تجهیزات ارتباطی امکان انتقال داده‌ها با سرعت گیگابیت و تاخیر بسیار پایین را در محیط‌های سخت صنعتی فراهم می‌کنند. استفاده از این سوئیچ‌ها برای کاربردهای بلادرنگ و سنکرون‌سازی دقیق در خطوط روباتیک پیشرفته اهمیت حیاتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 10:45",
+      "collected_at": "1405/07/26 15:03",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/industrial-ethernet/siemens-expands-scalance-tsn-portfolio",
+      "tags": [
+        "SCALANCE",
+        "TSN",
+        "Industrial Ethernet",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با ابزار تحلیلی جدید Insights Hub Energy Analytics",
+      "summary": "پلتفرم ابری Insights Hub زیمنس ماژول جدیدی برای تحلیل عمیق مصرف انرژی و ردیابی انتشار گازهای گلخانه‌ای در کارخانه‌ها دریافت کرد. این ابزار اطلاعات مصرف برق، گاز و آب را از تجهیزات مختلف میدانی جمع‌آوری کرده و با الگوریتم‌های هوش مصنوعی تحلیل می‌کند. کارخانه‌ها می‌توانند با اتکا به این گزارش‌ها، نقاط اتلاف انرژی را شناسایی کرده و به اهداف پایداری زیست‌محیطی خود دست یابند.",
+      "category": "product",
+      "published_at": "1405/07/26 11:20",
+      "collected_at": "1405/07/26 15:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud/siemens-updates-insights-hub-for-carbon-tracking",
+      "tags": [
+        "Insights Hub",
+        "Energy Analytics",
+        "IoT",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "رونمایی از نسخه جدید نرم‌افزار WinCC Unified V19 با امکانات پیشرفته گرافیکی وب‌پایه",
+      "summary": "زیمنس نسخه جدید نرم‌افزار مانیتورینگ صنعتی WinCC Unified V19 را با ابزارهای طراحی گرافیکی مبتنی auf HTML5 منتشر کرد. این نسخه امکان ساخت داشبوردهای تعاملی و واکنش‌گرا را برای اپراتورها فراهم می‌کند تا روی انواع دستگاه‌های موبایل و تبلت صنعتی قابل اجرا باشند. بهبود عملکرد سرور و امنیت بالاتر ارتباطات وب از ویژگی‌های کلیدی این به‌روزرسانی بزرگ است.",
+      "category": "product",
+      "published_at": "1405/07/26 12:05",
+      "collected_at": "1405/07/26 15:03",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-releases-wincc-unified-v19",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "گسترش کاربرد روبات‌های متحرک خودگردان در لجستیک داخلی با پلتفرم SIMOVE",
+      "summary": "سیستم مدیریت ناوگان روباتیک SIMOVE زیمنس اکنون از طیف وسیع‌تری از روبات‌های متحرک خودگردان و AGVهای شرکت‌های مختلف پشتیبانی می‌کند. این نرم‌افزار هماهنگی بین مسیرهای تردد، ایستگاه‌های شارژ و وظایف حمل‌ونقل مواد را در انبارهای بزرگ بهینه‌سازی می‌کند. اینپارچه‌سازی این سیستم با نرم‌افزارهای برنامه‌ریزی تولید، کارایی زنجیره تامین درون کارخانه را به شدت افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/26 12:50",
+      "collected_at": "1405/07/26 15:03",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/article/siemens-updates-simove-fleet-management-amr",
+      "tags": [
+        "SIMOVE",
+        "AMR",
+        "AGV",
+        "Intralogistics"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "ارتقای امنیت تجهیزات اتوماسیون صنعتی با انتشار بسته‌های امنیتی جدید ماهانه زیمنس",
+      "summary": "تیم واکنش اضطرابی امنیت سایبری زیمنس مجموعه‌ای از پچ‌های امنیتی حیاتی را برای تجهیزات کنترل صنعتی و سرورهای مانیتورینگ منتشر کرد. این به‌روزرسانی‌ها آسیب‌پذیری‌های احتمالی در پروتکل‌های ارتباطی و سیستم‌عامل‌های صنعتی SIMATIC را برطرف می‌سازند. رعایت این توصیه‌های امنیتی برای حفظ پایداری و جلوگیری از نفوذ سایبری به شبکه‌های صنعتی از اهمیت بالایی برخوردار است.",
+      "category": "regulation",
+      "published_at": "1405/07/26 13:30",
+      "collected_at": "1405/07/26 15:03",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com/siemens-patch-advisory-october-industrial-controls",
+      "tags": [
+        "Cybersecurity",
+        "SIMATIC",
+        "Vulnerability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "استفاده از رایانه صنعتی فشرده IPC227G در پروژه‌های سخت‌افزاری لبه شبکه",
+      "summary": "رایانه صنعتی بدون فن IPC227G زیمنس با پردازنده‌های مدرن اینتل برای پردازش‌های سنگین در لبه شبکه و شرایط محیطی سخت عرضه شد. این دستگاه به دلیل ابعاد بسیار کوچک به راحتی در تابلوهای برق محدود نصب شده و داده‌های سنسورها را پیش از ارسال به ابر پردازش می‌کند. این رایانه نقش کلیدی در کاهش پهنای باند مصرفی و اجرای الگوریتم‌های هوش مصنوعی محلی دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:10",
+      "collected_at": "1405/07/26 15:03",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/automation/siemens-highlights-ipc227g-edge-computing",
+      "tags": [
+        "Industrial PC",
+        "IPC227G",
+        "Edge Computing",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "بهبود کارایی ماشین‌افزارها با پلتفرم کنترل دیجیتال SINUMERIK ONE CNC",
+      "summary": "سیستم کنترل عددی SINUMERIK ONE زیمنس با امکانات جدید شبیه‌سازی سه‌بعدی برای ماشین‌کاری دقیق قطعات پیچیده هوافضا به‌روز شد. این کنترل‌کننده با ایجاد کامل دوقلوی دیجیتال ماشین تراش در محیط مجازی، خطاهای برنامه‌نویسی را پیش از اجرای واقعی به صفر می‌رساند. این فناوری پیشرفته زمان راه‌اندازی فرآیندهای براده‌برداری را به میزان قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:55",
+      "collected_at": "1405/07/26 15:03",
+      "source": "Manufacturing Engineering",
+      "source_url": "https://www.mfgeng.com/machining/siemens-sinumerik-one-cnc-updates",
+      "tags": [
+        "SINUMERIK",
+        "CNC",
+        "Digital Twin",
+        "Machining"
       ]
     }
   ]
