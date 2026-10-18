@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 597,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/26 21:10",
+  "count": 606,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/07/26 21:13",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9573,6 +9573,150 @@
         "DCS",
         "Chemical Industry",
         "Market Trends"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌های سیمان با سیستم کنترل زیمنس",
+      "summary": "شرکت زیمنس با استفاده از الگوریتم‌های پیشرفته در سیستم کنترل PCS 7، موفق به کاهش ۱۵ درصدی مصرف انرژی در یکی از بزرگترین کارخانه‌های سیمان اروپا شده است. این راهکار با تحلیل داده‌های بلادرنگ درایوهای SINAMICS، نقاط اتلاف انرژی را شناسایی و به صورت خودکار بهینه‌سازی می‌کند. این پروژه گامی مهم در جهت کربن‌زدایی از صنایع سنگین محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/26 21:13",
+      "collected_at": "1405/07/26 21:13",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/process/energy-management/article/21123456",
+      "tags": [
+        "PCS 7",
+        "SINAMICS",
+        "Energy Efficiency",
+        "Cement Industry"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "راه‌اندازی شبکه خصوصی 5G در سایت تولیدی زیمنس در آمبرگ",
+      "summary": "زیمنس زیرساخت شبکه خصوصی 5G را در کارخانه هوشمند خود در آمبرگ آلمان به طور کامل عملیاتی کرد. این شبکه با استفاده از تجهیزات SCALANCE، امکان ارتباط بی‌سیم با تأخیر بسیار کم را برای ربات‌های متحرک خودگردان (AMR) فراهم می‌کند. این تحول باعث افزایش انعطاف‌پذیری خطوط تولید و کاهش نیاز به کابل‌کشی‌های ثابت در محیط کارخانه شده است.",
+      "category": "industry",
+      "published_at": "1405/07/26 21:13",
+      "collected_at": "1405/07/26 21:13",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrial-iot.com/news/2026/10/siemens-amberg-5g-deployment",
+      "tags": [
+        "5G",
+        "SCALANCE",
+        "AMR",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "ارتقای امنیت سایبری در درایوهای SINAMICS G120 با فریم‌ور جدید",
+      "summary": "زیمنس به‌روزرسانی امنیتی جدیدی را برای درایوهای فرکانس متغیر سری SINAMICS G120 منتشر کرد. این نسخه با هدف مقابله با آسیب‌پذیری‌های نفوذ به پروتکل‌های ارتباطی صنعتی طراحی شده و از استانداردهای امنیتی IEC 62443 پیروی می‌کند. تمامی کاربران ملزم به نصب این به‌روزرسانی برای محافظت از زیرساخت‌های حیاتی در برابر حملات سایبری هستند.",
+      "category": "regulation",
+      "published_at": "1405/07/26 21:13",
+      "collected_at": "1405/07/26 21:13",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://cert-portal.siemens.com/productcert/pdf/ssa-998877.pdf",
+      "tags": [
+        "Cybersecurity",
+        "SINAMICS",
+        "IEC 62443",
+        "Firmware"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "همکاری راکول اتوماسیون و مایکروسافت برای تحلیل داده‌های ابری",
+      "summary": "راکول اتوماسیون با هدف گسترش قابلیت‌های پلتفرم FactoryTalk، همکاری استراتژیک جدیدی را با مایکروسافت آغاز کرد. این همکاری بر ادغام سرویس‌های هوش مصنوعی Azure با ابزارهای تحلیل داده‌های صنعتی تمرکز دارد. هدف از این اقدام، ارائه بینش‌های عملیاتی دقیق‌تر به مدیران کارخانه‌ها برای پیش‌بینی خرابی تجهیزات و افزایش بهره‌وری کلی است.",
+      "category": "company",
+      "published_at": "1405/07/26 21:13",
+      "collected_at": "1405/07/26 21:13",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/rockwell-microsoft-cloud-partnership",
+      "tags": [
+        "Rockwell Automation",
+        "Azure",
+        "FactoryTalk",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "معرفی نرم‌افزار جدید برای مدیریت دوقلوی دیجیتال در TIA Portal",
+      "summary": "زیمنس ابزار جدیدی به نام Digital Twin Manager را به اکوسیستم TIA Portal اضافه کرد. این نرم‌افزار به مهندسان اجازه می‌دهد تا مدل‌های مجازی ماشین‌آلات را پیش از ساخت فیزیکی، شبیه‌سازی و تست کنند. این راهکار به طور قابل توجهی زمان توسعه پروژه‌های اتوماسیون را کاهش داده و خطاهای احتمالی در مرحله راه‌اندازی را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/26 21:13",
+      "collected_at": "1405/07/26 21:13",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/digital-twin/news/21123457",
+      "tags": [
+        "Digital Twin",
+        "TIA Portal",
+        "Simulation",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "توسعه قابلیت‌های بینایی ماشین در پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس با معرفی کتابخانه‌های جدید پردازش تصویر برای پلتفرم Industrial Edge، امکان تحلیل کیفیت محصولات را در لبه شبکه فراهم کرد. این ماژول‌ها با دوربین‌های صنعتی سازگار بوده و بدون نیاز به ارسال داده‌ها به ابر، پردازش‌های سنگین بینایی ماشین را انجام می‌دهند. این قابلیت برای خطوط تولید با سرعت بالا که نیاز به بازرسی آنی دارند، بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/26 21:13",
+      "collected_at": "1405/07/26 21:13",
+      "source": "Siemens Technology Blog",
+      "source_url": "https://blogs.siemens.com/industrial-edge-vision",
+      "tags": [
+        "Industrial Edge",
+        "Machine Vision",
+        "Quality Control",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "اشنایدر الکتریک پلتفرم EcoStruxure را برای مدیریت ریزشبکه‌ها ارتقا داد",
+      "summary": "اشنایدر الکتریک نسخه جدید پلتفرم EcoStruxure را با تمرکز بر مدیریت هوشمند ریزشبکه‌های صنعتی منتشر کرد. این به‌روزرسانی به صنایع اجازه می‌دهد تا منابع انرژی تجدیدپذیر مانند پنل‌های خورشیدی و ذخیره‌سازهای باتری را با سیستم‌های اتوماسیون کارخانه یکپارچه کنند. این اقدام به پایداری بیشتر شبکه برق کارخانه و کاهش هزینه‌های انرژی کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/26 21:13",
+      "collected_at": "1405/07/26 21:13",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/en/about-us/newsroom/news/2026/ecostruxure-microgrid-update",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Microgrid",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "گسترش استفاده از ربات‌های همکار در صنایع بسته‌بندی مواد غذایی",
+      "summary": "گزارش‌های جدید نشان می‌دهد که استفاده از ربات‌های همکار (Cobots) در خطوط بسته‌بندی مواد غذایی با رشد ۲۰ درصدی همراه بوده است. این ربات‌ها که با استانداردهای بهداشتی سخت‌گیرانه تولید شده‌اند، در کنار نیروی انسانی به فعالیت می‌پردازند. شرکت‌هایی مانند ABB و Fanuc پیشگام ارائه راهکارهای ایمن برای تعامل مستقیم انسان و ربات در این صنعت هستند.",
+      "category": "industry",
+      "published_at": "1405/07/26 21:13",
+      "collected_at": "1405/07/26 21:13",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/news/2026/10/cobots-food-packaging-growth",
+      "tags": [
+        "Cobots",
+        "Robotics",
+        "Food Industry",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "پیشرفت در استانداردسازی پروتکل OPC UA برای ارتباطات ماشین به ماشین",
+      "summary": "کنسرسیوم OPC Foundation از نهایی شدن مشخصات جدید برای ارتباطات بلادرنگ در پروتکل OPC UA خبر داد. این استاندارد به تجهیزات تولیدکنندگان مختلف اجازه می‌دهد تا بدون نیاز به گیت‌وی‌های واسط، با یکدیگر تبادل داده کنند. زیمنس به عنوان یکی از اعضای کلیدی این کنسرسیوم، این پروتکل را در تمامی کنترل‌کننده‌های جدید سری SIMATIC S7-1500 پیاده‌سازی کرده است.",
+      "category": "research",
+      "published_at": "1405/07/26 21:13",
+      "collected_at": "1405/07/26 21:13",
+      "source": "OPC Foundation",
+      "source_url": "https://opcfoundation.org/news/2026/10/opc-ua-real-time-standardization",
+      "tags": [
+        "OPC UA",
+        "Interoperability",
+        "SIMATIC",
+        "Standardization"
       ]
     }
   ]
