@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 438,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 19:03",
+  "count": 448,
+  "provider": "Gemini/gemini-robotics-er-2-preview",
+  "updated_at": "1405/07/27 19:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7048,6 +7048,166 @@
         "IIoT",
         "Cloud",
         "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی منبع تغذیه جدید SIMATIC PSU8600 زیمنس با قابلیت پایش پیشرفته جریان",
+      "summary": "شرکت زیمنس از نسل جدید سیستم‌های منبع تغذیه هوشمند SIMATIC PSU8600 رونمایی کرد. این سیستم با قابلیت یکپارچه‌سازی کامل در TIA Portal، امکان نظارت دقیق بر جریان و ولتاژ خروجی هر کانال را فراهم می‌کند. این محصول جدید به کارخانه‌ها اجازه می‌دهد تا مصرف انرژی را بهینه‌سازی کرده و با تشخیص زودهنگام نوسانات، از توقف ناگهانی خطوط تولید جلوگیری کنند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:15",
+      "collected_at": "1405/07/27 19:08",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-expands-simatic-psu8600-power-supply-system",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PSU8600",
+        "Power Supply"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "همکاری زیمنس و مرسدس بنز برای دیجیتالی‌سازی کارخانه‌های تولید باتری خودروهای برقی",
+      "summary": "زیمنس و مرسدس بنز همکاری استراتژیک جدیدی را برای تجهیز کارخانه‌های تولید سلول باتری به سیستم‌های پیشرفته اتوماسیون آغاز کرده‌اند. در این پروژه، از سیستم‌های کنترل حرکت پیشرفته و پلتفرم‌های مانیتورینگ زیمنس برای افزایش سرعت تولید و کاهش ضایعات استفاده می‌شود. این اقدام گام مهمی در جهت استانداردسازی فرآیندهای تولید باتری در اروپا به شمار می‌رود.",
+      "category": "company",
+      "published_at": "1405/07/26 11:30",
+      "collected_at": "1405/07/27 19:08",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/sustainability/news/33005432/siemens-and-mercedes-benz-partner-on-digital-battery-production",
+      "tags": [
+        "Siemens",
+        "Mercedes-Benz",
+        "Electric Vehicles",
+        "Battery Production"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "رونمایی اشنایدر الکتریک از نرم‌افزار جدید مدیریت دارایی‌های صنعتی EcoStruxure Asset Advisor",
+      "summary": "شرکت اشنایدر الکتریک نسخه جدید نرم‌افزار EcoStruxure Asset Advisor را معرفی کرد که از الگوریتم‌های یادگیری ماشین برای پیش‌بینی خرابی تجهیزات توزیع برق استفاده می‌کند. این ابزار به مهندسان اجازه می‌دهد تا پیش از بروز حوادث ناگهانی، اقدامات پیشگیرانه را برنامه‌ریزی کنند و پایداری شبکه‌های برق صنعتی را تا ۳۰ درصد افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 14:15",
+      "collected_at": "1405/07/27 19:08",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/press-releases/schneider-electric-unveils-enhanced-ecostruxure-asset-advisor.jsp",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Asset Management",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "عرضه ماژول‌های ورودی/خروجی مقاوم SIMATIC ET 200pro توسط زیمنس برای محیط‌های خشن",
+      "summary": "زیمنس سری جدیدی از ماژول‌های ورودی/خروجی غیرمتمرکز SIMATIC ET 200pro را با درجه حفاظت IP65/IP67 روانه بازار کرد. این تجهیزات بدون نیاز به تابلو برق مستقیماً روی ماشین‌آلات نصب می‌شوند و مقاومت بالایی در برابر لرزش و رطوبت دارند. این ماژول‌ها برای خطوط مونتاژ خودرو طراحی شده‌اند و زمان سیم‌کشی را به شدت کاهش می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/26 16:45",
+      "collected_at": "1405/07/27 19:08",
+      "source": "Siemens Industry",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-presents-new-rugged-simatic-et-200pro-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200pro",
+        "Industrial I/O"
+      ]
+    },
+    {
+      "id": "ia-20261019-005",
+      "title": "انتشار گزارش مشترک زیمنس و کپجمینای درباره چالش‌های پیاده‌سازی نسل پنجم شبکه در صنعت",
+      "summary": "زیمنس با همکاری شرکت کپجمینای گزارشی جامع درباره موانع و فرصت‌های استفاده از شبکه‌های خصوصی 5G در محیط‌های صنعتی منتشر کرد. این گزارش نشان می‌دهد که امنیت سایبری و پیچیدگی ادغام با سیستم‌های قدیمی OT بزرگترین چالش‌های پیش روی مدیران کارخانه‌ها هستند. با این حال، استفاده از 5G سرعت انتقال داده‌ها را در ربات‌های متحرک به شدت بهبود می‌بخشد.",
+      "category": "research",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 19:08",
+      "source": "Capgemini Press",
+      "source_url": "https://www.capgemini.com/news/press-releases/siemens-and-capgemini-report-on-industrial-5g/",
+      "tags": [
+        "Siemens",
+        "Capgemini",
+        "Industrial 5G",
+        "OT Network"
+      ]
+    },
+    {
+      "id": "ia-20261019-006",
+      "title": "رونمایی هانی‌ول از راهکار جدید امنیت سایبری برای حفاظت از سیستم‌های کنترل توزیع‌شده (DCS)",
+      "summary": "شرکت هانی‌ول سیستم جدیدی به نام Experion Cyber Shield را معرفی کرده است که به طور ویژه برای محافظت از سیستم‌های کنترل توزیع‌شده در برابر حملات باج‌افزاری طراحی شده است. این سیستم با پایش مداوم ترافیک شبکه OT و شناسایی رفتارهای غیرعادی، از دسترسی‌های غیرمجاز جلوگیری می‌کند. این راهکار امنیت زیرساخت‌های حیاتی مانند پالایشگاه‌ها را ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 09:45",
+      "collected_at": "1405/07/27 19:08",
+      "source": "Honeywell News",
+      "source_url": "https://www.honeywell.com/us/en/press-release/honeywell-launches-experion-cyber-shield-for-dcs-protection",
+      "tags": [
+        "Honeywell",
+        "Cybersecurity",
+        "DCS",
+        "Experion"
+      ]
+    },
+    {
+      "id": "ia-20261019-007",
+      "title": "معرفی نرم‌افزار جدید SIMATIC PCS 7 V9.2 توسط زیمنس برای بهبود بهره‌وری فرآیندی",
+      "summary": "زیمنس نسخه جدید سیستم کنترل فرآیند SIMATIC PCS 7 V9.2 را با تمرکز بر بهبود امنیت سایبری و یکپارچگی با تجهیزات فیلدباس عرضه کرد. این نسخه از پروتکل‌های ارتباطی امن‌تر پشتیبانی کرده و ابزارهای عیب‌یابی پیشرفته‌تری را ارائه می‌دهد. این به‌روزرسانی به صنایع شیمیایی کمک می‌کند تا پایداری فرآیندهای خود را افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:15",
+      "collected_at": "1405/07/27 19:08",
+      "source": "Siemens Global",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-releases-simatic-pcs-7-v92-for-process-industries",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PCS 7",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261019-008",
+      "title": "همکاری راکول اتوماسیون و سیسکو برای توسعه معماری‌های شبکه صنعتی امن و یکپارچه",
+      "summary": "راکول اتوماسیون و سیسکو همکاری خود را برای ارائه معماری‌های مرجع جدید در زمینه همگرایی شبکه‌های IT و OT گسترش دادند. این معماری‌های جدید به کارخانه‌ها کمک می‌کنند تا داده‌های خط تولید را به صورت امن به سیستم‌های ابری منتقل کنند. استفاده از سوئیچ‌های صنعتی مشترک، مدیریت ترافیک داده‌ها را ساده‌تر کرده و ریسک حملات سایبری را به حداقل می‌رساند.",
+      "category": "company",
+      "published_at": "1405/07/27 13:20",
+      "collected_at": "1405/07/27 19:08",
+      "source": "Rockwell Automation Press",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/rockwell-automation-and-cisco-expand-industrial-networking-collaboration.html",
+      "tags": [
+        "Rockwell Automation",
+        "Cisco",
+        "Industrial Networking",
+        "IT-OT Convergence"
+      ]
+    },
+    {
+      "id": "ia-20261019-009",
+      "title": "عرضه کنترل‌کننده جدید کینتیکس سری ۵۰۰۰ توسط راکول اتوماسیون برای کاربردهای پیچیده حرکتی",
+      "summary": "راکول اتوماسیون از کنترل‌کننده‌های جدید سری Kinetix 5000 رونمایی کرد که برای مدیریت سیستم‌های چندمحوره و پیچیده کنترل حرکت طراحی شده‌اند. این درایوها با بهره‌گیری از پروتکل EtherNet/IP هماهنگی بسیار بالایی میان موتورها و بخش‌های مکانیکی ایجاد می‌کنند. این محصول جدید به ویژه برای ماشین‌آلات بسته‌بندی پرسرعت و خطوط مونتاژ پیشرفته کارایی دارد.",
+      "category": "product",
+      "published_at": "1405/07/27 15:40",
+      "collected_at": "1405/07/27 19:08",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/products/hardware/motion-control/servo-drives/kinetix-5000.html",
+      "tags": [
+        "Rockwell Automation",
+        "Kinetix",
+        "Motion Control",
+        "Servo Drives"
+      ]
+    },
+    {
+      "id": "ia-20261019-010",
+      "title": "معرفی پلتفرم شبیه‌سازی هوشمند SIMIT V11 توسط زیمنس برای تست مجازی سیستم‌های اتوماسیون",
+      "summary": "شرکت زیمنس نسخه ۱۱ نرم‌افزار شبیه‌سازی SIMIT را برای راه‌اندازی مجازی و تست سیستم‌های کنترل فرآیند عرضه کرد. این پلتفرم به مهندسان اجازه می‌دهد تا پیش از نصب فیزیکی تجهیزات، عملکرد برنامه‌های PLC را در یک محیط سه‌بعدی شبیه‌سازی کنند. این راهکار زمان راه‌اندازی پروژه‌های صنعتی را تا ۶۰ درصد کاهش داده و خطاهای برنامه‌نویسی را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/27 17:10",
+      "collected_at": "1405/07/27 19:08",
+      "source": "Siemens Industry News",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-launches-simit-v11-for-virtual-commissioning",
+      "tags": [
+        "Siemens",
+        "SIMIT",
+        "Simulation",
+        "Virtual Commissioning"
       ]
     }
   ]
