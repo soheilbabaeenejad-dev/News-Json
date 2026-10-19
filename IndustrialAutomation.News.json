@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 168,
+  "count": 178,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 12:01",
+  "updated_at": "1405/07/27 12:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2678,6 +2678,166 @@
         "Research",
         "Artificial Intelligence",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از ماژول‌های ایمنی جدید SIMATIC Safety Advanced V20 برای اتوماسیون زیمنس",
+      "summary": "شرکت زیمنس از نسل جدید نرم‌افزار مهندسی SIMATIC Safety Advanced V20 با قابلیت‌های پیشرفته برای یکپارچه‌سازی توابع ایمنی ماشین‌آلات رونمایی کرد. این نسخه جدید به مهندسان اجازه می‌دهد تا استانداردهای ایمنی سخت‌گیرانه صنعتی را سریع‌تر در پروژه‌های TIA Portal پیاده‌سازی کنند. این راهکار با کاهش زمان پیکربندی و افزایش امنیت سایبری در لایه کنترل، نقش کلیدی در توسعه خطوط تولید هوشمند ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:15",
+      "collected_at": "1405/07/27 12:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-safety-advanced-v20",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی در پلتفرم Siemens Industrial Edge با نسخه جدید",
+      "summary": "زیمنس پلتفرم پردازش لبه خود موسوم به Siemens Industrial Edge را با ابزارهای جدید هوش مصنوعی و یادگیری ماشین به‌روزرسانی کرد. این قابلیت‌ها به اپراتورهای کارخانه‌ها اجازه می‌دهد داده‌های sensors را به‌صورت بلادرنگ در لبه شبکه تحلیل کرده و از خرابی‌های ناگهانی ماشین‌آلات جلوگیری کنند. این به‌روزرسانی گامی مهم در جهت تحقق کارخانه‌های خودگردان و کاهش هزینه‌های تعمیر و نگهداری است.",
+      "category": "product",
+      "published_at": "1405/07/27 08:45",
+      "collected_at": "1405/07/27 12:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-edge-ai-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "OT/IT"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه سیستم‌های پنوماتیک هوشمند در خطوط مونتاژ",
+      "summary": "زیمنس و شرکت فستو در پروژه‌ای مشترک برای ادغام تجهیزات پنوماتیک پیشرفته با سیستم‌های کنترل SIMATIC S7-1500 به توافق رسیدند. این همکاری به مهندسان اتوماسیون اجازه می‌دهد تا مصرف انرژی در سیلندرها و شیرهای برقی را به‌دقت پایش و بهینه‌سازی کنند. این راهکار نوآورانه سهم بسزایی در کاهش مصرف انرژی و افزایش پایداری زیست‌محیطی در صنایع خودروسازی و بسته‌بندی دارد.",
+      "category": "industry",
+      "published_at": "1405/07/27 09:10",
+      "collected_at": "1405/07/27 12:03",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-pneumatic-automation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "SIMATIC",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "انتشار بسته امنیتی اضطراری زیمنس برای سیستم‌های کنترل فرآیند SIMATIC PCS 7",
+      "summary": "تیم واکنش به رویدادهای امنیتی زیمنس (Siemens PSIRT) یک بسته اصلاحی حیاتی برای رفع آسیب‌پذیری‌های کشف‌شده در سیستم کنترل فرآیند SIMATIC PCS 7 منتشر کرد. این به‌روزرسانی امنیتی از نفوذهای احتمالی به زیرساخت‌های حیاتی جلوگیری کرده و پروتکل‌های رمزنگاری ارتباطی را ارتقا می‌دهد. به تمامی مدیران شبکه توصیه شده است تا در اسرع وقت نسبت به اعمال این پچ امنیتی اقدام کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 09:30",
+      "collected_at": "1405/07/27 12:03",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com/siemens-pcs7-security-patch-2026",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "SIMATIC PCS 7",
+        "ICS"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "عرضه درایوهای پیشرفته SINAMICS G120X با استانداردهای جدید بهره‌وری انرژی",
+      "summary": "زیمنس نسل جدید درایوهای فرکانس متغیر SINAMICS G120X را با تمرکز بر کاربردهای صنعت آب، فاضلاب و تهویه مطبوع (HVAC) به بازار عرضه کرد. این درایوها مجهز به الگوریتم‌های پیشرفته کنترل موتور هستند که تلفات انرژی را به حداقل می‌رسانند. پشتیبانی کامل از پروتکل‌های ارتباطی استاندارد صنعتی، اتصال این تجهیزات را به سیستم‌های SCADA بسیار آسان‌تر کرده است.",
+      "category": "product",
+      "published_at": "1405/07/27 09:55",
+      "collected_at": "1405/07/27 12:03",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sinamics-g120x-release",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "HVAC"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه قابلیت‌های شبیه‌سازی سه‌بعدی در نرم‌افزار MCD زیمنس برای خطوط رباتیک",
+      "summary": "نسخه جدید نرم‌افزار Mechatronics Concept Designer (MCD) زیمنس با قابلیت‌های پیشرفته برای تحلیل دینامیکی ربات‌های صنعتی منتشر شد. طراحان خطوط تولید اکنون می‌توانند رفتار مکانیکی و کنترلی ماشین‌آلات را پیش از ساخت فیزیکی با دقت بالا شبیه‌سازی کنند. این ابزار مهندسی همزمان (Concurrent Engineering) زمان ورود محصولات جدید به بازار را به طور چشمگیری کاهش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/27 10:20",
+      "collected_at": "1405/07/27 12:03",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/siemens-mcd-update-robotics",
+      "tags": [
+        "Siemens",
+        "MCD",
+        "Digital Twin",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "راکول اتوماسیون پلتفرم FactoryTalk Analytics را با قابلیت‌های جدید ابری به‌روز کرد",
+      "summary": "شرکت راکول اتوماسیون نسخه ارتقایافته پلتفرم تحلیلی FactoryTalk Analytics را برای مدیریت هوشمند داده‌های کارخانه معرفی کرد. این ابزار جدید امکان تج تجمیع داده‌های کنترل‌کننده‌های گوناگون را در بستر ابری فراهم کرده و به مدیران تولید دیدی جامع از وضعیت تجهیزات می‌دهد. این راهکار به صنایع تولیدی کمک می‌کند تا بهره‌وری کلی تجهیزات (OEE) را به طور پایدار افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:40",
+      "collected_at": "1405/07/27 12:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/rockwell-factorytalk-analytics-cloud",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Analytics",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "سرمایه‌گذاری مشترک زیمنس و شرکای صنعتی برای توسعه زیرساخت‌های ۵G اختصاصی در کارخانه‌ها",
+      "summary": "زیمنس با همکاری چند اپراتور بزرگ مخابراتی، راهکار جامع شبکه ۵G اختصاصی (Private 5G) را برای ارتباطات پایدار در کارخانه‌های هوشمند توسعه داد. این فناوری با پهنای باند بالا و تأخیر بسیار کم، بستر مناسبی را برای حرکت ربات‌های خودگران (AGV) و کنترل بی‌سیم تجهیزات بحرانی فراهم می‌کند. این زیرساخت ارتباطی تضمین‌کننده امنیت و سرعت تبادل داده‌ها در اتوماسیون مقیاس بزرگ است.",
+      "category": "industry",
+      "published_at": "1405/07/27 11:05",
+      "collected_at": "1405/07/27 12:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-private-5g-smart-factories",
+      "tags": [
+        "Siemens",
+        "5G",
+        "Industrial Wireless",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی کنترل‌کننده‌های نسل جدید Modicon M260 اشنایدر الکتریک برای بسته‌بندی هوشمند",
+      "summary": "اشنایدر الکتریک از کنترل‌کننده‌های منطقی برنامه‌پذیر Modicon M260 با قابلیت‌های پیشرفته برای ماشین‌آلات بسته‌بندی و لجستیک رونمایی کرد. این تجهیزات دارای پورت‌های اترنت پرسرعت داخلی بوده و از پروتکل‌های امنیتی روز دنیا برای حفاظت از داده‌های تولید پشتیبانی می‌کنند. این کنترل‌کننده‌ها به سازندگان ماشین‌آلات کمک می‌کنند تا دستگاه‌هایی با انعطاف‌پذیری بالاتر و سرعت عمل بیشتر به بازار عرضه کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:30",
+      "collected_at": "1405/07/27 12:03",
+      "source": "Control Design",
+      "source_url": "https://www.controldesign.com/schneider-electric-modicon-m260",
+      "tags": [
+        "Schneider Electric",
+        "Modicon",
+        "PLC",
+        "Packaging"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "انتشار استاندارد جدید امنیتی IEC 62443 برای تابلوهای برق و سیستم‌های توزیع قدرت صنعتی",
+      "summary": "کمیته بین‌المللی الکتروتکنیک (IEC) نسخه بازنگری شده استاندارد امنیت سایبری IEC 62443 را با تمرکز ویژه بر تابلوهای برق هوشمند منتشر کرد. این استاندارد سازندگان تجهیزات اتوماسیون و توزیع انرژی را ملزم می‌کند تا اصول امنیت سایبری را از مرحله طراحی اولیه در محصولات اعمال کنند. اجرای این الزامات گامی بنیادین در جهت ایمن‌سازی زیرساخت‌های حیاتی در برابر تهدیدات سایبری مدرن است.",
+      "category": "regulation",
+      "published_at": "1405/07/27 11:50",
+      "collected_at": "1405/07/27 12:03",
+      "source": "IECEE",
+      "source_url": "https://www.iecee.org/iec-62443-update-power-distribution",
+      "tags": [
+        "IEC 62443",
+        "Cybersecurity",
+        "Standards",
+        "Power Distribution"
       ]
     }
   ]
