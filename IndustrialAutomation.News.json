@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 70,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/27 05:30",
+  "count": 80,
+  "provider": "Gemini/gemini-3.8-flash",
+  "updated_at": "1405/07/27 08:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1118,6 +1118,166 @@
         "Process Control",
         "Predictive Maintenance",
         "Oil and Gas"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "رونمایی زیمنس از لپ‌تاپ صنعتی SIMATIC Field PG M7 برای برنامه‌نویسی پیشرفته در سایت",
+      "summary": "زیمنس نسل جدید کامپیوتر برنامه‌نویسی صنعتی SIMATIC Field PG M7 را با پردازنده‌های نسل سیزدهم اینتل و بدنه فوق‌مقاوم منیزیمی معرفی کرد. این دستگاه اختصاصی برای راه‌اندازی و نگهداری خطوط اتوماسیون مبتنی بر TIA Portal بهینه‌سازی شده و دارای درگاه‌های مستقیم Profibus و Profinet است. تجهیز این رایانه به ارتباطات Wi-Fi 6E سرعت انتقال داده در محیط‌های صنعتی را دوچندان می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 06:15",
+      "collected_at": "1405/07/27 08:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-field-pg-m7-rugged-industrial-programming-device",
+      "tags": [
+        "زیمنس",
+        "SIMATIC",
+        "TIA Portal",
+        "اتوماسیون صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "اتصال پلتفرم Insights Hub زیمنس به سرویس‌های ابری آمازون برای پایش تجهیزات",
+      "summary": "زیمنس اتصال بومی پلتفرم اینترنت اشیاء Insights Hub به سرویس AWS IoT SiteWise را به صورت تجاری عملیاتی کرد. این یکپارچگی به مهندسان صنایع اجازه می‌دهد داده‌های تلمتری ماشین‌آلات را بدون نیاز به کدنویسی پیچیده تحلیل و رصد کنند. این راهکار زمان راه‌اندازی پروژه‌های نگهداری پیشگیرانه در کارخانه‌ها را تا ۴۰ درصد کاهش داده و بازدهی دارایی‌ها را بالا می‌برد.",
+      "category": "company",
+      "published_at": "1405/07/27 06:30",
+      "collected_at": "1405/07/27 08:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/iiot/article/siemens-insights-hub-aws-iot-sitewise-integration",
+      "tags": [
+        "Insights Hub",
+        "AWS",
+        "زیمنس",
+        "اینترنت اشیاء صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "معرفی ربات‌های همکار سری GoFa با ظرفیت حمل بار ارتقایافته توسط ABB",
+      "summary": "شرکت ABB از دو کوبات جدید سری GoFa با ظرفیت‌های باربرداری ۱۰ و ۱۲ کیلوگرم برای اتوماسیون وظایف سنگین کارگاهی رونمایی کرد. این بازوهای رباتیک دارای استاندارد نفوذناپذیری IP67 بوده و برای عملیات جوشکاری و تغذیه ماشین‌ابزار CNC طراحی شده‌اند. سنسورهای گشتاور در هر ۶ محور دقت موقعیت‌یابی تا ۰.۰۲ میلی‌متر را در کنار اپراتور بدون نیاز به حصار فلزی تضمین می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 06:50",
+      "collected_at": "1405/07/27 08:03",
+      "source": "Robotics World News",
+      "source_url": "https://www.roboticsbusinessreview.com/industrial/abb-launches-higher-payload-gofa-cobots-industrial-workcells",
+      "tags": [
+        "ABB",
+        "رباتیک",
+        "کوبات",
+        "اتوماسیون کارخانه"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "عرضه گیت‌وی صنعتی SIMATIC CN 4100 زیمنس برای تبادل سریع داده در DCS",
+      "summary": "شرکت زیمنس ماژول ارتباطی پیشرفته SIMATIC CN 4100 را با هدف ادغام روان سیستم‌های کنترل فرآیند با لایه‌های بالادستی شبکه عرضه کرد. این دستگاه امکان برقراری ارتباط همزمان پروتکل‌های OPC UA، Modbus TCP و Profinet را برای خطوط پتروشیمی و شیمیایی فراهم می‌آورد. این گیت‌وی گلوگاه‌های انتقال کلان‌داده به سیستم‌های تحلیلی را به‌طور محسوسی برطرف می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/27 07:05",
+      "collected_at": "1405/07/27 08:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-simatic-cn-4100-communication-node-process-automation",
+      "tags": [
+        "زیمنس",
+        "SIMATIC",
+        "DCS",
+        "شبکه صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "رونمایی راکول اتوماسیون از سوئیچ‌های صنعتی Stratix 5200 با معماری امنیتی سیسکو",
+      "summary": "راکول اتوماسیون خط تولید جدید سوئیچ‌های مدیریتی Allen-Bradley Stratix 5200 را بر پایه فناوری سیستم‌عامل سیسکو به بازار فرستاد. این سخت‌افزارها از ویژگی‌های امنیتی نظیر احراز هویت پورت 802.1X و همگام‌سازی زمانی دقیق CIP Sync پشتیبانی می‌کنند. این معماری نوین پایداری شبکه‌های حساسی چون صنایع غذایی و دارویی را در برابر حملات سایبری به میزان قابل توجهی ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 07:18",
+      "collected_at": "1405/07/27 08:03",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/stratix-5200-managed-industrial-ethernet-switch.html",
+      "tags": [
+        "Rockwell Automation",
+        "امنیت سایبری",
+        "سیسکو",
+        "شبکه OT"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "ارتقای کارایی ماشین‌آلات بسته‌بندی با سیستم سروو درایو SINAMICS S210 زیمنس",
+      "summary": "زیمنس نسخه بازطراحی‌شده سیستم درایو تک‌محور SINAMICS S210 را به همراه موتورهای سری SIMOTICS S-1FK2 برای کاربردهای پویای کنترل حرکت معرفی کرد. این سامانه از سیستم تک‌کابله One Cable Connection بهره می‌برد که حجم سیم‌کشی تابلو برق را به نصف کاهش می‌دهد. وجود توابع ایمنی پیشرفته یکپارچه در سطح SIL 3، حفاظت مطمئنی برای کار با ماشین‌آلات حساس فراهم می‌آورد.",
+      "category": "product",
+      "published_at": "1405/07/27 07:30",
+      "collected_at": "1405/07/27 08:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/sinamics-s210-servo-drive-system-next-generation-motion-control",
+      "tags": [
+        "زیمنس",
+        "SINAMICS",
+        "کنترل حرکت",
+        "درایو صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "عرضه کنترل‌کننده ایمن Modicon M660 اشنایدر الکتریک برای لایه کنترل صنعتی",
+      "summary": "اشنایدر الکتریک کنترل‌کننده اتوماسیون مدرن Modicon M660 را با اخذ گواهینامه امنیت سایبری بین‌المللی IEC 62443-4-2 SL2 به بازار عرضه کرد. این سخت‌افزار دارای پردازنده چند هسته‌ای با قابلیت پردازش لبه داخلی برای تحلیل لحظه‌ای وضعیت لرزش و سلامت ماشین است. پورت‌های اترنت مستقل تعبیه‌شده موجب تفکیک کامل ترافیک لایه فناوری اطلاعات از شبکه بحرانی OT می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/27 07:38",
+      "collected_at": "1405/07/27 08:03",
+      "source": "Industrial Cybersecurity News",
+      "source_url": "https://www.cybersecuritydive.com/news/schneider-electric-launches-modicon-m660-iec62443-sl2-controller",
+      "tags": [
+        "Schneider Electric",
+        "PLC",
+        "امنیت OT",
+        "Modicon"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "توسعه مدیریت کانتینری پلتفرم Siemens Industrial Edge بر بستر کوبرنتیز",
+      "summary": "زیمنس امکان اجرای سیستم مدیریت کانتینرهای پلتفرم Industrial Edge را مستقیماً بر روی زیرساخت خوشه‌ای Kubernetes سازمانی فراهم کرد. با این قابلیت، مدیران کارخانه‌ها می‌توانند هزاران اپلیکیشن هوش مصنوعی و پردازش لبه را در سایت‌های متعدد به صورت خودکار و متمرکز به‌روزرسانی کنند. این نوآوری چرخه استقرار برنامه‌های بهینه‌سازی تولید را از چند هفته به چند ساعت کاهش می‌دهد.",
+      "category": "topic",
+      "published_at": "1405/07/27 07:44",
+      "collected_at": "1405/07/27 08:03",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-industrial-edge-management-kubernetes-deployment-scaling",
+      "tags": [
+        "زیمنس",
+        "Industrial Edge",
+        "کوبرنتیز",
+        "نرم‌افزار صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "اجرای بلادرنگ مدل‌های یادگیری ماشین در کنترلرهای سری TwinCAT شرکت بکوف",
+      "summary": "شرکت بکوف با ارتقای بستر نرم‌افزاری TwinCAT 3، امکان استقرار و اجرای مستقیم مدل‌های آموزش‌دیده هوش مصنوعی را در چرخه بلادرنگ ۱۰۰ میکروثانیه‌ای PLC میسر ساخت. این پیشرفت نیاز به استفاده از کامپیوترهای جانبی پردازش تصویر را در خطوط بسته‌بندی با سرعت بالا حذف می‌کند. ترکیب منطق سخت پی‌ال‌سی با شبکه‌های عصبی دقت دسته‌بندی قطعات معیوب را جهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 07:51",
+      "collected_at": "1405/07/27 08:03",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com/en-en/products/automation/twincat/twincat-3-machine-learning-inference-engine.html",
+      "tags": [
+        "بکوف",
+        "TwinCAT",
+        "هوش مصنوعی",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "معرفی کنترل‌کننده هوشمند CHARX فونیکس کنتاکت برای زیرساخت لجستیک برقی",
+      "summary": "فونیکس کنتاکت پلتفرم کنترلی مدولار سری CHARX control modular را برای مکانیزه‌سازی ایستگاه‌های شارژ مگاواتی ناوگان‌های ترابری خودران کارخانه‌ای عرضه کرد. این دستگاه مجهز به سیستم‌عامل تعبیه‌شده لینوکس و پروتکل ارتباطی استاندارد ISO 15118 برای تبادل ایمن داده با ربات‌های صنعتی AGV است. این راهکار اتوماسیون زمان توقف ربات‌های خطوط تولید را برای شارژ باتری به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/27 07:58",
+      "collected_at": "1405/07/27 08:03",
+      "source": "Phoenix Contact Press",
+      "source_url": "https://www.phoenixcontact.com/en-us/news/charx-control-modular-charging-controller-industrial-e-mobility",
+      "tags": [
+        "فونیکس کنتاکت",
+        "AGV",
+        "اتوماسیون صنعتی",
+        "لجستیک هوشمند"
       ]
     }
   ]
