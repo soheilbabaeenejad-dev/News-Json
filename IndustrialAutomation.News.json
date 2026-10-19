@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 80,
-  "provider": "Gemini/gemini-3.8-flash",
-  "updated_at": "1405/07/27 08:03",
+  "count": 90,
+  "provider": "Gemini/gemini-3.7-flash",
+  "updated_at": "1405/07/27 10:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1278,6 +1278,166 @@
         "AGV",
         "اتوماسیون صنعتی",
         "لجستیک هوشمند"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "رونمایی زیمنس از کنترل‌کننده مجازی SIMATIC S7-1500V برای معماری‌های IT/OT یکپارچه",
+      "summary": "زیمنس نسخه جدید کنترل‌کننده کاملاً نرم‌افزاری SIMATIC S7-1500V را برای استقرار روی زیرساخت‌های مجازی‌سازی و سرورهای صنعتی معرفی کرد. این راهکار امکان اجرای کدهای PLC را به‌صورت مستقل از سخت‌افزار اختصاصی روی محیط‌های لینوکسی فراهم می‌سازد. این نوآوری هزینه‌های سخت‌افزاری را کاهش داده و مقیاس‌پذیری خطوط تولید پویا را به شدت سرعت می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/27 09:45",
+      "collected_at": "1405/07/27 10:08",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-expands-virtual-plc-portfolio-simatic-s7-1500v",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Virtual PLC",
+        "OT-IT"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "معرفی پنل‌های لمسی صنعتی SIMATIC HMI Unified Comfort Hygienic برای صنایع دارویی و غذایی",
+      "summary": "شرکت زیمنس سری جدید نمایشگرهای صنعتی SIMATIC HMI Unified Comfort Hygienic را با استاندارد حفاظتی IP69 و بدنه استیل ضدزنگ روانه بازار کرد. این تجهیزات ویژه محیط‌های بهداشتی صنایع داروسازی و غذایی طراحی شده‌اند و امکان اجرای مستقیم برنامه‌های Edge را دارا هستند. استفاده از شیشه مقاوم در برابر پاشش فشار قوی مزیت کلیدی آنها محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 10:08",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/33015482/siemens-simatic-hmi-unified-comfort-hygienic",
+      "tags": [
+        "Siemens",
+        "HMI",
+        "SIMATIC",
+        "FoodAndBeverage"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "همکاری زیمنس و بیستروک برای خودکارسازی فرآیند ساخت ماژولار باتری‌های خودرو برقی",
+      "summary": "زیمنس با همکاری شرکت بیستروک پلتفرم اتوماسیون یکپارچه‌ای برای مقیاس‌پذیری سریع کارخانه‌های تولید سلول باتری خودروهای برقی راه‌اندازی کرد. این پروژه با استفاده از سیستم‌های کنترل حرکت SINAMICS و ابزارهای مهندسی TIA Portal سرعت راه‌اندازی خطوط را تا ۳۰ درصد ارتقا می‌دهد. هدف نهایی کاهش هدررفت مواد اولیه در فرآیندهای حساس الکتروشیمیایی است.",
+      "category": "industry",
+      "published_at": "1405/07/27 08:50",
+      "collected_at": "1405/07/27 10:08",
+      "source": "Process Engineering",
+      "source_url": "https://www.process-worldwide.com/siemens-battery-cell-manufacturing-automation-partnership-a-1092837/",
+      "tags": [
+        "Siemens",
+        "Battery",
+        "SINAMICS",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "انتشار ابزار امنیتی جدید زیمنس برای اعتبارسنجی یکپارچگی فریم‌ور در تجهیزات SCALANCE",
+      "summary": "بخش امنیت سایبری زیمنس راهکار نرم‌افزاری اختصاصی جدیدی را جهت پایش خودکار اصالت و سلامت سفت‌افزار سوئیچ‌ها و روترهای سری SCALANCE معرفی کرد. این ابزار از امضاهای رمزنگاری‌شده پیشرفته بر مبنای استاندارد IEC 62443 برای مقابله با بدافزارهای سطح پایین استفاده می‌کند. ارتقای مداوم پایداری شبکه در برابر حملات تزریق کد هدف اصلی توسعه این فناوری است.",
+      "category": "regulation",
+      "published_at": "1405/07/27 08:20",
+      "collected_at": "1405/07/27 10:08",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/integrity/siemens-scalance-firmware-validation-security/",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Cybersecurity",
+        "IEC62443"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "رونمایی امرسون از ماژول‌های ورودی و خروجی فیلدباس پیشرفته برای سامانه کنترل Ovation",
+      "summary": "امرسون نسل جدید کارت‌های I/O مقاوم برای سیستم کنترل توزیع‌شده Ovation را ویژه نیروگاه‌های برق و تصفیه‌خانه‌های آب معرفی کرد. این ماژول‌ها با تحمل دمای کاری از منفی ۴۰ تا مثبت ۷۰ درجه سانتی‌گراد، قابلیت اطمینان سیستم را در شرایط حاد محیطی افزایش می‌دهند. ادغام مستقیم پروتکل HART تشخیص زودهنگام خطای تجهیزات را به سطح جدیدی می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/27 07:45",
+      "collected_at": "1405/07/27 10:08",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/emerson-unveils-high-resilience-io-modules-for-ovation-dcs/",
+      "tags": [
+        "Emerson",
+        "Ovation",
+        "DCS",
+        "PowerGeneration"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "به‌روزرسانی پلتفرم Insights Hub زیمنس با قابلیت پیش‌بینی مصرف بهینه گاز و برق کارخانجات",
+      "summary": "زیمنس قابلیت جدیدی مبتنی بر هوش مصنوعی را به سرویس Insights Hub اضافه کرد که الگوی مصرف انرژی کارخانجات را تحلیل و بهینه‌سازی می‌کند. این ماژول با اتصال مستقیم به سنسورهای هوشمند مصرف انرژی، نقاط اتلاف حرارتی و بارهای اوج غیرضروری را به صورت خودکار شناسایی می‌کند. این سیستم به صنایع سنگین در کاهش ردپای کربن و کاهش قبوض کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 07:10",
+      "collected_at": "1405/07/27 10:08",
+      "source": "Manufacturing Automation",
+      "source_url": "https://www.automationmag.com/siemens-insights-hub-energy-analytics-update/",
+      "tags": [
+        "Siemens",
+        "InsightsHub",
+        "EnergyEfficiency",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "عرضه ماژول ارتباطی جدید SIMATIC CP 1545-1 زیمنس برای انتقال داده‌های حجیم ابری",
+      "summary": "زیمنس پردازنده ارتباطی جدید SIMATIC CP 1545-1 را معرفی کرد که امکان اتصال مستقیم و ایمن کنترلرهای S7-1500 به پلتفرم‌های ابری از طریق پروتکل MQTT را فراهم می‌سازد. این ماژول دارای فایروال داخلی SPI برای مسدودسازی دسترسی‌های غیرمجاز شبکه کنترل است. عملکرد بی‌وقفه و جداسازی کامل شبکه اتوماسیون از IT از ویژگی‌های فنی برجسته این محصول است.",
+      "category": "product",
+      "published_at": "1405/07/27 06:40",
+      "collected_at": "1405/07/27 10:08",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/networking/article/33015490/siemens-simatic-cp-1545-cloud-connector",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "MQTT",
+        "CloudIntegration"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "معرفی کنترل‌کننده حرکت فوق‌سریع PACSystems RSTi-EP توسط امرسون برای خطوط بسته‌بندی",
+      "summary": "امرسون از کنترل‌کننده فشرده PACSystems RSTi-EP با پشتیبانی از اترنت بلادرنگ PROFINET جهت کاربردهای پرسرعت و هماهنگ پرده برداشت. این کنترلر از پردازنده‌های چندهسته‌ای بهره می‌برد و توان مدیریت همزمان چندین محور سروو را با دقت میکروثانیه‌ای ارائه می‌دهد. طراحی باریک ماژول فضای مورد نیاز در تابلوهای کنترل ماشین‌سازان را به نصف کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 06:05",
+      "collected_at": "1405/07/27 10:08",
+      "source": "Packaging World",
+      "source_url": "https://www.packworld.com/machinery/controls/article/33015495/emerson-pacsystems-rsti-ep-motion-controller",
+      "tags": [
+        "Emerson",
+        "MotionControl",
+        "Packaging",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "پیاده‌سازی موفق معماری TSN در شبکه ارتباطی اتوماسیون زیمنس برای همگام‌سازی بلادرنگ",
+      "summary": "زیمنس نتایج آزمایش میدانی پروتکل تایم-سنسیتیو نتورکینگ (TSN) روی سوئیچ‌های صنعتی SCALANCE X-300 و درایوهای همگام را منتشر کرد. این معماری انتقال همزمان ترافیک با پهنای باند بالا و پیام‌های کنترل بلادرنگ قطعی را بدون هیچ‌گونه تداخل تضمین می‌نماید. پیاده‌سازی این استاندارد مسیر تبدیل شبکه‌های سنتی فیلدباس به اترنت همگن را هموارتر می‌سازد.",
+      "category": "research",
+      "published_at": "1405/07/27 05:30",
+      "collected_at": "1405/07/27 10:08",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-demonstrates-deterministic-tsn-field-networks/",
+      "tags": [
+        "Siemens",
+        "TSN",
+        "IndustrialEthernet",
+        "SCALANCE"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "رونمایی اشنایدر الکتریک از ماژول‌های ایمنی پیشرفته Preventa برای محیط‌های روباتیک فشرده",
+      "summary": "اشنایدر الکتریک رله‌ها و ماژول‌های ایمنی قابل‌برنامه‌ریزی سری جدید Preventa XPSMCM را ویژه سلول‌های روباتیک با فضای محدود معرفی کرد. این ماژول‌ها با پشتیبانی از سطح ایمنی SIL 3 و PLe امکان پیکربندی منطق‌های ایمنی پیچیده بدون نیاز به سیم‌کشی گسترده را فراهم می‌سازند. سازگاری سریع با انواع پرده‌های نوری و اسکنرهای لیزری مزیت عملیاتی این سیستم است.",
+      "category": "product",
+      "published_at": "1405/07/27 05:00",
+      "collected_at": "1405/07/27 10:08",
+      "source": "Robotics World",
+      "source_url": "https://www.roboticsbusinessreview.com/safety/schneider-electric-unveils-preventa-safety-modules/",
+      "tags": [
+        "SchneiderElectric",
+        "Safety",
+        "Robotics",
+        "SIL3"
       ]
     }
   ]
