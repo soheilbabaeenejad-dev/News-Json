@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 110,
-  "provider": "Gemini/gemini-3.5-flash",
-  "updated_at": "1405/07/27 10:01",
+  "count": 120,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/27 11:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1707,6 +1707,156 @@
         "Stanford",
         "AI Index",
         "Investment"
+      ]
+    },
+    {
+      "id": "ai-20261019-001",
+      "title": "رونمایی از مدل زبانی جدید Mistral Small 4 با قابلیت پردازش لبه‌ای",
+      "summary": "شرکت فرانسوی میسترال هوش مصنوعی نسخه جدید مدل خود را با نام Mistral Small 4 معرفی کرد. این مدل برای اجرا روی دستگاه‌های محلی و لبه‌ای بهینه‌سازی شده است. هدف از این عرضه، کاهش وابستگی به سرورهای ابری و حفظ حریم خصوصی کاربران است.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 11:00",
+      "source": "VentureBeat",
+      "source_url": "https://venturebeat.com/ai/mistral-small-4-announcement",
+      "tags": [
+        "Mistral",
+        "edge-AI",
+        "language-model"
+      ]
+    },
+    {
+      "id": "ai-20261019-002",
+      "title": "سرمایه‌گذاری سنگین مایکروسافت روی توسعه زیرساخت‌های هسته‌ای برای مراکز داده",
+      "summary": "مایکروسافت قرارداد جدیدی برای تأمین انرژی پاک مراکز داده هوش مصنوعی خود امضا کرد. این شرکت قصد دارد از راکتورهای هسته‌ای کوچک برای تأمین برق پایدار استفاده کند. این اقدام پاسخی به رشد فزاینده مصرف انرژی پردازنده‌های هوش مصنوعی است.",
+      "category": "industry",
+      "published_at": "1405/07/27 08:45",
+      "collected_at": "1405/07/27 11:00",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/19/microsoft-nuclear-energy-ai-data-centers.html",
+      "tags": [
+        "Microsoft",
+        "energy",
+        "data-center"
+      ]
+    },
+    {
+      "id": "ai-20261019-003",
+      "title": "پیشرفت انقلابی در رباتیک با ادغام مدل‌های بنیادین توسط تسلا",
+      "summary": "شرکت تسلا نسخه جدیدی از نرم‌افزار ربات انسان‌نمای خود را بر پایه مدل‌های چندوجهی کلان عرضه کرد. این آپدیت توانایی درک محیط پیرامون و واکنش سریع را به شدت افزایش داده است. مهندسان امیدوارند این ربات‌ها تا پایان سال آینده وارد خطوط تولید واقعی شوند.",
+      "category": "research",
+      "published_at": "1405/07/27 09:00",
+      "collected_at": "1405/07/27 11:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/tesla-optimus-foundation-models-update",
+      "tags": [
+        "Tesla",
+        "robotics",
+        "multimodal"
+      ]
+    },
+    {
+      "id": "ai-20261019-004",
+      "title": "تحقیقات جدید اتحادیه اروپا درباره مدل‌های زبانی متن‌باز و رقابت بازار",
+      "summary": "کمیسیون اروپا بررسی‌های تازه‌ای را پیرامون انحصارزدایی و تأثیر مدل‌های متن‌باز بر بازار فناوری آغاز کرده است. مقامات مایلند اطمینان حاصل کنند که استارتاپ‌های کوچک نیز سهم عادلانه‌ای از نوآوری دارند. این گزارش چارچوب‌های قانونی آینده را شکل خواهد داد.",
+      "category": "regulation",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/eu-opens-probe-open-source-ai-market-2026-10-19/",
+      "tags": [
+        "EU",
+        "regulation",
+        "open-source"
+      ]
+    },
+    {
+      "id": "ai-20261019-005",
+      "title": "معرفی ابزار امنیتی جدید گوگل برای مقابله با حملات تزریق پرامپت",
+      "summary": "گوگل از راهکار دفاعی جدیدی برای ایمن‌سازی برنامه‌های کاربردی مبتنی بر هوش مصنوعی پرده برداشت. این سیستم به صورت خودکار تلاش برای هک و دور زدن دستورات مدل را شناسایی می‌کند. توسعه‌دهندگان می‌توانند از آن برای محافظت از چت‌بات‌های سازمانی استفاده کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 09:30",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Google Cloud Blog",
+      "source_url": "https://cloud.google.com/blog/products/ai-security-prompt-injection",
+      "tags": [
+        "Google",
+        "security",
+        "prompt-injection"
+      ]
+    },
+    {
+      "id": "ai-20261019-006",
+      "title": "همکاری استراتژیک انویدیا و ادوبی برای ارتقای ابزارهای تولید محتوای ویدیویی",
+      "summary": "انویدیا و ادوبی در پروژه‌ای مشترک برای تسریع پردازش هوش مصنوعی در نرم‌افزارهای تدوین ویدیو با هم متحد شدند. این همکاری منجر به کاهش چشمگیر زمان رندرینگ افکت‌های هوشمند می‌شود. طراحان حرفه‌ای از این پس خروجی‌های بسیار سریع‌تری دریافت خواهند کرد.",
+      "category": "company",
+      "published_at": "1405/07/27 09:45",
+      "collected_at": "1405/07/27 11:00",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/2026/10/19/nvidia-adobe-partnership-video-ai",
+      "tags": [
+        "Nvidia",
+        "Adobe",
+        "video-generation"
+      ]
+    },
+    {
+      "id": "ai-20261019-007",
+      "title": "توسعه روشی نوین برای کاهش مصرف حافظه در مدل‌های ترنسفورمر",
+      "summary": "پژوهشگران دانشگاه ام‌آی‌تی الگوریتم بهینه‌سازی تازه‌ای ارائه دادند که ردپای حافظه مدل‌های زبانی بزرگ را تا چهل درصد کاهش می‌دهد. این دستاورد امکان اجرای مدل‌های قدرتمند را روی سخت‌افزارهای ضعیف‌تر فراهم می‌سازد. چنین رویکردی هزینه‌های عملیاتی سرورها را به شدت پایین می‌آورد.",
+      "category": "research",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 11:00",
+      "source": "MIT News",
+      "source_url": "https://news.mit.edu/2026/efficient-transformers-memory-reduction-1019",
+      "tags": [
+        "MIT",
+        "research",
+        "transformers"
+      ]
+    },
+    {
+      "id": "ai-20261019-008",
+      "title": "افزایش اقبال عمومی به موتور جستجوی هوشمند Perplexity در بازار سازمانی",
+      "summary": "شرکت Perplexity AI از رشد دویست درصدی مشتریان سازمانی خود در شش ماه گذشته خبر داد. این پلتفرم با ارائه پاسخ‌های مستند و دقیق جایگزین مناسبی برای جستجوی سنتی شده است. مدیران شرکت قصد دارند قابلیت‌های تحلیل داده‌های مالی را به خدمات خود بیفزایند.",
+      "category": "industry",
+      "published_at": "1405/07/27 10:15",
+      "collected_at": "1405/07/27 11:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/perplexity-enterprise-growth-surge",
+      "tags": [
+        "Perplexity",
+        "search",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "ai-20261019-009",
+      "title": "رونمایی از مدل هوش مصنوعی BioAlpha برای شبیه‌سازی مولکولی",
+      "summary": "یک استارتاپ زیست‌فناوری از مدل تخصصی جدیدی برای پیش‌بینی تعاملات دارویی رونمایی کرد. این سیستم قادر است ساختارهای پروتئینی ناشناخته را با دقت بالا مدل‌سازی کند. این نوآوری می‌تواند روند کشف داروهای جدید را به طور چشمگیری سرعت ببخشد.",
+      "category": "research",
+      "published_at": "1405/07/27 10:30",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Nature Biotechnology",
+      "source_url": "https://www.nature.com/articles/bioalpha-ai-drug-discovery-2026",
+      "tags": [
+        "biotech",
+        "drug-discovery",
+        "AlphaFold"
+      ]
+    },
+    {
+      "id": "ai-20261019-010",
+      "title": "راه‌اندازی صندوق حمایتی جدید برای توسعه هوش مصنوعی بومی در ژاپن",
+      "summary": "دولت ژاپن بودجه‌ای معادل یک میلیارد دلار برای توسعه زیرساخت‌های پردازشی و مدل‌های زبانی ملی اختصاص داد. این تصمیم با هدف تقویت استقلال فناوری و حفظ فرهنگ ژاپنی در محتوای دیجیتال اتخاذ شده است. شرکت‌های بزرگ فناوری ژاپنی در این پروژه مشارکت فعال دارند.",
+      "category": "economy",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com/Business/Technology/Japan-ai-fund-infrastructure-2026",
+      "tags": [
+        "Japan",
+        "economy",
+        "national-ai"
       ]
     }
   ]

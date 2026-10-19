@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 90,
-  "provider": "Gemini/gemini-3.7-flash",
-  "updated_at": "1405/07/27 10:08",
+  "count": 100,
+  "provider": "Gemini/gemini-3.8-flash",
+  "updated_at": "1405/07/27 11:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1438,6 +1438,168 @@
         "Safety",
         "Robotics",
         "SIL3"
+      ]
+    },
+    {
+      "id": "ia-20261019-001",
+      "title": "ارتقای کنترل‌کننده‌های درایو فشرده SIMATIC Drive Controller توسط زیمنس",
+      "summary": "زیمنس از به‌روزرسانی جامع کنترل‌کننده‌های سری SIMATIC Drive Controller برای یکپارچه‌سازی فرآیندهای کنترل حرکت و درایو خبر داد. این سیستم ترکیبی از کنترل‌کننده SIMATIC S7-1500 و سیستم کنترل محرک SINAMICS S120 است که نیاز به تابلوهای مجزا را حذف می‌کند. این معماری زمان چرخه محاسباتی را به زیر یک میلی‌ثانیه کاهش داده و سرعت پاسخ‌دهی را دو برابر کرده است.",
+      "category": "product",
+      "published_at": "1405/07/27 10:48",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-drive-controller-combines-motion-control-and-drive-system",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "SINAMICS",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261019-002",
+      "title": "رونمایی زیمنس از کامپیوتر لبه صنعتی SIMATIC IPC520A مجهز به هوش مصنوعی",
+      "summary": "شرکت زیمنس کامپیوتر صنعتی فشرده SIMATIC IPC520A را با پردازنده هوش مصنوعی اختصاصی برای کاربردهای یادگیری عمیق در کف کارخانه معرفی کرد. این تجهیز مقاوم بدون فن قادر به پردازش چند جریانی بینایی ماشین و تشخیص بلادرنگ عیوب بسته‌بندی در محیط‌های با دمای بالا است. سازگاری کامل با اکوسیستم Industrial Edge زیمنس، مدیریت کانتینرها را از راه دور تسهیل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:32",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/21558291/siemens-simatic-ipc-edge-ai",
+      "tags": [
+        "Siemens",
+        "Industrial AI",
+        "SIMATIC IPC",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261019-003",
+      "title": "همکاری استراتژیک زیمنس و رد هت برای استقرار لینوکس صنعتی در لایه OT",
+      "summary": "زیمنس و شرکت Red Hat تفاهم‌نامه‌ای امضا کردند تا سیستم‌عامل استاندارد Red Hat Enterprise Linux را در پلتفرم‌های اتوماسیون زیمنس مستقر کنند. این ادغام امکان استفاده امن و استاندارد از برنامه‌های مدرن کانتینری و مدل‌های نرم‌افزاری ابری را در سطح کنترلرهای صنعتی فراهم می‌سازد. نتیجه این پروژه، کوتاه شدن زمان توسعه نرم‌افزارهای نظارتی و کاهش شکاف میان IT و OT است.",
+      "category": "company",
+      "published_at": "1405/07/27 10:15",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-collaborates-with-red-hat-for-industrial-edge-deployment/",
+      "tags": [
+        "Siemens",
+        "Red Hat",
+        "OT-IT Convergence",
+        "Linux"
+      ]
+    },
+    {
+      "id": "ia-20261019-004",
+      "title": "معرفی منابع تغذیه هوشمند Quint 4 با رابط IO-Link توسط فونیکس کنتاکت",
+      "summary": "شرکت فونیکس کنتاکت سری جدید منابع تغذیه صنعتی Quint 4 را با درگاه ارتباطی IO-Link برای پایش پیوسته سلامت تجهیزات عرضه کرد. این دستگاه‌ها داده‌های عملیاتی نظیر جریان خروجی، ولتاژ شبکه و ساعات کارکرد را بدون نیاز به حسگر جداگانه به شبکه اتوماسیون ارسال می‌کنند. داده‌های تشخیصی حاصل از این منبع تغذیه موجب کاهش چشمگیر خاموشی‌های ناگهانی در خطوط تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 09:55",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Control Design",
+      "source_url": "https://www.controldesign.com/control/power-supplies/article/33005821/phoenix-contact-quint-power-supplies-io-link",
+      "tags": [
+        "Phoenix Contact",
+        "Power Supply",
+        "IO-Link",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261019-005",
+      "title": "ارتقای مقیاس‌پذیری و گرافیک وکتور در پلتفرم SIMATIC WinCC Unified V19",
+      "summary": "زیمنس بسته نرم‌افزاری جدیدی برای SIMATIC WinCC Unified نسخه ۱۹ منتشر کرد که قابلیت مقیاس‌پذیری کلاینت‌های تحت وب مبتنی بر HTML5 را دو برابر می‌کند. این به‌روزرسانی موتور گرافیکی SVG را بهینه‌سازی کرده و زمان بارگذاری صفحات HMI را در پنل‌های صنعتی و تبلت‌ها به طور چشمگیری کاهش داده است. ابزارهای جدید گزارش‌گیری خودکار، تحلیل مصرف انرژی خطوط تولید را برای اپراتورها تسهیل می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 09:35",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Siemens Industry Online Support",
+      "source_url": "https://support.industry.siemens.com/cs/document/109825421/simatic-wincc-unified-v19-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261019-006",
+      "title": "رونمایی بکوف از کامپیوتر صنعتی فوق فشرده C6043 با توان پردازش گرافیکی بالا",
+      "summary": "شرکت بکوف اتوماسیون از پی‌سی صنعتی جدید C6043 رونمایی کرد که با وجود ابعاد بسیار فشرده، به پردازنده‌های چند هسته‌ای قدرتمند و کارت گرافیک اختصاصی مجهز است. این رایانه صنعتی به طور ویژه برای تحلیل تصویر پرسرعت در بینایی ماشین و کنترل سیستم‌های چندمحوره در نرم‌افزار TwinCAT طراحی شده است. بدنه آلیاژی یکپارچه امکان خنک‌سازی کارآمد را بدون فن در محیط‌های دارای غبار فراهم می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 09:12",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com/en-en/products/ipc/compact-industrial-pcs/c60xx/c6043.html",
+      "tags": [
+        "Beckhoff",
+        "IPC",
+        "TwinCAT",
+        "Machine Vision"
+      ]
+    },
+    {
+      "id": "ia-20261019-007",
+      "title": "توسعه قابلیت‌های راه‌اندازی مجازی در نرم‌افزار شبیه‌سازی SIMIT زیمنس",
+      "summary": "زیمنس ماژول‌های جدیدی به پلتفرم شبیه‌سازی SIMIT اضافه کرد که امکان اتصال مستقیم به مدل‌های سخت‌افزاری در حلقه (HiL) را به طور بلادرنگ میسر می‌سازد. این ابزار به مهندسان اجازه می‌دهد لاجیک کنترل‌کننده‌های S7-1500 و سیستم‌های ایمنی را پیش از نصب فیزیکی تجهیزات اعتبارسنجی کنند. استفاده از این شبیه‌ساز زمان راه‌اندازی نهایی ماشین‌آلات پیچیده را تا ۶۰ درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 08:50",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/virtual-commissioning-simit-simulation-platform",
+      "tags": [
+        "Siemens",
+        "SIMIT",
+        "Virtual Commissioning",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261019-008",
+      "title": "عرضه کنترل‌کننده‌های ایمنی GuardLogix 5580 توسط راکول اتوماسیون",
+      "summary": "راکول اتوماسیون کنترل‌کننده‌های پیشرفته سری GuardLogix 5580 را با قابلیت اجرای وظایف ایمنی تا سطح SIL 3 و PLe در پورتفولیوی خود ادغام کرد. این کنترلرها با استفاده از محیط نرم‌افزاری Studio 5000 لاجیک استاندارد و لاجیک ایمنی ماشین را روی یک پلتفرم سخت‌افزاری متمرکز پیاده‌سازی می‌کنند. افزایش سرعت چرخه پردازش ایمنی باعث کاهش فواصل حریم ایمنی اطراف بازوهای رباتیک و صرفه‌جویی فضایی شده است.",
+      "category": "product",
+      "published_at": "1405/07/27 08:34",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Rockwell Automation Newsroom",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/guardlogix-5580-safety-controllers.html",
+      "tags": [
+        "Rockwell Automation",
+        "Allen-Bradley",
+        "Safety PLC",
+        "Studio 5000"
+      ]
+    },
+    {
+      "id": "ia-20261019-009",
+      "title": "یکپارچه‌سازی سیستم مکانیابی بی‌درنگ SIMATIC RTLS زیمنس با ناوبری AGVها",
+      "summary": "زیمنس ماژول جدید ناوبری مبتنی بر فناوری باند فوق‌وسیع (UWB) را برای سیستم موقعیت‌یابی محلی SIMATIC RTLS معرفی کرد. این راه‌حل موقعیت ناوگان خودروهای هدایت‌پذیر خودکار (AGV) و ابزارهای متحرک را با دقت زیر ۱۰ سانتی‌متر در دوقلوی دیجیتال کارخانه رهگیری می‌کند. انتقال بلادرنگ موقعیت مکانی به سیستم‌های کنترل، مانع از تصادف ماشین‌آلات و بهینه‌سازی مسیر حمل قطعات در سالن مونتاژ می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 08:18",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Siemens Industry",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industrial-identification/simatic-rtls.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC RTLS",
+        "AGV",
+        "UWB",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261019-010",
+      "title": "همکاری امرسون و اسپن‌تک برای پیاده‌سازی کنترل پیشرفته فرآیند در سیستم DeltaV",
+      "summary": "شرکت امرسون با همکاری AspenTech نرم‌افزار پیشرفته کنترل بهینه فرآیند (APC) را به صورت توکار در کنترلرهای سیستم کنترل توزیع‌شده DeltaV پیاده‌سازی کرد. این راه‌حل مهندسی شده مدل‌های پیش‌بینانه متغیرهای فرآیندی را مستقیماً در لایه کنترل پالایشگاه‌ها و نیروگاه‌ها اجرا می‌کند و مصرف انرژی را متعادل می‌سازد. این سامانه به طور خودکار انحرافات تولیدی را پیش از خروج از محدوده استاندارد تنظیم می‌کند.",
+      "category": "company",
+      "published_at": "1405/07/27 08:02",
+      "collected_at": "1405/07/27 11:00",
+      "source": "Emerson News",
+      "source_url": "https://www.emerson.com/en-us/news/2026/deltav-aspentech-advanced-process-control",
+      "tags": [
+        "Emerson",
+        "DeltaV",
+        "DCS",
+        "AspenTech",
+        "Process Automation"
       ]
     }
   ]
