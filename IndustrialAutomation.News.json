@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 50,
-  "provider": "Gemini/gemini-robotics-er-2-preview",
-  "updated_at": "1405/07/27 04:08",
+  "count": 60,
+  "provider": "Gemini/gemma-4-31b-it",
+  "updated_at": "1405/07/27 05:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -807,6 +807,157 @@
         "Omron",
         "Vulnerability",
         "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261017-001",
+      "title": "یکپارچه‌سازی عمیق‌تر زیمنس و انویدیا برای توسعه دوقلوهای دیجیتال فوتورالیستیک",
+      "summary": "زیمنس و انویدیا همکاری‌های خود را برای ادغام پلتفرم Xcelerator با Omniverse گسترش دادند تا شبیه‌سازی‌های صنعتی با دقت فوتورالیستیک ایجاد کنند. این اقدام به مهندسان اجازه می‌دهد تا خطوط تولید را پیش از ساخت فیزیکی در محیطی کاملاً واقع‌گرایانه تست کنند. این همکاری باعث کاهش هزینه‌های خطای طراحی در پروژه‌های بزرگ صنعتی می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/27 05:08",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en",
+      "tags": [
+        "Digital Twin",
+        "NVIDIA",
+        "Omniverse",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261017-002",
+      "title": "بهبود یکپارچگی Industrial Copilot زیمنس با سیستم‌های مدیریت دانش فنی",
+      "summary": "زیمنس قابلیت جدیدی را به Industrial Copilot اضافه کرد که به این ابزار اجازه می‌دهد مستندات PDF و راهنماهای فنی شرکت را تحلیل کرده و پاسخ‌های دقیق‌تری به اپراتورها بدهد. این ویژگی باعث می‌شود عیب‌یابی ماشین‌آلات در کف کارخانه بدون نیاز به جستجوی دستی در دفترچه‌های راهنما انجام شود. این ادغام، زمان توقف تولید را به طور چشمگیری کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:30",
+      "collected_at": "1405/07/27 05:08",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.automationworld.com",
+      "tags": [
+        "Generative AI",
+        "Industrial Copilot",
+        "Knowledge Management"
+      ]
+    },
+    {
+      "id": "ia-20261017-003",
+      "title": "عرضه اپلیکیشن‌های جدید مدیریت انرژی برای پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس مجموعه‌ای از اپلیکیشن‌های جدید را برای Industrial Edge معرفی کرد که به طور خاص برای مانیتورینگ لحظه‌ای مصرف انرژی در سطح ماشین‌آلات طراحی شده‌اند. این ابزارها با تحلیل داده‌های جریان الکتریکی، نقاط اتلاف انرژی را شناسایی کرده و گزارش‌های بهینه‌سازی ارائه می‌دهند. این راهکار به شرکت‌ها در دستیابی به اهداف کربن‌صفر کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 09:15",
+      "collected_at": "1405/07/27 05:08",
+      "source": "Siemens Blog",
+      "source_url": "https://blog.siemens.com",
+      "tags": [
+        "Industrial Edge",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261017-004",
+      "title": "معرفی راهکار جدید Rockwell Automation برای یکپارچه‌سازی داده‌های لبه و ابر",
+      "summary": "شرکت راکول اتوماسیون قابلیت‌های جدیدی را به پلتفرم FactoryTalk اضافه کرده است تا انتقال داده‌ها از سنسورهای کف کارخانه به محیط‌های ابری سریع‌تر شود. این به‌روزرسانی بر روی پروتکل‌های ارتباطی مدرن تمرکز دارد تا تاخیر در تحلیل داده‌های بزرگ صنعتی کاهش یابد. این سیستم به مدیران اجازه می‌دهد تصمیمات عملیاتی را بر اساس داده‌های لحظه‌ای بگیرند.",
+      "category": "company",
+      "published_at": "1405/07/25 11:00",
+      "collected_at": "1405/07/27 05:08",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com",
+      "tags": [
+        "FactoryTalk",
+        "Cloud Computing",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261017-005",
+      "title": "توسعه سیستم‌های کنترل رباتیک ABB برای کاربردهای دقیق در جراحی صنعتی",
+      "summary": "شرکت ABB نسل جدیدی از کنترل‌کننده‌های رباتیک را معرفی کرده است که دقت تکرارپذیری را در محیط‌های استریل و حساس به شدت افزایش می‌دهد. این سیستم‌ها با استفاده از الگوریتم‌های پیشرفته کنترل حرکت، لرزش‌های میکروسکوپی را حذف کرده و برای مونتاژ قطعات بسیار کوچک بهینه شده‌اند. این فناوری در صنایع پزشکی و الکترونیک پیشرفته کاربرد دارد.",
+      "category": "research",
+      "published_at": "1405/07/24 16:45",
+      "collected_at": "1405/07/27 05:08",
+      "source": "ABB Robotics",
+      "source_url": "https://new.abb.com/products/robotics",
+      "tags": [
+        "Robotics",
+        "Precision Control",
+        "Medical Automation"
+      ]
+    },
+    {
+      "id": "ia-20261017-006",
+      "title": "معرفی ماژول‌های ارتباطی جدید برای SIMATIC S7-1500 جهت پشتیبانی از پروتکل‌های پیشرفته",
+      "summary": "زیمنس ماژول‌های ارتباطی جدیدی را برای خانواده S7-1500 عرضه کرد که قابلیت پشتیبانی از استانداردهای جدید شبکه صنعتی را فراهم می‌کند. این ماژول‌ها پهنای باند انتقال داده‌ها را افزایش داده و امنیت ارتباطات بین PLCها و سیستم‌های SCADA را ارتقا می‌دهند. این به‌روزرسانی برای کارخانه‌هایی که در حال مهاجرت به صنعت ۴.۰ هستند حیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/24 08:20",
+      "collected_at": "1405/07/27 05:08",
+      "source": "Siemens Industry Online Support",
+      "source_url": "https://support.industry.siemens.com",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Industrial Networking",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261017-007",
+      "title": "گسترش اکوسیستم EcoStruxure اشنایدر الکتریک برای مدیریت هوشمند ساختمان‌های صنعتی",
+      "summary": "اشنایدر الکتریک قابلیت‌های جدیدی را به پلتفرم EcoStruxure اضافه کرده است تا مدیریت انرژی و تهویه در محیط‌های تولیدی با سیستم‌های کنترل ماشین‌آلات یکپارچه شود. این رویکرد باعث کاهش هزینه‌های جاری عملیاتی و بهبود شرایط محیطی برای کارکنان می‌شود. این سیستم از پروتکل‌های باز برای اتصال به تجهیزات برندهای مختلف پشتیبانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/23 13:10",
+      "collected_at": "1405/07/27 05:08",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com",
+      "tags": [
+        "EcoStruxure",
+        "Smart Building",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261017-008",
+      "title": "انتشار هشدار امنیتی CISA درباره آسیب‌پذیری‌های جدید در تجهیزات شبکه صنعتی زیمنس",
+      "summary": "آژانس CISA هشدار داد که برخی از سوئیچ‌های صنعتی زیمنس در برابر حملات انکار سرویس (DoS) آسیب‌پذیر هستند. زیمنس در پاسخ به این هشدار، به‌روزرسانی‌های میان‌افزاری (Firmware) را برای مدل‌های affected منتشر کرده است تا حفره‌های امنیتی بسته شوند. متخصصان OT توصیه می‌کنند سریعاً این وصله‌ها را در محیط‌های عملیاتی نصب کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/23 10:00",
+      "collected_at": "1405/07/27 05:08",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov",
+      "tags": [
+        "Cybersecurity",
+        "OT Security",
+        "Siemens Ruggedcom"
+      ]
+    },
+    {
+      "id": "ia-20261017-009",
+      "title": "عرضه ابزارهای جدید تحلیل اثرات در TIA Portal برای مدیریت تغییرات پروژه",
+      "summary": "زیمنس ابزارهای تحلیل اثرات (Impact Analysis) را به TIA Portal اضافه کرد تا مهندسان بتوانند پیش از اعمال تغییرات در کد، تأثیر آن را بر سایر بخش‌های سیستم بررسی کنند. این قابلیت از بروز خطاهای غیرمنتظره در هنگام به‌روزرسانی PLCها در محیط‌های عملیاتی جلوگیری می‌کند. این ابزار برای پروژه‌هایی با هزاران خط کد و منطق‌های پیچیده بسیار کاربردی است.",
+      "category": "product",
+      "published_at": "1405/07/22 15:30",
+      "collected_at": "1405/07/27 05:08",
+      "source": "Siemens Industry",
+      "source_url": "https://www.siemens.com/global/en/products/automation.html",
+      "tags": [
+        "TIA Portal",
+        "Software Engineering",
+        "PLC Programming"
+      ]
+    },
+    {
+      "id": "ia-20261017-010",
+      "title": "ارتقای استاندارد EtherCAT G توسط بکوف برای انتقال داده‌های حجیم در اتوماسیون",
+      "summary": "شرکت بکوف نسخه به‌روز شده‌ای از فناوری EtherCAT G را معرفی کرد که سرعت انتقال داده‌ها را به گیگابیت بر ثانیه می‌رساند. این پیشرفت برای کاربردهایی که نیاز به انتقال حجم زیادی از داده‌های سنسورها در زمان واقعی دارند، مانند سیستم‌های بینایی ماشین، ضروری است. این فناوری باعث حذف گلوگاه‌های ارتباطی در شبکه‌های صنعتی پیچیده می‌شود.",
+      "category": "research",
+      "published_at": "1405/07/22 09:00",
+      "collected_at": "1405/07/27 05:08",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com",
+      "tags": [
+        "EtherCAT G",
+        "Industrial Ethernet",
+        "High Speed Data"
       ]
     }
   ]
