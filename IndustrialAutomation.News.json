@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 207,
+  "count": 217,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 13:00",
+  "updated_at": "1405/07/27 13:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3302,6 +3302,166 @@
         "Industrial Edge",
         "Developers",
         "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261019-001",
+      "title": "معرفی ماژول امنیتی جدید SIMATIC S7-1500 CP 1543-1 برای حفاظت از شبکه‌های صنعتی",
+      "summary": "شرکت زیمنس از ماژول ارتباطی و امنیتی جدید SIMATIC S7-1500 CP 1543-1 با قابلیت‌های پیشرفته دیواره آتش رونمایی کرد. این ماژول برای ارتقای امنیت سایبری در لایه‌های کنترلی و جلوگیری از دسترسی‌های غیرمجاز به PLCهای سری ۱۵۰۰ طراحی شده است. این محصول با پشتیبانی از پروتکل‌های رمزنگاری مدرن، نقش کلیدی در ایمن‌سازی زیرساخت‌های حیاتی در برابر تهدیدات سایبری روزافزون ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 13:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-cp-1543-1",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Cybersecurity",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261019-002",
+      "title": "گسترش همکاری زیمنس و زدید برای توسعه اپلیکیشن‌های ابری در مانیتورینگ صنعتی",
+      "summary": "زیمنس از توسعه همکاری‌های راهبردی خود با شرکت‌های ارائه‌دهنده خدمات ابری برای بهبود عملکرد پلتفرم Insights Hub خبر داد. این توسعه امکان پردازش حجم عظیمی از داده‌های سنسورها را با تاخیر کمتر فراهم می‌کند و به مدیران کارخانه‌ها اجازه می‌دهد تا تصمیمات بهینه‌تری اتخاذ نمایند. این راهکار جدید به‌طور مستقیم هزینه‌های نگهداری تجهیزات را کاهش و بهره‌وری کلی خطوط تولید را افزایش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 13:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/cloud/news/siemens-insights-hub-expansion",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud Computing",
+        "Industrial IoT"
+      ]
+    },
+    {
+      "id": "ia-20261019-003",
+      "title": "عرضه ابزارهای جدید مهندسی معکوس و تحلیل داده در TIA Portal V19 SP1",
+      "summary": "شرکت زیمنس بسته به‌روزرسانی جدیدی را برای نرم‌افزار جامع مهندسی TIA Portal منتشر کرد که تمرکز اصلی آن بر بهینه‌سازی فرآیندهای عیب‌یابی و کاهش زمان مهندسی است. این نسخه جدید ابزارهای پیشرفته‌ای را برای مستندسازی خودکار کدها و شبیه‌سازی دقیق‌تر سیستم‌های اتوماسیون ارائه می‌دهد. مهندسان می‌توانند با استفاده از این قابلیت‌ها، پروژه‌های اتوماسیون پیچیده را با سرعت و دقت بیشتری پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 13:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/plc-scada/news/siemens-tia-portal-v19-sp1",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Engineering Software",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261019-004",
+      "title": "توسعه قابلیت‌های رباتیک هوشمند در خطوط مونتاژ با همکاری ABB و زیمنس",
+      "summary": "شرکت‌های ABB و زیمنس در پروژه‌ای مشترک، قابلیت‌های یکپارچه‌سازی سیستم‌های کنترل زیمنس را با بازوهای رباتیک پیشرفته ABB بهبود بخشیدند. این همکاری امکان هماهنگی دقیق‌تر میان ایستگاه‌های کاری و ربات‌ها را بر اساس استانداردهای باز صنعتی فراهم می‌سازد. راهکار جدید به طور چشمگیری انعطاف‌پذیری خطوط مونتاژ خودرو و صنایع الکترونیک را در مواجهه با تغییرات محصول افزایش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/27 13:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/2026/10/abb-siemens-robotics-integration/24510/",
+      "tags": [
+        "ABB",
+        "Siemens",
+        "Robotics",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261019-005",
+      "title": "معرفی سیستم کنترل توزیع‌شده جدید DeltaV Live توسط امرسون برای مجتمع‌های پتروشیمی",
+      "summary": "شرکت امرسون نسخه جدیدی از سیستم کنترل توزیع‌شده (DCS) خود را با رابط کاربری بهینه‌شده و قابلیت‌های پایش پیشرفته معرفی کرد. این سیستم به اپراتورها کمک می‌کند تا در شرایط اضطراری واکنش‌های سریع‌تر و دقیق‌تری داشته باشند و خطاهای انسانی را به حداقل برسانند. معماری مقیاس‌پذیر این پلتفرم امکان ادغام آسان با تجهیزات فیلدباس مختلف را در صنایع نفت و گاز فراهم می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:10",
+      "collected_at": "1405/07/27 13:01",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/2026/10/emerson-deltav-live-release",
+      "tags": [
+        "Emerson",
+        "DeltaV",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261019-006",
+      "title": "ارتقای پلتفرم FactoryTalk Hub راکول اتوماسیون برای مدیریت یکپارچه داده‌های کارخانه",
+      "summary": "راکول اتوماسیون پلتفرم ابری FactoryTalk Hub خود را با ماژول‌های تحلیل داده جدید برای سرپرستان خط تولید به‌روزرسانی کرد. این ابزارها امکان تجمیع اطلاعات از منابع گوناگون OT را در یک داشبورد واحد فراهم کرده و روند تصمیم‌گیری مدیریتی را تسریع می‌بخشد. این راهکار به صنایع تولیدی کمک می‌کند تا با شناسایی گلوگاه‌های تولید، بهره‌وری کلی تجهیزات (OEE) را ارتقا دهند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:35",
+      "collected_at": "1405/07/27 13:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/cloud/news/rockwell-factorytalk-hub-update",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Cloud Hub",
+        "OEE"
+      ]
+    },
+    {
+      "id": "ia-20261019-007",
+      "title": "انتشار توصیه‌های امنیتی جدید CISA برای آسیب‌پذیری‌های سیستم‌های کنترل صنعتی",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) گزارش جدیدی درباره آسیب‌پذیری‌های امنیتی در تجهیزات مختلف اتوماسیون صنعتی منتشر کرد. این گزارش به سازندگان و مدیران شبکه هشدار می‌دهد که پچ‌های امنیتی ارائه‌شده را برای جلوگیری از حملات احتمالی اعمال کنند. این اقدام به منظور حفظ پایداری شبکه‌های حیاتی آب، برق و انرژی در برابر تهدیدات سایبری پیچیده انجام گرفته است.",
+      "category": "regulation",
+      "published_at": "1405/07/27 12:00",
+      "collected_at": "1405/07/27 13:01",
+      "source": "CISA Cybersecurity",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-290-01",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "ICS",
+        "Vulnerabilities"
+      ]
+    },
+    {
+      "id": "ia-20261019-008",
+      "title": "معرفی درایوهای فرکانس متغیر سری Altivar Process اشنایدر الکتریک با استانداردهای سبز",
+      "summary": "شرکت اشنایدر الکتریک نسل جدید درایوهای صنعتی خود را با قابلیت راندمان انرژی بالا و کاهش تلفات حرارتی معرفی کرد. این درایوها مجهز به الگوریتم‌های پیشرفته کنترل موتور هستند که مصرف برق را در کاربردهای سنگین پمپ و فن بهینه‌سازی می‌کنند. این تجهیزات سهم بسزایی در کاهش ردپای کربن صنایع و تحقق اهداف توسعه پایدار کارخانه‌ها دارند.",
+      "category": "product",
+      "published_at": "1405/07/27 12:20",
+      "collected_at": "1405/07/27 13:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/schneider-electric-altivar-process-drives/",
+      "tags": [
+        "Schneider Electric",
+        "Altivar",
+        "VFD",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261019-009",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در پلتفرم Siemens Industrial Copilot برای مهندسان کنترل",
+      "summary": "زیمنس قابلیت‌های دستیار مبتنی بر هوش مصنوعی خود موسوم به Industrial Copilot را برای تولید کدهای PLC و مستندسازی بهبود بخشید. این ابزار اکنون قادر است خطاهای پیچیده منطقی را در کدهای ساختاریافته شناسایی کرده و راه‌حل‌های اصلاحی پیشنهاد دهد. این فناوری نوین سرعت توسعه پروژه‌های اتوماسیون را به طور چشمگیری افزایش داده و نیاز به کدنویسی دستی را کاهش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/27 12:40",
+      "collected_at": "1405/07/27 13:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/ai-ml/siemens-industrial-copilot-enhancements",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "Artificial Intelligence",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261019-010",
+      "title": "معرفی سوئیچ‌های شبکه صنعتی جدید FL SWITCH فونیکس کنتاکت با پشتیبانی از TSN",
+      "summary": "شرکت فونیکس کنتاکت خانواده جدیدی از سوئیچ‌های مدیریت‌شده را با پشتیبانی کامل از فناوری شبکه حساس به زمان (TSN) به بازار عرضه کرد. این سوئیچ‌ها امکان انتقال همزمان داده‌های بلادرنگ و ترافیک استاندارد را روی یک زیرساخت اترنت فراهم می‌کنند. این محصول زیرساخت ارتباطی لازم را برای پیاده‌سازی معماری‌های مدرن و مقیاس‌پذیر در کارخانه‌های هوشمند فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/27 13:00",
+      "collected_at": "1405/07/27 13:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/phoenix-contact-fl-switch-tsn-release",
+      "tags": [
+        "Phoenix Contact",
+        "Industrial Ethernet",
+        "TSN",
+        "Networking"
       ]
     }
   ]
