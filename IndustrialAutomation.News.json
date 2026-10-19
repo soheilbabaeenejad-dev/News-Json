@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 458,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/27 20:39",
+  "count": 468,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/27 21:41",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7357,6 +7357,166 @@
       "tags": [
         "Robotics",
         "Electronics",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های جدید پردازش تصویر مبتنی بر هوش مصنوعی برای SIMATIC S7-1500",
+      "summary": "زیمنس از ماژول‌های جدید پردازش تصویر با قابلیت هوش مصنوعی برای کنترل‌کننده‌های SIMATIC S7-1500 رونمایی کرد. این ماژول‌ها به مهندسان اجازه می‌دهند تا بدون نیاز به دانش برنامه‌نویسی پیچیده، الگوریتم‌های تشخیص اشیاء را مستقیماً در محیط TIA Portal پیاده‌سازی کنند. این نوآوری زمان استقرار سیستم‌های کنترل کیفیت خودکار را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 21:41",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "AI",
+        "Machine Vision"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای امنیت در پروتکل‌های ارتباطی PROFINET توسط زیمنس",
+      "summary": "زیمنس استانداردهای امنیتی جدیدی را برای پروتکل PROFINET در تجهیزات اتوماسیون صنعتی معرفی کرده است. این به‌روزرسانی با هدف مقابله با تهدیدات سایبری مدرن در لایه‌های OT طراحی شده و از رمزنگاری پیشرفته برای محافظت از تبادل داده بین PLCها و دستگاه‌های میدانی استفاده می‌کند. این اقدام گامی مهم برای انطباق با استانداردهای IEC 62443 است.",
+      "category": "industry",
+      "published_at": "1405/07/27 10:30",
+      "collected_at": "1405/07/27 21:41",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/security/article/21154321/siemens-profinet-security-update",
+      "tags": [
+        "Cybersecurity",
+        "PROFINET",
+        "OT",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم Siemens Insights Hub",
+      "summary": "پلتفرم Insights Hub زیمنس اکنون به ابزارهای تحلیل پیش‌بینی‌کننده مبتنی بر یادگیری ماشین مجهز شده است. این قابلیت جدید به اپراتورهای کارخانه کمک می‌کند تا خرابی‌های احتمالی تجهیزات را پیش از وقوع شناسایی کنند. با ادغام این ابزارها، بهره‌وری کلی تجهیزات (OEE) در خطوط تولید بزرگ به میزان قابل توجهی افزایش خواهد یافت.",
+      "category": "product",
+      "published_at": "1405/07/27 11:45",
+      "collected_at": "1405/07/27 21:41",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.siemens.com/insights-hub-update",
+      "tags": [
+        "Insights Hub",
+        "IIoT",
+        "Predictive Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "رونمایی از درایوهای فوق‌کم‌مصرف سری SINAMICS G120X برای صنایع آب و فاضلاب",
+      "summary": "زیمنس نسل جدید درایوهای SINAMICS G120X را برای بهینه‌سازی مصرف انرژی در پمپ‌ها و فن‌های صنعتی معرفی کرد. این درایوها با الگوریتم‌های کنترل هوشمند، اتلاف انرژی را در فرآیندهای سیالاتی به حداقل می‌رسانند. این محصول به ویژه برای تاسیسات بزرگ آب و فاضلاب طراحی شده است تا هزینه‌های عملیاتی را کاهش دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 12:20",
+      "collected_at": "1405/07/27 21:41",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sinamics-g120x-launch/",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری استراتژیک زیمنس و انویدیا در حوزه دوقلوهای دیجیتال کارخانه‌ای",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه دوقلوهای دیجیتال فوتورالیستیک در محیط Omniverse گسترش دادند. این همکاری به تولیدکنندگان اجازه می‌دهد تا کل فرآیند تولید را در یک محیط مجازی کاملاً دقیق شبیه‌سازی کنند. هدف از این پروژه، کاهش خطاهای مهندسی و تسریع در زمان عرضه محصولات جدید به بازار است.",
+      "category": "match",
+      "published_at": "1405/07/27 13:50",
+      "collected_at": "1405/07/27 21:41",
+      "source": "TechCrunch",
+      "source_url": "https://www.nvidia.com/en-us/industries/industrial-digital-twin/",
+      "tags": [
+        "NVIDIA",
+        "Siemens",
+        "Digital Twin",
+        "Omniverse"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی سیستم مدیریت انرژی هوشمند در پلتفرم Xcelerator",
+      "summary": "زیمنس ماژول جدید مدیریت انرژی را به اکوسیستم Xcelerator اضافه کرد. این سیستم با پایش لحظه‌ای مصرف برق در تمامی بخش‌های کارخانه، پیشنهاداتی برای کاهش کربن ارائه می‌دهد. این راهکار به مدیران صنعتی کمک می‌کند تا به اهداف پایداری و کاهش هزینه‌های انرژی دست یابند و گزارش‌های دقیق زیست‌محیطی تهیه کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 15:10",
+      "collected_at": "1405/07/27 21:41",
+      "source": "Sustainability Today",
+      "source_url": "https://www.siemens.com/xcelerator-energy-management",
+      "tags": [
+        "Xcelerator",
+        "Sustainability",
+        "Energy Management",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "عرضه کنترل‌کننده ایمن جدید برای رباتیک صنعتی توسط ABB",
+      "summary": "شرکت ABB نسل جدید کنترل‌کننده رباتیک خود را با قابلیت‌های ایمنی پیشرفته معرفی کرد. این سیستم با استفاده از سنسورهای هوشمند، محیط اطراف ربات را به صورت لحظه‌ای پایش کرده و در صورت ورود انسان به محدوده خطر، سرعت را به طور ایمن کاهش می‌دهد. این محصول استانداردهای جدیدی را در تعامل انسان و ربات ایجاد کرده است.",
+      "category": "product",
+      "published_at": "1405/07/27 16:30",
+      "collected_at": "1405/07/27 21:41",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://new.abb.com/robotics/controllers",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Safety",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "هشدار CISA درباره آسیب‌پذیری‌های جدید در سیستم‌های کنترل اشنایدر الکتریک",
+      "summary": "آژانس امنیت سایبری CISA نسبت به وجود آسیب‌پذیری‌های بحرانی در برخی از کنترل‌کننده‌های سری Modicon اشنایدر الکتریک هشدار داد. این نقص امنیتی می‌تواند به مهاجمان اجازه دهد تا کنترل فرآیندهای صنعتی را در دست بگیرند. به کاربران توصیه شده است که فوراً وصله‌های امنیتی ارائه شده توسط شرکت را نصب کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 17:55",
+      "collected_at": "1405/07/27 21:41",
+      "source": "CISA Alerts",
+      "source_url": "https://www.cisa.gov/news-events/ics-alerts",
+      "tags": [
+        "CISA",
+        "Schneider Electric",
+        "Cybersecurity",
+        "Vulnerability"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه زیرساخت‌های ۵G صنعتی در کارخانه‌های هوشمند زیمنس",
+      "summary": "زیمنس در حال پیاده‌سازی شبکه‌های خصوصی ۵G در سایت‌های تولیدی خود برای بهبود ارتباطات ماشین به ماشین است. این فناوری امکان جابجایی داده‌های حجیم با تاخیر بسیار کم را فراهم می‌کند که برای ربات‌های خودگردان و سیستم‌های نظارتی بلادرنگ حیاتی است. این زیرساخت، ستون فقرات کارخانه‌های کاملاً خودکار آینده خواهد بود.",
+      "category": "industry",
+      "published_at": "1405/07/27 19:20",
+      "collected_at": "1405/07/27 21:41",
+      "source": "Industrial News",
+      "source_url": "https://new.siemens.com/global/en/company/stories/industry/5g-industrial.html",
+      "tags": [
+        "5G",
+        "Industrial Automation",
+        "Siemens",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی ماژول‌های ورودی/خروجی فشرده برای محیط‌های سخت توسط فونیکس کنتاکت",
+      "summary": "فونیکس کنتاکت سری جدید ماژول‌های I/O مقاوم خود را برای استفاده در محیط‌های صنعتی با شرایط سخت عرضه کرد. این ماژول‌ها دارای درجه حفاظت IP67 بوده و در برابر لرزش، دما و رطوبت شدید مقاوم هستند. این محصول برای صنایع معدنی و نفت و گاز که نیاز به تجهیزات جانبی مستحکم دارند، بسیار ایده‌آل است.",
+      "category": "product",
+      "published_at": "1405/07/27 20:45",
+      "collected_at": "1405/07/27 21:41",
+      "source": "Phoenix Contact Press",
+      "source_url": "https://www.phoenixcontact.com/en-pc/products/io-systems",
+      "tags": [
+        "Phoenix Contact",
+        "I/O",
+        "Industrial Hardware",
         "Automation"
       ]
     }
