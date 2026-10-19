@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 418,
+  "count": 428,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 18:05",
+  "updated_at": "1405/07/27 18:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6728,6 +6728,166 @@
         "Digital Twin",
         "Tecnomatix",
         "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی جدید برای SIMATIC ET 200",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی برای خانواده تجهیزات پراکنده SIMATIC ET 200 رونمایی کرد که از پروتکل‌های پرسرعت شبکه پشتیبانی می‌کنند. این ماژول‌ها با هدف بهبود تبادل داده در لایه فیلدباس و کاهش تاخیر در خطوط تولید پیاده‌سازی شده‌اند. این راهکار به مهندسان کمک می‌کند تا ساختار اتوماسیون کارخانه را با انعطاف‌پذیری بیشتری توسعه دهند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 18:08",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-et200-comm-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200",
+        "OT Networks"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های امنیتی در نسخه جدید سیستم عامل SIMATIC S7-1500",
+      "summary": "زیمنس به‌روزرسانی امنیتی مهمی را برای سیستم‌عامل کنترل‌کننده‌های پیشرفته SIMATIC S7-1500 منتشر کرد که لایه‌های دفاعی جدیدی را اضافه می‌کند. این نسخه قابلیت‌های رمزنگاری سخت‌افزاری و احراز هویت پیشرفته را برای مقابله با تهدیدات سایبری در محیط‌های صنعتی فراهم می‌آورد. این اقدام گامی مهم در جهت ایمن‌سازی زیرساخت‌های بحرانی OT در برابر حملات پیچیده است.",
+      "category": "news",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 18:08",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-s7-1500-firmware-update-security",
+      "tags": [
+        "Siemens",
+        "PLC",
+        "Cybersecurity",
+        "S7-1500"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری زیمنس و بفور برای بهینه‌سازی پردازش لبه در خطوط تولید",
+      "summary": "زیمنس در همکاری مشترک با فناوران پردازش لبه، راهکار جدیدی را برای اجرای بلادرنگ الگوریتم‌های هوش مصنوعی روی سخت‌افزارهای صنعتی توسعه داد. این سیستم ترکیبی به اپراتورها اجازه می‌دهد داده‌های سنسورها را مستقیماً در محل ماشین‌آلات تجزیه‌وتحلیل کنند. این فناوری نقش بسزایی در کاهش پهنای باند مصرفی و افزایش سرعت واکنش سیستم‌های کنترل دارد.",
+      "category": "industry",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 18:08",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-edge-computing-partnership",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "OT/IT Integration"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "ارائه ابزارهای جدید مهندسی در پلتفرم TIA Portal V19 SP1",
+      "summary": "نسخه اصلاح‌شده TIA Portal V19 SP1 توسط زیمنس با هدف ارتقای تجربه کاربری مهندسان اتوماسیون و کاهش زمان مهندسی پروژه عرضه شد. این نسخه ابزارهای خودکارسازی تست کد و مدیریت کتابخانه‌های مرکزی را بهبود بخشیده و هماهنگی بیشتری ایجاد می‌کند. تیم‌های مهندسی می‌توانند با استفاده از این ویژگی‌ها، پروژه‌های بزرگ مقیاس SIMATIC را با سرعت و دقت بیشتری پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:20",
+      "collected_at": "1405/07/27 18:08",
+      "source": "IEB",
+      "source_url": "https://www.iebmedia.com/tia-portal-v19-sp1-release",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Engineering",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه دوقلوهای دیجیتال فرآیندی با راهکار جدید SIMATIC PCS neo",
+      "summary": "زیمنس آخرین نسخه سیستم کنترل فرآیند مبتنی بر وب خود یعنی SIMATIC PCS neo را با امکانات پیشرفته شبیه‌سازی عرضه کرد. این پلتفرم به مهندسان شیمی و فرآیند امکان می‌دهد قبل از راه‌اندازی فیزیکی کارخانه، رفتار کل سیستم را به صورت مجازی تست کنند. این ابزار از بروز خطاهای پرهزینه در فاز کمیسیونینگ جلوگیری کرده و کارایی را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 12:45",
+      "collected_at": "1405/07/27 18:08",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-simatic-pcs-neo-update",
+      "tags": [
+        "Siemens",
+        "DCS",
+        "PCS neo",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی پکیج‌های جدید هوش مصنوعی برای ابزار Siemens Industrial Copilot",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی صنعتی خود را با افزونه‌های جدیدی برای تولید خودکار کدهای ساختاریافته گسترش داد. این دستیار هوشمند اکنون قادر است مستندات فنی پیچیده را بررسی کرده و دستورالعمل‌های برنامه‌نویسی PLC را پیشنهاد کند. این نوآوری باعث صرفه‌جویی چشمگیر در وقت مهندسان نرم‌افزار در طول چرخه توسعه پروژه می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 13:30",
+      "collected_at": "1405/07/27 18:08",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-industrial-copilot-expansion",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "Artificial Intelligence",
+        "PLC Programming"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "گسترش زیرساخت‌های پایش مصرف انرژی با سرویس‌های ابری زیمنس",
+      "summary": "زیمنس راهکار جامع مدیریت انرژی جدیدی را بر پایه پلتفرم ابری Insights Hub برای واحدهای صنعتی سنگین معرفی کرد. این سیستم با جمع‌آوری داده‌های مصرف برق و گاز از طریق گیت‌وی‌های SIMATIC، الگوهای هدررفت را شناسایی می‌کند. این راهکار به صنایع کمک می‌کند تا اهداف پایداری و کاهش انتشار کربن را با دقت بالاتری محقق سازند.",
+      "category": "industry",
+      "published_at": "1405/07/27 14:10",
+      "collected_at": "1405/07/27 18:08",
+      "source": "IoT Analytics",
+      "source_url": "https://www.iot-analytics.com/siemens-insights-hub-energy-management",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "عرضه درایوهای فشرده SINAMICS با قابلیت‌های پیشرفته ایمنی عملکردی",
+      "summary": "سری جدید درایوهای فرکانس متغیر SINAMICS با طراحی فشرده و استانداردهای ایمنی یکپارچه‌شده توسط زیمنس به بازار عرضه شد. این درایوها برای کنترل دقیق موتورهای الکتریکی در ماشین‌آلات بسته‌بندی و انتقال مواد کاربرد دارند. سیستم عیب‌یابی داخلی این تجهیزات زمان توقف ناخواسته خطوط تولید را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/27 15:00",
+      "collected_at": "1405/07/27 18:08",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sinamics-drives-release",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری زیمنس و خودروسازان اروپایی برای هوشمندسازی خطوط رنگ",
+      "summary": "قرارداد جدیدی میان زیمنس و شرکت‌های خودروسازی پیشرو برای پیاده‌سازی سیستم‌های کنترل رباتیک هوشمند امضا شد. در این پروژه از کنترل‌کننده‌های SIMATIC و نرم‌افزارهای دوقلوی دیجیتال برای بهینه‌سازی پاشش رنگ استفاده می‌شود. این اقدام منجر به کاهش مصرف مواد اولیه و ارتقای کیفیت نهایی بدنه خودروها خواهد شد.",
+      "category": "industry",
+      "published_at": "1405/07/27 16:20",
+      "collected_at": "1405/07/27 18:08",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-automotive-robotics",
+      "tags": [
+        "Siemens",
+        "Automotive",
+        "Robotics",
+        "Digital Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "برگزاری کنفرانس سالانه توسعه‌دهندگان اکوسیستم Siemens Xcelerator",
+      "summary": "زیمنس میزبان نشست سالانه توسعه‌دهندگان نرم‌افزار برای گسترش قابلیت‌های اکوسیستم باز Siemens Xcelerator بود. در این رویداد، راهکارهای جدید مبتنی بر رابط‌های برنامه‌نویسی کاربردی برای اتصال سیستم‌های ERP به لایه اتوماسیون معرفی شد. هدف این پلتفرم، یکپارچه‌سازی کامل زنجیره تامین و تولید از طریق استانداردهای نرم‌افزاری باز است.",
+      "category": "news",
+      "published_at": "1405/07/27 17:35",
+      "collected_at": "1405/07/27 18:08",
+      "source": "Digital Engineering",
+      "source_url": "https://www.digitaleng.news/siemens-xcelerator-developer-conference",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Ecosystem",
+        "Software Integration"
       ]
     }
   ]
