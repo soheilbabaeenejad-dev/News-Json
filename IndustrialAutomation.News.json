@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 247,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/27 14:01",
+  "count": 257,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/27 14:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3950,6 +3950,166 @@
         "OPC UA",
         "Industrial Network",
         "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی جدید برای سری SIMATIC S7-1500",
+      "summary": "شرکت زیمنس ماژول‌های ارتباطی پیشرفته جدیدی را برای خانواده کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 معرفی کرد. این ماژول‌ها امکان تبادل داده‌های حجیم را با سرعت بالا و تأخیر کم در شبکه‌های صنعتی فراهم می‌آورند. این توسعه به مهندسان کمک می‌کند تا ساختارهای اتوماسیون پیچیده را با امنیت و پایداری بیشتری یکپارچه کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 14:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-s7-1500-comm-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "PLC",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های تجزیه و تحلیل داده در نرم‌افزار TIA Portal V19",
+      "summary": "آپدیت جدید نرم‌افزار مهندسی TIA Portal V19 شرکت زیمنس ابزارهای تحلیل داده و عیب‌یابی خودکار را بهبود بخشیده است. این ابزارها خطاهای پنهان در کدهای PLC را سریع‌تر شناسایی کرده و زمان راه‌اندازی پروژه‌های اتوماسیون را کاهش می‌دهند. این ویژگی باعث افزایش بهره‌وری تیم‌های مهندسی در کارخانه‌های هوشمند می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 14:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-tia-portal-v19-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Engineering",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری زیمنس و فستو برای توسعه رباتیک مدلار در خطوط مونتاژ",
+      "summary": "شرکت‌های زیمنس و فستو در پروژه‌ای مشترک به دنبال توسعه سیستم‌های رباتیک مدلار و انعطاف‌پذیر برای صنایع تولیدی هستند. این همکاری بر پایه پلتفرم Siemens Xcelerator شکل گرفته و هدف آن کاهش زمان تعویض ابزار در خطوط تولید است. این راهکار به صنایع اجازه می‌دهد تا محصولات سفارشی را با هزینه کمتر تولید کنند.",
+      "category": "company",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 14:02",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialeinrichtungen.de/siemens-festo-robotics",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Robotics",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه نسل جدید پنل‌های اپراتوری SIMATIC HMI Comfort Pro",
+      "summary": "زیمنس از سری جدید پنل‌های اپراتوری SIMATIC HMI Comfort Pro با بدنه‌های مقاوم در برابر شرایط سخت محیطی رونمایی کرد. این نمایشگرهای صنعتی دارای قابلیت‌های لمسی پیشرفته و استانداردهای حفاظتی بالا برای صنایع نفت، گاز و پتروشیمی هستند. این محصول دسترسی به اطلاعات فرآیندی را مستقیم و ایمن در لایه میدانی مقدور می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/27 14:02",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/siemens-hmi-comfort-pro",
+      "tags": [
+        "Siemens",
+        "HMI",
+        "SIMATIC",
+        "Operator Panel"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای امنیت تجهیزات شبکه صنعتی با استانداردهای جدید زیمنس",
+      "summary": "زیمنس راهکارهای امنیتی تازه‌ای را برای سوئیچ‌های صنعتی سری Ruggedcom خود جهت مقابله با تهدیدات سایبری OT معرفی نمود. این به‌روزرسانی شامل پروتکل‌های رمزنگاری پیشرفته و مدیریت متمرکز دسترسی کاربران است. اجرای این استانداردها از زیرساخت‌های حیاتی در برابر نفوذهای مخرب محافظت می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 11:20",
+      "collected_at": "1405/07/27 14:02",
+      "source": "Cybersecurity News OT",
+      "source_url": "https://www.ot-cybersecurity.com/siemens-ruggedcom-security",
+      "tags": [
+        "Siemens",
+        "Ruggedcom",
+        "Cybersecurity",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه قابلیت‌های مانیتورینگ انرژی در سیستم SIMATIC PCS 7",
+      "summary": "سیستم کنترل توزیع‌شده SIMATIC PCS 7 زیمنس اکنون به ماژول‌های پیشرفته مدیریت و پایش مصرف انرژی مجهز شده است. این سیستم به اپراتورها اجازه می‌دهد تا هدررفت انرژی را در واحدهای بزرگ صنعتی به‌صورت آنی ردیابی کنند. این قابلیت به کارخانه‌ها در دستیابی به اهداف پایداری و کاهش انتشار کربن کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 12:05",
+      "collected_at": "1405/07/27 14:02",
+      "source": "Process Automation",
+      "source_url": "https://www.process-automation.com/siemens-pcs7-energy",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "DCS",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "راه‌اندازی مرکز نوآوری دوقلوهای دیجیتال زیمنس در ژاپن",
+      "summary": "زیمنس جدیدترین مرکز نوآوری دوقلوهای دیجیتال خود را با تمرکز بر صنایع خودروسازی و الکترونیک در توکیو افتتاح کرد. این مرکز مجهز به آخرین فناوری‌های نرم‌افزاری پلتفرم Xcelerator برای شبیه‌سازی دقیق خطوط تولید است. هدف از این اقدام، تسریع تحول دیجیتال برای مشتریان آسیایی زیمنس عنوان شده است.",
+      "category": "industry",
+      "published_at": "1405/07/27 12:40",
+      "collected_at": "1405/07/27 14:02",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-japan-digital-twin",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Xcelerator",
+        "Innovation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی رله‌های حفاظتی هوشمند جدید توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک نسل جدیدی از رله‌های حفاظتی و کنترل فیدر را برای شبکه‌های توزیع برق صنعتی به بازار عرضه کرد. این تجهیزات مجهز به ارتباطات بی‌سیم و قابلیت‌های تشخیصی پیشرفته برای جلوگیری از خاموشی‌های ناگهانی هستند. این نوآوری پایداری شبکه توزیع را در کارخانه‌های بزرگ صنعتی تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 13:10",
+      "collected_at": "1405/07/27 14:02",
+      "source": "Electrical Engineering",
+      "source_url": "https://www.ee-worldonline.com/schneider-protection-relays",
+      "tags": [
+        "Schneider Electric",
+        "Protection Relay",
+        "Power Distribution",
+        "Smart Grid"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "بهینه‌سازی سیستم‌های کنترل حرکت با درایوهای جدید SINAMICS S210",
+      "summary": "زیمنس قابلیت‌های درایوهای سروو SINAMICS S210 را برای کاربردهای دقیق کنترل حرکت در ماشین‌آلات بسته‌بندی ارتقا داد. این درایوهای جدید با موتورهای همگام هماهنگی کامل داشته و دقت موقعیت‌یابی را افزایش می‌دهند. این امر سرعت تولید را در خطوط بسته‌بندی پرسرعت به طور چشمگیری بالا می‌برد.",
+      "category": "product",
+      "published_at": "1405/07/27 13:35",
+      "collected_at": "1405/07/27 14:02",
+      "source": "Motion Control Tips",
+      "source_url": "https://www.motioncontroltips.com/siemens-sinamics-s210-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Servo Drive",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه همکاری راکول اتوماسیون با شرکت‌های ارائه‌دهنده سرویس‌های ابری",
+      "summary": "راکول اتوماسیون تفاهم‌نامه جدیدی برای گسترش زیرساخت‌های ابری پلتفرم FactoryTalk Hub با ارائه‌دهندگان بزرگ امضا کرد. این توسعه به کاربران صنعتی امکان می‌دهد تا داده‌های تولیدی را از کارخانه‌های مختلف به‌صورت متمرکز تحلیل کنند. این راهکار مدیریت زنجیره تأمین را در مقیاس جهانی ساده‌تر می‌سازد.",
+      "category": "company",
+      "published_at": "1405/07/27 14:00",
+      "collected_at": "1405/07/27 14:02",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/rockwell-automation-cloud-expansion",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk Hub",
+        "Cloud Computing",
+        "Industrial IoT"
       ]
     }
   ]
