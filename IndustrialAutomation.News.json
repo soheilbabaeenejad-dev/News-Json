@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 217,
+  "count": 227,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 13:01",
+  "updated_at": "1405/07/27 13:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3462,6 +3462,166 @@
         "Industrial Ethernet",
         "TSN",
         "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261008-001",
+      "title": "معرفی ماژول امنیتی جدید SIMATIC S7-1500 برای مقابله با تهدیدات سایبری صنعتی",
+      "summary": "شرکت زیمنس از ماژول سخت‌افزاری جدیدی برای سری کنترل‌کننده‌های SIMATIC S7-1500 رونمایی کرد که سطح حفاظت شبکه‌های OT را به‌طور چشمگیری افزایش می‌دهد. این ماژول با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته و قابلیت تشخیص نفوذ بلادرنگ، از خطوط تولید در برابر حملات سایبری پیچیده محافظت می‌کند. هدف زیمنس از عرضه این محصول، ارتقای امنیت زیرساخت‌های حیاتی و همگام‌سازی تجهیزات اتوماسیون با استانداردهای نوین امنیتی است.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 13:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-security-module",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "cybersecurity",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261008-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی در پلتفرم Siemens Industrial Copilot برای مهندسی اتوماسیون",
+      "summary": "زیمنس نسخه جدید دستیار هوش مصنوعی خود موسوم به Industrial Copilot را با قابلیت‌های تحلیلی پیشرفته‌تر منتشر کرد. این ابزار به مهندسان اجازه می‌دهد کدهای برنامه‌نویسی PLC را سریع‌تر تولید کرده و خطاهای سیستم را با دقت بالاتری عیب‌یابی کنند. این به‌روزرسانی مهم موجب کاهش چشمگیر زمان توقف خطوط تولید و بهینه‌سازی فرآیندهای مهندسی در کارخانه‌های هوشمند می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 13:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/article/siemens-industrial-copilot-update",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "AI",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261008-003",
+      "title": "توسعه همکاری زیمنس و شرکت لوازم خانگی بوش برای هوشمندسازی زنجیره تامین",
+      "summary": "زیمنس تفاهم‌نامه جدیدی با هلدینگ بوش برای پیاده‌سازی راهکارهای جامع پلتفرم Siemens Xcelerator در کارخانه‌های تولید لوازم خانگی امضا کرد. این پروژه کلان شامل یکپارچه‌سازی داده‌های تولید، مدیریت هوشمند انرژی و توسعه دوقلوهای دیجیتال برای خطوط مونتاژ است. همکاری مذکور نشان‌دهنده تعهد دو شرکت به سرعت‌بخشی به تحول دیجیتال و پایداری در صنعت ساخت و تولید اروپاست.",
+      "category": "company",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 13:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/industrynews/article/siemens-bosch-digital-transformation",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Bosch",
+        "digital twin"
+      ]
+    },
+    {
+      "id": "ia-20261008-004",
+      "title": "عرضه درایوهای پیشرفته SINAMICS G120X با قابلیت‌های بهینه‌سازی مصرف انرژی برای سیستم‌های آب و فاضلاب",
+      "summary": "شرکت زیمنس سبد محصولات درایو خود را با معرفی نسل جدید SINAMICS G120X گسترش داد که به‌طور ویژه برای کاربردهای پمپاژ و تهویه مطبوع طراحی شده است. این درایوهای فرکانس متغیر با بهره‌گیری از الگوریتم‌های پیشرفته کنترل موتور، مصرف انرژی را تا بیست درصد کاهش می‌دهند. این محصول به صنایع مختلف کمک می‌کند تا هم‌زمان با افزایش بهره‌وری، گامی مؤثر در راستای کاهش ردپای کربن بردارند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/27 13:03",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-sinamics-g120x-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "energy efficiency",
+        "drives"
+      ]
+    },
+    {
+      "id": "ia-20261008-005",
+      "title": "انتشار به‌روزرسانی سیستم کنترل فرآیند SIMATIC PCS 7 با پشتیبانی از استانداردهای نوین ابری",
+      "summary": "زیمنس نسخه جدید سیستم کنترل فرآیند کلاس جهانی خود یعنی SIMATIC PCS 7 را با تمرکز بر امنیت و یکپارچه‌سازی ابری عرضه کرد. این نسخه امکان اتصال امن داده‌های فرآیندی را به پلتفرم‌های ابری برای تحلیل‌های پیشرفته فراهم می‌سازد. به‌روزرسانی مذکور به اپراتورهای صنایع شیمیایی و داروسازی کمک می‌کند تا نظارت دقیق‌تری بر فرآیندهای پیچیده خود داشته باشند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:20",
+      "collected_at": "1405/07/27 13:03",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/automation/siemens-simatic-pcs7-upgrade",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "DCS",
+        "cloud"
+      ]
+    },
+    {
+      "id": "ia-20261008-006",
+      "title": "راکول اتوماسیون پلتفرم ابری FactoryTalk Hub را با ابزارهای جدید تحلیل داده ارتقا داد",
+      "summary": "شرکت راکول اتوماسیون مجموعه‌ای از ابزارهای جدید تحلیلی را به پلتفرم ابری FactoryTalk Hub اضافه کرد تا تصمیم‌گیری در کارخانه‌ها سریع‌تر انجام شود. این قابلیت‌ها به مدیران تولید اجازه می‌دهد عملکرد ماشین‌آلات مختلف را به صورت بلادرنگ از هر نقطه‌ای پایش کنند. این توسعه نرم‌افزاری گامی مهم در جهت همگام‌سازی سیستم‌های ابری با اتوماسیون سنتی کف کارخانه محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 11:50",
+      "collected_at": "1405/07/27 13:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/factorytalk-hub-update",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "cloud",
+        "analytics"
+      ]
+    },
+    {
+      "id": "ia-20261008-007",
+      "title": "هشدار آژانس CISA درباره آسیب‌پذیری‌های امنیتی در تجهیزات شبکه صنعتی چند برند معتبر",
+      "summary": "آژانس امنیت سایبری و زیرساخت ایالات متحده (CISA) با انتشار اطلاعیه‌ای نسبت به وجود آسیب‌پذیری‌های بحرانی در برخی سوئیچ‌ها و روترهای صنعتی هشدار داد. این نقص‌ها می‌تواند به مهاجمان اجازه دهد تا دسترسی غیرمجاز به شبکه‌های کنترل صنعتی پیدا کنند. سازندگان تجهیزات از جمله زیمنس و فونیکس کنتاکت بسته‌های اصلاحی و توصیه‌های امنیتی لازم را برای رفع این موارد منتشر کرده‌اند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 12:10",
+      "collected_at": "1405/07/27 13:03",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/alerts/industrial-control-systems-advisories",
+      "tags": [
+        "CISA",
+        "cybersecurity",
+        "ICS",
+        "vulnerability"
+      ]
+    },
+    {
+      "id": "ia-20261008-008",
+      "title": "رونمایی ABB از ربات‌های صنعتی جدید سری IRB با طراحی مقاوم برای محیط‌های دشوار ریخته‌گری",
+      "summary": "شرکت ABB از نسل جدید ربات‌های صنعتی مقاوم خود با نام تجاری IRB برای کار در محیط‌های سخت و دمای بالا رونمایی کرد. این ربات‌ها دارای بدنه‌هایی با پوشش ویژه ضد زنگ و مقاوم در برابر ذرات گرد و غبار فلزی هستند. استفاده از این تجهیزات در خطوط ریخته‌گری و آهنگری، ایمنی نیروی انسانی را افزایش داده و دقت عملیات جابجایی قطعات سنگین را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 12:35",
+      "collected_at": "1405/07/27 13:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/abb-new-irb-robots-foundry",
+      "tags": [
+        "ABB",
+        "robotics",
+        "heavy industry",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261008-009",
+      "title": "توسعه سخت‌افزارهای لبه شبکه توسط زیمنس برای پردازش محلی داده‌های هوش مصنوعی",
+      "summary": "زیمنس سخت‌افزار پردازشی جدیدی را به سری محصولات Industrial Edge اضافه کرد که توانایی اجرای مدل‌های سنگین یادگیری ماشین را در لبه شبکه دارد. این دستگاه‌ها به صنایع اجازه می‌دهند بدون نیاز به ارسال داده‌ها به فضای ابری، تصمیمات حیاتی را در مقیاس میلی‌ثانیه اتخاذ کنند. این نوآوری نقش کلیدی در کاهش تاخیر شبکه و افزایش قابلیت اطمینان سیستم‌های اتوماسیون ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 12:50",
+      "collected_at": "1405/07/27 13:03",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-world.com/siemens-industrial-edge-hardware",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "edge computing"
+      ]
+    },
+    {
+      "id": "ia-20261008-010",
+      "title": "اشنایدر الکتریک راهکار جدید مدیریت کربن را برای مجتمع‌های بزرگ صنعتی عرضه کرد",
+      "summary": "شرکت اشنایدر الکتریک نرم‌افزار جامع جدیدی را برای ردیابی و کاهش انتشار گازهای گلخانه‌ای در کارخانه‌های بزرگ معرفی کرد. این نرم‌افزار با اتصال به سیستم‌های مانیتورینگ انرژی، گزارش‌های دقیقی از میزان مصرف منابع مختلف ارائه می‌دهد. این راهکار به شرکت‌ها کمک می‌کند تا اهداف پایداری خود را سریع‌تر محقق کرده و با قوانین سخت‌گیرانه زیست‌محیطی تطبیق یابند.",
+      "category": "product",
+      "published_at": "1405/07/27 13:00",
+      "collected_at": "1405/07/27 13:03",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/carbon-management-software",
+      "tags": [
+        "Schneider Electric",
+        "sustainability",
+        "energy management",
+        "industry"
       ]
     }
   ]
