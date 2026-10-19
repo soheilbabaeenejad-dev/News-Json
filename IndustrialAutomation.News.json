@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 428,
+  "count": 438,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 18:08",
+  "updated_at": "1405/07/27 19:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6888,6 +6888,166 @@
         "Xcelerator",
         "Ecosystem",
         "Software Integration"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از نسل جدید ماژول‌های ایمنی SIMATIC Safety Advanced V20 زیمنس",
+      "summary": "شرکت زیمنس از نسخه جدید ماژول‌های مهندسی ایمنی خود با نام SIMATIC Safety Advanced V20 رونمایی کرد. این ابزار پیشرفته به مهندسین اتوماسیون کمک می‌کند تا استانداردهای ایمنی ماشین‌آلات را با سرعت بیشتری در محیط TIA Portal پیاده‌سازی کنند. این راهکار جدید با کاهش زمان تایید اعتبار ایمنی، بهره‌وری خطوط تولید را به طور قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 19:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-safety-v20",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TIA Portal",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی در نرم‌افزار SCADA زیمنس WinCC Unified V19",
+      "summary": "زیمنس قابلیت‌های هوش مصنوعی را به نسخه جدید نرم‌افزار مانیتورینگ WinCC Unified V19 اضافه کرد. این ویژگی جدید به اپراتورهای صنعتی امکان می‌دهد تا ناهنجاری‌های سیستم را پیش از وقوع خرابی شناسایی کنند. این به‌روزرسانی گامی بزرگ در جهت خودکارسازی فرآیندهای صنعتی و کاهش زمان توقف تجهیزات در کارخانه‌های هوشمند محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 19:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-wincc-unified-ai",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "SCADA",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه رباتیک ماژولار در خطوط مونتاژ",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه همکاری جدیدی را برای یکپارچه‌سازی سیستم‌های رباتیک و کنترل‌کننده‌های صنعتی امضا کردند. این همکاری بر توسعه استانداردهای ارتباطی مشترک برای ربات‌های ماژولار در صنایع خودروسازی تمرکز دارد. هدف اصلی این پروژه، انعطاف‌پذیری بیشتر در خطوط تولید و تسهیل تغییرات سریع در طراحی محصولات است.",
+      "category": "news",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 19:03",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Robotics",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی کنترل‌کننده لبه جدید SIMATIC IPC RX1100 توسط زیمنس",
+      "summary": "زیمنس از سخت‌افزار لبه صنعتی جدید خود با نام SIMATIC IPC RX1100 برای پردازش داده‌های سطح کارخانه پرده برداشت. این دستگاه مقاوم به طور ویژه برای محیط‌های سخت کارگاهی طراحی شده و از پلتفرم Siemens Industrial Edge پشتیبانی کامل می‌کند. این محصول امکان تحلیل آنی داده‌های حسگرها را در کنار ماشین‌آلات فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/27 11:10",
+      "collected_at": "1405/07/27 19:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-simatic-ipc-rx1100",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "IPC",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "انتشار بسته امنیتی جدید برای تجهیزات شبکه صنعتی Ruggedcom زیمنس",
+      "summary": "زیمنس بسته امنیتی حیاتی جدیدی را برای رفع آسیب‌پذیری‌های کشف‌شده در سوئیچ‌های شبکه صنعتی Ruggedcom منتشر کرد. این به‌روزرسانی امنیتی از زیرساخت‌های حیاتی در برابر تهدیدات سایبری پیشرفته محافظت می‌کند. کارشناسان امنیت شبکه OT توصیه می‌کنند مدیران سیستم هرچه سریع‌تر سیستم‌عامل تجهیزات خود را ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 12:20",
+      "collected_at": "1405/07/27 19:03",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com/siemens-ruggedcom-security-update",
+      "tags": [
+        "Siemens",
+        "Ruggedcom",
+        "Cybersecurity",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه دوقلوهای دیجیتال فرآیندی با نسخه جدید SIMATIC PCS neo",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo زیمنس با تمرکز بر شبیه‌سازی پیشرفته فرآیندهای شیمیایی عرضه شد. این نسخه امکان ایجاد دوقلوهای دیجیتال کاملاً همگام را برای مهندسان شیمی فراهم می‌کند تا پیش از راه‌اندازی واقعی، عملکرد کارخانه را بهینه‌سازی کنند. این فناوری نقش کلیدی در کاهش مصرف انرژی و پسماند مواد اولیه دارد.",
+      "category": "product",
+      "published_at": "1405/07/27 13:40",
+      "collected_at": "1405/07/27 19:03",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-simatic-pcs-neo-update",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "Digital Twin",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با راهکار جدید Siemens Xcelerator",
+      "summary": "زیمنس پکیج نرم‌افزاری جدیدی را تحت پلتفرم Siemens Xcelerator برای مدیریت و پایش مصرف انرژی در صنایع سنگین معرفی کرد. این راهکار با تجمیع داده‌های مصرف برق و گاز ماشین‌آلات، پیشنهادهای هوشمندانه‌ای برای کاهش هزینه‌ها ارائه می‌دهد. شرکت‌های تولیدی با استفاده از این ابزار می‌توانند به اهداف کربن‌زدایی خود سریع‌تر دست یابند.",
+      "category": "industry",
+      "published_at": "1405/07/27 14:50",
+      "collected_at": "1405/07/27 19:03",
+      "source": "Automation Magazine",
+      "source_url": "https://www.automation.com/siemens-xcelerator-energy-management",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "عرضه ماژول‌های ارتباطی جدید PROFINET برای سری SIMATIC S7-1500",
+      "summary": "زیمنس ماژول‌های ارتباطی پیشرفته‌ای را برای کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 با پشتیبانی از پروتکل PROFINET نسل جدید معرفی کرد. این ماژول‌ها پهنای باند شبکه را افزایش داده و تأخیر انتقال داده‌ها را به حداقل می‌رسانند. این ویژگی برای کاربردهای رباتیک پرسرعت و خطوط مونتاژ دقیق اهمیت حیاتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/27 15:30",
+      "collected_at": "1405/07/27 19:03",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/siemens-profinet-s7-1500",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "PROFINET",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "ارتقای دستیار هوش مصنوعی Siemens Industrial Copilot برای برنامه‌نویسی PLC",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی Industrial Copilot را برای تولید کدهای ساختاریافته در نرم‌افزار TIA Portal گسترش داد. این ابزار به برنامه‌نویسان اجازه می‌دهد با دستورات متنی ساده، کدهای استاندارد PLC را تولید و عیب‌یابی کنند. این نوآوری زمان توسعه پروژه‌های اتوماسیون صنعتی را تا حد زیادی کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/27 16:45",
+      "collected_at": "1405/07/27 19:03",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/siemens-industrial-copilot-update",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "Artificial Intelligence",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "سرمایه‌گذاری مشترک زیمنس و شرکای اروپایی برای توسعه زیرساخت‌های اینترنت اشیاء صنعتی",
+      "summary": "زیمنس با همکاری چند شرکت پیشرو اروپایی، طرح سرمایه‌گذاری جدیدی را برای توسعه استانداردسازی اینترنت اشیاء صنعتی آغاز کرد. این پروژه بر interoperability میان تجهیزات مختلف OT و سیستم‌های ابری متمرکز است. هدف اصلی این ابتکار، تسهیل تبادل امن داده‌ها در زنجیره تأمین صنعتی اروپا است.",
+      "category": "economy",
+      "published_at": "1405/07/27 18:00",
+      "collected_at": "1405/07/27 19:03",
+      "source": "EU Industry Today",
+      "source_url": "https://www.euindustrytoday.com/siemens-iiot-investment",
+      "tags": [
+        "Siemens",
+        "IIoT",
+        "Cloud",
+        "Industry 4.0"
       ]
     }
   ]
