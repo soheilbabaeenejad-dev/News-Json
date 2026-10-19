@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 304,
+  "count": 314,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 15:04",
+  "updated_at": "1405/07/27 15:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4869,6 +4869,176 @@
         "AI",
         "Industrial Copilot",
         "Research"
+      ]
+    },
+    {
+      "id": "ia-20261014-001",
+      "title": "معرفی کنترل‌کننده ایمنی جدید SIMATIC S7-1500F با گواهینامه SIL3 توسط زیمنس",
+      "summary": "شرکت زیمنس از نسل جدید کنترل‌کننده‌های ایمنی SIMATIC S7-1500F با پشتیبانی از استانداردهای سخت‌گیرانه SIL3 رونمایی کرد. این محصول جدید با هدف ارتقای ایمنی اپراتورها و تجهیزات در خطوط تولید پیچیده و پرسرعت طراحی شده است. این کنترل‌کننده با یکپارچگی کامل در محیط TIA Portal، سرعت پردازش دستورات ایمنی را تا چهل درصد افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 15:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500f-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety",
+        "TIA Portal",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261014-002",
+      "title": "گسترش قابلیت‌های پردازش لبه در پلتفرم Siemens Industrial Edge با اپلیکیشن‌های جدید",
+      "summary": "زیمنس از اضافه شدن بسته‌های نرم‌افزاری جدید به پلتفرم Industrial Edge برای تحلیل بلادرنگ داده‌های لبه خبر داد. این به‌روزرسانی به مهندسان کارخانه اجازه می‌دهد تا الگوریتم‌های هوش مصنوعی را مستقیماً بر روی کنترلرها بدون نیاز به فضای ابری اجرا کنند. این راهکار کاهش چشمگیر تاخیر شبکه و بهبود بهره‌وری تجهیزات را در خطوط مونتاژ به همراه دارد.",
+      "category": "news",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 15:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-edge-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Edge Computing",
+        "AI",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261014-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه ربات‌های مدولار در اتومیشن کارخانه‌ها",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه همکاری مشترکی را برای یکپارچه‌سازی سیستم‌های محرک پنوماتیک با کنترلرهای SIMATIC امضا کردند. این پروژه مشترک بر توسعه ماژول‌های سخت‌افزاری هوشمند برای کاهش زمان سیم‌کشی و راه‌اندازی خطوط تولید تمرکز دارد. این سیستم جدید مصرف انرژی را در ماشین‌آلات بسته‌بندی تا پانزده درصد کاهش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 15:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Automation",
+        "Pneumatics",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261014-004",
+      "title": "عرضه ماژول ارتباطی جدید PROFINET برای توسعه شبکه‌های مقاوم صنعتی توسط زیمنس",
+      "summary": "زیمنس ماژول ارتباطی پیشرفته‌ای را برای پروتکل PROFINET معرفی کرد که قابلیت تحمل نویز شدید الکترومغناطیسی را دارد. این قطعه صنعتی جدید برای استفاده در پست‌های توزیع برق و صنایع سنگین فلزی بهینه‌سازی شده است. قابلیت عیب‌یابی خودکار خطوط ارتباطی، زمان توقف اضطراب‌آور را در کارخانجات بزرگ به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/27 15:05",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/siemens-profinet-module",
+      "tags": [
+        "Siemens",
+        "PROFINET",
+        "Networking",
+        "Hardware",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261014-005",
+      "title": "ارتقای نرم‌افزار مانیتورینگ SIMATIC WinCC Unified با ابزارهای جدید تحلیل داده",
+      "summary": "نسخه جدید نرم‌افزار SCADA زیمنس یعنی SIMATIC WinCC Unified V19 با امکانات پیشرفته گرافیکی و داشبوردهای تحت وب عرضه شد. این نسخه امکان اتصال امن به پایگاه داده‌های ابری را از طریق پروتکل‌های استاندارد MQTT فراهم می‌کند. این ابزار به اپراتورها اجازه می‌دهد تا وضعیت فرآیندهای صنعتی را با کیفیت اچ‌دی بر روی تبلت‌های صنعتی پایش کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:20",
+      "collected_at": "1405/07/27 15:05",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-wincc-unified-v19",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "SCADA",
+        "HMI",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261014-006",
+      "title": "رونمایی از نسل جدید درایوهای فرکانس متغیر SINAMICS با بازده انرژی فوق‌العاده",
+      "summary": "شرکت زیمنس درایوهای موتور الکتریکی سری SINAMICS G120X را با قابلیت‌های جدید مدیریت توان به بازار عرضه کرد. این درایوها به طور ویژه برای پمپ‌ها و فن‌های صنعتی طراحی شده‌اند تا از تلفات انرژی در تاسیسات بزرگ جلوگیری کنند. سیستم کنترل بردار پیشرفته در این مدل‌ها، گشتاور را در سرعت‌های پایین با دقت بسیار بالایی تنظیم می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 12:05",
+      "collected_at": "1405/07/27 15:05",
+      "source": "IEW Magazine",
+      "source_url": "https://www.iewonline.com/siemens-sinamics-g120x",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Motors"
+      ]
+    },
+    {
+      "id": "ia-20261014-007",
+      "title": "گسترش قابلیت‌های هوش مصنوعی مولد در دستیار مهندسی Siemens Industrial Copilot",
+      "summary": "زیمنس قابلیت‌های دستیار مبتنی بر هوش مصنوعی خود موسوم به Industrial Copilot را برای تولید خودکار کدهای PLC توسعه داد. این فناوری به برنامه‌نویسان اجازه می‌دهد دستورات متنی را به کدهای ساختاریافته در محیط TIA Portal تبدیل کنند. این رویکرد جدید خطاهای انسانی را کاهش داده و زمان توسعه پروژه‌های بزرگ اتوماسیون را تا پنجاه درصد کوتاه می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/27 12:50",
+      "collected_at": "1405/07/27 15:05",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/siemens-industrial-copilot-ai",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "AI",
+        "TIA Portal",
+        "Programming"
+      ]
+    },
+    {
+      "id": "ia-20261014-008",
+      "title": "انتشار راهنمای امنیتی جدید برای تجهیزات اتوماسیون صنعتی توسط زیمنس و موسسات سایبری",
+      "summary": "زیمنس با انتشار یک بسته راهنمای جامع امنیتی، پروتکل‌های سخت‌گیرانه‌تری را برای حفاظت از شبکه‌های OT پیشنهاد داد. این سند بر لزوم رمزنگاری ارتباطات میان PLCها و سرورهای SCADA برای مقابله با حملات سایبری پیچیده تاکید می‌کند. کارشناسان امنیت صنعتی این اقدام را گامی موثر در جهت ایمن‌سازی زیرساخت‌های حیاتی می‌دانند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 13:30",
+      "collected_at": "1405/07/27 15:05",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-security-guidelines",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "OT Security",
+        "ICS",
+        "Compliance"
+      ]
+    },
+    {
+      "id": "ia-20261014-009",
+      "title": "توسعه دوقلوهای دیجیتال در کارخانجات خودروسازی با پلتفرم Siemens Xcelerator",
+      "summary": "شرکت زیمنس قرارداد بزرگی را برای پیاده‌سازی دوقلوهای دیجیتال جامع بر پایه پلتفرم Xcelerator در صنایع خودروسازی امضا کرد. این فناوری امکان شبیه‌سازی کامل خط تولید از مرحله طراحی تا مونتاژ نهایی را پیش از ساخت فیزیکی فراهم می‌آورد. این راهکار مهندسی، هزینه‌های تغییرات طراحی را به طور چشمگیری کاهش داده و سرعت ورود محصولات به بازار را سرعت می‌بخشد.",
+      "category": "industry",
+      "published_at": "1405/07/27 14:10",
+      "collected_at": "1405/07/27 15:05",
+      "source": "Digital Engineering 247",
+      "source_url": "https://www.digitaleng.news/siemens-xcelerator-digital-twin",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Automotive",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261014-010",
+      "title": "عرضه سیستم کنترل توزیع‌شده SIMATIC PCS neo با ابزارهای ابری مدیریت فرآیند",
+      "summary": "زیمنس آخرین نسخه سیستم کنترل فرآیند DCS خود یعنی SIMATIC PCS neo را با قابلیت‌های مهندسی همزمان تحت وب منتشر کرد. این سامانه به تیم‌های مهندسی پراكنده اجازه می‌دهد به طور همزمان روی یک پروژه بزرگ پتروشیمی کار کنند. معماری بومی وب در این محصول هزینه‌های زیرساخت سخت‌افزاری اتاق کنترل را به طور قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 14:55",
+      "collected_at": "1405/07/27 15:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-simatic-pcs-neo-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Control",
+        "Cloud"
       ]
     }
   ]
