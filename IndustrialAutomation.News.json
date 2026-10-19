@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 130,
-  "provider": "Gemini/gemini-3-flash-preview",
-  "updated_at": "1405/07/27 11:04",
+  "count": 139,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/27 11:34",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2080,6 +2080,150 @@
         "Energy Storage",
         "BESS",
         "Smart Grid"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی پیشرفته PROFINET برای خطوط تولید هوشمند",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی PROFINET با پشتیبانی از سرعت انتقال داده گیگابیتی رونمایی کرد. این تجهیزات جدید به مهندسان اجازه می‌دهند تا حجم عظیمی از داده‌های سنسورها و محرک‌ها را بدون تأخیر در شبکه اتوماسیون کارخانه مدیریت کنند. این نوآوری نقش کلیدی در بهبود عملکرد سیستم‌های کنترل توزیع‌شده و یکپارچه‌سازی بهتر فناوری‌های لبه دارد.",
+      "category": "product",
+      "published_at": "1405/07/27 08:15",
+      "collected_at": "1405/07/27 11:34",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-profinet-modules-2026",
+      "tags": [
+        "Siemens",
+        "PROFINET",
+        "Industrial Ethernet",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم ابری Insights Hub زیمنس",
+      "summary": "زیمنس آپدیت جدیدی برای پلتفرم ابری Insights Hub عرضه کرد که امکانات پیشرفته‌تری برای تحلیل پیش‌بینی‌کننده فراهم می‌کند. این نسخه به مدیران کارخانجات کمک می‌کند تا با دقت بالاتری وضعیت سلامت ماشین‌آلات را رصد کرده و از توقف‌های ناخواسته جلوگیری نمایند. الگوریتم‌های جدید هوش مصنوعی تعبیه‌شده در این پلتفرم، الگوهای پنهان خرابی را سریع‌تر شناسایی می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:45",
+      "collected_at": "1405/07/27 11:34",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-insights-hub-update",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Predictive Maintenance",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "ارتقای امنیت سایبری سیستم‌های اسکادا با بسته‌های حفاظتی جدید زیمنس",
+      "summary": "زیمنس مجموعه‌ای از بسته‌های امنیتی جدید را برای محافظت از نرم‌افزار WinCC SCADA در برابر تهدیدات سایبری پیچیده منتشر کرد. این بسته‌ها شامل ابزارهای رمزنگاری پیشرفته و مدیریت متمرکز گواهینامه‌ها برای زیرساخت‌های حیاتی هستند. با افزایش حملات به شبکه‌های صنعتی OT، این راهکارها به اپراتورها اطمینان می‌دهد که داده‌های فرآیندی با بالاترین سطح امنیت محافظت می‌شوند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 09:35",
+      "collected_at": "1405/07/27 11:34",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-wincc-security",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "SCADA",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی نسل جدید کنترل‌کننده‌های فشرده SIMATIC S7-200 SMART برای بازار آسیا",
+      "summary": "زیمنس از نسل جدید PLCهای فشرده سری SIMATIC S7-200 SMART با قابلیت‌های پردازشی بهبودیافته پرده برداشت. این کنترل‌کننده‌ها به طور ویژه برای ماشین‌سازان کوچک و متوسط طراحی شده‌اند تا اتوماسیون مقرون‌به‌صرفه را تجربه کنند. مدل‌های جدید دارای پورت‌های ارتباطی اضافه‌تر و پشتیبانی بهتر از پروتکل‌های استاندارد صنعتی هستند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 11:34",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-s7-200-smart",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه قابلیت‌های مهندسی معکوس در دوقلوهای دیجیتال زیمنس",
+      "summary": "بخش نرم‌افزارهای صنعتی زیمنس قابلیت‌های جدیدی مبتنی بر اسکن سه‌بعدی برای محیط دوقلوی دیجیتال Xcelerator معرفی کرد. مهندسان اکنون می‌توانند تغییرات فیزیکی کارخانه را به‌صورت بلادرنگ در مدل مجازی بازسازی کنند و خطاهای طراحی را پیش از اجرا کاهش دهند. این ابزار نقش مهمی در تسریع پروژه‌های نوسازی خطوط تولید بزرگ دارد.",
+      "category": "topic",
+      "published_at": "1405/07/27 10:25",
+      "collected_at": "1405/07/27 11:34",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/siemens-xcelerator-digital-twin",
+      "tags": [
+        "Digital Twin",
+        "Siemens Xcelerator",
+        "Engineering",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "راکول اتوماسیون سیستم کنترل توزیع‌شده خود را با قابلیت‌های ابری به‌روز کرد",
+      "summary": "شرکت راکول اتوماسیون نسخه جدیدی از پلتفرم PlantPAx DCS را با یکپارچگی عمیق‌تر با سرویس‌های ابری عرضه کرد. این نسخه امکان دسترسی امن مهندسان به داده‌های فرآیندی را از طریق مرورگرهای وب و بدون نیاز به نصب نرم‌افزار تخصصی فراهم می‌کند. بهینه‌سازی مصرف انرژی و کاهش زمان مهندسی از مزایای اصلی این ارتقا است.",
+      "category": "product",
+      "published_at": "1405/07/27 10:50",
+      "collected_at": "1405/07/27 11:34",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/rockwell-plantpax-update",
+      "tags": [
+        "Rockwell Automation",
+        "PlantPAx",
+        "DCS",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "اشنایدر الکتریک از کلیدهای اتوماتیک هوشمند با قابلیت پایش مصرف انرژی رونمایی کرد",
+      "summary": "شرکت اشنایدر الکتریک سری جدیدی از کلیدهای اتوماتیک MasterPact MTZ را با حسگرهای انرژی یکپارچه معرفی کرد. این تجهیزات به صنایع کمک می‌کنند تا تلفات توان الکتریکی را در تابلوهای برق فشار ضعيف با دقت بالایی ردیابی کنند. اطلاعات جمع‌آوری‌شده مستقیماً به سیستم‌های مدیریت انرژی ساختمان و کارخانه ارسال می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 11:05",
+      "collected_at": "1405/07/27 11:34",
+      "source": "Electrical Contractor",
+      "source_url": "https://www.electricalcontractor.com/schneider-masterpact-mtz",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Smart Grid",
+        "Power Distribution"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "استفاده از هوش مصنوعی مولد زیمنس در بهینه‌سازی کدهای برنامه‌نویسی TIA Portal",
+      "summary": "ابزار کمکی هوش مصنوعی Siemens Industrial Copilot اکنون به‌طور کامل با محیط TIA Portal V19 ادغام شده است. برنامه‌نویسان می‌توانند با استفاده از زبان طبیعی، درخواست‌های خود را برای تولید کدهای منطقی PLC مطرح کنند. این قابلیت زمان توسعه پروژه‌های اتوماسیون را به‌طور چشمگیری کاهش داده و خطاهای انسانی را به حداقل می‌رساند.",
+      "category": "topic",
+      "published_at": "1405/07/27 11:20",
+      "collected_at": "1405/07/27 11:34",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-industrial-copilot-tia-portal",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Industrial Copilot",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "سرمایه‌گذاری مشترک زیمنس و دانشگاه صنعتی مونیخ برای توسعه ربات‌های خودمختار صنعتی",
+      "summary": "زیمنس با همکاری دانشگاه صنعتی مونیخ آزمایشگاه تخصصی جدیدی برای تحقیق روی ناوگان ربات‌های خودگردان (AMR) راه‌اندازی کرد. هدف این پروژه، توسعه الگوریتم‌های ناوبری پیشرفته برای محیط‌های کارگاهی شلوغ و پویا است. این تحقیق به صنایع تولیدی کمک می‌کند تا لجستیک داخلی خود را با انعطاف‌پذیری بیشتری مدیریت کنند.",
+      "category": "research",
+      "published_at": "1405/07/27 11:30",
+      "collected_at": "1405/07/27 11:34",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/siemens-tum-amr-lab",
+      "tags": [
+        "Siemens",
+        "AMR",
+        "Robotics",
+        "Research"
       ]
     }
   ]
