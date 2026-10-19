@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 275,
+  "count": 285,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 14:05",
+  "updated_at": "1405/07/27 15:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4406,6 +4406,166 @@
         "SIMATIC",
         "S7-1500F",
         "Machine Safety"
+      ]
+    },
+    {
+      "id": "ia-20261019-001",
+      "title": "رونمایی از ماژول‌های توسعه‌یافته پردازش لبه در سری SIMATIC ET 200MP زیمنس",
+      "summary": "شرکت زیمنس از ماژول‌های پردازشی جدید برای خانواده SIMATIC ET 200MP پرده برداشت که توانایی اجرای الگوریتم‌های هوش مصنوعی را به صورت لبه‌ای فراهم می‌کنند. این ماژول‌ها به مهندسان اجازه می‌دهند تا داده‌های سنسورها را پیش از ارسال به سرور مرکزی تحلیل کنند. این رویکرد به طور قابل توجهی تأخیر شبکه را کاهش داده و امنیت داده‌های حساس کارخانه را بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 15:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-et200mp-edge-ai",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Edge Computing",
+        "ET 200MP"
+      ]
+    },
+    {
+      "id": "ia-20261019-002",
+      "title": "یکپارچه‌سازی عمیق‌تر نرم‌افزار TIA Portal با ابزارهای مدیریت پروژه ابری",
+      "summary": "نسخه جدید به‌روزرسانی شده TIA Portal امکان اتصال همزمان تیم‌های مهندسی به مخازن ابری پروژه را فراهم کرده است. این قابلیت به برنامه‌نویسان PLC کمک می‌کند تا تغییرات کد را به صورت بلادرنگ و تیمی مدیریت کنند. این ابزار جدید خطاهای انسانی را کاهش داده و سرعت توسعه پروژه‌های اتوماسیون پیچیده را به میزان چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 15:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-tia-portal-cloud-integration",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Engineering",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261019-003",
+      "title": "گسترش راهکارهای امنیت شبکه صنعتی با سری جدید فایروال‌های SCALANCE زیمنس",
+      "summary": "زیمنس خط تولید فایروال‌های صنعتی SCALANCE خود را با قابلیت پشتیبانی از پروتکل‌های رمزنگاری پیشرفته به‌روزرسانی کرد. این تجهیزات برای مقابله با تهدیدات سایبری روزافزون در شبکه‌های OT و زیرساخت‌های حیاتی طراحی شده‌اند. این سخت‌افزارها نظارت دقیق ترافیک شبکه را ممکن ساخته و مانع از دسترسی‌های غیرمجاز به کنترل‌کننده‌ها می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 15:01",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-firewalls",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261019-004",
+      "title": "همکاری راهبردی زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط مونتاژ",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه جدیدی برای ادغام تجهیزات پنوماتیک با پلتفرم‌های کنترلی SIMATIC امضا کردند. این همکاری به توسعه ماژول‌های ارتباطی استاندارد برای مانیتورینگ مصرف هوای فشرده منجر می‌شود. هدف اصلی این پروژه کاهش مصرف انرژی و بهینه‌سازی عملکرد سیستم‌های محرک در کارخانه‌های هوشمند است.",
+      "category": "match",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/27 15:01",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-festo-pneumatics-automation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261019-005",
+      "title": "معرفی نسل جدید سیستم‌های کنترل توزیع‌شده SIMATIC PCS neo برای صنایع شیمیایی",
+      "summary": "نسخه پیشرفته سیستم کنترل توزیع‌شده SIMATIC PCS neo با قابلیت‌های مهندسی تحت وب معرفی شد. این سیستم به اپراتورها اجازه می‌دهد از هر مکانی به صورت امن بر فرآیندهای پیچیده‌ی پتروشیمی نظارت کنند. معماری جدید نرم‌افزار پایداری سیستم را افزایش داده و زمان توقف ناخواسته واحدها را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:30",
+      "collected_at": "1405/07/27 15:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-simatic-pcs-neo-update",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261019-006",
+      "title": "توسعه قابلیت‌های رباتیک محلی با هماهنگی موتورهای سروو SINAMICS S210",
+      "summary": "زیمنس قابلیت‌های کنترلی سروو درایوهای SINAMICS S210 را برای کاربردهای رباتیک دقیق گسترش داد. این درایوها اکنون از استانداردهای ارتباطی سریع‌تر برای هماهنگی با بازوهای مکانیکی پشتیبانی می‌کنند. این ارتقا دقت موقعیت‌یابی را در خطوط مونتاژ پرسرعت قطعات الکترونیکی به‌طور چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 12:15",
+      "collected_at": "1405/07/27 15:01",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-sinamics-s210-servo-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Motion Control",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261019-007",
+      "title": "عرضه ابزارهای جدید تحلیل پایداری شبکه در نرم‌افزار WinCC Unified",
+      "summary": "بخش اتوماسیون دیجیتال زیمنس بسته‌ی افزایشی جدیدی برای مانیتورینگ فراگیر در WinCC Unified ارائه کرد. این ابزارها به مدیران سایت کمک می‌کنند تا وضعیت سلامت سخت‌افزارهای شبکه را به صورت گرافیکی رصد کنند. تشخیص زودهنگام خطوط ارتباطی معیوب از بروز خسارت‌های سنگین در خطوط تولید پیوسته جلوگیری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 13:00",
+      "collected_at": "1405/07/27 15:01",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-wincc-unified-monitoring",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261019-008",
+      "title": "راه‌اندازی مرکز جدید آموزش مهندسی اتوماسیون صنعتی توسط زیمنس در شرق اروپا",
+      "summary": "زیمنس از تأسیس یک مرکز تخصصی جدید برای آموزش مهندسان و تکنسین‌های کنترل صنعتی خبر داد. این آکادمی مجهز به آخرین تجهیزات سخت‌افزاری SIMATIC و میزهای آزمایشگاهی TIA Portal است. هدف این مرکز رفع کمبود نیروی انسانی متخصص در حوزه نگهداری و برنامه‌نویسی سیستم‌های اتوماسیون مدرن است.",
+      "category": "society",
+      "published_at": "1405/07/27 13:45",
+      "collected_at": "1405/07/27 15:01",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-training-center-europe",
+      "tags": [
+        "Siemens",
+        "Education",
+        "Training",
+        "Workforce"
+      ]
+    },
+    {
+      "id": "ia-20261019-009",
+      "title": "ارتقای پلتفرم Insights Hub برای پایش مصرف انرژی در کارخانه‌های خودروسازی",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به ماژول‌های پیشرفته‌ی تجزیه و تحلیل مصرف انرژی مجهز شد. این ماژول‌ها داده‌های مصرف برق خطوط پرس و رنگ‌آمیزی خودرو را به صورت لحظه‌ای بررسی می‌کنند. این راهکار به خودروسازان کمک می‌کند تا ردپای کربن خود را کاهش داده و هزینه‌های انرژی را مدیریت نمایند.",
+      "category": "product",
+      "published_at": "1405/07/27 14:30",
+      "collected_at": "1405/07/27 15:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-energy-analytics",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Industrial IoT",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261019-010",
+      "title": "انتشار بسته‌ی به‌روزرسانی امنیتی برای رفع آسیب‌پذیری‌های سیستم‌های SIMATIC S7",
+      "summary": "شرکت زیمنس بسته‌ی اصلاحی اضطراری برای برخی مدل‌های کنترل‌کننده‌های SIMATIC S7 منتشر کرد. این آپدیت امنیتی حفره‌های احتمالی در پشته‌های ارتباطی پروتکل‌های صنعتی را مسدود می‌کند. کارشناسان امنیت سایبری به تمام بهره‌برداران توصیه کرده‌اند هر چه سریع‌تر فریم‌ور تجهیزات خود را ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 15:00",
+      "collected_at": "1405/07/27 15:01",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com/siemens-patches-critical-vulnerabilities-simatic-s7",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7",
+        "Vulnerability",
+        "Patch"
       ]
     }
   ]
