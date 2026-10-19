@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 110,
+  "count": 120,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 11:02",
+  "updated_at": "1405/07/27 11:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1760,6 +1760,166 @@
         "Research",
         "Sustainability",
         "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی نسل جدید ماژول‌های ایمنی SIMATIC Safety Advanced V20 توسط زیمنس",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های نرم‌افزاری و سخت‌افزاری SIMATIC Safety Advanced V20 برای ارتقای سطح ایمنی در خطوط تولید پیچیده رونمایی کرد. این نسخه جدید با یکپارچگی کامل در محیط TIA Portal، امکان پیکربندی سریع‌تر و تست خودکار توابع ایمنی را برای مهندسان فراهم می‌سازد. این راهکار به کاهش زمان توقف ماشین‌آلات و انطباق بهتر با استانداردهای سخت‌گیرانه جهانی کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:15",
+      "collected_at": "1405/07/27 11:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-safety-advanced-v20",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Safety",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم Industrial Edge خود اضافه کرده است که به کارخانه‌ها امکان می‌دهد مصرف انرژی ماشین‌آلات را به صورت لحظه‌ای پایش کنند. این اپلیکیشن‌های جدید با اتصال مستقیم به کنترل‌کننده‌های SIMATIC، تحلیل دقیق داده‌های مصرف برق را میسر می‌سازند. هدف از این توسعه، کمک به صنایع برای دستیابی به اهداف کربن‌زدایی و بهینه‌سازی هزینه‌های عملیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/27 08:45",
+      "collected_at": "1405/07/27 11:03",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/siemens-industrial-edge-energy",
+      "tags": [
+        "Industrial Edge",
+        "Energy Management",
+        "Siemens",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری مشترک زیمنس و فستو برای هوشمندسازی پنوماتیک صنعتی",
+      "summary": "شرکت زیمنس طی توافقی راهبردی با شرکت Festo، نسل جدیدی از تجهیزات پنوماتیک متصل به سیستم‌های کنترل SIMATIC را توسعه دادند. این تجهیزات مایکروسنسورهای پیشرفته‌ای دارند که وضعیت سلامت قطعات را به صورت بلادرنگ به لایه کنترل منتقل می‌کنند. این همکاری به مهندسان اتوماسیون اجازه می‌دهد تا سیستم‌های ترکیبی الکترومکانیکی و پنوماتیکی را با دقت و سرعت بالاتری مدیریت کنند.",
+      "category": "industry",
+      "published_at": "1405/07/27 09:10",
+      "collected_at": "1405/07/27 11:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-festo-pneumatic-integration",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "انتشار نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo V4.2",
+      "summary": "زیمنس نسخه جدید پلتفرم کنترل فرآیند خود موسوم به SIMATIC PCS neo V4.2 را با امکانات پیشرفته همکاری ابری منتشر کرد. این نسخه ابزارهای مهندسی وب‌محور را بهبود بخشیده و به تیم‌های مهندسی راه دور اجازه می‌دهد به طور همزمان روی پروژه‌های بزرگ پالایشگاهی کار کنند. امنیت سایبری لایه کنترل در این نسخه بر اساس استاندارد IEC 62443-4-2 تقویت شده است.",
+      "category": "product",
+      "published_at": "1405/07/27 09:30",
+      "collected_at": "1405/07/27 11:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/process-control/simatic-pcs-neo-v42",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Siemens",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی درایوهای پیشرفته SINAMICS G120X با قابلیت‌های تشخیصی جدید",
+      "summary": "خط تولید درایوهای فرکانس متغیر زیمنس با معرفی مدل‌های جدید SINAMICS G120X برای کاربردهای پمپ و فن توسعه یافت. این درایوها مجهز به الگوریتم‌های پیشرفته تشخیص عیب موتور هستند که قبل از خرابی تجهیز، هشدارهای لازم را صادر می‌کنند. این ویژگی به کاهش هزینه‌های تعمیر و نگهداری اضطرابی در تاسیسات بزرگ صنعتی کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 09:50",
+      "collected_at": "1405/07/27 11:03",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/news/siemens-sinamics-g120x-update",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Siemens",
+        "Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای ابزار هوش مصنوعی Industrial Copilot برای برنامه‌نویسی PLC",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی خود یعنی Siemens Industrial Copilot را برای تسریع کدنویسی در TIA Portal گسترش داد. برنامه‌نویسان اکنون می‌توانند کدهای منطقی اسکریپت و بلوک‌های تابع SCL را با دستورات متنی ساده تولید کنند. این نوآوری زمان توسعه پروژه‌های اتوماسیون صنعتی را به طور قابل توجهی کاهش داده و خطاهای انسانی را به حداقل می‌رساند.",
+      "category": "news",
+      "published_at": "1405/07/27 10:05",
+      "collected_at": "1405/07/27 11:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-copilot-tia-portal",
+      "tags": [
+        "Industrial Copilot",
+        "AI",
+        "TIA Portal",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه زیرساخت‌های امنیت شبکه OT با تجهیزات جدید SCALANCE زیمنس",
+      "summary": "زیمنس خانواده محصولات شبکه صنعتی SCALANCE را با روترهای دیواره آتش جدید برای حفاظت از زیرساخت‌های حیاتی بروزرسانی کرد. این تجهیزات از پروتکل‌های رمزنگاری پیشرفته برای ایمن‌سازی تبادل داده میان طبقه کارخانه و فضای ابری پشتیبانی می‌کنند. این اقدام پاسخ مستقیم به افزایش تهدیدات سایبری علیه شبکه‌های صنعتی و کنترل صنعتی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 10:20",
+      "collected_at": "1405/07/27 11:03",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-firewall",
+      "tags": [
+        "SCALANCE",
+        "Cybersecurity",
+        "Siemens",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "راه‌اندازی کارخانه هوشمند جدید زیمنس بر پایه دوقلوهای دیجیتال در آلمان",
+      "summary": "شرکت زیمنس از افتتاح یک خط تولید کاملاً خودکار جدید در کارخانه نورمبرگ خود بر مبنای مفهوم Siemens Xcelerator خبر داد. در این مرکز، تمامی فرآیندهای مونتاژ پیش از اجرا در دنیای واقعی، به صورت کامل در بستر دوقلوی دیجیتال شبیه‌سازی و بهینه‌سازی شده‌اند. این پروژه راندمان تولید تجهیزات اتوماسیون را تا حد چشمگیری افزایش داده است.",
+      "category": "industry",
+      "published_at": "1405/07/27 10:35",
+      "collected_at": "1405/07/27 11:03",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-smart-factory-nuremberg",
+      "tags": [
+        "Digital Twin",
+        "Xcelerator",
+        "Smart Factory",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی ماژول‌های ارتباطی جدید برای توسعه معماری OPC UA در سیستم‌های SIMATIC",
+      "summary": "زیمنس ماژول‌های ارتباطی سخت‌افزاری جدیدی را برای کنترل‌کننده‌های SIMATIC S7-1500 عرضه کرد که از استاندارد OPC UA TSN پشتیبانی می‌کنند. این فناوری امکان تبادل داده بلادرنگ و قطعی را میان تجهیزات برندهای مختلف در یک شبکه استاندارد فراهم می‌سازد. این امر گامی بزرگ در جهت تحقق یکپارچگی واقعی و اتصال‌پذیری باز در اتوماسیون صنعتی است.",
+      "category": "product",
+      "published_at": "1405/07/27 10:48",
+      "collected_at": "1405/07/27 11:03",
+      "source": "Automation Inside",
+      "source_url": "https://www.automation-inside.com/siemens-opc-ua-tsn-modules",
+      "tags": [
+        "OPC UA",
+        "SIMATIC",
+        "Siemens",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "همکاری زیمنس و دانشگاه صنعتی مونیخ برای تحقیق روی رباتیک شناختی",
+      "summary": "زیمنس و دانشگاه صنعتی مونیخ (TUM) یک پروژه تحقیقاتی مشترک را برای توسعه نسل آینده ربات‌های همکار مجهز به هوش مصنوعی شناختی آغاز کردند. این پژوهش بر توانایی ربات‌ها در درک بصری محیط و تطبیق خودکار با تغییرات خط مونتاژ تمرکز دارد. نتایج این تحقیق قرار است مستقیماً در سیستم‌های کنترل حرکت و رباتیک آینده شرکت پیاده‌سازی شود.",
+      "category": "research",
+      "published_at": "1405/07/27 11:00",
+      "collected_at": "1405/07/27 11:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-tum-cognitive-robotics",
+      "tags": [
+        "Robotics",
+        "AI",
+        "Research",
+        "Siemens"
       ]
     }
   ]
