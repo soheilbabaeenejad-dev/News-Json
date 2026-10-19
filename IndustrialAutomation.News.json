@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 478,
+  "count": 488,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/27 22:10",
+  "updated_at": "1405/07/27 22:23",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7678,6 +7678,163 @@
         "Supply Chain",
         "Industry 4.0",
         "Research"
+      ]
+    },
+    {
+      "id": "ia-20241018-001",
+      "title": "معرفی ماژول‌های پردازش هوش مصنوعی برای SIMATIC S7-1500 توسط زیمنس",
+      "summary": "زیمنس با معرفی ماژول‌های جدید پردازش هوش مصنوعی برای کنترل‌کننده‌های SIMATIC S7-1500، امکان تحلیل داده‌ها را مستقیماً در لبه شبکه فراهم کرده است. این ماژول‌ها به مهندسان اجازه می‌دهند تا مدل‌های یادگیری ماشین را برای پیش‌بینی خرابی و بهینه‌سازی فرآیندها به کار گیرند. این گام مهمی در جهت هوشمندسازی بیشتر خطوط تولید و کاهش توقفات ناخواسته در کارخانه‌های مدرن است.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 22:23",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "AI",
+        "Industrial Edge"
+      ]
+    },
+    {
+      "id": "ia-20241018-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم Industrial Edge اضافه کرده است که امکان پردازش بلادرنگ داده‌های حجیم را در سطح ماشین فراهم می‌کند. این به‌روزرسانی شامل ابزارهای پیشرفته برای مدیریت داده‌های سنسورها و یکپارچه‌سازی بهتر با سیستم‌های ERP است. این تحول به صنایع اجازه می‌دهد تا تصمیمات مدیریتی را بر اساس داده‌های دقیق و لحظه‌ای اتخاذ کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:30",
+      "collected_at": "1405/07/27 22:23",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/industrial-edge/siemens-edge-update",
+      "tags": [
+        "Industrial Edge",
+        "Data Analytics",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-003",
+      "title": "رونمایی از نسل جدید درایوهای SINAMICS G120X برای پمپ‌ها و فن‌ها",
+      "summary": "زیمنس نسل جدید درایوهای فرکانس متغیر SINAMICS G120X را برای کاربردهای زیرساختی مانند پمپ‌ها و فن‌های صنعتی عرضه کرده است. این درایوها با تمرکز بر بهره‌وری انرژی و سادگی در راه‌اندازی طراحی شده‌اند و به طور کامل با محیط‌های اتوماسیون زیمنس سازگار هستند. این محصول جدید هزینه‌های عملیاتی را در سیستم‌های انتقال سیالات به طور چشمگیری کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 11:45",
+      "collected_at": "1405/07/27 22:23",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sinamics-g120x-release/",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drive",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20241018-004",
+      "title": "همکاری استراتژیک زیمنس و انویدیا برای بهینه‌سازی طراحی کارخانه‌های هوشمند",
+      "summary": "زیمنس و انویدیا همکاری خود را برای استفاده از پلتفرم Omniverse در طراحی دوقلوهای دیجیتال فوتورالیستیک گسترش دادند. این همکاری به تولیدکنندگان اجازه می‌دهد تا پیش از ساخت فیزیکی، کل فرآیند تولید را در محیط مجازی شبیه‌سازی کنند. این فناوری دقت طراحی را افزایش داده و زمان عرضه محصولات جدید به بازار را به شدت کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/27 13:00",
+      "collected_at": "1405/07/27 22:23",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-news.com/siemens-nvidia-collaboration",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Digital Twin",
+        "Omniverse"
+      ]
+    },
+    {
+      "id": "ia-20241018-005",
+      "title": "انتشار وصله امنیتی جدید برای سیستم‌های کنترل فرآیند PCS 7",
+      "summary": "تیم امنیتی زیمنس وصله جدیدی را برای رفع آسیب‌پذیری‌های شناسایی شده در سیستم‌های کنترل فرآیند PCS 7 منتشر کرد. این به‌روزرسانی برای محافظت از زیرساخت‌های حیاتی در برابر حملات سایبری احتمالی ضروری است. کاربران باید هرچه سریع‌تر نسبت به اعمال این وصله‌ها در محیط‌های عملیاتی خود اقدام کنند تا از امنیت شبکه OT اطمینان حاصل شود.",
+      "category": "regulation",
+      "published_at": "1405/07/27 14:20",
+      "collected_at": "1405/07/27 22:23",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://cert-portal.siemens.com/productcert/pdf/ssa-pcs7-update.pdf",
+      "tags": [
+        "Cybersecurity",
+        "PCS 7",
+        "Siemens",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20241018-006",
+      "title": "معرفی راهکار جدید راکول اتوماسیون برای یکپارچه‌سازی داده‌های ابری",
+      "summary": "راکول اتوماسیون راهکار جدیدی را برای اتصال داده‌های تولید به پلتفرم‌های ابری معرفی کرده است که امنیت تبادل اطلاعات را تضمین می‌کند. این سیستم با استفاده از پروتکل‌های رمزنگاری پیشرفته، امکان تحلیل داده‌های کارخانه را در مقیاس جهانی فراهم می‌سازد. این راهکار به مدیران صنعتی کمک می‌کند تا دید جامع‌تری از عملکرد سایت‌های تولیدی خود داشته باشند.",
+      "category": "product",
+      "published_at": "1405/07/27 15:40",
+      "collected_at": "1405/07/27 22:23",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/cloud-integration.html",
+      "tags": [
+        "Rockwell Automation",
+        "Cloud",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20241018-007",
+      "title": "توسعه قابلیت‌های رباتیک ABB در صنایع خودروسازی",
+      "summary": "شرکت ABB از توسعه قابلیت‌های جدید در بازوهای رباتیک خود برای خطوط مونتاژ خودروهای برقی خبر داد. این ربات‌ها اکنون با دقت بالاتر و سرعت بیشتر قادر به انجام عملیات جوشکاری و چسب‌زنی هستند. این پیشرفت فنی به تولیدکنندگان خودرو کمک می‌کند تا نرخ تولید خود را در محیط‌های بسیار حساس و دقیق افزایش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/27 17:05",
+      "collected_at": "1405/07/27 22:23",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/abb-automotive-robotics",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Automotive",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241018-008",
+      "title": "رونمایی از سیستم کنترل جدید اشنایدر الکتریک برای مدیریت انرژی ساختمان",
+      "summary": "اشنایدر الکتریک سیستم کنترل جدیدی را برای بهینه‌سازی مصرف انرژی در ساختمان‌های صنعتی بزرگ رونمایی کرد. این سیستم با استفاده از هوش مصنوعی، الگوهای مصرف را تحلیل کرده و به طور خودکار سیستم‌های تهویه و روشنایی را تنظیم می‌کند. این راهکار بخشی از تعهد این شرکت به کاهش ردپای کربن در صنایع و افزایش پایداری محیطی است.",
+      "category": "product",
+      "published_at": "1405/07/27 18:30",
+      "collected_at": "1405/07/27 22:23",
+      "source": "Schneider Electric Press",
+      "source_url": "https://www.se.com/en/about-us/newsroom/energy-management.html",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20241018-009",
+      "title": "هشدار CISA درباره آسیب‌پذیری در کنترل‌کننده‌های منطقی قابل برنامه‌ریزی",
+      "summary": "آژانس امنیت سایبری و زیرساخت (CISA) هشداری را درباره یک آسیب‌پذیری بحرانی در برخی از کنترل‌کننده‌های منطقی قابل برنامه‌ریزی (PLC) صادر کرد. این نقص می‌تواند به مهاجمان اجازه دهد تا کنترل فرآیندهای صنعتی را در دست بگیرند. کارشناسان امنیتی توصیه می‌کنند که تمامی تجهیزات در معرض دید شبکه، بلافاصله به آخرین نسخه فریم‌ور به‌روزرسانی شوند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 20:00",
+      "collected_at": "1405/07/27 22:23",
+      "source": "CISA Advisory",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-plc-vulnerability",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "PLC",
+        "ICS"
+      ]
+    },
+    {
+      "id": "ia-20241018-010",
+      "title": "گسترش همکاری زیمنس و آمازون در حوزه محاسبات ابری برای تولید",
+      "summary": "زیمنس و آمازون (AWS) همکاری خود را برای ارائه خدمات ابری پیشرفته به صنایع تولیدی گسترش دادند. این همکاری امکان اجرای برنامه‌های پیچیده شبیه‌سازی و تحلیل داده‌های صنعتی را بر بستر ابری فراهم می‌کند. این زیرساخت مقیاس‌پذیر به شرکت‌ها اجازه می‌دهد تا بدون نیاز به سخت‌افزارهای گران‌قیمت محلی، پروژه‌های بزرگ دیجیتالی‌سازی را اجرا کنند.",
+      "category": "industry",
+      "published_at": "1405/07/27 21:45",
+      "collected_at": "1405/07/27 22:23",
+      "source": "AWS Industrial Blog",
+      "source_url": "https://aws.amazon.com/blogs/industrial/siemens-aws-collaboration/",
+      "tags": [
+        "Siemens",
+        "AWS",
+        "Cloud Computing",
+        "Digitalization"
       ]
     }
   ]
