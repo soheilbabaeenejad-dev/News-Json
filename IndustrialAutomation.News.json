@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 409,
+  "count": 418,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 18:03",
+  "updated_at": "1405/07/27 18:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6584,6 +6584,150 @@
         "Open Controller",
         "PLC",
         "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته SIMATIC ET 200MP با سرعت پردازش بالاتر",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ورودی و خروجی سری SIMATIC ET 200MP با قابلیت‌های پردازش سیگنال فوق‌سریع رونمایی کرد. این تجهیزات جدید برای ارتقای عملکرد در خطوط تولید پرسرعت و کاهش زمان پاسخ‌دهی در سیستم‌های اتوماسیون مبتنی بر TIA Portal طراحی شده‌اند. با بهره‌گیری از این ماژول‌ها، مهندسان می‌توانند دقت کنترل فرآیند را به شکل چشمگیری افزایش داده و پایداری شبکه OT را تضمین کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 18:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-et200mp-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200MP",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه زیرساخت‌های امنیت سایبری برای تجهیزات SIMATIC S7-1500",
+      "summary": "زیمنس بسته امنیتی جدیدی را برای سری کنترل‌کننده‌های پیشرفته SIMATIC S7-1500 منتشر کرد تا مقاومت در برابر تهدیدات سایبری فزاینده در شبکه‌های صنعتی افزایش یابد. این استاندارد جدید شامل پروتکل‌های رمزنگاری پیشرفته و مکانیزم‌های احراز هویت چندمرحله‌ای برای ارتباطات کنترلر است. هدف از ارائه این بسته، محافظت از زیرساخت‌های حیاتی در برابر نفوذهای مخرب و ارتقای امنیت لایه OT است.",
+      "category": "regulation",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 18:05",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-s71500-security",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Cybersecurity",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی با راهکار جدید Siemens Industrial Edge",
+      "summary": "اپلیکیشن‌های جدید مدیریت انرژی زیمنس برای بستر Siemens Industrial Edge عرضه شدند تا پایش مصرف برق کارخانه‌ها را دقیق‌تر سازند. این ابزارها امکان تحلیل بلادرنگ داده‌های مصرف انرژی را در ماشین‌آلات مختلف فراهم کرده و به کاهش هزینه‌های عملیاتی کمک می‌کنند. صنایع بزرگ می‌توانند با استفاده از این تحلیل‌ها، ردپای کربن خود را به طور مؤثری مدیریت کرده و به اهداف پایداری محیط زیستی دست یابند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:10",
+      "collected_at": "1405/07/27 18:05",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/siemens-industrial-edge-energy",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی کنترل‌کننده دور موتور SINAMICS G120X با استانداردهای جدید بهره‌وری",
+      "summary": "شرکت زیمنس سری جدید اینورترهای SINAMICS G120X را برای کاربردهای مدیریت آب، فاضلاب و تهویه مطبوع صنعتی معرفی کرد. این درایوها با طراحی فشرده و کارایی بالا، تلفات انرژی را به حداقل رسانده و با سیستم‌های کنترل مرکزی به راحتی هماهنگ می‌شوند. این محصول جدید نقش کلیدی در بهینه‌سازی مصرف توان الکتریکی در تأسیسات بزرگ صنعتی ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 12:00",
+      "collected_at": "1405/07/27 18:05",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-g120x",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "گسترش همکاری زیمنس و دانشگاه صنعتی مونیخ در حوزه رباتیک شناختی",
+      "summary": "زیمنس و دانشگاه صنعتی مونیخ تفاهم‌نامه جدیدی برای توسعه نسل آینده ربات‌های صنعتی مجهز به یادگیری ماشین امضا کردند. این پروژه تحقیقاتی بر روی افزایش توانایی ربات‌ها در سازگاری با محیط‌های کارگاهی پویا و پیچیده متمرکز است. دستاوردهای این همکاری مستقیماً در خطوط تولید خودکار و توسعه راهکارهای رباتیک پیشرفته به‌کار گرفته خواهد شد.",
+      "category": "research",
+      "published_at": "1405/07/27 13:20",
+      "collected_at": "1405/07/27 18:05",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-tum-partnership",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "AI",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای پلتفرم SIMATIC WinCC Unified برای نظارت پیشرفته اتاق کنترل",
+      "summary": "نسخه جدید نرم‌افزار مانیتورینگ SIMATIC WinCC Unified با ابزارهای پیشرفته تحلیل داده و گرافیک وکتوری به بازار عرضه شد. این پلتفرم به اپراتورها اجازه می‌دهد تا تصاویر گرافیکی دقیق‌تر و انعطاف‌پذیرتری از فرآیندهای صنعتی را در بستر وب مشاهده کنند. قابلیت‌های جدید این نسخه، نظارت بر خطوط تولید پیچیده را ساده‌تر و ریسک خطای انسانی را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 14:05",
+      "collected_at": "1405/07/27 18:05",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-wincc-unified-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه راهکارهای ابری Insights Hub برای اتصال تجهیزات کارگاهی به لایه IT",
+      "summary": "زیمنس سرویس‌های جدیدی را برای پلتفرم ابری Insights Hub (MindSphere سابق) معرفی کرد تا تبادل داده میان تجهیزات لایه OT و سیستم‌های سازمانی تسهیل شود. این ابزارها امکان تحلیل پیش‌بینی‌کننده خرابی تجهیزات را بر اساس داده‌های زمان واقعی فراهم می‌کنند. با این راهکار، مدیران صنعتی می‌توانند تصمیمات استراتژیک بهتری برای نگهداری و تعمیرات دارایی‌های خود اتخاذ کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 15:30",
+      "collected_at": "1405/07/27 18:05",
+      "source": "IoT Journal",
+      "source_url": "https://www.iotjournal.com/siemens-insights-hub-cloud",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی ماژول ارتباطی جدید SCALANCE برای شبکه‌های صنعتی پرسرعت",
+      "summary": "شرکت زیمنس خانواده جدیدی از سوئیچ‌ها و روترهای صنعتی سری SCALANCE را با پشتیبانی از استانداردهای ارتباطی نوین روانه بازار کرد. این تجهیزات برای برقراری ارتباط پایدار و امن در شبکه‌های بزرگ صنعتی و زیرساخت‌های حیاتی بهینه‌سازی شده‌اند. بهره‌گیری از این ماژول‌ها امکان انتقال حجم عظیمی از داده‌های صنعتی را بدون تأخیر فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/27 16:45",
+      "collected_at": "1405/07/27 18:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-scalance-new-switches",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Industrial Network",
+        "Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه قابلیت‌های دوقلوی دیجیتال در سیستم‌های تولیدی زیمنس",
+      "summary": "زیمنس از به‌روزرسانی بزرگ نرم‌افزار Tecnomatix برای توسعه دوقلوهای دیجیتال در خطوط مونتاژ صنعتی خبر داد. این نرم‌افزار به مهندسان اجازه می‌دهد کل فرایند تولید را پیش از راه‌اندازی فیزیکی در محیط مجازی شبیه‌سازی و عیب‌یابی کنند. این فناوری پیشرفته به طور قابل توجهی زمان ورود محصولات جدید به بازار را کاهش داده و راندمان کلی کارخانه‌ها را بهبود می‌بخشد.",
+      "category": "industry",
+      "published_at": "1405/07/27 17:50",
+      "collected_at": "1405/07/27 18:05",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-tecnomatix-digital-twin",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Tecnomatix",
+        "Smart Factory"
       ]
     }
   ]
