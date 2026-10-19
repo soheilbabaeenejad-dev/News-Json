@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 265,
+  "count": 275,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 14:03",
+  "updated_at": "1405/07/27 14:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4246,6 +4246,166 @@
         "DCS",
         "کنترل فرآیند",
         "صنعت پتروشیمی"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از ماژول ارتباطی جدید SCALANCE برای شبکه‌های امن صنعتی زیمنس",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید سری SCALANCE برای ارتقای امنیت و سرعت تبادل داده در شبکه‌های صنعتی OT پرده برداشت. این تجهیز جدید با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته، مانع از نفوذهای سایبری به لایه کنترل می‌شود. مدیران کارخانه‌ها می‌توانند با این ماژول، پایداری زیرساخت‌های ارتباطی خود را به طور چشمگیری افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 14:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-scalance-module-2026",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Industrial Networks",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی در نرم‌افزار مهندسی TIA Portal V19.2",
+      "summary": "نسخه جدید به‌روزرسانی شده TIA Portal V19.2 توسط زیمنس منتشر شد که ابزارهای کمکی مبتنی بر هوش مصنوعی را برای برنامه‌نویسان PLC توسعه می‌دهد. این قابلیت جدید زمان عیب‌یابی کدهای منطقی را تا چهل درصد کاهش داده و پیشنهادهای بهینه‌سازی خودکار ارائه می‌کند. مهندسان اتوماسیون اکنون می‌توانند پروژه‌های بزرگ SIMATIC را با دقت و سرعت بالاتری پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 14:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-tia-portal-v19-2-ai",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "PLC",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "معرفی کنترل‌کننده منطقی جدید SIMATIC ET 200pro توسط زیمنس",
+      "summary": "زیمنس سیستم I/O توزیع‌شده SIMATIC ET 200pro را با طراحی ماژولار فشرده و مقاومت بالا در برابر شرایط سخت محیطی معرفی کرد. این محصول برای نصب در فضاهای محدود کارگاهی بدون نیاز به تابلو برق سنتی طراحی شده است. صنایع خودروسازی و بسته‌بندی می‌توانند از این کنترل‌کننده برای کاهش هزینه‌های سیم‌کشی بهره ببرند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 14:05",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/siemens-et-200pro-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200pro",
+        "Decentralized I/O"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی کارخانه‌ها با راهکار جدید Siemens Xcelerator",
+      "summary": "پلتفرم ابری Siemens Xcelerator به ابزارهای جدید تحلیل و مدیریت مصرف انرژی مجهز شد تا به صنایع در دستیابی به اهداف کربن صفر کمک کند. این راهکار با تجمیع داده‌های مصرف برق خطوط تولید، الگوهای هدررفت انرژی را به صورت بلادرنگ شناسایی می‌کند. کارخانه‌های بزرگ با استفاده از این ماژول توانسته‌اند هزینه‌های انرژی خود را تا پانزده درصد کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/27 14:05",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-xcelerator-energy-2026",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "رونمایی از نسل جدید درایوهای سروو SINAMICS S120 با قابلیت پردازش لبه",
+      "summary": "زیمنس سبد محصولات درایوهای صنعتی خود را با عرضه نسل جدید SINAMICS S120 مجهز به قابلیت‌های پردازش لبه گسترش داد. این درایوهای پیشرفته می‌توانند داده‌های ارتعاشی موتور را به طور محلی تحلیل کرده و نیاز به سرویس دوره‌ای را پیش‌بینی کنند. این فناوری نقش مهمی در جلوگیری از توقف‌های ناخواسته خطوط تولید سنگین دارد.",
+      "category": "product",
+      "published_at": "1405/07/27 11:20",
+      "collected_at": "1405/07/27 14:05",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-s120-edge",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Servo Drive",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "همکاری راهبردی زیمنس و FESTO برای توسعه اتوماسیون پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه همکاری جدیدی برای یکپارچه‌سازی سیستم‌های پنوماتیک با کنترل‌کننده‌های SIMATIC امضا کردند. این همکاری امکان مانیتورینگ دقیق فشار و مصرف هوا را مستقیماً از طریق بلوک‌های نرم‌افزاری TIA Portal فراهم می‌سازد. مهندسی سیستم‌های ترکیبی الکترومکانیک و پنوماتیک اکنون با این استاندارد جدید بسیار ساده‌تر شده است.",
+      "category": "company",
+      "published_at": "1405/07/27 12:05",
+      "collected_at": "1405/07/27 14:05",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-festo-partnership-2026",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "انتشار بسته امنیتی اضطراری برای سیستم‌های مانیتورینگ SIMATIC WinCC",
+      "summary": "تیم امنیتی زیمنس یک وصله حیاتی برای رفع آسیب‌پذیری‌های کشف شده در نرم‌افزار اسکادا SIMATIC WinCC منتشر کرد. این به‌روزرسانی امنیتی از دسترسی‌های غیرمجاز به پایگاه داده‌های صنعتی جلوگیری می‌کند و پایداری اتاق‌های کنترل را تضمین می‌نماید. به تمامی مدیران شبکه توصیه شده است هر چه سریع‌تر سیستم‌های خود را ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 12:40",
+      "collected_at": "1405/07/27 14:05",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com/siemens-wincc-security-patch-2026",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "SCADA",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه قابلیت‌های پنل‌های اپراتوری SIMATIC HMI Comfort Pro",
+      "summary": "زیمنس خط تولید پنل‌های اپراتوری SIMATIC HMI Comfort Pro را با نمایشگرهای ضد انعکاس و پردازنده‌های قوی‌تر به‌روزرسانی کرد. این پنل‌ها از پروتکل‌های ارتباطی امن OPC UA پشتیبانی کامل کرده و اتصال به سیستم‌های ابری را تسهیل می‌کنند. اپراتورهای کارخانه می‌توانند تصاویر گرافیکی پیچیده‌تر و روندهای تولید را با کیفیت بالاتری مشاهده کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 13:10",
+      "collected_at": "1405/07/27 14:05",
+      "source": "Industrial Plant",
+      "source_url": "https://www.industrialplant.com/siemens-hmi-comfort-pro",
+      "tags": [
+        "Siemens",
+        "SIMATIC HMI",
+        "OPC UA",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "پیاده‌سازی موفق دوقلوی دیجیتال در خط مونتاژ جدید زیمنس با انویدیا",
+      "summary": "کارخانه جدید زیمنس با استفاده از پلتفرم دوقلوی دیجیتال مبتنی بر هوش مصنوعی انویدیا، زمان راه‌اندازی خط تولید را به نصف رسانده است. این شبیه‌سازی دقیق فیزیکی تمام تجهیزات رباتیک و نقاله‌ها را پیش از نصب واقعی آزمایش می‌کند. این دستاورد گامی بزرگ در جهت تحقق کارخانه‌های کاملاً خودکار و منعطف در صنایع مدرن محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/27 13:35",
+      "collected_at": "1405/07/27 14:05",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-nvidia-digital-twin",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Digital Twin",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "عرضه ماژول‌های جدید ورودی ایمنی برای سیستم کنترل SIMATIC S7-1500F",
+      "summary": "زیمنس ماژول‌های ایمنی پیشرفته جدیدی را برای خانواده کنترل‌کننده‌های پیشرفته SIMATIC S7-1500F به بازار عرضه کرد. این ماژول‌ها دارای گواهینامه‌های سخت‌گیرانه SIL3 بوده و برای توقف اضطراری ماشین‌آلات پرخطر کاربرد دارند. یکپارچه‌سازی این تجهیزات با شبکه ایمنی PROFIsafe امنیت اپراتورها را در محیط‌های صنعتی تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 14:00",
+      "collected_at": "1405/07/27 14:05",
+      "source": "Machine Design",
+      "source_url": "https://www.machinedesign.com/siemens-s7-1500f-safety-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "S7-1500F",
+        "Machine Safety"
       ]
     }
   ]
