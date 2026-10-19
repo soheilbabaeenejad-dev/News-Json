@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 197,
-  "provider": "Gemini/gemini-3.7-flash",
-  "updated_at": "1405/07/27 12:12",
+  "count": 207,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/27 13:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3142,6 +3142,166 @@
         "TwinCAT",
         "پردازش تصویر",
         "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از ماژول ارتباطی جدید SCALANCE برای شبکه‌های پرسرعت صنعتی زیمنس",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی صنعتی سری SCALANCE با پشتیبانی از پروتکل‌های پیشرفته شبکه رونمایی کرد. این تجهیزات جدید به مهندسان اجازه می‌دهند تا تبادل داده‌ها را میان لایه‌های OT و IT با امنیت و سرعت بیشتری انجام دهند. این ماژول‌ها به‌طور ویژه برای استفاده در معماری‌های پیچیده اتوماسیون و کارخانه‌های هوشمند طراحی شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 13:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-scalance-new-release",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Industrial Ethernet",
+        "OT/IT"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پیش‌بینی خطا در نرم‌افزار SIMATIC WinCC Unified V19",
+      "summary": "زیمنس نسخه جدید بسته نرم‌افزاری SIMATIC WinCC Unified V19 را با تمرکز بر قابلیت‌های پیش‌بینی خطای مبتنی بر هوش مصنوعی عرضه کرد. این ابزار به اپراتورها کمک می‌کند تا پیش از وقوع خرابی مکانیکی یا الکتریکی در خطوط تولید، هشدار زودهنگام دریافت کنند. این به‌روزرسانی گامی مهم در جهت کاهش زمان توقف اضطراب‌آور در کارخانه‌ها محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 09:00",
+      "collected_at": "1405/07/27 13:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-wincc-unified-v19-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "HMI",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای ارتقای استانداردهای پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه جدیدی برای یکپارچه‌سازی تجهیزات پنوماتیک با کنترل‌کننده‌های SIMATIC امضا کردند. هدف از این همکاری، تسهیل مهندسی و پیکربندی سیستم‌های حرکتی در محیط TIA Portal است. این راهکار مشترک مصرف انرژی را در خطوط مونتاژ خودکار به‌طور قابل‌توجهی بهینه می‌سازد.",
+      "category": "company",
+      "published_at": "1405/07/27 09:45",
+      "collected_at": "1405/07/27 13:00",
+      "source": "Industrial Ethernet USA",
+      "source_url": "https://www.industrialelectronics.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه منبع تغذیه صنعتی جدید SITOP PSU6200 با قابلیت عیب‌یابی هوشمند",
+      "summary": "زیمنس سبد محصولات منبع تغذیه خود را با معرفی مدل SITOP PSU6200 گسترش داد که مجهز به رابط‌های تشخیصی پیشرفته است. این منبع تغذیه اطلاعات دقیقی درباره وضعیت ولتاژ، جریان و عمر مفید قطعه به سیستم‌های PLC ارسال می‌کند. این ویژگی قابلیت اطمینان کل سیستم اتوماسیون را در شرایط سخت کاری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 10:15",
+      "collected_at": "1405/07/27 13:00",
+      "source": "DirectIndustry",
+      "source_url": "https://www.directindustry.com/siemens-sitop-psu6200",
+      "tags": [
+        "Siemens",
+        "SITOP",
+        "Power Supply",
+        "Diagnostics"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "انتشار بسته امنیتی جدید برای تجهیزات کنترل صنعتی توسط زیمنس",
+      "summary": "تیم واکنش اضطراب امنیتی زیمنس یک به‌روزرسانی سیستم‌عامل حیاتی برای سری کنترل‌کننده‌های SIMATIC S7-1500 منتشر کرد. این پتچ امنیتی آسیب‌پذیری‌های احتمالی در پروتکل‌های ارتباطی پروژکتورهای مهندسی را برطرف می‌سازد. کارشناسان امنیتی توصیه می‌کنند مدیران شبکه هر چه سریع‌تر تجهیزات خود را ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 10:50",
+      "collected_at": "1405/07/27 13:00",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com/siemens-security-update-s71500",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "SIMATIC S7-1500",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با ابزارهای جدید Siemens Xcelerator",
+      "summary": "زیمنس مجموعه‌ای از ماژول‌های جدید مدیریت کربن و انرژی را به پلتفرم ابری Siemens Xcelerator اضافه کرد. این ابزارها به صنایع سنگین اجازه می‌دهند تا ردپای کربن خود را به صورت لحظه‌ای محاسبه و پایش کنند. این راهکار به شرکت‌ها کمک می‌کند تا اهداف پایداری زیست‌محیطی خود را سریع‌تر محقق سازند.",
+      "category": "industry",
+      "published_at": "1405/07/27 11:15",
+      "collected_at": "1405/07/27 13:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-xcelerator-energy-tools",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "افزایش سرعت پردازش در سیستم‌های کنترل توزیع‌شده با سخت‌افزارهای جدید زیمنس",
+      "summary": "زیمنس نسل جدید پردازنده‌های مرکزی را برای سیستم کنترل توزیع‌شده SIMATIC PCS 7 معرفی کرد. این پردازنده‌ها قدرت محاسباتی سیستم را تا چهل درصد نسبت به نسل قبلی افزایش می‌دهند. این بهبود عملکرد برای کنترل فرآیندهای پیچیده‌تر در صنایع شیمیایی و داروسازی بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/27 11:40",
+      "collected_at": "1405/07/27 13:00",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-pcs7-new-cpu",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه کاربردهای رباتیک شناختی با همکاری زیمنس و دانشگاه صنعتی مونیخ",
+      "summary": "پروژه پژوهشی مشترکی میان زیمنس و دانشگاه صنعتی مونیخ برای توسعه الگوریتم‌های هوش مصنوعی رباتیک آغاز شد. هدف این پروژه ساخت بازوهای رباتیک صنعتی است که بتوانند اشیاء ناآشنا را با استفاده از یادگیری تقویتی دسته‌بندی کنند. این دستاورد می‌تواند انعطاف‌پذیری خطوط مونتاژ را به شکل چشمگیری افزایش دهد.",
+      "category": "research",
+      "published_at": "1405/07/27 12:05",
+      "collected_at": "1405/07/27 13:00",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-tum-research",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "AI",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی راهکار جامع زیمنس برای یکپارچه‌سازی داده‌های تولید در صنعت خودرو",
+      "summary": "زیمنس راهکار نرم‌افزاری جدیدی را برای خودروسازان عرضه کرد که اطلاعات خطوط پرس و بدنه‌سازی را به یکدیگر متصل می‌کند. این سیستم با استفاده از زیرساخت ابری، امکان تحلیل همزمان کیفیت جوشکاری و فرم‌دهی را فراهم می‌سازد. این امر ضایعات مواد اولیه را در خطوط تولید انبوه کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/27 12:30",
+      "collected_at": "1405/07/27 13:00",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-auto-solution",
+      "tags": [
+        "Siemens",
+        "Automotive",
+        "Digital Twin",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "برگزاری رویداد تخصصی توسعه‌دهندگان Industrial Edge توسط زیمنس در آلمان",
+      "summary": "شرکت زیمنس میزبان نشست سالانه توسعه‌دهندگان پلتفرم Industrial Edge در شهر نورنبرگ بود. در این رویداد، قابلیت‌های جدید برای مدیریت کانتینرها و توسعه اپلیکیشن‌های سفارشی لبه شبکه معرفی شد. صدها مهندس نرم‌افزار و سخت‌افزار از سراسر جهان آخرین تجربیات خود را در این زمینه به اشتراک گذاشتند.",
+      "category": "news",
+      "published_at": "1405/07/27 12:55",
+      "collected_at": "1405/07/27 13:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-industrial-edge-event",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Developers",
+        "Edge Computing"
       ]
     }
   ]
