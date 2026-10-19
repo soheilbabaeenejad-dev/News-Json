@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 323,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/27 16:01",
+  "count": 333,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/27 16:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5178,6 +5178,166 @@
         "Emerson",
         "Oil and Gas",
         "Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی کنترل‌کننده‌های پیشرفته SIMATIC S7-1200 G2 توسط زیمنس برای خطوط تولید کوچک",
+      "summary": "شرکت زیمنس از نسل جدید کنترل‌کننده‌های قابل برنامه ریزی SIMATIC S7-1200 G2 با قابلیت‌های پیشرفته ارتباطی رونمایی کرد. این تجهیزات جدید برای بهینه‌سازی فرآیندهای اتوماسیون در کارخانجات کوچک و متوسط طراحی شده‌اند و سرعت پردازش داده‌ها را به طور چشمگیری افزایش می‌دهند. این کنترل‌کننده‌ها با نرم‌افزار TIA Portal V20 سازگاری کامل داشته و مهندسی سیستم را ساده‌تر می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 16:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1200-g2-launch",
+      "tags": [
+        "SIMATIC",
+        "Siemens",
+        "PLC",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پردازش ابری در نرم‌افزار SCADA مانیتورینگ WinCC Unified زیمنس",
+      "summary": "زیمنس نسخه جدید بسته نرم‌افزاری SCADA خود موسوم به SIMATIC WinCC Unified را با ابزارهای تحلیلی مبتنی بر ابر منتشر کرد. این نسخه امکان نظارت بی‌درنگ بر داده‌های صنعتی را از طریق مرورگرهای وب بدون نیاز به نصب افزونه‌های جانبی فراهم می‌سازد. ارتقای امنیت سایبری و پشتیبانی از پروتکل‌های استاندارد OPC UA از ویژگی‌های کلیدی این به‌روزرسانی است.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 16:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-wincc-unified-cloud-update",
+      "tags": [
+        "SCADA",
+        "WinCC",
+        "Siemens",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش راهکارهای رباتیک صنعتی با همکاری مشترک ABB و زیمنس در خطوط مونتاژ",
+      "summary": "شرکت‌های ABB و زیمنس از یکپارچه‌سازی عمیق‌تر سیستم‌های کنترل رباتیک با پلتفرم اتوماسیون صنعتی TIA Portal خبر دادند. این همکاری به مهندسان اجازه می‌دهد تا ربات‌های صنعتی را به طور مستقیم از طریق محیط نرم‌افزاری زیمنس برنامه‌نویسی و عیب‌یابی کنند. این راهکار زمان راه‌اندازی خطوط تولید جدید را تا سی درصد کاهش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 16:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/abb-siemens-integration-partnership",
+      "tags": [
+        "ABB",
+        "Siemens",
+        "Robotics",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "رونمایی از ماژول‌های لبه صنعتی جدید سری SIMATIC IPC برای تحلیل داده‌های بلادرنگ",
+      "summary": "زیمنس سبد محصولات کامپیوترهای صنعتی خود را با معرفی مدل‌های جدید SIMATIC IPC توسعه داد. این سخت‌افزارهای مقاوم به منظور اجرای الگوریتم‌های هوش مصنوعی و یادگیری ماشین مستقیماً در لابه لای تجهیزات کارخانه طراحی شده‌اند. این ماژول‌ها نقش مهمی در پیاده‌سازی پروژه‌های نگهداری پیشگیرانه و کاهش زمان توقف ماشین‌آلات ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/27 16:03",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-simatic-ipc-edge-computing",
+      "tags": [
+        "Industrial Edge",
+        "SIMATIC",
+        "Siemens",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای امنیت شبکه‌های اتوماسیون صنعتی با روترهای امنیتی جدید فینیکس کنتاکت",
+      "summary": "شرکت فونیکس کنتاکت نسل جدید روترهای امنیتی شبکه‌های صنعتی را برای حفاظت از زیرساخت‌های حیاتی OT معرفی کرد. این تجهیزات با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته، مانع از دسترسی‌های غیرمجاز به لایه‌های کنترلی PLC می‌شوند. این راهکار به مدیران شبکه اجازه می‌دهد تا ترافیک داده‌های صنعتی را به صورت دقیق مانیتور کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:30",
+      "collected_at": "1405/07/27 16:03",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/phoenix-contact-security-routers",
+      "tags": [
+        "Cybersecurity",
+        "Phoenix Contact",
+        "Networking",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه قابلیت‌های سیستم کنترل فرآیند SIMATIC PCS 7 با افزونه‌های جدید مدیریت انرژی",
+      "summary": "زیمنس بسته نرم‌افزاری جدیدی را برای سیستم کنترل فرآیند دفتری SIMATIC PCS 7 ارائه کرد که بر بهینه‌سازی مصرف انرژی تمرکز دارد. این ماژول‌ها به اپراتورها کمک می‌کنند تا هدررفت انرژی را در واحدهای بزرگ پتروشیمی و پالایشگاهی به حداقل برسانند. این ابزارها گزارش‌های تحلیلی دقیقی برای تطابق با استانداردهای زیست‌محیطی فراهم می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 12:15",
+      "collected_at": "1405/07/27 16:03",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-pcs7-energy-management",
+      "tags": [
+        "DCS",
+        "PCS 7",
+        "Siemens",
+        "Energy"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "راکول اتوماسیون پلتفرم ابری FactoryTalk Hub را برای تحلیل داده‌های کارخانه گسترش داد",
+      "summary": "شرکت راکول اتوماسیون قابلیت‌های جدیدی را به پلتفرم ابری FactoryTalk Hub خود اضافه کرد تا مدیریت داده‌های کارخانه ساده‌تر شود. این بروزرسانی امکان اتصال یکپارچه سیستم‌های کنترل منطقی را به ابزارهای تحلیل تجاری فراهم می‌سازد. این امر به مدیران تولید کمک می‌کند تا تصمیمات بهتری بر اساس داده‌های زنده اتخاذ کنند.",
+      "category": "news",
+      "published_at": "1405/07/27 13:00",
+      "collected_at": "1405/07/27 16:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/rockwell-factorytalk-hub-expansion",
+      "tags": [
+        "Rockwell Automation",
+        "Cloud",
+        "FactoryTalk",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "رونمایی از اینورترهای فرکانس متغیر SINAMICS G120X با استانداردهای نوین بازدهی انرژی",
+      "summary": "زیمنس درایوهای فرکانس متغیر SINAMICS G120X را برای کاربردهای مدیریت آب و فاضلاب و تهویه مطبوع صنعتی به بازار عرضه کرد. این درایوها با طراحی فشرده و بهینه‌سازی تلفات توان، مصرف انرژی پمپ‌ها و فن‌ها را به شدت کاهش می‌دهند. راه‌اندازی و پیکربندی این تجهیزات از طریق پنل‌های اپراتوری و نرم‌افزار به آسانی انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 13:45",
+      "collected_at": "1405/07/27 16:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-sinamics-g120x-drives",
+      "tags": [
+        "Drives",
+        "SINAMICS",
+        "Siemens",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "انتشار هشدار امنیتی CISA درباره آسیب‌پذیری‌های جدید در سیستم‌های کنترل صنعتی",
+      "summary": "آژانس امنیت سایبری و زیرساختی آمریکا (CISA) گزارشی درباره چندین آسیب‌پذیری بحرانی در تجهیزات اتوماسیون صنعتی منتشر کرد. این نقص‌های امنیتی می‌توانند به مهاجمان اجازه دهند تا کنترل تجهیزات لایه فیلد را به دست بگیرند. تولیدکنندگان اصلی از جمله زیمنس و اشنایدر الکتریک بسته‌های اصلاحی خود را برای رفع این موارد عرضه کرده‌اند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 14:30",
+      "collected_at": "1405/07/27 16:03",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/cisa-vulnerability-alert-industrial-controls",
+      "tags": [
+        "Cybersecurity",
+        "CISA",
+        "Vulnerability",
+        "ICS"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "استفاده از هوش مصنوعی مولد در دستیار مهندسی Siemens Industrial Copilot برای طراحی خطوط",
+      "summary": "زیمنس کاربرد ابزار هوش مصنوعی مولد Industrial Copilot را در محیط‌های مهندسی اتوماسیون توسعه داد. این دستیار هوشمند قادر است کدهای برنامه‌نویسی PLC را به صورت خودکار بر اساس توصیفات متنی اپراتور تولید کند. این فناوری نوآورانه زمان طراحی و توسعه پروژه‌های بزرگ صنعتی را تا چهل درصد کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/27 15:15",
+      "collected_at": "1405/07/27 16:03",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-industrial-copilot-ai-update",
+      "tags": [
+        "Artificial Intelligence",
+        "Industrial Copilot",
+        "Siemens",
+        "Engineering"
       ]
     }
   ]
