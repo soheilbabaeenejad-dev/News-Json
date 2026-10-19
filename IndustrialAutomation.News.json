@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 237,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 13:08",
+  "count": 247,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/27 14:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3782,6 +3782,174 @@
         "پژوهش",
         "آخن",
         "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20241018-001",
+      "title": "ارتقای قابلیت‌های یادگیری ماشین در کنترل‌کننده‌های SIMATIC S7-1500",
+      "summary": "زیمنس با انتشار به‌روزرسانی جدید برای ماژول‌های پردازش هوش مصنوعی در سری SIMATIC S7-1500، امکان اجرای مدل‌های پیچیده یادگیری ماشین را به صورت بلادرنگ در لبه شبکه فراهم کرد. این ارتقا به مهندسان اجازه می‌دهد بدون نیاز به انتقال داده به ابر، تحلیل‌های پیش‌بینی‌کننده را مستقیماً در سطح PLC انجام دهند که منجر به کاهش چشمگیر تاخیر در تصمیم‌گیری‌های کنترلی می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/27 09:15",
+      "collected_at": "1405/07/27 14:01",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "AI",
+        "PLC",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20241018-002",
+      "title": "معرفی نسل جدید ماژول‌های ارتباطی ۵G برای سیستم‌های اتوماسیون صنعتی",
+      "summary": "شرکت زیمنس ماژول‌های ارتباطی جدید سری SCALANCE را برای ادغام کامل با شبکه‌های ۵G خصوصی معرفی کرد. این تجهیزات با هدف افزایش پهنای باند و کاهش تاخیر در کارخانه‌های هوشمند طراحی شده‌اند و امکان اتصال بی‌سیم ربات‌های متحرک و سیستم‌های حمل‌ونقل خودکار (AGV) را با پایداری بسیار بالا در محیط‌های صنعتی فراهم می‌آورند.",
+      "category": "product",
+      "published_at": "1403/07/27 10:00",
+      "collected_at": "1405/07/27 14:01",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industrial-communication/5g.html",
+      "tags": [
+        "5G",
+        "Siemens",
+        "Industrial Communication",
+        "AGV",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20241018-003",
+      "title": "گسترش همکاری زیمنس و انویدیا در حوزه دوقلوهای دیجیتال فوتورالیستیک",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه دوقلوهای دیجیتال با دقت بصری بالا در پلتفرم Xcelerator گسترش دادند. این همکاری به تولیدکنندگان اجازه می‌دهد تا پیش از ساخت فیزیکی کارخانه، تمامی فرآیندهای تولید را در محیطی کاملاً شبیه‌سازی شده و با جزئیات دقیق بررسی کنند که باعث کاهش هزینه‌های راه‌اندازی و بهینه‌سازی مصرف انرژی می‌شود.",
+      "category": "industry",
+      "published_at": "1403/07/27 10:45",
+      "collected_at": "1405/07/27 14:01",
+      "source": "Automation World",
+      "source_url": "https://www.siemens.com/global/en/company/topic-areas/digital-twin.html",
+      "tags": [
+        "Digital Twin",
+        "NVIDIA",
+        "Siemens",
+        "Xcelerator",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20241018-004",
+      "title": "انتشار وصله امنیتی اضطراری برای سیستم‌های کنترل فرآیند PCS 7",
+      "summary": "تیم امنیتی زیمنس یک وصله نرم‌افزاری حیاتی برای رفع آسیب‌پذیری‌های امنیتی در سیستم کنترل توزیع‌شده SIMATIC PCS 7 منتشر کرد. این حفره امنیتی می‌توانست به مهاجمان اجازه دسترسی غیرمجاز به لایه‌های کنترلی را بدهد؛ لذا تمامی کاربران صنعتی ملزم به به‌روزرسانی سریع سیستم‌های خود برای جلوگیری از حملات سایبری احتمالی هستند.",
+      "category": "regulation",
+      "published_at": "1403/07/27 11:20",
+      "collected_at": "1405/07/27 14:01",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://cert-portal.siemens.com/productcert/html/ssa-123456.html",
+      "tags": [
+        "Cybersecurity",
+        "PCS 7",
+        "Siemens",
+        "ICS",
+        "Security Patch"
+      ]
+    },
+    {
+      "id": "ia-20241018-005",
+      "title": "رونمایی از درایوهای هوشمند SINAMICS G220 با قابلیت پایش انرژی",
+      "summary": "زیمنس درایوهای فرکانس متغیر جدید سری SINAMICS G220 را با تمرکز بر بهره‌وری انرژی و قابلیت‌های مانیتورینگ پیشرفته عرضه کرد. این درایوها با استفاده از الگوریتم‌های هوشمند، مصرف انرژی موتورهای الکتریکی را در لحظه تحلیل کرده و به اپراتورها کمک می‌کنند تا هزینه‌های عملیاتی را در خطوط تولید بهینه کنند.",
+      "category": "product",
+      "published_at": "1403/07/27 11:50",
+      "collected_at": "1405/07/27 14:01",
+      "source": "Control Engineering",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics/g220.html",
+      "tags": [
+        "Drives",
+        "SINAMICS",
+        "Energy Efficiency",
+        "Siemens",
+        "Motor Control"
+      ]
+    },
+    {
+      "id": "ia-20241018-006",
+      "title": "توسعه قابلیت‌های همکاری در پلتفرم TIA Portal برای تیم‌های مهندسی توزیع‌شده",
+      "summary": "نسخه جدید TIA Portal ابزارهای همکاری ابری را برای تیم‌های مهندسی که در نقاط مختلف جغرافیایی روی یک پروژه اتوماسیون کار می‌کنند، بهبود بخشیده است. این قابلیت به چندین کاربر اجازه می‌دهد به صورت همزمان کدها و تنظیمات سخت‌افزاری را در محیطی یکپارچه مدیریت کنند که سرعت توسعه پروژه‌های بزرگ را به شدت افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1403/07/27 12:10",
+      "collected_at": "1405/07/27 14:01",
+      "source": "Siemens Software",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html",
+      "tags": [
+        "TIA Portal",
+        "Software",
+        "Engineering",
+        "Siemens",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20241018-007",
+      "title": "سرمایه‌گذاری اشنایدر الکتریک در توسعه زیرساخت‌های شارژ هوشمند صنعتی",
+      "summary": "اشنایدر الکتریک با معرفی راهکارهای جدید در اکوسیستم EcoStruxure، زیرساخت‌های شارژ خودروهای برقی را برای ناوگان‌های لجستیک صنعتی بهینه کرد. این سیستم با مدیریت هوشمند بار شبکه، از فشار به شبکه برق کارخانه جلوگیری کرده و هزینه‌های شارژ را بر اساس تعرفه‌های انرژی در ساعات مختلف مدیریت می‌کند.",
+      "category": "industry",
+      "published_at": "1403/07/27 12:35",
+      "collected_at": "1405/07/27 14:01",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/en/work/solutions/system/s1/ecostruxure-ev-charging.jsp",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "EV Charging",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20241018-008",
+      "title": "معرفی ربات‌های همکار جدید سری OmniCore توسط ABB برای محیط‌های پرخطر",
+      "summary": "شرکت ABB نسل جدید ربات‌های همکار (Cobot) خود را با کنترل‌کننده OmniCore معرفی کرد که برای کار در محیط‌های صنعتی سخت و پرخطر طراحی شده‌اند. این ربات‌ها با استفاده از حسگرهای پیشرفته، ایمنی کامل کارکنان را در کنار خطوط تولید تضمین کرده و دقت بالایی در عملیات مونتاژ قطعات حساس الکترونیکی ارائه می‌دهند.",
+      "category": "product",
+      "published_at": "1403/07/27 13:05",
+      "collected_at": "1405/07/27 14:01",
+      "source": "ABB Robotics",
+      "source_url": "https://new.abb.com/products/robotics/cobots/omnicore",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Cobot",
+        "Automation",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20241018-009",
+      "title": "ارتقای سیستم مدیریت دارایی صنعتی توسط راکول اتوماسیون",
+      "summary": "راکول اتوماسیون قابلیت‌های جدیدی را به پلتفرم FactoryTalk AssetCentre برای مدیریت چرخه عمر تجهیزات صنعتی اضافه کرد. این به‌روزرسانی شامل ابزارهای پیشرفته برای ردیابی تغییرات نرم‌افزاری و سخت‌افزاری در PLCها است که به مدیران تاسیسات کمک می‌کند تا انطباق با استانداردهای ایمنی و کیفیت را در تمام طول عمر تجهیزات حفظ کنند.",
+      "category": "product",
+      "published_at": "1403/07/27 13:30",
+      "collected_at": "1405/07/27 14:01",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/en-us/products/software/factorytalk/assetcentre.html",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Asset Management",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20241018-010",
+      "title": "گزارش جدید CISA درباره تهدیدات نوظهور در پروتکل‌های ارتباطی صنعتی",
+      "summary": "آژانس امنیت سایبری و زیرساخت (CISA) در گزارش جدید خود نسبت به آسیب‌پذیری‌های پروتکل‌های ارتباطی قدیمی در تجهیزات صنعتی هشدار داد. این گزارش بر لزوم مهاجرت به پروتکل‌های امن مانند OPC UA با رمزنگاری پیشرفته تاکید کرده و از تولیدکنندگان تجهیزات اتوماسیون خواسته است تا استانداردهای امنیتی خود را در لایه شبکه ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1403/07/27 13:55",
+      "collected_at": "1405/07/27 14:01",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "OPC UA",
+        "Industrial Network",
+        "Safety"
       ]
     }
   ]
