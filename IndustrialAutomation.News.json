@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 178,
+  "count": 187,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 12:03",
+  "updated_at": "1405/07/27 12:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2838,6 +2838,150 @@
         "Cybersecurity",
         "Standards",
         "Power Distribution"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از سیستم پایش انرژی جدید زیمنس برای خطوط تولید پیشرفته",
+      "summary": "شرکت زیمنس از راهکار جامع مدیریت و پایش انرژی SIMATIC Energy Suite 2026 رونمایی کرد. این سیستم به کارخانجات کمک می‌کند تا مصرف برق و گاز را به صورت لحظه‌ای در نرم‌افزار TIA Portal بهینه‌سازی کنند. این فناوری نقش کلیدی در کاهش هزینه‌های عملیاتی و دستیابی به استانداردهای سخت‌گیرانه کربن‌زدایی صنعتی ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:15",
+      "collected_at": "1405/07/27 12:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-energy-suite-2026",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Energy Management",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "انتشار نسخه جدید پلتفرم Industrial Edge زیمنس با قابلیت‌های ابری",
+      "summary": "زیمنس نسخه جدید پلتفرم Industrial Edge خود را با ابزارهای پیشرفته مدیریت ابری عرضه نمود. این نسخه امکان اجرای همزمان برنامه‌های تحلیل داده و یادگیری ماشین را روی کنترل‌کننده‌های SIMATIC فراهم می‌آورد. این رویکرد به مهندسان اجازه می‌دهد تا فرآیندهای مانیتورینگ تجهیزات را با امنیت بالا در لبه شبکه انجام دهند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:45",
+      "collected_at": "1405/07/27 12:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-edge-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Edge Computing",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش قابلیت‌های هوش مصنوعی مولد در Siemens Industrial Copilot",
+      "summary": "دستیار هوشمند Siemens Industrial Copilot اکنون به قابلیت‌های جدیدی برای تولید خودکار کدهای PLC مجهز شده است. این ابزار مبتنی بر هوش مصنوعی مولد، زمان برنامه‌نویسی خطوط تولید را در محیط TIA Portal تا چهل درصد کاهش می‌دهد. مهندسان می‌توانند دستورات متنی را به کدهای استاندارد کنترل صنعتی تبدیل کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 09:00",
+      "collected_at": "1405/07/27 12:05",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/siemens-industrial-copilot-ai",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "Artificial Intelligence",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی کنترل‌کننده ایمن جدید سری SIMATIC Safety Advanced توسط زیمنس",
+      "summary": "زیمنس سبد محصولات ایمنی صنعتی خود را با معرفی کنترل‌کننده SIMATIC Safety Advanced توسعه داد. این ماژول سخت‌افزاری جدید استانداردهای ایمنی SIL 3 را برای خطوط رباتیک پیچیده تضمین می‌کند. این محصول از پروتکل‌های ارتباطی پروفینت ایمن برای تبادل سریع اطلاعات خطا پشتیبانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 09:30",
+      "collected_at": "1405/07/27 12:05",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/siemens-simatic-safety-advanced",
+      "tags": [
+        "Siemens",
+        "Safety",
+        "SIMATIC",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "عرضه ماژول ارتباطی ۵G برای سری کنترل‌کننده‌های SIMATIC S7-1500",
+      "summary": "زیمنس ماژول مخابراتی جدید CP 1543-5G را به بازار عرضه کرد که ارتباط بی‌سیم پرسرعت را برای کنترل‌کننده‌های S7-1500 فراهم می‌سازد. این ماژول صنعتی تأخیر شبکه را به حداقل رسانده و امکان کنترل ربات‌ها را از طریق شبکه‌های ۵G اختصاصی میسر می‌سازد. این فناوری تحولی در انعطاف‌پذیری کارخانه‌های هوشمند ایجاد خواهد کرد.",
+      "category": "product",
+      "published_at": "1405/07/27 10:30",
+      "collected_at": "1405/07/27 12:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-5g-module-s71500",
+      "tags": [
+        "Siemens",
+        "5G",
+        "SIMATIC",
+        "Communications"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای پلتفرم دوقلوی دیجیتال زیمنس برای شبیه‌سازی خطوط مونتاژ",
+      "summary": "نرم‌افزار NX Industrial Amalgamation زیمنس با قابلیت‌های پیشرفته شبیه‌سازی فیزیکی سه‌بعدی به‌روزرسانی شد. این نسخه به طراحان کارخانه اجازه می‌دهد رفتار دینامیکی ربات‌ها و نوار نقاله‌ها را پیش از راه‌اندازی واقعی تست کنند. این ابزار هزینه‌های رفع خطاهای طراحی را در فاز مهندسی به شدت کاهش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/27 11:00",
+      "collected_at": "1405/07/27 12:05",
+      "source": "Digital Engineering",
+      "source_url": "https://www.digitaleng.news/siemens-nx-digital-twin-update",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "NX",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "هشدار امنیتی CISA درباره آسیب‌پذیری جدید در سرورهای WinCC زیمنس",
+      "summary": "آژانس امنیت سایبری CISA با انتشار اطلاعیه‌ای از کشف یک آسیب‌پذیری در نرم‌افزار مانیتورینگ SIMATIC WinCC خبر داد. زیمنس بلافاصله وصله امنیتی اضطراری را برای مسدود کردن این منفذ نفوذ منتشر کرده است. مدیران شبکه باید هرچه سریع‌تر سیستم‌های اسکادا و مانیتورینگ خود را به‌روزرسانی کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 11:15",
+      "collected_at": "1405/07/27 12:05",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-wincc-cisa-alert",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "Cybersecurity",
+        "CISA"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه زیرساخت‌های تولید تراشه‌های صنعتی زیمنس در آلمان",
+      "summary": "شرکت زیمنس سرمایه‌گذاری جدیدی را برای توسعه خطوط تولید نیمه‌هادی‌های تخصصی خود در شهر نورنبرگ آغاز کرد. این تراشه‌ها به‌طور اختصاصی در درایوهای فرکانس متغیر و کنترل‌کننده‌های صنعتی نسل آینده به کار خواهند رفت. هدف از این اقدام کاهش وابستگی زنجیره تامین قطعات الکترونیکی حساس در اروپا است.",
+      "category": "industry",
+      "published_at": "1405/07/27 11:40",
+      "collected_at": "1405/07/27 12:05",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/siemens-semiconductor-investment-germany",
+      "tags": [
+        "Siemens",
+        "Semiconductors",
+        "Manufacturing",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی نسل جدید اینورترهای SINAMICS با قابلیت‌های بهینه‌سازی مصرف برقی",
+      "summary": "زیمنس درایوهای دورمتغیر جدید سری SINAMICS G230 را با فناوری پیشرفته شارژ مجدد انرژی ترمز معرفی کرد. این اینورترها بازدهی تبدیل توان الکتریکی را تا نود و هشت درصد افزایش می‌دهند. این تجهیزات به نرم‌افزار TIA Portal متصل شده و پارامترهای حرارتی موتور را به صورت مداوم پایش می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 12:00",
+      "collected_at": "1405/07/27 12:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sinamics-g230-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
       ]
     }
   ]
