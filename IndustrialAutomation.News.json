@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 120,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 11:03",
+  "count": 130,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/27 11:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1920,6 +1920,166 @@
         "AI",
         "Research",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-001",
+      "title": "همکاری زیمنس و سونی برای توسعه هدست‌های واقعیت ترکیبی صنعتی",
+      "summary": "زیمنس و سونی در حال همکاری برای تولید یک سیستم مهندسی محتوای فضایی جدید هستند که از هدست‌های واقعیت ترکیبی (XR) سونی بهره می‌برد. این راهکار به مهندسان اجازه می‌دهد تا دوقلوهای دیجیتال را در محیطی غوطه‌ور طراحی، ویرایش و بررسی کنند. این سیستم با نرم‌افزار NX زیمنس ادغام شده و دقت طراحی را در صنایع پیچیده به شدت افزایش می‌دهد. این همکاری گامی بزرگ در جهت تحقق متاورس صنعتی است.",
+      "category": "industry",
+      "published_at": "1403/07/27 08:30",
+      "collected_at": "1405/07/27 11:04",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-sony-partner-enable-industrial-metaverse",
+      "tags": [
+        "Siemens",
+        "Sony",
+        "Industrial Metaverse",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20241018-002",
+      "title": "ارتقای پردازش هوش مصنوعی در لبه با ماژول جدید SIMATIC S7-1500 TM NPU",
+      "summary": "زیمنس ماژول پردازش عصبی (NPU) جدیدی را برای کنترلرهای S7-1500 عرضه کرده است که امکان اجرای الگوریتم‌های یادگیری عمیق را در سطح PLC فراهم می‌کند. این سخت‌افزار برای کاربردهایی مانند بازرسی بصری کیفیت و بهینه‌سازی فرآیندها به صورت بلادرنگ طراحی شده است. استفاده از این ماژول نیاز به انتقال داده به ابر را کاهش داده و امنیت داده‌های حساس صنعتی را تضمین می‌کند. این محصول با استفاده از تراشه هوش مصنوعی اینتل کار می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/27 09:15",
+      "collected_at": "1405/07/27 11:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/33005412/siemens-simatic-s71500-tm-npu",
+      "tags": [
+        "Siemens",
+        "PLC",
+        "AI",
+        "S7-1500"
+      ]
+    },
+    {
+      "id": "ia-20241018-003",
+      "title": "معرفی سیستم جدید هانی‌ول برای شناسایی تهدیدات سایبری در شبکه‌های عملیاتی",
+      "summary": "شرکت هانی‌ول از راهکار جدید Cyber Watch برای پایش مداوم دارایی‌های صنعتی و شناسایی ناهنجاری‌های امنیتی در لایه OT رونمایی کرد. این سیستم با استفاده از تحلیل پیشرفته ترافیک شبکه، حملات احتمالی به سیستم‌های کنترل توزیع‌شده (DCS) را در مراحل اولیه شناسایی می‌کند. این ابزار به مدیران سایت‌های صنعتی کمک می‌کند تا انطباق با استانداردهای امنیتی مانند IEC 62443 را بهبود بخشند و از توقف تولید جلوگیری کنند.",
+      "category": "regulation",
+      "published_at": "1403/07/27 09:45",
+      "collected_at": "1405/07/27 11:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/honeywell-introduces-new-cybersecurity-solution-for-ot/",
+      "tags": [
+        "Honeywell",
+        "Cybersecurity",
+        "OT",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20241018-004",
+      "title": "همکاری زیمنس و رد هت برای استفاده از لینوکس سازمانی در لبه صنعتی",
+      "summary": "زیمنس و شرکت رد هت همکاری جدیدی را برای ادغام سیستم‌عامل Red Hat Enterprise Linux با پلتفرم Siemens Industrial Edge آغاز کرده‌اند. این همکاری با هدف استانداردسازی زیرساخت‌های نرم‌افزاری در کارخانه‌ها و تسهیل مدیریت کانتینرها در مقیاس بزرگ انجام می‌شود. این راهکار به تولیدکنندگان اجازه می‌دهد تا برنامه‌های کاربردی را با امنیت و پایداری بیشتری در محیط‌های تولیدی اجرا کنند و از مزایای متن‌باز بهره‌مند شوند.",
+      "category": "company",
+      "published_at": "1403/07/27 10:05",
+      "collected_at": "1405/07/27 11:04",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/siemens-red-hat-partner-industrial-edge-computing-2024-01-10/",
+      "tags": [
+        "Siemens",
+        "Red Hat",
+        "Industrial Edge",
+        "Linux"
+      ]
+    },
+    {
+      "id": "ia-20241018-005",
+      "title": "رونمایی اشنایدر الکتریک از ربات‌های جدید Lexium Scara برای خطوط بسته‌بندی",
+      "summary": "اشنایدر الکتریک سری جدید ربات‌های Lexium Scara را معرفی کرد که برای افزایش بهره‌وری در عملیات برداشت و جابجایی (Pick and Place) طراحی شده‌اند. این ربات‌ها به طور کامل با معماری EcoStruxure ادغام شده و زمان راه‌اندازی سیستم را تا ۴۰ درصد کاهش می‌دهند. طراحی فشرده و دقت بالای این بازوهای رباتیک، آن‌ها را برای صنایع الکترونیک، غذا و دارو بسیار ایده‌آل کرده است. این سیستم از پروتکل‌های ارتباطی استاندارد صنعتی پشتیبانی می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/27 10:20",
+      "collected_at": "1405/07/27 11:04",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/automation-motion-control/schneider-electric-unveils-lexium-scara-robots",
+      "tags": [
+        "Schneider Electric",
+        "Robotics",
+        "Packaging",
+        "EcoStruxure"
+      ]
+    },
+    {
+      "id": "ia-20241018-006",
+      "title": "به‌روزرسانی ابزار TIA Selection Tool زیمنس با قابلیت‌های هوشمند انتخاب تجهیزات",
+      "summary": "زیمنس نسخه جدید ابزار ابری TIA Selection Tool را با قابلیت‌های پیشرفته برای پیکربندی خودکار تابلوهای برق و سیستم‌های اتوماسیون منتشر کرد. این به‌روزرسانی شامل کتابخانه‌های جدید برای درایوهای SINAMICS و ماژول‌های تغذیه SITOP است که خطاهای طراحی مهندسی را به حداقل می‌رساند. کاربران اکنون می‌توانند لیست قطعات (BOM) خود را مستقیماً به سیستم‌های سفارش‌گذاری آنلاین متصل کرده و زمان مهندسی پروژه را کاهش دهند.",
+      "category": "topic",
+      "published_at": "1403/07/27 10:35",
+      "collected_at": "1405/07/27 11:04",
+      "source": "Siemens Global",
+      "source_url": "https://mall.industry.siemens.com/spice/tstweb/",
+      "tags": [
+        "Siemens",
+        "TIA Selection Tool",
+        "Engineering",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241018-007",
+      "title": "بهینه‌سازی سیستم کنترل DeltaV امرسون برای صنایع علوم زیستی و داروسازی",
+      "summary": "شرکت امرسون قابلیت‌های جدیدی را به سیستم کنترل فرآیند DeltaV اضافه کرده است که فرآیند تولید داروهای بیولوژیک را تسریع می‌کند. این به‌روزرسانی شامل ابزارهای تحلیل داده‌های دسته‌ای (Batch) و مدیریت یکپارچه دستورالعمل‌های تولید مطابق با استانداردهای سخت‌گیرانه FDA است. این فناوری به شرکت‌های دارویی اجازه می‌دهد تا زمان عرضه محصولات جدید به بازار را به شکل چشمگیری کاهش داده و کیفیت محصول نهایی را تضمین کنند.",
+      "category": "industry",
+      "published_at": "1403/07/27 10:42",
+      "collected_at": "1405/07/27 11:04",
+      "source": "Pharmaceutical Technology",
+      "source_url": "https://www.pharmaceutical-technology.com/news/emerson-deltav-life-sciences-update/",
+      "tags": [
+        "Emerson",
+        "DeltaV",
+        "Pharma",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20241018-008",
+      "title": "هشدار امنیتی CISA درباره آسیب‌پذیری‌های بحرانی در نرم‌افزارهای راکول اتوماسیون",
+      "summary": "آژانس امنیت زیرساخت و امنیت سایبری آمریکا (CISA) هشداری در مورد چندین آسیب‌پذیری بحرانی در نرم‌افزار FactoryTalk AssetCentre صادر کرد. این حفره‌های امنیتی می‌توانند به مهاجمان اجازه دهند تا کدهای مخرب را از راه دور اجرا کرده و کنترل سیستم‌های صنعتی حساس را به دست بگیرند. به کاربران و مدیران شبکه توصیه شده است که سریعاً وصله‌های امنیتی ارائه شده توسط راکول اتوماسیون را برای جلوگیری از نفوذ نصب کنند.",
+      "category": "regulation",
+      "published_at": "1403/07/27 10:50",
+      "collected_at": "1405/07/27 11:04",
+      "source": "CISA Advisory",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-123-01",
+      "tags": [
+        "CISA",
+        "Rockwell Automation",
+        "Cybersecurity",
+        "Vulnerability"
+      ]
+    },
+    {
+      "id": "ia-20241018-009",
+      "title": "استفاده از سیستم مکان‌یابی آنی زیمنس برای بهینه‌سازی لجستیک پایدار",
+      "summary": "زیمنس راهکار جدیدی مبتنی بر فناوری SIMATIC RTLS ارائه کرده است که با ردیابی دقیق دارایی‌ها در انبارها، مصرف انرژی ناوگان ربات‌های خودگردان (AGV) را کاهش می‌دهد. این سیستم با ایجاد شفافیت کامل در زنجیره تامین داخلی، مسیرهای حرکت را بهینه کرده و از ترافیک غیرضروری در سالن‌های تولید جلوگیری می‌کند. این پروژه بخشی از استراتژی زیمنس برای دستیابی به تولید با کربن صفر در کارخانه‌های هوشمند آینده است.",
+      "category": "research",
+      "published_at": "1403/07/27 10:58",
+      "collected_at": "1405/07/27 11:04",
+      "source": "Supply Chain Digital",
+      "source_url": "https://supplychaindigital.com/technology/siemens-rtls-sustainable-logistics-optimization",
+      "tags": [
+        "Siemens",
+        "RTLS",
+        "Logistics",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20241018-010",
+      "title": "معرفی راهکار اتوماسیون جدید ABB برای مدیریت سیستم‌های ذخیره‌سازی انرژی",
+      "summary": "شرکت ABB یک پلتفرم کنترلی جدید برای سیستم‌های ذخیره‌سازی انرژی باتری (BESS) معرفی کرد که پایداری شبکه‌های برق صنعتی را بهبود می‌بخشد. این سیستم با استفاده از الگوریتم‌های پیشرفته، شارژ و تخلیه باتری‌ها را بر اساس تقاضای لحظه‌ای و قیمت برق مدیریت می‌کند. این راهکار به صنایع بزرگ کمک می‌کند تا سهم انرژی‌های تجدیدپذیر را در سبد مصرفی خود بدون ریسک قطعی برق یا نوسانات شدید افزایش دهند.",
+      "category": "economy",
+      "published_at": "1403/07/27 11:02",
+      "collected_at": "1405/07/27 11:04",
+      "source": "Power Engineering",
+      "source_url": "https://www.power-eng.com/energy-storage/abb-launches-new-automation-for-bess/",
+      "tags": [
+        "ABB",
+        "Energy Storage",
+        "BESS",
+        "Smart Grid"
       ]
     }
   ]
