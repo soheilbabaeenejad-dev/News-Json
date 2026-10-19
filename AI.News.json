@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 80,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/27 05:18",
+  "count": 90,
+  "provider": "Gemini/gemini-3.7-flash",
+  "updated_at": "1405/07/27 07:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1247,6 +1247,166 @@
         "اپل",
         "آیفون",
         "Apple Intelligence"
+      ]
+    },
+    {
+      "id": "ai-20261018-001",
+      "title": "رونمایی اوپن‌ای‌آی از موتور جستجوی اختصاصی چت‌جی‌پی‌تی برای رقابت مستقیم با گوگل",
+      "summary": "شرکت اوپن‌ای‌آی رسماً قابلیت جستجوی مستقیم وب را در محیط چت‌جی‌پی‌تی ادغام کرد تا پاسخی سریع به جستجوهای لحظه‌ای ارائه دهد. این ابزار با بهره‌گیری از نسخه سفارشی GPT-4o نتایج وب را به همراه لینک مستقیم به منابع معتبر خبری نمایش می‌دهد. این اقدام تهدیدی مستقیم برای تسلط سنتی گوگل بر بازار موتورهای جستجو به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/27 06:45",
+      "collected_at": "1405/07/27 07:00",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/2024/10/31/24283999/openai-chatgpt-search-engine-google",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "Search",
+        "Google"
+      ]
+    },
+    {
+      "id": "ai-20261018-002",
+      "title": "معرفی مدل متن‌باز قوی Nemotron-4 340B توسط انویدیا برای تولید داده‌های مصنوعی",
+      "summary": "انویدیا از خانواده مدل‌های پیشرفته Nemotron-4 با ظرفیت ۳۴۰ میلیارد پارامتر پرده برداشت که به‌طور ویژه برای تولید داده‌های باکیفیت ترکیبی طراحی شده‌اند. این ابزار به کسب‌وکارها امکان می‌دهد مدل‌های تخصصی خود را بدون نیاز به داده‌های تجاری پرهزینه آموزش دهند و به ادعای انویدیا دقت ارزیابی بالاتری نسبت به رقبای خود ارائه می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/27 06:15",
+      "collected_at": "1405/07/27 07:00",
+      "source": "VentureBeat",
+      "source_url": "https://venturebeat.com/ai/nvidia-nemotron-4-340b-synthetic-data-generation/",
+      "tags": [
+        "Nvidia",
+        "Nemotron",
+        "OpenSource",
+        "SyntheticData"
+      ]
+    },
+    {
+      "id": "ai-20261018-003",
+      "title": "توسعه مدل هوش مصنوعی Genie 2 توسط گوگل دیپ‌مایند برای ساخت جهان‌های سه‌بعدی تعاملی",
+      "summary": "بخش هوش مصنوعی دیپ‌مایند گوگل از مدل بنیادی Genie 2 رونمایی کرد که قادر است تنها با دریافت یک تصویر یا متن کوتاه، محیط‌های سه‌بعدی تعاملی و قابل بازی خلق کند. این سیستم فیزیک حرکت و پرسپکتیو را در لحظه شبیه‌سازی می‌کند و کاربردی وسیع در آموزش ربات‌ها و طراحی اتوماتیک بازی‌های ویدیویی دارد.",
+      "category": "research",
+      "published_at": "1405/07/27 05:40",
+      "collected_at": "1405/07/27 07:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2024/12/05/google-deepmind-unveils-genie-2-interactive-virtual-worlds/",
+      "tags": [
+        "GoogleDeepMind",
+        "Genie2",
+        "Gaming",
+        "WorldModels"
+      ]
+    },
+    {
+      "id": "ai-20261018-004",
+      "title": "سرمایه‌گذاری چند میلیارد دلاری سافت‌بانک در پروژه‌های پردازشی مشترک با انویدیا",
+      "summary": "گروه مالی سافت‌بانک ژاپن اعلام کرد برای ساخت بزرگ‌ترین شبکه ابرکامپیوترهای مبتنی بر تراشه‌های Blackwell در ژاپن سرمایه‌گذاری عظیمی انجام می‌دهد. این پروژه مشترک با استفاده از پلتفرم‌های سوپرچیپ GB200 انویدیا اجرا می‌شود و زیرساخت ارتباطی تلکام ژاپن را به یک شبکه سراسری پردازش هوش مصنوعی تبدیل خواهد کرد.",
+      "category": "industry",
+      "published_at": "1405/07/27 05:10",
+      "collected_at": "1405/07/27 07:00",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/softbank-nvidia-partner-japan-supercomputer-2024-11-13/",
+      "tags": [
+        "SoftBank",
+        "Nvidia",
+        "Blackwell",
+        "Infrastructure"
+      ]
+    },
+    {
+      "id": "ai-20261018-005",
+      "title": "مستقل‌سازی شرکت تابعه Supercomputing توسط مایکروسافت جهت شتاب‌بخشی به کشف مواد نوین",
+      "summary": "مایکروسافت ابتکار جدیدی را برای شبیه‌سازی ساختار مولکولی و داروسازی کوانتومی با اتکا به مدل‌های یادگیری عمیق توسعه داده است. این پلتفرم با تحلیل پیوندهای اتمی در مقیاس بسیار وسیع، زمان کشف آلیاژها و سلول‌های باتری با بازدهی بالا را از چندین سال به چند ماه کاهش داده و همکاری گسترده‌ای را با دانشگاه‌های صنعتی آغاز کرده است.",
+      "category": "research",
+      "published_at": "1405/07/27 04:35",
+      "collected_at": "1405/07/27 07:00",
+      "source": "Microsoft Blog",
+      "source_url": "https://blogs.microsoft.com/blog/2024/09/24/accelerating-scientific-discovery-with-ai/",
+      "tags": [
+        "Microsoft",
+        "ScientificAI",
+        "MaterialsDiscovery",
+        "Quantum"
+      ]
+    },
+    {
+      "id": "ai-20261018-006",
+      "title": "راه‌اندازی قابلیت جدید کنترل دسکتاپ Computer Use توسط آنتروپیک در مدل کلاود",
+      "summary": "شرکت آنتروپیک قابلیتی پیشگامانه تحت عنوان Computer Use برای مدل Claude معرفی کرد که به آن امکان کنترل مستقیم ماوس، صفحه‌کلید و مرورگر کاربر را می‌دهد. این ابزار وظایف روزمره چندمرحله‌ای اداری را بدون نیاز به کدنویسی مستقل انجام می‌دهد و گامی مهم در جهت تحقق عامل‌های هوشمند خودمختار نرم‌افزاری محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 03:50",
+      "collected_at": "1405/07/27 07:00",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com/information-technology/2024/10/anthropics-claude-can-now-use-a-computer-like-a-human/",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "ComputerUse",
+        "AIAgents"
+      ]
+    },
+    {
+      "id": "ai-20261018-007",
+      "title": "تشکیل ائتلاف جهانی شرکت‌های بزرگ برای نشانه‌گذاری اجباری محتوای هوش مصنوعی با استاندارد C2PA",
+      "summary": "کنسرسیومی شامل ادوبی، مایکروسافت، گوگل و سونی بر اجرای یکپارچه پروتکل بین‌المللی C2PA در پلتفرم‌های خود توافق کردند. هدف این توافق، درج فراداده‌های ضدجعل و برچسب‌گذاری رمزنگاری‌شده در فایل‌های صوتی و تصویری تولیدی هوش مصنوعی است تا اصالت محتوا به منظور مقابله با کمپین‌های نشر اطلاعات گمراه‌کننده تایید شود.",
+      "category": "regulation",
+      "published_at": "1405/07/27 03:15",
+      "collected_at": "1405/07/27 07:00",
+      "source": "CNET",
+      "source_url": "https://www.cnet.com/tech/services-and-software/tech-giants-agree-to-watermark-ai-content-c2pa/",
+      "tags": [
+        "C2PA",
+        "Deepfake",
+        "Ethics",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ai-20261018-008",
+      "title": "رونمایی هوآوی از تراشه قدرتمند Ascend 910C برای شکستن انحصار پردازنده‌های غربی",
+      "summary": "شرکت فناوری هوآوی آزمایش‌های گسترده تراشه هوش مصنوعی Ascend 910C را با هدف جایگزینی مستقیم پردازنده‌های H100 انویدیا در شرکت‌های بزرگ چینی به پایان رساند. علی‌رغم تحریم‌های تکنولوژیک، این پردازنده پیشرفته به شرکت‌های مخابراتی چین امکان می‌دهد تا سرورهای آموزش مدل‌های زبانی خود را بدون وقفه توسعه دهند.",
+      "category": "industry",
+      "published_at": "1405/07/27 02:30",
+      "collected_at": "1405/07/27 07:00",
+      "source": "Wall Street Journal",
+      "source_url": "https://www.wsj.com/tech/ai/huawei-nears-release-of-new-chip-to-challenge-nvidia-in-china-0df7e51c",
+      "tags": [
+        "Huawei",
+        "Ascend910C",
+        "Semiconductors",
+        "China"
+      ]
+    },
+    {
+      "id": "ai-20261018-009",
+      "title": "توسعه مدل استدلال ریاضی Minerva 2 توسط پژوهشگران برای اثبات نظریه‌های هندسی",
+      "summary": "محققان از توسعه سیستم هوش مصنوعی نوینی بر پایه معماری ترنسفورمرهای تکامل‌یافته خبر دادند که قادر به حل خودکار مسائل هندسه تحلیلی در سطح مسابقات جهانی ریاضی است. این مدل با ترکیب استنتاج زنجیره‌ای و حل‌کننده‌های نمادین، نرخ موفقیت بالاتری در فرموله‌سازی اثبات‌های علمی بدون کمک انسانی به نمایش گذاشته است.",
+      "category": "research",
+      "published_at": "1405/07/27 01:45",
+      "collected_at": "1405/07/27 07:00",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2024/07/25/1095314/ai-olympiad-math-gold-medal/",
+      "tags": [
+        "MathAI",
+        "Reasoning",
+        "Transformers",
+        "Science"
+      ]
+    },
+    {
+      "id": "ai-20261018-010",
+      "title": "راه‌اندازی نیروگاه‌های کوچک هسته‌ای توسط آمازون و گوگل برای تامین برق مراکز هوش مصنوعی",
+      "summary": "غول‌های ابری گوگل و آمازون قراردادهای بلندمدت چند میلیارد دلاری را برای ساخت راکتورهای مدولار کوچک (SMR) امضا کردند تا توان پاک و شبانه‌روزی مراکز داده آنها تامین شود. این توافقات تاریخی به دلیل تقاضای فزاینده مدل‌های یادگیری ژنراتیو برای تامین برق پایدار و هم‌راستا با اهداف کربن‌صفر منعقد شده‌اند.",
+      "category": "economy",
+      "published_at": "1405/07/27 00:55",
+      "collected_at": "1405/07/27 07:00",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2024-10-16/amazon-joins-google-in-backing-nuclear-power-for-ai-data-centers",
+      "tags": [
+        "NuclearEnergy",
+        "DataCenters",
+        "Amazon",
+        "Google"
       ]
     }
   ]
