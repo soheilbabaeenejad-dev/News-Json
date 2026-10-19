@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 468,
+  "count": 478,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/27 21:41",
+  "updated_at": "1405/07/27 22:10",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -7518,6 +7518,166 @@
         "I/O",
         "Industrial Hardware",
         "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241018-001",
+      "title": "ارتقای قابلیت‌های تحلیل داده در پلتفرم Siemens Insights Hub",
+      "summary": "زیمنس به‌روزرسانی جدیدی برای پلتفرم Insights Hub ارائه کرده است که امکان تحلیل بلادرنگ داده‌های عملیاتی را فراهم می‌کند. این ابزار با استفاده از الگوریتم‌های پیشرفته، بهره‌وری تجهیزات را در خطوط تولید افزایش می‌دهد و امکان پیش‌بینی خرابی‌ها را تا ۳۰ درصد بهبود می‌بخشد. این قابلیت جدید به مدیران کارخانه‌ها کمک می‌کند تا تصمیمات داده‌محور دقیق‌تری اتخاذ کنند.",
+      "category": "product",
+      "published_at": "1403/07/27 09:00",
+      "collected_at": "1405/07/27 22:10",
+      "source": "Siemens Press",
+      "source_url": "https://siemens.com/press/insights-hub-update",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "IIoT",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20241018-002",
+      "title": "توسعه راهکارهای اتوماسیون مبتنی بر ۵G در کارخانه‌های هوشمند",
+      "summary": "زیمنس با همکاری اپراتورهای مخابراتی، زیرساخت‌های شبکه ۵G خصوصی را برای محیط‌های صنعتی بهینه کرده است. این فناوری امکان اتصال بی‌سیم ربات‌های متحرک و سیستم‌های AGV را با تاخیر بسیار کم فراهم می‌سازد. با پیاده‌سازی این شبکه، انعطاف‌پذیری خطوط تولید در کارخانه‌های خودروسازی به شکل قابل توجهی افزایش می‌یابد.",
+      "category": "industry",
+      "published_at": "1403/07/27 10:15",
+      "collected_at": "1405/07/27 22:10",
+      "source": "Industrial Automation News",
+      "source_url": "https://industry-news.com/5g-industrial-automation",
+      "tags": [
+        "5G",
+        "Industrial Network",
+        "Robotics",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-003",
+      "title": "معرفی نسل جدید ماژول‌های پردازشی SIMATIC ET 200MP",
+      "summary": "زیمنس ماژول‌های پردازشی جدیدی را برای سیستم ET 200MP معرفی کرده است که سرعت پردازش ورودی/خروجی‌ها را تا دو برابر افزایش می‌دهد. این ماژول‌ها برای کاربردهای با سرعت بالا مانند ماشین‌های بسته‌بندی دقیق طراحی شده‌اند و با TIA Portal کاملاً سازگار هستند. این ارتقا باعث کاهش زمان سیکل کاری در ماشین‌آلات پیچیده می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/27 11:30",
+      "collected_at": "1405/07/27 22:10",
+      "source": "Siemens Industry Mall",
+      "source_url": "https://mall.industry.siemens.com/et200mp-new",
+      "tags": [
+        "SIMATIC",
+        "ET 200MP",
+        "PLC",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241018-004",
+      "title": "همکاری استراتژیک راکول اتوماسیون و مایکروسافت در حوزه دوقلوهای دیجیتال",
+      "summary": "راکول اتوماسیون با ادغام پلتفرم FactoryTalk با سرویس‌های ابری Azure، قابلیت‌های دوقلوی دیجیتال خود را توسعه داده است. این همکاری به کاربران اجازه می‌دهد تا شبیه‌سازی‌های پیچیده فرآیندی را در محیط ابری اجرا کنند. هدف از این پروژه، کاهش هزینه‌های راه‌اندازی و بهینه‌سازی مصرف انرژی در صنایع سنگین است.",
+      "category": "company",
+      "published_at": "1403/07/27 13:00",
+      "collected_at": "1405/07/27 22:10",
+      "source": "Automation World",
+      "source_url": "https://automationworld.com/rockwell-microsoft-partnership",
+      "tags": [
+        "Rockwell Automation",
+        "Azure",
+        "Digital Twin",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20241018-005",
+      "title": "انتشار وصله امنیتی برای درایوهای SINAMICS توسط زیمنس",
+      "summary": "زیمنس یک به‌روزرسانی امنیتی حیاتی برای درایوهای سری SINAMICS منتشر کرده است تا آسیب‌پذیری‌های شناسایی شده در پروتکل‌های ارتباطی را برطرف کند. این وصله از دسترسی‌های غیرمجاز به پارامترهای درایو جلوگیری کرده و امنیت لایه OT را تقویت می‌کند. تمامی کاربران سیستم‌های اتوماسیون صنعتی باید نسبت به نصب این به‌روزرسانی اقدام کنند.",
+      "category": "regulation",
+      "published_at": "1403/07/27 14:45",
+      "collected_at": "1405/07/27 22:10",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://cert-portal.siemens.com/sinamics-security",
+      "tags": [
+        "Cybersecurity",
+        "SINAMICS",
+        "OT Security",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-006",
+      "title": "رونمایی از سیستم مدیریت انرژی هوشمند اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک از راهکار جدیدی برای مدیریت کربن و انرژی در صنایع رونمایی کرد که با سیستم‌های کنترل موجود یکپارچه می‌شود. این نرم‌افزار با تحلیل داده‌های مصرف انرژی از طریق سنسورهای هوشمند، نقاط هدررفت را شناسایی می‌کند. این سیستم به شرکت‌ها کمک می‌کند تا به اهداف پایداری و کاهش آلایندگی خود دست یابند.",
+      "category": "product",
+      "published_at": "1403/07/27 16:20",
+      "collected_at": "1405/07/27 22:10",
+      "source": "Schneider Electric News",
+      "source_url": "https://se.com/energy-management-solution",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Sustainability",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20241018-007",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در نرم‌افزار مهندسی TIA Portal",
+      "summary": "زیمنس قابلیت‌های جدیدی مبتنی بر هوش مصنوعی را به محیط TIA Portal اضافه کرده است که به برنامه‌نویسان PLC در عیب‌یابی کدها کمک می‌کند. این دستیار هوشمند می‌تواند خطاهای منطقی را شناسایی و پیشنهادات بهینه‌سازی ارائه دهد. این نوآوری زمان مهندسی و توسعه پروژه‌های اتوماسیون را به طور قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1403/07/27 17:50",
+      "collected_at": "1405/07/27 22:10",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://siemens.com/tia-portal-ai",
+      "tags": [
+        "TIA Portal",
+        "AI",
+        "Programming",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20241018-008",
+      "title": "رشد بازار ربات‌های همکار در صنایع الکترونیک",
+      "summary": "گزارش‌های جدید نشان می‌دهد که تقاضا برای ربات‌های همکار (Cobots) در خطوط مونتاژ الکترونیک به دلیل نیاز به دقت بالا افزایش یافته است. شرکت‌های پیشرو در حال جایگزینی فرآیندهای دستی با ربات‌های مجهز به بینایی ماشین هستند. این روند باعث افزایش نرخ تولید و کاهش خطاهای انسانی در مونتاژ قطعات حساس شده است.",
+      "category": "industry",
+      "published_at": "1403/07/27 19:10",
+      "collected_at": "1405/07/27 22:10",
+      "source": "Robotics Business Review",
+      "source_url": "https://robotics-review.com/cobots-electronics",
+      "tags": [
+        "Robotics",
+        "Cobots",
+        "Electronics",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20241018-009",
+      "title": "معرفی سوئیچ‌های صنعتی جدید سری SCALANCE X-300",
+      "summary": "زیمنس نسل جدید سوئیچ‌های صنعتی SCALANCE X-300 را برای شبکه‌های پرسرعت صنعتی عرضه کرد. این سوئیچ‌ها از پروتکل‌های امنیتی پیشرفته پشتیبانی کرده و برای محیط‌های سخت صنعتی با نویز الکترومغناطیسی بالا طراحی شده‌اند. این تجهیزات زیرساخت شبکه پایداری را برای انتقال داده‌های حجیم در سیستم‌های DCS فراهم می‌کنند.",
+      "category": "product",
+      "published_at": "1403/07/27 20:30",
+      "collected_at": "1405/07/27 22:10",
+      "source": "Siemens Networking",
+      "source_url": "https://siemens.com/scalance-x300",
+      "tags": [
+        "Networking",
+        "SCALANCE",
+        "Industrial Ethernet",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-010",
+      "title": "بررسی تاثیر دوقلوهای دیجیتال بر بهینه‌سازی زنجیره تامین",
+      "summary": "مطالعات اخیر نشان می‌دهد که استفاده از دوقلوهای دیجیتال در زنجیره تامین صنعتی، دقت پیش‌بینی موجودی را تا ۲۵ درصد بهبود داده است. با شبیه‌سازی جریان کالا در کارخانه، مدیران می‌توانند گلوگاه‌های تولید را پیش از وقوع شناسایی کنند. این فناوری به عنوان یکی از ارکان اصلی تحول دیجیتال در صنایع بزرگ شناخته می‌شود.",
+      "category": "research",
+      "published_at": "1403/07/27 21:50",
+      "collected_at": "1405/07/27 22:10",
+      "source": "Industrial Research Journal",
+      "source_url": "https://research-journal.com/digital-twin-supply-chain",
+      "tags": [
+        "Digital Twin",
+        "Supply Chain",
+        "Industry 4.0",
+        "Research"
       ]
     }
   ]
