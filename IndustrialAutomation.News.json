@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 149,
+  "count": 158,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 11:35",
+  "updated_at": "1405/07/27 12:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2384,6 +2384,150 @@
         "HMI",
         "Unified Comfort",
         "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش کاربرد هوش مصنوعی صنعتی با به‌روزرسانی Industrial Copilot زیمنس",
+      "summary": "زیمنس قابلیت‌های جدیدی را به دستیار هوش مصنوعی صنعتی خود موسوم به Industrial Copilot اضافه کرد که به اپراتورها اجازه می‌دهد کدهای PLC را با دستورات زبان طبیعی بنویسند. این ابزار پیشرفته با اتصال مستقیم به مستندات فنی تجهیزات SIMATIC، سرعت عیب‌یابی خطاهای خطوط تولید را تا چهل درصد افزایش می‌دهد. این توسعه گامی مهم در جهت کاهش وابستگی به برنامه‌نویسان متخصص در کارخانه‌های هوشمند است.",
+      "category": "news",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 12:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-copilot-update",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "AI",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای پلتفرم مانیتورینگ WinCC Unified برای مدیریت بهینه انرژی",
+      "summary": "نسخه جدید نرم‌افزار SIMATIC WinCC Unified زیمنس با قابلیت‌های پیشرفته تجزیه و تحلیل مصرف انرژی در صنایع سنگین عرضه شد. این سامانه جامع به مهندسان اجازه می‌دهد تا داده‌های مصرف برق، گاز و آب را به صورت بلادرنگ در داشبوردهای گرافیکی وب‌محور رصد کنند. هدف اصلی این به‌روزرسانی کمک به صنایع برای دستیابی به اهداف کربن‌زدایی و استانداردهای پایداری زیست‌محیطی است.",
+      "category": "product",
+      "published_at": "1405/07/27 09:45",
+      "collected_at": "1405/07/27 12:00",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/siemens-wincc-unified-energy",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری زیمنس و فستو برای توسعه استانداردهای پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو طی توافقی راهبردی، سامانه‌های پنوماتیک صنعتی را با کنترل‌کننده‌های SIMATIC S7-1500 به صورت بومی یکپارچه‌سازی کردند. این همکاری امکان انتقال مستقیم داده‌های تشخیصی عملگرهای بادی را از طریق پروتکل PROFINET فراهم می‌آورد. این راهکار جدید موجب افزایش بهره‌وری و کاهش چشمگیر هزینه‌های تعمیر و نگهداری پیشگیرانه در خطوط مونتاژ می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/27 10:10",
+      "collected_at": "1405/07/27 12:00",
+      "source": "IEngineering",
+      "source_url": "https://www.iengineering.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "PROFINET",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "رونمایی از گیت‌وی صنعتی جدید SCALANCE برای ارتباط امن لبه شبکه",
+      "summary": "زیمنس خانواده جدیدی از روترها و سوئیچ‌های امنیت سایبری صنعتی سری SCALANCE را برای حفاظت از شبکه‌های OT معرفی کرد. این تجهیزات با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته و دیوارهای آتش یکپارچه، از زیرساخت‌های حیاتی در برابر نفوذهای سایبری محافظت می‌کنند. این گیت‌وی‌ها به طور کامل با معماری پلتفرم Siemens Xcelerator سازگاری دارند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:35",
+      "collected_at": "1405/07/27 12:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-scalance-security",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Cybersecurity",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه دوقلوی دیجیتال خطوط مونتاژ با نرم‌افزار Tecnomatix زیمنس",
+      "summary": "نسخه به‌روزرسانی شده نرم‌افزار Tecnomatix زیمنس ابزارهای جدیدی برای شبیه‌سازی دقیق رفتار ربات‌های صنعتی در فضای سه‌بعدی ارائه داده است. این قابلیت به طراحان کارخانه اجازه می‌دهد پیش از نصب فیزیکی تجهیزات، تمامی تداخلات حرکتی را بررسی کنند. این فناوری نوآورانه زمان راه‌اندازی خطوط تولید جدید را تا سی درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 11:00",
+      "collected_at": "1405/07/27 12:00",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-tecnomatix-update",
+      "tags": [
+        "Siemens",
+        "Tecnomatix",
+        "Digital Twin",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی ماژول‌های توزیع‌شده ET 200AL با استاندارد حفاظتی IP67",
+      "summary": "زیمنس سری جدید ماژول‌های ورودی و خروجی غیرمتمرکز SIMATIC ET 200AL را با بدنه مقاوم در برابر آب و گردوغبار عرضه کرد. این ماژول‌ها که دارای درجه حفاظت IP67 هستند، نیازی به تابلو برق مجزا نداشته و مستقیماً روی بدنه ماشین‌آلات نصب می‌شوند. این ویژگی باعث صرفه‌جویی چشمگیر در طول کابل‌کشی و فضای فیزیکی کارخانه‌ها می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 11:20",
+      "collected_at": "1405/07/27 12:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-et-200al-ip67",
+      "tags": [
+        "Siemens",
+        "ET 200AL",
+        "I/O",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهینه‌سازی درایوهای SINAMICS G120 برای کاهش مصرف برق کارخانه‌ها",
+      "summary": "شرکت زیمنس درایوهای فرکانس متغیر SINAMICS G120 را با الگوریتم‌های جدید کنترل برداری برای بهینه‌سازی مصرف انرژی پمپ‌ها و فن‌ها به‌روزرسانی کرد. این درایوهای هوشمند قادرند با تنظیم دقیق دور موتور بر اساس بار واقعی، تلفات الکتریکی را به میزان قابل توجهی کاهش دهند. این محصول گام مهمی در راستای استراتژی پایداری انرژی در صنایع فرآیندی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 11:40",
+      "collected_at": "1405/07/27 12:00",
+      "source": "Drive & Control",
+      "source_url": "https://www.driveandcontrol.com/siemens-sinamics-g120",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "سرمایه‌گذاری جدید زیمنس در توسعه زیرساخت‌های مرکز نوآوری دیجیتال",
+      "summary": "زیمنس اعلام کرد که بودجه کلانی را برای توسعه مرکز نوآوری فناوری‌های اتوماسیون دیجیتال خود در اروپا اختصاص داده است. این مرکز روی توسعه نسل آینده سیستم‌های کنترل توزیع‌شده (DCS) و ادغام هوش مصنوعی در نرم‌افزارهای مهندسی تمرکز خواهد کرد. این اقدام در راستای حفظ جایگاه پیشتاز این شرکت در بازار تحول دیجیتال صنعت انجام می‌شود.",
+      "category": "economy",
+      "published_at": "1405/07/27 11:50",
+      "collected_at": "1405/07/27 12:00",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/siemens-innovation-fund",
+      "tags": [
+        "Siemens",
+        "Digital Enterprise",
+        "R&D",
+        "Investment"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "انتشار راهنمای امنیتی جدید برای تجهیزات کنترل صنعتی توسط CISA",
+      "summary": "آژانس امنیت سایبری و زیرساخت‌های حیاتی آمریکا (CISA) توصیه‌های جدیدی را برای ایمن‌سازی تجهیزات اتوماسیون صنعتی و کنترل‌کننده‌های منطقی برنامه‌پذیر منتشر کرد. این راهنما به مدیران شبکه توصیه می‌کند با اعمال به‌روزرسانی‌های میان‌افزار و محدودسازی دسترسی‌های ریموت، خطرات نفوذ به لایه‌های OT را کاهش دهند. این هشدار شامل توصیه‌های اختصاصی برای تجهیزات برندهای معتبر از جمله زیمنس و اشنایدر نیز می‌شود.",
+      "category": "regulation",
+      "published_at": "1405/07/27 12:00",
+      "collected_at": "1405/07/27 12:00",
+      "source": "CISA Cybersecurity",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/cisa-guidance-industrial-controls",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "ICS",
+        "PLC"
       ]
     }
   ]
