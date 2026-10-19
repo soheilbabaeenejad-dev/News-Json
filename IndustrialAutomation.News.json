@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 333,
+  "count": 343,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 16:03",
+  "updated_at": "1405/07/27 16:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5338,6 +5338,176 @@
         "Industrial Copilot",
         "Siemens",
         "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از نسل جدید ماژول‌های ارتباطی SCALANCE برای شبکه‌های امن صنعتی زیمنس",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی و سوئیچ‌های صنعتی سری SCALANCE با پشتیبانی از استانداردهای رمزنگاری پیشرفته رونمایی کرد. این تجهیزات به مدیران شبکه OT اجازه می‌دهد تا امنیت سایبری خطوط تولید را در برابر تهدیدات مدرن به طور چشمگیری افزایش دهند. این ماژول‌ها به‌طور کامل با محیط مهندسی TIA Portal یکپارچه شده‌اند تا پیکربندی آن‌ها با سرعت و دقت بالاتری انجام گیرد.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 16:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/scalance-new-gen-security-2026",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "OT Security",
+        "TIA Portal",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم Siemens Industrial Edge با اپلیکیشن‌های جدید",
+      "summary": "زیمنس از انتشار بسته نرم‌افزاری جدیدی برای پلتفرم Siemens Industrial Edge خبر داد که قابلیت‌های تحلیل بلادرنگ داده‌های ماشین‌آلات را تقویت می‌کند. این ابزار به مهندسان کارخانه کمک می‌کند تا با شناسایی زودهنگام ناهنجاری‌ها، از توقف‌های ناخواسته خطوط تولید جلوگیری کنند. این به‌روزرسانی شامل بهبودهای اساسی در اتصال به سیستم‌های ابری و محلی است.",
+      "category": "news",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 16:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/article/siemens-industrial-edge-update-2026",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Analytics",
+        "Predictive Maintenance",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "معرفی کنترل‌کننده‌های پرسرعت SIMATIC Drive Controller توسط زیمنس برای ماشین‌آلات پیچیده",
+      "summary": "شرکت زیمنس کنترل‌کننده‌های پیشرفته SIMATIC Drive Controller را با هدف تلفیق کنترل منطقی و کنترل حرکت در یک سخت‌افزار واحد عرضه کرد. این محصول برای ماشین‌آلات بسته‌بندی و چاپ با دقت بالا طراحی شده و حجم فضای مورد نیاز در تابلوهای برق را به شدت کاهش می‌دهد. مدل‌های جدید از زبان‌های برنامه‌نویسی استاندارد در پلتفرم TIA Portal پشتیبانی کامل دارند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 16:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-simatic-drive-controller-release/",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Motion Control",
+        "Drive Controller",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه استانداردهای ماژولار در پنوماتیک صنعتی",
+      "summary": "زیمنس و شرکت فستو در پروژه‌ای مشترک برای توسعه ماژول‌های کنترل پنوماتیک متصل به سیستم‌های SIMATIC به توافق رسیدند. این همکاری امکان مانیتورینگ دقیق مصرف هوای فشرده و عیب‌یابی اجزای پنوماتیکی را از طریق شبکه Profinet فراهم می‌سازد. هدف اصلی این طرح کاهش مصرف انرژی و بهینه‌سازی پایداری در کارخانه‌های هوشمند است.",
+      "category": "company",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/27 16:05",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-festo-partnership-2026",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Profinet",
+        "Pneumatics",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "انتشار نسخه بروزرسانی‌شده نرم‌افزار SIMATIC PCS 7 برای کنترل فرآیندهای پیوسته",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS 7 با قابلیت‌های ارتقایافته برای مدیریت آلارم‌ها و افزایش امنیت سایبری توسط زیمنس منتشر شد. این نسخه ابزارهای مهندسی را بهبود بخشیده و زمان راه‌اندازی پروژه‌های بزرگ پتروشیمی و پالایشگاهی را کوتاهus می‌کند. سیستم جدید سازگاری کامل با سخت‌افزارهای ردداندانت جدید دارد.",
+      "category": "product",
+      "published_at": "1405/07/27 11:30",
+      "collected_at": "1405/07/27 16:05",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-releases-simatic-pcs7-update-a-1092831",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با راهکار جامع مدیریت انرژی زیمنس",
+      "summary": "زیمنس از یک پلتفرم نرم‌افزاری جدید برای پایش مصرف انرژی در خطوط تولید سنگین رونمایی کرد که به طور مستقیم به کنترل‌کننده‌های SIMATIC متصل می‌شود. این سیستم با تحلیل داده‌های مصرف برق، گاز و آب، راهکارهای خودکاری برای کاهش هزینه‌های انرژی پیشنهاد می‌دهد. این راهکار سهم بسزایی در دستیابی صنایع به اهداف کربن‌زدایی دارد.",
+      "category": "industry",
+      "published_at": "1405/07/27 12:15",
+      "collected_at": "1405/07/27 16:05",
+      "source": "Energy Manager",
+      "source_url": "https://www.energymanagertoday.com/siemens-energy-management-factory-automation/",
+      "tags": [
+        "Siemens",
+        "Energy Management",
+        "Sustainability",
+        "SIMATIC",
+        "Green Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه قابلیت‌های رباتیک با یکپارچه‌سازی هوش مصنوعی در سیستم‌های کنترل زیمنس",
+      "summary": "با به‌روزرسانی جدید سیستم‌های کنترل حرکت زیمنس، امکان هدایت ربات‌های صنعتی با الگوریتم‌های پیشرفته یادگیری ماشین فراهم شد. این فناوری به بازوهای رباتیک اجازه می‌دهد تا قطعات با اشکال نامنظم را با دقت بالا در خطوط مونتاژ تشخیص دهند و پردازش کنند. این ماژول نرم‌افزاری به کاهش زمان برنامه‌نویسی ربات‌ها کمک شایانی می‌کند.",
+      "category": "research",
+      "published_at": "1405/07/27 13:00",
+      "collected_at": "1405/07/27 16:05",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/siemens-ai-robotics-control-2026",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "Artificial Intelligence",
+        "Motion Control",
+        "Assembly"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی تجهیزات جدید ضد انفجار SIMATIC ET 200iSP برای صنایع نفت و گاز",
+      "summary": "شرکت زیمنس سبد محصولات I/O توزیع‌شده خود را با معرفی ماژول‌های ضد انفجار SIMATIC ET 200iSP برای محیط‌های خطرناک گسترش داد. این تجهیزات امکان جمع‌آوری داده‌های حسگرها را در زون‌های مستعد احتراق با بالاترین سطح ایمنی فراهم می‌کنند. طراحی ماژولار این سیستم تعویض قطعات را در حین کار بدون نیاز به قطع برق ممکن می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/27 13:45",
+      "collected_at": "1405/07/27 16:05",
+      "source": "Oil & Gas Engineering",
+      "source_url": "https://www.oilandgaseng.com/siemens-et200isp-explosion-protected-modules/",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200iSP",
+        "Hazardous Areas",
+        "Oil and Gas"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "ارتقای پلتفرم ابری Insights Hub زیمنس برای پشتیبانی از پروتکل‌های IoT صنعتی",
+      "summary": "پلتفرم ابری Insights Hub زیمنس با اضافه شدن درایورهای جدید برای پروتکل‌های MQTT و OPC UA به روز شد تا اتصال تجهیزات قدیمی و جدید به ابر تسهیل شود. این تغییرات به شرکت‌ها اجازه می‌دهد تا داده‌های telemetry کارخانه‌های گوناگون را در یک داشبورد واحد متمرکز کنند. این پلتفرم نقش کلیدی در استراتژی تحول دیجیتال مشتریان صنعتی ایفا می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/27 14:30",
+      "collected_at": "1405/07/27 16:05",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-iot-protocols-update",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "IIoT",
+        "OPC UA",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "عرضه ماژول‌های جدید منبع تغذیه SITOP با قابلیت مانیتورینگ هوشمند وضعیت",
+      "summary": "زیمنس خانواده منابع تغذیه صنعتی SITOP PSU8600 را با قابلیت‌های تشخیصی پیشرفته و ارتباطات تحت شبکه توسعه داد. این منابع تغذیه قادرند اطلاعات دقیق ولتاژ، جریان و وضعیت سلامت داخلی را به کنترل‌کننده‌های SIMATIC ارسال کنند. این ویژگی به تکنسین‌ها اجازه می‌دهد پیش از بروز خرابی کامل، اقدامات لازم را انجام دهند.",
+      "category": "product",
+      "published_at": "1405/07/27 15:15",
+      "collected_at": "1405/07/27 16:05",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/automation/siemens-sitop-power-supply-smart-monitoring",
+      "tags": [
+        "Siemens",
+        "SITOP",
+        "Power Supply",
+        "Diagnostics",
+        "Factory Automation"
       ]
     }
   ]
