@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 100,
-  "provider": "Gemini/gemini-3.8-flash",
-  "updated_at": "1405/07/27 11:00",
+  "count": 110,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/27 11:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1600,6 +1600,166 @@
         "DCS",
         "AspenTech",
         "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی جدید SCALANCE برای شبکه‌های TSN",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی سری SCALANCE با پشتیبانی کامل از فناوری شبکه زمان‌بندی شده (TSN) رونمایی کرد. این تجهیزات جدید به مهندسان اتوماسیون اجازه می‌دهند تا داده‌های حیاتی خطوط تولید را با بالاترین دقت و بدون تاخیر زمانی منتقل کنند. این اقدام گامی مهم در جهت بهبود همگرایی شبکه‌های IT و OT در کارخانه‌های هوشمند آینده محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 08:15",
+      "collected_at": "1405/07/27 11:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-scalance-tsn-2026",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "به‌روزرسانی نرم‌افزار مانیتورینگ WinCC Unified V19 با امکانات جدید تحلیل داده",
+      "summary": "زیمنس نسخه جدید بسته نرم‌افزاری SIMATIC WinCC Unified V19 را با ابزارهای پیشرفته تحلیل داده‌های بصری منتشر کرد. این نسخه امکان سفارشی‌سازی داشبوردهای مدیریتی را برای اپراتورهای سالن‌های تولید به شدت افزایش می‌دهد و امنیت سایبری ارتباطات تحت وب را تقویت می‌کند. این نرم‌افزار نقش کلیدی در توسعه سیستم‌های اسکادا و مانیتورینگ کارخانجات مدرن دارد.",
+      "category": "product",
+      "published_at": "1405/07/27 08:40",
+      "collected_at": "1405/07/27 11:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-wincc-unified-v19",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای هوشمندسازی پنوماتیک صنعتی",
+      "summary": "زیمنس و شرکت فستو تفاهم‌نامه همکاری جدیدی را برای ادغام تجهیزات پنوماتیک پیشرفته با کنترل‌کننده‌های SIMATIC امضا کردند. این مشارکت به توسعه ماژول‌های تشخیصی هوشمند منجر می‌شود که قادرند وضعیت سلامت قطعات بادی را به صورت بلادرنگ گزارش دهند. هدف از این پروژه کاهش چشمگیر زمان توقف ناخواسته ماشین‌آلات در صنایع بسته‌بندی و مونتاژ است.",
+      "category": "company",
+      "published_at": "1405/07/27 09:05",
+      "collected_at": "1405/07/27 11:02",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-festo-pneumatics-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "SIMATIC",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه درایوهای پیشرفته SINAMICS G120X با قابلیت بهینه‌سازی مصرف آب و پمپاژ",
+      "summary": "شرکت زیمنس درایوهای فرکانس متغیر سری SINAMICS G120X را با عملکردهای تخصصی برای صنایع آب و فاضلاب توسعه داد. این درایوها دارای الگوریتم‌های پیشرفته‌ای برای کنترل بهینه پمپ‌ها هستند که اتلاف انرژی را تا پانزده درصد کاهش می‌دهد. این تجهیزات با پلتفرم TIA Portal کاملاً سازگار بوده و به راحتی در سیستم‌های اتوماسیون موجود ادغام می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/27 09:30",
+      "collected_at": "1405/07/27 11:02",
+      "source": "IEB Magazine",
+      "source_url": "https://www.iebmedia.com/siemens-sinamics-g120x-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش کاربرد ربات‌های صنعتی با پلتفرم هوش مصنوعی SIMATIC Robot Integrator",
+      "summary": "زیمنس قابلیت‌های نرم‌افزار SIMATIC Robot Integrator را برای اتصال آسان‌تر بازوهای رباتیک مختلف به خطوط تولید ارتقا داد. این ابزار مهندسی به برنامه‌نویسان خطوط مونتاژ کمک می‌کند بدون نیاز به دانش پیچیده کدنویسی، ربات‌های برندهای گوناگون را کنترل کنند. این رویکرد انعطاف‌پذیری کارخانجات را در تولید سفارشی محصولات به‌طور قابل توجهی افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/27 09:50",
+      "collected_at": "1405/07/27 11:02",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-robot-integrator-ai",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "SIMATIC",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "انتشار راهنمای جامع امنیت سایبری برای تجهیزات اتوماسیون زیمنس توسط CISA",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) راهنمای جدیدی را برای پیکربندی امن کنترل‌کننده‌های قابل برنامه‌ریزی زیمنس منتشر کرد. این سند بر لزوم استفاده از قابلیت‌های رمزنگاری سخت‌افزاری و پروتکل‌های ارتباطی امن در لایه PLC تاکید دارد. هدف از این راهنما مقابله با تهدیدات فزاینده علیه زیرساخت‌های حیاتی صنعتی و شبکه‌های OT است.",
+      "category": "regulation",
+      "published_at": "1405/07/27 10:10",
+      "collected_at": "1405/07/27 11:02",
+      "source": "Control Design",
+      "source_url": "https://www.controldesign.com/cisa-siemens-cybersecurity-guide",
+      "tags": [
+        "Cybersecurity",
+        "CISA",
+        "Siemens",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی سیستم جدید کنترل توزیع‌شده SIMATIC PCS 7 V9.1 SP2 با پایداری بالا",
+      "summary": "زیمنس نسخه اصلاح‌شده سیستم کنترل فرآیند SIMATIC PCS 7 V9.1 SP2 را با تمرکز بر پایداری در صنایع فرآیندی عرضه کرد. این نسخه شامل به‌روزرسانی‌های امنیتی مهم و بسته‌های سخت‌افزاری مقاوم برای استفاده در پالایشگاه‌های نفت و گاز است. این سیستم به اپراتورها اجازه می‌دهد نظارت دقیق‌تری بر فرآیندهای پیچیده شیمیایی داشته باشند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:25",
+      "collected_at": "1405/07/27 11:02",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-pcs7-v91-sp2",
+      "tags": [
+        "Siemens",
+        "PCS 7",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه قابلیت‌های مانیتورینگ انرژی در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس اپلیکیشن جدیدی را برای پلتفرم لبه صنعتی خود معرفی کرد که مصرف انرژی ماشین‌آلات را به صورت لحظه‌ای تحلیل می‌کند. این نرم‌افزار به مدیران کارخانجات کمک می‌کند تا نقاط اتلاف انرژی را شناسایی کرده و استانداردهای زیست‌محیطی را رعایت کنند. این راهکار بدون نیاز به تغییر در سخت‌افزارهای موجود قابل نصب روی کنترل‌کننده‌ها است.",
+      "category": "news",
+      "published_at": "1405/07/27 10:40",
+      "collected_at": "1405/07/27 11:02",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-energy",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Energy Management",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "ارتقای سیستم‌های CNC سنومریک زیمنس با قابلیت‌های ماشین‌کاری هوشمند",
+      "summary": "شرکت زیمنس سری جدید نرم‌افزارهای کنترلی Sinumerik One را با قابلیت‌های هوش مصنوعی برای بهینه‌سازی مسیر ابزار معرفی کرد. این فناوری زمان ماشین‌کاری قطعات فلزی پیچیده را در صنایع هوافضا و قطعه‌سازی تا بیست درصد کاهش می‌دهد. این سیستم نمونه‌ای بارز از پیاده‌سازی مفهوم دوقلوی دیجیتال در ماشین‌ابزارهای پیشرفته است.",
+      "category": "product",
+      "published_at": "1405/07/27 10:50",
+      "collected_at": "1405/07/27 11:02",
+      "source": "Modern Machine Shop",
+      "source_url": "https://www.mmsonline.com/siemens-sinumerik-one-ai-upgrade",
+      "tags": [
+        "Siemens",
+        "Sinumerik",
+        "CNC",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "سرمایه‌گذاری مشترک زیمنس و دانشگاه فنی مونیخ برای توسعه اتوماسیون سبز",
+      "summary": "زیمنس و دانشگاه فنی مونیخ پروژه‌ای مشترک را برای تحقیق روی کارخانجات کربن‌صفر با استفاده از اتوماسیون پیشرفته آغاز کردند. این پژوهشگاه روی بهینه‌سازی مصرف انرژی در کنترل‌کننده‌های SIMATIC و کاهش ردپای کربن زنجیره تامین تمرکز دارد. این همکاری علمی قرار است نتایج عملی خود را طی دو سال آینده وارد خطوط تولید صنعتی کند.",
+      "category": "research",
+      "published_at": "1405/07/27 11:00",
+      "collected_at": "1405/07/27 11:02",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-tum-green-automation",
+      "tags": [
+        "Siemens",
+        "Research",
+        "Sustainability",
+        "Smart Factory"
       ]
     }
   ]
