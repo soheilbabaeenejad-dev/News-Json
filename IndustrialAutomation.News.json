@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 391,
+  "count": 399,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 17:06",
+  "updated_at": "1405/07/27 18:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6286,6 +6286,134 @@
         "AI",
         "Siemens Xcelerator",
         "Workforce"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای پلتفرم DCS زیمنس با معرفی SIMATIC PCS neo نسخه V4.2",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo V4.2 توسط زیمنس معرفی شد که قابلیت همکاری چندکاربره را به طور چشمگیری بهبود می‌بخشد. این پلتفرم تحت وب امکان دسترسی امن به داده‌های فرآیندی را برای مهندسان در نقاط مختلف جهان فراهم می‌کند. این سیستم نقش مهمی در دیجیتالی‌سازی صنایع فرآیندی و شیمیایی ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 18:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/dcs/siemens-simatic-pcs-neo-v42",
+      "tags": [
+        "Siemens",
+        "DCS",
+        "SIMATIC PCS neo",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری زیمنس و فستو برای توسعه استانداردهای رباتیک مدولار در کارخانه‌ها",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه جدیدی برای توسعه سیستم‌های انتقال مواد مدولار و انطباق‌پذیر امضا کردند. این همکاری بر پایه یکپارچه‌سازی درایوهای SINAMICS با عملگرهای پنوماتیک هوشمند فستو شکل گرفته است. هدف این پروژه کاهش سی,درصدی زمان راه‌اندازی خطوط مونتاژ خودکار است.",
+      "category": "industry",
+      "published_at": "1405/07/27 11:10",
+      "collected_at": "1405/07/27 18:01",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-festo-modular-robotics-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "SINAMICS",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "انتشار وصله امنیتی اضطراری برای تجهیزات ارتباطی شبکه Ruggedcom زیمنس",
+      "summary": "واحد امنیت سایبری زیمنس یک بسته بروزرسانی امنیتی بحرانی برای روترهای صنعتی سری Ruggedcom منتشر کرد. این آسیب‌پذیری که توسط تیم‌های امنیتی شناسایی شده بود، می‌توانست به مهاجمان اجازه دسترسی غیرمجاز به شبکه OT را بدهد. مدیران شبکه موظفند هرچه سریع‌تر سیستم‌عامل این تجهیزات را به نسخه جدید ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 12:20",
+      "collected_at": "1405/07/27 18:01",
+      "source": "ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/siemens-ruggedcom-update",
+      "tags": [
+        "Siemens",
+        "Ruggedcom",
+        "Cybersecurity",
+        "CISA"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "عرضه ماژول‌های توسعه یافته I/O برای کنترل‌کننده‌های SIMATIC S7-1500",
+      "summary": "زیمنس خانواده جدیدی از ماژول‌های ورودی و خروجی پرسرعت را برای پی‌ال‌سی‌های سری SIMATIC S7-1500 معرفی کرد. این ماژول‌ها برای دریافت سیگنال‌های دقیق در خطوط تولید با سرعت بالا طراحی شده‌اند و از تشخیص خطا در سطح کانال پشتیبانی می‌کنند. این ویژگی به کاهش زمان توقف اضطراب‌آور خطوط تولید کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 13:05",
+      "collected_at": "1405/07/27 18:01",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-simatic-s7-1500-io-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "PLC",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "راه‌اندازی مرکز جدید نوآوری و دوقلوی دیجیتال زیمنس در ژاپن",
+      "summary": "زیمنس از افتتاح یک مرکز پیشرفته تحقیق و توسعه دوقلوی دیجیتال در شهر توکیو خبر داد. این مرکز بر روی کاربرد پلتفرم Siemens Xcelerator در صنایع خودروسازی و الکترونیک پیشرفته تمرکز دارد. این اقدام بخشی از استراتژی کلان زیمنس برای گسترش فناوری‌های اتوماسیون دیجیتال در منطقه آسیا-پاسیفیک است.",
+      "category": "company",
+      "published_at": "1405/07/27 14:40",
+      "collected_at": "1405/07/27 18:01",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com/Business/Siemens-digital-twin-innovation-center-tokyo",
+      "tags": [
+        "Siemens",
+        "Siemens Xcelerator",
+        "Digital Twin",
+        "Japan"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی درایوهای servo جدید SINAMICS S220 با قابلیت شارژ معکوس انرژی",
+      "summary": "نسخه تکامل‌یافته درایوهای سروو SINAMICS S220 توسط زیمنس به بازار جهانی معرفی شد. این درایوهای پیشرفته توانایی بازگردانی انرژی ترمز به شبکه را با راندمان بسیار بالاتری نسبت به نسل قبلی دارند. این تجهیزات به طور ویژه برای ماشین‌آلات بسته‌بندی پرسرعت و ربات‌های صنعتی طراحی شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/27 15:25",
+      "collected_at": "1405/07/27 18:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sinamics-s220-servo-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Servo Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گسترش ابزارهای مدیریت چرخه عمر محصول با به‌روزرسانی Teamcenter زیمنس",
+      "summary": "زیمنس نسخه جدید نرم‌افزار Teamcenter را با قابلیت‌های اتصال مستقیم به سیستم‌های برنامه‌ریزی تولید ERP عرضه کرد. این تغییر به مهندسان کارخانه اجازه می‌دهد تا تغییرات طراحی را به صورت آنی در خطوط مونتاژ پیاده‌سازی کنند. اینپارچه‌سازی داده‌ها خطاهای انسانی در انتقال نقشه‌های مهندسی به کف کارخانه را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/27 16:10",
+      "collected_at": "1405/07/27 18:01",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/siemens-teamcenter-plm-update",
+      "tags": [
+        "Siemens",
+        "Teamcenter",
+        "PLM",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "بهبود قابلیت‌های دستیار صوتی و متنی Siemens Industrial Copilot",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی صنعتی خود موسوم به Industrial Copilot را برای اتوماسیون صنعتی توسعه داد. این دستیار هوشمند اکنون قادر است کدهای برنامه‌نویسی TIA Portal را بر اساس دستورات متنی اپراتور تولید کند. این فناوری نوین سرعت توسعه پروژه‌های اتوماسیون را برای مهندسان تازه‌کار به طور قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 17:50",
+      "collected_at": "1405/07/27 18:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/factory-automation/siemens-industrial-copilot-update",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "AI",
+        "TIA Portal"
       ]
     }
   ]
