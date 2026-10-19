@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 506,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/27 23:02",
+  "count": 516,
+  "provider": "Gemini/gemini-robotics-er-2-preview",
+  "updated_at": "1405/07/27 23:59",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8111,6 +8111,166 @@
         "Beckhoff",
         "Robotics",
         "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20250302-001",
+      "title": "به‌روزرسانی سیستم‌های کنترل افزونه SIMATIC S7-1500 R/H زیمنس برای پایداری فرآیندها",
+      "summary": "زیمنس نسخه جدیدی از فریم‌ور کنترلرهای افزونه SIMATIC S7-1500 R/H را برای تضمین تداوم کارکرد در صنایع فرآیندی حساس معرفی کرد. این به‌روزرسانی قابلیت جابجایی بدون وقفه را در صورت بروز خطا بهبود بخشیده و امنیت ارتباطات PROFINET را تقویت می‌کند. این راهکار برای صنایع پتروشیمی و تصفیه آب که توقف تولید در آن‌ها خسارت‌بار است، طراحی شده است.",
+      "category": "product",
+      "published_at": "1403/12/12 10:15",
+      "collected_at": "1405/07/27 23:59",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-enhances-redundant-controllers-simatic-s7-1500",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20250302-002",
+      "title": "ادغام راهکارهای صنعتی راکول اتوماسیون با پلتفرم ابری Azure IoT Operations",
+      "summary": "شرکت راکول اتوماسیون از همکاری جدیدی با مایکروسافت برای یکپارچه‌سازی نرم‌افزار FactoryTalk Optix با پلتفرم ابری جدید Azure IoT Operations خبر داد. این همکاری به تولیدکنندگان اجازه می‌دهد داده‌های لبه صنعتی را به شکلی ایمن و بلادرنگ به ابر منتقل کرده و از مدل‌های پیشرفته هوش مصنوعی برای بهینه‌سازی زنجیره تامین استفاده کنند.",
+      "category": "company",
+      "published_at": "1403/12/12 10:45",
+      "collected_at": "1405/07/27 23:59",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/rockwell-automation-collaborates-with-microsoft-on-azure-iot.html",
+      "tags": [
+        "Rockwell Automation",
+        "Microsoft",
+        "Cloud",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20250302-003",
+      "title": "اتصال مستقیم درایوهای SINAMICS زیمنس به پلتفرم Industrial Edge برای پایش وضعیت",
+      "summary": "زیمنس با ارائه اپلیکیشن جدید Analyze MyDrives، امکان اتصال مستقیم درایوهای فرکانس متغیر SINAMICS را به پلتفرم لبه صنعتی فراهم کرد. این ابزار با تحلیل مداوم جریان، ولتاژ و گشتاور موتورها، الگوهای غیرعادی را شناسایی کرده و پیش از وقوع خرابی به اپراتورها هشدار می‌دهد که این امر هزینه‌های نگهداری را تا ۳۰ درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1403/12/12 11:10",
+      "collected_at": "1405/07/27 23:59",
+      "source": "Siemens Industry",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-connects-sinamics-drives-directly-industrial-edge",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Industrial Edge",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20250302-004",
+      "title": "رونمایی ABB از نسخه‌های جدید ربات صنعتی IRB 1300 برای محیط‌های اتاق تمیز",
+      "summary": "شرکت ABB ربات‌های صنعتی پرسرعت سری IRB 1300 خود را با استانداردهای سخت‌گیرانه اتاق تمیز ارتقا داده است. این ربات‌های جدید برای صنایع داروسازی و تولید نیمه‌هادی‌ها بهینه‌سازی شده‌اند و از انتشار ذرات معلق در هوا جلوگیری می‌کنند. ظرفیت حمل بار بالا و طراحی فشرده این ربات‌ها، راندمان خطوط مونتاژ الکترونیکی ظریف را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1403/12/12 11:40",
+      "collected_at": "1405/07/27 23:59",
+      "source": "ABB Robotics",
+      "source_url": "https://new.abb.com/news/detail/120450/abb-launches-new-irb-1300-cleanroom-variants",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Cleanroom",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20250302-005",
+      "title": "عرضه نسخه جدید TIA Portal Cloud توسط زیمنس برای مهندسی منعطف و اشتراکی",
+      "summary": "زیمنس نسخه جدید پلتفرم ابری TIA Portal Cloud را با هدف تسهیل کار گروهی مهندسان اتوماسیون در سراسر جهان عرضه کرد. این ابزار به کاربران اجازه می‌دهد بدون نیاز به نصب محلی نرم‌افزارهای سنگین، پروژه‌های PLC و HMI خود را در یک محیط امن ابری برنامه‌نویسی و شبیه‌سازی کنند. این نسخه شامل ابزارهای پیشرفته برای مدیریت نسخه‌های پروژه است.",
+      "category": "product",
+      "published_at": "1403/12/12 12:15",
+      "collected_at": "1405/07/27 23:59",
+      "source": "Siemens Software",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-launches-new-version-tia-portal-cloud",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Cloud Engineering",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20250302-006",
+      "title": "معرفی میکرودیتاسنتر جدید EcoStruxure 43U توسط اشنایدر الکتریک برای لبه صنعتی",
+      "summary": "اشنایدر الکتریک از یک میکرودیتاسنتر صنعتی جدید با ظرفیت ۴۳U رونمایی کرد که برای کار در محیط‌های خشن کارخانه‌ای طراحی شده است. این سیستم مجهز به سیستم سرمایش داخلی، منبع تغذیه بدون وقفه و لایه‌های امنیتی فیزیکی و سایبری است. این محصول به کارخانه‌ها اجازه می‌دهد تا سرورهای محاسبات لبه خود را در نزدیکی خط تولید مستقر کنند.",
+      "category": "product",
+      "published_at": "1403/12/12 12:50",
+      "collected_at": "1405/07/27 23:59",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/schneider-electric-introduces-ecostruxure-micro-data-center-43u.jsp",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Edge Computing",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "ia-20250302-007",
+      "title": "ارتقای سوئیچ‌های صنعتی SCALANCE XC-200 زیمنس برای پشتیبانی از شبکه‌های TSN",
+      "summary": "زیمنس نسل جدید سوئیچ‌های صنعتی سری SCALANCE XC-200 را با پشتیبانی کامل از فناوری شبکه‌سازی حساس به زمان روانه بازار کرد. این سوئیچ‌ها امکان انتقال همزمان داده‌های کنترلی بلادرنگ و ترافیک داده‌های استاندارد IT را روی یک بستر فیزیکی مشترک فراهم می‌کنند. این قابلیت گام مهمی در جهت یکپارچه‌سازی کامل لایه‌های OT و IT است.",
+      "category": "product",
+      "published_at": "1403/12/12 13:20",
+      "collected_at": "1405/07/27 23:59",
+      "source": "Siemens Communications",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-upgrades-scalance-xc-200-industrial-switches-tsn",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "TSN",
+        "Industrial Networking"
+      ]
+    },
+    {
+      "id": "ia-20250302-008",
+      "title": "یکپارچه‌سازی دستیار هوشمند TwinCAT Chat بکوف با مدل‌های زبانی بزرگ برای برنامه‌نویسی PLC",
+      "summary": "شرکت بکوف آلمان ابزار TwinCAT Chat را معرفی کرد که به مهندسان اتوماسیون اجازه می‌دهد با استفاده از مدل‌های زبانی بزرگ، کدهای ساختاریافته را برای کنترلرهای این شرکت تولید کنند. این دستیار هوش مصنوعی می‌تواند کدهای موجود را تحلیل، عیب‌یابی و بهینه‌سازی کند و مستندات فنی را به صورت خودکار بنویسد که زمان توسعه را تا ۵۰ درصد کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1403/12/12 13:55",
+      "collected_at": "1405/07/27 23:59",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com/en-en/products/automation/twincat/twincat-chat/",
+      "tags": [
+        "Beckhoff",
+        "TwinCAT",
+        "AI",
+        "PLC Programming"
+      ]
+    },
+    {
+      "id": "ia-20250302-009",
+      "title": "رونمایی فونیکس کنتاکت از روترهای امنیتی جدید سری mGuard برای حفاظت از شبکه‌های OT",
+      "summary": "شرکت فونیکس کنتاکت روترهای امنیتی پیشرفته سری mGuard RS4000 را برای محافظت از شبکه‌های اتوماسیون صنعتی در برابر حملات سایبری معرفی کرد. این تجهیزات دارای فایروال‌های هوشمند صنعتی و قابلیت‌های VPN امن هستند که دسترسی از راه دور به PLCها و ماشین‌آلات را بدون به خطر انداختن امنیت شبکه داخلی کارخانه ممکن می‌سازند.",
+      "category": "product",
+      "published_at": "1403/12/12 14:15",
+      "collected_at": "1405/07/27 23:59",
+      "source": "Phoenix Contact",
+      "source_url": "https://www.phoenixcontact.com/en-us/products/industrial-communication/security-routers-mguard",
+      "tags": [
+        "Phoenix Contact",
+        "mGuard",
+        "Cybersecurity",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20250302-010",
+      "title": "معرفی کامپیوتر صنعتی فشرده SIMATIC IPC BX-39 توسط زیمنس برای پردازش لبه",
+      "summary": "زیمنس کامپیوتر صنعتی بدون فن و بسیار فشرده SIMATIC IPC BX-39 را برای کاربردهای پردازش لبه و اتوماسیون ماشین‌آلات معرفی کرد. این سخت‌افزار مجهز به پردازنده‌های نسل جدید اینتل و حافظه‌های پرسرعت SSD است و پایداری بالایی در برابر لرزش و دما دارد. این دستگاه به عنوان دروازه‌ای برای جمع‌آوری داده‌ها در خطوط تولید عمل می‌کند.",
+      "category": "product",
+      "published_at": "1403/12/12 14:40",
+      "collected_at": "1405/07/27 23:59",
+      "source": "Siemens Industry PC",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-presents-compact-industrial-pc-simatic-ipc-bx-39",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Industrial PC",
+        "Edge Computing"
       ]
     }
   ]
