@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 257,
+  "count": 265,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 14:02",
+  "updated_at": "1405/07/27 14:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -4110,6 +4110,142 @@
         "FactoryTalk Hub",
         "Cloud Computing",
         "Industrial IoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "گسترش قابلیت‌های هوش مصنوعی در محیط مهندسی TIA Portal V20",
+      "summary": "شرکت زیمنس قابلیت‌های هوش مصنوعی پیشرفته را به نسخه جدید محیط مهندسی TIA Portal V20 اضافه کرد تا به مهندسان اتوماسیون در کدنویسی سریع‌تر و خطایابی خودکار کمک کند. این ابزار جدید با کاهش زمان توسعه پروژه‌های صنعتی و بهبود کیفیت کدهای PLC، بهره‌وری تیم‌های مهندسی را به طور چشمگیری افزایش می‌دهد. این به‌روزرسانی شامل ابزار قدرتمند Siemens Industrial Copilot برای پیشنهاد خودکار کدهای ساختاریافته است.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 14:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/plc-pac/news/siemens-tia-portal-v20-ai-features",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Industrial Copilot",
+        "PLC",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "معرفی ماژول‌های توسعه‌یافته SIMATIC ET 200MP برای شبکه‌های صنعتی پرسرعت",
+      "summary": "زیمنس سبد محصولات I/O توزیع‌شده خود را با معرفی ماژول‌های جدید سری SIMATIC ET 200MP برای کاربردهای سنگین صنعتی گسترش داد. این ماژول‌ها از ارتباطات زمان‌بندی شده و پروتکل‌های پیشرفته صنعتی پشتیبانی می‌کنند تا تبادل داده‌ها در خطوط تولید با کمترین تاخیر انجام شود. این تجهیزات جدید پایداری شبکه را در شرایط سخت کارگاهی تضمین کرده و نصب آن‌ها بسیار ساده‌تر شده است.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 14:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-expands-simatic-et-200mp-portfolio/",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200MP",
+        "I/O",
+        "اتوماسیون صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای هوشمندسازی پنوماتیک در کارخانه‌ها",
+      "summary": "شرکت زیمنس طی توافقنامه‌ای مشترک با فستو، سامانه‌های پنوماتیک پیشرفته را با پلتفرم اتوماسیون SIMATIC یکپارچه‌سازی کرد تا مصرف انرژی در خطوط مونتاژ بهینه شود. این همکاری امکان مانیتورینگ دقیق فشار هوا و عیب‌یابی پیشگیرانه را از طریق نرم‌افزارهای صنعتی فراهم می‌کند. هدف این پروژه کاهش هزینه‌های عملیاتی و افزایش پایداری زیرساخت‌های تولیدی در صنایع خودروسازی است.",
+      "category": "company",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 14:03",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/industry-news/siemens-festo-pneumatics-integration/",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "SIMATIC",
+        "پنوماتیک",
+        "بهینه‌سازی انرژی"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای امنیت تجهیزات OT با بسته امنیتی جدید زیمنس برای سوئیچ‌های Scalance",
+      "summary": "زیمنس بسته نرم‌افزاری امنیتی جدیدی را برای خانواده سوئیچ‌های صنعتی Scalance عرضه کرد تا از شبکه‌های OT در برابر تهدیدات سایبری نوظهور محافظت کند. این به‌روزرسانی شامل مکانیزم‌های پیشرفته رمزنگاری و مدیریت دسترسی مبتنی بر نقش (RBAC) برای جلوگیری از دسترسی‌های غیرمجاز است. این اقدام بخشی از تعهد زیمنس به ارتقای استانداردهای امنیت سایبری در زیرساخت‌های حیاتی محسوب می‌شود.",
+      "category": "news",
+      "published_at": "1405/07/27 11:30",
+      "collected_at": "1405/07/27 14:03",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-releases-security-updates-for-scalance-switches/",
+      "tags": [
+        "Siemens",
+        "Scalance",
+        "امنیت سایبری",
+        "OT",
+        "شبکه صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "رونمایی از سروو درایوهای پیشرفته SINAMICS S220 برای خطوط بسته‌بندی پرسرعت",
+      "summary": "زیمنس درایوهای کنترل حرکت جدید سری SINAMICS S220 را با ویژگی‌های ایمنی یکپارچه و پاسخ دینامیکی فوق‌العاده به بازار معرفی کرد. این درایوها برای ماشین‌آلات بسته‌بندی و چاپ که نیاز به دقت بالا در جابجایی قطعات دارند، گزینه‌ای ایده‌آل به شمار می‌روند. مصرف انرژی بهینه‌تر و قابلیت اتصال آسان به کنترلرهای SIMATIC S7-1500 از مزایای کلیدی این محصول جدید است.",
+      "category": "product",
+      "published_at": "1405/07/27 12:30",
+      "collected_at": "1405/07/27 14:03",
+      "source": "Control Design",
+      "source_url": "https://www.controldesign.com/news/article/33035121/siemens-launches-sinamics-s220-servo-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "سروو درایو",
+        "کنترل حرکت",
+        "بسته‌بندی"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش دوقلوهای دیجیتال در کارخانه‌های داروسازی با راهکار جدید زیمنس",
+      "summary": "زیمنس نرم‌افزار جامع دوقلوی دیجیتال خود را برای بهینه‌سازی فرآیندهای تولید در صنعت داروسازی و تجهیزات پزشکی به‌روزرسانی کرد. این ابزار به مهندسان اجازه می‌دهد تا خطوط تولید داروهای استریل را پیش از ساخت فیزیکی، به طور کامل شبیه‌سازی و اعتبارسنجی کنند. این تکنولوژی زمان ورود محصولات جدید به بازار را به طور چشمگیری کاهش داده و خطاهای انسانی را به حداقل می‌رساند.",
+      "category": "news",
+      "published_at": "1405/07/27 13:00",
+      "collected_at": "1405/07/27 14:03",
+      "source": "Pharmaceutical Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/automation/news/siemens-digital-twin-pharma-manufacturing",
+      "tags": [
+        "Siemens",
+        "دوقلوی دیجیتال",
+        "داروسازی",
+        "صنایع پزشکی",
+        "شبیه‌سازی"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "عرضه گیت‌وی صنعتی جدید برای اتصال تجهیزات قدیمی به پلتفرم Insights Hub",
+      "summary": "شرکت زیمنس گیت‌وی ارتباطی جدیدی را برای تسهیل اتصال ماشین‌آلات سنتی به پلتفرم ابری Insights Hub (MindSphere سابق) معرفی کرد. این سخت‌افزار از پروتکل‌های قدیمی و مدرن صنعتی پشتیبانی می‌کند تا جمع‌آوری داده‌ها از تجهیزات غیرهوشمند به سادگی انجام شود. این راهکار مقرون‌به‌صرفه به واحدهای تولیدی کمک می‌کند بدون تعویض ماشین‌آلات، وارد دنیای کارخانه‌های هوشمند شوند.",
+      "category": "product",
+      "published_at": "1405/07/27 13:30",
+      "collected_at": "1405/07/27 14:03",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/technology/siemens-releases-new-gateway-insights-hub",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "MindSphere",
+        "گیت‌وی صنعتی",
+        "تحول دیجیتال"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "به‌روزرسانی بزرگ نرم‌افزار SIMATIC PCS neo برای کنترل فرآیندهای پیوسته",
+      "summary": "زیمنس نسخه جدید سیستم کنترل فرآیند مبتنی بر وب SIMATIC PCS neo را با قابلیت‌های همکاری ابری چندکاربره عرضه کرد. این سیستم به اپراتورها اجازه می‌دهد در صنایع نفت، گاز و پیمیایی، نظارت و کنترل متمرکز و ایمنی را بر روی فرآیندهای پیچیده اعمال کنند. معماری مدرن این نرم‌افزار هزینه‌های نگهداری سیستم‌های کنترل توزیع‌شده (DCS) را به شکل قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 14:00",
+      "collected_at": "1405/07/27 14:03",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-updates-simatic-pcs-neo-process-control-a-1052093/",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "DCS",
+        "کنترل فرآیند",
+        "صنعت پتروشیمی"
       ]
     }
   ]
