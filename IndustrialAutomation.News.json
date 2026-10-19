@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 40,
+  "count": 50,
   "provider": "Gemini/gemini-robotics-er-2-preview",
-  "updated_at": "1405/07/27 03:08",
+  "updated_at": "1405/07/27 04:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -647,6 +647,166 @@
         "امنیت سایبری",
         "شبکه‌های OT",
         "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "ia-20241110-001",
+      "title": "معرفی نسخه جدید کنترل‌کننده نرم‌افزاری SIMATIC S7-1500 V30.0 توسط زیمنس",
+      "summary": "شرکت زیمنس نسخه جدید کنترل‌کننده نرم‌افزاری SIMATIC S7-1500 V30.0 را برای سیستم‌های اتوماسیون مبتنی بر کامپیوترهای صنعتی معرفی کرد. این نسخه جدید کارایی سیستم را در پردازش‌های سنگین افزایش داده و امکان اجرای همزمان برنامه‌های کنترل و برنامه‌های سطح بالای IT را فراهم می‌کند. این محصول به مهندسان اجازه می‌دهد تا از پلتفرم‌های مجازی‌سازی برای کاهش هزینه‌های سخت‌افزاری استفاده کنند.",
+      "category": "product",
+      "published_at": "1403/08/20 09:15",
+      "collected_at": "1405/07/27 04:08",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-simatic-s7-1500-software-controller-v30",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "Industrial IoT"
+      ]
+    },
+    {
+      "id": "ia-20241110-002",
+      "title": "راکول اتوماسیون قابلیت‌های ابری پلتفرم FactoryTalk Hub را گسترش می‌دهد",
+      "summary": "شرکت راکول اتوماسیون ابزارهای طراحی جدیدی را به پلتفرم ابری FactoryTalk Hub اضافه کرده است تا همکاری بین تیم‌های مهندسی توزیع‌شده را تسهیل کند. این به‌روزرسانی به کاربران اجازه می‌دهد تا پروژه‌های اتوماسیون خود را به صورت مشترک و در زمان واقعی در محیط ابری توسعه دهند. این اقدام گامی مهم در جهت کاهش زمان راه‌اندازی خطوط تولید و بهبود بهره‌وری مهندسی به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1403/08/20 10:00",
+      "collected_at": "1405/07/27 04:08",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/factorytalk-hub-cloud-expansion.html",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Cloud",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20241110-003",
+      "title": "همکاری زیمنس و مایکروسافت برای یکپارچه‌سازی هوش مصنوعی در عملیات اینترنت اشیاء صنعتی",
+      "summary": "زیمنس و مایکروسافت همکاری جدیدی را برای ادغام دستیار هوش مصنوعی Copilot با پلتفرم Azure IoT Operations آغاز کرده‌اند. این همکاری به اپراتورهای کارخانه‌ها امکان می‌دهد تا با استفاده از زبان طبیعی، داده‌های پیچیده سنسورها را تحلیل کرده و مشکلات خط تولید را سریع‌تر شناسایی کنند. این راه‌حل مشترک امنیت داده‌های صنعتی را در حین انتقال به ابر تضمین می‌کند.",
+      "category": "company",
+      "published_at": "1403/08/20 11:30",
+      "collected_at": "1405/07/27 04:08",
+      "source": "Microsoft News",
+      "source_url": "https://news.microsoft.com/siemens-microsoft-ai-iot-operations/",
+      "tags": [
+        "Siemens",
+        "Microsoft",
+        "AI",
+        "Azure IoT"
+      ]
+    },
+    {
+      "id": "ia-20241110-004",
+      "title": "رونمایی فونیکس کنتاکت از ماژول‌های بی‌سیم جدید ورودی/خروجی برای محیط‌های صنعتی سخت",
+      "summary": "شرکت فونیکس کنتاکت ماژول‌های بی‌سیم جدیدی از سری Radioline را معرفی کرده است که برای انتقال امن داده‌های ورودی و خروجی در فواصل طولانی طراحی شده‌اند. این تجهیزات جدید از پروتکل‌های رمزنگاری پیشرفته برای جلوگیری از حملات سایبری استفاده می‌کنند و برای صنایع نفت، گاز و آب بسیار مناسب هستند. این سیستم پایداری ارتباطات را در شرایط آب و هوایی سخت تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1403/08/20 12:45",
+      "collected_at": "1405/07/27 04:08",
+      "source": "Phoenix Contact Press",
+      "source_url": "https://www.phoenixcontact.com/en-us/news/radioline-wireless-io-modules",
+      "tags": [
+        "Phoenix Contact",
+        "Wireless IO",
+        "Industrial Security",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20241110-005",
+      "title": "خرید استارتاپ نرم‌افزاری توسط ABB برای تقویت سیستم‌های رباتیک مجهز به هوش مصنوعی",
+      "summary": "شرکت ABB یک استارتاپ پیشرو در زمینه نرم‌افزارهای هوش مصنوعی سه‌بعدی را خریداری کرده است تا قابلیت‌های ربات‌های صنعتی خود را در بخش لجستیک ارتقا دهد. این فناوری جدید به ربات‌ها اجازه می‌دهد تا اجسام با اشکال نامنظم را با دقت بالا شناسایی و جابجا کنند. این خرید استراتژیک موقعیت ABB را در بازار اتوماسیون انبارهای هوشمند و مراکز توزیع کالا به شدت تقویت خواهد کرد.",
+      "category": "transfer",
+      "published_at": "1403/08/20 14:15",
+      "collected_at": "1405/07/27 04:08",
+      "source": "ABB Robotics",
+      "source_url": "https://global.abb/group/en/media/releases/2024/abb-acquires-ai-robotics-startup",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "AI",
+        "Acquisition"
+      ]
+    },
+    {
+      "id": "ia-20241110-006",
+      "title": "انتشار نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo V4.1 توسط زیمنس",
+      "summary": "زیمنس نسخه جدید سیستم کنترل فرآیند مبتنی بر وب خود، یعنی SIMATIC PCS neo V4.1 را با تمرکز بر افزایش مقیاس‌پذیری و امنیت سایبری منتشر کرد. این نسخه جدید به مهندسان اجازه می‌دهد تا از طریق مرورگر وب و بدون نیاز به نصب نرم‌افزار محلی، پروژه‌های بزرگ صنعتی را مدیریت کنند. همچنین پشتیبانی از پروتکل‌های ارتباطی امن‌تر در این نسخه بهبود یافته است.",
+      "category": "product",
+      "published_at": "1403/08/20 15:00",
+      "collected_at": "1405/07/27 04:08",
+      "source": "Siemens Industry",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-releases-simatic-pcs-neo-v41",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "Process Automation",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20241110-007",
+      "title": "معرفی میکرودیتاسنترهای مقاوم EcoStruxure توسط اشنایدر الکتریک برای لبه شبکه صنعتی",
+      "summary": "شرکت اشنایدر الکتریک از سری جدید میکرودیتاسنترهای EcoStruxure رونمایی کرد که به طور ویژه برای کار در محیط‌های خشن کارگاهی و صنعتی بهینه‌سازی شده‌اند. این سیستم‌ها دارای عایق‌بندی پیشرفته در برابر گرد و غبار و رطوبت بوده و مجهز به سیستم‌های سرمایشی هوشمند هستند. این محصول به کارخانه‌ها اجازه می‌دهد تا محاسبات لبه را در نزدیک‌ترین نقطه به خط تولید مستقر کنند.",
+      "category": "product",
+      "published_at": "1403/08/20 15:45",
+      "collected_at": "1405/07/27 04:08",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/ecostruxure-micro-datacenter-industrial.jsp",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Edge Computing",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "ia-20241110-008",
+      "title": "رونمایی امرسون از ترانسمیترهای فشار بی‌سیم جدید Rosemount با عیب‌یابی پیشرفته",
+      "summary": "شرکت امرسون ترانسمیترهای فشار بی‌سیم جدیدی از خانواده Rosemount را به بازار عرضه کرده است که مجهز به الگوریتم‌های عیب‌یابی داخلی برای پیش‌بینی خرابی‌ها هستند. این تجهیزات با پایش مداوم سلامت خود، از توقف‌های ناخواسته در فرآیندهای حساس پتروشیمی جلوگیری می‌کنند. این سنسورها از استاندارد WirelessHART پشتیبانی کرده و نصب بسیار آسانی در نقاط دور از دسترس دارند.",
+      "category": "product",
+      "published_at": "1403/08/20 16:30",
+      "collected_at": "1405/07/27 04:08",
+      "source": "Emerson Automation",
+      "source_url": "https://www.emerson.com/en-us/news/automation/new-rosemount-wireless-pressure-transmitters",
+      "tags": [
+        "Emerson",
+        "Rosemount",
+        "Sensors",
+        "WirelessHART"
+      ]
+    },
+    {
+      "id": "ia-20241110-009",
+      "title": "گسترش قابلیت‌های دوقلوی دیجیتال در سیستم‌های کنترل عددی Sinumerik One زیمنس",
+      "summary": "زیمنس ویژگی‌های جدیدی را به پلتفرم دوقلوی دیجیتال سیستم‌های CNC سری Sinumerik One اضافه کرده است که شبیه‌سازی دقیق‌تر فرآیندهای ماشین‌کاری را ممکن می‌سازد. این ابزار به سازندگان ماشین‌آلات اجازه می‌دهد تا قبل از ساخت فیزیکی دستگاه، عملکرد آن را در محیط مجازی تست و بهینه‌سازی کنند. این فناوری زمان عرضه ماشین‌آلات جدید به بازار را تا ۳۰ درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1403/08/20 17:15",
+      "collected_at": "1405/07/27 04:08",
+      "source": "Siemens CNC",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-expands-digital-twin-sinumerik-one",
+      "tags": [
+        "Siemens",
+        "Sinumerik One",
+        "CNC",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20241110-010",
+      "title": "هشدار آژانس CISA درباره آسیب‌پذیری‌های امنیتی در کنترل‌کننده‌های سری Sysmac امرن",
+      "summary": "آژانس امنیت سایبری و امنیت زیرساخت آمریکا (CISA) هشداری جدی درباره وجود آسیب‌پذیری‌های بحرانی در کنترل‌کننده‌های منطقی برنامه‌پذیر سری Sysmac NJ و NX شرکت امرن صادر کرد. این نقص‌های امنیتی به مهاجمان اجازه می‌دهند تا کدهای مخرب را از راه دور اجرا کرده یا باعث توقف کارکرد دستگاه شوند. به کاربران توصیه شده است که سریعاً وصله‌های امنیتی ارائه‌شده را نصب کنند.",
+      "category": "regulation",
+      "published_at": "1403/08/20 18:00",
+      "collected_at": "1405/07/27 04:08",
+      "source": "CISA Advisory",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-omron-sysmac-vulnerabilities",
+      "tags": [
+        "CISA",
+        "Omron",
+        "Vulnerability",
+        "OT Security"
       ]
     }
   ]
