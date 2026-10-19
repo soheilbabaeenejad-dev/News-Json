@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 371,
+  "count": 381,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 17:02",
+  "updated_at": "1405/07/27 17:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5956,6 +5956,176 @@
         "زیمنس",
         "هوش مصنوعی",
         "برنامه‌نویسی PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی جدید برای SIMATIC ET 200AL با پشتیبانی از پروتکل‌های زمان‌بندی قطعی",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ورودی/خروجی توزیع‌شده SIMATIC ET 200AL با پشتیبانی از پروتکل‌های ارتباطی پیشرفته رونمایی کرد. این ماژول‌ها برای محیط‌های سخت صنعتی طراحی شده و تبادل داده با زمان‌بندی قطعی را در خطوط تولید فراهم می‌کنند. این تجهیزات به مهندسان کمک می‌کنند تا ساختار سیم‌کشی را در ماشین‌آلات پیچیده کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 17:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-et200al-update",
+      "tags": [
+        "SIMATIC",
+        "ET 200AL",
+        "Siemens",
+        "I/O",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی در نرم‌افزار SIMATIC WinCC Unified V19",
+      "summary": "زیمنس قابلیت‌های جدید مدیریت و مانیتورینگ انرژی را به آخرین نسخه نرم‌افزار اسکادا خود یعنی SIMATIC WinCC Unified V19 اضافه کرد. این ویژگی‌ها به اپراتورها امکان می‌دهد مصرف برق تجهیزات OT را به صورت بلادرنگ ردیابی و بهینه‌سازی کنند. این به‌روزرسانی نقش مهمی در کاهش هزینه‌های انرژی کارخانجات بزرگ صنعتی ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 17:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-wincc-unified-v19-energy",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "Siemens",
+        "Energy Management",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری زیمنس و فستو برای توسعه استانداردهای رباتیک مدولار در خطوط مونتاژ",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه جدیدی برای توسعه سیستم‌های رباتیک مدولار و یکپارچه‌سازی آن‌ها با کنترل‌کننده‌های SIMATIC امضا کردند. این همکاری بر ایجاد بسترهای سخت‌افزاری و نرم‌افزاری مشترک برای افزایش انعطاف‌پذیری ایستگاه‌های کاری تمرکز دارد. این راهکار زمان راه‌اندازی خطوط تولید خودرو و لوازم خانگی را به‌طور چشمگیری کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 17:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-festo-modular-robotics",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Robotics",
+        "SIMATIC",
+        "Modular Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه نسخه جدید پلتفرم Industrial Edge Management برای مدیریت متمرکز گیت‌وی‌ها",
+      "summary": "زیمنس نسخه جدید پلتفرم مدیریت لبه صنعتی خود را با قابلیت‌های پیشرفته امنیتی و کنترل دسترسی عرضه کرد. این ابزار به مدیران IT و OT اجازه می‌دهد صدها دستگاه لبه را در کارخانه‌های مختلف از یک پنل واحد نظارت کنند. این پلتفرم بستر لازم برای اجرای الگوریتم‌های هوش مصنوعی را در لایه فیلد فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/27 17:04",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-industrial-edge-management",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "Edge Computing",
+        "Cybersecurity",
+        "IT/OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای سیستم کنترل عددی SINUMERIK ONE با ابزارهای شبیه‌سازی پیشرفته سه‌بعدی",
+      "summary": "زیمنس قابلیت‌های جدیدی را به سیستم کنترل ماشین‌افزار SINUMERIK ONE برای شبیه‌سازی دقیق براده‌برداری اضافه کرد. این قابلیت به اپراتورها اجازه می‌دهد قبل از شروع برشکاری واقعی، کل فرآیند را به صورت سه‌بعدی و با دقت بالا بررسی کنند. این نوآوری از بروز خطاهای مکانیکی پرهزینه در صنایع ماشین‌کاری سنگین جلوگیری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:30",
+      "collected_at": "1405/07/27 17:04",
+      "source": "Manufacturing Today",
+      "source_url": "https://www.mfgmatters.com/siemens-sinumerik-one-3d",
+      "tags": [
+        "SINUMERIK ONE",
+        "CNC",
+        "Siemens",
+        "Digital Twin",
+        "Machining"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "انتشار وصله امنیتی اضطراری برای آسیب‌پذیری‌های کنترل‌کننده‌های SIMATIC S7-1500",
+      "summary": "تیم امنیتی زیمنس یک بسته به‌روزرسانی نرم‌افزاری حیاتی برای رفع نقص‌های امنیتی کشف‌شده در کنترل‌کننده‌های S7-1500 منتشر کرد. این آسیب‌پذیری‌ها می‌توانست به مهاجمان اجازه دهد دسترسی غیرمجاز به حافظه PLC پیدا کنند. از تمامی مدیران شبکه خواسته شده است تا فریم‌ور تجهیزات خود را در اسرع وقت ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 12:15",
+      "collected_at": "1405/07/27 17:04",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-s7-1500-security-patch",
+      "tags": [
+        "Cybersecurity",
+        "SIMATIC S7-1500",
+        "PLC",
+        "Siemens",
+        "Vulnerability"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "گسترش کاربرد هوش مصنوعی مولد در مهندسی اتوماسیون با Siemens Industrial Copilot",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی صنعتی خود را برای تولید خودکار کدهای برنامه‌نویسی SCL در TIA Portal توسعه داد. این ابزار قادر است دستورالعمل‌های متنی اپراتورها را به منطق کنترلی معتبر تبدیل کند. این فناوری سرعت توسعه پروژه‌های بزرگ اتوماسیون را تا چهل درصد افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 13:00",
+      "collected_at": "1405/07/27 17:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-copilot-expansion",
+      "tags": [
+        "Industrial Copilot",
+        "AI",
+        "TIA Portal",
+        "Siemens",
+        "Programming"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهینه‌سازی مصرف سوخت در توربین‌های صنعتی با راهکار جدید زیمنس انرژی",
+      "summary": "بخش انرژی زیمنس از یک سیستم کنترلی جدید مبتنی بر الگوریتم‌های یادگیری ماشین برای توربین‌های گاز رونمایی کرد. این سامانه با تحلیل داده‌های احتراق به صورت لحظه‌ای، راندمان حرارتی را بهبود می‌بخشد. این راهکار گامی مهم در جهت کاهش انتشار کربن در نیروگاه‌های بزرگ مقیاس محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/27 14:20",
+      "collected_at": "1405/07/27 17:04",
+      "source": "Power Engineering",
+      "source_url": "https://www.power-eng.com/siemens-energy-turbine-control",
+      "tags": [
+        "Siemens Energy",
+        "Turbine",
+        "Control System",
+        "Decarbonization",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "یکپارچه‌سازی سیستم‌های MES زیمنس با پلتفرم‌های ابری آمازون برای ردیابی تولید",
+      "summary": "زیمنس نرم‌افزار مدیریت عملیات ساخت خود را با زیرساخت‌های ابری آمازون وب سرویس (AWS) یکپارچه ساخت. این اتصال امکان پردازش حجیم داده‌های کیفی خطوط مونتاژ را در فضای ابری فراهم می‌کند. مدیران کارخانه اکنون می‌توانند گلوگاه‌های تولید را در سطح جهانی به صورت متمرکز تحلیل کنند.",
+      "category": "company",
+      "published_at": "1405/07/27 15:10",
+      "collected_at": "1405/07/27 17:04",
+      "source": "Cloud Computing News",
+      "source_url": "https://www.cloudcomputing-news.net/siemens-mes-aws-integration",
+      "tags": [
+        "Opcenter",
+        "MES",
+        "AWS",
+        "Cloud",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی نسل جدید اینورترهای سینامیکس با استانداردهای ارتباطی پروفینت پیشرفته",
+      "summary": "زیمنس سبد محصولات درایوهای فرکانس متغیر خود را با معرفی سری جدید SINAMICS G240 گسترش داد. این اینورترها مجهز به قابلیت‌های ایمنیپارک‌شده یکپارچه و پورت‌های ارتباطی پروفینت با پهنای باند بالا هستند. این تجهیزات دقت کنترل دور موتور را در کاربردهای سنگین صنعتی به طور قابل توجهی افزایش می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/27 16:00",
+      "collected_at": "1405/07/27 17:04",
+      "source": "Drive & Control",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-g240-launch",
+      "tags": [
+        "SINAMICS",
+        "Inverter",
+        "Drives",
+        "PROFINET",
+        "Siemens"
       ]
     }
   ]
