@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 399,
+  "count": 409,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 18:01",
+  "updated_at": "1405/07/27 18:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -6414,6 +6414,176 @@
         "Industrial Copilot",
         "AI",
         "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی جدید PROFINET برای سری SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از ماژول‌های ارتباطی پیشرفته جدیدی برای کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 پرده برداشت که از پروتکل‌های ارتباطی پرسرعت PROFINET پشتیبانی می‌کنند. این ماژول‌ها با هدف افزایش پهنای باند و کاهش تاخیر در تبادل داده‌ها میان لایه فیلد و سیستم‌های اسکادا توسعه یافته‌اند. این فناوری جدید به مهندسان اتوماسیون اجازه می‌دهد تا شبکه‌های صنعتی پیچیده‌تر و امن‌تری را در خطوط تولید مدرن پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 18:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-profinet-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PROFINET",
+        "PLC",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی در محیط مهندسی TIA Portal V19 SP1",
+      "summary": "شرکت زیمنس نسخه به‌روزرسانی شده محیط مهندسی TIA Portal V19 SP1 را با تمرکز بر توسعه ابزارهای هوش مصنوعی منتشر کرد. این نسخه جدید شامل دستیار هوشمند پیشرفته‌ای است که کدهای PLC را به طور خودکار بهینه‌سازی کرده و خطاهای احتمالی منطقی را پیش از استقرار شناسایی می‌کند. این تحول گامی بزرگ در جهت کاهش زمان مهندسی و افزایش کیفیت برنامه‌نویسی در پروژه‌های اتوماسیون صنعتی به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/27 18:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-tia-portal-v19-sp1-ai-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Artificial Intelligence",
+        "Engineering",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه رباتیک مدولار در کارخانه‌های هوشمند",
+      "summary": "زیمنس و شرکت فستو توافق‌نامه همکاری مشترکی را برای یکپارچه‌سازی سیستم‌های پنوماتیک پیشرفته با پلتفرم اتوماسیون صنعتی Siemens Xcelerator امضا کردند. این شراکت راهبردی به تولیدکنندگان امکان می‌دهد تا ایستگاه‌های کاری رباتیک مدولار و انعطاف‌پذیرتری را برای خطوط مونتاژ سفارشی‌سازی شده ایجاد کنند. استفاده از این راهکار مشترک موجب بهبود چشمگیر بهره‌وری انرژی و سرعت تولید در صنایع خودروسازی و الکترونیک خواهد شد.",
+      "category": "company",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 18:03",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-festo-modular-robotics-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Xcelerator",
+        "Robotics",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه نسل جدید پنل‌های اپراتوری SIMATIC HMI Comfort Pro با قابلیت ضدآب",
+      "summary": "زیمنس سبد محصولات رابط کاربری انسان و ماشین خود را با معرفی سری جدید SIMATIC HMI Comfort Pro تقویت کرد که دارای بدنه‌ای از جنس استیل ضدزنگ و استاندارد حفاظتی IP69K است. این پنل‌های اپراتوری صنعتی به طور ویژه برای استفاده در صنایع غذایی و دارویی که نیازمند شستشوی مداوم با فشار آب بالا هستند، طراحی شده‌اند. نمایشگرهای باکیفیت و پردازنده‌های قدرتمند داخلی، پایش فرآیندها را حتی در شرایط محیطی سخت بسیار ساده‌تر می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:20",
+      "collected_at": "1405/07/27 18:03",
+      "source": "IEB - Industrial Embedded",
+      "source_url": "https://www.iebmedia.com/siemens-simatic-hmi-comfort-pro-ip69k",
+      "tags": [
+        "Siemens",
+        "SIMATIC HMI",
+        "Comfort Panel",
+        "Food Industry",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "انتشار نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS 7 V9.1 SP2",
+      "summary": "زیمنس نسخه جدید بسته نرم‌افزاری سیستم کنترل توزیع‌شده خود، SIMATIC PCS 7 V9.1 SP2، را با تمرکز بر ارتقای امنیت سایبری و پایداری فرآیندها عرضه کرد. این نسخه شامل ابزارهای پیشرفته‌ای برای عیب‌یابی آنی و مدیریت چرخه عمر دارایی‌های نرم‌افزاری و سخت‌افزاری در صنایع نفت، گاز و پتروشیمی است. این به‌روزرسانی به اپراتورها کمک می‌کند تا با کمترین زمان توقف، بالاترین سطح از انطباق با استانداردهای امنیتی IEC 62443 را رعایت کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 12:45",
+      "collected_at": "1405/07/27 18:03",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-releases-simatic-pcs7-v91-sp2",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای امنیت شبکه OT با ماژول‌های فایروال جدید SCALANCE SC-600 زیمنس",
+      "summary": "زیمنس خط تولید تجهیزات شبکه صنعتی خود را با معرفی ماژول‌های فایروال امنیتی سری SCALANCE SC-600 گسترش داد تا از شبکه‌های حساس صنعتی در برابر تهدیدات سایبری محافظت کند. این تجهیزات توانایی تفکیک ترافیک شبکه و ایجاد بخش‌بندی‌های امنیتی دقیق را بر اساس استانداردهای روز دنیا فراهم می‌کنند. این ماژول‌ها نقش کلیدی در ایمن‌سازی زیرساخت‌های حیاتی و جلوگیری از دسترسی‌های غیرمجاز به کنترل‌کننده‌های PLC ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 13:30",
+      "collected_at": "1405/07/27 18:03",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-sc600-firewall",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "OT Security",
+        "Firewall",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه قابلیت‌های مانیتورینگ انرژی با اپلیکیشن‌های جدید Siemens Industrial Edge",
+      "summary": "شرکت زیمنس از عرضه مجموعه جدیدی از اپلیکیشن‌های تحلیل مصرف انرژی روی پلتفرم نرم‌افزاری Siemens Industrial Edge خبر داد. این ابزارها به واحدهای صنعتی اجازه می‌دهند تا داده‌های مصرف برق، آب و گاز را به صورت بلادرنگ و با دقت بالا پایش و تحلیل کنند. با استفاده از این راهکار لبه شبکه، کارخانه‌ها قادر خواهند بود نقشه راه کربن‌زدایی خود را به طور مؤثری پیاده‌سازی کرده و هزینه‌های انرژی را کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/27 14:10",
+      "collected_at": "1405/07/27 18:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-energy-apps",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Energy Management",
+        "Sustainability",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهینه‌سازی کنترل حرکت در ماشین‌آلات صنعتی با درایوهای SINAMICS S210 ارتقایفته",
+      "summary": "زیمنس نسل جدید درایوهای سروو SINAMICS S210 را با ویژگی‌های پیشرفته کنترلی برای صنایع بسته‌بندی و چاپ روانه بازار کرد. این درایوهای هوشمند امکان موقعیت‌یابی فوق‌العاده دقیق و سریع را برای بارهای مختلف فراهم کرده و خطاهای مکانیکی را به حداقل می‌رسانند. پشتیبانی از توابع ایمنی یکپارچه پیشرفته از دیگر مزایای این تجهیزات است که ایمنی اپراتورها را در کار با ماشین‌آلات پرسرعت تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 15:00",
+      "collected_at": "1405/07/27 18:03",
+      "source": "Machine Design",
+      "source_url": "https://www.machinedesign.com/siemens-sinamics-s210-servo-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Motion Control",
+        "Servo Drives",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه همکاری زیمنس و دانشگاه صنعتی مونیخ برای تحقیق روی فناوری‌های دوقلوی دیجیتال",
+      "summary": "زیمنس تفاهم‌نامه همکاری پژوهشی جدیدی را با دانشگاه صنعتی مونیخ (TUM) به منظور پیشبرد تحقیقات در زمینه مدل‌سازی پیشرفته دوقلوهای دیجیتال امضا کرد. این پروژه تحقیقاتی بر استفاده از الگوریتم‌های هوش مصنوعی برای شبیه‌سازی دقیق رفتار فیزیکی تجهیزات کارخانه در زمان واقعی متتمرکز است. این دستاوردها مستقیماً در نسل‌های آتی پلتفرم Siemens Xcelerator برای بهبود طراحی مهندسی به کار گرفته خواهند شد.",
+      "category": "research",
+      "published_at": "1405/07/27 16:20",
+      "collected_at": "1405/07/27 18:03",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/siemens-tum-digital-twin-research",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Research",
+        "Xcelerator",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی کنترل‌کننده فشرده جدید SIMATIC ET 200SP Open Controller توسط زیمنس",
+      "summary": "زیمنس کنترل‌کننده باز و فشرده SIMATIC ET 200SP Open Controller را با توان پردازشی بالاتر برای کاربردهای اتوماسیون پراکنده معرفی کرد. این محصول ترکیبی منحصربه‌فرد از قابلیت‌های یک کنترل‌کننده مرکزی PLC مبتنی بر PC و ماژول‌های ورودی/خروجی توزیع‌شده در یک بدنه بسیار کوچک است. این کنترل‌کننده برای ماشین‌آلات با فضای نصب محدود و نیازهای پردازشی لبه شبکه یک انتخاب ایده‌آل محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 17:40",
+      "collected_at": "1405/07/27 18:03",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-simatic-et200sp-open-controller-release",
+      "tags": [
+        "Siemens",
+        "ET 200SP",
+        "Open Controller",
+        "PLC",
+        "Edge Computing"
       ]
     }
   ]
