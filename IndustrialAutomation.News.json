@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 158,
+  "count": 168,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/27 12:00",
+  "updated_at": "1405/07/27 12:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2528,6 +2528,156 @@
         "Cybersecurity",
         "ICS",
         "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته پردازش لبه در پلتفرم Industrial Edge زیمنس",
+      "summary": "شرکت زیمنس از ماژول‌های جدید پردازش لبه برای پلتفرم Siemens Industrial Edge رونمایی کرد که امکان اجرای الگوریتم‌های هوش مصنوعی را مستقیماً بر روی ماشین‌آلات فراهم می‌کند. این ابزار به مهندسان کمک می‌کند تا تحلیل داده‌های بلادرنگ را بدون نیاز به ارسال اطلاعات به ابر انجام دهند. این راهکار نقش مهمی در کاهش تأخیر شبکه و ارتقای امنیت داده‌های کارخانه ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 08:30",
+      "collected_at": "1405/07/27 12:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-industrial-edge-update",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ در نرم‌افزار SIMATIC WinCC Unified V19",
+      "summary": "نسخه جدید نرم‌افزار مانیتورینگ SIMATIC WinCC Unified V19 زیمنس با قابلیت‌های پیشرفته تجسم‌سازی و وب‌محور منتشر شد. این نسخه ابزارهای بهینه‌تری برای طراحی رابط‌های کاربری اپراتوری و تحلیل عملکردهای خط تولید ارائه می‌دهد. استفاده از این نرم‌افزار باعث افزایش بهره‌وری اپراتورها و کاهش خطاهای انسانی در کنترل فرآیندهای صنعتی پیچیده می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/27 09:00",
+      "collected_at": "1405/07/27 12:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-wincc-unified-v19",
+      "tags": [
+        "WinCC",
+        "SIMATIC",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای اتوماسیون پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه همکاری جدیدی برای یکپارچه‌سازی تجهیزات پنوماتیک با کنترل‌کننده‌های SIMATIC S7-1500 امضا کردند. این همکاری به توسعه ماژول‌های ارتباطی استاندارد برای تبادل داده‌های تشخیصی تجهیزات پنوماتیکی منجر می‌شود. هدف اصلی این پروژه کاهش زمان توقف خطوط و بهبود نگهداری پیشگیرانه در کارخانه‌های هوشمند است.",
+      "category": "company",
+      "published_at": "1405/07/27 09:30",
+      "collected_at": "1405/07/27 12:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "انتشار راهنمای امنیتی جدید برای تجهیزات شبکه صنعتی Ruggedcom زیمنس",
+      "summary": "تیم واکنش اضطراری سایبری زیمنس راهنمای امنیتی تازه‌ای برای ایمن‌سازی سوئیچ‌های صنعتی سری Ruggedcom منتشر کرد. این مستند شامل دستورالعمل‌های سخت‌گیرانه‌تری برای پیکربندی پروتکل‌های ارتباطی و مقابله با تهدیدات سایبری در زیرساخت‌های حیاتی است. رعایت این استانداردها برای اپراتورهای شبکه‌های توزیع برق و حمل‌ونقل ریلی از اهمیت ویژه‌ای برخوردار است.",
+      "category": "regulation",
+      "published_at": "1405/07/27 10:00",
+      "collected_at": "1405/07/27 12:01",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-ruggedcom-security",
+      "tags": [
+        "Ruggedcom",
+        "Cybersecurity",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "بهینه‌سازی مصرف انرژی در خطوط تولید با راهکار جدید Insights Hub زیمنس",
+      "summary": "زیمنس پلتفرم ابری Insights Hub را با ماژول‌های جدید مدیریت انرژی و پایش ردپای کربن به‌روزرسانی کرد. این ابزار به صنایع سنگین اجازه می‌دهد تا مصرف انرژی تجهیزات را در سطح کارخانه مانیتور و بهینه کنند. این راهکار مستقیماً به شرکت‌ها در دستیابی به اهداف پایداری محیط زیستی و کاهش هزینه‌های عملیاتی کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:15",
+      "collected_at": "1405/07/27 12:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-energy",
+      "tags": [
+        "Insights Hub",
+        "Energy Management",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی نسل جدید اینورترهای SINAMICS G120X با استانداردهای راندمان بالا",
+      "summary": "شرکت زیمنس سری جدید درایوهای فرکانس متغیر SINAMICS G120X را برای کاربردهای پمپ، فن و کمپرسور به بازار عرضه کرد. این اینورترها با طراحی فشرده و قابلیت‌های ارتباطی گسترده، نصب و راه‌اندازی را برای تکنسین‌ها بسیار ساده‌تر می‌کنند. استفاده از این درایوها تلفات انرژی در سیستم‌های محرک الکتریکی را به‌طور قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/27 12:01",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-g120x",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Motors"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه قابلیت‌های مهندسی معکوس در نرم‌افزار NX صنعتی زیمنس",
+      "summary": "نسخه جدید نرم‌افزار طراحی و مهندسی NX زیمنس ابزارهای پیشرفته‌ای برای تحلیل قطعات پیچیده با کمک اسکن سه‌بعدی ارائه داد. این قابلیت به طراحان صنعتی اجازه می‌دهد تا مدل‌های CAD را با دقت بالایی از روی نمونه‌های فیزیکی بازسازی کنند. این فناوری سرعت توسعه محصولات جدید در صنایع خودروسازی و هوافضا را به شدت افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/27 11:00",
+      "collected_at": "1405/07/27 12:01",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/siemens-nx-update",
+      "tags": [
+        "Siemens NX",
+        "CAD",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "ارتقای سیستم کنترل توزیع‌شده SIMATIC PCS neo برای پروژه‌های بزرگ پتروشیمی",
+      "summary": "زیمنس پلتفرم DCS خود موسوم به SIMATIC PCS neo را با امکانات جدید برای مدیریت پروژه در مقیاس وسیع بروزرسانی کرد. این نسخه جدید از معماری کاملاً وب‌محور پشتیبانی می‌کند تا مهندسان در نقاط مختلف جهان به طور همزمان روی یک پروژه کار کنند. این ویژگی همکاری تیمی را تسهیل کرده و زمان اجرای پروژه‌های نفت و گاز را کوتاه می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/27 11:20",
+      "collected_at": "1405/07/27 12:01",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-pcs-neo-update",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه ابزارهای شبیه‌سازی سلول‌های رباتیک در پلتفرم Tecnomatix",
+      "summary": "بخش نرم‌افزارهای صنعتی زیمنس قابلیت‌های جدیدی را به مجموعه Tecnomatix برای شبیه‌سازی حرکت ربات‌های صنعتی اضافه کرد. این ابزار به کاربران امکان می‌دهد برخوردهای مکانیکی را پیش از راه‌اندازی واقعی سلول‌های رباتیک شناسایی و برطرف کنند. این رویکرد از هزینه‌های سنگین ناشی از خطاهای طراحی در خطوط مونتاژ جلوگیری می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/27 11:40",
+      "collected_at": "1405/07/27 12:01",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-tecnomatix-update",
+      "tags": [
+        "Tecnomatix",
+        "Robotics",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "همکاری زیمنس با دانشگاه فنی مونیخ برای توسعه تحقیقات هوش مصنوعی صنعتی",
+      "summary": "شرکت زیمنس و دانشگاه فنی مونیخ یک آزمایشگاه مشترک جدید برای پژوهش روی مدل‌های زبانی بزرگ در اتوماسیون تأسیس کردند. این مرکز روی بهینه‌سازی کدهای برنامه‌نویسی PLC با استفاده از دستورات متنی طبیعی تمرکز خواهد داشت. این پروژه گامی مهم در جهت تربیت نسل آینده مهندسان تسلط‌یافته بر فناوری‌های نوین صنعتی محسوب می‌شود.",
+      "category": "research",
+      "published_at": "1405/07/27 12:00",
+      "collected_at": "1405/07/27 12:01",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/siemens-tum-ai-lab",
+      "tags": [
+        "Research",
+        "Artificial Intelligence",
+        "Siemens"
       ]
     }
   ]
