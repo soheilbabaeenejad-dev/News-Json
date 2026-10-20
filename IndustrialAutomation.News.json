@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 718,
+  "count": 727,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 13:05",
+  "updated_at": "1405/07/28 13:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -11519,6 +11519,150 @@
         "ET 200AL",
         "I/O Modules",
         "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته پردازش لبه در سری SIMATIC ET 200MP زیمنس",
+      "summary": "شرکت زیمنس از ماژول‌های پردازشی جدید برای خانواده SIMATIC ET 200MP رونمایی کرد که توانمندی محاسبات لبه را به شدت ارتقا می‌دهند. این ماژول‌ها امکان اجرای الگوریتم‌های هوش مصنوعی و تحلیل داده‌های سنسورها را به صورت محلی و بلادرنگ فراهم می‌کنند. این نوآوری به مهندسان اجازه می‌دهد تا بدون نیاز به ارسال تمام داده‌ها به ابر، تصمیمات حیاتی را در لایه اتوماسیون اتخاذ نمایند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 13:06",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-et200mp-edge",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Edge Computing",
+        "ET 200MP"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی در نرم‌افزار SIMATIC Energy Suite",
+      "summary": "نسخه جدید SIMATIC Energy Suite زیمنس با امکانات پیشرفته‌ای برای ردیابی مصرف انرژی در کارخانه‌ها عرضه شد. این ابزار به طور یکپارچه با محیط مهندسی TIA Portal کار می‌کند و بهینه‌سازی مصرف برق خطوط تولید را تسهیل می‌نماید. این قابلیت جدید به صنایع کمک می‌کند تا اهداف پایداری و کاهش انتشار کربن را با دقت بالاتری محقق سازند.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 13:06",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-simatic-energy-suite-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Energy Management",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "انتشار بسته امنیتی جامع برای سیستم کنترل SIMATIC PCS 7",
+      "summary": "شرکت زیمنس به‌روزرسانی امنیتی مهمی را برای سیستم کنترل فرآیند SIMATIC PCS 7 منتشر کرد تا از زیرساخت‌های حیاتی در برابر تهدیدات سایبری محافظت کند. این پچ امنیتی آسیب‌پذیری‌های گزارش‌شده در ماژول‌های ارتباطی را برطرف می‌سازد. نصب این به‌روزرسانی برای تمامی اپراتورهای صنایع نفت، گاز و پتروشیمی استفاده‌کننده از این سیستم الزامی اعلام شده است.",
+      "category": "regulation",
+      "published_at": "1405/07/28 10:45",
+      "collected_at": "1405/07/28 13:06",
+      "source": "ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/siemens-pcs7-update",
+      "tags": [
+        "Siemens",
+        "PCS 7",
+        "Cybersecurity",
+        "ICS"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "رونمایی از نسل جدید درایوهای فرکانس متغیر SINAMICS G120X با قابلیت‌های شبکه پروفی‌نت",
+      "summary": "سری جدید درایوهای SINAMICS G120X زیمنس با پشتیبانی بومی از پروتکل پروفی‌نت و استانداردهای ارتباطی مدرن معرفی شدند. این درایوها به طور ویژه برای کاربردهای پمپ، فن و کمپرسور در ساختمان‌های صنعتی بزرگ طراحی شده‌اند. کاهش تلفات انرژی و راه‌اندازی آسان از طریق اپلیکیشن موبایل از مهم‌ترین ویژگی‌های این محصول جدید است.",
+      "category": "product",
+      "published_at": "1405/07/28 11:20",
+      "collected_at": "1405/07/28 13:06",
+      "source": "IEB Media",
+      "source_url": "https://www.iebmedia.com/siemens-sinamics-g120x-profinet",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه قابلیت‌های شبیه‌سازی سه بعدی در نرم‌افزار SIMIT V11.2",
+      "summary": "زیمنس نسخه جدید SIMIT V11.2 را برای شبیه‌سازی سیستم‌های اتوماسیون و فرآیندهای صنعتی منتشر کرد. این نسخه ابزارهای پیشرفته‌تری برای اتصال به دوقلوهای دیجیتال و تست مجازی کدهای PLC فراهم می‌کند. این نرم‌افزار به تیم‌های مهندسی امکان می‌دهد پیش از راه‌اندازی فیزیکی کارخانه، تمامی خطاهای احتمالی را شناسایی و برطرف کنند.",
+      "category": "news",
+      "published_at": "1405/07/28 12:00",
+      "collected_at": "1405/07/28 13:06",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-releases-simit-v11-2",
+      "tags": [
+        "Siemens",
+        "SIMIT",
+        "Digital Twin",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی ماژول ارتباطی جدید CP 1543-1 برای امنیت شبکه‌های SIMATIC S7-1500",
+      "summary": "ماژول ارتباطی صنعتی جدیدی با نام CP 1543-1 توسط زیمنس برای کنترل‌کننده‌های SIMATIC S7-1500 به بازار عرضه شد. این ماژول دارای فایروال یکپارچه Stateful Inspection و قابلیت‌های رمزنگاری پیشرفته VPN است. این تجهیز به مدیران شبکه OT کمک می‌کند تا امنیت ارتباطات صنعتی را به سطح بالاتری ارتقا دهند.",
+      "category": "product",
+      "published_at": "1405/07/28 12:30",
+      "collected_at": "1405/07/28 13:06",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-cp1543-1",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Firewall",
+        "Network Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "سرمایه‌گذاری زیمنس در توسعه زیرساخت‌های تولید رباتیک در آلمان",
+      "summary": "شرکت زیمنس بودجه کلانی را برای مدرن‌سازی کارخانه تولید تجهیزات اتوماسیون و رباتیک خود در شهر نورنبرگ اختصاص داد. این پروژه با هدف استفاده حداکثری از فناوری‌های هوش مصنوعی و ربات‌های خودران در خطوط مونتاژ انجام می‌شود. این اقدام بخشی از استراتژی کلان زیمنس برای افزایش انعطاف‌پذیری و ظرفیت تولید در بازار اروپا است.",
+      "category": "industry",
+      "published_at": "1405/07/28 13:00",
+      "collected_at": "1405/07/28 13:06",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/siemens-nuremberg-factory-investment",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "Manufacturing",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "یکپارچه‌سازی ابزارهای ابری Insights Hub با محیط مهندسی Totally Integrated Automation",
+      "summary": "زیمنس ارتباط میان پلتفرم ابری Insights Hub و محیط مهندسی TIA Portal را بیش از پیش تقویت کرد. این یکپارچگی به کاربران امکان می‌دهد داده‌های تشخیصی تجهیزات را به صورت خودکار به فضای ابری ارسال کنند. این امر تحلیل‌های کلان‌داده را برای پیش‌بینی خرابی قطعات و کاهش زمان توقف خطوط تولید تسهیل می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/28 13:02",
+      "collected_at": "1405/07/28 13:06",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-tia-portal",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "ارتقای سیستم اسکادا SIMATIC WinCC Unified با ویجت‌های جدید تحلیل داده",
+      "summary": "نسخه به‌روزرسانی شده سیستم اسکادا SIMATIC WinCC Unified زیمنس با ویجت‌های گرافیکی پیشرفته برای مانیتورینگ فرآیندها منتشر شد. این ابزار جدید به اپراتورها اجازه می‌دهد داشبوردهای سفارشی‌سازی شده‌تری برای پایش عملگرهای صنعتی ایجاد کنند. این تغییرات بر اساس بازخوردهای مهندسان کنترل برای بهبود تجربه کاربری و سرعت واکنش در شرایط بحرانی طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 13:05",
+      "collected_at": "1405/07/28 13:06",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-wincc-unified-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
       ]
     }
   ]
