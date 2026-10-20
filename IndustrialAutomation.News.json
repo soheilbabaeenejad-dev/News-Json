@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 913,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/28 18:15",
+  "count": 920,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/28 19:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -14614,6 +14614,125 @@
         "Yokogawa",
         "DCS",
         "Petrochemical"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه ماژول‌های پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو توافقنامه همکاری جدیدی را برای توسعه نسل آینده ماژول‌های پنوماتیک متصل به شبکه امضا کردند. این همکاری بر پایه پروتکل PROFINET شکل گرفته و امکان پایش لحظه‌ای فشار هوا و مصرف انرژی را در تجهیزات اتوماسیون فراهم می‌آورد. هدف از این پروژه، بهینه‌سازی مصرف انرژی و پیاده‌سازی مفهوم تعمیر و نگهداری پیشگیرانه در کارخانه‌هاست.",
+      "category": "match",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 19:02",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-pneumatics-pne-2026",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "PROFINET",
+        "Energy Efficiency",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه نسخه جدید پلتفرم Industrial Edge برای تحلیل داده‌های ابری و محلی",
+      "summary": "زیمنس نسخه جدید پلتفرم Siemens Industrial Edge را با قابلیت مدیریت متمرکز کانتینرها عرضه کرد. این پلتفرم به صنایع اجازه می‌دهد الگوریتم‌های هوش مصنوعی و یادگیری ماشین را مستقیماً در لایه کارخانه اجرا کنند و نتایج را بدون تاخیر دریافت نمایند. این به‌روزرسانی امنیت تبادل داده‌ها را تقویت کرده و اتصال امن به سیستم‌های ابری را تسهیل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 11:20",
+      "collected_at": "1405/07/28 19:02",
+      "source": "IoT Analytics",
+      "source_url": "https://www.iot-analytics.com/siemens-industrial-edge-update-2026",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Edge Computing",
+        "IIoT",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "انتشار گزارش امنیت سایبری CISA درباره آسیب‌پذیری تجهیزات صنعتی زیمنس",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) گزارشی درباره چند آسیب‌پذیری در تجهیزات ارتباطی و کنترل‌کننده‌های زیمنس منتشر کرد. این نقص‌ها می‌توانند به مهاجمان اجازه دهند دسترسی غیرمجاز به شبکه‌های OT پیدا کنند. زیمنس بلافاصله بسته‌های اصلاحی و Firmware جدید را برای رفع این چالش‌ها در اختیار کاربران قرار داده است.",
+      "category": "regulation",
+      "published_at": "1405/07/28 13:50",
+      "collected_at": "1405/07/28 19:02",
+      "source": "CISA Cybersecurity Alerts",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/siemens-update-october-2026",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "Siemens",
+        "Vulnerability",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه دوقلوهای دیجیتال پیشرفته در خودروسازی با نرم‌افزار زیمنس Xcelerator",
+      "summary": "شرکت خودروسازی ب‌ام‌و از توسعه همکاری خود با زیمنس برای پیاده‌سازی دوقلوهای دیجیتال کامل در خطوط مونتاژ خبر داد. این پروژه با استفاده از پلتفرم Siemens Xcelerator اجرا می‌شود و امکان شبیه‌سازی دقیق رفتار ربات‌ها و جریان مواد را فراهم می‌کند. این فناوری زمان طراحی خطوط تولید جدید را تا چهل درصد کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/28 15:10",
+      "collected_at": "1405/07/28 19:02",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/bmw-siemens-xcelerator",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Automotive",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی اینترفرومترهای نوری جدید با پروتکل IO-Link توسط شرکت بلوهم",
+      "summary": "شرکت بلوهم سنسورهای اندازه‌گیری نوری جدید خود را با پشتیبانی کامل از پروتکل استاندارد IO-Link به بازار عرضه کرد. این تجهیزات دقت بالایی در کنترل کیفیت ابعادی قطعات فلزی در خطوط تولید سرعت بالا دارند. اطلاعات تشخیصی این سنسورها به صورت مداوم به کنترل‌کننده‌های مرکزی ارسال می‌شود تا از بروز خطاهای احتمالی جلوگیری گردد.",
+      "category": "product",
+      "published_at": "1405/07/28 16:05",
+      "collected_at": "1405/07/28 19:02",
+      "source": "Sensors Magazine",
+      "source_url": "https://www.sensorsmag.com/products/blueohm-io-link-sensors",
+      "tags": [
+        "IO-Link",
+        "Sensors",
+        "Quality Control",
+        "Automation",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "سرمایه‌گذاری زیمنس در احداث کارخانه جدید تولید درایوهای صنعتی در آلمان",
+      "summary": "زیمنس ساخت کارخانه پیشرفته تولید درایوهای فرکانس متغیر SINAMICS را در شهر نورنبرگ آلمان آغاز کرد. این پروژه با بودجه‌ای کلان و با هدف استفاده حداکثری از اتوماسیون پیشرفته و هوش مصنوعی در فرآیند مونتاژ طراحی شده است. کارخانه جدید مجهز به سیستم‌های لجستیک خودکار و ربات‌های همکار خواهد بود.",
+      "category": "economy",
+      "published_at": "1405/07/28 17:30",
+      "collected_at": "1405/07/28 19:02",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/companies/siemens-nuremberg-factory",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Manufacturing",
+        "Investment",
+        "Germany"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "به‌روزرسانی پروتکل ارتباطی PROFINET برای پشتیبانی از TSN در شبکه‌های ابری",
+      "summary": "سازمان PROFIBUS & PROFINET International نسخه جدید مشخصات فنی PROFINET را با تمرکز بر قابلیت‌های شبکه زمان‌بندی شده (TSN) منتشر کرد. این استاندارد جدید امکان تبادل بلادرنگ داده‌ها را میان تجهیزات اتوماسیون زیمنس و سایر برندها فراهم می‌سازد. توسعه این فناوری گامی مهم در جهت همگرایی کامل شبکه‌های IT و OT در صنایع مدرن محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/28 18:45",
+      "collected_at": "1405/07/28 19:02",
+      "source": "Industrial Communication News",
+      "source_url": "https://www.indcomnews.com/profinet-tsn-update-2026",
+      "tags": [
+        "PROFINET",
+        "TSN",
+        "Industrial Ethernet",
+        "IT/OT",
+        "Standardization"
       ]
     }
   ]
