@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 967,
+  "count": 976,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/28 20:08",
+  "updated_at": "1405/07/28 20:17",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -15485,6 +15485,150 @@
         "Security",
         "IO",
         "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261020-001",
+      "title": "ارتقای قابلیت‌های تحلیل پیش‌بینانه در نرم‌افزار SIMATIC WinCC Unified",
+      "summary": "زیمنس نسخه جدید نرم‌افزار SIMATIC WinCC Unified را با تمرکز بر تحلیل‌های پیش‌بینانه معرفی کرد. این به‌روزرسانی به اپراتورها اجازه می‌دهد تا با استفاده از الگوریتم‌های داخلی، خرابی تجهیزات را پیش از وقوع شناسایی کنند. این ابزار با کاهش زمان توقف غیرمنتظره، بهره‌وری خطوط تولید را به طور چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 09:00",
+      "collected_at": "1405/07/28 20:17",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/simatic-wincc-unified.html",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "Predictive Maintenance",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261020-002",
+      "title": "معرفی نسل جدید ماژول‌های ارتباطی I/O برای شبکه PROFINET",
+      "summary": "شرکت زیمنس ماژول‌های ورودی/خروجی جدیدی را برای سری ET 200SP رونمایی کرد که از استاندارد PROFINET با سرعت انتقال داده بالاتر پشتیبانی می‌کنند. این ماژول‌ها برای کاربردهایی با نیاز به زمان پاسخ‌دهی بسیار کوتاه در اتوماسیون پرسرعت طراحی شده‌اند. این محصول به مهندسان کمک می‌کند تا پیچیدگی سیم‌کشی را در تابلوهای برق کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:15",
+      "collected_at": "1405/07/28 20:17",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-et200sp-update",
+      "tags": [
+        "PROFINET",
+        "ET 200SP",
+        "I/O",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261020-003",
+      "title": "همکاری زیمنس و انویدیا برای بهینه‌سازی دوقلوهای دیجیتال در مقیاس بزرگ",
+      "summary": "زیمنس و انویدیا همکاری خود را برای استفاده از پلتفرم Omniverse در محیط‌های صنعتی گسترش دادند. این همکاری امکان شبیه‌سازی فیزیکی دقیق کارخانه‌های بزرگ را در محیط مجازی فراهم می‌کند. با استفاده از این فناوری، شرکت‌ها می‌توانند پیش از اجرای فیزیکی، تمامی فرآیندهای تولید را بهینه و خطاهای احتمالی را برطرف کنند.",
+      "category": "industry",
+      "published_at": "1405/07/28 11:30",
+      "collected_at": "1405/07/28 20:17",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-news.com/siemens-nvidia-partnership",
+      "tags": [
+        "NVIDIA",
+        "Digital Twin",
+        "Omniverse",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261020-004",
+      "title": "انتشار راهنمای جدید امنیت سایبری برای شبکه‌های صنعتی توسط CISA",
+      "summary": "آژانس امنیت سایبری و زیرساخت‌های آمریکا (CISA) راهنمای جدیدی را برای ایمن‌سازی تجهیزات OT منتشر کرد. این گزارش بر اهمیت جداسازی شبکه‌های کنترل صنعتی از شبکه‌های اداری تاکید دارد. رعایت این دستورالعمل‌ها برای تمامی کارخانه‌هایی که از تجهیزات متصل به اینترنت استفاده می‌کنند، حیاتی است.",
+      "category": "regulation",
+      "published_at": "1405/07/28 12:45",
+      "collected_at": "1405/07/28 20:17",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "CISA",
+        "Industrial Security"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "رونمایی از درایوهای هوشمند SINAMICS G220 با قابلیت‌های کاهش مصرف انرژی",
+      "summary": "زیمنس درایوهای فرکانس متغیر جدید سری SINAMICS G220 را با هدف کاهش مصرف انرژی در صنایع سنگین عرضه کرد. این درایوها دارای قابلیت‌های داخلی برای مانیتورینگ مصرف انرژی هستند که به مدیران کارخانه کمک می‌کند تا هزینه‌های عملیاتی را کاهش دهند. این محصول با استانداردهای جدید بهره‌وری انرژی اروپا کاملاً سازگار است.",
+      "category": "product",
+      "published_at": "1405/07/28 13:20",
+      "collected_at": "1405/07/28 20:17",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sinamics-g220-launch",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261020-007",
+      "title": "معرفی سیستم کنترل توزیع‌شده جدید Yokogawa برای صنایع شیمیایی",
+      "summary": "شرکت یوکوگاوا از سیستم کنترل توزیع‌شده (DCS) جدید خود رونمایی کرد که برای محیط‌های شیمیایی با حساسیت بالا طراحی شده است. این سیستم با معماری ماژولار، امکان ارتقای آسان در طول زمان را فراهم می‌کند. امنیت داده‌ها در این نسخه به طور ویژه تقویت شده است تا از حملات سایبری جلوگیری شود.",
+      "category": "product",
+      "published_at": "1405/07/28 15:10",
+      "collected_at": "1405/07/28 20:17",
+      "source": "Process Automation News",
+      "source_url": "https://www.yokogawa.com/news/press-releases/2026/new-dcs",
+      "tags": [
+        "Yokogawa",
+        "DCS",
+        "Process Control",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261020-008",
+      "title": "گسترش استفاده از ربات‌های همکار در خطوط مونتاژ خودرو",
+      "summary": "شرکت ABB اعلام کرد که نسل جدید ربات‌های همکار خود را در کارخانه‌های خودروسازی اروپایی مستقر کرده است. این ربات‌ها با استفاده از حسگرهای پیشرفته، در کنار انسان‌ها بدون نیاز به حصارهای ایمنی کار می‌کنند. این فناوری باعث افزایش انعطاف‌پذیری در خطوط تولید و بهبود کیفیت مونتاژ قطعات حساس شده است.",
+      "category": "industry",
+      "published_at": "1405/07/28 16:30",
+      "collected_at": "1405/07/28 20:17",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/abb-cobots-automotive",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Cobots",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "ارتقای پلتفرم مدیریت دارایی اشنایدر الکتریک برای صنایع غذایی",
+      "summary": "اشنایدر الکتریک نسخه جدید پلتفرم EcoStruxure را برای صنایع غذایی و آشامیدنی به‌روزرسانی کرد. این نسخه شامل ابزارهای جدیدی برای ردیابی زنجیره تامین و مدیریت بهداشت در خطوط تولید است. این راهکار به تولیدکنندگان کمک می‌کند تا استانداردهای سخت‌گیرانه ایمنی مواد غذایی را به راحتی رعایت کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 17:45",
+      "collected_at": "1405/07/28 20:17",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/en/work/solutions/food-beverage",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Food Industry",
+        "Asset Management"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "بررسی تاثیر استانداردهای جدید EtherCAT بر سرعت شبکه‌های صنعتی",
+      "summary": "استاندارد EtherCAT G اکنون به طور گسترده در تجهیزات اتوماسیون جدید مورد استفاده قرار می‌گیرد تا امکان انتقال داده‌های حجیم را فراهم کند. این فناوری برای سیستم‌های بینایی ماشین که نیاز به پهنای باند بالا دارند، بسیار مناسب است. بررسی‌ها نشان می‌دهد که این استاندارد زمان تاخیر در شبکه‌های بزرگ را تا ۳۰ درصد کاهش داده است.",
+      "category": "research",
+      "published_at": "1405/07/28 19:00",
+      "collected_at": "1405/07/28 20:17",
+      "source": "EtherCAT Technology Group",
+      "source_url": "https://www.ethercat.org/en/technology.html",
+      "tags": [
+        "EtherCAT",
+        "Network",
+        "Automation",
+        "Research"
       ]
     }
   ]
