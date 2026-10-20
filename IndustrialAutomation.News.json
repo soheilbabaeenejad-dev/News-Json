@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 807,
+  "count": 815,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 16:00",
+  "updated_at": "1405/07/28 16:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -12926,6 +12926,134 @@
         "AI",
         "PLC",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پیش‌بینی خرابی در نرم‌افزار SIMATIC WinCC Unified V19",
+      "summary": "نسخه جدید نرم‌افزار مانیتورینگ SIMATIC WinCC Unified V19 زیمنس با قابلیت‌های پیشرفته تحلیل داده و نگهداری پیشگیرانه عرضه شد. این ابزار قدرتمند به اپراتورها اجازه می‌دهد تا با استفاده از الگوریتم‌های هوش مصنوعی، خطاهای احتمالی ماشین‌آلات را پیش از وقوع شناسایی کنند. این فناوری نقش مهمی در کاهش توقفات ناخواسته خطوط تولید و بهینه‌سازی هزینه‌های تعمیرات دارد.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 16:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/article/siemens-wincc-unified-v19-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "انتشار نسخه جدید کتابخانه بلوک‌های نرم‌افزاری SIMATIC S7-1500 برای برنامه‌نویسی ماژولار",
+      "summary": "تیم مهندسی زیمنس بسته نرم‌افزاری جدیدی را برای استانداردسازی برنامه‌نویسی کنترل‌کننده‌های SIMATIC S7-1500 منتشر کرد. این کتابخانه شامل توابع آماده برای کنترل حرکت و پردازش سیگنال است که سرعت توسعه پروژه‌های اتوماسیون را افزایش می‌دهد. مهندسان می‌توانند با استفاده از این بلوک‌ها، زمان پیاده‌سازی سیستم‌های پیچیده را به حداقل برسانند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:45",
+      "collected_at": "1405/07/28 16:02",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/news/siemens-s71500-modular-library-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "TIA Portal",
+        "PLC Programming"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش کاربرد ربات‌های خودران در لجستیک کارخانجات دیجیتال زیمنس",
+      "summary": "کارخانه نمونه زیمنس در شهر نورنبرگ از ناوگان جدید ربات‌های خودران مجهز به سیستم ناوبری هوش مصنوعی بهره‌برداری کرد. این ربات‌ها قادرند قطعات مورد نیاز خطوط مونتاژ را به صورت کاملاً خودکار و بلادرنگ جابه‌جا کنند. این راهکار لجستیکی باعث افزایش انعطاف‌پذیری و کاهش زمان چرخه تولید در محیط‌های صنعتی پیچیده می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/28 11:30",
+      "collected_at": "1405/07/28 16:02",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/story/2026/10/siemens-autonomous-mobile-robots-logistics/23450/",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Smart Factory",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی نسل جدید اینورترهای SINAMICS با قابلیت بازگردانی انرژی به شبکه",
+      "summary": "زیمنس سبد محصولات درایوهای فرکانس متغیر خود را با معرفی سری جدید SINAMICS با راندمان فوق‌العاده گسترش داد. این درایوها مجهز به فناوری ترمز بازگرداننده هستند که انرژی اتلافی موتورها را به شبکه کارخانه بازمی‌گرداند. این نوآوری به صنایع سنگین کمک می‌کند تا هزینه‌های انرژی برق خود را به شکل چشمگیری کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/28 12:15",
+      "collected_at": "1405/07/28 16:02",
+      "source": "Drive & Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/NWS/siemens-sinamics-energy-recovery-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Saving"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "برگزاری کارگاه تخصصی امنیت سایبری تجهیزات صنعتی OT توسط زیمنس",
+      "summary": "زیمنس یک دوره آموزشی و تخصصی جدید برای ارتقای آگاهی امنیتی متخصصان شبکه‌های صنعتی و تجهیزات OT برگزار کرد. در این رویداد، روش‌های مقابله با تهدیدات سایبری مدرن و پیاده‌سازی استانداردهای IEC 62443 در سیستم‌های کنترل صنعتی بررسی شد. شرکت‌کنندگان با راهکارهای عملی حفاظت از PLCها و سیستم‌های SCADA آشنا شدند.",
+      "category": "sideline",
+      "published_at": "1405/07/28 13:00",
+      "collected_at": "1405/07/28 16:02",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-hosts-ot-cybersecurity-workshop-2026/",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "IEC 62443",
+        "OT Systems"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه قابلیت‌های تحلیل داده‌های ابری در پلتفرم Siemens Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به ابزارهای جدید تحلیل داده‌های کلان و مصورسازی پیشرفته مجهز شد. این به‌روزرسانی به مدیران کارخانه‌ها امکان می‌دهد تا عملکرد ماشین‌آلات پراکنده را در یک داشبورد واحد رصد کنند. این قابلیت نقش کلیدی در اتخاذ تصمیمات مدیریتی مبتنی بر داده‌های واقعی دارد.",
+      "category": "product",
+      "published_at": "1405/07/28 13:45",
+      "collected_at": "1405/07/28 16:02",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud/siemens-insights-hub-advanced-analytics-update",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "افزایش بهره‌وری مهندسی با ابزارهای هوش مصنوعی در TIA Portal",
+      "summary": "بررسی‌های جدید نشان می‌دهد که استفاده از دستیار هوش مصنوعی در محیط TIA Portal زمان توسعه پروژه‌های اتوماسیون را کاهش داده است. این ابزار هوشمند قادر است کدهای اولیه PLC را پیشنهاد داده و خطاهای احتمالی نگارش را به صورت خودکار اصلاح کند. این امر مهندسان کنترل را قادر می‌سازد تا تمرکز خود را بر بهینه‌سازی فرآیندهای اصلی معطوف کنند.",
+      "category": "research",
+      "published_at": "1405/07/28 14:30",
+      "collected_at": "1405/07/28 16:02",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/news/ai-tools-tia-portal-engineering-efficiency",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Artificial Intelligence",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی سیستم کنترل توزیع‌شده جدید زیمنس برای صنایع فرآیندی پیچیده",
+      "summary": "زیمنس نسل تازه سیستم‌های کنترل توزیع‌شده (DCS) خود را با معماری کاملاً ماژولار و مقیاس‌پذیر به بازار معرفی کرد. این سیستم جدید با پلتفرم SIMATIC PCS neo یکپارچه شده و پایداری بالایی را در کنترل فرآیندهای مداوم شیمیایی فراهم می‌کند. این فناوری امنیت و دسترسی‌پذیری را در صنایع نفت، گاز و پتروشیمی به سطح بالاتری ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 15:15",
+      "collected_at": "1405/07/28 16:02",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-introduces-advanced-dcs-solution-a-112345/",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Automation"
       ]
     }
   ]
