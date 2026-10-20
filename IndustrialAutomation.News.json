@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 780,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/28 15:01",
+  "count": 789,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/28 15:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -12495,6 +12495,150 @@
         "PLC",
         "CISA",
         "Industrial Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های تحلیل داده‌های ابری در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس نسخه به‌روزشده‌ای از پلتفرم Siemens Industrial Edge را منتشر کرد که ابزارهای تحلیلی مبتنی بر هوش مصنوعی را مستقیماً به لایه لبه کارخانه می‌آورد. این به‌روزرسانی شامل اپلیکیشن‌های جدیدی برای نظارت بر مصرف انرژی و تشخیص ناهنجاری در ماشین‌آلات دوار است. هدف از این توسعه، کاهش زمان توقف خطوط تولید و افزایش بهره‌وری کلی تجهیزات از طریق پردازش محلی داده‌ها پیش از ارسال به ابر است.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 15:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/edge-computing/siemens-industrial-edge-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Edge Computing",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای هوشمندسازی ماژول‌های پنوماتیک در خطوط مونتاژ",
+      "summary": "شرکت‌های زیمنس و فستو طی یک همکاری مشترک، سیستم‌های پنوماتیک هوشمند را با معماری سیستم‌های کنترل SIMATIC ادغام کردند. این فناوری جدید امکان نظارت بر فشار، دبی هوا و وضعیت سلامت تجهیزات پنوماتیک را به صورت بلادرنگ از طریق پروتکل PROFINET فراهم می‌سازد. این اقدام گامی مهم در جهت کاهش مصرف انرژی در کارخانجات و پیاده‌سازی مفهوم تعمیر و نگهداری پیشگیرانه به شمار می‌رود.",
+      "category": "news",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 15:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/industry-news/siemens-festo-pneumatics-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "PROFINET",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه ابزار مهندسی جدید در TIA Portal برای خودکارسازی تست کدهای PLC",
+      "summary": "زیمنس از ابزار نرم‌افزاری جدیدی تحت عنوان TIA Portal Test Suite Advanced رونمایی کرد که به برنامه‌نویسان اتوماسیون اجازه می‌دهد کدهای SIMATIC را به صورت خودکار و پیش از اجرا روی سخت‌افزار واقعی تست کنند. این ابزار با هدف افزایش کیفیت نرم‌افزار صنعتی و کاهش خطاهای انسانی در پروژه‌های بزرگ طراحی شده است. استفاده از این محیط یکپارچه تست، زمان راه‌اندازی خطوط تولید را به طور قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 10:45",
+      "collected_at": "1405/07/28 15:02",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/tia-portal-test-suite-advanced-release",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "PLC",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS neo با قابلیت‌های پیشرفته مدیریت دسترسی امن",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo زیمنس با تمرکز بر امنیت سایبری و انطباق با استانداردهای سخت‌گیرانه IEC 62443 عرضه شد. این نسخه شامل امکانات پیشرفته‌ای برای مدیریت متمرکز کاربران، رمزنگاری پیشرفته ارتباطات و پایش خودکار آسیب‌پذیری‌ها در صنایع فرآیندی است. این ویژگی‌ها به اپراتورهای پالایشگاه‌ها و کارخانجات شیمیایی کمک می‌کند تا از زیرساخت‌های حیاتی خود در برابر تهدیدات سایبری نوظهور محافظت کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 11:30",
+      "collected_at": "1405/07/28 15:02",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-simatic-pcs-neo-security-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "Process Control",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه قابلیت‌های هوش مصنوعی مولد در دستیار مهندسی Siemens Industrial Copilot",
+      "summary": "زیمنس قابلیت‌های دستیار مبتنی بر هوش مصنوعی خود موسوم به Industrial Copilot را گسترش داد تا مهندسان بتوانند کدهای ساختاریافته SCL را با دستورات متنی ساده تولید کنند. این سیستم جدید مستقیماً با محیط مهندسی TIA Portal یکپارچه شده و فرآیند عیب‌یابی خطاهای منطقی را تسریع می‌کند. این فناوری نوآورانه میانبری برای کاهش زمان مهندسی و افزایش بهره‌وری تیم‌های طراحی اتوماسیون به شمار می‌رود.",
+      "category": "research",
+      "published_at": "1405/07/28 12:10",
+      "collected_at": "1405/07/28 15:02",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/factory-automation/siemens-expands-industrial-copilot-capabilities",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "Artificial Intelligence",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی نسل جدید اینورترهای SINAMICS G120X با بهره‌وری انرژی بالا برای تاسیسات صنعتی",
+      "summary": "شرکت زیمنس سبد محصولات درایوهای خود را با معرفی مدل‌های بهینه‌شده SINAMICS G120X برای کاربردهای پمپ، فن و کمپرسور گسترش داد. این اینورترها با دارا بودن الگوریتم‌های پیشرفته کنترل موتور، تلفات انرژی را تا حد چشمگیری کاهش داده و با شبکه‌های اتوماسیون مختلف سازگار هستند. طراحی ماژولار این درایوها نصب و راه‌اندازی آن‌ها را در فضاهای محدود صنعتی بسیار آسان‌تر کرده است.",
+      "category": "product",
+      "published_at": "1405/07/28 12:50",
+      "collected_at": "1405/07/28 15:02",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/siemens-sinamics-g120x-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش راهکارهای دوقلوی دیجیتال زیمنس برای بهینه‌سازی زنجیره تامین و تولید انعطاف‌پذیر",
+      "summary": "زیمنس از راهکار جامع جدیدی بر پایه پلتفرم Siemens Xcelerator پرده برداشت که دوقلوی دیجیتال محصول را به خطوط تولید فیزیکی متصل می‌کند. این فناوری به تولیدکنندگان اجازه می‌دهد تغییرات طراحی را به صورت مجازی شبیه‌سازی کرده و تأثیر آن را بر ماشین‌آلات اتوماسیون بررسی کنند. این رویکرد یکپارچه مدت زمان لازم برای عرضه محصولات جدید به بازار را به طور چشمگیری کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/28 13:30",
+      "collected_at": "1405/07/28 15:02",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/smart-manufacturing/siemens-xcelerator-digital-twin-expansion",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Smart Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "انتشار به‌روزرسانی امنیتی برای تجهیزات شبکه صنعتی Ruggedcom زیمنس",
+      "summary": "شرکت زیمنس هشدار امنیتی جدیدی منتشر کرد و از انتشار پچ‌های اصلاحی برای سوئیچ‌های صنعتی مقاوم سری Ruggedcom خبر داد. این به‌روزرسانی آسیب‌پذیری‌های بالقوه در سیستم‌عامل ROS را برطرف می‌کند که در صورت بهره‌برداری می‌توانست دسترسی غیرمجاز به شبکه ایجاد کند. به مدیران سیستم‌های OT توصیه شده است برای حفظ پایداری شبکه‌های حیاتی، سیستم‌عامل تجهیزات خود را در اسرع وقت ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 14:15",
+      "collected_at": "1405/07/28 15:02",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-releases-security-updates-for-ruggedcom-devices/",
+      "tags": [
+        "Siemens",
+        "Ruggedcom",
+        "Cybersecurity",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "سرمایه‌گذاری زیمنس در احداث مرکز جدید تحقیق و توسعه اتوماسیون سبز در آلمان",
+      "summary": "زیمنس از آغاز پروژه ساخت یک مرکز پیشرفته تحقیق و توسعه با تمرکز بر فناوری‌های اتوماسیون سازگار با محیط زیست در شهر نورنبرگ خبر داد. این مرکز بر توسعه نسل آینده کنترل‌کننده‌ها و نرم‌افزارهای صنعتی با مصرف انرژی فوق‌العاده پایین تمرکز خواهد کرد. این سرمایه‌گذاری کلان بخشی از استراتژی بلندمدت زیمنس برای دستیابی به اهداف پایداری و کربن‌زدایی در زنجیره تامین صنعتی است.",
+      "category": "economy",
+      "published_at": "1405/07/28 15:00",
+      "collected_at": "1405/07/28 15:02",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/siemens-green-automation-rd-center-nuremberg",
+      "tags": [
+        "Siemens",
+        "Sustainability",
+        "R&D",
+        "Green Tech"
       ]
     }
   ]
