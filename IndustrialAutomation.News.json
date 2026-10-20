@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 735,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/28 13:10",
+  "count": 743,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/28 14:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -11783,6 +11783,134 @@
       "tags": [
         "Industrial Copilot",
         "Generative AI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از ماژول ارتباطی جدید SCALANCE زیمنس برای امنیت شبکه‌های صنعتی",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی سری SCALANCE با پشتیبانی از پروتکل‌های امنیتی پیشرفته برای محافظت از زیرساخت‌های حیاتی اتوماسیون صنعتی رونمایی کرد. این تجهیزات به مدیران شبکه اجازه می‌دهند تا ترافیک داده‌های OT را به صورت بلادرنگ مانیتور کرده و از نفوذهای سایبری جلوگیری کنند. این راهکار جدید نقش کلیدی در ایمن‌سازی ارتباطات صنعتی در بستر پلتفرم Siemens Xcelerator ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 14:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-scalance-security-2026",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Industrial Security",
+        "OT Network"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در نرم‌افزار SIMATIC PCS neo",
+      "summary": "زیمنس قابلیت‌های جدید مبتنی بر یادگیری ماشین را به نسخه تازه سیستم کنترل فرآیند SIMATIC PCS neo اضافه کرد تا به اپراتورها در تشخیص زودهنگام ناهنجاری‌های فرآیندی کمک کند. این سیستم با تحلیل خودکار داده‌های تاریخی و جریانی، خطاهای انسانی را کاهش داده و بهره‌وری خطوط تولید پیوسته را افزایش می‌دهد. این به‌روزرسانی گامی مهم در جهت خودکارسازی کامل فرآیندهای صنعتی پیچیده محسوب می‌شود.",
+      "category": "news",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 14:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-pcs-neo-ai-update",
+      "tags": [
+        "SIMATIC PCS neo",
+        "Artificial Intelligence",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای پلتفرم Industrial Edge زیمنس با مدیریت متمرکز کانتینرها",
+      "summary": "پلتفرم Siemens Industrial Edge اکنون به ابزارهای پیشرفته‌تری برای مدیریت متمرکز کانتینرهای نرم‌افزاری در سطح کارخانه مجهز شده است. این قابلیت به توسعه‌دهندگان اجازه می‌دهد اپلیکیشن‌های تحلیل داده و نگهداری پیشگیرانه را با سرعت و امنیت بیشتری روی سخت‌افزارهای لبه مستقر کنند. این تحول ارتباط میان لایه فناوری عملیاتی (OT) و فناوری اطلاعات (IT) را بیش از پیش تسهیل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 14:00",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/siemens-industrial-edge-containers",
+      "tags": [
+        "Industrial Edge",
+        "Edge Computing",
+        "Siemens",
+        "OT/IT Integration"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "انتشار نسخه جدید نرم‌افزار مهندسی TIA Portal با ابزارهای طراحی سبز",
+      "summary": "نسخه جدید TIA Portal از سوی زیمنس با تمرکز بر توسعه پایدار و طراحی سبز مهندسی منتشر شد که شامل ماژول‌های ارزیابی ردپای کربن ماشین‌آلات است. سازندگان دستگاه‌ها می‌توانند پیش از ساخت فیزیکی، میزان مصرف انرژی تجهیزات را شبیه‌سازی و بهینه‌سازی کنند. این ابزار جدید استانداردهای جدیدی را برای طراحی سازگار با محیط زیست در مهندسی اتوماسیون ارائه می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 11:15",
+      "collected_at": "1405/07/28 14:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-tia-portal-green-design",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Sustainability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه کاربردهای رباتیک صنعتی با پلتفرم شبیه‌سازی زیمنس Process Simulate",
+      "summary": "شرکت زیمنس از قابلیت‌های جدید پلتفرم Process Simulate برای شبیه‌سازی دقیق‌تر تعاملات میان ربات‌های صنعتی و اپراتورهای انسانی خبر داد. این نرم‌افزار به مهندسان خط تولید کمک می‌کند تا ایمنی سلول‌های رباتیک را در محیط‌های همکاری انسان و ماشین به حداکثر برسانند. این راهکار نقش مهمی در تسریع راه‌اندازی خطوط تولید پیچیده در صنایع خودروسازی و الکترونیک دارد.",
+      "category": "industry",
+      "published_at": "1405/07/28 12:20",
+      "collected_at": "1405/07/28 14:00",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-process-simulate-2026",
+      "tags": [
+        "Digital Twin",
+        "Robotics",
+        "Process Simulate",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "افزایش بهره‌وری تولید با راهکار یکپارچه MES زیمنس در صنایع داروسازی",
+      "summary": "یک کارخانه بزرگ داروسازی اروپایی با به‌کارگیری سیستم مدیریت ساخت (MES) زیمنس توانست زمان مستند‌سازی دسته‌ها را تا چهل درصد کاهش دهد. این نرم‌افزار انطباق کامل با استانداردهای سخت‌گیرانه سازمان‌های نظارتی را تضمین کرده و ردیابی مواد اولیه را از انبار تا محصول نهایی ممکن می‌سازد. این پروژه نمونه‌ای بارز از موفقیت تحول دیجیتال در صنایع حساس محسوب می‌شود.",
+      "category": "result",
+      "published_at": "1405/07/28 12:55",
+      "collected_at": "1405/07/28 14:00",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-mes-pharma-success",
+      "tags": [
+        "Opcenter MES",
+        "Pharma",
+        "Digitalization",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "سرمایه‌گذاری مشترک زیمنس و رواتل برای توسعه زیرساخت‌های اینترنت اشیاء صنعتی",
+      "summary": "زیمنس با همکاری شرکت رواتل بستری جدید برای گسترش پلتفرم ابری Insights Hub در بازارهای آمریکای لاتین ایجاد کرد. این زیرساخت ابری به شرکت‌های کوچک و متوسط صنعتی اجازه می‌دهد بدون سرمایه‌گذاری سنگین، داده‌های ماشین‌آلات خود را تحلیل کنند. این ابتکار دسترسی به فناوری‌های پیشرفته اینترنت اشیاء صنعتی را برای طیف وسیع‌تری از صنایع فراهم می‌آورد.",
+      "category": "economy",
+      "published_at": "1405/07/28 13:30",
+      "collected_at": "1405/07/28 14:00",
+      "source": "Global Automation",
+      "source_url": "https://www.globalautomation.news/siemens-rowatel-iioT",
+      "tags": [
+        "Insights Hub",
+        "IIoT",
+        "Cloud",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "به‌روزرسانی امنیتی بحران‌زدایی برای نرم‌افزار SIMATIC WinCC زیمنس",
+      "summary": "شرکت زیمنس یک بسته به‌روزرسانی امنیتی اضطراری برای رفع چند آسیب‌پذیری شناسایی‌شده در نرم‌افزار مانیتورینگ SIMATIC WinCC منتشر کرد. این اصلاحیه امنیتی مانع از سوءاستفاده احتمالی هکرها از طریق دسترسی‌های غیرمجاز به لایه سرورهای اسکادا می‌شود. کارشناسان امنیت سایبری OT به تمامی بهره‌برداران صنعتی توصیه کرده‌اند هر چه سریع‌تر این پچ امنیتی را اعمال کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 14:00",
+      "collected_at": "1405/07/28 14:00",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-wincc-security-update-oct2026",
+      "tags": [
+        "WinCC",
+        "Cybersecurity",
+        "SCADA",
         "Siemens"
       ]
     }
