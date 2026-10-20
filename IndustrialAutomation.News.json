@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 643,
+  "count": 652,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 12:02",
+  "updated_at": "1405/07/28 12:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -10308,6 +10308,150 @@
         "Xcelerator",
         "R&D",
         "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول ارتباطی جدید SIMATIC CP 1625 برای تبادل پرسرعت داده‌های OT",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید SIMATIC CP 1625 با پشتیبانی از استانداردهای نوین شبکه صنعتی رونمایی کرد. این ماژول برای ارتقای امنیت و سرعت تبادل داده در کنترل‌کننده‌های سری S7-1500 طراحی شده است. این ابزار به مهندسان کمک می‌کند تا جریان اطلاعات میان لایه کنترل و سیستم‌های ابری را به شکل بهینه‌تری مدیریت کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:15",
+      "collected_at": "1405/07/28 12:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-cp-1625-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Industrial Ethernet",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های تحلیل پیشرفته در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس نسخه جدیدی از برنامه‌های کاربردی Industrial Edge را با تمرکز بر آنالیز بلادرنگ داده‌های ماشین‌آلات منتشر کرد. این به‌روزرسانی شامل الگوریتم‌های جدید یادگیری ماشین برای تشخیص زودهنگام خرابی قطعات مکانیکی است. این قابلیت به واحدهای صنعتی اجازه می‌دهد تا هزینه‌های توقف خطوط تولید را به طور چشمگیری کاهش دهند.",
+      "category": "news",
+      "published_at": "1405/07/28 08:45",
+      "collected_at": "1405/07/28 12:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-edge-update",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Siemens",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "انتشار بسته امنیتی جدید برای نرم‌افزار مهندسی TIA Portal V19",
+      "summary": "تیم امنیت سایبری زیمنس یک بسته اصلاحی و امنیتی مهم برای نرم‌افزار جامع TIA Portal V19 عرضه کرد. این به‌روزرسانی چندین آسیب‌پذیری احتمالی در بخش مدیریت گواهی‌نامه‌ها و ارتباطات سرور را برطرف می‌کند. کارشناسان امنیت شبکه صنعتی اکیداً توصیه می‌کنند که تمامی مهندسان اتوماسیون این پچ را روی سیستم‌های خود نصب کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 09:30",
+      "collected_at": "1405/07/28 12:03",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-tia-portal-security-update",
+      "tags": [
+        "TIA Portal",
+        "Cybersecurity",
+        "Siemens",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS 7 با افزونگی پیشرفته سخت‌افزاری",
+      "summary": "زیمنس نسخه ارتقایفته‌ای از سیستم کنترل فرآیند SIMATIC PCS 7 را با قابلیت‌های جدید افزونگی سخت‌افزاری معرفی کرد. این سیستم برای صنایع فرآیندی سنگین مانند پالایشگاه‌ها و واحدهای شیمیایی طراحی شده است تا پایداری و استمرار تولید را تضمین کند. این معماری جدید خطاهای احتمالی در تجهیزات میدانی را بدون توقف فرآیند شناسایی و ایزوله می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 09:55",
+      "collected_at": "1405/07/28 12:03",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-simatic-pcs7-upgrade",
+      "tags": [
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "راه‌اندازی مرکز جدید آموزش مهندسی اتوماسیون دیجیتال زیمنس در اروپا",
+      "summary": "زیمنس از افتتاح یک مرکز پیشرفته آموزشی برای توسعه مهارت‌های دیجیتال در حوزه اتوماسیون صنعتی و دوقلوهای دیجیتال خبر داد. این مرکز مجهز به آخرین تجهیزات سخت‌افزاری SIMATIC و نرم‌افزارهای پلتفرم Xcelerator است. هدف از این اقدام، آماده‌سازی نیروی کار جوان برای مدیریت کارخانه‌های هوشمند نسل آینده است.",
+      "category": "society",
+      "published_at": "1405/07/28 10:20",
+      "collected_at": "1405/07/28 12:03",
+      "source": "Iot World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-digital-automation-training-center",
+      "tags": [
+        "Education",
+        "Siemens Xcelerator",
+        "Digital Twin",
+        "Workforce"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی نسل تازه درایوهای فشرده SINAMICS G120X برای پمپ‌ها و فن‌ها",
+      "summary": "شرکت زیمنس درایوهای فرکانس متغیر جدید سری SINAMICS G120X را با قابلیت‌های بهینه‌سازی مصرف انرژی عرضه کرد. این درایوها به طور ویژه برای کاربردهای کنترل جریان در سیستم‌های تهویه مطبوع و آب‌رسانی صنعتی توسعه یافته‌اند. این تجهیزات با نرم‌افزار TIA Portal به صورت1 یکپارچه سازگار بوده و راه‌اندازی آن‌ها بسیار سریع انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 10:40",
+      "collected_at": "1405/07/28 12:03",
+      "source": "Empower Operations",
+      "source_url": "https://www.empower-operations.com/siemens-sinamics-g120x-launch",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه قابلیت‌های هوش مصنوعی مولد در Siemens Industrial Copilot",
+      "summary": "زیمنس امکانات دستیار هوش مصنوعی Industrial Copilot را برای تولید خودکار کدهای برنامه‌نویسی PLC گسترش داد. این ابزار اکنون از دستورات زبان طبیعی پشتیبانی بیشتری می‌کند تا زمان پیاده‌سازی منطق کنترل را کاهش دهد. این نوآوری به برنامه‌نویسان صنعتی کمک می‌کند تا خطاهای کدنویسی را سریع‌تر شناسایی و اصلاح کنند.",
+      "category": "research",
+      "published_at": "1405/07/28 11:05",
+      "collected_at": "1405/07/28 12:03",
+      "source": "AI in Industry",
+      "source_url": "https://www.ai-in-industry.com/siemens-industrial-copilot-update",
+      "tags": [
+        "Artificial Intelligence",
+        "Industrial Copilot",
+        "Siemens",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری زیمنس و اشنایدر الکتریک برای ارتقای استانداردهای ارتباطی پلتفرم‌های باز OT",
+      "summary": "دو شرکت بزرگ زیمنس و اشنایدر الکتریک توافقنامه جدیدی را برای ترویج پروتکل‌های ارتباطی باز در اتوماسیون صنعتی امضا کردند. این همکاری بر توسعه سازگاری میان تجهیزات مختلف فیلدباس و شبکه‌های اترنت صنعتی تمرکز دارد. این اقدام گامی مهم برای تسهیل ادغام سیستم‌های گوناگون در کارخانه‌های دیجیتال به شمار می‌رود.",
+      "category": "company",
+      "published_at": "1405/07/28 11:30",
+      "collected_at": "1405/07/28 12:03",
+      "source": "Automation Brief",
+      "source_url": "https://www.automationbrief.com/siemens-schneider-open-standards",
+      "tags": [
+        "Siemens",
+        "Schneider Electric",
+        "Open Protocols",
+        "Interoperability"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "عرضه ماژول‌های ورودی و خروجی ایمن جدید ET 200MP با درجه حفاظت بالا",
+      "summary": "زیمنس خانواده ماژول‌های توزیع‌شده ET 200MP را با افزودن مدل‌های ایمنی جدید (Fail-safe) گسترش داد. این ماژول‌ها برای نصب در محیط‌های صنعتی سخت و مستعد لرزش و رطوبت طراحی و ساخته شده‌اند. این تجهیزات استانداردهای بین‌المللی ایمنی تا سطح SIL3 را به طور کامل پشتیبانی می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 11:50",
+      "collected_at": "1405/07/28 12:03",
+      "source": "Industrial Product News",
+      "source_url": "https://www.industrialproductnews.com/siemens-et-200mp-safe-modules",
+      "tags": [
+        "ET 200MP",
+        "Safety",
+        "I/O Modules",
+        "Siemens"
       ]
     }
   ]
