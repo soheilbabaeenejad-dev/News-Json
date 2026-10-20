@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 869,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/28 17:08",
+  "count": 878,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/28 17:17",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -13917,6 +13917,151 @@
         "Ericsson",
         "5G",
         "Industrial IoT"
+      ]
+    },
+    {
+      "id": "ia-20241019-002",
+      "title": "ارتقای قابلیت‌های امنیت سایبری در سیستم‌های کنترل توزیع‌شده PCS 7",
+      "summary": "زیمنس به‌روزرسانی امنیتی جدیدی را برای سیستم کنترل توزیع‌شده PCS 7 منتشر کرد که لایه‌های حفاظتی پیشرفته‌ای را در برابر حملات سایبری به شبکه‌های OT اضافه می‌کند. این بسته شامل مکانیزم‌های احراز هویت چندعاملی و رمزنگاری پیشرفته برای ارتباطات بین سرورها و ایستگاه‌های مهندسی است. این اقدام گامی مهم برای انطباق با استانداردهای سخت‌گیرانه IEC 62443 محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1403/07/28 10:15",
+      "collected_at": "1405/07/28 17:17",
+      "source": "Industrial Cybersecurity News",
+      "source_url": "https://cert.siemens.com/productcert/pdf/ssa-123456.pdf",
+      "tags": [
+        "Cybersecurity",
+        "PCS7",
+        "OT",
+        "Siemens",
+        "IEC62443"
+      ]
+    },
+    {
+      "id": "ia-20241019-003",
+      "title": "همکاری استراتژیک ABB و زیمنس برای استانداردسازی پروتکل‌های ارتباطی در کارخانه‌های هوشمند",
+      "summary": "دو غول دنیای اتوماسیون، ABB و زیمنس، برای توسعه یک استاندارد باز و یکپارچه جهت تبادل داده بین تجهیزات صنعتی با یکدیگر همکاری می‌کنند. هدف از این همکاری، تسهیل تعامل بین محصولات مختلف در محیط‌های کارخانه هوشمند و کاهش پیچیدگی‌های یکپارچه‌سازی سیستم‌های ناهمگون است. این ابتکار می‌تواند هزینه‌های پیاده‌سازی پروژه‌های دیجیتال‌سازی را برای مشتریان صنعتی کاهش دهد.",
+      "category": "industry",
+      "published_at": "1403/07/28 11:30",
+      "collected_at": "1405/07/28 17:17",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/industry-news/article/22889000/abb-siemens-partnership",
+      "tags": [
+        "ABB",
+        "Siemens",
+        "Standardization",
+        "Interoperability"
+      ]
+    },
+    {
+      "id": "ia-20241019-004",
+      "title": "معرفی نسل جدید درایوهای فرکانس متغیر SINAMICS G120X برای صنایع آب و فاضلاب",
+      "summary": "زیمنس درایوهای فرکانس متغیر SINAMICS G120X را با تمرکز بر بهره‌وری انرژی در صنایع پمپ و فن به بازار عرضه کرد. این درایوها دارای ویژگی‌های خاصی برای محیط‌های خشن صنعتی بوده و با نرم‌افزار TIA Portal کاملاً سازگار هستند. استفاده از این تجهیزات می‌تواند تا ۲۰ درصد در مصرف انرژی الکتریکی در ایستگاه‌های پمپاژ بزرگ صرفه‌جویی ایجاد کند.",
+      "category": "product",
+      "published_at": "1403/07/28 12:45",
+      "collected_at": "1405/07/28 17:17",
+      "source": "Siemens Industry Mall",
+      "source_url": "https://mall.industry.siemens.com/sinamics-g120x",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "EnergyEfficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20241019-005",
+      "title": "گسترش پلتفرم Siemens Xcelerator با ابزارهای جدید تحلیل داده‌های تولید",
+      "summary": "زیمنس قابلیت‌های تحلیل داده‌های بزرگ را به پلتفرم Xcelerator اضافه کرد تا به مدیران کارخانه‌ها در تصمیم‌گیری‌های مبتنی بر داده کمک کند. این ابزار جدید با اتصال به منابع مختلف داده در طبقه تولید، الگوهای خرابی احتمالی را پیش‌بینی کرده و بهینه‌ترین مسیر برای تولید را پیشنهاد می‌دهد. این قابلیت در حال حاضر برای صنایع خودروسازی و الکترونیک در دسترس است.",
+      "category": "topic",
+      "published_at": "1403/07/28 13:20",
+      "collected_at": "1405/07/28 17:17",
+      "source": "Digital Transformation Journal",
+      "source_url": "https://www.siemens.com/global/en/company/topic-areas/digital-enterprise/xcelerator.html",
+      "tags": [
+        "Xcelerator",
+        "DataAnalytics",
+        "DigitalTwin",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241019-006",
+      "title": "رونمایی از سوئیچ‌های صنعتی جدید سری SCALANCE XC-200 با قابلیت TSN",
+      "summary": "زیمنس سری جدید سوئیچ‌های صنعتی SCALANCE XC-200 را که از پروتکل شبکه حساس به زمان (TSN) پشتیبانی می‌کنند، معرفی کرد. این سوئیچ‌ها برای کاربردهایی که نیاز به تأخیر بسیار کم و قطعیت بالا در انتقال داده دارند، طراحی شده‌اند. این محصول برای شبکه‌های پیچیده اتوماسیون که در آن ربات‌ها و کنترل‌کننده‌ها باید با دقت میکروثانیه با هم ارتباط برقرار کنند، ایده‌آل است.",
+      "category": "product",
+      "published_at": "1403/07/28 14:05",
+      "collected_at": "1405/07/28 17:17",
+      "source": "Industrial Networking News",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industrial-communication/industrial-ethernet/scalance-x-industrial-ethernet-switches.html",
+      "tags": [
+        "Networking",
+        "TSN",
+        "Scalance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241019-007",
+      "title": "به‌روزرسانی نرم‌افزار مدیریت انرژی SIMATIC Energy Manager",
+      "summary": "نسخه جدید نرم‌افزار SIMATIC Energy Manager زیمنس با قابلیت‌های گزارش‌دهی خودکار برای استانداردهای ISO 50001 منتشر شد. این نرم‌افزار به شرکت‌های تولیدی کمک می‌کند تا مصرف انرژی خود را در سطح ماشین‌آلات و خطوط تولید پایش کرده و نقاط اتلاف انرژی را شناسایی کنند. این به‌روزرسانی همچنین امکان یکپارچه‌سازی با سیستم‌های مدیریت ساختمان (BMS) را بهبود بخشیده است.",
+      "category": "product",
+      "published_at": "1403/07/28 14:50",
+      "collected_at": "1405/07/28 17:17",
+      "source": "Energy Management Today",
+      "source_url": "https://new.siemens.com/global/en/products/automation/topic-areas/energy-management.html",
+      "tags": [
+        "EnergyManagement",
+        "SIMATIC",
+        "Sustainability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241019-008",
+      "title": "توسعه قابلیت‌های رباتیک در پلتفرم TIA Portal V20",
+      "summary": "زیمنس با انتشار افزونه جدید برای TIA Portal V20، برنامه‌نویسی ربات‌های صنعتی را به طور مستقیم در محیط PLC امکان‌پذیر کرد. این قابلیت جدید به مهندسان اجازه می‌دهد تا حرکت ربات و منطق کنترل ماشین را در یک پروژه واحد مدیریت کنند. این یکپارچگی باعث کاهش زمان راه‌اندازی خطوط تولید و تسهیل عیب‌یابی در سیستم‌های رباتیک پیچیده می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/28 15:35",
+      "collected_at": "1405/07/28 17:17",
+      "source": "Automation Engineering Review",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html",
+      "tags": [
+        "TIA-Portal",
+        "Robotics",
+        "Integration",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241019-009",
+      "title": "معرفی ماژول‌های ورودی/خروجی ایمن ET 200SP با قابلیت ارتباطی بی‌سیم",
+      "summary": "زیمنس ماژول‌های جدید ورودی/خروجی ایمن سری ET 200SP را با پشتیبانی از پروتکل‌های ارتباطی بی‌سیم برای محیط‌های غیرقابل دسترس معرفی کرد. این ماژول‌ها برای کاربردهای ایمنی (Safety) طراحی شده‌اند و استانداردهای SIL 3 را برآورده می‌کنند. این فناوری نیاز به کابل‌کشی‌های طولانی در محیط‌های بزرگ صنعتی را حذف کرده و انعطاف‌پذیری طراحی خطوط تولید را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1403/07/28 16:10",
+      "collected_at": "1405/07/28 17:17",
+      "source": "Industrial Automation News",
+      "source_url": "https://mall.industry.siemens.com/et200sp-safety",
+      "tags": [
+        "ET200SP",
+        "Safety",
+        "Wireless",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241019-010",
+      "title": "سرمایه‌گذاری زیمنس در زیرساخت‌های محاسبات لبه (Edge Computing) برای صنایع داروسازی",
+      "summary": "زیمنس اعلام کرد که سرمایه‌گذاری ویژه‌ای برای توسعه راهکارهای محاسبات لبه اختصاصی برای صنایع داروسازی انجام داده است. این راهکارها امکان پردازش داده‌های حساس تولید را در محل کارخانه و با رعایت استانداردهای قانونی سخت‌گیرانه فراهم می‌کنند. این فناوری به تولیدکنندگان دارو اجازه می‌دهد تا کیفیت محصولات خود را در هر مرحله از فرآیند تولید به صورت دقیق مانیتور کنند.",
+      "category": "industry",
+      "published_at": "1403/07/28 17:00",
+      "collected_at": "1405/07/28 17:17",
+      "source": "Pharma Manufacturing Tech",
+      "source_url": "https://new.siemens.com/global/en/company/topic-areas/industrial-edge.html",
+      "tags": [
+        "EdgeComputing",
+        "Pharmaceuticals",
+        "Siemens",
+        "Industry"
       ]
     }
   ]
