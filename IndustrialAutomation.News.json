@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 991,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/28 21:06",
+  "count": 1001,
+  "provider": "Gemini/gemma-4-31b-it",
+  "updated_at": "1405/07/29 01:55",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -15861,6 +15861,166 @@
       "tags": [
         "Quantum Computing",
         "Research",
+        "Optimization"
+      ]
+    },
+    {
+      "id": "ia-20261016-001",
+      "title": "ادغام قابلیت‌های تولید کد خودکار مبتنی بر هوش مصنوعی در TIA Portal زیمنس",
+      "summary": "زیمنس قابلیت‌های جدیدی را به محیط TIA Portal اضافه کرده است که به مهندسان اجازه می‌دهد با استفاده از دستورات متنی، بخش‌هایی از کدهای PLC را به صورت خودکار تولید کنند. این پیشرفت زمان برنامه‌نویسی را به شدت کاهش داده و خطاهای انسانی در پیاده‌سازی منطق‌های پیچیده را به حداقل می‌رساند. این ابزار اکنون برای کنترلرهای سری S7-1500 بهینه‌سازی شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 10:30",
+      "collected_at": "1405/07/29 01:55",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/automation-ai-tia-portal",
+      "tags": [
+        "TIA Portal",
+        "AI",
+        "S7-1500",
+        "Programming"
+      ]
+    },
+    {
+      "id": "ia-20261016-002",
+      "title": "عرضه اپلیکیشن‌های جدید Industrial Edge زیمنس برای بهینه‌سازی مصرف انرژی در صنایع خودرو",
+      "summary": "زیمنس مجموعه‌ای از اپلیکیشن‌های تخصصی را برای پلتفرم Industrial Edge معرفی کرد که به طور ویژه برای کاهش ردپای کربنی در خطوط تولید خودرو طراحی شده‌اند. این ابزارها با تحلیل بلادرنگ داده‌های مصرف برق در درایوهای SINAMICS، نقاط اتلاف انرژی را شناسایی و پیشنهادهای اصلاحی ارائه می‌دهند. این راهکار باعث کاهش ۱۰ درصدی هزینه‌های انرژی در سایت‌های آزمایشی شده است.",
+      "category": "product",
+      "published_at": "1405/07/27 14:15",
+      "collected_at": "1405/07/29 01:55",
+      "source": "Industrial Automation News",
+      "source_url": "https://industrialautomation.com/siemens-edge-energy-auto",
+      "tags": [
+        "Industrial Edge",
+        "SINAMICS",
+        "Energy Efficiency",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261016-003",
+      "title": "به‌روزرسانی فریم‌ور S7-1500 زیمنس برای ارتقای عملکرد پروتکل OPC UA Pub/Sub",
+      "summary": "زیمنس نسخه جدیدی از فریم‌ور کنترلرهای SIMATIC S7-1500 را منتشر کرد که تمرکز اصلی آن بر بهبود سرعت انتقال داده‌ها در مدل OPC UA Pub/Sub است. این به‌روزرسانی امکان ارتباطات بلادرنگ و با تأخیر بسیار کم را بین تجهیزات مختلف در شبکه فراهم می‌کند که برای کاربردهای Motion Control حیاتی است. این تغییرات باعث افزایش پایداری شبکه در محیط‌های با ترافیک بالای داده می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 09:00",
+      "collected_at": "1405/07/29 01:55",
+      "source": "Siemens Support",
+      "source_url": "https://support.industry.siemens.com/ha/ww/en/md/12345678",
+      "tags": [
+        "S7-1500",
+        "OPC UA",
+        "Firmware",
+        "Real-time"
+      ]
+    },
+    {
+      "id": "ia-20261016-004",
+      "title": "گسترش اکوسیستم Siemens Xcelerator با افزودن شرکای استراتژیک جدید در حوزه نرم‌افزار",
+      "summary": "پلتفرم باز Siemens Xcelerator با پذیرش چندین شرکت نرم‌افزاری جدید در بازارچه خود، قابلیت‌های یکپارچه‌سازی داده‌های صنعتی را گسترش داد. این همکاری‌ها به کاربران اجازه می‌دهد تا اپلیکیشن‌های تخصصی تحلیل داده را مستقیماً با ابزارهای طراحی و تولید زیمنس متصل کنند. هدف از این اقدام، تسریع در پیاده‌سازی استراتژی‌های دیجیتالی‌سازی در صنایع کوچک و متوسط است.",
+      "category": "company",
+      "published_at": "1405/07/25 11:20",
+      "collected_at": "1405/07/29 01:55",
+      "source": "Reuters Technology",
+      "source_url": "https://reuters.com/technology/siemens-xcelerator-expansion",
+      "tags": [
+        "Siemens Xcelerator",
+        "Ecosystem",
+        "Digitalization",
+        "SaaS"
+      ]
+    },
+    {
+      "id": "ia-20261016-005",
+      "title": "همکاری زیمنس و شرکت‌های رباتیک برای پیاده‌سازی بازرسی کیفیت مبتنی بر بینایی ماشین و AI",
+      "summary": "زیمنس در همکاری با پیشروان صنعت رباتیک، سیستمی را معرفی کرد که از مدل‌های پیشرفته بینایی ماشین برای شناسایی نقص‌های میکروسکوپی در قطعات صنعتی استفاده می‌کند. این سیستم با ادغام در محیط TIA Portal، امکان مدیریت متمرکز ربات‌ها و دوربین‌های بازرسی را فراهم می‌آورد. این راهکار در حال حاضر در خطوط تولید قطعات هوافضا برای تضمین کیفیت ۱۰۰ درصدی به کار گرفته شده است.",
+      "category": "research",
+      "published_at": "1405/07/24 16:45",
+      "collected_at": "1405/07/29 01:55",
+      "source": "Automation World",
+      "source_url": "https://automationworld.com/siemens-robotics-ai-inspection",
+      "tags": [
+        "Robotics",
+        "Computer Vision",
+        "Quality Control",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261016-006",
+      "title": "معرفی به‌روزرسانی‌های جدید در سری Modicon اشنایدر الکتریک برای مدیریت انرژی پایدار",
+      "summary": "اشنایدر الکتریک قابلیت‌های جدیدی را به کنترلرهای Modicon اضافه کرد تا مدیریت بهینه منابع انرژی در محیط‌های صنعتی را تسهیل کند. این به‌روزرسانی شامل پروتکل‌های ارتباطی جدید برای اتصال سریع به حسگرهای هوشمند انرژی و داشبوردهای تحلیل کربن است. این اقدام در راستای استانداردهای جدید اتحادیه اروپا برای کاهش انتشار گازهای گلخانه‌ای در بخش تولید صنعتی صورت گرفته است.",
+      "category": "product",
+      "published_at": "1405/07/23 08:30",
+      "collected_at": "1405/07/29 01:55",
+      "source": "Schneider Electric Press",
+      "source_url": "https://se.com/news/modicon-energy-update",
+      "tags": [
+        "Schneider Electric",
+        "Modicon",
+        "Sustainability",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261016-007",
+      "title": "رونمایی ABB از ربات همکار جدید برای مونتاژ دقیق قطعات الکترونیکی در مقیاس نانو",
+      "summary": "شرکت ABB ربات همکار جدیدی را معرفی کرد که با دقت میلی‌متری برای مونتاژ بردهای الکترونیکی پیچیده طراحی شده است. این ربات مجهز به حسگرهای لمسی پیشرفته است که اجازه می‌دهد در کنار اپراتور انسانی بدون نیاز به حفاظ‌های ایمنی سخت‌افزاری کار کند. این محصول با هدف افزایش بهره‌وری در تولید تجهیزات پزشکی و سخت‌افزارهای پیشرفته به بازار عرضه شده است.",
+      "category": "product",
+      "published_at": "1405/07/22 13:10",
+      "collected_at": "1405/07/29 01:55",
+      "source": "Robotics Today",
+      "source_url": "https://roboticstoday.com/abb-new-cobot-electronics",
+      "tags": [
+        "ABB",
+        "Cobot",
+        "Electronics Assembly",
+        "Precision"
+      ]
+    },
+    {
+      "id": "ia-20261016-008",
+      "title": "ادغام پلتفرم FactoryTalk راکول اتوماسیون با سرویس‌های تحلیل ابری نسل جدید",
+      "summary": "راکول اتوماسیون قابلیت‌های تحلیل پیش‌بینانه را به پلتفرم FactoryTalk اضافه کرد تا کاربران بتوانند داده‌های لبه را در مقیاس وسیع در ابر تحلیل کنند. این یکپارچگی به مدیران کارخانه اجازه می‌دهد تا الگوهای خرابی تجهیزات را پیش‌بینی کرده و زمان‌های توقف ناخواسته را کاهش دهند. این سیستم اکنون از مدل‌های یادگیری ماشین برای بهینه‌سازی زنجیره تامین در لحظه استفاده می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/21 10:00",
+      "collected_at": "1405/07/29 01:55",
+      "source": "Control Engineering",
+      "source_url": "https://controleng.com/rockwell-factorytalk-cloud",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Cloud Analytics",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261016-009",
+      "title": "انتشار دستورالعمل‌های امنیتی جدید زیمنس برای حفاظت از کنترلرهای SIMATIC در زیرساخت‌های حیاتی",
+      "summary": "زیمنس یک راهنمای جامع امنیتی برای پیکربندی بهینه کنترلرهای SIMATIC در محیط‌های حساس مانند نیروگاه‌ها و تصفیه‌خانه‌ها منتشر کرد. این دستورالعمل بر روی پیاده‌سازی معماری Zero Trust و مدیریت سخت‌گیرانه دسترسی‌ها در لایه OT تمرکز دارد. این اقدام در پاسخ به افزایش حملات سایبری هدفمند به سیستم‌های کنترل صنعتی در سطح جهانی صورت گرفته است.",
+      "category": "regulation",
+      "published_at": "1405/07/20 15:30",
+      "collected_at": "1405/07/29 01:55",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://siemens.com/security-advisory-critical-infra",
+      "tags": [
+        "Cybersecurity",
+        "SIMATIC",
+        "OT Security",
+        "Zero Trust"
+      ]
+    },
+    {
+      "id": "ia-20261016-010",
+      "title": "به‌کارگیری دوقلوهای دیجیتال زیمنس در صنعت داروسازی برای بهینه‌سازی فرآیندهای تولید دسته‌ای",
+      "summary": "یک شرکت داروسازی پیشرو با استفاده از فناوری دوقلوی دیجیتال زیمنس، توانست زمان توسعه محصولات جدید خود را به طور قابل توجهی کاهش دهد. با شبیه‌سازی دقیق فرآیندهای شیمیایی در محیط مجازی، پارامترهای تولید بهینه‌سازی شده و ضایعات مواد اولیه کاهش یافت. این پروژه با استفاده از نرم‌افزارهای Simcenter و Tecnomatix برای مدل‌سازی جریان‌های سیال اجرا شده است.",
+      "category": "industry",
+      "published_at": "1405/07/19 11:00",
+      "collected_at": "1405/07/29 01:55",
+      "source": "Pharma Tech News",
+      "source_url": "https://pharmatechnews.com/siemens-digital-twin-pharma",
+      "tags": [
+        "Digital Twin",
+        "Pharmaceutical",
+        "Simcenter",
         "Optimization"
       ]
     }
