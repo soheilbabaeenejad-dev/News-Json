@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 815,
+  "count": 824,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 16:02",
+  "updated_at": "1405/07/28 16:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -13054,6 +13054,150 @@
         "SIMATIC PCS neo",
         "DCS",
         "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول جدید مخابراتی CP 1543-1 برای امنیت شبکه‌های صنعتی SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید CP 1543-1 برای کنترل‌کننده‌های SIMATIC S7-1500 رونمایی کرد که امنیت شبکه‌های صنعتی را به شدت ارتقا می‌دهد. این ماژول با پشتیبانی از پروتکل‌های امنیتی پیشرفته، فایروال یکپارچه و قابلیت‌های VPN، از تجهیزات اتوماسیون در برابر تهدیدات سایبری محافظت می‌کند. این محصول گامی مهم در راستای همگام‌سازی قابلیت‌های امنیت فناوری اطلاعات با استانداردهای سخت‌گیرانه فناوری عملیاتی (OT) به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 16:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-cp1543-1-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Cybersecurity",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "به‌روزرسانی نرم‌افزار مانیتورینگ SIMATIC WinCC Unified V19 با امکانات پیشرفته تجسم‌سازی",
+      "summary": "زیمنس نسخه جدید بسته نرم‌افزاری SIMATIC WinCC Unified V19 را با ابزارهای پیشرفته‌تر برای طراحی رابط کاربری و تجسم داده‌های صنعتی عرضه کرد. این نسخه جدید سرعت پردازش گرافیکی را افزایش داده و امکان یکپارچه‌سازی آسان‌تر با ابزارهای تحلیل وب‌محور را فراهم می‌سازد. مهندسان اتوماسیون اکنون می‌توانند داشبوردهای جامع‌تری برای پایش خطوط تولید در محیط TIA Portal ایجاد کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 16:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-wincc-unified-v19",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "HMI",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش قابلیت‌های رباتیک و هوش مصنوعی در پلتفرم Siemens Xcelerator",
+      "summary": "زیمنس از اضافه شدن ماژول‌های جدید هوش مصنوعی و شبیه‌سازی پیشرفته رباتیک به پلتفرم جامع Siemens Xcelerator خبر داد. این توسعه به کارخانه‌ها اجازه می‌دهد تا مسیرهای حرکتی ربات‌های صنعتی را پیش از پیاده‌سازی فیزیکی به طور کامل بهینه‌سازی کنند. این راهکار ابری هزینه‌های راه‌اندازی خطوط مونتاژ جدید را کاهش داده و انعطاف‌پذیری تولید را به‌طور چشمگیری افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 16:05",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-xcelerator-ai-robotics",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Artificial Intelligence",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی کنترل‌کننده دور موتور SINAMICS G120X با قابلیت‌های بهینه‌سازی مصرف انرژی توسط زیمنس",
+      "summary": "زیمنس سری جدید اینورترهای صنعتی SINAMICS G120X را برای کاربردهای پمپ، فن و کمپرسور در صنایع بزرگ معرفی کرد. این درایوهای فرکانس متغیر با الگوریتم‌های پیشرفته کنترل مصرف انرژی، راندمان کلی سیستم‌های سیالاتی را به میزان قابل توجهی ارتقا می‌دهند. این تجهیزات به دلیل سازگاری بالا با سیستم‌های اتوماسیون زیمنس، به راحتی در شبکه کارخانه یکپارچه می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:45",
+      "collected_at": "1405/07/28 16:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-sinamics-g120x-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS 7 با ابزارهای عیب‌یابی خودکار مبتنی بر داده",
+      "summary": "زیمنس نسخه ارتقایفته سیستم کنترل توزیع‌شده SIMATIC PCS 7 را با ابزارهای نوین تحلیل و عیب‌یابی خودکار روانه بازار کرد. این سیستم به اپراتورها اجازه می‌دهد تا ناهنجاری‌های فرآیندی را پیش از تبدیل شدن به بحران‌های جدی شناسایی و برطرف کنند. این به‌روزرسانی امنیت و پایداری مجتمع‌های بزرگ پتروشیمی و پالایشگاهی را به شکل محسوسی بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/28 12:15",
+      "collected_at": "1405/07/28 16:05",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-pcs7-upgrade",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "عرضه ماژول‌های ورودی و خروجی غیرمتمرکز SIMATIC ET 200AL با استاندارد حفاظتی بالا",
+      "summary": "زیمنس خانواده جدید ماژول‌های I/O غیرمتمرکز سری SIMATIC ET 200AL را با بدنه مقاوم در برابر شرایط سخت محیطی معرفی کرد. این ماژول‌ها با دارا بودن درجه حفاظت IP65/67، برای نصب مستقیم روی ماشین‌آلات بدون نیاز به تابلو برق سنتی ایده‌آل هستند. این محصول سیم‌کشی را ساده‌تر کرده و هزینه‌های نصب و راه‌اندازی سیستم‌های اتوماسیون را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 13:00",
+      "collected_at": "1405/07/28 16:05",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/siemens-et-200al-release",
+      "tags": [
+        "Siemens",
+        "ET 200AL",
+        "Distributed I/O",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "به‌روزرسانی امنیتی مهم برای سرورهای مانیتورینگ و کنترل صنعتی زیمنس",
+      "summary": "تیم واکنش سریع امنیتی زیمنس یک بسته به‌روزرسانی حیاتی برای رفع آسیب‌پذیری‌های کشف شده در پلتفرم‌های سرور صنعتی منتشر کرد. این اصلاحیه امنیتی از نفوذهای احتمالی به شبکه‌های اتوماسیون و دسترسی غیرمجاز به داده‌های حیاتی جلوگیری می‌کند. کارشناسان امنیت سایبری توصیه می‌کنند مدیران شبکه هرچه سریع‌تر سیستم‌های خود را به این نسخه جدید ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 13:45",
+      "collected_at": "1405/07/28 16:05",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com/siemens-security-update-october",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "Vulnerability",
+        "Industrial Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گسترش کاربرد هوش مصنوعی صنعتی با به‌روزرسانی ابزار Industrial Copilot زیمنس",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی Industrial Copilot را برای تسریع فرآیندهای برنامه‌نویسی PLC و عیب‌یابی کدهای TIA Portal گسترش داد. این ابزار هوشمند قادر است کدهای اتوماسیون را به زبان‌های گوناگون ترجمه کرده و پیشنهادهای بهینه‌سازی ارائه دهد. این نوآوری راندمان مهندسان کنترل را به میزان قابل توجهی افزایش داده و خطاهای انسانی را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/28 14:30",
+      "collected_at": "1405/07/28 16:05",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-industrial-copilot-update",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "AI",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "سرمایه‌گذاری جدید زیمنس برای راه‌اندازی مرکز تخصصی دوقلوهای دیجیتال در اروپا",
+      "summary": "شرکت زیمنس از سرمایه‌گذاری کلان خود برای تأسیس یک مرکز پیشرفته تحقیق و توسعه دوقلوهای دیجیتال در آلمان خبر داد. این مرکز بر شبیه‌سازی دقیق فرآیندهای تولیدی پیچیده و ادغام داده‌های اینترنت اشیاء صنعتی تمرکز خواهد کرد. این اقدام راهبردی به صنایع مختلف کمک می‌کند تا محصولات خود را با سرعت و دقت بیشتری به بازار عرضه کنند.",
+      "category": "industry",
+      "published_at": "1405/07/28 15:15",
+      "collected_at": "1405/07/28 16:05",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/siemens-digital-twin-center",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "R&D",
+        "Industry 4.0"
       ]
     }
   ]
