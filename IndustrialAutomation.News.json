@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 940,
+  "count": 950,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/28 19:12",
+  "updated_at": "1405/07/28 19:18",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -15052,6 +15052,167 @@
         "Report",
         "Industry 4.0",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261020-001",
+      "title": "معرفی نسل جدید ماژول‌های پردازش هوش مصنوعی زیمنس برای SIMATIC S7-1500",
+      "summary": "زیمنس از ماژول پردازشی جدید AI-Core برای کنترل‌کننده‌های SIMATIC S7-1500 رونمایی کرد. این ماژول به مهندسان اجازه می‌دهد مدل‌های یادگیری ماشین را مستقیماً در لبه شبکه و بدون نیاز به سرورهای ابری اجرا کنند. این فناوری باعث کاهش تأخیر در تصمیم‌گیری‌های کنترلی و افزایش بهره‌وری در خطوط تولید هوشمند می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/20 08:30",
+      "collected_at": "1405/07/28 19:18",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "AI",
+        "PLC",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261020-002",
+      "title": "ارتقای قابلیت‌های امنیت سایبری در سیستم کنترل توزیع‌شده PCS 7 زیمنس",
+      "summary": "زیمنس بسته امنیتی جدیدی را برای سیستم کنترل توزیع‌شده PCS 7 منتشر کرد که تمرکز اصلی آن بر مقابله با تهدیدات سایبری پیشرفته در زیرساخت‌های حیاتی است. این به‌روزرسانی شامل پروتکل‌های احراز هویت چندعاملی و رمزنگاری پیشرفته داده‌ها در سطح شبکه OT می‌باشد. این اقدام برای محافظت از دارایی‌های صنعتی در برابر حملات باج‌افزاری ضروری است.",
+      "category": "industry",
+      "published_at": "1405/07/20 09:15",
+      "collected_at": "1405/07/28 19:18",
+      "source": "Industrial Cybersecurity News",
+      "source_url": "https://cert.siemens.com/productcert/advisories",
+      "tags": [
+        "Cybersecurity",
+        "PCS7",
+        "DCS",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261020-003",
+      "title": "همکاری استراتژیک زیمنس و انویدیا برای شبیه‌سازی فیزیکی دقیق در کارخانه‌ها",
+      "summary": "زیمنس و انویدیا همکاری خود را برای ادغام پلتفرم Omniverse با نرم‌افزار Tecnomatix گسترش دادند. این همکاری امکان ایجاد دوقلوهای دیجیتال با دقت فیزیکی بسیار بالا را فراهم می‌کند که رفتار ماشین‌آلات را در شرایط واقعی پیش‌بینی می‌کند. این راهکار به کاهش هزینه‌های راه‌اندازی خطوط تولید جدید تا ۳۰ درصد کمک می‌کند.",
+      "category": "company",
+      "published_at": "1405/07/20 10:45",
+      "collected_at": "1405/07/28 19:18",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/digital-twin",
+      "tags": [
+        "Nvidia",
+        "Digital Twin",
+        "Omniverse",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261020-004",
+      "title": "رونمایی از درایوهای فرکانس متغیر SINAMICS G220 با قابلیت پایش انرژی",
+      "summary": "زیمنس سری جدید درایوهای SINAMICS G220 را با تمرکز بر بهره‌وری انرژی و پایداری معرفی کرد. این درایوها دارای سنسورهای داخلی برای پایش مصرف انرژی و تحلیل سلامت موتور هستند که به کاهش هزینه‌های عملیاتی کمک می‌کند. این محصول به طور کامل با اکوسیستم Siemens Xcelerator برای مدیریت داده‌ها یکپارچه شده است.",
+      "category": "product",
+      "published_at": "1405/07/20 11:20",
+      "collected_at": "1405/07/28 19:18",
+      "source": "Control Engineering",
+      "source_url": "https://www.siemens.com/drives",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "گسترش راهکارهای اتوماسیون رباتیک ABB با هوش مصنوعی مولد",
+      "summary": "شرکت ABB از ادغام هوش مصنوعی مولد در نرم‌افزار مدیریت رباتیک خود خبر داد. این ابزار به اپراتورها اجازه می‌دهد برنامه‌های حرکتی ربات‌ها را با زبان طبیعی بنویسند و زمان برنامه‌نویسی را به شدت کاهش دهند. این فناوری در حال حاضر برای سری ربات‌های همکار IRB در دسترس قرار گرفته است.",
+      "category": "product",
+      "published_at": "1405/07/20 12:05",
+      "collected_at": "1405/07/28 19:18",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://new.abb.com/products/robotics",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Generative AI",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261020-006",
+      "title": "معرفی سوئیچ‌های صنعتی جدید سری SCALANCE XC-200 زیمنس",
+      "summary": "زیمنس سبد محصولات شبکه صنعتی خود را با معرفی سوئیچ‌های مدیریت‌شده SCALANCE XC-200 تقویت کرد. این سوئیچ‌ها با استانداردهای سخت‌گیرانه صنعتی برای محیط‌های با لرزش بالا و دمای شدید طراحی شده‌اند. این تجهیزات از پروتکل‌های PROFINET و EtherNet/IP برای تضمین ارتباطات پایدار در کارخانه‌های هوشمند پشتیبانی می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/20 13:40",
+      "collected_at": "1405/07/28 19:18",
+      "source": "Industrial Networking Daily",
+      "source_url": "https://mall.industry.siemens.com",
+      "tags": [
+        "Networking",
+        "SCALANCE",
+        "Industrial Ethernet",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261020-007",
+      "title": "به‌روزرسانی پلتفرم مدیریت دارایی‌های صنعتی اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک نسخه جدید پلتفرم EcoStruxure Asset Advisor را با قابلیت‌های پیش‌بینی خرابی مبتنی بر هوش مصنوعی عرضه کرد. این سیستم با تحلیل داده‌های سنسورهای متصل، زمان دقیق نیاز به تعمیرات را اعلام می‌کند. این رویکرد باعث کاهش زمان توقف ناخواسته ماشین‌آلات در صنایع فرآیندی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/20 14:55",
+      "collected_at": "1405/07/28 19:18",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/work/solutions/industrial-automation",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Maintenance",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261020-008",
+      "title": "توسعه استانداردهای ارتباطی ۵G برای اتوماسیون کارخانه‌های هوشمند",
+      "summary": "کنسرسیوم صنعتی با مشارکت زیمنس و اریکسون، استانداردهای جدیدی برای استفاده از شبکه ۵G خصوصی در کارخانه‌ها تدوین کرد. این استانداردها ارتباط بی‌سیم با تأخیر فوق‌العاده کم را برای ربات‌های متحرک خودگردان (AMR) تضمین می‌کند. این پیشرفت زیرساختی برای تحقق کامل کارخانه‌های بدون کابل ضروری است.",
+      "category": "research",
+      "published_at": "1405/07/20 15:30",
+      "collected_at": "1405/07/28 19:18",
+      "source": "5G Industry Alliance",
+      "source_url": "https://www.5g-acia.org",
+      "tags": [
+        "5G",
+        "Wireless",
+        "AMR",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "رونمایی از سیستم کنترل یکپارچه بکوف برای صنایع بسته‌بندی",
+      "summary": "شرکت بکوف سیستم کنترل جدید خود را مبتنی بر فناوری TwinCAT 3 برای ماشین‌آلات بسته‌بندی پرسرعت معرفی کرد. این سیستم با حذف تابلوهای برق سنتی و استفاده از ماژول‌های توزیع‌شده، فضای اشغال شده توسط کنترلرها را تا ۴۰ درصد کاهش می‌دهد. این راهکار برای خطوط تولید با فضای محدود بسیار ایده‌آل است.",
+      "category": "product",
+      "published_at": "1405/07/20 16:15",
+      "collected_at": "1405/07/28 19:18",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com/en-en/products/automation/",
+      "tags": [
+        "Beckhoff",
+        "TwinCAT",
+        "Packaging",
+        "Control System"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "گزارش جدید CISA درباره آسیب‌پذیری‌های تجهیزات اتوماسیون صنعتی",
+      "summary": "آژانس امنیت سایبری و زیرساخت (CISA) در گزارش جدید خود نسبت به آسیب‌پذیری‌های موجود در رابط‌های کاربری وب تجهیزات اتوماسیون هشدار داد. این گزارش بر اهمیت به‌روزرسانی مداوم فریم‌ور تجهیزات PLC و HMI تأکید می‌کند. تولیدکنندگان بزرگ از جمله زیمنس و راکول در حال همکاری برای ارائه وصله‌های امنیتی هستند.",
+      "category": "regulation",
+      "published_at": "1405/07/20 17:40",
+      "collected_at": "1405/07/28 19:18",
+      "source": "CISA Cybersecurity",
+      "source_url": "https://www.cisa.gov/ics",
+      "tags": [
+        "CISA",
+        "Security",
+        "ICS",
+        "Vulnerability"
       ]
     }
   ]
