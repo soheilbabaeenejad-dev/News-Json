@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 878,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/28 17:17",
+  "count": 888,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/28 18:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -14062,6 +14062,166 @@
         "Pharmaceuticals",
         "Siemens",
         "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته پردازش لبه در سری SIMATIC S7-1500 زیمنس",
+      "summary": "شرکت زیمنس از ماژول‌های پردازشی جدید خود برای خانواده کنترل‌کننده‌های SIMATIC S7-1500 رونمایی کرد که امکان اجرای الگوریتم‌های هوش مصنوعی را به صورت بلادرنگ در لایه فیلد فراهم می‌کنند. این ماژول‌ها با هدف کاهش تأخیر در تصمیم‌گیری‌های خطوط تولید و بهبود پردازش داده‌های سنسورها طراحی شده‌اند. این نوآوری به مهندسان کمک می‌کند تا بدون نیاز به سرورهای ابری خارجی، تحلیل‌های پیچیده را مستقیماً در کنار تجهیزات صنعتی انجام دهند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 18:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-s7-1500-edge-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Edge Computing",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای پلتفرم TIA Portal با ابزارهای خودکارسازی مهندسی مبتنی بر هوش مصنوعی",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal زیمنس با قابلیت‌های پیشرفته‌ای برای تولید خودکار کدهای PLC و عیب‌یابی هوشمند عرضه شد. این ابزار جدید که با دستیار هوش مصنوعی صنعتی زیمنس یکپارچه شده است، زمان پیاده‌سازی پروژه‌های اتوماسیون را تا حد قابل توجهی کاهش می‌دهد. این تغییر باعث می‌شود مهندسان کنترل بتوانند بر بهینه‌سازی فرآیندهای پیچیده تمرکز بیشتری داشته باشند.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 18:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-tia-portal-ai-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Engineering",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش راهکارهای امنیت سایبری شبکه‌های صنعتی توسط زیمنس و فورتینت",
+      "summary": "زیمنس و فورتینت در همکاری مشترکی راهکار امنیتی جدیدی را برای حفاظت از زیرساخت‌های حیاتی OT و شبکه‌های صنعتی معرفی کردند. این راهکار ترکیبی از فایروال‌های سخت‌افزاری پیشرفته و سیستم‌های تشخیص نفوذ مبتنی بر پلتفرم Siemens Industrial Edge است. این همکاری پاسخی به افزایش حملات سایبری پیچیده به تجهیزات کنترل صنعتی و سیستم‌های اسکادا محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 18:01",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-fortinet-ot-security",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "Industrial Edge",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه سیستم جدید مانیتورینگ انرژی برای تجهیزات توزیع‌شده صنعتی",
+      "summary": "شرکت زیمنس پلتفرم Insights Hub خود را با ماژول‌های جدیدی برای پایش مصرف انرژی در کارخانه‌های بزرگ به‌روزرسانی کرد. این سیستم قادر است داده‌های مصرف برق خطوط تولید را به صورت دقیق تحلیل کرده و نقاط اتلاف انرژی را شناسایی کند. این قابلیت به صنایع کمک می‌کند تا استانداردهای سخت‌گیرانه زیست‌محیطی را راحت‌تر رعایت کرده و هزینه‌های عملیاتی خود را کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:45",
+      "collected_at": "1405/07/28 18:01",
+      "source": "IEngineering",
+      "source_url": "https://www.iengineering.com/siemens-insights-hub-energy",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Energy Management",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه خطوط تولید هوشمند خودرو با دوقلوهای دیجیتال پیشرفته زیمنس",
+      "summary": "گروه خودروسازی ب‌ام‌و از توسعه همکاری خود با زیمنس برای پیاده‌سازی کامل دوقلوهای دیجیتال در کارخانه‌های جهانی خود خبر داد. در این پروژه از نرم‌افزار NX و پلتفرم Siemens Xcelerator برای شبیه‌سازی کامل خطوط مونتاژ رباتیک استفاده می‌شود. این اقدام امکان تست و اعتبارسنجی تغییرات مهندسی را پیش از اجرای فیزیکی در کف کارخانه فراهم می‌سازد.",
+      "category": "match",
+      "published_at": "1405/07/28 11:30",
+      "collected_at": "1405/07/28 18:01",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-bmw-digital-twin",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی نسل جدید اینورترهای صنعتی SINAMICS با قابلیت‌های تشخیص خطای پیشرفته",
+      "summary": "زیمنس سبد محصولات درایوهای فرکانس متغیر خود را با معرفی مدل‌های جدید SINAMICS توسعه داد که مجهز به حسگرهای داخلی پایش سلامت هستند. این درایوها می‌توانند نشانه‌های اولیه خرابی موتورهای الکتریکی را پیش از توقف خط تولید شناسایی کنند. این ویژگی نقش مهمی در پیاده‌سازی استراتژی‌های نگهداری و تعمیرات پیشگیرانه در صنایع سنگین دارد.",
+      "category": "product",
+      "published_at": "1405/07/28 12:15",
+      "collected_at": "1405/07/28 18:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sinamics-new-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای سامانه کنترل فرآیند SIMATIC PCS neo برای صنایع شیمیایی پیوسته",
+      "summary": "نسخه جدید سامانه کنترل توزیع‌شده SIMATIC PCS neo زیمنس با قابلیت‌های مبتنی بر وب و معماری ابری منتشر شد. این نسخه امکان دسترسی ایمن مهندسان به داده‌های فرآیندی را از هر نقطه‌ای فراهم کرده و همکاری تیمی را تسهیل می‌کند. این سیستم گامی بزرگ در جهت مدرن‌سازی اتاق‌های فرمان و یکپارچه‌سازی فناوری‌های اطلاعات و عملیات است.",
+      "category": "product",
+      "published_at": "1405/07/28 13:00",
+      "collected_at": "1405/07/28 18:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-simatic-pcs-neo-v4",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای تحقیق روی رباتیک خودکاره در صنعت",
+      "summary": "زیمنس و دانشگاه فنی مونیخ یک آزمایشگاه مشترک تحقیقاتی برای توسعه نسل آینده ربات‌های همکار مجهز به هوش مصنوعی تأسیس کردند. این مرکز روی الگوریتم‌های یادگیری تقویتی برای انطباق سریع بازوهای رباتیک با تغییرات ناگهانی در خطوط مونتاژ تمرکز دارد. این پژوهش‌ها قرار است به صورت مستقیم در محصولات آینده اتوماسیون کارگاهی زیمنس تجاری‌سازی شوند.",
+      "category": "research",
+      "published_at": "1405/07/28 14:20",
+      "collected_at": "1405/07/28 18:01",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-tum-ai-robotics-lab",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "AI",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "عرضه ماژول‌های ارتباطی ۵G صنعتی برای تجهیزات غیرمتمرکز ET 200",
+      "summary": "شرکت زیمنس ماژول‌های ارتباطی جدیدی را برای سیستم‌های I/O توزیع‌شده SIMATIC ET 200 معرفی کرد که از فناوری ۵G صنعتی پشتیبانی می‌کنند. این ماژول‌ها پهنای باند بالا و تأخیر فوق‌العاده پایینی را برای ارتباط بی‌سیم میان کنترلرها و حسگرهای متحرک فراهم می‌سازند. این فناوری زیرساخت لازم برای پیاده‌سازی خودروهای AGV و ربات‌های خودران پیشرفته را در کارخانه‌ها مهیا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 15:40",
+      "collected_at": "1405/07/28 18:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-et200-5g-modules",
+      "tags": [
+        "Siemens",
+        "ET 200",
+        "5G",
+        "Industrial Communications"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "انتشار گزارش عملکرد پلتفرم Siemens Xcelerator در بهینه‌سازی زنجیره تامین صنعتی",
+      "summary": "زیمنس آخرین گزارش خود درباره میزان پذیرش پلتفرم Xcelerator توسط صنایع متوسط و بزرگ را منتشر کرد که نشان‌دهنده رشد چشمگیر بهینه‌سازی زنجیره تامین است. این اکوسیستم باز توانسته است با اتصال نرم‌افزارهای گوناگون مهندسی و مدیریت تولید، زمان ورود محصولات جدید به بازار را به طور میانگین بیست درصد کاهش دهد. این دستاورد اهمیت یکپارچه‌سازی دیجیتال را در رقابت‌پذیری صنعتی اثبات می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/28 17:00",
+      "collected_at": "1405/07/28 18:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-xcelerator-supply-chain-report",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Supply Chain",
+        "Industry 4.0"
       ]
     }
   ]
