@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 661,
+  "count": 671,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 12:04",
+  "updated_at": "1405/07/28 12:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -10596,6 +10596,176 @@
         "Siemens Xcelerator",
         "Market Trends",
         "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی جدید برای SIMATIC S7-1500 با پشتیبانی از استاندارد TSN",
+      "summary": "شرکت زیمنس ماژول‌های ارتباطی جدیدی را برای خانواده کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 معرفی کرد که از فناوری شبکه زمان‌بندی‌شده TSN پشتیبانی می‌کنند. این قابلیت امکان انتقال بلادرنگ و قطعی داده‌ها را در شبکه‌های صنعتی پیچیده فراهم ساخته و کارایی اتوماسیون را ارتقا می‌دهد. مهندسان می‌توانند از طریق این ماژول‌ها، همگام‌سازی بهتری میان تجهیزات مختلف خط تولید برقرار کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 12:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-tsn-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "S7-1500",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش کاربرد هوش مصنوعی مولد در محیط TIA Portal با ابزارهای جدید زیمنس",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی خود موسوم به Industrial Copilot را برای محیط مهندسی TIA Portal به طور چشمگیری توسعه داد. این به‌روزرسانی به برنامه‌نویسان اجازه می‌دهد تا کدهای PLC و اسکریپت‌های HMI را با سرعت و دقت بیشتری از طریق دستورات متنی ساده تولید کنند. این راهکار نوآورانه زمان توسعه پروژه‌های اتوماسیون صنعتی را تا حد زیادی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 12:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/software/news/siemens-expands-industrial-copilot-tia-portal",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Industrial Copilot",
+        "AI",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای پلتفرم Industrial Edge زیمنس برای مدیریت متمرکز تجهیزات لبه شبکه",
+      "summary": "نسخه جدید پلتفرم Siemens Industrial Edge با امکانات پیشرفته برای مدیریت متمرکز و پایش اپلیکیشن‌های لبه در کارخانه‌های بزرگ عرضه شد. این سیستم به مدیران IT و OT کمک می‌کند تا به‌روزرسانی‌های نرم‌افزاری را به صورت ایمن و همزمان روی هزاران سخت‌افزار صنعتی اعمال کنند. این رویکرد نقش مهمی در کاهش هزینه‌های نگهداری زیرساخت‌های دیجیتال دارد.",
+      "category": "product",
+      "published_at": "1405/07/28 09:45",
+      "collected_at": "1405/07/28 12:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/edge-computing/news/siemens-updates-industrial-edge-management",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Edge Computing",
+        "OT/IT",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری راهبردی زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط تولید",
+      "summary": "شرکت زیمنس در قالب یک مشارکت راهبردی با شرکت Festo، نسل جدیدی از تجهیزات پنوماتیک هوشمند را با سیستم‌های کنترل SIMATIC یکپارچه کرد. این همکاری امکان مانیتورینگ مصرف هوا و تشخیص زودهنگام نشت در سیستم‌های پنوماتیک را از طریق پروتکل‌های صنعتی فراهم می‌آورد. این فناوری به کارخانه‌ها کمک می‌کند تا گام بزرگی در راستای پایداری و صرفه‌جویی انرژی بردارند.",
+      "category": "company",
+      "published_at": "1405/07/28 10:10",
+      "collected_at": "1405/07/28 12:05",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/siemens-festo-smart-pneumatics-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Energy Efficiency",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی نرم‌افزار جدید SCADA زیمنس برای نظارت بر زیرساخت‌های مقیاس بزرگ",
+      "summary": "سیستم نظارت و اسکادا جدید زیمنس با معماری ابری و قابلیت مقیاس‌پذیری بالا برای صنایع آب و انرژی معرفی شد. این نرم‌افزار با استاندارد امنیتی IEC 62443 سازگار بوده و امنیت سایبری لایه کنترل را در برابر تهدیدات مدرن تضمین می‌کند. اپراتورها می‌توانند از طریق داشبوردهای بصری پیشرفته، وضعیت تجهیزات را به صورت بلادرنگ رصد کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:35",
+      "collected_at": "1405/07/28 12:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/siemens-launches-next-gen-scada-platform",
+      "tags": [
+        "Siemens",
+        "SCADA",
+        "Cybersecurity",
+        "IEC 62443",
+        "Control Systems"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه قابلیت‌های شبیه‌سازی سه بعدی در پلتفرم Siemens Xcelerator",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم Siemens Xcelerator اضافه کرد که امکان شبیه‌سازی فیزیکی و رفتاری ربات‌ها را با دقت بالا فراهم می‌کند. این ابزار مهندسان را قادر می‌سازد تا پیش از راه‌اندازی فیزیکی خطوط مونتاژ، تمامی سناریوهای حرکتی را در محیط مجازی تست کنند. این نوآوری زمان توقف خط تولید را در هنگام تغییر مدل محصولات به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:55",
+      "collected_at": "1405/07/28 12:05",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/automation/siemens-enhances-xcelerator-3d-simulation",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Simulation",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "عرضه درایوهای سروو جدید SINAMICS S220 برای کنترل حرکت فوق‌العاده دقیق",
+      "summary": "شرکت زیمنس درایوهای سروو پیشرفته SINAMICS S220 را با تمرکز بر سرعت بالا و بهره‌وری انرژی به بازار عرضه کرد. این درایوها دارای قابلیت‌های امنیتی یکپارچه بود و با سیستم‌های کنترل حرکت SIMATIC سازگاری کامل دارند. استفاده از این تجهیزات در صنایع بسته‌بندی و چاپ، دقت و سرعت عملکرد ماشین‌آلات را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 11:20",
+      "collected_at": "1405/07/28 12:05",
+      "source": "Drive & Control",
+      "source_url": "https://www.drivesncontrols.com/news/siemens-releases-sinamics-s220-servo-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Motion Control",
+        "Servo Drives",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "انتشار راهنمای امنیتی جدید توسط CISA برای حفاظت از تجهیزات SIMATIC زیمنس",
+      "summary": "آژانس امنیت سایبری CISA آمریکا توصیه‌های فنی جدیدی را برای ایمن‌سازی کنترل‌کننده‌های SIMATIC زیمنس در برابر آسیب‌پذیری‌های احتمالی شبکه منتشر کرد. در این گزارش بر ضرورت به‌روزرسانی میان‌افزار و استفاده از فایروال‌های سخت‌افزاری در لایه مرزی OT تأکید شده است. رعایت این نکات به شرکت‌ها کمک می‌کند تا از حملات سایبری به زیرساخت‌های حیاتی جلوگیری کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 11:40",
+      "collected_at": "1405/07/28 12:05",
+      "source": "CISA Cybersecurity",
+      "source_url": "https://www.cisa.gov/news-events/alerts/siemens-simatic-security-advisory",
+      "tags": [
+        "CISA",
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "ICS-CERT"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای توسعه پژوهش‌های اتوماسیون مبتنی بر کوانتوم",
+      "summary": "زیمنس تفاهم‌نامه پژوهشی جدیدی را با دانشگاه فنی مونیخ (TUM) برای کاربرد محاسبات کوانتومی در بهینه‌سازی زنجیره تامین صنعتی امضا کرد. این پروژه تحقیقاتی به دنبال حل مسائل پیچیده الگوریتمی در برنامه‌ریزی تولید و لجستیک کارخانه‌ها است. این همکاری گامی بلند در جهت آینده‌نگری فناوری‌های مهندسی اتوماسیون به شمار می‌رود.",
+      "category": "research",
+      "published_at": "1405/07/28 11:55",
+      "collected_at": "1405/07/28 12:05",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-tum-quantum-computing-research",
+      "tags": [
+        "Siemens",
+        "Quantum Computing",
+        "Research",
+        "Supply Chain",
+        "TUM"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "راه‌اندازی مرکز جدید آموزش مهندسی اتوماسیون صنعتی زیمنس در خاورمیانه",
+      "summary": "شرکت زیمنس از افتتاح یک مرکز پیشرفته آموزش و توسعه مهارت‌های اتوماسیون صنعتی در منطقه خاورمیانه خبر داد. این مرکز مجهز به آخرین تجهیزات سخت‌افزاری SIMATIC و نرم‌افزارهای TIA Portal است تا به کارشناسان محلی آموزش‌های تخصصی ارائه دهد. این اقدام در راستای توانمندسازی نیروی انسانی برای کار با کارخانه‌های هوشمند صورت گرفته است.",
+      "category": "society",
+      "published_at": "1405/07/28 12:00",
+      "collected_at": "1405/07/28 12:05",
+      "source": "ME Construction News",
+      "source_url": "https://meconstructionnews.com/siemens-opens-new-automation-training-center",
+      "tags": [
+        "Siemens",
+        "Training",
+        "Education",
+        "Middle East",
+        "Smart Factory"
       ]
     }
   ]
