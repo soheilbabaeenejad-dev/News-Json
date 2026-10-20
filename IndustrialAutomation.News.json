@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 598,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 11:04",
+  "count": 606,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/28 11:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9588,6 +9588,134 @@
         "SIMATIC PCS neo",
         "Energy Saving",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261019-001",
+      "title": "ارتقای قابلیت‌های تحلیل داده در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس نسخه جدیدی از پلتفرم Industrial Edge را با تمرکز بر تحلیل داده‌های بلادرنگ معرفی کرد. این به‌روزرسانی به مهندسان اجازه می‌دهد تا مدل‌های یادگیری ماشین را مستقیماً بر روی لبه شبکه اجرا کرده و زمان پاسخ‌دهی سیستم‌های نظارتی را به شدت کاهش دهند. این اقدام گامی مهم برای بهینه‌سازی عملیات در کارخانه‌های هوشمند محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 08:00",
+      "collected_at": "1405/07/28 11:06",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industrial-edge.html",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "IIoT",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261019-002",
+      "title": "همکاری استراتژیک زیمنس و انویدیا برای بهینه‌سازی دوقلوهای دیجیتال",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه دوقلوهای دیجیتال فوتورالیستیک گسترش دادند. با ادغام فناوری Omniverse در پلتفرم Xcelerator، کاربران می‌توانند شبیه‌سازی‌های پیچیده خطوط تولید را با دقت بصری بی‌نظیر انجام دهند. این همکاری به کاهش هزینه‌های طراحی و تسریع در راه‌اندازی پروژه‌های اتوماسیون صنعتی کمک شایانی می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 11:06",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/industry-news",
+      "tags": [
+        "Digital Twin",
+        "NVIDIA",
+        "Siemens",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261019-003",
+      "title": "رونمایی از ماژول‌های ارتباطی جدید برای SIMATIC S7-1500",
+      "summary": "زیمنس از ماژول‌های ارتباطی جدید برای کنترل‌کننده‌های سری SIMATIC S7-1500 رونمایی کرد که از پروتکل‌های پیشرفته شبکه پشتیبانی می‌کنند. این ماژول‌ها امکان اتصال سریع‌تر به زیرساخت‌های ابری و شبکه‌های صنعتی پرسرعت را فراهم می‌آورند. این ارتقا به ویژه برای کاربردهای سنگین که نیاز به تبادل داده‌های حجیم دارند، طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 09:00",
+      "collected_at": "1405/07/28 11:06",
+      "source": "Siemens Industry",
+      "source_url": "https://mall.industry.siemens.com",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "PLC",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261019-004",
+      "title": "هشدار امنیتی CISA درباره آسیب‌پذیری در تجهیزات شبکه صنعتی",
+      "summary": "آژانس امنیت سایبری و زیرساخت (CISA) هشداری درباره آسیب‌پذیری‌های جدید در برخی سوئیچ‌های صنعتی منتشر کرد. این نقص امنیتی می‌تواند به مهاجمان اجازه دهد تا دسترسی غیرمجاز به شبکه‌های OT پیدا کنند. تولیدکنندگان در حال ارائه وصله‌های نرم‌افزاری برای رفع این حفره‌های امنیتی در تجهیزات شبکه هستند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 11:06",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "CISA",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261019-005",
+      "title": "توسعه قابلیت‌های دستیار Siemens Industrial Copilot",
+      "summary": "زیمنس قابلیت‌های جدیدی را به دستیار هوش مصنوعی Industrial Copilot اضافه کرد تا مهندسی خطوط تولید را ساده‌تر کند. این ابزار اکنون می‌تواند کدهای برنامه‌نویسی PLC را بر اساس نیازهای کاربر تولید کرده و خطاهای احتمالی در منطق کنترلی را پیش‌بینی کند. این فناوری به طور قابل توجهی زمان توسعه پروژه‌های اتوماسیون را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 09:30",
+      "collected_at": "1405/07/28 11:06",
+      "source": "Siemens News",
+      "source_url": "https://press.siemens.com",
+      "tags": [
+        "AI",
+        "Industrial Copilot",
+        "Automation",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261019-006",
+      "title": "معرفی کنترل‌کننده هوشمند CHARX توسط فونیکس کنتاکت",
+      "summary": "شرکت فونیکس کنتاکت از نسل جدید کنترل‌کننده‌های هوشمند CHARX برای زیرساخت‌های شارژ خودروهای برقی رونمایی کرد. این سیستم با قابلیت‌های پیشرفته مدیریت انرژی، امکان یکپارچه‌سازی با شبکه‌های هوشمند صنعتی را فراهم می‌کند. این محصول برای محیط‌های لجستیکی که نیاز به ایستگاه‌های شارژ پرقدرت دارند، بهینه‌سازی شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 09:45",
+      "collected_at": "1405/07/28 11:06",
+      "source": "Phoenix Contact",
+      "source_url": "https://www.phoenixcontact.com",
+      "tags": [
+        "Phoenix Contact",
+        "EV Charging",
+        "Smart Grid",
+        "Controller"
+      ]
+    },
+    {
+      "id": "ia-20261019-007",
+      "title": "ارتقای استاندارد EtherCAT G توسط بکوف برای داده‌های حجیم",
+      "summary": "شرکت بکوف استاندارد EtherCAT G را برای انتقال داده‌های حجیم در اتوماسیون صنعتی ارتقا داد. این استاندارد جدید سرعت انتقال داده‌ها را به میزان قابل توجهی افزایش داده و برای کاربردهایی با تعداد بالای محورهای حرکتی مناسب است. این پیشرفت به صنایع کمک می‌کند تا دقت کنترل حرکات را در سرعت‌های بالا حفظ کنند.",
+      "category": "industry",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 11:06",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com",
+      "tags": [
+        "EtherCAT",
+        "Beckhoff",
+        "Motion Control",
+        "Industrial Bus"
+      ]
+    },
+    {
+      "id": "ia-20261019-010",
+      "title": "یکپارچه‌سازی عمیق‌تر زیمنس و انویدیا در متاورس صنعتی",
+      "summary": "زیمنس و انویدیا گام‌های جدیدی برای یکپارچه‌سازی پلتفرم‌های خود در متاورس صنعتی برداشته‌اند. این همکاری امکان شبیه‌سازی دقیق شرایط محیطی کارخانه را فراهم کرده و به مدیران اجازه می‌دهد تا پیش از اجرای فیزیکی، تمامی فرآیندها را در محیط مجازی تست کنند. این رویکرد ریسک‌های عملیاتی را به حداقل می‌رساند.",
+      "category": "industry",
+      "published_at": "1405/07/28 10:45",
+      "collected_at": "1405/07/28 11:06",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Industrial Metaverse",
+        "Simulation"
       ]
     }
   ]
