@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 626,
-  "provider": "Gemini/gemini-3.7-flash",
-  "updated_at": "1405/07/28 11:21",
+  "count": 635,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/28 12:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -10036,6 +10036,150 @@
         "FactoryTalk",
         "تحلیل داده",
         "هوش مصنوعی صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته پردازش لبه در پلتفرم Siemens Industrial Edge",
+      "summary": "شرکت زیمنس از ماژول‌های سخت‌افزاری جدید و بسته‌های نرم‌افزاری پیشرفته برای پلتفرم Siemens Industrial Edge رونمایی کرد که توانایی پردازش محلی داده‌های OT را به شدت افزایش می‌دهد. این راهکار به مهندسان اجازه می‌دهد الگوریتم‌های هوش مصنوعی و یادگیری ماشین را به صورت بلادرنگ مستقیماً در طبقه تولید اجرا کنند. این محصول نقش کلیدی در کاهش تاخیر شبکه و بهینه‌سازی مصرف پهنای باند در کارخانه‌های هوشمند ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 12:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-industrial-edge-update-2026",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "Edge Computing",
+        "OT/IT Integration"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های امنیت سایبری در سیستم کنترل فرآیند SIMATIC PCS 7",
+      "summary": "زیمنس بسته به‌روزرسانی امنیتی جدیدی را برای سیستم کنترل فرآیند صنعتی SIMATIC PCS 7 عرضه کرده است تا در برابر تهدیدات سایبری پیچیده از زیرساخت‌های حیاتی محافظت کند. این نسخه شامل پروتکل‌های رمزنگاری پیشرفته و ابزارهای مانیتورینگ بلادرنگ برای شناسایی دسترسی‌های غیرمجاز است. این اقدام گامی مهم برای تطابق با استانداردهای سخت‌گیرانه IEC 62443 در پالایشگاه‌ها و صنایع شیمیایی محسوب می‌شود.",
+      "category": "news",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 12:00",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-pcs7-security-update",
+      "tags": [
+        "SIMATIC PCS 7",
+        "Cybersecurity",
+        "DCS",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "توسعه قابلیت‌های شبیه‌سازی سه بعدی در نرم‌افزار NX Industrial Amification",
+      "summary": "بخش صنایع دیجیتال زیمنس نسخه جدید نرم‌افزار NX Industrial Amification را با تمرکز بر بهبود مدل‌سازی فیزیکی و رفتاری ربات‌های صنعتی منتشر کرد. این ابزار مهندسی به طراحان خطوط تولید کمک می‌کند پیش از راه‌اندازی فیزیکی، تمامی سناریوهای حرکتی و برخوردهای احتمالی را در محیط مجازی بررسی کنند. استفاده از این نرم‌افزار خطاهای طراحی را تا چهل درصد کاهش داده و سرعت تحویل پروژه را تسریع می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 12:00",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/siemens-nx-ia-update",
+      "tags": [
+        "NX",
+        "Digital Twin",
+        "Simulation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "عرضه ماژول‌های ارتباطی جدید برای پشتیبانی از پروتکل TSN در SIMATIC S7-1500",
+      "summary": "زیمنس سبد محصولات کنترل‌کننده‌های قابل برنامه‌ریزی خود را با افزودن ماژول‌های ارتباطی مجهز به فناوری شبکه حساس به زمان (TSN) توسعه داد. این ماژول‌ها برای کنترل‌کننده‌های SIMATIC S7-1500 طراحی شده‌اند تا تبادل داده‌های زمان‌بندی‌شده را در شبکه‌های بزرگ صنعتی تضمین کنند. این نوآوری بستر لازم برای همگرایی واقعی شبکه‌های IT و شبکه‌های زمان واقعی OT را فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/28 10:20",
+      "collected_at": "1405/07/28 12:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-s7-1500-tsn-modules",
+      "tags": [
+        "SIMATIC S7-1500",
+        "TSN",
+        "PROFINET",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با سیستم مدیریت انرژی زیمنس بر پایه Xcelerator",
+      "summary": "راهکار جامع مدیریت انرژی زیمنس بر بستر پلتفرم ابری Siemens Xcelerator برای پایش مصرف برق و گاز واحدهای تولیدی بزرگ بروزرسانی شد. این سیستم با تحلیل داده‌های جمع‌آوری‌شده توسط کنتورهای هوشمند و درایوهای SINAMICS، نقاط اتلاف انرژی را شناسایی و راهکارهای اصلاحی پیشنهاد می‌دهد. این راهکار به صنایع کمک می‌کند تا به اهداف توسعه پایدار و کاهش انتشار کربن دست یابند.",
+      "category": "industry",
+      "published_at": "1405/07/28 10:50",
+      "collected_at": "1405/07/28 12:00",
+      "source": "Smart Industry",
+      "source_url": "https://www.smartindustry.com/siemens-xcelerator-energy-management",
+      "tags": [
+        "Siemens Xcelerator",
+        "Energy Management",
+        "Sustainability",
+        "SINAMICS"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی کنترل‌کننده رباتیک جدید OmniCore با قابلیت یکپارچه‌سازی عمیق با TIA Portal",
+      "summary": "شرکت ABB نسل جدید کنترل‌کننده‌های رباتیک OmniCore را معرفی کرد که از پروتکل‌های ارتباطی پیشرفته برای اتصال مستقیم به کنترل‌کننده‌های SIMATIC زیمنس پشتیبانی می‌کنند. این هماهنگی سخت‌افزاری و نرم‌افزاری به برنامه‌نویسان اتوماسیون اجازه می‌دهد منطق ربات و خط تولید را از طریق یک محیط مهندسی واحد مدیریت کنند. این پیشرفت زمان راه‌اندازی سلول‌های رباتیک پیچیده در خطوط خودروسازی را به طور محسوسی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 11:10",
+      "collected_at": "1405/07/28 12:00",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/abb-omnicore-siemens-integration",
+      "tags": [
+        "ABB",
+        "OmniCore",
+        "Robotics",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش قابلیت‌های نگهداری پیشگیرانه با سیستم مانیتورینگ وضعیت زیمنس",
+      "summary": "شرکت زیمنس ماژول جدید نرم‌افزاری Siprotec و SIMATIC IPC را برای تحلیل ارتعاشات و دمای موتورهای صنعتی سنگین به بازار عرضه کرد. این سیستم با استفاده از الگوریتم‌های هوش مصنوعی، الگوهای غیرعادی کارکرد تجهیزات را پیش از وقوع خرابی مکانیکی شناسایی می‌کند. این راهکار مانع از توقف‌های ناخواسته خطوط تولید می‌شود و هزینه‌های تعمیرات اضطراری را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/28 11:30",
+      "collected_at": "1405/07/28 12:00",
+      "source": "IEB Media",
+      "source_url": "https://www.iebmedia.com/siemens-condition-monitoring-update",
+      "tags": [
+        "Predictive Maintenance",
+        "SIMATIC IPC",
+        "Siprotec",
+        "Condition Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "ارتقای سیستم اسکادا SIMATIC WinCC Unified برای نظارت بر مقیاس‌های بزرگ صنعتی",
+      "summary": "زیمنس نسخه جدید نرم‌افزار SCADA خود موسوم به SIMATIC WinCC Unified V19 را با امکانات پیشرفته گرافیکی وب‌محور منتشر کرد. این نسخه از استانداردهای امنیتی مدرن و فرمت‌های باز داده‌ای نظیر MQTT برای ارتباط یکپارچه با سیستم‌های ابری پشتیبانی می‌کند. این قابلیت به مدیران کارخانه اجازه می‌دهد از هر نقطه جغرافیایی و با امنیتی بالا، وضعیت فرآیندهای تولید را پایش کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 11:45",
+      "collected_at": "1405/07/28 12:00",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/siemens-wincc-unified-v19",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "همکاری زیمنس و دانشگاه صنعتی مونیخ برای توسعه نسل آینده مهندسی اتوماسیون",
+      "summary": "زیمنس تفاهم‌نامه همکاری پژوهشی جدیدی را با دانشگاه صنعتی مونیخ (TUM) برای توسعه نسل آینده ابزارهای مهندسی مبتنی بر هوش مصنوعی امضا کرد. این پروژه تحقیقاتی روی استفاده از مدل‌های زبان بزرگ برای خودکارسازی کدنویسی PLC و تست نرم‌افزارهای صنعتی تمرکز دارد. این همکاری علمی نویدبخش ظهور استانداردهای نوین در اتوماسیون صنعتی و کاهش پیچیدگی‌های برنامه‌نویسی است.",
+      "category": "research",
+      "published_at": "1405/07/28 12:00",
+      "collected_at": "1405/07/28 12:00",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-tum-ai-research",
+      "tags": [
+        "Research",
+        "Artificial Intelligence",
+        "Siemens",
+        "Automation"
       ]
     }
   ]
