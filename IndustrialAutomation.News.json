@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 824,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 16:05",
+  "count": 833,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/28 16:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -13198,6 +13198,150 @@
         "Digital Twin",
         "R&D",
         "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20241019-001",
+      "title": "ارتقای پلتفرم Siemens Xcelerator با ابزارهای تحلیل داده مبتنی بر هوش مصنوعی",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم Xcelerator اضافه کرده است که امکان تحلیل داده‌های پیچیده تولید را با استفاده از هوش مصنوعی فراهم می‌کند. این ابزارها به مهندسان کمک می‌کنند تا گلوگاه‌های خط تولید را سریع‌تر شناسایی کرده و بهره‌وری کلی تجهیزات (OEE) را به طور چشمگیری افزایش دهند. این به‌روزرسانی بخشی از استراتژی زیمنس برای یکپارچه‌سازی کامل محیط‌های طراحی و عملیاتی است.",
+      "category": "product",
+      "published_at": "1403/07/28 09:15",
+      "collected_at": "1405/07/28 16:07",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/xcelerator-ai-update",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "AI",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20241019-002",
+      "title": "رونمایی از ماژول‌های ارتباطی جدید برای SIMATIC S7-1500 با پشتیبانی از TSN",
+      "summary": "شرکت زیمنس ماژول‌های ارتباطی جدیدی را برای سری SIMATIC S7-1500 معرفی کرد که از استاندارد Time-Sensitive Networking یا همان TSN پشتیبانی می‌کنند. این فناوری امکان تبادل داده‌های بلادرنگ و قطعی را در شبکه‌های صنعتی فراهم کرده و تاخیر در ارتباطات بین کنترلرها و تجهیزات لبه را به حداقل می‌رساند. این ماژول‌ها برای کاربردهای حساس به زمان در صنایع خودروسازی طراحی شده‌اند.",
+      "category": "product",
+      "published_at": "1403/07/28 10:00",
+      "collected_at": "1405/07/28 16:07",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-tsn-modules",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "TSN",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20241019-004",
+      "title": "معرفی راهکار جدید زیمنس برای مدیریت امنیت سایبری در تجهیزات OT",
+      "summary": "زیمنس راهکار جدیدی را برای پایش و مدیریت امنیت سایبری در شبکه‌های عملیاتی (OT) معرفی کرد که به طور خاص برای شناسایی نفوذ در تجهیزات SIMATIC طراحی شده است. این سیستم با استفاده از الگوریتم‌های یادگیری ماشین، رفتارهای غیرعادی در ترافیک شبکه را شناسایی کرده و به مدیران سیستم هشدار می‌دهد. این اقدام در راستای مقابله با افزایش حملات سایبری به زیرساخت‌های حیاتی صنعتی صورت گرفته است.",
+      "category": "regulation",
+      "published_at": "1403/07/28 11:20",
+      "collected_at": "1405/07/28 16:07",
+      "source": "Cybersecurity Insiders",
+      "source_url": "https://www.cybersecurity-insiders.com/siemens-ot-security",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "SIMATIC",
+        "Protection"
+      ]
+    },
+    {
+      "id": "ia-20241019-005",
+      "title": "به‌روزرسانی نرم‌افزار SIMATIC WinCC Unified برای بهبود رابط کاربری",
+      "summary": "نسخه جدید نرم‌افزار SIMATIC WinCC Unified با تمرکز بر بهبود تجربه کاربری و قابلیت‌های گرافیکی پیشرفته منتشر شد. این به‌روزرسانی به اپراتورها اجازه می‌دهد تا داشبوردهای شخصی‌سازی شده‌تری را برای پایش فرآیندهای صنعتی طراحی کنند. همچنین، قابلیت‌های جدیدی برای دسترسی از راه دور از طریق مرورگرهای وب بدون نیاز به نصب نرم‌افزار جانبی اضافه شده است.",
+      "category": "product",
+      "published_at": "1403/07/28 12:05",
+      "collected_at": "1405/07/28 16:07",
+      "source": "Siemens Industry Support",
+      "source_url": "https://support.industry.siemens.com/wincc-unified-update",
+      "tags": [
+        "WinCC",
+        "HMI",
+        "SCADA",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241019-006",
+      "title": "توسعه ربات‌های همکار جدید ABB برای محیط‌های کاری پرخطر",
+      "summary": "شرکت ABB از نسل جدید ربات‌های همکار (Cobot) خود با استانداردهای حفاظتی بالا برای کار در محیط‌های صنعتی سخت رونمایی کرد. این ربات‌ها دارای درجه حفاظت IP67 هستند و می‌توانند در مجاورت مواد شیمیایی و رطوبت بالا بدون افت عملکرد فعالیت کنند. این محصول جدید برای صنایع داروسازی و تولید قطعات الکترونیک که نیاز به محیط‌های استریل دارند، بسیار ایده‌آل است.",
+      "category": "product",
+      "published_at": "1403/07/28 12:40",
+      "collected_at": "1405/07/28 16:07",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/abb-cobot-launch",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Cobot",
+        "Industrial"
+      ]
+    },
+    {
+      "id": "ia-20241019-007",
+      "title": "معرفی درایوهای جدید SINAMICS G120X برای صنایع آب و فاضلاب",
+      "summary": "زیمنس درایوهای فرکانس متغیر سری SINAMICS G120X را برای کاربردهای پمپاژ و تهویه در صنایع آب و فاضلاب بهینه‌سازی کرده است. این درایوها با داشتن قابلیت‌های پیشرفته مدیریت انرژی، مصرف برق را تا ۲۰ درصد کاهش می‌دهند. طراحی مقاوم این درایوها باعث می‌شود تا در شرایط محیطی دشوار و دماهای بالا، پایداری عملیاتی خود را حفظ کنند.",
+      "category": "product",
+      "published_at": "1403/07/28 13:15",
+      "collected_at": "1405/07/28 16:07",
+      "source": "Water Technology News",
+      "source_url": "https://www.watertech-news.com/siemens-g120x",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy"
+      ]
+    },
+    {
+      "id": "ia-20241019-008",
+      "title": "سرمایه‌گذاری اشنایدر الکتریک در توسعه زیرساخت‌های شارژ هوشمند",
+      "summary": "اشنایدر الکتریک اعلام کرد که سرمایه‌گذاری جدیدی را برای توسعه سیستم‌های مدیریت انرژی در ایستگاه‌های شارژ خودروهای برقی اختصاص داده است. این راهکارها با استفاده از نرم‌افزار EcoStruxure، بار شبکه را مدیریت کرده و از فشار به شبکه برق صنعتی جلوگیری می‌کنند. این پروژه بخشی از تلاش‌های این شرکت برای کربن‌زدایی از صنایع و حمل‌ونقل عمومی است.",
+      "category": "industry",
+      "published_at": "1403/07/28 14:00",
+      "collected_at": "1405/07/28 16:07",
+      "source": "Energy Industry Review",
+      "source_url": "https://www.energy-review.com/schneider-ev-infrastructure",
+      "tags": [
+        "Schneider",
+        "EcoStruxure",
+        "EV",
+        "Energy"
+      ]
+    },
+    {
+      "id": "ia-20241019-009",
+      "title": "انتشار گزارش جدید درباره نقش هوش مصنوعی در نگهداری پیشگیرانه",
+      "summary": "موسسه تحقیقاتی اتوماسیون صنعتی گزارش جدیدی را درباره تأثیر هوش مصنوعی بر نگهداری پیشگیرانه (Predictive Maintenance) منتشر کرده است. طبق این گزارش، استفاده از پلتفرم‌هایی مانند Siemens Insights Hub می‌تواند زمان خرابی برنامه‌ریزی نشده تجهیزات را تا ۳۰ درصد کاهش دهد. این گزارش بر اهمیت جمع‌آوری داده‌های سنسورها و تحلیل آن‌ها برای پیش‌بینی خرابی‌ها تاکید دارد.",
+      "category": "research",
+      "published_at": "1403/07/28 14:45",
+      "collected_at": "1405/07/28 16:07",
+      "source": "Industrial Research Group",
+      "source_url": "https://www.industrial-research.org/ai-predictive-maintenance",
+      "tags": [
+        "AI",
+        "Maintenance",
+        "Insights Hub",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20241019-010",
+      "title": "ارتقای سیستم کنترل توزیع‌شده PCS 7 به نسخه‌های جدیدتر برای امنیت بیشتر",
+      "summary": "زیمنس برنامه‌ای را برای مهاجرت کاربران سیستم‌های قدیمی PCS 7 به نسخه‌های مدرن‌تر با امنیت سایبری ارتقایافته آغاز کرده است. این اقدام برای اطمینان از انطباق با استانداردهای امنیتی جدید IEC 62443 انجام می‌شود. کاربران می‌توانند با استفاده از ابزارهای مهاجرت زیمنس، پروژه‌های خود را بدون توقف طولانی‌مدت در خط تولید به سیستم‌های جدید منتقل کنند.",
+      "category": "industry",
+      "published_at": "1403/07/28 15:30",
+      "collected_at": "1405/07/28 16:07",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-pcs7-migration",
+      "tags": [
+        "Siemens",
+        "PCS7",
+        "Security",
+        "Migration"
       ]
     }
   ]
