@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 920,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 19:02",
+  "count": 930,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/07/28 19:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -14733,6 +14733,165 @@
         "Industrial Ethernet",
         "IT/OT",
         "Standardization"
+      ]
+    },
+    {
+      "id": "ia-20241019-001",
+      "title": "ارتقای قابلیت‌های یادگیری ماشین در کنترلرهای SIMATIC S7-1500 توسط زیمنس",
+      "summary": "زیمنس با معرفی به‌روزرسانی جدید برای کنترل‌کننده‌های SIMATIC S7-1500، امکان اجرای مدل‌های یادگیری ماشین را به صورت مستقیم در سطح کنترل فراهم کرد. این قابلیت به مهندسان اجازه می‌دهد تا بدون نیاز به سرورهای خارجی، تحلیل‌های پیش‌بینی‌کننده را در لحظه انجام دهند. این نوآوری باعث کاهش تأخیر در پردازش داده‌ها و بهبود چشمگیر در تشخیص خطاهای مکانیکی ماشین‌آلات صنعتی می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/28 09:15",
+      "collected_at": "1405/07/28 19:07",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Machine Learning",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20241019-002",
+      "title": "معرفی نسل جدید ماژول‌های ارتباطی I/O با پشتیبانی از پروتکل OPC UA",
+      "summary": "شرکت زیمنس ماژول‌های ورودی/خروجی جدیدی را برای خانواده ET 200SP عرضه کرده است که به صورت بومی از پروتکل OPC UA پشتیبانی می‌کنند. این ماژول‌ها امکان تبادل داده‌های امن و استاندارد را بین لایه فیلد و سیستم‌های مدیریت مرکزی فراهم می‌سازند. این اقدام گامی مهم در جهت تحقق معماری‌های باز در اتوماسیون صنعتی و تسهیل یکپارچه‌سازی عمودی در کارخانه‌های هوشمند است.",
+      "category": "product",
+      "published_at": "1403/07/28 10:30",
+      "collected_at": "1405/07/28 19:07",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/iiot/article/33142567/siemens-et200sp-opcua",
+      "tags": [
+        "Siemens",
+        "ET 200SP",
+        "OPC UA",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20241019-003",
+      "title": "گسترش همکاری زیمنس و انویدیا در بهینه‌سازی دوقلوهای دیجیتال برای کارخانه‌های خودروسازی",
+      "summary": "زیمنس و انویدیا با توسعه همکاری‌های خود، ابزارهای جدیدی را برای شبیه‌سازی فوتورالیستیک در پلتفرم Xcelerator ارائه کردند. این ابزارها به تولیدکنندگان خودرو اجازه می‌دهد تا پیش از ساخت فیزیکی خطوط تولید، تمامی فرآیندها را در محیط مجازی با دقت بالا شبیه‌سازی کنند. این همکاری منجر به کاهش ۳۰ درصدی زمان راه‌اندازی خطوط تولید جدید در صنایع خودروسازی شده است.",
+      "category": "industry",
+      "published_at": "1403/07/28 11:45",
+      "collected_at": "1405/07/28 19:07",
+      "source": "Industrial News",
+      "source_url": "https://www.siemens.com/global/en/company/stories/industry/nvidia-partnership.html",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Digital Twin",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20241019-004",
+      "title": "انتشار وصله امنیتی اضطراری برای سیستم‌های مدیریت انرژی زیمنس",
+      "summary": "تیم امنیتی زیمنس یک وصله حیاتی برای رفع آسیب‌پذیری‌های شناسایی شده در پلتفرم مدیریت انرژی Sentron منتشر کرد. این حفره امنیتی می‌توانست به مهاجمان اجازه دسترسی غیرمجاز به تنظیمات شبکه برق کارخانه را بدهد. تمامی کاربران سیستم‌های پایش انرژی توصیه شده است که در اسرع وقت نسبت به به‌روزرسانی فریم‌ور تجهیزات خود اقدام کنند تا از حملات سایبری احتمالی جلوگیری شود.",
+      "category": "regulation",
+      "published_at": "1403/07/28 12:20",
+      "collected_at": "1405/07/28 19:07",
+      "source": "CISA ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-280-01",
+      "tags": [
+        "Cybersecurity",
+        "Siemens",
+        "Sentron",
+        "CISA"
+      ]
+    },
+    {
+      "id": "ia-20241019-005",
+      "title": "رونمایی از درایوهای هوشمند SINAMICS G220 با قابلیت‌های پیشرفته پایش وضعیت",
+      "summary": "زیمنس نسل جدید درایوهای فرکانس متغیر SINAMICS G220 را با تمرکز بر بهره‌وری انرژی و پایش وضعیت هوشمند معرفی کرد. این درایوها به سنسورهای داخلی مجهز هستند که داده‌های عملکردی را به پلتفرم Industrial Edge ارسال می‌کنند. این قابلیت به اپراتورها اجازه می‌دهد تا خرابی‌های احتمالی درایو را پیش از وقوع شناسایی کرده و هزینه‌های تعمیر و نگهداری را به حداقل برسانند.",
+      "category": "product",
+      "published_at": "1403/07/28 13:50",
+      "collected_at": "1405/07/28 19:07",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-launches-sinamics-g220-drives/",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20241019-006",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در نرم‌افزار مهندسی TIA Portal V20",
+      "summary": "نسخه جدید TIA Portal V20 با بهره‌گیری از دستیار هوش مصنوعی Siemens Industrial Copilot، سرعت برنامه‌نویسی PLCها را افزایش داده است. این دستیار هوشمند می‌تواند کدهای استاندارد را بر اساس توصیفات متنی مهندسان تولید کرده و پیشنهادات بهینه‌سازی برای ساختار پروژه ارائه دهد. این تحول باعث کاهش خطاهای انسانی در زمان پیاده‌سازی پروژه‌های پیچیده اتوماسیون شده است.",
+      "category": "product",
+      "published_at": "1403/07/28 14:10",
+      "collected_at": "1405/07/28 19:07",
+      "source": "Siemens Software",
+      "source_url": "https://support.industry.siemens.com/cs/document/tia-portal-v20-new-features",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "AI",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20241019-007",
+      "title": "سرمایه‌گذاری راکول اتوماسیون در فناوری‌های رباتیک خودمختار",
+      "summary": "راکول اتوماسیون با هدف تقویت سبد محصولات رباتیک خود، سرمایه‌گذاری جدیدی را در استارتاپ‌های فعال در حوزه ربات‌های متحرک خودمختار (AMR) آغاز کرد. این فناوری‌ها قرار است با پلتفرم FactoryTalk ادغام شوند تا مدیریت لجستیک در محیط‌های کارخانه به صورت کاملاً خودکار انجام شود. این حرکت بخشی از استراتژی کلان شرکت برای نفوذ بیشتر در بازار اتوماسیون انبارداری است.",
+      "category": "company",
+      "published_at": "1403/07/28 15:30",
+      "collected_at": "1405/07/28 19:07",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/amr-investment.html",
+      "tags": [
+        "Rockwell Automation",
+        "Robotics",
+        "AMR",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20241019-008",
+      "title": "معرفی سوئیچ‌های صنعتی جدید فونیکس کنتاکت برای شبکه‌های پرسرعت",
+      "summary": "فونیکس کنتاکت سری جدید سوئیچ‌های شبکه صنعتی خود را با قابلیت پشتیبانی از سرعت‌های گیگابیتی و پروتکل‌های امنیتی پیشرفته معرفی کرد. این سوئیچ‌ها برای محیط‌های سخت صنعتی طراحی شده‌اند و مقاومت بالایی در برابر نویزهای الکترومغناطیسی دارند. این تجهیزات نقش کلیدی در زیرساخت‌های ارتباطی کارخانه‌های دیجیتال که نیاز به انتقال حجم بالای داده دارند، ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1403/07/28 16:05",
+      "collected_at": "1405/07/28 19:07",
+      "source": "Phoenix Contact Press",
+      "source_url": "https://www.phoenixcontact.com/en-pc/products/switches-industrial",
+      "tags": [
+        "Phoenix Contact",
+        "Networking",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20241019-009",
+      "title": "ارتقای سیستم کنترل توزیع‌شده (DCS) یوکوگاوا برای صنایع فرآیندی",
+      "summary": "شرکت یوکوگاوا نسخه جدید سیستم کنترل توزیع‌شده CENTUM VP را با قابلیت‌های یکپارچه‌سازی ابری عرضه کرد. این نسخه به صنایع نفت و گاز اجازه می‌دهد تا داده‌های فرآیندی را به صورت ایمن در فضای ابری تحلیل کنند. بهینه‌سازی مصرف انرژی و کاهش انتشار کربن از جمله اهداف اصلی این ارتقای نرم‌افزاری برای مشتریان بزرگ صنعتی در سراسر جهان است.",
+      "category": "product",
+      "published_at": "1403/07/28 17:40",
+      "collected_at": "1405/07/28 19:07",
+      "source": "Yokogawa News",
+      "source_url": "https://www.yokogawa.com/news/press-releases/2024/centum-vp-update/",
+      "tags": [
+        "Yokogawa",
+        "DCS",
+        "Process Industry",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20241019-010",
+      "title": "گزارش جدید درباره نفوذ ربات‌های همکار در خطوط تولید الکترونیک",
+      "summary": "مطالعات جدید نشان می‌دهد که استفاده از ربات‌های همکار (Cobots) در خطوط مونتاژ الکترونیک طی سال گذشته ۲۰ درصد افزایش یافته است. شرکت‌های پیشرو مانند ABB و زیمنس با ارائه راهکارهای ایمنی پیشرفته، امکان همکاری مستقیم انسان و ربات را بدون نیاز به حصارهای ایمنی فراهم کرده‌اند. این روند منجر به افزایش انعطاف‌پذیری خطوط تولید و کاهش خطاهای مونتاژ در قطعات ظریف شده است.",
+      "category": "research",
+      "published_at": "1403/07/28 18:50",
+      "collected_at": "1405/07/28 19:07",
+      "source": "Industry Trends",
+      "source_url": "https://www.industry-trends.com/robotics-electronics-report",
+      "tags": [
+        "Robotics",
+        "Cobots",
+        "Manufacturing",
+        "Electronics"
       ]
     }
   ]
