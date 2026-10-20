@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 546,
-  "provider": "Gemini/gemini-3-flash-preview",
-  "updated_at": "1405/07/28 06:03",
+  "count": 556,
+  "provider": "Gemini/gemini-robotics-er-2-preview",
+  "updated_at": "1405/07/28 08:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8759,6 +8759,166 @@
         "Siemens",
         "SCALANCE",
         "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261020-001",
+      "title": "معرفی ماژول‌های جدید SIMATIC ET 200pro زیمنس با پشتیبانی از فناوری TSN",
+      "summary": "شرکت زیمنس از ماژول‌های توزیع‌شده ورودی و خروجی جدید سری SIMATIC ET 200pro رونمایی کرد که اکنون به طور بومی از فناوری شبکه‌سازی حساس به زمان (TSN) پشتیبانی می‌کنند. این تجهیزات جدید با ساختار بسیار مقاوم IP65/IP67 طراحی شده‌اند تا در محیط‌های خشن صنعتی بدون نیاز به تابلو برق نصب شوند. این به‌روزرسانی به کارخانه‌ها اجازه می‌دهد تا ارتباطات بلادرنگ و بسیار پایداری را بین کنترل‌کننده‌ها و سنسورها برقرار سازند.",
+      "category": "product",
+      "published_at": "1405/07/28 07:30",
+      "collected_at": "1405/07/28 08:04",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-expands-simatic-et-200pro-portfolio-tsn-capabilities",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TSN",
+        "Industrial IoT"
+      ]
+    },
+    {
+      "id": "ia-20261020-002",
+      "title": "رونمایی امرسون از کنترلر جدید DeltaV PK با قابلیت ارتباطی بومی OPC UA",
+      "summary": "شرکت امرسون سیستم کنترل جدیدی را با نام DeltaV PK Controller معرفی کرده است که از پروتکل ارتباطی استاندارد OPC UA به صورت بومی پشتیبانی می‌کند. این کنترلر پیشرفته به صنایع فرآیندی اجازه می‌دهد تا داده‌های عملیاتی را بدون نیاز به گیت‌وی‌های واسط به سیستم‌های ابری و لایه IT منتقل کنند. این محصول با هدف ساده‌سازی معماری شبکه و افزایش امنیت سایبری در صنایع شیمیایی و داروسازی طراحی و عرضه شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 06:15",
+      "collected_at": "1405/07/28 08:04",
+      "source": "Emerson Automation",
+      "source_url": "https://www.emerson.com/en-us/news/automation/new-deltav-pk-controller-opc-ua",
+      "tags": [
+        "Emerson",
+        "DeltaV",
+        "OPC UA",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261020-003",
+      "title": "همکاری زیمنس و شفلر برای توسعه سیستم‌های پایش وضعیت بلبرینگ‌ها با هوش مصنوعی",
+      "summary": "دو شرکت بزرگ زیمنس و شفلر همکاری جدیدی را برای ادغام سیستم‌های پایش وضعیت مکانیکی با پلتفرم اتوماسیون صنعتی آغاز کرده‌اند. در این طرح، داده‌های ارتعاشی بلبرینگ‌های شفلر مستقیماً توسط ماژول‌های آنالیز زیمنس پردازش شده و با استفاده از الگوریتم‌های هوش مصنوعی، زمان خرابی تجهیزات پیش‌بینی می‌شود. این راهکار مشترک به طور ویژه برای توربین‌های بادی و خطوط نورد فولاد توسعه یافته است.",
+      "category": "company",
+      "published_at": "1405/07/28 05:00",
+      "collected_at": "1405/07/28 08:04",
+      "source": "Schaeffler Group",
+      "source_url": "https://www.schaeffler.com/en/news_media/press_releases/siemens-schaeffler-collaboration-ai-bearings",
+      "tags": [
+        "Siemens",
+        "Schaeffler",
+        "AI",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261020-004",
+      "title": "به‌روزرسانی فروشگاه نرم‌افزاری PLCnext فونیکس کنتاکت برای مدیریت کانتینرها",
+      "summary": "شرکت فونیکس کنتاکت قابلیت‌های جدیدی را به پلتفرم و فروشگاه اپلیکیشن PLCnext Store اضافه کرده است که امکان استقرار مستقیم کانتینرهای داکر (Docker) را بر روی کنترل‌کننده‌های این شرکت فراهم می‌کند. این به‌روزرسانی به مهندسان اتوماسیون اجازه می‌دهد تا کدهای پایتون و برنامه‌های تحلیل داده را در کنار منطق کنترلی سنتی اجرا کنند. این اقدام گام مهمی در جهت همگرایی بیشتر فناوری‌های اطلاعات و عملیات (IT/OT) است.",
+      "category": "product",
+      "published_at": "1405/07/27 23:45",
+      "collected_at": "1405/07/28 08:04",
+      "source": "Phoenix Contact News",
+      "source_url": "https://www.phoenixcontact.com/en-us/news/plcnext-store-docker-integration",
+      "tags": [
+        "Phoenix Contact",
+        "PLCnext",
+        "Docker",
+        "IT-OT"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "انتشار به‌روزرسانی جدید SIMATIC WinCC Unified V19 با کتابخانه‌های پویای HMI",
+      "summary": "زیمنس نسخه جدیدی از سیستم مانیتورینگ SIMATIC WinCC Unified V19 را منتشر کرد که شامل کتابخانه‌های گرافیکی پیشرفته و پویای HMI برای بهبود تجربه کاربری اپراتورها است. این نسخه جدید قابلیت هماهنگی کامل با تبلت‌ها و گوشی‌های هوشمند صنعتی را دارد و به کاربران اجازه می‌دهد تا از راه دور به صفحات کنترلی دسترسی امن داشته باشند. همچنین ابزارهای جدیدی برای شبیه‌سازی سریع‌تر پروژه‌ها در این نسخه تعبیه شده است.",
+      "category": "news",
+      "published_at": "1405/07/27 21:30",
+      "collected_at": "1405/07/28 08:04",
+      "source": "Siemens Industry",
+      "source_url": "https://support.industry.siemens.com/cs/document/wincc-unified-v19-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "HMI",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261020-006",
+      "title": "عرضه درایوهای سروو توزیع‌شده ArmorKinetix توسط راکول اتوماسیون",
+      "summary": "شرکت راکول اتوماسیون از نسل جدید درایوهای سروو توزیع‌شده خود با نام ArmorKinetix رونمایی کرد که برای کاهش حجم کابل‌کشی و حذف تابلوهای برق طراحی شده‌اند. این سیستم‌های جدید با درجه حفاظت بالا می‌توانند مستقیماً روی بدنه ماشین‌آلات نصب شوند و از پروتکل EtherNet/IP برای تبادل داده‌های حرکتی سریع استفاده می‌کنند. این راهکار به سازندگان ماشین‌آلات بسته‌بندی اجازه می‌دهد تا زمان راه‌اندازی را تا ۳۰ درصد کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/27 19:15",
+      "collected_at": "1405/07/28 08:04",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/armorkinetix-distributed-servo-drives",
+      "tags": [
+        "Rockwell Automation",
+        "ArmorKinetix",
+        "Servo Drives",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261020-007",
+      "title": "معرفی سوئیچ‌های صنعتی جدید سری SCALANCE XC-200 توسط زیمنس",
+      "summary": "بخش اتوماسیون صنعتی زیمنس سری جدید سوئیچ‌های اترنت صنعتی مدیریت‌پذیر SCALANCE XC-200 را با قابلیت‌های امنیتی ارتقایافته و پورت‌های پرسرعت گیگابیت معرفی کرد. این سوئیچ‌ها برای استفاده در محیط‌های با دمای بالا طراحی شده‌اند و از پروتکل‌های افزونگی شبکه برای جلوگیری از قطع ارتباط در خطوط تولید پشتیبانی می‌کنند. این تجهیزات نقش کلیدی در اتصال ایمن تجهیزات سطح فیلد به شبکه‌های ستون فقرات کارخانه ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 17:00",
+      "collected_at": "1405/07/28 08:04",
+      "source": "Siemens Communications",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/new-scalance-xc-200-industrial-switches",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Industrial Ethernet",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261020-008",
+      "title": "رونمایی ABB از ربات صنعتی جدید IRB 1300 برای محیط‌های اتاق تمیز",
+      "summary": "شرکت سوئیسی-سوئدی ABB نسخه جدیدی از ربات صنعتی پرسرعت خود به نام IRB 1300 را معرفی کرده است که به طور ویژه برای کار در محیط‌های اتاق تمیز (Cleanroom) تاییدیه دریافت کرده است. این ربات با پوشش محافظ مخصوص و سیستم‌های آب‌بندی پیشرفته مانع از انتشار ذرات معلق در محیط‌های حساس تولید نیمه‌هادی‌ها و داروسازی می‌شود. این محصول جدید ظرفیت حمل بار تا ۱۲ کیلوگرم را دارد و دقت تکرارپذیری فوق‌العاده‌ای را ارائه می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 15:30",
+      "collected_at": "1405/07/28 08:04",
+      "source": "ABB Robotics",
+      "source_url": "https://new.abb.com/news/detail/irb-1300-cleanroom-robot-launch",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Cleanroom",
+        "IRB 1300"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "گسترش قابلیت‌های مهندسی گروهی در پلتفرم ابری TIA Portal Cloud زیمنس",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم ابری TIA Portal Cloud اضافه کرده است که به تیم‌های مهندسی اجازه می‌دهد به طور همزمان و مشترک بر روی یک پروژه PLC کار کنند. این ویژگی جدید با مدیریت خودکار تداخل‌ها و همگام‌سازی بلادرنگ تغییرات، سرعت توسعه نرم‌افزار را به شدت افزایش می‌دهد. مهندسان اکنون می‌توانند بدون نیاز به نصب نرم‌افزارهای سنگین بر روی رایانه‌های شخصی خود، از طریق مرورگر وب به محیط برنامه‌نویسی دسترسی داشته باشند.",
+      "category": "news",
+      "published_at": "1405/07/27 13:00",
+      "collected_at": "1405/07/28 08:04",
+      "source": "Siemens Software",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-expands-tia-portal-cloud-multiuser-engineering",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Cloud Engineering",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "به‌روزرسانی سیستم اتوماسیون پست‌های برق EcoStruxure توسط اشنایدر الکتریک",
+      "summary": "شرکت اشنایدر الکتریک نسخه جدیدی از سیستم اتوماسیون پست‌های برق خود را تحت عنوان EcoStruxure Power Automation System برای شبکه‌های فشار متوسط معرفی کرد. این به‌روزرسانی با ادغام استانداردهای پیشرفته امنیت سایبری مانند IEC 62443، پایداری شبکه‌های توزیع انرژی را در کارخانه‌های بزرگ صنعتی تضمین می‌کند. این سیستم به اپراتورها امکان می‌دهد تا به صورت هوشمند بار مصرفی را مدیریت کرده و از خاموشی‌های ناخواسته جلوگیری کنند.",
+      "category": "product",
+      "published_at": "1405/07/27 10:45",
+      "collected_at": "1405/07/28 08:04",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/press-releases/ecostruxure-power-automation-system-update",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Power Automation",
+        "IEC 62443"
       ]
     }
   ]
