@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 592,
+  "count": 598,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 11:03",
+  "updated_at": "1405/07/28 11:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9491,6 +9491,102 @@
         "Servo Drives",
         "Motion Control",
         "TIA Portal",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای سیستم کنترل توزیع‌شده SIMATIC PCS 7 با ابزارهای هوش مصنوعی",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS 7 زیمنس با قابلیت‌های یکپارچه یادگیری ماشین برای پیش‌بینی خرابی تجهیزات منتشر شد. این بروزرسانی به اپراتورهای صنایع فرآیندی کمک می‌کند تا ناهنجاری‌های پنهان در پمپ‌ها و ولوها را پیش از وقوع توقف اضطراری شناسایی کنند. این قابلیت گامی مهم در جهت هوشمندسازی کامل کنترل‌کننده‌های صنعتی بزرگ محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 09:10",
+      "collected_at": "1405/07/28 11:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-pcs7-ai-update",
+      "tags": [
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "انتشار بسته امنیتی اضطراری برای تجهیزات ارتباطی SIMATIC NET زیمنس",
+      "summary": "تیم واکنش رخدادهای سایبری زیمنس اطلاعیه‌ای درباره رفع آسیب‌پذیری بحرانی در روترهای صنعتی SCALANCE منتشر کرد. این آپدیت امنیتی پروتکل‌های رمزنگاری را تقویت کرده و جلوی دسترسی‌های غیرمجاز به شبکه لایه OT را می‌گیرد. مدیران شبکه باید در سریع‌ترین زمان ممکن فریم‌ور تجهیزات را به نسخه جدید ارتقا دهند تا خطرات سایبری خنثی شود.",
+      "category": "regulation",
+      "published_at": "1405/07/28 10:05",
+      "collected_at": "1405/07/28 11:04",
+      "source": "ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/siemens-scalance-update",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "Industrial Networks",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی نسل جدید پنل‌های اپراتوری SIMATIC HTP Comfort Pro",
+      "summary": "زیمنس سری جدید پنل‌های HMI خود با نام SIMATIC HTP Comfort Pro را مجهز به نمایشگرهای لمسی خازنی صنعتی معرفی کرد. این تجهیزات با درجه حفاظتی IP65، مقاومت بالایی در برابر شرایط محیطی سخت و رطوبت کارخانجات دارند. پردازنده‌های قدرتمند تعبیه‌شده در این پنل‌ها، اجرای روان گرافیک‌های سه‌بعدی و اپلیکیشن‌های مانیتورینگ را تضمین می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:20",
+      "collected_at": "1405/07/28 11:04",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/siemens-simatic-htp-comfort",
+      "tags": [
+        "HMI",
+        "SIMATIC",
+        "Comfort Panels",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش کاربرد رباتیک مشارکتی در خطوط تولید با کنترل‌کننده‌های موشن زیمنس",
+      "summary": "شرکت زیمنس فناوری کنترل حرکت SIMATIC Technology Integrated را برای هماهنگی دقیق‌تر با بازوهای رباتیک توسعه داد. این نوآوری امکان همگام‌سازی حرکت ربات و نوار نقاله را با دقت زیر میلی‌متر فراهم می‌کند. این راهکار به صنایع تولیدی کمک می‌کند تا انعطاف‌پذیری خطوط مونتاژ خود را به طور قابل توجهی افزایش دهند.",
+      "category": "research",
+      "published_at": "1405/07/28 10:35",
+      "collected_at": "1405/07/28 11:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-motion-robotics",
+      "tags": [
+        "Motion Control",
+        "Robotics",
+        "SIMATIC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "ارتقای قابلیت‌های نرم‌افزار مهندسی TIA Portal برای توسعه ابری تیمی",
+      "summary": "زیمنس قابلیت‌های ابری جدیدی را به محیط مهندسی TIA Portal Cloud اضافه کرد که امکان کار گروهی همزمان روی پروژه‌های بزرگ را فراهم می‌کند. مهندسان اتوماسیون اکنون می‌توانند کدهای PLC و صفحات HMI را بدون نیاز به نصب محلی سنگین ویرایش و تست کنند. این تحول سرعت توسعه پروژه‌های اتوماسیون صنعتی را به شکل چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 10:50",
+      "collected_at": "1405/07/28 11:04",
+      "source": "Control Engineering Europe",
+      "source_url": "https://www.controleng.com/tia-portal-cloud-update",
+      "tags": [
+        "TIA Portal",
+        "Cloud Engineering",
+        "Software",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانجات سیمان با سیستم‌های کنترل پیشرفته زیمنس",
+      "summary": "پروژه جدید زیمنس برای اتوماسیون کارخانه سیمان لافارج با استفاده از سیستم‌های SIMATIC PCS neo به بهره‌برداری رسید. این سیستم با بهینه‌سازی سرعت آسیاب‌ها و کوره‌ها، مصرف انرژی کل کارخانه را حدود ۱۲ درصد کاهش داده است. این دستاورد نمونه‌ای بارز از تاثیر مستقیم دوقلوهای دیجیتال و کنترل پیشرفته در صنایع سنگین است.",
+      "category": "industry",
+      "published_at": "1405/07/28 11:00",
+      "collected_at": "1405/07/28 11:04",
+      "source": "Global Cement",
+      "source_url": "https://www.globalcement.com/siemens-cement-automation",
+      "tags": [
+        "Cement Industry",
+        "SIMATIC PCS neo",
+        "Energy Saving",
         "Siemens"
       ]
     }
