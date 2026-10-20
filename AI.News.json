@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 644,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/28 09:00",
+  "count": 654,
+  "provider": "Gemini/gemini-robotics-er-2-preview",
+  "updated_at": "1405/07/28 10:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9823,6 +9823,166 @@
         "Microsoft",
         "NVIDIA",
         "Cloud Computing"
+      ]
+    },
+    {
+      "id": "ai-20261020-001",
+      "title": "ادغام رسمی موتور جستجوی SearchGPT در چت‌جی‌پی‌تی توسط OpenAI",
+      "summary": "شرکت OpenAI موتور جستجوی هوشمند خود موسوم به SearchGPT را به طور رسمی با پلتفرم ChatGPT ادغام کرد. این قابلیت به کاربران اجازه می‌دهد تا پاسخ‌های خود را همراه با لینک منابع معتبر وب به صورت آنی دریافت کنند. این اقدام گام بزرگی برای رقابت مستقیم با گوگل و موتور جستجوی پرپلکسیتی به شمار می‌رود و در فاز نخست برای کاربران طرح‌های پلاس و تیمز فعال شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 09:45",
+      "collected_at": "1405/07/28 10:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2024/10/31/openai-launches-chatgpt-search/",
+      "tags": [
+        "OpenAI",
+        "SearchGPT",
+        "ChatGPT",
+        "موتور جستجو"
+      ]
+    },
+    {
+      "id": "ai-20261020-002",
+      "title": "معرفی قابلیت انقلابی کنترل کامپیوتر توسط مدل جدید Claude 3.5 Sonnet",
+      "summary": "شرکت آنتروپیک از نسخه به‌روزرسانی‌شده مدل Claude 3.5 Sonnet رونمایی کرد که مجهز به قابلیت بی‌نظیر «استفاده از کامپیوتر» (Computer Use) است. این هوش مصنوعی می‌تواند مانند یک انسان، مکان‌نما را حرکت دهد، روی دکمه‌ها کلیک کند و فرم‌های وب را پر نماید. این ابزار از طریق API در اختیار توسعه‌دهندگان قرار گرفته و گامی اساسی به سوی عامل‌های خودکار همه‌منظوره است.",
+      "category": "product",
+      "published_at": "1405/07/28 09:30",
+      "collected_at": "1405/07/28 10:00",
+      "source": "VentureBeat",
+      "source_url": "https://venturebeat.com/ai/anthropic-upgrades-claude-3-5-sonnet-and-introduces-computer-use-agent/",
+      "tags": [
+        "Anthropic",
+        "Claude 3.5 Sonnet",
+        "Computer Use",
+        "عامل هوشمند"
+      ]
+    },
+    {
+      "id": "ai-20261020-003",
+      "title": "عرضه دستیار صوتی پیشرفته Gemini Live برای کاربران سیستم‌عامل iOS",
+      "summary": "گوگل دستیار صوتی فوق‌پیشرفته خود یعنی Gemini Live را برای کاربران آیفون عرضه کرد تا رقابت با سیری اپل را تشدید کند. این قابلیت صوتی دوطرفه و طبیعی، به کاربران اجازه می‌دهد مکالمات پیچیده‌ای داشته باشند و حتی در میان صحبت‌های هوش مصنوعی بپرند. این ابزار از طریق اپلیکیشن اختصاصی گوگل در اپ‌استور قابل دسترسی است و تجربه کاربری پویایی ارائه می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 10:00",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/2024/11/14/24296338/google-gemini-app-iphone-ios-launch",
+      "tags": [
+        "Google",
+        "Gemini Live",
+        "iOS",
+        "دستیار صوتی"
+      ]
+    },
+    {
+      "id": "ai-20261020-004",
+      "title": "رونمایی متا از مدل هوش مصنوعی Movie Gen برای تولید ویدئو و صداهای واقع‌گرایانه",
+      "summary": "شرکت متا از مدل تحقیقاتی جدید خود به نام Movie Gen رونمایی کرد که قادر است ویدئوهای باکیفیت بالا را همراه با افکت‌های صوتی هماهنگ تولید کند. این ابزار قدرتمند می‌تواند تصاویر ثابت را به ویدئو تبدیل کرده یا ویدئوهای موجود را با دستورات متنی ویرایش کند. متا قصد دارد این فناوری را در سال آینده به پلتفرم‌های اینستاگرام و واتس‌اپ اضافه کند تا خلاقیت کاربران را ارتقا دهد.",
+      "category": "research",
+      "published_at": "1405/07/28 09:00",
+      "collected_at": "1405/07/28 10:00",
+      "source": "Meta AI Blog",
+      "source_url": "https://ai.meta.com/blog/movie-gen-media-foundation-models-generative-ai-video-audio/",
+      "tags": [
+        "Meta",
+        "Movie Gen",
+        "تولید ویدئو",
+        "هوش مصنوعی مولد"
+      ]
+    },
+    {
+      "id": "ai-20261020-005",
+      "title": "راه‌اندازی رسمی پلتفرم API مدل هوش مصنوعی Grok توسط شرکت xAI",
+      "summary": "شرکت xAI به رهبری ایلان ماسک، پلتفرم API اختصاصی خود را برای توسعه‌دهندگان راه‌اندازی کرد تا امکان ادغام مدل‌های هوشمند Grok در برنامه‌های مختلف فراهم شود. این API در حال حاضر دسترسی به مدل Grok 2 را با قیمت‌های رقابتی ارائه می‌دهد و از قابلیت‌های متنی و تحلیل تصویر پشتیبانی می‌کند. این اقدام گامی مهم برای تجاری‌سازی فناوری‌های xAI و رقابت با OpenAI است.",
+      "category": "company",
+      "published_at": "1405/07/28 08:45",
+      "collected_at": "1405/07/28 10:00",
+      "source": "SiliconANGLE",
+      "source_url": "https://siliconangle.com/2024/11/04/elon-musks-xai-officially-launches-grok-api/",
+      "tags": [
+        "xAI",
+        "Grok API",
+        "Elon Musk",
+        "توسعه‌دهندگان"
+      ]
+    },
+    {
+      "id": "ai-20261020-006",
+      "title": "عرضه ابزار پیشرفته استخراج متن و تحلیل اسناد تصویری توسط Mistral AI",
+      "summary": "استارتاپ فرانسوی Mistral AI از یک API جدید برای پردازش و استخراج متن از اسناد تصویری (OCR) رونمایی کرد که دقت بسیار بالایی در تحلیل جداول و فرمول‌ها دارد. این ابزار به همراه مدل جدید Pixtral Large عرضه شده و به کسب‌وکارها کمک می‌کند تا فایل‌های PDF سنگین و تصاویر اسناد را به داده‌های ساختاریافته تبدیل کنند. این قابلیت گامی بزرگ در جهت بهینه‌سازی فرآیندهای اداری است.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 10:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2024/11/18/mistral-releases-new-models-and-chat-features/",
+      "tags": [
+        "Mistral AI",
+        "OCR",
+        "Pixtral Large",
+        "پردازش اسناد"
+      ]
+    },
+    {
+      "id": "ai-20261020-007",
+      "title": "ادغام مدل ویدئویی هوش مصنوعی Firefly در نرم‌افزار Premiere Pro توسط ادوبی",
+      "summary": "شرکت ادوبی مدل ویدئویی جدید Firefly را به صورت عمومی در نسخه بتای نرم‌افزار Premiere Pro ادغام کرد تا تدوین‌گران بتوانند از ابزارهای هوشمند تولید ویدئو بهره ببرند. این قابلیت به کاربران اجازه می‌دهد تا فریم‌های خالی ویدئوها را پر کنند، کلیپ‌های جدید بسازند و ترنزیشن‌های هوشمند ایجاد نمایند. ادوبی تاکید کرده که این مدل کاملاً بر روی داده‌های دارای مجوز آموزش دیده است.",
+      "category": "product",
+      "published_at": "1405/07/28 08:15",
+      "collected_at": "1405/07/28 10:00",
+      "source": "Adobe Blog",
+      "source_url": "https://news.adobe.com/news/news-details/2024/Adobe-Brings-Generative-Extend-Powered-by-Firefly-Video-Model-to-Premiere-Pro/default.aspx",
+      "tags": [
+        "Adobe",
+        "Firefly Video",
+        "Premiere Pro",
+        "تدوین ویدئو"
+      ]
+    },
+    {
+      "id": "ai-20261020-008",
+      "title": "تایید نهایی مشارکت ۴ میلیارد دلاری آمازون و آنتروپیک توسط سازمان رقابت بریتانیا",
+      "summary": "سازمان رقابت و بازارهای بریتانیا (CMA) پس از بررسی‌های گسترده اعلام کرد که سرمایه‌گذاری ۴ میلیارد دلاری آمازون در شرکت آنتروپیک، قوانین رقابتی را نقض نمی‌کند. این تصمیم به آمازون اجازه می‌دهد تا به عنوان ارائه‌دهنده اصلی خدمات ابری آنتروپیک فعالیت کند و مدل‌های Claude را در پلتفرم AWS خود توسعه دهد. این رای، چراغ سبزی برای همکاری‌های بزرگتر در حوزه هوش مصنوعی است.",
+      "category": "regulation",
+      "published_at": "1405/07/28 08:00",
+      "collected_at": "1405/07/28 10:00",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/uk-antitrust-regulator-clears-amazons-partnership-with-anthropic-2024-09-27/",
+      "tags": [
+        "Amazon",
+        "Anthropic",
+        "CMA",
+        "قوانین رقابت"
+      ]
+    },
+    {
+      "id": "ai-20261020-009",
+      "title": "انتشار ابزار ویرایش تصویر مبتنی بر وب و بازسازی بافت توسط Midjourney",
+      "summary": "پلتفرم تولید تصویر Midjourney نسخه جدیدی از ابزار ویرایش وب خود را منتشر کرد که به کاربران امکان می‌دهد بخش‌های مختلف تصاویر را به راحتی بازسازی و ویرایش کنند. این به‌روزرسانی شامل قابلیت پیشرفته تغییر بافت (Re-texturing) است که به طراحان اجازه می‌دهد متریال و نورپردازی مدل‌های سه‌بعدی را تغییر دهند. این ابزار گامی بزرگ برای خروج از محیط دیسکورد و جذب کاربران حرفه‌ای‌تر است.",
+      "category": "product",
+      "published_at": "1405/07/28 07:45",
+      "collected_at": "1405/07/28 10:00",
+      "source": "VentureBeat",
+      "source_url": "https://venturebeat.com/ai/midjourney-launches-web-based-image-editor-with-advanced-inpainting/",
+      "tags": [
+        "Midjourney",
+        "ویرایش تصویر",
+        "طراحی سه بعدی",
+        "وب اپلیکیشن"
+      ]
+    },
+    {
+      "id": "ai-20261020-010",
+      "title": "رونمایی انویدیا از خانواده مدل‌های متن‌باز Nemotron-4 برای تولید داده‌های آموزشی",
+      "summary": "شرکت انویدیا خانواده مدل‌های زبانی بزرگ Nemotron-4 340B را به صورت متن‌باز منتشر کرد که برای تولید داده‌های مصنوعی باکیفیت طراحی شده‌اند. این مدل‌ها به توسعه‌دهندگان کمک می‌کنند تا داده‌های آموزشی دقیق و متنوعی برای مدل‌های کوچک‌تر خود بسازند و هزینه‌های جمع‌آوری داده را کاهش دهند. این ابزار تحت لایسنس باز انویدیا برای استفاده‌های تجاری در دسترس قرار گرفته است.",
+      "category": "research",
+      "published_at": "1405/07/28 07:30",
+      "collected_at": "1405/07/28 10:00",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/nemotron-4-340b-synthetic-data-generation/",
+      "tags": [
+        "Nvidia",
+        "Nemotron-4",
+        "داده‌های مصنوعی",
+        "مدل متن‌باز"
       ]
     }
   ]
