@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 709,
+  "count": 718,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 13:02",
+  "updated_at": "1405/07/28 13:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -11375,6 +11375,150 @@
         "5G صنعتی",
         "ارتباطات بی‌سیم",
         "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261019-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته پردازش ابری برای پلتفرم Siemens Industrial Edge",
+      "summary": "شرکت زیمنس از ماژول‌های جدید پردازش ابری برای پلتفرم Industrial Edge رونمایی کرد که امکان تحلیل بلادرنگ داده‌های کارخانه را فراهم می‌کنند. این به‌روزرسانی به مهندسان کمک می‌کند تا با کاهش تاخیر شبکه، تصمیمات بهینه‌تری در خطوط تولید اتخاذ نمایند. این ماژول‌ها به‌طور مستقیم با نرم‌افزار TIA Portal یکپارچه شده و امنیت تبادل اطلاعات را ارتقا می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 13:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-industrial-edge-cloud-modules",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "TIA Portal",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261019-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی در محیط برنامه‌نویسی TIA Portal V19",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی خود را برای محیط مهندسی TIA Portal V19 توسعه داد تا سرعت عیب‌یابی کدهای PLC افزایش یابد. این ابزار جدید به‌صورت خودکار الگوهای خطا را شناسایی کرده و راه حل‌های بهینه‌سازی کدهای اتوماسیون را پیشنهاد می‌کند. این نوآوری زمان توقف خطوط تولید را به طور چشمگیری کاهش داده و بهره‌وری مهندسان را بالا می‌برد.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 13:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-tia-portal-v19-ai-upgrade",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Artificial Intelligence",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261019-003",
+      "title": "ارتقای سیستم کنترل توزیع‌شده SIMATIC PCS 7 با ابزارهای امنیت سایبری پیشرفته",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS 7 زیمنس با قابلیت‌های پیشرفته دفاع سایبری در برابر تهدیدات صنعتی عرضه شد. این سیستم به پروتکل‌های رمزنگاری سخت‌افزاری مجهز شده تا از زیرساخت‌های حیاتی در برابر نفوذهای احتمالی محافظت کند. این اقدام گامی مهم در جهت ایمن‌سازی شبکه‌های OT و تطابق با استانداردهای سخت‌گیرانه امنیتی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 13:05",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-simatic-pcs7-security",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "Cybersecurity",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261019-005",
+      "title": "معرفی اینترفیس‌های ارتباطی جدید برای کنترل‌کننده‌های SIMATIC S7-1500",
+      "summary": "سری کنترل‌کننده‌های پیشرفته SIMATIC S7-1500 زیمنس اکنون از ماژول‌های ارتباطی جدید با پشتیبانی از پروتکل‌های پرسرعت صنعتی بهره می‌برند. این ماژول‌ها تبادل داده میان تجهیزات لبه و سیستم‌های سطح بالای ERP را با سرعت و دقت بیشتری انجام می‌دهند. این توسعه زیرساخت ارتباطی، انعطاف‌پذیری معماری‌های اتوماسیون مدرن را به شکل قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 11:20",
+      "collected_at": "1405/07/28 13:05",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-simatic-s7-1500-communication-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Communication",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261019-006",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای توسعه پژوهش‌های رباتیک هوشمند",
+      "summary": "شرکت زیمنس تفاهم‌نامه همکاری مشترکی با دانشگاه فنی مونیخ در زمینه توسعه الگوریتم‌های هوش مصنوعی برای ربات‌های صنعتی امضا کرد. این پروژه تحقیقاتی بر روی افزایش استقلال ربات‌ها در محیط‌های پیچیده مونتاژ تمرکز دارد. هدف از این همکاری، انتقال سریع‌تر دستاوردهای پژوهشی به خطوط تولید واقعی و ارتقای سطح اتوماسیون است.",
+      "category": "research",
+      "published_at": "1405/07/28 11:50",
+      "collected_at": "1405/07/28 13:05",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-tum-research-partnership",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "Research",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261019-007",
+      "title": "عرضه درایوهای پیشرفته SINAMICS G120X با قابلیت‌های تشخیصی هوشمند",
+      "summary": "نسخه جدید درایوهای فرکانس متغیر SINAMICS G120X زیمنس با قابلیت‌های پیشرفته پایش وضعیت موتور عرضه شد. این درایوها قادرند لرزش‌ها و تغییرات دمایی غیرعادی را پیش از بروز خرابی جدی شناسایی کنند. این قابلیت نگهداری پیشگیرانه، هزینه‌های تعمیر و نگهداری تجهیزات دوار را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/28 12:10",
+      "collected_at": "1405/07/28 13:05",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sinamics-g120x-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261019-008",
+      "title": "گسترش کاربرد دوقلوهای دیجیتال در صنایع داروسازی با فناوری زیمنس",
+      "summary": "یک شرکت بزرگ داروسازی با استفاده از راهکارهای شبیه‌سازی زیمنس، خط تولید جدید خود را به‌صورت کاملاً دیجیتالی طراحی و بهینه‌سازی کرد. دوقلوی دیجیتال ایجاد شده اجازه داد تا تمامی فرآیندهای پیچیده ساخت دارو پیش از اجرای فیزیکی تست و ارزیابی شوند. این رویکرد زمان ورود محصول به بازار را به میزان چشمگیری کاهش داده است.",
+      "category": "industry",
+      "published_at": "1405/07/28 12:30",
+      "collected_at": "1405/07/28 13:05",
+      "source": "Pharmaceutical Technology",
+      "source_url": "https://www.pharmaceutical-technology.com/siemens-digital-twin-pharma",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Pharma",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261019-009",
+      "title": "انتشار به‌روزرسانی امنیتی برای نرم‌افزار مانیتورینگ SIMATIC WinCC",
+      "summary": "زیمنس بسته امنیتی جدیدی را برای رفع آسیب‌پذیری‌های احتمالی در نرم‌افزار اسکادا SIMATIC WinCC منتشر کرد. این به‌روزرسانی لایه‌های حفاظتی سیستم‌های کنترل صنعتی را در برابر تهدیدات نوین سایبری تقویت می‌کند. به تمامی مدیران سیستم‌های اتوماسیون توصیه شده است تا در اسرع وقت این بسته را اعمال نمایند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 12:50",
+      "collected_at": "1405/07/28 13:05",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-simatic-wincc-security-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC WinCC",
+        "SCADA",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261019-010",
+      "title": "معرفی نسل جدید ماژول‌های ورودی/خروجی فشرده ET 200AL توسط زیمنس",
+      "summary": "شرکت زیمنس خانواده ماژول‌های I/O غیرمتمرکز ET 200AL را با درجه حفاظتی بالا برای نصب در محیط‌های سخت صنعتی توسعه داد. این ماژول‌ها با وزن سبک و ابعاد کوچک، امکان نصب مستقیم بر روی بدنه ماشین‌آلات را بدون نیاز به تابلو برق فراهم می‌کنند. این طراحی نوین سیم‌کشی سیستم‌های اتوماسیون را ساده‌تر و هزینه‌های نصب را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 13:00",
+      "collected_at": "1405/07/28 13:05",
+      "source": "Control Design",
+      "source_url": "https://www.controldesign.com/siemens-et-200al-io-modules",
+      "tags": [
+        "Siemens",
+        "ET 200AL",
+        "I/O Modules",
+        "Hardware"
       ]
     }
   ]
