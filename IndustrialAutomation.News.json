@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 743,
+  "count": 753,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 14:00",
+  "updated_at": "1405/07/28 14:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -11911,6 +11911,166 @@
         "WinCC",
         "Cybersecurity",
         "SCADA",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته پردازش ابری در TIA Portal V19",
+      "summary": "شرکت زیمنس از افزونه‌های جدید ابری برای محیط مهندسی TIA Portal V19 رونمایی کرد که امکان مدیریت همزمان پروژه‌های اتوماسیون را از راه دور فراهم می‌کند. این ابزار به تیم‌های مهندسی اجازه می‌دهد تا کدهای PLC را به صورت اشتراکی و بلادرنگ ویرایش کرده و زمان توقف خطوط تولید را به شدت کاهش دهند. این قابلیت جدید گامی مهم در جهت تحقق کارخانه‌های کاملاً متصل و هوشمند محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 14:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-tia-portal-v19-cloud-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Cloud",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های نگهداری پیش‌بینانه در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس نسخه جدیدی از برنامه‌های کاربردی Industrial Edge را منتشر کرد که با استفاده از الگوریتم‌های پیشرفته یادگیری ماشین، وضعیت سلامت موتورهای صنعتی را پایش می‌کند. این سیستم قادر است خرابی‌های احتمالی بلبرینگ‌ها و گیربکس‌ها را پیش از وقوع شناسایی کرده و به اپراتورها هشدار دهد. این راهکار به صنایع بزرگ کمک می‌کند تا هزینه‌های تعمیرات اضطراری را تا چهل درصد کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 14:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-edge-predictive-maintenance",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای استانداردسازی ارتباطات سلول‌های رباتیک",
+      "summary": "شرکت‌های زیمنس و فستو توافق‌نامه جدیدی را برای توسعه استانداردهای ارتباطی باز میان تجهیزات پنوماتیک و کنترل‌کننده‌های SIMATIC امضا کردند. این همکاری بر پایه پروتکل OPC UA TSN بنا شده تا تبادل داده بین کنترلر و عملگرها با بالاترین سرعت و دقت انجام شود. هدف اصلی این پروژه، ساده‌سازی راه‌اندازی خطوط مونتاژ انعطاف‌پذیر در صنعت خودرو است.",
+      "category": "industry",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 14:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-opc-ua-tsn-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "OPC UA",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه ماژول‌های ارتباطی جدید برای کنترل‌کننده‌های SIMATIC S7-1500F",
+      "summary": "زیمنس سری جدیدی از ماژول‌های ایمنی پیشرفته را برای کنترل‌کننده‌های ایمن SIMATIC S7-1500F روانه بازار کرد که از پروتکل‌های ارتباطی امن پشتیبانی می‌کنند. این ماژول‌ها برای محیط‌های صنعتی پرخطر طراحی شده‌اند و امکان اجرای توابع ایمنی پیچیده را با استانداردهای SIL3 فراهم می‌سازند. این محصول نقش کلیدی در ارتقای امنیت جانی اپراتورها در خطوط پرس سنگین دارد.",
+      "category": "product",
+      "published_at": "1405/07/28 10:45",
+      "collected_at": "1405/07/28 14:01",
+      "source": "IEB",
+      "source_url": "https://www.iebmedia.com/siemens-s7-1500f-safety-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی در سیستم کنترل SIMATIC PCS neo",
+      "summary": "نسخه به‌روزرسانی شده سیستم کنترل فرآیند SIMATIC PCS neo زیمنس با ابزارهای داخلی مدیریت و پایش مصرف انرژی عرضه شد. این نرم‌افزار به پتروشیمی‌ها و پالایشگاه‌ها کمک می‌کند تا ردپای کربن خود را به صورت لحظه‌ای ردیابی و بهینه‌سازی کنند. این قابلیت منطبق بر استانداردهای سخت‌گیرانه جدید زیست‌محیطی اتحادیه اروپا طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 11:20",
+      "collected_at": "1405/07/28 14:01",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-pcs-neo-energy-management",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "DCS",
+        "Energy"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "انتشار هشدار امنیتی CISA درباره آسیب‌پذیری سرورهای وب تجهیزات SCADA",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) اطلاعیه‌ای درباره چند آسیب‌پذیری امنیتی با سطح بحرانی در سرورهای وب تعبیه‌شده برخی تجهیزات مانیتورینگ صنعتی منتشر کرد. این حفره‌های امنیتی می‌توانند به مهاجمان اجازه دهند تا بدون احراز هویت، تنظیمات سامانه را دستکاری کنند. سازندگان تجهیزات از جمله زیمنس بسته‌های اصلاحی فوری را برای رفع این مشکل عرضه کرده‌اند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 11:55",
+      "collected_at": "1405/07/28 14:01",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-200-01",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "SCADA",
+        "Vulnerability"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه ابزارهای هوش مصنوعی مولد در نرم‌افزار مهندسی Siemens Industrial Copilot",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی Industrial Copilot را برای تولید خودکار کدهای SCL در برنامه‌نویسی PLC توسعه داد. این ابزار زبانی به مهندسان برق اجازه می‌دهد تا با دستورات متنی ساده، منطق کنترل فرآیند را ایجاد کرده و خطاهای احتمالی را تحلیل کنند. این فناوری سرعت توسعه پروژه‌های اتوماسیون صنعتی را تا حدود سی درصد افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 12:30",
+      "collected_at": "1405/07/28 14:01",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-industrial-copilot-scl-update",
+      "tags": [
+        "Siemens",
+        "AI",
+        "Industrial Copilot",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "راه‌اندازی خط تولید جدید باتری خودروهای برقی با تجهیزات کامل زیمنس",
+      "summary": "یک شرکت خودروسازی اروپایی خط تولید جدید سلول‌های باتری خود را به طور کامل بر پایه راهکارهای دیجیتال زیمنس و پلتفرم Siemens Xcelerator راه‌اندازی کرد. این خط تولید شامل دوقلوهای دیجیتال پیشرفته برای شبیه‌سازی مراحل مونتاژ و کنترل‌کننده‌های سری SIMATIC برای مدیریت دقیق ربات‌ها است. این پروژه الگویی پیشرو برای خودکفایی زنجیره تأمین خودروهای الکترونیکی در اروپا به شمار می‌رود.",
+      "category": "industry",
+      "published_at": "1405/07/28 13:05",
+      "collected_at": "1405/07/28 14:01",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-ev-battery-plant-digital-twin",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "عرضه درایوهای فرکانس متغیر SINAMICS G120X با استانداردهای جدید راندمان انرژی",
+      "summary": "شرکت زیمنس نسل جدید درایوهای SINAMICS G120X را با تمرکز بر کاربردهای صنعت آب و فاضلاب و تهویه مطبوع معرفی کرد. این درایوها دارای بالاترین رده بهره‌وری انرژی و قابلیت یکپارچه‌سازی آسان با شبکه‌های اتوماسیون صنعتی هستند. کاهش تلفات حرارتی و ابعاد فشرده‌تر از مهم‌ترین ویژگی‌های سخت‌افزاری این سری جدید محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 13:40",
+      "collected_at": "1405/07/28 14:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sinamics-g120x-new-features",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "برگزاری همایش سالانه امنیت شبکه‌های صنعتی OT در مونیخ",
+      "summary": "همایش بین‌المللی امنیت سایبری زیرساخت‌های حیاتی با حضور متخصصان ارشد زیمنس و دیگر رهبران صنعت در مونیخ آغاز به کار کرد. در این رویداد سه روزه، راهکارهای مقابله با باج‌افزارها و روش‌های ایمن‌سازی تجهیزات قدیمی PLC و SCADA مورد بحث و تبادل نظر قرار گرفت. شرکت‌کنندگان بر اهمیت پیاده‌سازی معماری دفاع در عمق برای شبکه‌های صنعتی تاکید کردند.",
+      "category": "sideline",
+      "published_at": "1405/07/28 14:00",
+      "collected_at": "1405/07/28 14:01",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/munich-ot-security-conference-2026",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "Conference",
         "Siemens"
       ]
     }
