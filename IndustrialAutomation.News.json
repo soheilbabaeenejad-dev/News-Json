@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 606,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/28 11:06",
+  "count": 616,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/28 11:09",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9716,6 +9716,166 @@
         "NVIDIA",
         "Industrial Metaverse",
         "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی راهکار جدید زیمنس برای بهینه‌سازی مصرف انرژی در کارخانجات با SIMATIC Energy Manager",
+      "summary": "شرکت زیمنس از نسخه جدید نرم‌افزار SIMATIC Energy Manager با هدف کمک به صنایع در راستای کاهش ردپای کربن و مدیریت بهینه انرژی رونمایی کرد. این ابزار قدرتمند امکان پایش بلادرنگ مصرف برق، گاز و آب را در تمامی خطوط تولید فراهم کرده و با استاندارد ISO 50001 سازگاری کامل دارد. کارشناسان صنعتی معتقدند این راهکار می‌تواند هزینه‌های عملیاتی کارخانه‌ها را تا ۱۵ درصد کاهش دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 08:15",
+      "collected_at": "1405/07/28 11:09",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-energy-manager-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های ارتباطی در ماژول‌های SCALANCE زیمنس برای شبکه‌های صنعتی پرسرعت",
+      "summary": "زیمنس سبد محصولات شبکه خود را با معرفی نسل جدید سوئیچ‌های صنعتی SCALANCE گسترش داد که از پروتکل‌های امنیتی پیشرفته و پهنای باند بالا پشتیبانی می‌کنند. این تجهیزات برای اتصال امن تجهیزات لبه به سیستم‌های ابری و اسکادا در محیط‌های سخت کارگاهی طراحی شده‌اند. این اقدام به مهندسان شبکه کمک می‌کند تا زیرساخت‌های OT خود را با اطمینان بیشتری در برابر تهدیدات سایبری محافظت کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:45",
+      "collected_at": "1405/07/28 11:09",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/network-security/siemens-scalance-update",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Industrial Ethernet",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری مشترک زیمنس و فستو برای توسعه تجهیزات پنوماتیک هوشمند در خطوط مونتاژ",
+      "summary": "شرکت‌های زیمنس و فستو طی یک توافق استراتژیک، پروژه مشترکی را برای یکپارچه‌سازی شیرها و محرک‌های پنوماتیک با کنترل‌کننده‌های SIMATIC آغاز کردند. این همکاری به خودکارسازان اجازه می‌دهد تا داده‌های تشخیصی عملگرهای پنوماتیک را به طور مستقیم در محیط TIA Portal مانیتور کنند. این فناوری نوین نقش بسزایی در کاهش زمان توقف اضطراب‌آور ماشین‌آلات و ارتقای OEE دارد.",
+      "category": "industry",
+      "published_at": "1405/07/28 09:10",
+      "collected_at": "1405/07/28 11:09",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/factory-automation/news/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "انتشار به‌روزرسانی امنیتی برای نرم‌افزار مهندسی TIA Portal با استانداردهای IEC 62443",
+      "summary": "تیم امنیتی زیمنس پکیج اصلاحی جدیدی را برای نسخه‌های مختلف پلتفرم مهندسی TIA Portal منتشر کرد که آسیب‌پذیری‌های گزارش‌شده اخیر را برطرف می‌کند. این به‌روزرسانی مکانیسم‌های احراز هویت کاربران را تقویت کرده و امنیت پروژه‌های اتوماسیون را بر اساس استاندارد بین‌المللی IEC 62443 تضمین می‌نماید. به تمامی مدیران سیستم‌های صنعتی توصیه شده است هر چه سریع‌تر این پچ امنیتی را نصب کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 09:35",
+      "collected_at": "1405/07/28 11:09",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-tia-portal-patch",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Cybersecurity",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "بهبود قابلیت‌های بینایی ماشین در سیستم‌های SIMATIC S7-1500 زیمنس",
+      "summary": "زیمنس با ارائه ماژول‌های جدید پردازش تصویر برای کنترل‌کننده‌های SIMATIC S7-1500، قابلیت‌های کنترل کیفیت مبتنی بر هوش مصنوعی را در خطوط تولید ارتقا داد. این ماژول‌ها امکان بررسی عیوب قطعات را با سرعت بالا و بدون نیاز به پردازنده‌های جانبی مجزا در بستر PLC فراهم می‌کنند. این نوآوری باعث کاهش فضای اشغال‌شده در تابلوهای برق و کاهش هزینه‌های سیم‌کشی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 09:50",
+      "collected_at": "1405/07/28 11:09",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/siemens-machine-vision-s71500",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Machine Vision",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه زیرساخت‌های ابری زیمنس برای پشتیبانی از دوقلوهای دیجیتال مقیاس‌پذیر",
+      "summary": "پلتفرم ابری Siemens Xcelerator به قابلیت‌های جدیدی برای پردازش ابری دوقلوهای دیجیتال پیچیده مجهز شد که امکان شبیه‌سازی همزمان کل کارخانه را فراهم می‌کند. این زیرساخت ابری جدید به مهندسان اجازه می‌دهد سناریوهای مختلف تولید را پیش از اجرا در دنیای واقعی آزمایش و بهینه‌سازی کنند. این رویکرد به طور چشمگیری چرخه‌های طراحی محصول و راه‌اندازی خطوط تولید را کوتاه‌تر می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/28 10:05",
+      "collected_at": "1405/07/28 11:09",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud/siemens-xcelerator-digital-twin",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی نسل جدید اینورترهای SINAMICS G120X با قابلیت‌های پیشرفته ذخیره انرژی",
+      "summary": "شرکت زیمنس درایوهای فرکانس متغیر SINAMICS G120X را برای کاربردهای پمپ، فن و کمپرسور با ویژگی‌های نرم‌افزاری جدید به‌روزرسانی کرد. این درایوها دارای الگوریتم‌های کنترلر پیشرفته‌ای هستند که راندمان مصرف موتور را در بارهای جزئی به شکل محسوسی افزایش می‌دهند. استفاده از این تجهیزات در تاسیسات صنعتی و ساختمانی به کاهش چشمگیر مصرف انرژی کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:20",
+      "collected_at": "1405/07/28 11:09",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/drives-siemens-sinamics-g120x",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش کاربرد ربات‌های صنعتی متحرک AMR در لجستیک داخلی کارخانجات زیمنس",
+      "summary": "مجتمع تولیدی بزرگ زیمنس در آلمان با به‌کارگیری ناوگان جدیدی از ربات‌های متحرک خودران (AMR)، فرایند جابجایی مواد اولیه را کاملاً اتوماتیک کرد. این ربات‌ها با استفاده از الگوریتم‌های ناوبری پیشرفته و نقشه برداری لیزری، بدون نیاز به نوک مگنت در مسیرهای کارگاهی تردد می‌کنند. این پروژه کارایی لجستیک داخلی کارخانه را تا ۳۰ درصد بهبود بخشیده است.",
+      "category": "industry",
+      "published_at": "1405/07/28 10:35",
+      "collected_at": "1405/07/28 11:09",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/article/siemens-amr-logistics-automation",
+      "tags": [
+        "Siemens",
+        "AMR",
+        "Robotics",
+        "Intralogistics"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "ارتقای پلتفرم SCADA با نرم‌افزار SIMATIC WinCC Unified V19 برای نظارت دقیق‌تر",
+      "summary": "زیمنس آخرین نسخه از نرم‌افزار مانیتورینگ صنعتی SIMATIC WinCC Unified V19 را با ابزارهای گرافیکی وب‌پایه پیشرفته عرضه کرد. این نسخه جدید به اپراتورها اجازه می‌دهد داشبوردهای تعاملی دلخواه خود را روی هر مرورگر مدرنی بدون نیاز به نصب پلاگین اجرا کنند. انعطاف‌پذیری بالا در اتصال به انواع کنترل‌کننده‌ها از مزایای کلیدی این پلتفرم است.",
+      "category": "product",
+      "published_at": "1405/07/28 10:50",
+      "collected_at": "1405/07/28 11:09",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-wincc-unified-v19",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه آموزش مهندسان اتوماسیون با برنامه‌های جدید گواهینامه بین‌المللی زیمنس",
+      "summary": "بخش آموزش‌های صنعتی زیمنس دوره‌های تخصصی جدیدی را برای تربیت برنامه‌نویسان مسلط به استانداردهای TIA Portal و Industrial Edge معرفی کرد. این برنامه‌ها به فارغ‌التحصیلان دانشگاهی کمک می‌کند تا مهارت‌های عملی مورد نیاز در صنایع مدرن مبتنی بر فناوری‌های OT را کسب کنند. این اقدام در پاسخ به کمبود نیروی انسانی متخصص در حوزه اتوماسیون صنعتی صورت گرفته است.",
+      "category": "society",
+      "published_at": "1405/07/28 11:00",
+      "collected_at": "1405/07/28 11:09",
+      "source": "Education Technology",
+      "source_url": "https://www.edtech.com/siemens-automation-certification-program",
+      "tags": [
+        "Siemens",
+        "Education",
+        "Training",
+        "Workforce"
       ]
     }
   ]
