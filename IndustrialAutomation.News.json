@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 671,
+  "count": 679,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 12:05",
+  "updated_at": "1405/07/28 12:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -10766,6 +10766,134 @@
         "Education",
         "Middle East",
         "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های جدید ارتباطی 5G برای خانواده SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از ماژول‌های پیشرفته ارتباطی 5G برای کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 رونمایی کرد. این ماژول‌ها امکان انتقال داده با سرعت بالا و تأخیر بسیار کم را در شبکه‌های محلی صنعتی فراهم می‌کنند. این توسعه به مهندسین اتوماسیون اجازه می‌دهد تا ارتباطی پایدار میان ربات‌های متحرک و سیستم‌های کنترل مرکزی برقرار کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 12:06",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-5g-module",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "5G",
+        "Industrial Communication"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "به‌روزرسانی نرم‌افزار TIA Portal V20 برای تسریع مهندسی ماژولار",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal V20 با قابلیت‌های پیشرفته برای توسعه ماژولار سیستم‌های اتوماسیون منتشر شد. این نسخه ابزارهای هوشمندتری برای مدیریت کتابخانه‌ها و تست مجازی کدهای PLC در اختیار برنامه‌نویسان قرار می‌دهد. هدف از این به‌روزرسانی، کاهش زمان راه‌اندازی خطوط تولید تا سی درصد است.",
+      "category": "product",
+      "published_at": "1405/07/28 09:00",
+      "collected_at": "1405/07/28 12:06",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/tia-portal-v20-modular-engineering",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Engineering",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "انتشار وصله امنیتی اضطراری برای سیستم‌های کنترل اسکادا WinCC",
+      "summary": "تیم امنیتی زیمنس یک به‌روزرسانی امنیتی حیاتی برای رفع آسیب‌پذیری‌های نرم‌افزار SIMATIC WinCC منتشر کرد. این وصله امنیتی جلوی خطرات احتمالی دسترسی غیرمجاز به سیستم‌های مانیتورینگ صنعتی را می‌گیرد. به تمامی اپراتورهای زیرساخت‌های حیاتی توصیه شده است که سیستم‌های خود را سریعاً ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 10:15",
+      "collected_at": "1405/07/28 12:06",
+      "source": "ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/siemens-wincc-update",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "Cybersecurity",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه دوقلوهای دیجیتال پیچیده با سیستم Sinumerik One زیمنس",
+      "summary": "زیمنس قابلیت‌های شبیه‌سازی سه‌بعدی را به کنترل‌کننده‌های عددی Sinumerik One اضافه کرد. این قابلیت به سازندگان ماشین‌افزار اجازه می‌دهد تا کل فرآیند ماشین‌کاری را پیش از ساخت فیزیکی تست کنند. این رویکرد خطاهای انسانی را به‌طور چشمگیری کاهش داده و بهره‌وری را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 10:45",
+      "collected_at": "1405/07/28 12:06",
+      "source": "Modern Machine Shop",
+      "source_url": "https://www.mmsonline.com/siemens-sinumerik-one-digital-twin",
+      "tags": [
+        "Siemens",
+        "Sinumerik",
+        "Digital Twin",
+        "CNC"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی سری جدید درایوهای فشرده SINAMICS G120X برای صنایع آب",
+      "summary": "زیمنس سبد محصولات درایوهای خود را با معرفی سری SINAMICS G120X بهینه‌سازی شده برای پمپ و فن توسعه داد. این درایوها با دارا بودن استانداردهای حفاظتی بالا، عملکردی قابل اعتماد در محیط‌های مرطوب ارائه می‌دهند. راه‌اندازی این تجهیزات به دلیل رابط کاربری بصری در کمترین زمان ممکن انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 11:00",
+      "collected_at": "1405/07/28 12:06",
+      "source": "World Pumps",
+      "source_url": "https://www.worldpumps.com/siemens-sinamics-g120x-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Water Industry"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS neo با ابزارهای ابری جدید",
+      "summary": "نسخه جدید پلتفرم کنترل فرآیند SIMATIC PCS neo قابلیت‌های مهندسی همکارانه بر بستر ابر را دریافت کرد. این سیستم به تیم‌های مهندسی در نقاط مختلف جهان اجازه می‌دهد هم‌زمان روی یک پروژه کار کنند. امنیت تبادل داده‌ها در این نسخه بر اساس آخرین استانداردهای رمزنگاری صنعتی تضمین شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 11:30",
+      "collected_at": "1405/07/28 12:06",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-simatic-pcs-neo-update",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "DCS",
+        "Cloud Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای تحقیق روی ربات‌های شناختی",
+      "summary": "مرکز نوآوری زیمنس با دانشگاه فنی مونیخ پروژه‌ای مشترک در زمینه رباتیک شناختی آغاز کرد. هدف این پروژه استفاده از هوش مصنوعی برای درک بهتر محیط کار توسط ربات‌های صنعتی است. این دستاوردها در آینده نزدیک در خطوط مونتاژ انعطاف‌پذیر زیمنس پیاده‌سازی خواهد شد.",
+      "category": "research",
+      "published_at": "1405/07/28 11:45",
+      "collected_at": "1405/07/28 12:06",
+      "source": "TechCrunch Industrial",
+      "source_url": "https://techcrunch.com/siemens-tum-cognitive-robotics",
+      "tags": [
+        "Siemens",
+        "TUM",
+        "Artificial Intelligence",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش زیرساخت‌های تولیدی زیمنس در اروپا با سرمایه‌گذاری جدید",
+      "summary": "زیمنس از طرح سرمایه‌گذاری پانصد میلیون یورویی خود برای مدرن‌سازی کارخانه‌های اتوماسیون صنعتی در اروپا خبر داد. این بودجه صرف تجهیز خطوط تولید به فناوری‌های اتوماسیون پیشرفته و ربات‌های خودکار خواهد شد. هدف این پروژه افزایش انعطاف‌پذیری زنجیره تأمین در برابر نوسانات بازار جهانی است.",
+      "category": "economy",
+      "published_at": "1405/07/28 12:00",
+      "collected_at": "1405/07/28 12:06",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com/content/siemens-factory-investment-europe",
+      "tags": [
+        "Siemens",
+        "Manufacturing",
+        "Economy",
+        "Industry 4.0"
       ]
     }
   ]
