@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 897,
+  "count": 904,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 18:07",
+  "updated_at": "1405/07/28 18:10",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -14366,6 +14366,118 @@
         "SCADA",
         "Siemens",
         "Utilities"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "عرضه درایوهای پیشرفته SINAMICS G120X با استانداردهای ارتباطی نوین",
+      "summary": "شرکت زیمنس سری جدید درایوهای فرکانس متغیر SINAMICS G120X را با پشتیبانی گسترده از پروتکل‌های ارتباطی صنعتی مدرن روانه بازار کرد. این درایوها به طور ویژه برای کاربردهای صنعت آب، فاضلاب و تهویه مطبوع طراحی شده‌اند تا راندمان مصرف انرژی را به حداکثر برسانند. قابلیت پیکربندی سریع از طریق اپلیکیشن موبایل از دیگر ویژگی‌های برجسته این تجهیزات جدید به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 18:10",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-sinamics-g120x-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه اتوماسیون پنوماتیک دیجیتال",
+      "summary": "زیمنس و شرکت فستو تفاهم‌نامه همکاری جدیدی را برای یکپارچه‌سازی سیستم‌های پنوماتیک هوشمند با پلتفرم‌های اتوماسیون زیمنس امضا کردند. این همکاری به توسعه ماژول‌های ارتباطی مشترک برای کنترل دقیق‌تر عملگرهای بادی در خطوط مونتاژ منجر خواهد شد. مهندسان می‌توانند از طریق این راهکار، وضعیت سلامت تجهیزات پنوماتیک را به‌طور مستمر از طریق سیستم‌های SCADA پایش کنند.",
+      "category": "news",
+      "published_at": "1405/07/28 11:20",
+      "collected_at": "1405/07/28 18:10",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "رونمایی از نسل جدید پنل‌های اپراتوری SIMATIC HMI Unified Comfort",
+      "summary": "زیمنس خانواده جدیدی از پنل‌های اپراتوری SIMATIC HMI Unified Comfort را با اندازه‌های نمایشگر متنوع و سخت‌افزار قدرتمند معرفی کرد. این پنل‌ها از فناوری وب‌محور HTML5 پشتیبانی می‌کنند و به کاربران اجازه می‌دهند تا رابط‌های گرافیکی بسیار روان و تعاملی را تجربه کنند. این تجهیزات نقش کلیدی در ارتقای تعامل انسان و ماشین در کارخانه‌های هوشمند امروزی ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 13:30",
+      "collected_at": "1405/07/28 18:10",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-hmi-unified",
+      "tags": [
+        "Siemens",
+        "HMI",
+        "Unified Comfort",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای امنیت شبکه OT با تجهیزات جدید سویچ‌های SCALANCE زیمنس",
+      "summary": "سری جدید سویچ‌های صنعتی مدیریت‌شده SCALANCE با پشتیبانی از پروتکل‌های امنیتی لایه انتقال پیشرفته توسط زیمنس معرفی شدند. این تجهیزات برای مقابله با تهدیدات سایبری فزاینده در شبکه‌های صنعتی اتوماسیون طراحی شده‌اند و امکان جداسازی ایمن بخش‌های مختلف شبکه را فراهم می‌کنند. استفاده از این سویچ‌ها به شرکت‌ها کمک می‌کند تا الزامات استانداردهای امنیتی IEC 62443 را به طور کامل رعایت کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 14:10",
+      "collected_at": "1405/07/28 18:10",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-scalance-switches-security",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در ابزار مهندسی TIA Portal V19",
+      "summary": "زیمنس با به‌روزرسانی ابزار مهندسی TIA Portal V19، امکانات جدید مبتنی بر هوش مصنوعی را برای خودکارسازی کدنویسی PLC به این نرم‌افزار افزود. این قابلیت‌ها به برنامه‌نویسان کمک می‌کند تا بلوک‌های توابع را با سرعت بیشتری ایجاد کرده و خطاهای احتمالی منطقی را پیش از استقرار روی سخت‌افزار شناسایی کنند. این نوآوری گامی مهم در جهت کاهش زمان مهندسی و افزایش بهره‌وری تیم‌های توسعه اتوماسیون محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 15:00",
+      "collected_at": "1405/07/28 18:10",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/siemens-tia-portal-v19-ai",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Artificial Intelligence",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "بهینه‌سازی لجستیک کارخانه با سیستم‌های حمل‌ونقل خودران زیمنس و KUKA",
+      "summary": "همکاری مشترک زیمنس و شرکت KUKA منجر به توسعه نسل جدیدی از روبات‌های خودران موبایل (AMR) با قابلیت یکپارچه‌سازی کامل با سیستم‌های SIMATIC شده است. این سیستم‌های لجستیکی هوشمند می‌توانند مسیر خود را در کارخانه‌های شلوغ به صورت پویا تنظیم کرده و قطعات را به موقع به ایستگاه‌های کاری برسانند. این راهکار به صنایع تولیدی کمک می‌کند تا انعطاف‌پذیری زنجیره تأمین داخلی خود را به شکل چشمگیری افزایش دهند.",
+      "category": "news",
+      "published_at": "1405/07/28 16:20",
+      "collected_at": "1405/07/28 18:10",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-kuka-autonomous-logistics",
+      "tags": [
+        "Siemens",
+        "KUKA",
+        "AMR",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "سرمایه‌گذاری زیمنس در احداث مرکز جدید نوآوری دوقلوی دیجیتال در اروپا",
+      "summary": "شرکت زیمنس از طرح کلان خود برای راه‌اندازی یک مرکز پیشرفته تحقیق و توسعه تخصصی در زمینه دوقلوهای دیجیتال در آلمان خبر داد. این مرکز با هدف شبیه‌سازی کامل فرآیندهای تولیدی و تست راهکارهای مبتنی بر پلتفرم Siemens Xcelerator برای صنایع خودروسازی و هوافضا فعالیت خواهد کرد. این سرمایه‌گذاری به تسریع روند تحول دیجیتال و توسعه فناوری‌های پایدار در صنایع سنگین کمک خواهد کرد.",
+      "category": "economy",
+      "published_at": "1405/07/28 17:45",
+      "collected_at": "1405/07/28 18:10",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/siemens-digital-twin-innovation-center",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Xcelerator",
+        "Research"
       ]
     }
   ]
