@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 565,
+  "count": 575,
   "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/28 09:25",
+  "updated_at": "1405/07/28 10:26",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9063,6 +9063,156 @@
         "IO-Link",
         "Sensors",
         "Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261005-001",
+      "title": "ارتقای پلتفرم Siemens Industrial Edge با قابلیت پردازش داده‌های بلادرنگ",
+      "summary": "زیمنس نسخه جدید پلتفرم Industrial Edge را با تمرکز بر کاهش تأخیر در پردازش داده‌های لبه معرفی کرد. این به‌روزرسانی به اپراتورها اجازه می‌دهد تا الگوریتم‌های یادگیری ماشین را مستقیماً روی سخت‌افزارهای جدید اجرا کنند. این اقدام باعث بهبود سرعت تصمیم‌گیری در خطوط تولید خودکار و کاهش هزینه‌های انتقال داده به ابر می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 14:30",
+      "collected_at": "1405/07/28 10:26",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261005-002",
+      "title": "انتشار به‌روزرسانی امنیتی برای سوئیچ‌های صنعتی Scalance زیمنس",
+      "summary": "شرکت زیمنس وصله‌های امنیتی جدیدی را برای سری سوئیچ‌های صنعتی Scalance منتشر کرد تا از حملات سایبری احتمالی جلوگیری کند. این وصله‌ها آسیب‌پذیری‌های شناسایی شده در پروتکل‌های مدیریت شبکه را برطرف می‌کنند. متخصصان توصیه می‌کنند تمامی مدیران شبکه OT بلافاصله از طریق TIA Portal این به‌روزرسانی را اعمال کنند.",
+      "category": "news",
+      "published_at": "1405/07/26 16:00",
+      "collected_at": "1405/07/28 10:26",
+      "source": "Siemens Newsroom",
+      "source_url": "https://press.siemens.com/global/en/pressrelease",
+      "tags": [
+        "Siemens",
+        "Scalance",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261006-001",
+      "title": "رونمایی ABB از بازوی رباتیک جدید برای صنایع بسته‌بندی مواد غذایی",
+      "summary": "شرکت ABB از نسل جدید بازوهای رباتیک خود با استانداردهای بهداشتی بالا برای محیط‌های غذایی رونمایی کرد. این ربات‌ها با استفاده از پوشش‌های ضد خوردگی و قابلیت شستشوی آسان طراحی شده‌اند تا ایمنی مواد غذایی را تضمین کنند. این محصول جدید می‌تواند سرعت خطوط بسته‌بندی را تا ۲۰ درصد افزایش دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/28 10:26",
+      "source": "ABB News",
+      "source_url": "https://new.abb.com/news",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Food Industry"
+      ]
+    },
+    {
+      "id": "ia-20261006-002",
+      "title": "همکاری استراتژیک زیمنس با شرکت‌های انرژی برای اتوماسیون هیدروژن سبز",
+      "summary": "زیمنس برای توسعه راهکارهای اتوماسیون در نیروگاه‌های هیدروژن سبز با چندین شریک اروپایی همکاری جدیدی را آغاز کرد. این پروژه از سیستم‌های کنترل فرآیند پیشرفته برای مدیریت دقیق الکترولیزرها استفاده می‌کند. هدف از این همکاری، کاهش هزینه‌های تولید انرژی پاک از طریق بهینه‌سازی عملیات صنعتی است.",
+      "category": "industry",
+      "published_at": "1405/07/27 11:45",
+      "collected_at": "1405/07/28 10:26",
+      "source": "Siemens Global",
+      "source_url": "https://press.siemens.com/global/en/pressrelease",
+      "tags": [
+        "Siemens",
+        "Green Hydrogen",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی سنسورهای هوشمند جدید اشنایدر الکتریک برای پایش مصرف انرژی",
+      "summary": "شرکت اشنایدر الکتریک از سری جدید سنسورهای IoT خود برای مدیریت هوشمند انرژی در کارخانه‌ها رونمایی کرد. این سنسورها با پروتکل Modbus TCP سازگار بوده و داده‌های مصرف را به صورت لحظه‌ای به پلتفرم EcoStruxure ارسال می‌کنند. این ابزار به مدیران کمک می‌کند تا نقاط اتلاف انرژی را با دقت بالا شناسایی کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:20",
+      "collected_at": "1405/07/28 10:26",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/",
+      "tags": [
+        "Schneider Electric",
+        "IoT",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "معرفی پنل‌های HMI جدید سری SIMATIC Comfort با نمایشگرهای OLED",
+      "summary": "زیمنس نسل جدید پنل‌های رابط انسان و ماشین (HMI) خود را با نمایشگرهای با وضوح بالا و تکنولوژی OLED معرفی کرد. این پنل‌ها برای محیط‌های صنعتی سخت طراحی شده‌اند و مقاومت بالایی در برابر ضربه و مواد شیمیایی دارند. این محصول جدید با نرم‌افزار TIA Portal به صورت کامل یکپارچه شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 09:00",
+      "collected_at": "1405/07/28 10:26",
+      "source": "Siemens Industry",
+      "source_url": "https://press.siemens.com/global/en/pressrelease",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم FactoryTalk توسط راکول",
+      "summary": "راکول اتوماسیون قابلیت‌های جدیدی را برای تحلیل پیشرفته داده‌ها در پلتفرم FactoryTalk معرفی کرد. این به‌روزرسانی شامل ابزارهای جدیدی برای شناسایی الگوهای خرابی در ماشین‌آلات از طریق یادگیری ماشین است. این اقدام به کاهش زمان توقف ناخواسته در خطوط تولید و افزایش بهره‌وری کمک خواهد کرد.",
+      "category": "news",
+      "published_at": "1405/07/28 09:45",
+      "collected_at": "1405/07/28 10:26",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news.html",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "توسعه ابزارهای شبیه‌سازی پیشرفته در محیط Siemens Xcelerator",
+      "summary": "زیمنس ابزارهای جدیدی را برای ارتقای دقت دوقلوهای دیجیتال در پلتفرم Xcelerator ارائه کرد. این ابزارها اجازه می‌دهند تا فرآیندهای پیچیده تولید پیش از اجرا در دنیای واقعی، با دقت بسیار بالا شبیه‌سازی شوند. این فناوری باعث کاهش چشمگیر خطاهای طراحی و هزینه‌های نمونه‌سازی در صنایع سنگین می‌شود.",
+      "category": "research",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 10:26",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://press.siemens.com/global/en/pressrelease",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "قوانین جدید اتحادیه اروپا برای امنیت سایبری تجهیزات صنعتی",
+      "summary": "اتحادیه اروپا مقررات سخت‌گیرانه‌تری را برای تأمین امنیت سایبری تجهیزات اتوماسیون صنعتی و شبکه‌های OT تصویب کرد. این قوانین شرکت‌های سازنده را ملزم می‌کند تا استانداردهای امنیتی مشخصی را در طراحی محصولات خود رعایت کنند. این تغییرات با هدف محافظت از زیرساخت‌های حیاتی در برابر حملات سایبری انجام شده است.",
+      "category": "regulation",
+      "published_at": "1405/07/28 10:10",
+      "collected_at": "1405/07/28 10:26",
+      "source": "EU Commission",
+      "source_url": "https://ec.europa.eu/commission/presscorner/home/en",
+      "tags": [
+        "Regulation",
+        "OT Security",
+        "EU"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ادغام مدل‌های زبانی بزرگ در محیط توسعه TIA Portal",
+      "summary": "زیمنس در یک گام بزرگ به سوی اتوماسیون هوشمند، قابلیت‌های مدل‌های زبانی بزرگ (LLM) را به محیط TIA Portal اضافه کرد. این ویژگی به مهندسان اجازه می‌دهد تا با استفاده از دستورات متنی، کدهای PLC را تولید یا عیب‌یابی کنند. این فناوری زمان برنامه‌نویسی و تنظیمات سیستم را به شدت کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/28 10:20",
+      "collected_at": "1405/07/28 10:26",
+      "source": "Siemens Software",
+      "source_url": "https://press.siemens.com/global/en/pressrelease",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Generative AI"
       ]
     }
   ]
