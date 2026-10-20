@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 958,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/28 20:03",
+  "count": 967,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/28 20:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -15341,6 +15341,150 @@
         "Middle East",
         "Siemens",
         "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261019-001",
+      "title": "معرفی ماژول‌های جدید پردازش تصویر برای سیستم‌های SIMATIC S7-1500",
+      "summary": "زیمنس از ماژول‌های جدید پردازش تصویر برای کنترلرهای SIMATIC S7-1500 رونمایی کرد. این ماژول‌ها امکان تحلیل بلادرنگ داده‌های تصویری را مستقیماً در لایه کنترل فراهم می‌کنند که باعث کاهش تأخیر در خطوط تولید می‌شود. این فناوری جدید به مهندسان اجازه می‌دهد تا بدون نیاز به کامپیوترهای جانبی، بازرسی کیفیت را با دقت بالا انجام دهند.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 20:08",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Machine Vision",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261019-002",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در پلتفرم Siemens Industrial Copilot",
+      "summary": "زیمنس قابلیت‌های جدیدی را به دستیار هوش مصنوعی Industrial Copilot اضافه کرده است که به کاربران اجازه می‌دهد کدهای پیچیده PLC را با دستورات متنی تولید کنند. این به‌روزرسانی با هدف کاهش زمان مهندسی و خطاهای انسانی در پروژه‌های اتوماسیون طراحی شده است. این ابزار اکنون با TIA Portal V20 یکپارچگی کامل دارد.",
+      "category": "industry",
+      "published_at": "1405/07/28 10:30",
+      "collected_at": "1405/07/28 20:08",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com",
+      "tags": [
+        "AI",
+        "Industrial Copilot",
+        "TIA Portal",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261019-003",
+      "title": "رونمایی از سوئیچ‌های صنعتی مدیریت‌شونده سری SCALANCE XC-200",
+      "summary": "زیمنس نسل جدید سوئیچ‌های صنعتی SCALANCE XC-200 را برای محیط‌های سخت عملیاتی معرفی کرد. این سوئیچ‌ها از پروتکل‌های امنیتی پیشرفته برای حفاظت از شبکه‌های OT در برابر حملات سایبری پشتیبانی می‌کنند. طراحی مقاوم این تجهیزات امکان استفاده در شرایط دمایی شدید و محیط‌های دارای لرزش را فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/28 11:45",
+      "collected_at": "1405/07/28 20:08",
+      "source": "Siemens Industry",
+      "source_url": "https://mall.industry.siemens.com",
+      "tags": [
+        "Networking",
+        "Cybersecurity",
+        "SCALANCE",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261019-004",
+      "title": "همکاری زیمنس و انویدیا برای بهینه‌سازی دوقلوهای دیجیتال در کارخانه‌های خودرو",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه دوقلوهای دیجیتال فوتورالیستیک در صنعت خودرو گسترش دادند. این همکاری بر استفاده از پلتفرم Omniverse برای شبیه‌سازی دقیق فرآیندهای تولید متمرکز است. هدف نهایی، کاهش هزینه‌های راه‌اندازی خطوط تولید جدید از طریق تست‌های مجازی پیش از اجرای فیزیکی است.",
+      "category": "industry",
+      "published_at": "1405/07/28 12:20",
+      "collected_at": "1405/07/28 20:08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "tags": [
+        "Nvidia",
+        "Digital Twin",
+        "Omniverse",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261019-005",
+      "title": "انتشار وصله امنیتی برای سیستم‌های کنترل فرآیند SIMATIC PCS 7",
+      "summary": "زیمنس یک به‌روزرسانی امنیتی بحرانی برای سیستم‌های کنترل فرآیند SIMATIC PCS 7 منتشر کرد تا آسیب‌پذیری‌های شناسایی شده در لایه ارتباطی را برطرف کند. از کاربران خواسته شده است تا در اسرع وقت نسبت به نصب این وصله اقدام کنند. این اقدام بخشی از تعهد زیمنس به امنیت سایبری در زیرساخت‌های حیاتی است.",
+      "category": "regulation",
+      "published_at": "1405/07/28 13:50",
+      "collected_at": "1405/07/28 20:08",
+      "source": "CISA Alerts",
+      "source_url": "https://www.cisa.gov",
+      "tags": [
+        "Cybersecurity",
+        "PCS 7",
+        "Vulnerability",
+        "Security"
+      ]
+    },
+    {
+      "id": "ia-20261019-006",
+      "title": "معرفی درایوهای هوشمند SINAMICS S210 با قابلیت‌های پیشرفته کنترل حرکت",
+      "summary": "درایوهای جدید SINAMICS S210 زیمنس برای کاربردهای کنترل حرکت با دقت بالا عرضه شدند. این درایوها با پشتیبانی از پروتکل PROFINET، یکپارچگی سریعی با کنترلرهای SIMATIC دارند. قابلیت‌های عیب‌یابی داخلی این درایوها به کاهش زمان توقف ماشین‌آلات و افزایش بهره‌وری خطوط تولید کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 14:10",
+      "collected_at": "1405/07/28 20:08",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com",
+      "tags": [
+        "Drives",
+        "SINAMICS",
+        "Motion Control",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261019-007",
+      "title": "گسترش اکوسیستم Siemens Xcelerator در صنایع داروسازی",
+      "summary": "زیمنس پلتفرم Xcelerator خود را برای نیازهای خاص صنایع داروسازی بهینه‌سازی کرد. این راهکار جدید شامل ابزارهای مدیریت داده‌های تولید و تطبیق با استانداردهای سخت‌گیرانه FDA است. این پلتفرم به شرکت‌های دارویی کمک می‌کند تا فرآیند تولید داروهای پیچیده را با سرعت و دقت بیشتری مدیریت کنند.",
+      "category": "industry",
+      "published_at": "1405/07/28 15:30",
+      "collected_at": "1405/07/28 20:08",
+      "source": "Siemens News",
+      "source_url": "https://siemens.com/xcelerator",
+      "tags": [
+        "Xcelerator",
+        "Pharma",
+        "Digitalization",
+        "Compliance"
+      ]
+    },
+    {
+      "id": "ia-20261019-008",
+      "title": "رونمایی از گیت‌وی جدید Siemens Industrial Edge برای اتصال به ابرهای عمومی",
+      "summary": "زیمنس گیت‌وی جدیدی را برای پلتفرم Industrial Edge معرفی کرد که امکان اتصال امن و سریع به سرویس‌های ابری آمازون و مایکروسافت را فراهم می‌کند. این گیت‌وی با استفاده از پروتکل‌های رمزنگاری پیشرفته، امنیت داده‌ها را در هنگام انتقال از لبه به ابر تضمین می‌کند. این محصول برای تحلیل داده‌های کلان صنعتی حیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/28 16:45",
+      "collected_at": "1405/07/28 20:08",
+      "source": "Industrial IoT News",
+      "source_url": "https://iiot-world.com",
+      "tags": [
+        "Edge Computing",
+        "Cloud",
+        "Industrial Edge",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20261019-010",
+      "title": "معرفی ماژول‌های ورودی/خروجی ET 200SP با پشتیبانی از پروتکل‌های امنیتی",
+      "summary": "زیمنس ماژول‌های ورودی/خروجی جدید سری ET 200SP را با تمرکز بر امنیت سایبری معرفی کرد. این ماژول‌ها دارای قابلیت تشخیص دسترسی غیرمجاز در سطح سخت‌افزار هستند. این سری از تجهیزات، استانداردهای جدیدی را برای امنیت در اتوماسیون غیرمتمرکز ایجاد کرده و برای صنایع حساس بسیار مناسب است.",
+      "category": "product",
+      "published_at": "1405/07/28 18:05",
+      "collected_at": "1405/07/28 20:08",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com",
+      "tags": [
+        "ET 200SP",
+        "Security",
+        "IO",
+        "Automation"
       ]
     }
   ]
