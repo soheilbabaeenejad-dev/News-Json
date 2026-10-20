@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 584,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/28 11:01",
+  "count": 592,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/28 11:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9356,6 +9356,142 @@
         "Modicon",
         "PLC",
         "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261008-001",
+      "title": "معرفی کنترل‌کننده جدید SIMATIC S7-400H ارتقایفته برای صنایع فرآیندی بحرانی",
+      "summary": "شرکت زیمنس از نسخه جدید کنترل‌کننده مقاوم و پشتبان SIMATIC S7-400H با قابلیت‌های پردازشی بالا رونمایی کرد. این سیستم برای استفاده در صنایع پتروشیمی و پالایشگاهی طراحی شده تا حداکثر پایداری و زمان کارکرد مداوم را تضمین کند. این ماژول جدید با پشتیبانی از استانداردهای ارتباطی نوین، بهینه‌سازی فرآیندهای صنعتی را تسهیل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:15",
+      "collected_at": "1405/07/28 11:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-400h-advanced",
+      "tags": [
+        "SIMATIC",
+        "S7-400H",
+        "Process Control",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261008-004",
+      "title": "عرضه ماژول‌های ورودی/خروجی ایمن جدید برای سری SIMATIC ET 200MP",
+      "summary": "زیمنس سبد محصولات ایمنی خود را با معرفی ماژول‌های جدید SIMATIC ET 200MP توسعه داد. این تجهیزات جدید دارای استانداردهای SIL3 و PLe بوده و برای محیط‌های صنعتی پرخطر بهینه‌سازی شده‌اند. نصب آسان و قابلیت تعویض در زمان روشن بودن سیستم از ویژگی‌های کلیدی این محصولات است.",
+      "category": "product",
+      "published_at": "1405/07/28 09:30",
+      "collected_at": "1405/07/28 11:03",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/siemens-et-200mp-safety-modules",
+      "tags": [
+        "ET 200MP",
+        "Safety",
+        "I/O Modules",
+        "Totally Integrated Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261008-005",
+      "title": "ارتقای پلتفرم Insights Hub برای تحلیل داده‌های ابری تجهیزات کارخانه",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به قابلیت‌های جدید یادگیری ماشین برای پیش‌بینی خرابی تجهیزات مجهز شد. این نسخه تازه به مهندسان اجازه می‌دهد حجم عظیمی از داده‌های سنسورهای لبه شبکه را به صورت متمرکز تحلیل کنند. استفاده از این ابزار ابری زمان توقف ناخواسته ماشین‌آلات را به طور چشمگیری کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 09:50",
+      "collected_at": "1405/07/28 11:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud/siemens-insights-hub-machine-learning-update",
+      "tags": [
+        "Insights Hub",
+        "MindSphere",
+        "Cloud Computing",
+        "Predictive Maintenance",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261008-006",
+      "title": "انتشار نسخه جدید سیستم کنترل توزیع‌شده Foxboro Evo توسط اشنایدر الکتریک",
+      "summary": "شرکت اشنایدر الکتریک نسخه بروزشده سیستم کنترل توزیع‌شده Foxboro Evo را برای بهبود کنترل پایداری در پالایشگاه‌ها عرضه کرد. این نسخه شامل ابزارهای مهندسی جدیدی است که زمان پیکربندی حلقه‌های کنترلی را به حداقل می‌رساند. این سیستم با معماری امن سایبری مدرن خود از زیرساخت‌های حیاتی در برابر تهدیدات محافظت می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:05",
+      "collected_at": "1405/07/28 11:03",
+      "source": "Process Automation News",
+      "source_url": "https://www.process-automation.com/schneider-electric-foxboro-evo-new",
+      "tags": [
+        "DCS",
+        "Foxboro",
+        "Schneider Electric",
+        "Process Control",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261008-007",
+      "title": "معرفی نسل جدید اینورترهای فرکانس متغیر PowerFlex 755T توسط راکول اتوماسیون",
+      "summary": "راکول اتوماسیون خط تولید درایوهای PowerFlex 755T را با قابلیت‌های پیشرفته مدیریت هارمونیک به‌روزرسانی کرد. این درایوها برای کاهش تلفات انرژی در کاربردهای سنگین صنعتی طراحی شده‌اند. قابلیت عیب‌یابی داخلی این تجهیزات به تکنسین‌ها کمک می‌کند تا مشکلات الکتریکی را سریع‌تر برطرف کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:20",
+      "collected_at": "1405/07/28 11:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/drives/article/rockwell-automation-powerflex-755t-update",
+      "tags": [
+        "PowerFlex",
+        "Rockwell Automation",
+        "VFD",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261008-008",
+      "title": "توسعه قابلیت‌های رباتیک هوشمند توسط ABB با خرید یک استارتاپ بین‌المللی",
+      "summary": "شرکت ABB با هدف تقویت بخش رباتیک صنعتی خود، یک استارتاپ پیشرو در زمینه بینایی ماشین و هوش مصنوعی را خریداری کرد. این اقدام راهبردی به ربات‌های صنعتی ABB اجازه می‌دهد قطعات نامنظم را با دقت بیشتری پردازش کنند. این فناوری جدید به زودی در خطوط تولید خودرو و صنایع الکترونیک پیاده‌سازی خواهد شد.",
+      "category": "company",
+      "published_at": "1405/07/28 10:35",
+      "collected_at": "1405/07/28 11:03",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/abb-acquires-ai-vision-startup",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Artificial Intelligence",
+        "Machine Vision",
+        "Acquisition"
+      ]
+    },
+    {
+      "id": "ia-20261008-009",
+      "title": "انتشار راهنمای امنیتی جدید CISA برای ایمن‌سازی پروتکل‌های شبکه صنعتی Modbus TCP",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) گزارش فنی تازه‌ای را برای مقاوم‌سازی پروتکل ارتباطی Modbus TCP منتشر کرد. این راهنما به مهندسان شبکه توصیه می‌کند از مکانیزم‌های رمزنگاری لایه انتقال برای جلوگیری از حملات نفوذ استفاده کنند. رعایت این دستورالعمل‌ها برای اپراتورهای تأسیسات حیاتی آب و برق الزامی شده است.",
+      "category": "regulation",
+      "published_at": "1405/07/28 10:50",
+      "collected_at": "1405/07/28 11:03",
+      "source": "CISA Cybersecurity Advisories",
+      "source_url": "https://www.cisa.gov/news-events/alerts/2026/modbus-tcp-security-guidelines",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "Modbus",
+        "Industrial Networks",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261008-010",
+      "title": "عرضه درایوهای سروو جدید SINAMICS S220 زیمنس برای ماشین‌آلات پرسرعت بسته بندی",
+      "summary": "زیمنس خانواده درایوهای سروو SINAMICS S220 را با عملکرد دینامیکی بالا برای صنایع بسته‌بندی و چاپ معرفی کرد. این درایوهای جدید با فناوری کنترل برداری پیشرفته، دقت بسیار بالایی در همگام‌سازی محورهای حرکتی ارائه می‌دهند. ادغام کامل این تجهیزات با محیط مهندسی TIA Portal زمان راه‌اندازی خطوط را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 11:00",
+      "collected_at": "1405/07/28 11:03",
+      "source": "Drive & Control Magazine",
+      "source_url": "https://www.drivesandcontrols.com/news/fullstory.as.aspx/siemens-sinamics-s220-servos",
+      "tags": [
+        "SINAMICS S220",
+        "Servo Drives",
+        "Motion Control",
+        "TIA Portal",
+        "Siemens"
       ]
     }
   ]
