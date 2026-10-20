@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 616,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 11:09",
+  "count": 626,
+  "provider": "Gemini/gemini-3.7-flash",
+  "updated_at": "1405/07/28 11:21",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -9876,6 +9876,166 @@
         "Education",
         "Training",
         "Workforce"
+      ]
+    },
+    {
+      "id": "ia-20261019-001",
+      "title": "رونمایی زیمنس از سوئیچ‌های صنعتی SCALANCE XC-200 با پشتیبانی بومی از شبکه حساس به زمان (TSN)",
+      "summary": "شرکت زیمنس سری جدید سوئیچ‌های لایه دوم SCALANCE XC-200 را برای تسهیل ارتباطات اترنت صنعتی معرفی کرد. این تجهیزات با پشتیبانی از پروتکل TSN و استاندارد امنیتی IEC 62443-4-2، تبادل بلادرنگ داده‌ها میان کنترل‌کننده‌ها و دستگاه‌های میدانی را بدون تاخیر تضمین می‌کنند. این تحول گامی مهم در جهت همگرایی کامل شبکه‌های IT و OT به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/28 11:15",
+      "collected_at": "1405/07/28 11:21",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/scalance-xc-200-industrial-ethernet-switches",
+      "tags": [
+        "زیمنس",
+        "SCALANCE",
+        "شبکه صنعتی",
+        "TSN"
+      ]
+    },
+    {
+      "id": "ia-20261019-002",
+      "title": "ارتقای قابلیت‌های نمایشگرهای SIMATIC HMI Unified Comfort با ادغام مستقیم برنامه‌های لبه",
+      "summary": "زیمنس نسل بهبودیافته پانل‌های لمسی SIMATIC HMI Unified Comfort را با سیستم‌عامل مبتنی بر لینوکس و قابلیت اجرای مستقیم اپلیکیشن‌های Industrial Edge عرضه کرد. این نمایشگرها به کاربران اجازه می‌دهند علاوه بر تجسم فرآیند، تحلیل داده‌های پایش وضعیت را مستقیماً روی پنل انجام دهند. این راهکار نیاز به کامپیوترهای صنعتی مجزا در پای ماشین‌آلات را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 11:04",
+      "collected_at": "1405/07/28 11:21",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/simatic-hmi-unified-comfort-panels-edge",
+      "tags": [
+        "SIMATIC HMI",
+        "زیمنس",
+        "اتوماسیون صنعتی",
+        "لبه صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261019-003",
+      "title": "معرفی کامپیوترهای صنعتی فشرده SIMATIC IPC BX-39A زیمنس برای پردازش بینایی ماشین",
+      "summary": "زیمنس از کامپیوتر صنعتی بدون فن SIMATIC IPC BX-39A با پردازنده‌های نسل جدید Core اینتل جهت اجرای الگوریتم‌های هوش مصنوعی رونمایی کرد. این رایانه با طراحی مقاوم و طول عمر بالا، داده‌های تصویری دوربین‌های بازرسی کنترل کیفیت را در کف کارگاه و به‌صورت محلی پردازش می‌کند. ابعاد کامپکت دستگاه نصب آسان آن را در فضاهای محدود تابلو برق ممکن می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/28 10:48",
+      "collected_at": "1405/07/28 11:21",
+      "source": "Control Design",
+      "source_url": "https://www.controldesign.com/computers/article/siemens-simatic-ipc-bx-39a-embedded-vision",
+      "tags": [
+        "SIMATIC IPC",
+        "زیمنس",
+        "بینایی ماشین",
+        "رایانش لبه"
+      ]
+    },
+    {
+      "id": "ia-20261019-004",
+      "title": "انتشار راهکار مدیریت انتشار کربن SiGREEN زیمنس بر بستر معماری ارتباطی OPC UA",
+      "summary": "شرکت زیمنس راهکار نرم‌افزاری SiGREEN را با استاندارد باز OPC UA یکپارچه کرد تا ردیابی ردپای کربن محصولات در خطوط تولید پیوسته میسر شود. این سیستم با جمع‌آوری داده‌های لحظه‌ای مصرف انرژی از درایوها و پی‌ال‌سی‌ها، گواهی ردپای کربن قابل استناد تولید می‌کند. صنایع خودروسازی و شیمیایی می‌توانند از این داده‌ها برای تطبیق با مقررات جدید زیست‌محیطی اروپا استفاده کنند.",
+      "category": "industry",
+      "published_at": "1405/07/28 10:35",
+      "collected_at": "1405/07/28 11:21",
+      "source": "ARC Advisory Group",
+      "source_url": "https://www.arcweb.com/blog/siemens-sigreen-opc-ua-carbon-tracking",
+      "tags": [
+        "زیمنس",
+        "SiGREEN",
+        "پایداری صنعتی",
+        "OPC UA"
+      ]
+    },
+    {
+      "id": "ia-20261019-005",
+      "title": "عرضه کنترل‌کننده‌های درایو یکپارچه SIMATIC Drive Controller برای کنترل همزمان چندمحوره",
+      "summary": "زیمنس کنترل‌کننده جدید SIMATIC Drive Controller را با ادغام مستقیم یک PLC قدرتمند S7-1500 و سیستم کنترل حرکت درایو SINAMICS S120 در یک بدنه عرضه کرد. این سخت‌افزار تاخیر تبادل داده میان پی‌ال‌سی و درایو را به صفر نزدیک کرده و پاسخ دینامیکی سیستم‌های چاپ و بسته‌بندی سریع را به‌طور چشمگیری بهبود می‌دهد. همچنین حجم سیم‌کشی داخل تابلو به حداقل می‌رسد.",
+      "category": "product",
+      "published_at": "1405/07/28 10:19",
+      "collected_at": "1405/07/28 11:21",
+      "source": "SPS Magazine",
+      "source_url": "https://sps-magazin.de/antriebstechnik/siemens-simatic-drive-controller-s7-1500-sinamics",
+      "tags": [
+        "SIMATIC",
+        "SINAMICS",
+        "کنترل حرکت",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261019-006",
+      "title": "معرفی ماژول‌های تغذیه هوشمند QUINT POWER نسل چهارم فونیکس کنتاکت با رابط IO-Link",
+      "summary": "فونیکس کنتاکت منبع تغذیه صنعتی QUINT POWER نسل چهارم مجهز به درگاه ارتباطی IO-Link را به منظور نگهداری پیشگیرانه تابلوهای اتوماسیون معرفی کرد. این تجهیز داده‌های حیاتی از جمله جریان خروجی، ولتاژ شبکه و دمای داخلی را به لایه کنترل انتقال داده و پیش از وقوع خرابی هشدار می‌دهد. این قابلیت مانع از توقف‌های برنامه‌ریزی‌نشده در خطوط مونتاژ حساس می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 09:55",
+      "collected_at": "1405/07/28 11:21",
+      "source": "Design World",
+      "source_url": "https://www.designworldonline.com/phoenix-contact-quint-power-generation-4-io-link",
+      "tags": [
+        "فونیکس کنتاکت",
+        "منبع تغذیه",
+        "IO-Link",
+        "اتوماسیون صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261019-007",
+      "title": "امرسون سیستم کنترل ماژولار DeltaV PK Flex را برای توسعه منعطف واحدهای دارویی معرفی کرد",
+      "summary": "شرکت امرسون کنترل‌کننده ترکیبی DeltaV PK Flex را معرفی کرد که امکان بهره‌برداری از قابلیت‌های پیشرفته DCS را به‌صورت مقیاس‌پذیر در واحدهای تولید دارویی کوچک فراهم می‌کند. این کنترل‌کننده از معماری ابری و نرم‌افزارمحور بهره می‌برد و مشتریان می‌توانند ظرفیت ورودی/خروجی را بر اساس نیاز بدون تعویض سخت‌افزار ارتقا دهند. این امر هزینه اولیه پروژه‌ها را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 09:30",
+      "collected_at": "1405/07/28 11:21",
+      "source": "Emerson Automation Experts",
+      "source_url": "https://www.emersonautomationexperts.com/deltav-pk-flex-controller-scalable-automation",
+      "tags": [
+        "امرسون",
+        "DeltaV",
+        "DCS",
+        "صنایع دارویی"
+      ]
+    },
+    {
+      "id": "ia-20261019-008",
+      "title": "رونمایی بکوف از بازوی رباتیک ماژولار ATRO با مسیرهای داخلی کابل و انتقال رسانه",
+      "summary": "شرکت بکوف اتوماسیون سیستم رباتیک مدولار ATRO را معرفی کرد که امکان پیکربندی بازوهای مکانیکی ۵ تا ۷ محوره را بدون سیم‌کشی خارجی فراهم می‌آورد. ماژول‌های حرکتی به درایوهای توکار و ارتباط EtherCAT پرسرعت مجهز هستند و خطوط سیالات و داده را از داخل مفاصل عبور می‌دهند. این طراحی چرخش نامحدود حول محورها و سفارشی‌سازی آسان برای خطوط ساخت را امکان‌پذیر می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 09:12",
+      "collected_at": "1405/07/28 11:21",
+      "source": "Beckhoff News",
+      "source_url": "https://www.beckhoff.com/en-en/products/motion/atro-modular-industrial-robotics",
+      "tags": [
+        "بکوف",
+        "رباتیک صنعتی",
+        "EtherCAT",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "ia-20261019-009",
+      "title": "ادغام درایوهای ولتاژ متوسط Altivar Process ATV6000 اشنایدر الکتریک در سامانه پایش ابری",
+      "summary": "اشنایدر الکتریک اتصال درایوهای ولتاژ متوسط Altivar Process ATV6000 را به پلتفرم تحلیل ابری EcoStruxure Asset Advisor عملیاتی کرد. این یکپارچگی به مهندسان نگهداری امکان می‌دهد فرسایش ادوات الکترونیک قدرت و نوسانات بار الکتریکی موتورهای سنگین را به‌صورت پیوسته رصد کنند. راهکار مذکور موجب کاهش ۴۰ درصدی توقف‌های اضطراری در تصفیه‌خانه‌ها و معادن می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/28 08:45",
+      "collected_at": "1405/07/28 11:21",
+      "source": "Schneider Electric Newsroom",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/press-releases/altivar-process-atv6000-cloud-integration",
+      "tags": [
+        "اشنایدر الکتریک",
+        "درایو صنعتی",
+        "اینترنت اشیاء صنعتی",
+        "EcoStruxure"
+      ]
+    },
+    {
+      "id": "ia-20261019-010",
+      "title": "معرفی پلتفرم عملیات داده FactoryTalk DataMosaix توسط راکول اتوماسیون برای کارخانه‌ها",
+      "summary": "شرکت راکول اتوماسیون با عرضه پلتفرم ابری FactoryTalk DataMosaix، یکپارچه‌سازی بلادرنگ داده‌های سیستم‌های OT و فناوری اطلاعات IT را تسهیل کرد. این ابزار داده‌های پراکنده از پی‌ال‌سی‌ها، سنسورها و سیستم‌های MES را در مدلی استاندارد سازماندهی می‌کند تا تحلیل‌های هوش مصنوعی با سرعت بالاتری پیاده شوند. هدف این سیستم کاهش زمان توسعه تحلیل‌های کارخانه‌ای به نصف است.",
+      "category": "product",
+      "published_at": "1405/07/28 08:20",
+      "collected_at": "1405/07/28 11:21",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/factorytalk-datamosaix-industrial-dataops.html",
+      "tags": [
+        "راکول اتوماسیون",
+        "FactoryTalk",
+        "تحلیل داده",
+        "هوش مصنوعی صنعتی"
       ]
     }
   ]
