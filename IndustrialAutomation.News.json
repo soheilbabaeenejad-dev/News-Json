@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1001,
+  "count": 1011,
   "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/07/29 01:55",
+  "updated_at": "1405/07/29 03:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -16022,6 +16022,166 @@
         "Pharmaceutical",
         "Simcenter",
         "Optimization"
+      ]
+    },
+    {
+      "id": "ia-20241016-001",
+      "title": "گسترش همکاری زیمنس و انویدیا برای ایجاد دوقلوهای دیجیتال فوتورالیستیک در صنعت",
+      "summary": "زیمنس و انویدیا همکاری‌های خود را برای ادغام پلتفرم Xcelerator با Omniverse گسترش دادند تا شبیه‌سازی‌های دقیق‌تری از خطوط تولید ایجاد کنند. این اقدام باعث کاهش زمان طراحی و خطاهای عملیاتی در محیط‌های واقعی می‌شود. استفاده از فناوری Ray Tracing در این دوقلوهای دیجیتال، دقت بصری و فنی را به سطح جدیدی ارتقا داده است.",
+      "category": "company",
+      "published_at": "1403/07/25 10:30",
+      "collected_at": "1405/07/29 03:02",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Digital Twin",
+        "Omniverse"
+      ]
+    },
+    {
+      "id": "ia-20241017-002",
+      "title": "معرفی قابلیت‌های جدید مدیریت حافظه در کنترل‌کننده‌های SIMATIC S7-1500",
+      "summary": "زیمنس به‌روزرسانی جدیدی را برای سری S7-1500 منتشر کرد که مدیریت بهینه حافظه و سرعت پردازش داده‌ها را در محیط‌های پیچیده صنعتی بهبود می‌بخشد. این ارتقا به کاربران اجازه می‌دهد تا برنامه‌های حجیم‌تر را با تأخیر کمتر اجرا کنند. این تغییرات به‌ویژه برای سیستم‌های کنترل توزیع‌شده (DCS) با تعداد متغیرهای بالا بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1403/07/26 14:15",
+      "collected_at": "1405/07/29 03:02",
+      "source": "Siemens Industry Online Support",
+      "source_url": "https://support.industry.siemens.com",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "PLC",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241018-003",
+      "title": "ادغام مدل‌های زبانی بزرگ (LLM) در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس امکان اجرای مدل‌های هوش مصنوعی مولد را مستقیماً بر روی گیت‌وی‌های Industrial Edge فراهم کرد تا تحلیل داده‌ها در لبه شبکه سریع‌تر شود. این قابلیت به اپراتورها اجازه می‌دهد تا با استفاده از زبان طبیعی، وضعیت ماشین‌آلات را استعلام کنند. این نوآوری باعث کاهش وابستگی به ابر و افزایش امنیت داده‌های حساس صنعتی می‌گردد.",
+      "category": "research",
+      "published_at": "1403/07/27 09:00",
+      "collected_at": "1405/07/29 03:02",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.automationworld.com",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "LLM",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241018-004",
+      "title": "عرضه راهکار جدید راکول اتوماسیون برای بهینه‌سازی مصرف انرژی در خطوط تولید",
+      "summary": "شرکت راکول اتوماسیون ابزار جدیدی را به پلتفرم FactoryTalk اضافه کرد که به طور خودکار نقاط اتلاف انرژی در سیستم‌های درایو و موتور را شناسایی می‌کند. این سیستم با تحلیل داده‌های بلادرنگ، پیشنهاداتی برای کاهش هزینه‌های عملیاتی ارائه می‌دهد. این راهکار برای صنایع با مصرف انرژی بالا مانند فولاد و سیمان بسیار کاربردی است.",
+      "category": "product",
+      "published_at": "1403/07/27 16:40",
+      "collected_at": "1405/07/29 03:02",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com",
+      "tags": [
+        "Rockwell",
+        "FactoryTalk",
+        "Energy Efficiency",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20241019-005",
+      "title": "معرفی سیستم کنترل رباتیک جدید ABB برای افزایش دقت در مونتاژ قطعات ریز",
+      "summary": "شرکت ABB نسل جدیدی از کنترلرهای رباتیک را معرفی کرد که با استفاده از حسگرهای پیشرفته، دقت مکان‌یابی را تا ۰.۰۱ میلی‌متر افزایش می‌دهد. این سیستم برای صنایع الکترونیک و پزشکی که نیاز به دقت بسیار بالا دارند، طراحی شده است. این کنترلرها با پروتکل‌های ارتباطی جدید برای یکپارچگی سریع‌تر با PLCها سازگار هستند.",
+      "category": "product",
+      "published_at": "1403/07/28 11:20",
+      "collected_at": "1405/07/29 03:02",
+      "source": "ABB Robotics",
+      "source_url": "https://new.abb.com/products/robotics",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Precision",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241019-006",
+      "title": "به‌روزرسانی نرم‌افزار EcoStruxure برای مدیریت پیشرفته‌تر توزیع برق صنعتی",
+      "summary": "اشنایدر الکتریک نسخه جدیدی از پلتفرم EcoStruxure را عرضه کرد که قابلیت مانیتورینگ لحظه‌ای کیفیت توان را در شبکه‌های فشار متوسط فراهم می‌کند. این به‌روزرسانی به مدیران plant اجازه می‌دهد تا از وقوع خاموشی‌های ناگهانی جلوگیری کرده و پایداری سیستم را افزایش دهند. این ابزار با استانداردهای جدید IEC برای امنیت سایبری مطابقت دارد.",
+      "category": "product",
+      "published_at": "1403/07/28 15:00",
+      "collected_at": "1405/07/29 03:02",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Power Management",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20241020-007",
+      "title": "هشدار امنیتی CISA درباره آسیب‌پذیری‌های جدید در پروتکل‌های ارتباطی صنعتی",
+      "summary": "آژانس CISA گزارشی را منتشر کرد که در آن به چندین آسیب‌پذیری بحرانی در پیاده‌سازی‌های مختلف پروتکل Modbus و Profinet اشاره شده است. این حفره‌های امنیتی می‌توانند منجر به دسترسی غیرمجاز به کنترلرهای PLC و تغییر در منطق برنامه شوند. توصیه شده است که کاربران سریعاً وصله‌های امنیتی سازندگان را نصب کرده و دسترسی‌های شبکه را محدود کنند.",
+      "category": "regulation",
+      "published_at": "1403/07/29 01:10",
+      "collected_at": "1405/07/29 03:02",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov",
+      "tags": [
+        "Cybersecurity",
+        "CISA",
+        "Profinet",
+        "ICS"
+      ]
+    },
+    {
+      "id": "ia-20241020-008",
+      "title": "معرفی قابلیت‌های همکاری تیمی در نسخه ابری TIA Portal",
+      "summary": "زیمنس قابلیت‌های جدیدی را به نسخه ابری TIA Portal اضافه کرد که اجازه می‌دهد چندین مهندس به طور همزمان روی یک پروژه برنامه‌نویسی PLC کار کنند. این سیستم با استفاده از کنترل نسخه (Version Control)، تداخلات کدنویسی را به حداقل می‌رساند و سرعت توسعه را افزایش می‌دهد. این ویژگی برای پروژه‌های بزرگ صنعتی با تیم‌های توزیع‌شده بسیار مفید است.",
+      "category": "product",
+      "published_at": "1403/07/29 02:00",
+      "collected_at": "1405/07/29 03:02",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://www.siemens.com/global/en/products/automation.html",
+      "tags": [
+        "TIA Portal",
+        "Cloud",
+        "Collaboration",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241020-009",
+      "title": "توسعه استانداردهای جدید EtherCAT G برای انتقال داده‌های حجیم در اتوماسیون",
+      "summary": "شرکت بکوف با معرفی نسخه‌های ارتقایافته EtherCAT G، پهنای باند شبکه صنعتی را به شدت افزایش داد تا انتقال داده‌های تصویری با کیفیت بالا ممکن شود. این پیشرفت اجازه می‌دهد تا سیستم‌های بینایی ماشین (Machine Vision) مستقیماً با چرخه کنترل PLC ادغام شوند. این فناوری برای بازرسی‌های کیفی سریع در خطوط تولید خودرو بسیار کاربردی است.",
+      "category": "industry",
+      "published_at": "1403/07/29 02:30",
+      "collected_at": "1405/07/29 03:02",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com",
+      "tags": [
+        "Beckhoff",
+        "EtherCAT",
+        "Machine Vision",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20241020-010",
+      "title": "همکاری زیمنس با شرکت‌های داروسازی برای پیاده‌سازی تولید انعطاف‌پذیر",
+      "summary": "زیمنس از یک راهکار جدید در چارچوب Xcelerator رونمایی کرد که به صنایع داروسازی اجازه می‌دهد خطوط تولید را سریعاً برای محصولات مختلف تغییر دهند. این سیستم با استفاده از دوقلوهای دیجیتال، زمان تغییر محصول (Changeover) را تا ۴۰ درصد کاهش می‌دهد. این رویکرد به ویژه برای تولید داروهای شخصی‌سازی شده و دسته‌های کوچک بسیار حیاتی است.",
+      "category": "company",
+      "published_at": "1403/07/29 03:00",
+      "collected_at": "1405/07/29 03:02",
+      "source": "Siemens Pharma",
+      "source_url": "https://www.siemens.com/global/en/markets/pharmaceuticals.html",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Pharmaceuticals",
+        "Flexible Manufacturing"
       ]
     }
   ]
