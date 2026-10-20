@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 833,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/28 16:07",
+  "count": 842,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/28 17:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -13342,6 +13342,150 @@
         "PCS7",
         "Security",
         "Migration"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از پلتفرم جدید Industrial Edge Hub برای مدیریت متمرکز تجهیزات لبه",
+      "summary": "شرکت زیمنس از پلتفرم جدید Industrial Edge Hub برای نظارت و مدیریت متمرکز دستگاه‌ها و اپلیکیشن‌های لبه در چندین کارخانه رونمایی کرد. این راهکار به مدیران فناوری اطلاعات و مهندسان اتوماسیون اجازه می‌دهد تا به‌روزرسانی‌ها را به صورت همزمان روی هزاران کنترل‌کننده SIMATIC اعمال کنند. این سیستم با کاهش زمان توقف خطوط تولید، بهره‌وری عملیاتی را به طور قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 17:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/edge-computing/siemens-industrial-edge-hub-launch",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "SIMATIC",
+        "OT/IT"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی مولد در محیط مهندسی TIA Portal V20",
+      "summary": "زیمنس با ارائه یک بسته افزایشی جدید برای TIA Portal V20، توانایی‌های هوش مصنوعی مولد را در فرآیند برنامه‌نویسی PLC توسعه داد. دستیار هوشمند Industrial Copilot اکنون قادر است کدهای ساختاریافته SCL را با دقت بالاتری تولید کرده و خطاهای منطقی را عیب‌یابی کند. این فناوری زمان طراحی پروژه‌های اتوماسیون پیچیده را تا چهل درصد کاهش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 17:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/plc-scada/siemens-tia-portal-v20-ai-copilot",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Industrial Copilot",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS 7 با ماژول‌های امنیتی جدید",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS 7 زیمنس با تمرکز بر ارتقای امنیت سایبری لایه OT عرضه شد. این به‌روزرسانی شامل پروتکل‌های رمزنگاری پیشرفته برای ارتباط میان کنترل‌کننده‌ها و ایستگاه‌های اپراتوری است. هدف از این توسعه، انطباق کامل با استانداردهای سخت‌گیرانه IEC 62443 برای حفاظت از زیرساخت‌های حیاتی صنعتی است.",
+      "category": "product",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 17:00",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-simatic-pcs7-security-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "Cybersecurity",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی نسل جدید ماژول‌های ورودی و خروجی ET 200MP با سرعت تبادل داده بالا",
+      "summary": "زیمنس سبد محصولات غیرمتمرکز خود را با معرفی ماژول‌های I/O جدید از سری ET 200MP توسعه داد. این تجهیزات با پشتیبانی از باس‌های ارتباطی پرسرعت بکلین، زمان پاسخ‌دهی سیستم را به حداقل می‌رسانند. استفاده از این ماژول‌ها در خطوط مونتاژ پرسرعت، دقت کنترل حرکت را به طور محسوسی بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/28 10:45",
+      "collected_at": "1405/07/28 17:00",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/automation/siemens-et-200mp-io-modules",
+      "tags": [
+        "Siemens",
+        "ET 200MP",
+        "I/O",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "عرضه درایوهای پیشرفته SINAMICS G120X با قابلیت‌های بهینه‌سازی انرژی",
+      "summary": "زیمنس خانواده درایوهای فرکانس متغیر SINAMICS G120X را برای کاربردهای پمپ، فن و کمپرسور به‌روزرسانی کرد. این درایوها مجهز به الگوریتم‌های پیشرفته کنترل برداری بدون سنسور برای حداکثر راندمان موتور هستند. سیستم عیب‌یابی داخلی این تجهیزات، خرابی‌های احتمالی بلبرینگ‌ها را پیش از وقوع شناسایی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 12:15",
+      "collected_at": "1405/07/28 17:00",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/siemens-sinamics-g120x-energy-efficiency",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه قابلیت‌های دوقلوی دیجیتال در نرم‌افزار Tecnomatix زیمنس",
+      "summary": "نسخه جدید نرم‌افزار Tecnomatix زیمنس ابزارهای پیشرفته‌ای را برای شبیه‌سازی سه‌بعدی سلول‌های رباتیک ارائه کرد. مهندسان می‌توانند با استفاده از این دوقلوی دیجیتال، مسیر حرکت بازوهای رباتیک را پیش از راه‌اندازی فیزیکی بهینه کنند. این ویژگی از برخوردها جلوگیری کرده و زمان راه‌اندازی خطوط تولید جدید را به نصف می‌رساند.",
+      "category": "news",
+      "published_at": "1405/07/28 13:00",
+      "collected_at": "1405/07/28 17:00",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/story/siemens-tecnomatix-digital-twin-robotics",
+      "tags": [
+        "Siemens",
+        "Tecnomatix",
+        "Digital Twin",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "انتشار هشدار امنیتی CISA درباره آسیب‌پذیری در تجهیزات روتینگ صنعتی",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) با انتشار اطلاعیه‌ای از شناسایی یک آسیب‌پذیری متوسط در روترهای صنعتی برخی تولیدکنندگان خبر داد. این نقص امنیتی می‌تواند به مهاجمان اجازه دهد تا ترافیک شبکه OT را رصد کنند. شرکت‌های سازنده بسته‌های اصلاحی و فریم‌ورهای جدید را برای رفع این مشکل منتشر کرده‌اند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 13:45",
+      "collected_at": "1405/07/28 17:00",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com/cisa-warns-industrial-router-vulnerabilities-ot-networks",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "Industrial Routers",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی پانل‌های اپراتوری جدید SIMATIC HMI Comfort Pro با گواهی‌نامه‌های بهداشتی",
+      "summary": "زیمنس خط تولید پنل‌های اپراتوری SIMATIC HMI Comfort Pro را با بدنه‌های استیل ضدزنگ برای صنایع غذایی و دارویی معرفی کرد. این نمایشگرها در برابر مواد شوینده شیمیایی و فرآیندهای شستشوی صنعتی مقاومت بالایی دارند. طراحی بدون درز این تجهیزات از تجمع باکتری‌ها جلوگیری کرده و استانداردهای بهداشتی سخت‌گیرانه را برآورده می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 14:30",
+      "collected_at": "1405/07/28 17:00",
+      "source": "Industrial Product News",
+      "source_url": "https://www.ipn.com/news/siemens-simatic-hmi-comfort-pro-hygienic-design",
+      "tags": [
+        "Siemens",
+        "SIMATIC HMI",
+        "Hygienic Design",
+        "Food & Beverage"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش پلتفرم ابری Insights Hub برای تحلیل پیشرفته داده‌های مصرف انرژی",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم ابری Insights Hub برای پایش مصرف انرژی در کارخانه‌های بزرگ اضافه کرد. این ابزارها با استفاده از الگوریتم‌های یادگیری ماشین، الگوهای مصرف انرژی ماشین‌آلات را تحلیل می‌کنند. مدیران صنعتی با کمک این گزارش‌ها می‌توانند نقاط اتلاف انرژی را شناسایی و هزینه‌های عملیاتی را کاهش دهند.",
+      "category": "news",
+      "published_at": "1405/07/28 15:15",
+      "collected_at": "1405/07/28 17:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/cloud/siemens-insights-hub-energy-analytics-expansion",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud",
+        "Energy Management"
       ]
     }
   ]
