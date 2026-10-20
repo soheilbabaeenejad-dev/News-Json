@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 771,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 14:06",
+  "count": 780,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/28 15:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -12352,6 +12352,149 @@
         "PCS 7",
         "DCS",
         "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261019-002",
+      "title": "گسترش همکاری زیمنس و انویدیا در حوزه شبیه‌سازی فیزیک‌محور",
+      "summary": "زیمنس و انویدیا همکاری خود را برای ادغام پلتفرم Omniverse با نرم‌افزار Tecnomatix گسترش دادند. این همکاری به تولیدکنندگان اجازه می‌دهد تا دوقلوهای دیجیتال با دقت فیزیکی بسیار بالا ایجاد کنند که رفتار ماشین‌آلات را در شرایط واقعی شبیه‌سازی می‌کند. هدف از این پروژه، کاهش زمان راه‌اندازی خطوط تولید جدید و بهینه‌سازی مصرف انرژی در کارخانه‌های بزرگ است.",
+      "category": "industry",
+      "published_at": "1405/07/28 09:00",
+      "collected_at": "1405/07/28 15:01",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-nvidia-partnership",
+      "tags": [
+        "Digital Twin",
+        "Nvidia",
+        "Siemens",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261019-003",
+      "title": "رونمایی از نسل جدید درایوهای SINAMICS G220 با قابلیت‌های پیشرفته",
+      "summary": "زیمنس نسل جدید درایوهای فرکانس متغیر SINAMICS G220 را با تمرکز بر بهره‌وری انرژی و امنیت سایبری معرفی کرد. این درایوها دارای قابلیت‌های یکپارچه برای مانیتورینگ وضعیت موتور هستند که خرابی‌های ناگهانی را پیش‌بینی می‌کند. این محصول با استانداردهای امنیتی جدید مطابقت دارد و برای کاربردهای سنگین صنعتی در صنایع شیمیایی و خودروسازی طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 09:45",
+      "collected_at": "1405/07/28 15:01",
+      "source": "Siemens Industry",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics-g220.html",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261019-004",
+      "title": "به‌روزرسانی امنیتی برای پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس یک وصله امنیتی حیاتی برای پلتفرم مدیریت Industrial Edge منتشر کرده است تا آسیب‌پذیری‌های شناسایی شده در لایه ارتباطی را برطرف کند. این به‌روزرسانی شامل بهبود پروتکل‌های احراز هویت و رمزنگاری داده‌ها در محیط‌های OT است. تمامی کاربران سیستم‌های مدیریت لبه زیمنس موظف به نصب این بسته برای جلوگیری از دسترسی‌های غیرمجاز به شبکه کارخانه هستند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 10:20",
+      "collected_at": "1405/07/28 15:01",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://cert-portal.siemens.com/productcert/pdf/ssa-industrial-edge",
+      "tags": [
+        "Cybersecurity",
+        "Siemens",
+        "Industrial Edge",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261019-005",
+      "title": "توسعه قابلیت‌های رباتیک در سیستم‌های کنترل ABB",
+      "summary": "شرکت ABB با ارائه نسخه جدید نرم‌افزار RobotStudio، امکان برنامه‌نویسی ربات‌های صنعتی را با استفاده از زبان‌های سطح بالا فراهم کرده است. این تغییر به توسعه‌دهندگان اجازه می‌دهد تا الگوریتم‌های پیچیده بینایی ماشین را به راحتی در خطوط مونتاژ پیاده‌سازی کنند. این پیشرفت باعث افزایش انعطاف‌پذیری ربات‌های سری IRB در مواجهه با قطعات متنوع در خطوط تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 11:05",
+      "collected_at": "1405/07/28 15:01",
+      "source": "ABB Newsroom",
+      "source_url": "https://new.abb.com/news/detail/robotics-software-update",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Automation",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261019-006",
+      "title": "معرفی سوئیچ‌های صنعتی جدید سری Stratix 5800 توسط راکول",
+      "summary": "راکول اتوماسیون سوئیچ‌های لایه ۳ سری Stratix 5800 را برای شبکه‌های صنعتی با پهنای باند بالا عرضه کرد. این سوئیچ‌ها با معماری سیسکو طراحی شده‌اند و از پروتکل‌های زمان‌بندی دقیق برای کاربردهای بلادرنگ پشتیبانی می‌کنند. این محصول برای محیط‌های سخت صنعتی که نیاز به پایداری شبکه در شرایط نویز الکترومغناطیسی بالا دارند، بهینه‌سازی شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 11:40",
+      "collected_at": "1405/07/28 15:01",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/en-us/products/stratix-5800.html",
+      "tags": [
+        "Rockwell",
+        "Networking",
+        "Stratix",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261019-007",
+      "title": "ارتقای سیستم کنترل توزیع‌شده DeltaV توسط امرسون",
+      "summary": "امرسون نسخه جدید سیستم کنترل توزیع‌شده DeltaV را با تمرکز بر پایداری فرآیند و مدیریت داده‌های بزرگ معرفی کرد. این نسخه شامل ابزارهای تحلیلی جدید برای شناسایی گلوگاه‌های تولید در صنایع نفت و گاز است. با این ارتقا، اپراتورها می‌توانند دید جامع‌تری نسبت به عملکرد تجهیزات در مقیاس وسیع داشته باشند و هزینه‌های عملیاتی را به طور قابل توجهی کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/28 12:15",
+      "collected_at": "1405/07/28 15:01",
+      "source": "Emerson Automation",
+      "source_url": "https://www.emerson.com/en-us/automation/deltav-v15-update",
+      "tags": [
+        "Emerson",
+        "DCS",
+        "DeltaV",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261019-008",
+      "title": "معرفی راهکار جدید اشنایدر الکتریک برای مدیریت انرژی در صنایع",
+      "summary": "اشنایدر الکتریک پلتفرم جدید EcoStruxure Power را برای مانیتورینگ لحظه‌ای مصرف انرژی در کارخانه‌های تولیدی معرفی کرد. این سیستم با استفاده از هوش مصنوعی، الگوهای مصرف را تحلیل کرده و پیشنهاداتی برای کاهش هزینه‌های برق ارائه می‌دهد. این راهکار به مدیران کارخانه‌ها کمک می‌کند تا به اهداف پایداری و کاهش ردپای کربن خود در تولید صنعتی دست یابند.",
+      "category": "industry",
+      "published_at": "1405/07/28 13:00",
+      "collected_at": "1405/07/28 15:01",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/en/work/solutions/ecostruxure-power.jsp",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261019-009",
+      "title": "توسعه ماژول‌های ارتباطی ۵G برای تجهیزات اتوماسیون زیمنس",
+      "summary": "زیمنس ماژول‌های جدید ارتباطی ۵G را برای سری SIMATIC ET 200SP عرضه کرد که امکان اتصال بی‌سیم پرسرعت را برای ماشین‌آلات متحرک فراهم می‌کند. این فناوری تأخیر در انتقال داده‌ها را به حداقل رسانده و برای کاربردهای رباتیک متحرک (AMR) در انبارها ایده‌آل است. این ماژول‌ها با استانداردهای صنعتی ۵G سازگار بوده و امنیت ارتباطی بالایی را تضمین می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 13:45",
+      "collected_at": "1405/07/28 15:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/news/5g-industrial-communication",
+      "tags": [
+        "Siemens",
+        "5G",
+        "Industrial Communication",
+        "ET 200SP"
+      ]
+    },
+    {
+      "id": "ia-20261019-010",
+      "title": "گزارش جدید CISA درباره تهدیدات علیه کنترل‌کننده‌های منطقی",
+      "summary": "آژانس امنیت سایبری و زیرساخت (CISA) در گزارش جدید خود نسبت به افزایش حملات سایبری به کنترل‌کننده‌های منطقی برنامه‌پذیر (PLC) هشدار داد. این گزارش بر اهمیت جداسازی شبکه‌های OT از IT و استفاده از پروتکل‌های امنیتی سخت‌گیرانه تأکید می‌کند. کارشناسان توصیه می‌کنند که شرکت‌ها برای مقابله با این تهدیدات، سیستم‌های خود را به آخرین نسخه‌های فریمور تجهیز کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 14:30",
+      "collected_at": "1405/07/28 15:01",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories/plc-threats",
+      "tags": [
+        "Cybersecurity",
+        "PLC",
+        "CISA",
+        "Industrial Security"
       ]
     }
   ]
