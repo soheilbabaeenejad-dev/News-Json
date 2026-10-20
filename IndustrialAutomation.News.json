@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 950,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/28 19:18",
+  "count": 958,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/07/28 20:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -15213,6 +15213,134 @@
         "Security",
         "ICS",
         "Vulnerability"
+      ]
+    },
+    {
+      "id": "ia-20261020-001",
+      "title": "معرفی ماژول‌های جدید پردازش تصویر برای SIMATIC S7-1500 توسط زیمنس",
+      "summary": "زیمنس از ماژول‌های جدید پردازش تصویر برای کنترل‌کننده‌های SIMATIC S7-1500 رونمایی کرد. این ماژول‌ها امکان تحلیل بلادرنگ تصاویر را در محیط TIA Portal فراهم می‌کنند و برای کاربردهای بازرسی کیفیت در خطوط تولید بسیار حیاتی هستند. این فناوری با کاهش نیاز به سیستم‌های بینایی ماشین مجزا، هزینه‌های پیاده‌سازی را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/20 09:15",
+      "collected_at": "1405/07/28 20:03",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Machine Vision",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261020-004",
+      "title": "رونمایی از درایوهای فرکانس متغیر سری SINAMICS G220 با قابلیت‌های ایمنی",
+      "summary": "زیمنس نسل جدید درایوهای SINAMICS G220 را با تمرکز بر امنیت سایبری و بهره‌وری انرژی معرفی کرد. این درایوها دارای قابلیت‌های یکپارچه برای مانیتورینگ وضعیت موتور هستند که از خرابی‌های ناگهانی جلوگیری می‌کند. این محصول برای صنایع سنگین و کاربردهایی که نیاز به کنترل دقیق گشتاور دارند، بهینه شده است.",
+      "category": "product",
+      "published_at": "1405/07/20 13:20",
+      "collected_at": "1405/07/28 20:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.siemens.com/global/en/products/drives/sinamics/g220.html",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Siemens",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "انتشار وصله امنیتی برای نرم‌افزار مدیریت شبکه SINEC NMS",
+      "summary": "زیمنس یک وصله امنیتی مهم برای نرم‌افزار مدیریت شبکه SINEC NMS منتشر کرد تا آسیب‌پذیری‌های شناسایی شده در پروتکل‌های ارتباطی را برطرف کند. این به‌روزرسانی برای تمامی کاربرانی که از تجهیزات شبکه صنعتی زیمنس استفاده می‌کنند، ضروری است. امنیت در شبکه‌های OT اولویت اصلی زیمنس در سال جاری اعلام شده است.",
+      "category": "regulation",
+      "published_at": "1405/07/20 14:50",
+      "collected_at": "1405/07/28 20:03",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-01",
+      "tags": [
+        "Cybersecurity",
+        "SINEC",
+        "Siemens",
+        "Network Security"
+      ]
+    },
+    {
+      "id": "ia-20261020-006",
+      "title": "معرفی سیستم کنترل فرآیند SIMATIC PCS neo V4.2",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo V4.2 توسط زیمنس عرضه شد. این نسخه با تمرکز بر همکاری تیمی در فضای ابری، امکان مدیریت پروژه‌های بزرگ را از راه دور فراهم می‌کند. این سیستم به مهندسان اجازه می‌دهد تا تغییرات پیکربندی را به صورت همزمان و با امنیت بالا اعمال کنند.",
+      "category": "product",
+      "published_at": "1405/07/20 16:10",
+      "collected_at": "1405/07/28 20:03",
+      "source": "Process Automation News",
+      "source_url": "https://new.siemens.com/global/en/products/automation/process-control/simatic-pcs-neo.html",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "Siemens",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261020-007",
+      "title": "توسعه ربات‌های همکار جدید ABB برای محیط‌های انبارداری",
+      "summary": "شرکت ABB ربات‌های همکار جدیدی را برای استفاده در لجستیک و انبارداری معرفی کرد. این ربات‌ها با استفاده از هوش مصنوعی قادر به تشخیص دقیق بسته‌ها و چیدمان بهینه آن‌ها هستند. این فناوری به کاهش خطاهای انسانی در فرآیندهای بسته‌بندی و افزایش سرعت عملیات در مراکز توزیع کمک می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/20 17:05",
+      "collected_at": "1405/07/28 20:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://new.abb.com/products/robotics/cobots",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Logistics",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261020-008",
+      "title": "ارتقای پلتفرم FactoryTalk توسط راکول اتوماسیون برای صنایع غذایی",
+      "summary": "راکول اتوماسیون پلتفرم FactoryTalk خود را با ویژگی‌های جدید برای صنایع غذایی و آشامیدنی به‌روزرسانی کرد. این قابلیت‌ها شامل ردیابی دقیق مواد اولیه و مدیریت انطباق با استانداردهای بهداشتی است. این راهکار به تولیدکنندگان کمک می‌کند تا شفافیت بیشتری در زنجیره تامین خود داشته باشند.",
+      "category": "product",
+      "published_at": "1405/07/20 18:30",
+      "collected_at": "1405/07/28 20:03",
+      "source": "Rockwell Automation Blog",
+      "source_url": "https://www.rockwellautomation.com/en-us/solutions/food-beverage.html",
+      "tags": [
+        "Rockwell",
+        "FactoryTalk",
+        "Food Industry",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "رونمایی از سوئیچ‌های صنعتی جدید فونیکس کنتاکت با استاندارد SPE",
+      "summary": "فونیکس کنتاکت نسل جدید سوئیچ‌های صنعتی مبتنی بر استاندارد تک‌زوج اترنت (SPE) را معرفی کرد. این سوئیچ‌ها فضای کمتری اشغال کرده و برای اتصال سنسورهای هوشمند در فواصل طولانی ایده‌آل هستند. این محصول گامی مهم در جهت ساده‌سازی زیرساخت‌های شبکه در کارخانه‌های هوشمند است.",
+      "category": "product",
+      "published_at": "1405/07/20 19:15",
+      "collected_at": "1405/07/28 20:03",
+      "source": "Industrial Ethernet Journal",
+      "source_url": "https://www.phoenixcontact.com/en-pc/products/industrial-switches",
+      "tags": [
+        "Phoenix Contact",
+        "SPE",
+        "Networking",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "گزارش جدید درباره رشد بازار اتوماسیون صنعتی در منطقه خاورمیانه",
+      "summary": "گزارش جدیدی از وضعیت بازار اتوماسیون صنعتی در خاورمیانه نشان می‌دهد که تقاضا برای راهکارهای دیجیتال زیمنس در صنایع نفت و گاز به شدت افزایش یافته است. این گزارش بر اهمیت گذار به سمت انرژی‌های پاک و استفاده از سیستم‌های کنترل هوشمند برای کاهش انتشار کربن تاکید دارد.",
+      "category": "economy",
+      "published_at": "1405/07/20 19:50",
+      "collected_at": "1405/07/28 20:03",
+      "source": "Industry Insights",
+      "source_url": "https://www.industry-reports.com/automation-middle-east-2026",
+      "tags": [
+        "Market Report",
+        "Middle East",
+        "Siemens",
+        "Sustainability"
       ]
     }
   ]
