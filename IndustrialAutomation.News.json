@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 762,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/28 14:05",
+  "count": 771,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/28 14:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -12208,6 +12208,150 @@
         "Siemens",
         "Semiconductors",
         "Supply Chain"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های امنیت سایبری در نسخه جدید سیستم SIMATIC WinCC V8.1",
+      "summary": "نسخه جدید سیستم مانیتورینگ و کنترل SIMATIC WinCC V8.1 با پروتکل‌های امنیتی رمزنگاری پیشرفته عرضه شد. این به‌روزرسانی برای مقابله با تهدیدات سایبری روزافزون در زیرساخت‌های حیاتی و شبکه‌های صنعتی طراحی شده است. مدیران سیستم می‌توانند با این نسخه، دسترسی‌های کاربران را با دقت بیشتری مدیریت و پایش کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 14:06",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-wincc-v81-security",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "SCADA",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه همکاری زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط مونتاژ",
+      "summary": "زیمنس با همکاری شرکت فستو، راهکار مشترکی برای ادغام تجهیزات پنوماتیک با کنترل‌کننده‌های SIMATIC S7-1500 ارائه دادند. این فناوری امکان عیب‌یابی خودکار و نظارت بر مصرف انرژی را در عملگرهای بادی فراهم می‌کند. هدف از این همکاری، بهینه‌سازی مصرف انرژی و کاهش زمان توقف خطوط تولید در صنایع خودروسازی است.",
+      "category": "company",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/28 14:06",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-pneumatics-automation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "SIMATIC",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "رونمایی از ماژول‌های ورودی/خروجی ایمن ET 200MP با گواهینامه SIL3",
+      "summary": "خانواده تجهیزات توزیع‌شده زیمنس با معرفی ماژول‌های جدید ET 200MP با استاندارد ایمنی SIL3 گسترش یافت. این ماژول‌ها برای استفاده در محیط‌های پرخطر صنعتی و خطوط پرس سنگین طراحی شده‌اند. این محصول سرعت پاسخگویی سیستم‌های ایمنی اضطرابی را به‌طور چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 10:45",
+      "collected_at": "1405/07/28 14:06",
+      "source": "IEB",
+      "source_url": "https://www.iebmedia.com/siemens-et200mp-sil3",
+      "tags": [
+        "Siemens",
+        "ET 200MP",
+        "Safety",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش کاربرد دوقلوهای دیجیتال در سیستم‌های CNC با SINUMERIK ONE",
+      "summary": "زیمنس قابلیت‌های شبیه‌سازی سه‌بعدی را به کنترل‌کننده‌های CNC مدل SINUMERIK ONE اضافه کرد. این قابلیت به سازندگان ماشین‌ابزار اجازه می‌دهد پیش از ساخت فیزیکی، عملکرد قطعات را به صورت مجازی تست کنند. این رویکرد خطاهای برنامه‌نویسی را کاهش داده و زمان راه‌اندازی ماشین‌های تراش و فرز را به نصف می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/28 11:20",
+      "collected_at": "1405/07/28 14:06",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-sinumerik-one-digital-twin",
+      "tags": [
+        "Siemens",
+        "Sinumerik One",
+        "Digital Twin",
+        "CNC"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "عرضه درایوهای فشرده SINAMICS G120X با قابلیت‌های یکپارچه اینترنت اشیاء",
+      "summary": "نسخه جدید درایوهای فرکانس متغیر SINAMICS G120X زیمنس با ماژول‌های ارتباطی داخلی برای اتصال به پلتفرم‌های ابری عرضه شد. این درایوها به طور ویژه برای کاربردهای پمپاژ و تهویه مطبوع در ساختمان‌های صنعتی بزرگ بهینه‌سازی شده‌اند. این تجهیزات با پایش مداوم بار، از خرابی‌های ناگهانی الکتروموتورها جلوگیری می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 11:55",
+      "collected_at": "1405/07/28 14:06",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-sinamics-g120x-iot",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "انتشار به‌روزرسانی نرم‌افزاری برای ابزار مهندسی TIA Portal V19 SP1",
+      "summary": "شرکت زیمنس بسته به‌روزرسانی اول را برای نسخه ۱۹ نرم‌افزار جامع TIA Portal منتشر کرد. این نسخه شامل بهبودهای اساسی در سرعت کامپایل پروژه‌های بزرگ و ابزارهای مدیریت نسخه تیمی است. این تغییرات موجب افزایش بهره‌وری برنامه‌نویسان اتوماسیون در پروژه‌های صنعتی پیچیده می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 12:30",
+      "collected_at": "1405/07/28 14:06",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-tia-portal-v19-sp1",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Engineering",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "همکاری زیمنس و شریک لجستیکی برای خودکارسازی انبارها با سیستم SIMATIC S7-1200",
+      "summary": "یک پروژه بزرگ خودکارسازی انبار در اروپا با استفاده از کنترل‌کننده‌های SIMATIC S7-1200 و سیستم‌های ردیابی زیمنس اجرا شد. این پروژه سرعت جابجایی پالت‌ها را تا چهل درصد افزایش داده است. این سیستم قابلیت اتصال به نرم‌افزارهای مدیریت انبار را از طریق پروتکل‌های استاندارد صنعتی دارد.",
+      "category": "industry",
+      "published_at": "1405/07/28 13:00",
+      "collected_at": "1405/07/28 14:06",
+      "source": "Logistics Tech",
+      "source_url": "https://www.logisticstech.com/siemens-warehouse-automation-s71200",
+      "tags": [
+        "Siemens",
+        "S7-1200",
+        "Logistics",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی سوئیچ‌های صنعتی جدید RUGGEDCOM برای شبکه‌های توانی و پست‌های برق",
+      "summary": "زیمنس خانواده سوئیچ‌های شبکه صنعتی RUGGEDCOM را با پشتیبانی از پروتکل‌های ارتباطی پرسرعت نوری به‌روز کرد. این تجهیزات برای کار در شرایط سخت محیطی و دماهای شدید در پست‌های انتقال برق طراحی شده‌اند. این سوئیچ‌ها پایداری شبکه ارتباطی زیرساخت‌های حیاتی را تضمین می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 13:35",
+      "collected_at": "1405/07/28 14:06",
+      "source": "Power Magazine",
+      "source_url": "https://www.powermag.com/siemens-ruggedcom-switches-update",
+      "tags": [
+        "Siemens",
+        "Ruggedcom",
+        "Networking",
+        "Power Grid"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "ارتقای سیستم اسکادا SIMATIC PCS 7 با ابزارهای تحلیل پیشرفته مبتنی بر داده",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS 7 ابزارهای جدیدی برای تحلیل داده‌های تاریخی فرایند دریافت کرد. این ماژول‌ها به اپراتورها کمک می‌کنند تا ناهنجاری‌های فرآیندی را پیش از وقوع بحران شناسایی کنند. این فناوری نقش کلیدی در بهبود کیفیت محصول نهایی در صنایع پالایشگاهی و شیمیایی دارد.",
+      "category": "product",
+      "published_at": "1405/07/28 14:00",
+      "collected_at": "1405/07/28 14:06",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-simatic-pcs7-analytics",
+      "tags": [
+        "Siemens",
+        "PCS 7",
+        "DCS",
+        "Process Control"
       ]
     }
   ]
