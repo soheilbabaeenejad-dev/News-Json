@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 526,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/28 03:59",
+  "count": 536,
+  "provider": "Gemini/gemini-3.5-flash",
+  "updated_at": "1405/07/28 05:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8429,6 +8429,176 @@
         "ET 200pro",
         "I/O Modules",
         "Ruggedized"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "معرفی کارت‌های ورودی و خروجی پرسرعت SIMATIC ET 200MP زیمنس با پشتیبانی از TSN",
+      "summary": "زیمنس نسل جدید کارت‌های سیگنال با تراکم بالا را برای خانواده SIMATIC ET 200MP معرفی کرد. این ماژول‌ها با پشتیبانی از پروتکل ارتباطی Time-Sensitive Networking (TSN)، همزمانی دقیق در سطح میکروثانیه را برای خطوط بسته‌بندی و تولید پیشرفته فراهم می‌سازند. این ارتقا باعث کاهش ۲۰ درصدی تاخیر شبکه OT و افزایش پایداری ارتباطات صنعتی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 04:45",
+      "collected_at": "1405/07/28 05:02",
+      "source": "Siemens Press Release",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-expands-simatic-et-200mp-tsn-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200MP",
+        "TSN",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "ارتقای افزونه TIA Portal Test Suite زیمنس برای تست خودکار کدهای PLC",
+      "summary": "زیمنس به‌روزرسانی جدیدی برای افزونه TIA Portal Test Suite منتشر کرده است که امکان تست واحد (Unit Testing) و سنجش قوانین برنامه‌نویسی را به صورت کاملاً خودکار فراهم می‌کند. این ابزار به مهندسان اتوماسیون اجازه می‌دهد منطق کنترلی SIMATIC S7-1500 را پیش از بارگذاری روی سخت‌افزار واقعی ارزیابی کرده و زمان راه‌اندازی خطوط تولید را تا ۳۰ درصد کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/28 04:15",
+      "collected_at": "1405/07/28 05:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/33012345/siemens-tia-portal-test-suite-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "PLC",
+        "S7-1500",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "توسعه همکاری زیمنس و گوگل کلود برای یکپارچه‌سازی پردازش لبه و مدیریت داده‌های کارخانه‌ای",
+      "summary": "شرکت زیمنس و گوگل کلود از مرحله جدید همکاری خود برای اتصال مستقیم دستگاه‌های Siemens Industrial Edge به سرویس‌های تحلیل داده BigQuery خبر دادند. این راهکار مشترک امکان انتقال بلادرنگ داده‌های حسگرهای کارخانه‌ای را بدون نیاز به زیرساخت‌های پیچیده میانی فراهم می‌کند و پیش‌بینی خرابی تجهیزات را تا ۲۵ درصد دقیق‌تر می‌سازد.",
+      "category": "company",
+      "published_at": "1405/07/28 03:50",
+      "collected_at": "1405/07/28 05:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-google-cloud-edge-integration-2026",
+      "tags": [
+        "Siemens",
+        "Google Cloud",
+        "Industrial Edge",
+        "IIoT",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "انتشار بروزرسانی امنیتی زیمنس برای رفع آسیب‌پذیری‌های بحرانی در روترهای SCALANCE M",
+      "summary": "تیم پاسخگویی به حوادث امنیتی زیمنس (Product CERT) وصله‌های نرم‌افزاری جدیدی را برای روترهای صنعتی سری SCALANCE M800 و MUM850 صادر کرد. این بروزرسانی آسیب‌پذیری‌های سرریز بافر را که می‌توانست منجر به اجرای کد از راه دور در شبکه‌های کنترل صنعتی شود برطرف می‌کند. آژانس CISA از تمام اپراتورهای زیرساخت‌های حیاتی خواسته است این وصله را سریعاً اعمال نمایند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 03:20",
+      "collected_at": "1405/07/28 05:02",
+      "source": "CISA Alert",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-01",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Cybersecurity",
+        "CISA",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "انتشار نسخه جدید نرم‌افزار SINAMICS DriveSim برای شبیه‌سازی دقیق درایوهای صنعتی",
+      "summary": "زیمنس نسخه بروزشده ابزار SINAMICS DriveSim را برای شبیه‌سازی دیجیتال درایوهای کنترل حرکت عرضه کرد. این نرم‌افزار به طراحان امکان می‌دهد رفتار الکترومکانیکی درایوهای سری SINAMICS S120 و G120 را در محیط دوقلوی دیجیتال ارزیابی کنند. این قابلیت فرایند صحت‌سنجی نرم‌افزار کنترل قبل از نصب فیزیکی را تسهیل کرده و ریسک‌های راه‌اندازی را کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 02:40",
+      "collected_at": "1405/07/28 05:02",
+      "source": "Drives & Controls",
+      "source_url": "https://drivesncontrols.com/news/fullstory.php/aid/7120/Siemens_launches_enhanced_DriveSim.html",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Digital Twin",
+        "Simulation",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "رونمایی اشنایدر الکتریک از درایوهای هوشمند Altivar Process ATV900 با راندمان بالا",
+      "summary": "شرکت اشنایدر الکتریک سری جدید درایوهای فرکانس متغیر Altivar Process ATV900 را با قابلیت‌های پایش شرایط داخلی و پورت‌های پلتفرم ایثرنت دوگانه معرفی نمود. این درایوها با آنالیز بلادرنگ جریان و دما، مصرف انرژی الکتریکی در پمپ‌ها و فن‌های صنعتی را تا ۱۵ درصد کاهش داده و اطلاعات نگهداری را مستقیماً به سیستم‌های SCADA ارسال می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 02:10",
+      "collected_at": "1405/07/28 05:02",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.iaasiaonline.com/schneider-electric-altivar-process-atv900-launch",
+      "tags": [
+        "Schneider Electric",
+        "Altivar",
+        "VFD",
+        "SCADA",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "معرفی سوئیچ‌های مدیریت‌شده جدید سری FL SWITCH 2000 فونیکس کنتاکت برای محیط‌های انفجاری",
+      "summary": "فونیکس کنتاکت نسل جدید سوئیچ‌های صنعتی مدیریت‌شده سری FL SWITCH 2000 را با گواهینامه‌های ATEX و IECEx جهت استفاده در محیط‌های مخاطره‌آمیز نفت و گاز معرفی کرد. این تجهیزات با پشتیبانی از پروتکل‌های بازسازی سریع حلقه شبکه (PROFINET MRP)، تداوم ارتباطات در شبکه‌های حساس صنعتی را تضمین کرده و تا دمای ۷۵ درجه سانتی‌گراد عملکرد پایدار دارند.",
+      "category": "product",
+      "published_at": "1405/07/28 01:30",
+      "collected_at": "1405/07/28 05:02",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/products/phoenix-contact-fl-switch-2000-atex",
+      "tags": [
+        "Phoenix Contact",
+        "Managed Switch",
+        "PROFINET",
+        "ATEX",
+        "OT Network"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "عرضه اپلیکیشن جدید پایش پمپ‌های صنعتی در اکوسیستم Insights Hub زیمنس",
+      "summary": "زیمنس اپلیکیشن تخصصی Pump Analytics را در بستر ابری Insights Hub برای صنعت آب و فاضلاب عرضه کرد. این نرم‌افزار با تحلیل ارتعاشات، دبی و الگوی مصرف انرژی پمپ‌ها، ناهنجاری‌های عملکردی را پیش از وقوع خرابی شناسایی می‌کند. استفاده از الگوریتم‌های یادگیری ماشین در این برنامه، توقف‌های ناخواسته تجهیزات دورانی را تا ۴۰ درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 01:00",
+      "collected_at": "1405/07/28 05:02",
+      "source": "World Water Tech",
+      "source_url": "https://www.watertechonline.com/industry-news/siemens-insights-hub-pump-analytics-app",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Predictive Maintenance",
+        "IoT",
+        "Water Industry"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "نهایی‌سازی استحصال شرکت متخصص امنیت سایبری صنعتی توسط راکول اتوماسیون",
+      "summary": "راکول اتوماسیون فرایند خرید یک شرکت پیشرو در حوزه تحلیل تهدیدات شبکه‌های OT را به ارزش ۱۸۰ میلیون دلار به پایان رساند. این اقدام باعث ادغام فناوری‌های بازرسی عمیق بسته‌ها (DPI) در سخت‌افزارهای خانواده ControlLogix خواهد شد تا شناسایی نفوذ به سیستم‌های کنترلی مستقیم از سطح کنترل‌کننده امکان‌پذیر گردد.",
+      "category": "company",
+      "published_at": "1405/07/28 00:20",
+      "collected_at": "1405/07/28 05:02",
+      "source": "Cybersecurity Dive",
+      "source_url": "https://www.cybersecuritydive.com/news/rockwell-automation-acquires-ot-security-firm/712399/",
+      "tags": [
+        "Rockwell Automation",
+        "Cybersecurity",
+        "ControlLogix",
+        "OT Security",
+        "Acquisition"
+      ]
+    },
+    {
+      "id": "ia-20261018-010",
+      "title": "همکاری زیمنس و فستو برای استانداردسازی رابط‌های پنوماتیک در TIA Portal",
+      "summary": "زیمنس و فستو (Festo) از برنامه‌ای مشترک برای ادغام کامل بلوک‌های عملکردی شیرآلات پنوماتیک هوشمند در محیط نرم‌افزاری TIA Portal خبر دادند. این همکاری مهندسان را قادر می‌سازد تا سیستم‌های پنوماتیک و الکترونیک را یکپارچه پیکربندی کرده و پارامترهای عیب‌یابی را بدون نیاز به ابزارهای جانبی درون سیستم SCADA مشاهده نمایند.",
+      "category": "company",
+      "published_at": "1405/07/27 23:45",
+      "collected_at": "1405/07/28 05:02",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/articles/siemens-and-festo-partner-on-tia-portal-integration",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Pneumatics",
+        "Integration"
       ]
     }
   ]
