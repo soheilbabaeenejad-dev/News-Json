@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 635,
+  "count": 643,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 12:00",
+  "updated_at": "1405/07/28 12:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -10180,6 +10180,134 @@
         "Artificial Intelligence",
         "Siemens",
         "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از ماژول‌های جدید ارتباطی پروتکل OPC UA برای تجهیزات SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از ماژول‌های ارتباطی پیشرفته جدیدی برای خانواده کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 پرده برداشت. این ماژول‌ها به‌طور ویژه برای پشتیبانی پرسرعت از استاندارد OPC UA TSN طراحی شده‌اند تا تبادل داده بین لایه OT و سیستم‌های ابری با امنیت و سرعت بالاتری انجام شود. این راهکار به مهندسان اتوماسیون اجازه می‌دهد تا شبکه‌های صنعتی مقیاس‌پذیرتر و یکپارچه‌تری را بدون نیاز به سخت‌افزارهای جانبی پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:15",
+      "collected_at": "1405/07/28 12:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-opc-ua-tsn",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "OPC UA",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "معرفی نسل جدید ماژول‌های توزیع‌شده ET 200MP با قابلیت عیب‌یابی هوشمند",
+      "summary": "سیستم I/O توزیع‌شده SIMATIC ET 200MP زیمنس با افزوده شدن ویژگی‌های عیب‌یابی مبتنی بر هوش مصنوعی ارتقا یافت. این ماژول‌های جدید قادرند خطاهای سیم‌کشی و ناهنجاری‌های ولتاژ را پیش از بروز توقف کامل در خط تولید شناسایی و به سیستم کنترل مرکزی گزارش دهند. این نوآوری به طور چشمگیری زمان خرابی ناخواسته ماشین‌آلات را کاهش داده و هزینه‌های نگهداری و تعمیرات را در صنایع فرایندی بهینه می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/28 10:05",
+      "collected_at": "1405/07/28 12:02",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-et-200mp-ai-diagnostics",
+      "tags": [
+        "Siemens",
+        "ET 200MP",
+        "Distributed I/O",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای امنیت سایبری تجهیزات لبه شبکه با به‌روزرسانی سیستم‌عامل Industrial Edge",
+      "summary": "زیمنس بسته امنیتی جدیدی را برای تجهیزات و درگاه‌های سخت‌افزاری Siemens Industrial Edge منتشر کرد که استانداردهای حفاظتی سایبری در لایه OT را ارتقا می‌دهد. این به‌روزرسانی شامل مکانیزم‌های رمزنگاری پیشرفته سخت‌افزاری و قابلیت مدیریت متمرکز گواهی‌نامه‌های امنیتی است. این راهکار به صنایع کمک می‌کند تا از زیرکلیدهای دیجیتال در برابر حملات سایبری احتمالی به شبکه‌های محلی محافظت کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 11:10",
+      "collected_at": "1405/07/28 12:02",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-industrial-edge-security-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Cybersecurity",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی پنل‌های اپراتوری جدید SIMATIC HMI Comfort Pro با طراحی مقاوم برای صنایع سنگین",
+      "summary": "خانواده پنل‌های اپراتوری زیمنس با معرفی مدل‌های جدید SIMATIC HMI Comfort Pro گسترش یافت که به طور خاص برای محیط‌های سخت و داروسازی طراحی شده‌اند. این نمایشگرهای صنعتی دارای بدنه‌های تمام استیل مقاوم در برابر مواد شیمیایی و استانداردهای حفاظتی بالا هستند. قابلیت نصب انعطاف‌پذیری بازویی و پشتیبانی از مرورگرهای وب امن، از دیگر ویژگی‌های کلیدی این سری محصولات جدید به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/28 11:25",
+      "collected_at": "1405/07/28 12:02",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-simatic-hmi-comfort-pro",
+      "tags": [
+        "Siemens",
+        "SIMATIC HMI",
+        "Comfort Panel",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "گسترش راهکارهای دوقلوی دیجیتال خطوط مونتاژ با نرم‌افزار Process Simulate زیمنس",
+      "summary": "زیمنس نسخه ارتقایافته نرم‌افزار Process Simulate متعلق به مجموعه Tecnomatix را برای شبیه‌سازی پیشرفته خطوط تولید رباتیک عرضه کرد. این نسخه جدید با موتور گرافیکی بهینه‌شده، امکان شبیه‌سازی دقیق‌تر رفتارهای دینامیکی ربات‌ها و تداخل‌های مکانیکی را فراهم می‌سازد. مهندسان خطوط تولید می‌توانند پیش از ساخت فیزیکی کارخانه، تمامی فرآیندهای لجستیک و مونتاژ را به صورت مجازی تست و بهینه‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 11:40",
+      "collected_at": "1405/07/28 12:02",
+      "source": "Virtual Strategy Magazine",
+      "source_url": "https://www.virtual-strategy.com/siemens-process-simulate-update",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Tecnomatix",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "انتشار نسخه جدید سنسورهای اندازه‌گیری فشار Sitrans P با پروتکل ارتباطی Profinet",
+      "summary": "بخش صنایع فرایندی زیمنس از نسل جدید ترانسمیترهای فشار Sitrans P مجهز به ارتباط بومی Profinet و پروفایل PA پشتیبانی‌کننده از NAMUR رونمایی کرد. این تجهیزات ابزار دقیق امکان انتقال همزمان داده‌های فرآیندی و اطلاعات تشخیصی پیشرفته را به سیستم‌های کنترل توزیع‌شده فراهم می‌آورند. این ویژگی باعث کاهش چشمگیر سیم‌کشی‌های سنتی و افزایش دقت نظارت بر فرآیندهای شیمیایی و پالایشگاهی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 11:50",
+      "collected_at": "1405/07/28 12:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-sitrans-p-profinet",
+      "tags": [
+        "Siemens",
+        "Sitrans",
+        "Process Instrumentation",
+        "Profinet"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه قابلیت‌های یادگیری ماشین در درایوهای هوشمند SINAMICS S220",
+      "summary": "زیمنس قابلیت‌های پردازش هوش مصنوعی لبه را به درایوهای کنترل دور SINAMICS S220 خود اضافه کرد تا پایش وضعیت موتورها دقیق‌تر شود. این درایوهای جدید با تحلیل مداوم بارهای الکتریکی و ارتعاشات شفت، تغییرات نامتعارف را شناسایی کرده و به اپراتور هشدار می‌دهند. این رویکرد پیشگیرانه از خرابی‌های ناگهانی گیربکس‌ها و الکتروموتورهای صنعتی جلوگیری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 11:55",
+      "collected_at": "1405/07/28 12:02",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-s220-ai-features",
+      "tags": [
+        "Siemens",
+        "SINAMICS S220",
+        "Drives",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "سرمایه‌گذاری زیمنس در احداث مرکز جدید نوآوری اتوماسیون دیجیتال در اروپا",
+      "summary": "شرکت زیمنس از طرح سرمایه‌گذاری کلان خود برای راه‌اندازی یک مرکز پیشرفته تحقیق و توسعه اتوماسیون صنعتی در آلمان خبر داد. این مرکز بر توسعه نسل آینده فناوری‌های اتوماسیون مبتنی بر نرم‌افزار، رایانش ابری و هوش مصنوعی صنعتی متمرکز خواهد بود. هدف اصلی این پروژه، تسریع روند انتقال صنایع تولیدی به استانداردهای کارخانه خودکار و پایدار مجهز به پلتفرم Siemens Xcelerator است.",
+      "category": "economy",
+      "published_at": "1405/07/28 12:00",
+      "collected_at": "1405/07/28 12:02",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/siemens-digital-automation-hub-germany",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "R&D",
+        "Industrial Automation"
       ]
     }
   ]
