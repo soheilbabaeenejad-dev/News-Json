@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 516,
-  "provider": "Gemini/gemini-robotics-er-2-preview",
-  "updated_at": "1405/07/27 23:59",
+  "count": 526,
+  "provider": "Gemini/gemma-4-26b-a4b-it",
+  "updated_at": "1405/07/28 03:59",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8271,6 +8271,164 @@
         "SIMATIC",
         "Industrial PC",
         "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20251020-001",
+      "title": "ارتقای امنیت سایبری در کنترل‌کننده‌های SIMATIC S7-1500 زیمنس",
+      "summary": "زیمنس با هدف مقابله با تهدیدات پیشرفته سایبری، ویژگی‌های امنیتی جدیدی را برای سری SIMATIC S7-1500 معرفی کرد. این به‌روزرسانی شامل پروتکل‌های احراز هویت پیشرفته و رمزنگاری داده‌های صنعتی است که امنیت ارتباطات بین PLC و سیستم‌های HMI را تضمین می‌کند. این اقدام برای صنایع حساس و زیرساخت‌های حیاتی بسیار ضروری است.",
+      "category": "news",
+      "published_at": "1405/07/25 10:15",
+      "collected_at": "1405/07/28 03:59",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/news/security-update-s7-1500",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "PLC",
+        "S7-1500"
+      ]
+    },
+    {
+      "id": "ia-20251020-002",
+      "title": "گسترش پلتفرم Siemens Xcelerator برای پایش پایداری زنجیره تامین",
+      "summary": "زیمنس ماژول‌های جدیدی را به اکوسیستم Siemens Xcelerator اضافه کرده است که تمرکز اصلی آن بر مدیریت کربن و پایداری در زنجیره تامین است. این ابزار به مدیران کارخانه اجازه می‌دهد تا میزان انتشار گازهای گلخانه‌ای را در تمام مراحل تولید به دقت ردیابی کنند. این فناوری با استفاده از داده‌های لحظه‌ای عمل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/25 11:30",
+      "collected_at": "1405/07/28 03:59",
+      "source": "Siemens Newsroom",
+      "source_url": "https://www.siemens.com/xcelerator-sustainability",
+      "tags": [
+        "Siemens Xcelerator",
+        "Sustainability",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20251020-003",
+      "title": "معرفی نسل جدید ربات‌های همکار ABB برای صنایع دقیق",
+      "summary": "شرکت ABB از به‌روزرسانی‌های نرم‌افزاری جدید برای ربات‌های سری YuMi رونمایی کرد که دقت عملیات مونتاژ را در صنایع الکترونیک به شدت افزایش می‌دهد. این سیستم جدید با استفاده از حسگرهای لمسی پیشرفته، امکان همکاری ایمن‌تر انسان و ربات را فراهم می‌کند. این محصول برای خطوط تولید کوچک و ظریف بسیار مناسب است.",
+      "category": "product",
+      "published_at": "1405/07/25 12:45",
+      "collected_at": "1405/07/28 03:59",
+      "source": "ABB News",
+      "source_url": "https://new.abb.com/robotics/yumi-update",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Cobots",
+        "Electronics"
+      ]
+    },
+    {
+      "id": "ia-20251020-004",
+      "title": "راکول اتوماسیون قابلیت‌های مدیریت داده‌های لبه را تقویت کرد",
+      "summary": "شرکت راکول اتوماسیون با معرفی قابلیت‌های جدید در کنترل‌کننده‌های سری Logix، فرآیند انتقال داده از لایه OT به ابر را تسهیل کرد. این به‌روزرسانی به مهندسان اجازه می‌دهد تا تحلیل‌های پیشرفته را مستقیماً روی سخت‌افزار اجرا کنند. این حرکت گامی بزرگ در جهت دیجیتالی‌سازی سریع و هوشمند کارخانه‌هاست.",
+      "category": "product",
+      "published_at": "1405/07/25 14:00",
+      "collected_at": "1405/07/28 03:59",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/logix-edge",
+      "tags": [
+        "Rockwell Automation",
+        "Edge Computing",
+        "Logix",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20251020-005",
+      "title": "اشنایدر الکتریک راهکار جدیدی برای مدیریت ریزشبکه‌های صنعتی ارائه داد",
+      "summary": "اشنایدر الکتریک از نسخه جدید EcoStruxure Microgrid Advisor رونمایی کرد که به صنایع کمک می‌کند تا مدیریت انرژی در ریزشبکه‌های خود را بهینه کنند. این سیستم با استفاده از الگوریتم‌های هوشمند، تعادل بین تولید انرژی تجدیدپذیر و مصرف را مدیریت می‌کند. این راهکار برای کاهش هزینه‌های برق بسیار موثر است.",
+      "category": "product",
+      "published_at": "1405/07/25 15:20",
+      "collected_at": "1405/07/28 03:59",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com/microgrid-advisor",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Microgrid"
+      ]
+    },
+    {
+      "id": "ia-20251020-006",
+      "title": "همکاری استراتژیک زیمنس و تامین‌کنندگان تراشه برای هوش مصنوعی لبه",
+      "summary": "زیمنس برای تقویت قابلیت‌های پردازش در Siemens Industrial Edge، با چندین تولیدکننده پیشرو در حوزه نیمه‌هادی وارد همکاری شده است. هدف از این مشارکت، ادغام تراشه‌های اختصاصی هوش مصنوعی در سخت‌افزارهای صنعتی است. این فناوری سرعت پاسخگویی سیستم‌های کنترل و تحلیل داده را به شدت افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/25 16:40",
+      "collected_at": "1405/07/28 03:59",
+      "source": "Reuters Technology",
+      "source_url": "https://www.reuters.com/technology/siemens-ai-chips",
+      "tags": [
+        "Siemens",
+        "AI",
+        "Edge Computing",
+        "Semiconductor"
+      ]
+    },
+    {
+      "id": "ia-20251020-007",
+      "title": "رونمایی از درایوهای SINAMICS برای تولید هیدروژن سبز",
+      "summary": "زیمنس نسل جدیدی از درایوهای SINAMICS را معرفی کرد که به طور اختصاصی برای سیستم‌های الکترولیز در تولید هیدروژن سبز بهینه‌سازی شده‌اند. این درایوها با پایداری بالا در شرایط عملیاتی سخت، دقت کنترل جریان را بهبود می‌بخشند. این محصول برای گذار به انرژی‌های پاک و پایدار بسیار مهم است.",
+      "category": "product",
+      "published_at": "1405/07/25 18:00",
+      "collected_at": "1405/07/28 03:59",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/sinamics-hydrogen",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Green Hydrogen",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20251020-008",
+      "title": "گسترش سیستم کنترل فرآیند Emerson برای انرژی‌های تجدیدپذیر",
+      "summary": "شرکت امرسون قابلیت‌های جدیدی را به سیستم کنترل توزیع‌شده Ovation اضافه کرده است تا با مدیریت نیروگاه‌های خورشیدی و بادی سازگارتر باشد. این به‌روزرسانی شامل الگوریتم‌های جدید برای مدیریت نوسانات شبکه است. این اقدام باعث افزایش پایداری و کارایی سیستم‌های تولید انرژی پاک می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 19:15",
+      "collected_at": "1405/07/28 03:59",
+      "source": "Emerson Automation",
+      "source_url": "https://www.emerson.com/ovation-renewable",
+      "tags": [
+        "Emerson",
+        "DCS",
+        "Ovation",
+        "Renewable Energy"
+      ]
+    },
+    {
+      "id": "ia-20251020-009",
+      "title": "گزارش جدید درباره افزایش حملات سایبری به زیرساخت‌های OT",
+      "summary": "یک گزارش جدید از سوی موسسه امنیتی صنعتی نشان می‌دهد که حملات با هدف سیستم‌های کنترل صنعتی (ICS) در سال جاری افزایش چشمگیری داشته است. این گزارش بر آسیب‌پذیری‌های پروتکل‌های قدیمی تأکید دارد و توصیه می‌کند صنایع به سمت معماری‌های Zero Trust حرکت کنند. این موضوع توجه مدیران IT/OT را جلب کرده است.",
+      "category": "news",
+      "published_at": "1405/07/25 20:30",
+      "collected_at": "1405/07/28 03:59",
+      "source": "SANS Institute",
+      "source_url": "https://www.sans.org/ot-security-report",
+      "tags": [
+        "OT Security",
+        "ICS",
+        "Cybersecurity",
+        "Report"
+      ]
+    },
+    {
+      "id": "ia-20251020-010",
+      "title": "معرفی ماژول‌های ET 200pro زیمنس برای محیط‌های بسیار سخت",
+      "summary": "زیمنس از سری جدید ماژول‌های ورودی/خروجی ET 200pro رونمایی کرد که برای کار در محیط‌های با لرزش و دمای بسیار بالا طراحی شده‌اند. این ماژول‌ها با استانداردهای حفاظتی ارتقایافته، پایداری سیستم‌های کنترل در صنایع معدنی و نفت را تضمین می‌کنند. این محصول برای محیط‌های خشن و صنعتی ایده‌آل است.",
+      "category": "product",
+      "published_at": "1405/07/25 21:45",
+      "collected_at": "1405/07/28 03:59",
+      "source": "Siemens Industry",
+      "source_url": "https://www.siemens.com/et200pro-rugged",
+      "tags": [
+        "Siemens",
+        "ET 200pro",
+        "I/O Modules",
+        "Ruggedized"
       ]
     }
   ]
