@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 852,
+  "count": 861,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 17:02",
+  "updated_at": "1405/07/28 17:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -13656,6 +13656,141 @@
         "Manufacturing",
         "Supply Chain",
         "Germany"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول امنیتی جدید SIMATIC S7-1500 CP 1543-1 برای حفاظت از شبکه های صنعتی",
+      "summary": "شرکت زیمنس از ماژول ارتباطی و امنیتی جدید SIMATIC S7-1500 CP 1543-1 رونمایی کرد که برای ارتقای امنیت سایبری در لایه کنترل طراحی شده است. این ماژول با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته و فایروالپارچه‌سازی شده، مانع از دسترسی‌های غیرمجاز به کنترل‌کننده‌های صنعتی می‌شود. این راهکار به مهندسان کمک می‌کند تا استانداردهای امنیتی IEC 62443 را به راحتی در خطوط تولید پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/28 17:04",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500-cp-1543-1-security",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Industrial Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های نرم‌افزار مانیتورینگ SIMATIC WinCC Unified V19 با ابزارهای تحلیل ابری",
+      "summary": "زیمنس نسخه به‌روزرسانی‌شده نرم‌افزار مانیتورینگ و اسکادا SIMATIC WinCC Unified V19 را با تمرکز بر تحلیل ابری داده‌های تولید عرضه کرد. این نسخه جدید امکان اتصال مستقیم اپراتورها به پلتفرم Xcelerator را فراهم کرده و داشبوردهای تعاملی جدیدی را ارائه می‌دهد. این تحول باعث کاهش زمان عیب‌یابی خطوط تولید تا سی درصد و بهبود تصمیم‌گیری مدیران کارخانه خواهد شد.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 17:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/scada/article/siemens-releases-wincc-unified-v19-cloud-analytics",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه ماژول‌های ورودی/خروجی فشرده ET 200AL زیمنس برای محیط‌های سخت کارگاهی",
+      "summary": "زیمنس سبد محصولات غیرمتمرکز خود را با معرفی ماژول‌های I/O مقاوم سری SIMATIC ET 200AL گسترش داد که دارای درجه حفاظت IP65/67 هستند. این ماژول‌ها بدون نیاز به تابلو برق و مستقیماً روی بدنه ماشین‌آلات نصب می‌شوند تا سیم‌کشی صنعتی را ساده‌تر کنند. این طراحی نوین هزینه‌های نصب و راه‌اندازی خطوط اتوماسیون را به طور چشمگیری کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/28 10:45",
+      "collected_at": "1405/07/28 17:04",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/siemens-expands-et-200al-io-modules-harsh-environments",
+      "tags": [
+        "Siemens",
+        "ET 200AL",
+        "Fieldbus"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای سیستم CNC زیمنس Sinumerik One برای ماشین‌کاری دقیق قطعات هوافضا",
+      "summary": "زیمنس قابلیت‌های جدیدی را به سیستم کنترل عددی Sinumerik One اضافه کرد که برای صنایع هوافضا و ساخت قالب‌های پیچیده بهینه‌سازی شده است. این نسخه جدید با پشتیبانی از دوقلوهای دیجیتال پیشرفته، امکان شبیه‌سازی دقیق براده‌برداری را قبل از اجرای واقعی فراهم می‌کند. این فناوری ضایعات مواد اولیه را کاهش داده و دقت ماشین‌کاری را به سطوح بی‌سابقه‌ای می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/28 11:30",
+      "collected_at": "1405/07/28 17:04",
+      "source": "Manufacturing Engineering",
+      "source_url": "https://www.mfgeng.com/aerospace/siemens-updates-sinumerik-one-cnc-aerospace-machining",
+      "tags": [
+        "Siemens",
+        "Sinumerik One",
+        "CNC"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی کنترل‌کننده دور موتور SINAMICS G120X با استانداردهای جدید بهره‌وری انرژی",
+      "summary": "شرکت زیمنس نسل جدید درایوهای فرکانس متغیر SINAMICS G120X را با تمرکز بر کاربردهای صنعت آب و فاضلاب و تهویه مطبوع معرفی کرد. این اینورترها با موتورهای همگام راندمان بالا کاملاً سازگار بوده و تلفات انرژی را در پمپ‌ها و فن‌ها به حداقل می‌رسانند. این تجهیزات مجهز به پورت‌های ارتباطی PROFINET برای اتصال آسان به شبکه اتوماسیون کارخانه هستند.",
+      "category": "product",
+      "published_at": "1405/07/28 12:15",
+      "collected_at": "1405/07/28 17:04",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/drives/siemens-launches-sinamics-g120x-energy-efficiency",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "گسترش سیستم کنترل فرآیند SIMATIC PCS neo برای صنایع شیمیایی پیوسته",
+      "summary": "زیمنس نسخه جدید پلتفرم کنترل فرآیند مبتنی بر وب SIMATIC PCS neo را با قابلیت‌های مقیاس‌پذیری ابری عرضه کرد. این سیستم به مهندسین فرآیند اجازه می‌دهد تا از هر نقطه‌ای در جهان به صورت همزمان روی پروژه‌های بزرگ پالایشگاهی کار کنند. معماری بومی وب این پلتفرم امنیت و یکپارچگی داده‌ها را در مقیاس‌های صنعتی کلان تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 13:00",
+      "collected_at": "1405/07/28 17:04",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/siemens-updates-simatic-pcs-neo-process-control",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه ابزارهای هوش مصنوعی مولد در Siemens Industrial Copilot برای برنامه‌نویسی PLC",
+      "summary": "زیمنس قابلیت‌های جدیدی مبتنی بر هوش مصنوعی مولد را به دستیار مهندسی Industrial Copilot اضافه کرد تا فرآیند کدنویسی TIA Portal تسریع شود. این ابزار قادر است کدهای ساختاریافته SCL را به صورت خودکار بر اساس توصیفات متنی مهندسان تولید کند. این فناوری نوآورانه زمان توسعه پروژه‌های اتوماسیون صنعتی را تا چهل درصد کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/28 14:20",
+      "collected_at": "1405/07/28 17:04",
+      "source": "IoT Analytics",
+      "source_url": "https://iot-analytics.com/siemens-expands-industrial-copilot-ai-coding",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی گیت‌وی لبه صنعتی SIMATIC IPC Industrial Edge Device با قابلیت پردازش محلی",
+      "summary": "زیمنس سخت‌افزار جدیدی را برای اجرای اپلیکیشن‌های لبه (Edge) تحت عنوان SIMATIC IPC Edge به بازار عرضه کرد. این دستگاه قدرتمند به خطوط تولید اجازه می‌دهد تا داده‌های سنسورها را پیش از ارسال به ابر در محل پردازش کنند. این راهکار تاخیر شبکه را از بین برده و امنیت اطلاعات حساس تولید را به حداکثر می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/28 15:10",
+      "collected_at": "1405/07/28 17:04",
+      "source": "Embedded Computing",
+      "source_url": "https://www.embedded-computing.com/siemens-launches-simatic-ipc-industrial-edge-device",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "IPC"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "همکاری زیمنس و دانشگاه صنعتی مونیخ برای توسعه پژوهش‌های رباتیک شناختی",
+      "summary": "شرکت زیمنس با همکاری دانشگاه صنعتی مونیخ، آزمایشگاه تخصصی جدیدی برای توسعه الگوریتم‌های رباتیک شناختی در محیط‌های صنعتی افتتاح کرد. هدف این پروژه ساخت بازوهای رباتیکی است که بتوانند با استفاده از بینایی ماشین پیشرفته، وظایف مونتاژ پیچیده را بدون برنامه‌نویسی قبلی یاد بگیرند. این دستاوردها گامی بزرگ در جهت انعطاف‌پذیری بیشتر کارخانه‌های نسل آینده محسوب می‌شود.",
+      "category": "research",
+      "published_at": "1405/07/28 16:00",
+      "collected_at": "1405/07/28 17:04",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/siemens-tum-cognitive-robotics-lab",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "Research"
       ]
     }
   ]
