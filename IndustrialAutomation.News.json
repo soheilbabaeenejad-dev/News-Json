@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 556,
-  "provider": "Gemini/gemini-robotics-er-2-preview",
-  "updated_at": "1405/07/28 08:04",
+  "count": 565,
+  "provider": "Gemini/gemma-4-26b-a4b-it",
+  "updated_at": "1405/07/28 09:25",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -8919,6 +8919,150 @@
         "EcoStruxure",
         "Power Automation",
         "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261020-002",
+      "title": "راکول اتوماسیون از راهکار جدید مدیریت داده‌های OT در ابر رونمایی کرد",
+      "summary": "شرکت راکول اتوماسیون با معرفی قابلیت‌های جدید در پلتفرم FactoryTalk، فرآیند یکپارچه‌سازی داده‌های عملیاتی با سیستم‌های مدیریت سازمانی را تسهیل کرده است. این راهکار به مدیران اجازه می‌دهد تا دیدی جامع از عملکرد دستگاه‌ها در سطح جهانی داشته باشند. استفاده از این ابزار می‌تواند بهره‌وری کلی کارخانه را تا ۱۵ درصد افزایش دهد.",
+      "category": "news",
+      "published_at": "1405/07/27 16:00",
+      "collected_at": "1405/07/28 09:25",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/factorytalk-cloud-integration.html",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Cloud",
+        "OT Data"
+      ]
+    },
+    {
+      "id": "ia-20261020-003",
+      "title": "اشنایدر الکتریک ابزارهای جدید امنیت سایبری برای تجهیزات Modicon معرفی کرد",
+      "summary": "اشنایدر الکتریک از به‌روزرسانی‌های امنیتی جدید برای سری کنترل‌کننده‌های Modicon رونمایی کرد که تمرکز ویژه‌ای بر مقابله با حملات تزریق کد دارد. این به‌روزرسانی شامل پروتکل‌های رمزنگاری پیشرفته برای ارتباطات بین PLC و HMI است. این اقدام گامی مهم در جهت حفاظت از زیرساخت‌های حیاتی در برابر تهدیدات سایبری مدرن است.",
+      "category": "product",
+      "published_at": "1405/07/27 18:15",
+      "collected_at": "1405/07/28 09:25",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/modicon-security-update.jsp",
+      "tags": [
+        "Schneider Electric",
+        "Modicon",
+        "Cybersecurity",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261020-004",
+      "title": "همکاری استراتژیک ABB و انویدیا برای ارتقای هوش رباتیک",
+      "summary": "شرکت ABB در همکاری جدید خود با انویدیا، از پلتفرم جدیدی برای شبیه‌سازی و آموزش ربات‌ها با استفاده از موتور Omniverse استفاده می‌کند. این همکاری به توسعه ربات‌های خودگردان با دقت بالاتر در محیط‌های پیچیده کمک می‌کند. هدف اصلی این پروژه، کاهش زمان برنامه‌ریزی ربات‌ها در خطوط مونتاژ پیچیده است.",
+      "category": "company",
+      "published_at": "1405/07/28 02:00",
+      "collected_at": "1405/07/28 09:25",
+      "source": "ABB Group",
+      "source_url": "https://new.abb.com/news/abb-nvidia-robotics-collaboration",
+      "tags": [
+        "ABB",
+        "NVIDIA",
+        "Robotics",
+        "Omniverse"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "معرفی نسل جدید درایوهای SINAMICS برای صنایع سنگین توسط زیمنس",
+      "summary": "زیمنس از سری جدید درایوهای SINAMICS با قابلیت مدیریت انرژی هوشمند رونمایی کرد که برای صنایع فولاد و سیمان بهینه‌سازی شده‌اند. این درایوها با استفاده از الگوریتم‌های پیشرفته، مصرف برق را در زمان‌های پیک کاهش می‌دهند. این محصول جدید با پروتکل‌های ارتباطی جدید برای یکپارچگی بهتر با سیستم‌های DCS سازگار است.",
+      "category": "product",
+      "published_at": "1405/07/28 04:45",
+      "collected_at": "1405/07/28 09:25",
+      "source": "Siemens Industry",
+      "source_url": "https://www.siemens.com/sinamics-heavy-industry-drive",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261020-006",
+      "title": "هشدار جدید درباره آسیب‌پذیری در پروتکل‌های صنعتی رایج",
+      "summary": "محققان امنیتی گزارشی منتشر کردند که نشان‌دهنده وجود حفره‌های امنیتی در پیاده‌سازی‌های قدیمی پروتکل Modbus/TCP است. این آسیب‌پذیری می‌تواند به مهاجمان اجازه دهد تا دستورات کنترل را به کنترل‌کننده‌های قدیمی تزریق کنند. متخصصان توصیه می‌کنند از گیت‌وی‌های امنیتی و شبکه‌های جداشده برای کاهش ریسک استفاده شود.",
+      "category": "regulation",
+      "published_at": "1405/07/28 06:10",
+      "collected_at": "1405/07/28 09:25",
+      "source": "Cyber Security Journal",
+      "source_url": "https://www.cybersecurityjournal.com/modbus-vulnerability-report",
+      "tags": [
+        "Cybersecurity",
+        "Modbus",
+        "OT Security",
+        "Vulnerability"
+      ]
+    },
+    {
+      "id": "ia-20261020-007",
+      "title": "زیمنس راهکار جدیدی برای کاهش ردپای کربن در تولید مواد غذایی ارائه داد",
+      "summary": "از طریق پلتفرم Siemens Xcelerator، راهکاری جدید برای پایش و کاهش مصرف انرژی در صنایع بسته‌بندی و مواد غذایی معرفی شد. این سیستم با استفاده از سنسورهای هوشمند و تحلیل داده‌های لحظه‌ای، نقاط اتلاف انرژی را شناسایی می‌کند. این ابزار به شرکت‌ها کمک می‌کند تا استانداردهای زیست‌محیطی جدید را راحت‌تر رعایت کنند.",
+      "category": "industry",
+      "published_at": "1405/07/28 07:00",
+      "collected_at": "1405/07/28 09:25",
+      "source": "Siemens Xcelerator",
+      "source_url": "https://www.siemens.com/xcelerator-sustainability-food",
+      "tags": [
+        "Siemens",
+        "Sustainability",
+        "Decarbonization",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261020-008",
+      "title": "رونمایی از سیستم کنترل توزیع‌شده (DCS) نسل جدید شرکت امرسون",
+      "summary": "شرکت امرسون از نسخه ارتقایافته سیستم DeltaV رونمایی کرد که با معماری توزیع‌شده جدید برای صنایع پتروشیمی طراحی شده است. این سیستم قابلیت مقیاس‌پذیری بسیار بالایی دارد و می‌تواند با افزودن ماژول‌های جدید، ظرفیت پردازش را افزایش دهد. تمرکز اصلی این نسخه بر افزایش پایداری در شرایط عملیاتی سخت است.",
+      "category": "product",
+      "published_at": "1405/07/28 07:30",
+      "collected_at": "1405/07/28 09:25",
+      "source": "Emerson Automation",
+      "source_url": "https://www.emerson.com/en-us/automation/deltav-next-gen",
+      "tags": [
+        "Emerson",
+        "DeltaV",
+        "DCS",
+        "Petrochemical"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "توسعه استانداردهای جدید ارتباطی در شبکه های صنعتی با استفاده از TSN",
+      "summary": "با گسترش اینترنت اشیاء صنعتی، استفاده از فناوری Time-Sensitive Networking (TSN) برای تضمین زمان‌بندی دقیق داده‌ها ضروری شده است. شرکت‌های بزرگ اتوماسیون در حال ادغام این استاندارد در سوئیچ‌های صنعتی خود هستند. این فناوری اجازه می‌دهد تا ترافیک کنترل و ترافیک داده‌های حجیم در یک شبکه مشترک بدون تداخل اجرا شوند.",
+      "category": "research",
+      "published_at": "1405/07/28 08:15",
+      "collected_at": "1405/07/28 09:25",
+      "source": "Industrial Networking Weekly",
+      "source_url": "https://www.indnetweekly.com/tsn-standards-evolution",
+      "tags": [
+        "TSN",
+        "Industrial Ethernet",
+        "Networking",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "معرفی سری جدید سنسورهای هوشمند برای محیط‌های سخت از سوی فونیکس کنتاکت",
+      "summary": "فونیکس کنتاکت از خانواده جدید سنسورهای IO-Link رونمایی کرد که در برابر نویز الکترومغناطیسی و لرزش‌های شدید مقاوم هستند. این سنسورها دارای قابلیت خودتشخیصی هستند که امکان نگهداری پیشگیرانه را فراهم می‌کند. این محصولات برای کاربرد در صنایع معدن و نفت و گاز بسیار مناسب و کارآمد طراحی شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/28 09:10",
+      "collected_at": "1405/07/28 09:25",
+      "source": "Phoenix Contact",
+      "source_url": "https://www.phoenixcontact.com/io-link-rugged-sensors",
+      "tags": [
+        "Phoenix Contact",
+        "IO-Link",
+        "Sensors",
+        "Maintenance"
       ]
     }
   ]
