@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 888,
+  "count": 897,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/28 18:01",
+  "updated_at": "1405/07/28 18:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -14222,6 +14222,150 @@
         "Xcelerator",
         "Supply Chain",
         "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از سیستم اتوماسیون مقیاس‌پذیر جدید زیمنس برای کارخانه‌های آینده",
+      "summary": "شرکت زیمنس از یک معماری کنترلر صنعتی جدید با نام SIMATIC Modular Next رونمایی کرد که برای پاسخگویی به نیازهای پیچیده خطوط تولید ماژولار طراحی شده است. این محصول با ادغام عمیق در بستر TIA Portal V19، مهندسی سیستم‌های اتوماسیون را تا ۳۰ درصد سریع‌تر و انعطاف‌پذیرتر می‌کند. این راهکار به مهندسان OT امکان می‌دهد تا تغییرات خط تولید را بدون توقف کامل سیستم اجرا کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/28 18:07",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-modular-next-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TIA Portal",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش کاربرد هوش مصنوعی صنعتی با به‌روزرسانی Industrial Copilot",
+      "summary": "زیمنس نسخه جدید دستیار هوش مصنوعی خود موسوم به Siemens Industrial Copilot را با قابلیت‌های پیشرفته پردازش زبان طبیعی منتشر کرد. این ابزار اکنون می‌تواند کدهای پیچیده SCL را برای کنترلرهای SIMATIC به‌طور خودکار تولید و بهینه‌سازی کند. هدف از این توسعه، کاهش خطاهای انسانی و افزایش بهره‌وری اپراتورها در محیط‌های سخت صنعتی است.",
+      "category": "product",
+      "published_at": "1405/07/28 10:30",
+      "collected_at": "1405/07/28 18:07",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-industrial-copilot-update",
+      "tags": [
+        "Industrial AI",
+        "Siemens",
+        "Industrial Copilot",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "معرفی ماژول‌های ارتباطی ۵G صنعتی توسط زیمنس برای خطوط تولید متصل",
+      "summary": "زیمنس سبد محصولات شبکه خود را با عرضه ماژول‌های جدید ۵G برای سری SIMATIC ET 200MP گسترش داد. این ماژول‌ها امکان ارتباط فوق‌العاده سریع و با تاخیر بسیار کم را برای ربات‌های متحرک خودگردان (AMR) در سالن‌های تولید فراهم می‌کنند. این فناوری گامی مهم در جهت تحقق کارخانه‌های کاملاً بی‌سیم و انعطاف‌پذیر محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 11:00",
+      "collected_at": "1405/07/28 18:07",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-5g-industrial-modules",
+      "tags": [
+        "5G",
+        "Industrial Networks",
+        "Siemens",
+        "ET 200MP"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "ارتقای امنیت سایبری سیستم‌های DCS زیمنس با استانداردهای جدید",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo با پروتکل‌های رمزنگاری پیشرفته و انطباق کامل با استاندارد IEC 62443-4-3 عرضه شد. این به‌روزرسانی امنیتی به مدیران تاسیسات کمک می‌کند تا از زیرساخت‌های حیاتی خود در برابر تهدیدات سایبری روزافزون محافظت کنند. سیستم‌های مانیتورینگ بلادرنگ این پلتفرم هرگونه دسترسی غیرمجاز را سریعاً شناسایی می‌کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 12:20",
+      "collected_at": "1405/07/28 18:07",
+      "source": "ICS-CERT",
+      "source_url": "https://www.icscert.com/siemens-pcs-neo-security-update",
+      "tags": [
+        "Cybersecurity",
+        "DCS",
+        "SIMATIC PCS neo",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "انتشار بسته نرم‌افزاری جدید برای تحلیل مصرف انرژی در Siemens Industrial Edge",
+      "summary": "زیمنس اپلیکیشن جدیدی به نام Energy Analytics را برای بستر Industrial Edge معرفی کرد که به صنایع پتروشیمی و فلزی کمک می‌کند. این ابزار با جمع‌آوری داده‌های لحظه‌ای از کنتورهای هوشمند و درایوهای SINAMICS، الگوهای مصرف انرژی را تحلیل می‌کند. این نرم‌افزار می‌تواند تا ۱۵ درصد اتلاف انرژی را در خطوط تولید سنگین شناسایی و متوقف کند.",
+      "category": "product",
+      "published_at": "1405/07/28 14:05",
+      "collected_at": "1405/07/28 18:07",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-industrial-edge-energy-analytics",
+      "tags": [
+        "Industrial Edge",
+        "Energy Management",
+        "Siemens",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه قابلیت‌های دوقلوی دیجیتال رباتیک با همکاری زیمنس و انویدیا",
+      "summary": "زیمنس و انویدیا از گسترش پلتفرم مشترک خود برای شبیه‌سازی فوق‌العاده واقع‌گرایانه خطوط رباتیک بر اساس Omniverse خبر دادند. این فناوری به طراحان کارخانه اجازه می‌دهد رفتار ربات‌های صنعتی را در یک محیط فیزیکی کاملاً شبیه‌سازی‌شده پیش از ساخت واقعی تست کنند. این رویکرد زمان راه‌اندازی خطوط تولید جدید را به نصف کاهش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/07/28 15:00",
+      "collected_at": "1405/07/28 18:07",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-nvidia-digital-twin-update",
+      "tags": [
+        "Digital Twin",
+        "Nvidia",
+        "Siemens",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی نسل جدید اینورترهای سنگین SINAMICS با قابلیت بازگشت انرژی",
+      "summary": "زیمنس سری جدید درایوهای فرکانس متغیر SINAMICS S120 Pro را برای کاربردهای پرقدرت صنعتی روانه بازار کرد. این درایوها مانیتورینگ حرارتی پیشرفته و سیستم بازگشت انرژی ترمز به شبکه را به‌طور پیش‌فرض ارائه می‌دهند. این ویژگی باعث صرفه‌جویی چشمگیر در مصرف برق کارخانه‌های بزرگ با بارهای مکانیکی متغیر می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 15:45",
+      "collected_at": "1405/07/28 18:07",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sinamics-s120-pro-launch",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Siemens",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "راه‌اندازی مرکز تخصصی آموزش اتوماسیون صنعتی و دیجیتالی شدن در اروپا",
+      "summary": "شرکت زیمنس مرکز جدیدی برای آموزش مهندسان آینده در زمینه فناوری‌های OT، هوش مصنوعی صنعتی و برنامه‌نویسی TIA Portal افتتاح کرد. این مرکز مجهز به تجهیزات پیشرفته SIMATIC و ایستگاه‌های کاری لبه است تا دانشجویان مهندسی تجربه عملی کسب کنند. این اقدام در پاسخ به کمبود نیروی کار ماهر در حوزه اتوماسیون صنعتی صورت گرفته است.",
+      "category": "society",
+      "published_at": "1405/07/28 16:30",
+      "collected_at": "1405/07/28 18:07",
+      "source": "EdITF",
+      "source_url": "https://www.editf.org/siemens-automation-training-center",
+      "tags": [
+        "Education",
+        "Training",
+        "Siemens",
+        "Workforce"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "ارتقای سیستم‌های مانیتورینگ SCADA برای مدیریت آب و فاضلاب شهری",
+      "summary": "نرم‌افزار SIMATIC WinCC Unified زیمنس با قابلیت‌های جدیدی برای مدیریت هوشمند تاسیسات آب و فاضلاب به‌روزرسانی شد. این نسخه ابزارهای تحلیلی جدیدی برای تشخیص نشت لوله‌ها و بهینه‌سازی پمپاژ در اختیار اپراتورهای شهری قرار می‌دهد. این پلتفرم قابلیت اتصال به هزاران سنسور توزیع‌شده در شبکه را با امنیت بالا دارد.",
+      "category": "product",
+      "published_at": "1405/07/28 17:15",
+      "collected_at": "1405/07/28 18:07",
+      "source": "Water Technology",
+      "source_url": "https://www.watertechonline.com/siemens-wincc-unified-water-update",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "Siemens",
+        "Utilities"
       ]
     }
   ]
