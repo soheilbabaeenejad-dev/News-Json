@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1163,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 15:03",
+  "count": 1173,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/07/29 15:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18580,6 +18580,157 @@
         "SCADA",
         "HMI",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241020-001",
+      "title": "معرفی ماژول‌های جدید هوش مصنوعی برای SIMATIC S7-1500",
+      "summary": "زیمنس از ماژول‌های پردازش هوش مصنوعی جدید برای کنترل‌کننده‌های سری SIMATIC S7-1500 رونمایی کرد. این ماژول‌ها امکان اجرای مدل‌های یادگیری ماشین را به صورت مستقیم در سطح کنترلر فراهم می‌کنند. این فناوری به صنایع اجازه می‌دهد تا بدون نیاز به سرورهای خارجی، عیب‌یابی پیش‌بینانه را با سرعت بسیار بالا انجام دهند.",
+      "category": "product",
+      "published_at": "1403/07/29 09:15",
+      "collected_at": "1405/07/29 15:08",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "AI",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20241020-002",
+      "title": "ارتقای پلتفرم Siemens Xcelerator با قابلیت‌های جدید تحلیل داده",
+      "summary": "شرکت زیمنس قابلیت‌های تحلیل داده‌های حجیم را به پلتفرم Siemens Xcelerator اضافه کرد. این به‌روزرسانی به مهندسان کمک می‌کند تا دوقلوهای دیجیتال پیچیده را با دقت بیشتری شبیه‌سازی کنند. هدف از این اقدام، کاهش زمان طراحی خطوط تولید و بهینه‌سازی مصرف انرژی در کارخانه‌های هوشمند است.",
+      "category": "industry",
+      "published_at": "1403/07/29 10:05",
+      "collected_at": "1405/07/29 15:08",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.siemens.com/xcelerator",
+      "tags": [
+        "Xcelerator",
+        "Digital Twin",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20241020-003",
+      "title": "همکاری زیمنس و انویدیا برای توسعه رباتیک خودمختار",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه ربات‌های خودمختار مبتنی بر هوش مصنوعی گسترش دادند. این همکاری بر استفاده از پلتفرم Omniverse برای شبیه‌سازی رفتارهای رباتیک در محیط‌های صنعتی تمرکز دارد. این پروژه به کاهش خطرات عملیاتی و افزایش بهره‌وری در خطوط مونتاژ خودکار کمک شایانی می‌کند.",
+      "category": "match",
+      "published_at": "1403/07/29 11:20",
+      "collected_at": "1405/07/29 15:08",
+      "source": "TechCrunch Industrial",
+      "source_url": "https://www.nvidia.com/en-us/industries/industrial-digital-twins/",
+      "tags": [
+        "Nvidia",
+        "Robotics",
+        "Collaboration"
+      ]
+    },
+    {
+      "id": "ia-20241020-004",
+      "title": "انتشار وصله امنیتی برای سیستم‌های کنترل فرآیند PCS 7",
+      "summary": "زیمنس یک وصله امنیتی حیاتی برای سیستم‌های کنترل توزیع‌شده PCS 7 منتشر کرد. این به‌روزرسانی آسیب‌پذیری‌های شناسایی شده در پروتکل‌های ارتباطی شبکه را برطرف می‌کند. تمامی اپراتورهای صنایع نفت و گاز ملزم به نصب این بسته برای جلوگیری از حملات سایبری احتمالی به زیرساخت‌های OT هستند.",
+      "category": "regulation",
+      "published_at": "1403/07/29 12:00",
+      "collected_at": "1405/07/29 15:08",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://cert-portal.siemens.com/",
+      "tags": [
+        "Security",
+        "PCS7",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20241020-005",
+      "title": "معرفی درایوهای جدید SINAMICS G220 با بهره‌وری انرژی بالا",
+      "summary": "زیمنس درایوهای فرکانس متغیر SINAMICS G220 را با تمرکز بر بهره‌وری انرژی معرفی کرد. این درایوها برای کاربردهای سنگین صنعتی طراحی شده‌اند و قابلیت‌های پیشرفته‌ای برای مانیتورینگ وضعیت موتور دارند. این محصول جدید به کاهش هزینه‌های عملیاتی و افزایش طول عمر تجهیزات دوار در کارخانه‌ها کمک می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/29 12:45",
+      "collected_at": "1405/07/29 15:08",
+      "source": "Automation World",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics.html",
+      "tags": [
+        "Drives",
+        "SINAMICS",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20241020-006",
+      "title": "توسعه قابلیت‌های Industrial Edge برای مدیریت کانتینرها",
+      "summary": "زیمنس قابلیت‌های مدیریت کانتینری را در پلتفرم Industrial Edge بهبود بخشید. این ارتقا به کاربران اجازه می‌دهد تا اپلیکیشن‌های صنعتی را به صورت مقیاس‌پذیر در سراسر کارخانه مستقر کنند. این سیستم اکنون از استانداردهای کوبرنتیز برای مدیریت بهتر منابع محاسباتی در لبه شبکه پشتیبانی می‌کند.",
+      "category": "topic",
+      "published_at": "1403/07/29 13:10",
+      "collected_at": "1405/07/29 15:08",
+      "source": "Edge Computing Journal",
+      "source_url": "https://www.siemens.com/industrial-edge",
+      "tags": [
+        "Industrial Edge",
+        "Kubernetes",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20241020-007",
+      "title": "رونمایی از نسل جدید سنسورهای هوشمند برای صنایع غذایی",
+      "summary": "زیمنس نسل جدید سنسورهای هوشمند خود را با قابلیت شستشوی صنعتی معرفی کرد. این سنسورها برای محیط‌های بهداشتی طراحی شده‌اند و داده‌های دقیقی از فرآیند تولید ارائه می‌دهند. این تجهیزات با پلتفرم‌های مانیتورینگ زیمنس کاملاً سازگار بوده و به بهبود کیفیت محصولات نهایی کمک می‌کنند.",
+      "category": "product",
+      "published_at": "1403/07/29 13:40",
+      "collected_at": "1405/07/29 15:08",
+      "source": "Food Processing Tech",
+      "source_url": "https://new.siemens.com/global/en/products/automation/sensors.html",
+      "tags": [
+        "Sensors",
+        "Food Industry",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241020-008",
+      "title": "گسترش همکاری با آمازون برای تحلیل داده‌های صنعتی",
+      "summary": "زیمنس و آمازون همکاری خود را برای ادغام پلتفرم Insights Hub با سرویس‌های ابری AWS گسترش دادند. این همکاری به شرکت‌های تولیدی اجازه می‌دهد تا داده‌های عملیاتی خود را با سرعت بیشتری در فضای ابری تحلیل کنند. این زیرساخت جدید، امکان پیش‌بینی خرابی ماشین‌آلات را با دقت بالاتری فراهم می‌سازد.",
+      "category": "match",
+      "published_at": "1403/07/29 14:15",
+      "collected_at": "1405/07/29 15:08",
+      "source": "Cloud Industrial News",
+      "source_url": "https://aws.amazon.com/partners/siemens/",
+      "tags": [
+        "AWS",
+        "Insights Hub",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "id": "ia-20241020-009",
+      "title": "معرفی سیستم جدید مدیریت انرژی برای ساختمان‌های صنعتی",
+      "summary": "زیمنس راهکار جامع مدیریت انرژی را برای ساختمان‌های صنعتی بزرگ عرضه کرد. این سیستم با استفاده از هوش مصنوعی، مصرف برق را در زمان‌های اوج بار بهینه می‌کند. این اقدام بخشی از استراتژی زیمنس برای کاهش ردپای کربنی صنایع و حرکت به سمت تولید پایدار در سطح جهانی است.",
+      "category": "industry",
+      "published_at": "1403/07/29 14:40",
+      "collected_at": "1405/07/29 15:08",
+      "source": "Energy Management Today",
+      "source_url": "https://new.siemens.com/global/en/company/sustainability.html",
+      "tags": [
+        "Sustainability",
+        "Energy",
+        "Smart Building"
+      ]
+    },
+    {
+      "id": "ia-20241020-010",
+      "title": "به‌روزرسانی نرم‌افزار TIA Portal برای پشتیبانی از پروتکل‌های جدید",
+      "summary": "نسخه جدید نرم‌افزار TIA Portal با پشتیبانی از پروتکل‌های ارتباطی پیشرفته منتشر شد. این به‌روزرسانی یکپارچه‌سازی تجهیزات جانبی را در پروژه‌های اتوماسیون تسهیل می‌کند. مهندسان اکنون می‌توانند با استفاده از ابزارهای جدید، عیب‌یابی شبکه‌های صنعتی را در زمان کوتاه‌تری انجام دهند.",
+      "category": "product",
+      "published_at": "1403/07/29 15:00",
+      "collected_at": "1405/07/29 15:08",
+      "source": "Siemens Software Updates",
+      "source_url": "https://support.industry.siemens.com/",
+      "tags": [
+        "TIA Portal",
+        "Software",
+        "Automation"
       ]
     }
   ]
