@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1176,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/07/29 17:32",
+  "count": 1185,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/29 18:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18773,6 +18773,159 @@
         "Cybersecurity",
         "CISA",
         "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های تحلیل پیشرفته در نرم‌افزار مهندسی TIA Portal V19 SP1",
+      "summary": "نسخه اصلاح‌شده TIA Portal V19 SP1 توسط زیمنس عرضه شد که ابزارهای عیب‌یابی خودکار و تست مجازی کدهای PLC را به طور قابل توجهی بهبود می‌بخشد. این به‌روزرسانی با هدف کاهش زمان راه‌اندازی پروژه‌های اتوماسیون صنعتی و افزایش بهره‌برداری از مهندسی همزمان طراحی شده است. کاربران اکنون می‌توانند پیچیده‌ترین پروژه‌های کنترل صنعتی را با دقت بالاتر و خطاهای کمتری شبیه‌سازی و پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:15",
+      "collected_at": "1405/07/29 18:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-tia-portal-v19-sp1-release",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "PLC",
+        "Engineering",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری استراتژیک زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط مونتاژ",
+      "summary": "زیمنس و شرکت فستو تفاهم‌نامه همکاری جدیدی را برای یکپارچه‌سازی تجهیزات پنوماتیک با پلتفرم‌های اتوماسیون دیجیتال زیمنس امضا کردند. این مشارکت به تولیدکنندگان اجازه می‌دهد وضعیت مصرف هوای فشرده و سلامت شیرهای پنوماتیک را به صورت بلادرنگ از طریق سیستم‌های SIMATIC مانیتور کنند. هدف از این پروژه، کاهش اتلاف انرژی و بهینه‌سازی مصرف منابع در کارخانه‌های خودروسازی و بسته‌بندی است.",
+      "category": "match",
+      "published_at": "1405/07/29 10:00",
+      "collected_at": "1405/07/29 18:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-pneumatics-automation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Energy Management",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه نسل جدید سافت‌استارترهای ایمن سری SIRIUS 3RW55 با پروتکل‌های ارتباطی پیشرفته",
+      "summary": "شرکت زیمنس سبد محصولات کنترل موتور خود را با معرفی مدل‌های پیشرفته SIRIUS 3RW55 توسعه داد که از پروتکل‌های ارتباطی پروفینت و مودباس به صورت پیش‌فرض پشتیبانی می‌کنند. این تجهیزات حفاظت همه‌جانبه‌ای را برای موتورهای الکتریکی سنگین فراهم کرده و از توقف‌های ناخواسته خطوط تولید جلوگیری می‌کنند. مهندسان برق صنعتی می‌توانند به کمک این درایوهای نرم، طول عمر تجهیزات دوار را به شکل چشمگیری افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/29 11:20",
+      "collected_at": "1405/07/29 18:01",
+      "source": "IEB",
+      "source_url": "https://www.iebmedia.com/siemens-sirius-3rw55-soft-starters",
+      "tags": [
+        "Siemens",
+        "SIRIUS",
+        "Motor Control",
+        "PROFINET",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای امنیت شبکه‌های صنعتی با عرضه فایروال‌های سخت‌افزاری جدید Scalance SC-600",
+      "summary": "زیمنس از سری جدید فایروال‌های صنعتی Scalance SC-600 با قابلیت‌های رمزنگاری پیشرفته و بازرسی عمیق بسته‌ها (DPI) رونمایی کرد. این تجهیزات امنیتی برای محافظت از شبکه‌های اتوماسیون در برابر تهدیدات سایبری فزاینده و حملات به لایه صنعتی طراحی شده‌اند. با استفاده از این راهکار، مدیران شبکه می‌توانند بخش‌های مختلف OT را به شکلی مطمئن از دسترسی‌های غیرمجاز ایزوله کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 12:45",
+      "collected_at": "1405/07/29 18:01",
+      "source": "Automation Magazine",
+      "source_url": "https://www.automation.com/siemens-scalance-sc600-firewalls",
+      "tags": [
+        "Siemens",
+        "Scalance",
+        "Cybersecurity",
+        "Industrial Network",
+        "Firewall"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه راهکار مدیریت انرژی ابری برای صنایع فرآیندی مبتنی بر Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به قابلیت‌های جدیدی برای تحلیل مصرف انرژی در صنایع پتروشیمی و سیمان مجهز شد. این سیستم با جمع‌آوری داده‌های مصرف از کنتورهای هوشمند و سیستم‌های DCS، الگوهای بهینه‌سازی مصرف برق را به اپراتورها پیشنهاد می‌دهد. این راهکار ابری نقش کلیدی در کمک به کارخانه‌ها برای دستیابی به اهداف کربن‌زدایی و کاهش هزینه‌های عملیاتی ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 13:30",
+      "collected_at": "1405/07/29 18:01",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-insights-hub-energy-management",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Energy",
+        "Cloud",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی پنل‌های اپراتوری جدید SIMATIC HMI Unified Comfort با قابلیت‌های چندرسانه‌ای",
+      "summary": "زیمنس سری جدید پنل‌های اپراتوری SIMATIC HMI Unified Comfort را با نمایشگرهای لمسی خازنی و سیستم‌عامل مبتنی auf HTML5 روانه بازار کرد. این پنل‌ها ارتباط بصری روان‌تری را برای اپراتورهای خطوط تولید فراهم کرده و امکان اجرای اپلیکیشن‌های تحت وب را مستقیماً بر روی دستگاه ایجاد می‌کنند. این محصول استانداردهای جدیدی را در زمینه طراحی رابط کاربری ماشین‌آلات صنعتی و ارتقای تجربه کاربر تعریف می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 14:10",
+      "collected_at": "1405/07/29 18:01",
+      "source": "Control Design",
+      "source_url": "https://www.controldesign.com/siemens-simatic-hmi-unified-comfort",
+      "tags": [
+        "Siemens",
+        "HMI",
+        "Unified Comfort",
+        "HTML5",
+        "Operator Panel"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای توسعه نسل آینده رباتیک شناختی",
+      "summary": "پروژه مشترک جدیدی میان زیمنس و دانشگاه فنی مونیخ با تمرکز بر توسعه الگوریتم‌های یادگیری تقویتی برای ربات‌های صنعتی آغاز شد. این تحقیق قصد دارد ربات‌های خطوط تولید را قادر سازد تا در مواجهه با قطعات ناشناخته، به طور خودکار مسیر حرکت خود را بهینه‌سازی کنند. این دستاورد علمی می‌تواند تحولی اساسی در انعطاف‌پذیری سلول‌های رباتیک و اتوماسیون مونتاژ ایجاد کند.",
+      "category": "research",
+      "published_at": "1405/07/29 15:00",
+      "collected_at": "1405/07/29 18:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-tum-cognitive-robotics",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "AI",
+        "Research",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "عرضه سیستم مانیتورینگ وضعیت لرزشی جدید SIPLUS CMS برای توربین‌های صنعتی",
+      "summary": "شرکت زیمنس سیستم پایش سلامت تجهیزات دوار SIPLUS CMS را با قابلیت تجزیه و تحلیل طیفی پیشرفته ارائه داد. این سیستم با نصب بر روی توربین‌ها و کمپرسورهای بزرگ، علائم اولیه خرابی یاتاقان‌ها و عدم تقارن را شناسایی می‌کند. این رویکرد پیشگیرانه به صنایع سنگین کمک می‌کند تا از خرابی‌های فاجعه‌بار جلوگیری کرده و برنامه‌ریزی تعمیرات را بهینه سازند.",
+      "category": "product",
+      "published_at": "1405/07/29 16:20",
+      "collected_at": "1405/07/29 18:01",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/siemens-siplus-cms-condition-monitoring",
+      "tags": [
+        "Siemens",
+        "SIPLUS",
+        "Condition Monitoring",
+        "Maintenance",
+        "Turbine"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "به‌روزرسانی نرم‌افزار Opcenter Execution برای مدیریت پیشرفته کارخانه‌های داروسازی",
+      "summary": "نسخه جدید نرم‌افزار Opcenter Execution زیمنس با تمرکز بر انطباق با استانداردهای سخت‌گیرانه سازمان غذا و دارو عرضه شد. این سیستم تمام مراحل تولید دارو را از تامین مواد اولیه تا بسته‌بندی نهایی به صورت دیجیتال ردیابی و مستندسازی می‌کند. این راهکار به شرکت‌های داروسازی کمک می‌کند تا همزمان با افزایش سرعت تولید، بالاترین سطح کیفیت و ایمنی را تضمین نمایند.",
+      "category": "product",
+      "published_at": "1405/07/29 17:40",
+      "collected_at": "1405/07/29 18:01",
+      "source": "Pharmaceutical Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-opcenter-execution-pharma",
+      "tags": [
+        "Siemens",
+        "Opcenter",
+        "Manufacturing Execution",
+        "Pharma",
+        "MES"
       ]
     }
   ]
