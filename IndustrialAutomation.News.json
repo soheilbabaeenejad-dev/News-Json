@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1094,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 11:06",
+  "count": 1104,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/29 11:12",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -17489,6 +17489,166 @@
         "OmniCore",
         "Robotics",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "ia-20261020-001",
+      "title": "همکاری زیمنس و سونی برای توسعه هدست‌های واقعیت ترکیبی در مهندسی صنعتی",
+      "summary": "زیمنس و سونی همکاری جدیدی را برای ادغام فناوری‌های واقعیت ترکیبی در فرآیندهای طراحی صنعتی آغاز کرده‌اند. این همکاری شامل استفاده از هدست‌های جدید سونی در پلتفرم Siemens Xcelerator است که به مهندسان اجازه می‌دهد مدل‌های سه بعدی پیچیده را در محیطی غوطه‌ور بررسی کنند. این ابزار با هدف کاهش زمان توسعه محصول و بهبود دقت در طراحی‌های مهندسی و شبیه‌سازی‌های صنعتی عرضه شده است.",
+      "category": "industry",
+      "published_at": "1405/07/28 14:20",
+      "collected_at": "1405/07/29 11:12",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-sony-partner-industrial-metaverse",
+      "tags": [
+        "Siemens",
+        "Sony",
+        "Mixed Reality",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261020-002",
+      "title": "ارتقای کارایی سیستم‌های کنترل با نسخه جدید نرم‌افزار SIMATIC S7-1500 Software Controller",
+      "summary": "زیمنس نسخه جدیدی از کنترل‌کننده نرم‌افزاری SIMATIC S7-1500 را معرفی کرد که امکان اجرای توابع کنترلی را مستقیماً بر روی رایانه‌های صنعتی فراهم می‌کند. این به‌روزرسانی شامل بهبودهایی در زمینه ارتباطات Open User Communication و افزایش امنیت سایبری در لایه نرم‌افزاری است. این راهکار برای ماشین‌سازانی که نیاز به ترکیب کنترل PLC با برنامه‌های سطح بالای IT دارند، بسیار حیاتی و کارآمد است.",
+      "category": "product",
+      "published_at": "1405/07/28 15:45",
+      "collected_at": "1405/07/29 11:12",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/siemens-simatic-s71500-software-controller",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "Industrial PC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261020-003",
+      "title": "تصاحب شرکت Sevensense توسط ABB برای تقویت هوش مصنوعی در ربات‌های متحرک",
+      "summary": "شرکت ABB با هدف پیشتازی در بازار ربات‌های متحرک خودگردان (AMR)، استارتاپ سوئیسی Sevensense را به مالکیت خود درآورد. این خرید به ABB اجازه می‌دهد تا از فناوری ناوبری مبتنی بر هوش مصنوعی و بینایی ماشین در ربات‌های خود استفاده کند. این تکنولوژی جدید باعث می‌شود ربات‌ها در محیط‌های پیچیده کارخانه‌ای بدون نیاز به نوارهای مغناطیسی یا نشانگرهای محیطی به راحتی و با امنیت کامل جابجا شوند.",
+      "category": "company",
+      "published_at": "1405/07/28 17:10",
+      "collected_at": "1405/07/29 11:12",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/abb-acquires-sevensense-boost-ai-robotics-2024-01-11/",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "AI",
+        "AMR"
+      ]
+    },
+    {
+      "id": "ia-20261020-004",
+      "title": "بهینه‌سازی فرآیندهای ماشین‌کاری با قابلیت‌های جدید سیستم Sinumerik One زیمنس",
+      "summary": "زیمنس قابلیت‌های جدیدی را به سیستم کنترل عددی Sinumerik One اضافه کرده است که تمرکز اصلی آن بر دوقلوی دیجیتال و شبیه‌سازی دقیق ماشین‌کاری است. این به‌روزرسانی به اپراتورها اجازه می‌دهد قبل از شروع تولید واقعی، تمام مراحل را در محیط مجازی تست کرده و از برخوردهای احتمالی ابزار جلوگیری کنند. استفاده از این سیستم منجر به کاهش ۲۵ درصدی زمان آماده‌سازی ماشین‌آلات در صنایع قطعه‌سازی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 18:30",
+      "collected_at": "1405/07/29 11:12",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/cnc-digital-twin-advancements-with-sinumerik-one/",
+      "tags": [
+        "Sinumerik",
+        "CNC",
+        "Digital Twin",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "گسترش همکاری راکول اتوماسیون و مایکروسافت برای تحلیل داده‌های صنعتی در ابر",
+      "summary": "راکول اتوماسیون اعلام کرد که پلتفرم FactoryTalk DataMosaix خود را با سرویس‌های هوش مصنوعی مایکروسافت آزور ادغام کرده است. این همکاری به تولیدکنندگان کمک می‌کند تا داده‌های پراکنده در سطح کارخانه را جمع‌آوری کرده و با استفاده از مدل‌های یادگیری ماشین، الگوهای خرابی تجهیزات را پیش‌بینی کنند. هدف نهایی این پروژه، کاهش توقف‌های ناخواسته در خطوط تولید صنایع سنگین و خودروسازی است.",
+      "category": "industry",
+      "published_at": "1405/07/29 08:15",
+      "collected_at": "1405/07/29 11:12",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/press-releases/rockwell-automation-and-microsoft-expand-partnership",
+      "tags": [
+        "Rockwell Automation",
+        "Microsoft",
+        "Azure",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261020-006",
+      "title": "رونمایی از نسخه دوم سیستم مدیریت لبه صنعتی زیمنس برای مقیاس‌پذیری بالاتر",
+      "summary": "زیمنس نسخه ۲.۰ سیستم مدیریت Industrial Edge (IEM) را با قابلیت‌های جدید برای مدیریت متمرکز هزاران دستگاه لبه در کارخانه‌های توزیع شده معرفی کرد. این نسخه شامل رابط کاربری بازطراحی شده و ابزارهای پیشرفته برای استقرار سریع اپلیکیشن‌های کانتینری در سطح شبکه OT است. این پلتفرم به مدیران IT اجازه می‌دهد تا امنیت و به‌روزرسانی‌های نرم‌افزاری را در تمام نقاط تولید به صورت یکپارچه کنترل کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:00",
+      "collected_at": "1405/07/29 11:12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/industrial-edge-management-v2-launch-siemens",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "IoT",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261020-007",
+      "title": "معرفی ربات‌های همکار جدید سری Lexium توسط اشنایدر الکتریک برای اتوماسیون انعطاف‌پذیر",
+      "summary": "اشنایدر الکتریک سری جدید ربات‌های همکار (Cobots) خود را با نام Lexium روانه بازار کرد که برای کار در کنار انسان بدون نیاز به حصارهای ایمنی طراحی شده‌اند. این ربات‌ها دارای سیستم‌های تشخیص برخورد پیشرفته و برنامه‌نویسی گرافیکی ساده هستند که زمان راه‌اندازی را به شدت کاهش می‌دهند. این محصولات بخشی از استراتژی اشنایدر برای تقویت اتوماسیون باز و مبتنی بر نرم‌افزار در صنایع بسته‌بندی است.",
+      "category": "product",
+      "published_at": "1405/07/29 09:45",
+      "collected_at": "1405/07/29 11:12",
+      "source": "IndustryWeek",
+      "source_url": "https://www.industryweek.com/technology-and-iiot/schneider-electric-lexium-cobot-launch",
+      "tags": [
+        "Schneider Electric",
+        "Cobots",
+        "Robotics",
+        "Lexium"
+      ]
+    },
+    {
+      "id": "ia-20261020-008",
+      "title": "همکاری زیمنس و مرسدس بنز برای دیجیتالی‌سازی و پایداری در تولید باتری",
+      "summary": "زیمنس و مرسدس بنز تفاهم‌نامه‌ای را برای استفاده از پلتفرم‌های دیجیتال در جهت بهینه‌سازی مصرف انرژی در کارخانه‌های تولید باتری امضا کردند. با استفاده از راهکارهای Siemens Xcelerator، مرسدس بنز قصد دارد ردپای کربن خود را در فرآیند تولید کاهش داده و بهره‌وری خطوط را افزایش دهد. این پروژه شامل پیاده‌سازی سیستم‌های مدیریت انرژی هوشمند و دوقلوهای دیجیتال برای کل چرخه عمر تولید باتری است.",
+      "category": "industry",
+      "published_at": "1405/07/29 10:15",
+      "collected_at": "1405/07/29 11:12",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com/content/siemens-mercedes-benz-battery-partnership",
+      "tags": [
+        "Siemens",
+        "Mercedes-Benz",
+        "Sustainability",
+        "EV Battery"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "دریافت گواهینامه امنیتی IEC 62443 برای اکوسیستم PLCnext فونیکس کنتاکت",
+      "summary": "شرکت فونیکس کنتاکت موفق به دریافت گواهینامه امنیتی سطح بالا برای پلتفرم PLCnext خود شد که انطباق آن با استانداردهای بین‌المللی امنیت سایبری صنعتی را تایید می‌کند. این گواهینامه نشان‌دهنده امنیت ذاتی در طراحی سخت‌افزار و نرم‌افزار این کنترل‌کننده‌ها برای مقابله با حملات سایبری در شبکه‌های حساس است. این موفقیت جایگاه فونیکس کنتاکت را در پروژه‌های زیرساختی حیاتی و صنایع نفت و گاز تقویت می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 10:45",
+      "collected_at": "1405/07/29 11:12",
+      "source": "ISA Interchange",
+      "source_url": "https://isa-interchange.org/phoenix-contact-plcnext-iec62443-certification",
+      "tags": [
+        "Cybersecurity",
+        "Phoenix Contact",
+        "IEC 62443",
+        "PLCnext"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "به‌روزرسانی ابزار انتخاب آنلاین TIA Selection Tool زیمنس با قابلیت‌های هوشمند",
+      "summary": "زیمنس نسخه ابری جدید TIA Selection Tool را با قابلیت‌های هوش مصنوعی برای پیشنهاد خودکار قطعات یدکی و تجهیزات جانبی به‌روزرسانی کرد. این ابزار به مهندسان کمک می‌کند تا پیکربندی سخت‌افزاری پروژه‌های اتوماسیون خود را با دقت ۱۰۰ درصد انجام داده و لیست قطعات (BOM) را مستقیماً به سبد خرید منتقل کنند. این به‌روزرسانی شامل کتابخانه‌های جدید برای درایوهای SINAMICS و ماژول‌های تغذیه SITOP است.",
+      "category": "topic",
+      "published_at": "1405/07/29 11:05",
+      "collected_at": "1405/07/29 11:12",
+      "source": "Siemens Global",
+      "source_url": "https://mall.industry.siemens.com/tst/portal/",
+      "tags": [
+        "TIA Selection Tool",
+        "Siemens",
+        "Engineering",
+        "Digitalization"
       ]
     }
   ]
