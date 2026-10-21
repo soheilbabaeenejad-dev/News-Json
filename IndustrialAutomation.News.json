@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1166,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/29 16:45",
+  "count": 1176,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/29 17:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18623,6 +18623,166 @@
         "TIA Portal",
         "Software",
         "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261020-001",
+      "title": "معرفی ماژول ارتباطی جدید SCALANCE برای شبکه‌های امن صنعتی زیمنس",
+      "summary": "شرکت زیمنس از ماژول ارتباطی پیشرفته SCALANCE سری جدید برای ارتقای امنیت و سرعت تبادل داده در شبکه‌های صنعتی رونمایی کرد. این محصول به مهندسان کمک می‌کند تا زیرساخت‌های OT را با استانداردهای مدرن سایبری هماهنگ سازند. این ماژول با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته، ایمنی ارتباطات PLC و SCADA را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 08:30",
+      "collected_at": "1405/07/29 17:07",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-scalance-new-module",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "OT Security",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261020-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در نرم‌افزار SIMATIC PCS 7",
+      "summary": "نسخه به‌روزرسانی‌شده نرم‌افزار کنترل فرآیند SIMATIC PCS 7 توسط زیمنس با ابزارهای تحلیلی جدید عرضه شد. این قابلیت‌ها به اپراتورها اجازه می‌دهد تا خطاهای احتمالی را پیش از توقف خط تولید شناسایی کنند. این راهکار نقش مهمی در کاهش هزینه‌های تعمیر و نگهداری کارخانجات بزرگ فرآیندی دارد.",
+      "category": "news",
+      "published_at": "1405/07/28 10:15",
+      "collected_at": "1405/07/29 17:07",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-pcs7-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "Process Control",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261020-003",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای بهینه‌سازی الگوریتم‌های هوش مصنوعی صنعتی",
+      "summary": "زیمنس و دانشگاه فنی مونیخ پروژه تحقیقاتی مشترکی را برای توسعه مدل‌های سبک هوش مصنوعی در لبه شبکه آغاز کردند. هدف این پژوهش اجرای بلادرنگ شبکه‌های عصبی عمیق روی کنترل‌کننده‌های SIMATIC است. این دستاورد دقت کنترل حرکت رباتیک را به شکل چشمگیری افزایش خواهد داد.",
+      "category": "research",
+      "published_at": "1405/07/28 12:45",
+      "collected_at": "1405/07/29 17:07",
+      "source": "Industrial AI Insights",
+      "source_url": "https://www.industrialai-insights.com/siemens-tumu-ai",
+      "tags": [
+        "Siemens",
+        "AI",
+        "Edge Computing",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261020-004",
+      "title": "عرضه منبع تغذیه صنعتی SITOP PSU8600 با قابلیت عیب‌یابی پیشرفته",
+      "summary": "شرکت زیمنس نسل جدید منابع تغذیه صنعتی SITOP PSU8600 را مجهز به پورت‌های ارتباطی PROFINET معرفی کرد. این تجهیز امکان پایش دقیق ولتاژ و جریان را در تمام بخش‌های تابلو برق فراهم می‌کند. این امر باعث افزایش پایداری سیستم‌های اتوماسیون در شرایط سخت محیطی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 14:20",
+      "collected_at": "1405/07/29 17:07",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sitop-psu8600",
+      "tags": [
+        "Siemens",
+        "SITOP",
+        "Power Supply",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "گسترش کاربرد دوقلوی دیجیتال در خطوط مونتاژ باتری خودروهای الکتریکی",
+      "summary": "زیمنس با استفاده از پلتفرم Xcelerator به خودروسازان بزرگ کمک می‌کند خطوط تولید باتری را پیش از ساخت فیزیکی شبیه‌سازی کنند. این رویکرد خطاهای طراحی را تا چهل درصد کاهش داده و سرعت راه‌اندازی کارخانه را بالا می‌برد. این فناوری نقش کلیدی در توسعه صنایع پایدار دارد.",
+      "category": "industry",
+      "published_at": "1405/07/28 16:10",
+      "collected_at": "1405/07/29 17:07",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-ev-battery-twin",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Xcelerator",
+        "EV Battery"
+      ]
+    },
+    {
+      "id": "ia-20261020-006",
+      "title": "به‌روزرسانی بسته نرم‌افزاری Sinumerik Operate برای ماشین‌کاری فوق‌دقیق",
+      "summary": "نسخه جدید نرم‌افزار Sinumerik Operate زیمنس با امکانات گرافیکی جدید برای کنترلرهای CNC منتشر شد. این نسخه زمان برنامه‌نویسی قطعات پیچیده را در صنایع هوافضا کاهش می‌دهد. مهندسان اکنون می‌توانند بهینه‌سازی مسیر ابزار را مستقیماً روی پنل دستگاه انجام دهند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:00",
+      "collected_at": "1405/07/29 17:07",
+      "source": "Modern Machine Shop",
+      "source_url": "https://www.mmsonline.com/siemens-sinumerik-operate-update",
+      "tags": [
+        "Siemens",
+        "Sinumerik",
+        "CNC",
+        "Machining"
+      ]
+    },
+    {
+      "id": "ia-20261020-007",
+      "title": "سرمایه‌گذاری زیمنس در توسعه زیرساخت‌های تولید نیمه‌هادی در اروپا",
+      "summary": "زیمنس از طرح سرمایه‌گذاری جدیدی برای تأمین نرم‌افزارهای اتوماسیون کارخانه‌های تولید تراشه خبر داد. این پروژه با هدف خودکفایی اروپا در زنجیره تأمین قطعات الکترونیکی کلیدی اجرا می‌شود. ابزارهای طراحی تراشه زیمنس نقش اصلی را در این تحول بر عهده دارند.",
+      "category": "economy",
+      "published_at": "1405/07/29 11:30",
+      "collected_at": "1405/07/29 17:07",
+      "source": "Reuters Industry",
+      "source_url": "https://www.reuters.com/technology/siemens-semiconductor-investment",
+      "tags": [
+        "Siemens",
+        "Semiconductors",
+        "Economy",
+        "Europe"
+      ]
+    },
+    {
+      "id": "ia-20261020-008",
+      "title": "معرفی پنل‌های اپراتوری جدید SIMATIC HMI Unified Comfort با گواهی ضد انفجار",
+      "summary": "زیمنس سری جدید پنل‌های HMI با استانداردهای سخت‌گیرانه ATEX برای محیط‌های مستعد خطر نفت و گاز معرفی کرد. این نمایشگرهای لمسی مقاوم امکان مانیتورینگ امن فرآیندها را در zones خطرناک فراهم می‌کنند. این تجهیزات دوام بالا را با کاربری آسان نرم‌افزاری ترکیب کرده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/29 13:15",
+      "collected_at": "1405/07/29 17:07",
+      "source": "World Pipelines",
+      "source_url": "https://www.worldpipelines.com/siemens-unified-comfort-atex",
+      "tags": [
+        "Siemens",
+        "SIMATIC HMI",
+        "Ex-Proof",
+        "Oil and Gas"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "ارتقای پلتفرم Industrial Edge برای مدیریت یکپارچه دستگاه‌های لبه شبکه",
+      "summary": "نسخه تازه پلتفرم Siemens Industrial Edge ابزارهای مدیریتی متمرکزتری برای اپراتورهای کارخانه فراهم کرده است. مدیران سیستم اکنون می‌توانند نرم‌افزارهای کاربردی را روی صدها کنترلر به صورت همزمان به‌روزرسانی کنند. این قابلیت هزینه‌های نگهداری سیستم‌های IT و OT را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 15:00",
+      "collected_at": "1405/07/29 17:07",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "IoT",
+        "Management"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "انتشار راهنمای جدید امنیت سایبری برای تجهیزات اتوماسیون صنعتی زیمنس",
+      "summary": "تیم واکنش اضطراری زیمنس راهنمای جامعی برای مقاوم‌سازی شبکه‌های مبتنی بر تجهیزات SIMATIC منتشر کرد. این سند به مدیران شبکه کمک می‌کند تا آسیب‌پذیری‌های احتمالی لایه OT را شناسایی و برطرف کنند. رعایت این دستورالعمل‌ها برای صنایع حیاتی و زیرساختی الزامی شده است.",
+      "category": "regulation",
+      "published_at": "1405/07/29 16:45",
+      "collected_at": "1405/07/29 17:07",
+      "source": "Industrial Cyber",
+      "source_url": "https://www.industrialcyber.co/siemens-cybersecurity-guide",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "ICS",
+        "Compliance"
       ]
     }
   ]
