@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1195,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/07/29 20:20",
+  "count": 1204,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/07/29 21:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -19068,6 +19068,150 @@
         "Industrial Copilot",
         "AI",
         "PLC Programming"
+      ]
+    },
+    {
+      "id": "ia-20261021-002",
+      "title": "معرفی نسل جدید ماژول‌های ارتباطی I/O برای سیستم‌های DCS زیمنس",
+      "summary": "شرکت زیمنس ماژول‌های جدید ورودی/خروجی سری ET 200SP HA را با پشتیبانی از پروتکل‌های ارتباطی پیشرفته معرفی کرد. این ماژول‌ها برای محیط‌های صنعتی با چگالی بالا طراحی شده‌اند و قابلیت اطمینان سیستم‌های کنترل توزیع‌شده (DCS) را در صنایع شیمیایی افزایش می‌دهند. این محصول جدید از قابلیت تعویض در حین کار (Hot-swapping) نیز پشتیبانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/21 09:15",
+      "collected_at": "1405/07/29 21:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/plc-pac/article/217890",
+      "tags": [
+        "DCS",
+        "Siemens",
+        "ET 200SP",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261021-003",
+      "title": "همکاری استراتژیک زیمنس و انویدیا برای بهینه‌سازی طراحی کارخانه‌های خودروسازی",
+      "summary": "زیمنس و انویدیا در پروژه جدید خود، از پلتفرم Omniverse برای شبیه‌سازی دقیق کارخانه‌های تولید خودرو استفاده می‌کنند. این همکاری به تولیدکنندگان کمک می‌کند تا پیش از ساخت فیزیکی، تمامی فرآیندهای تولید را در محیط مجازی تست کنند. این رویکرد باعث کاهش چشمگیر هزینه‌های راه‌اندازی و بهینه‌سازی مصرف انرژی در کارخانه‌های بزرگ می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/21 10:45",
+      "collected_at": "1405/07/29 21:04",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrial-iot.com/news/siemens-nvidia-partnership",
+      "tags": [
+        "Digital Twin",
+        "Nvidia",
+        "Siemens",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "انتشار وصله امنیتی اضطراری برای تجهیزات شبکه صنعتی Ruggedcom",
+      "summary": "آژانس امنیت سایبری CISA نسبت به آسیب‌پذیری‌های بحرانی در سوئیچ‌های سری Ruggedcom زیمنس هشدار داد. این نقص امنیتی می‌تواند به مهاجمان اجازه دهد تا کنترل شبکه OT را در دست بگیرند. زیمنس بلافاصله به‌روزرسانی فریم‌ور جدیدی را برای رفع این حفره امنیتی منتشر کرده و از تمامی کاربران خواسته است تا تجهیزات خود را فوراً ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/21 11:20",
+      "collected_at": "1405/07/29 21:04",
+      "source": "CISA Cybersecurity",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-294-01",
+      "tags": [
+        "Cybersecurity",
+        "Siemens",
+        "Ruggedcom",
+        "CISA"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در نرم‌افزار TIA Portal V20",
+      "summary": "نسخه جدید TIA Portal V20 با ابزارهای هوش مصنوعی مولد برای کمک به برنامه‌نویسان PLC عرضه شد. این دستیار هوشمند می‌تواند کدهای استاندارد را پیشنهاد داده و خطاهای منطقی را در زمان طراحی شناسایی کند. این ویژگی باعث کاهش زمان مهندسی پروژه‌های اتوماسیون پیچیده تا ۳۰ درصد شده و کیفیت کدهای تولیدی را به‌طور قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/21 13:05",
+      "collected_at": "1405/07/29 21:04",
+      "source": "Siemens Industry Software",
+      "source_url": "https://support.industry.siemens.com/cs/document/109827",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "AI",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "رونمایی از درایوهای فرکانس متغیر جدید SINAMICS G220 با قابلیت‌های امنیتی",
+      "summary": "زیمنس درایوهای جدید SINAMICS G220 را با تمرکز بر بهره‌وری انرژی و امنیت سایبری معرفی کرد. این درایوها دارای قابلیت‌های داخلی برای پایش وضعیت موتور و تشخیص زودهنگام خرابی هستند. طراحی ماژولار این سری امکان ادغام آسان در سیستم‌های اتوماسیون موجود را فراهم کرده و استانداردهای جدیدی را در کنترل حرکت ایجاد می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/21 14:40",
+      "collected_at": "1405/07/29 21:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sinamics-g220-launch",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drive",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "گسترش اکوسیستم Siemens Xcelerator در صنایع غذایی و دارویی",
+      "summary": "پلتفرم Siemens Xcelerator اکنون با ماژول‌های تخصصی برای انطباق با استانداردهای سخت‌گیرانه صنایع غذایی و دارویی به‌روزرسانی شده است. این ابزارها به شرکت‌ها کمک می‌کنند تا ردیابی محصولات و مدیریت کیفیت را در تمام مراحل تولید دیجیتالی کنند. این اقدام گامی مهم برای یکپارچه‌سازی داده‌های تولید با سیستم‌های مدیریت کیفیت جهانی است.",
+      "category": "industry",
+      "published_at": "1405/07/21 15:55",
+      "collected_at": "1405/07/29 21:04",
+      "source": "Manufacturing Digital",
+      "source_url": "https://manufacturingdigital.com/siemens-xcelerator-expansion",
+      "tags": [
+        "Xcelerator",
+        "Siemens",
+        "Digitalization",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "معرفی سیستم جدید مانیتورینگ انرژی در پلتفرم Industrial Edge زیمنس",
+      "summary": "زیمنس اپلیکیشن جدیدی را برای پلتفرم Industrial Edge عرضه کرده که امکان پایش لحظه‌ای مصرف انرژی ماشین‌آلات را فراهم می‌کند. این ابزار با تحلیل داده‌های سنسورها، نقاط هدررفت انرژی را شناسایی و پیشنهادهای بهینه‌سازی ارائه می‌دهد. این راهکار به کارخانه‌ها کمک می‌کند تا به اهداف پایداری و کاهش ردپای کربن خود سریع‌تر دست یابند.",
+      "category": "product",
+      "published_at": "1405/07/21 17:10",
+      "collected_at": "1405/07/29 21:04",
+      "source": "Energy Management Today",
+      "source_url": "https://www.energy-management-today.com/siemens-edge-energy",
+      "tags": [
+        "Industrial Edge",
+        "Energy",
+        "Sustainability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "همکاری راکول اتوماسیون و مایکروسافت برای بهبود امنیت ابری در OT",
+      "summary": "راکول اتوماسیون با همکاری مایکروسافت، راهکار جدیدی برای حفاظت از داده‌های صنعتی در فضای ابری معرفی کرد. این همکاری بر ادغام پلتفرم FactoryTalk با سرویس‌های امنیتی Azure تمرکز دارد تا از حملات سایبری به زیرساخت‌های حیاتی جلوگیری کند. این راهکار به مدیران OT اجازه می‌دهد تا امنیت شبکه‌های خود را از راه دور و با دقت بالا مدیریت کنند.",
+      "category": "company",
+      "published_at": "1405/07/21 18:30",
+      "collected_at": "1405/07/29 21:04",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/microsoft-partnership.html",
+      "tags": [
+        "Rockwell",
+        "Microsoft",
+        "Cybersecurity",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "رونمایی از ربات‌های همکار جدید ABB با ظرفیت باربری بالا",
+      "summary": "شرکت ABB نسل جدید ربات‌های همکار (Cobot) سری GoFa را با ظرفیت حمل بار بیشتر معرفی کرد. این ربات‌ها برای کاربردهای سنگین در خطوط مونتاژ الکترونیک و بسته‌بندی طراحی شده‌اند و با سیستم‌های ایمنی پیشرفته مجهز شده‌اند. این ربات‌ها می‌توانند بدون نیاز به حصارهای ایمنی در کنار نیروی انسانی کار کرده و انعطاف‌پذیری تولید را افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/21 19:45",
+      "collected_at": "1405/07/29 21:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/news/abb-gofa-cobot-launch",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Cobot",
+        "Automation"
       ]
     }
   ]
