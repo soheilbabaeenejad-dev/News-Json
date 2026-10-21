@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1110,
+  "count": 1120,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 14:03",
+  "updated_at": "1405/07/29 14:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -17740,6 +17740,166 @@
         "Energy Management",
         "EcoStruxure",
         "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از سیستم پایش مصرف انرژی SIMATIC Energy Suite V19 توسط زیمنس",
+      "summary": "شرکت زیمنس نسخه جدید سیستم پایش و مدیریت مصرف انرژی SIMATIC Energy Suite V19 را روانه بازار کرد. این نرم‌افزار پیشرفته امکان تجمیع و تحلیل داده‌های مصرف انرژی را در خطوط تولید فراهم کرده و به مدیران صنعتی کمک می‌کند تا هزینه‌های عملیاتی خود را کاهش دهند. این ابزار با TIA Portal کاملاً یکپارچه شده است.",
+      "category": "product",
+      "published_at": "1405/07/29 08:30",
+      "collected_at": "1405/07/29 14:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-energy-suite-v19",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Energy Suite",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های رباتیک هوشمند در تجهیزات صنعتی ABB با هوش مصنوعی",
+      "summary": "شرکت ABB از ارتقای نسل جدید کنترل‌کننده‌های رباتیک OmniCore با الگوریتم‌های پیشرفته یادگیری ماشین خبر داد. این به‌روزرسانی دقت و سرعت حرکت بازوهای رباتیک را در خطوط مونتاژ خودرو تا ۲۵ درصد افزایش می‌دهد. این فناوری به کاهش زمان توقف خطوط تولید کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:15",
+      "collected_at": "1405/07/29 14:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/abb-omnicore-ai-update",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "OmniCore",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "انتشار به‌روزرسانی امنیتی برای نرم‌افزار مانیتورینگ SCADA زیمنس",
+      "summary": "زیمنس بسته امنیتی حیاتی جدیدی را برای رفع آسیب‌پذیری‌های کشف شده در نرم‌افزار SIMATIC WinCC منتشر کرد. این پتچ امنیتی از دسترسی‌های غیرمجاز به لایه مانیتورینگ کارخانجات جلوگیری کرده و استانداردهای حفاظتی IEC 62443 را تقویت می‌کند. کارشناسان امنیتی نصب فوری این به‌روزرسانی را توصیه کرده‌اند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 10:00",
+      "collected_at": "1405/07/29 14:04",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-wincc-security-update",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "Cybersecurity",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "راهکار جدید راکول اتوماسیون برای مدیریت یکپارچه داده‌های کارخانه تا ابر",
+      "summary": "راکول اتوماسیون از پلتفرم جدید FactoryTalk Data Hub برای ساده‌سازی انتقال اطلاعات از تجهیزات کف کارخانه به سیستم‌های ابری پرده برداشت. این ابزار به مهندسان اجازه می‌دهد تا بدون نیاز به دانش پیچیده برنامه‌نویسی، داده‌های حیاتی PLC را استخراج کنند. این راهکار نقش مهمی در همگرایی فناوری‌های OT و IT دارد.",
+      "category": "product",
+      "published_at": "1405/07/29 10:45",
+      "collected_at": "1405/07/29 14:04",
+      "source": "Iot World Today",
+      "source_url": "https://www.iotworldtoday.com/rockwell-factorytalk-data-hub",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Cloud",
+        "OT/IT"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای ماژول‌های ارتباطی صنعتی با پشتیبانی از پروتکل TSN در محصولات فونیکس کنتاکت",
+      "summary": "شرکت فونیکس کنتاکت سوییچ‌های صنعتی جدید سری FL SWITCH را با پشتیبانی کامل از استاندارد Time-Sensitive Networking معرفی کرد. این تجهیزات امکان انتقال همزمان داده‌های استاندارد و بلادرنگ را روی یک بستر اترنت فراهم می‌سازند. این فناوری تأخیر شبکه را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/29 11:20",
+      "collected_at": "1405/07/29 14:04",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialethernet.com/phoenix-contact-tsn-switches",
+      "tags": [
+        "Phoenix Contact",
+        "TSN",
+        "Industrial Ethernet",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "گسترش کاربرد دستیار هوش مصنوعی Siemens Industrial Copilot در خودروسازی",
+      "summary": "گروه صنعتی زیمنس از توسعه قابلیت‌های جدید دستیار هوش مصنوعی صنعتی خود برای خودروسازان خبر داد. این سیستم به مهندسان اجازه می‌دهد کدهای برنامه‌نویسی PLC را با دستورات متنی ساده تولید کنند. این نوآوری سرعت توسعه پروژه‌های اتوماسیون را به‌طور چشمگیری افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/29 12:05",
+      "collected_at": "1405/07/29 14:04",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-industrial-copilot-automotive",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "AI",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی کنترل‌کننده سیستم‌های توزیع‌شده جدید Yokogawa برای صنایع فرآیندی",
+      "summary": "شرکت یوکوگاوا نسل جدید سیستم کنترل توزیع‌شده Centum VP را با قابلیت‌های پردازش ابری هیبریدی روانه بازار کرد. این سیستم پایداری بالا و امنیت ذاتی را برای پالایشگاه‌های نفت و گاز به ارمغان می‌آورد. معماری جدید این محصول امکان عیب‌یابی از راه دور را تسهیل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 12:40",
+      "collected_at": "1405/07/29 14:04",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/yokogawa-centum-vp-d式的",
+      "tags": [
+        "Yokogawa",
+        "DCS",
+        "Centum VP",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "همکاری استراتژیک اشنایدر الکتریک و مایکروسافت برای بهینه‌سازی مراکز داده",
+      "summary": "اشنایدر الکتریک با همکاری مایکروسافت پلتفرم مدیریت هوشمند EcoStruxure را به ابزارهای تحلیل کلان‌داده مجهز کردند. این راهکار به اپراتورهای مراکز داده کمک می‌کند تا مصرف برق سیستم‌های خنک‌کننده را بهینه‌سازی کنند. این پروژه گامی مهم در جهت کاهش ردپای کربن در زیرساخت‌های حیاتی است.",
+      "category": "company",
+      "published_at": "1405/07/29 13:10",
+      "collected_at": "1405/07/29 14:04",
+      "source": "Data Center Dynamics",
+      "source_url": "https://www.datacenterdynamics.com/schneider-microsoft-partnership",
+      "tags": [
+        "Schneider Electric",
+        "Microsoft",
+        "Data Center",
+        "EcoStruxure"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "عرضه درایوهای فرکانس متغیر جدید SINAMICS G120X با قابلیت‌های سبز توسط زیمنس",
+      "summary": "زیمنس درایوهای صنعتی SINAMICS G120X را برای کاربردهای پمپ، فن و کمپرسور با راندمان انرژی بالا عرضه کرد. این درایوها دارای الگوریتم‌های پیشرفته برای کاهش تلفات توان در بارهای جزئی هستند. این تجهیزات به‌راحتی با سیستم‌های اتوماسیون SIMATIC S7 یکپارچه می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/29 13:35",
+      "collected_at": "1405/07/29 14:04",
+      "source": "Drive and Control",
+      "source_url": "https://www.driveandcontrols.com/siemens-sinamics-g120x",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "انتشار گزارش جدید موسسه SANS درباره تهدیدات امنیت سایبری سیستم‌های DCS",
+      "summary": "موسسه امنیتی SANS گزارش جامع جدیدی را پیرامون افزایش حملات سایبری به سیستم‌های کنترل صنعتی منتشر کرد. این گزارش نشان می‌دهد که نفوذ به شبکه‌های DCS و SCADA از طریق آسیب‌پذیری‌های زنجیره تامین رو به افزایش است. متخصصان بر لزوم پیاده‌سازی معماری دفاع در عمق تاکید کرده‌اند.",
+      "category": "research",
+      "published_at": "1405/07/29 14:00",
+      "collected_at": "1405/07/29 14:04",
+      "source": "SANS Institute",
+      "source_url": "https://www.sans.org/reading-room/ics-security-threat-report-2026",
+      "tags": [
+        "SANS",
+        "ICS Security",
+        "DCS",
+        "Cyber Threat"
       ]
     }
   ]
