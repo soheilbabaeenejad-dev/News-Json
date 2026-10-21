@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1071,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/07/29 11:02",
+  "count": 1079,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/29 12:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -17120,6 +17120,134 @@
         "FactoryTalk Optix",
         "HMI",
         "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261021-001",
+      "title": "معرفی کنترل‌کننده ایمنی جدید SIMATIC S7-1500F برای خطوط تولید پیچیده",
+      "summary": "شرکت زیمنس از کنترل‌کننده ایمنی جدید SIMATIC S7-1500F با قابلیت‌های پردازشی ارتقایافته برای اتوماسیون پیشرفته کارخانه‌ها رونمایی کرد. این محصول به مهندسان کمک می‌کند تا استانداردهای ایمنی SIL 3 را با سرعت و دقت بیشتری در خطوط رباتیک پیاده‌سازی کنند. این کنترل‌کننده جدید زمان چرخه اجرای برنامه را تا ۳۰ درصد کاهش داده و ارتباط ایمن تری را در بستر پروتکل PROFINET فراهم می‌آورد.",
+      "category": "product",
+      "published_at": "1405/07/29 08:30",
+      "collected_at": "1405/07/29 12:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500f-advanced",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "عرضه ماژول ارتباطی جدید SCALANCE برای شبکه‌های پرسرعت صنعتی",
+      "summary": "زیمنس سبد محصولات شبکه صنعتی خود را با معرفی سوئیچ مدیریتی SCALANCE X-300 گسترش داد. این سخت‌افزار مقاوم برای شرایط سخت محیطی طراحی شده و پشتیبانی از پهنای باند گیگابیتی را در زیرساخت‌های OT تضمین می‌کند. این سوئیچ نقش کلیدی در انتقال امن داده‌های ویدئویی و سنسوری به سیستم‌های ابری Insights Hub ایفا خواهد کرد.",
+      "category": "product",
+      "published_at": "1405/07/29 10:10",
+      "collected_at": "1405/07/29 12:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-scalance-x300-release",
+      "tags": [
+        "SCALANCE",
+        "Networking",
+        "OT Security",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "به‌روزرسانی امنیتی بحران‌زدایی برای درایوهای SINAMICS توسط زیمنس",
+      "summary": "شرکت زیمنس بسته‌های اصلاحی امنیتی مهمی را برای آسیب‌پذیری‌های کشف‌شده در درایوهای فرکانس متغیر SINAMICS ارائه کرد. این وصله‌ها مانع از دسترسی غیرمجاز به فریم‌ور دستگاه از طریق پورت‌های ارتباطی محلی می‌شوند. مدیران شبکه باید در اسرع وقت نسبت به ارتقای میان‌افزار تجهیزات خود اقدام نمایند تا از ریسک حملات سایبری جلوگیری شود.",
+      "category": "regulation",
+      "published_at": "1405/07/29 10:30",
+      "collected_at": "1405/07/29 12:00",
+      "source": "CERT@VDE",
+      "source_url": "https://cert.vde.com/en/advisories/siemens-sinamics-update-2026",
+      "tags": [
+        "Cybersecurity",
+        "SINAMICS",
+        "Vulnerability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "توسعه قابلیت‌های شبیه‌سازی سه بعدی در نرم‌افزار Process Simulate",
+      "summary": "زیمنس نسخه جدید نرم‌افزار Process Simulate از مجموعه Tecnomatix را با موتور رندرینگ پیشرفته عرضه نمود. این ابزار به طراحان خطوط تولید اجازه می‌دهد رفتار ربات‌ها و تجهیزات انتقال را با بالاترین دقت فیزیکی شبیه‌سازی کنند. این امر موجب کاهش ۵۰ درصدی زمان راه‌اندازی ربات‌های صنعتی در کارخانه‌های خودروسازی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 10:55",
+      "collected_at": "1405/07/29 12:00",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/siemens-process-simulate-update",
+      "tags": [
+        "Tecnomatix",
+        "Digital Twin",
+        "Simulation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "راه‌اندازی مرکز جدید نوآوری اتوماسیون دیجیتال زیمنس در توکیو",
+      "summary": "زیمنس به‌طور رسمی مرکز نوآوری دیجیتال جدید خود را در شهر توکیو برای توسعه فناوری‌های هوش مصنوعی صنعتی افتتاح کرد. این مرکز روی کاربردهای بومی فناوری Industrial Copilot و رباتیک پیشرفته برای صنایع الکترونیک تمرکز خواهد داشت. پژوهشگران در این آزمایشگاه بهینه‌سازی مصرف انرژی در کارخانه‌ها را با کمک الگوریتم‌های یادگیری ماشین بررسی می‌کنند.",
+      "category": "industry",
+      "published_at": "1405/07/29 11:15",
+      "collected_at": "1405/07/29 12:00",
+      "source": "Japan Industrial News",
+      "source_url": "https://www.nikkei.com/article/siemens-tokyo-innovation-hub",
+      "tags": [
+        "Innovation",
+        "Industrial Copilot",
+        "Asia",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "ارتقای پلتفرم ابری Insights Hub با ابزارهای پیش‌بینی خرابی مکانیکی",
+      "summary": "زیمنس امکانات جدیدی مبتنی بر یادگیری ماشین را به پلتفرم ابری Insights Hub اضافه کرد که وضعیت تجهیزات دوار را پایش می‌کند. این ابزار قادر است الگوهای لرزش غیرعادی پمپ‌ها و الکتروموتورها را هفته‌ها پیش از خرابی واقعی تشخیص دهد. این ویژگی نوین هزینه‌های نگهداری اضطراری را در کارخانه‌های بزرگ فرآیندی به طور چشمگیری کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 11:30",
+      "collected_at": "1405/07/29 12:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-predictive-maintenance",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Predictive Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "همکاری زیمنس و دانشگاه صنعتی مونیخ برای آموزش مهندسان نسل آینده اتوماسیون",
+      "summary": "زیمنس طی قراردادی جدید با دانشگاه فنی مونیخ، آخرین تجهیزات سخت‌افزاری و نرم‌افزاری TIA Portal را در اختیار آزمایشگاه‌های آموزشی قرار داد. هدف از این طرح آماده‌سازی دانشجویان مهندسی برق و کامپیوتر برای ورود به بازار کار با دانش روز صنعت ۴.۰ است. این برنامه آموزشی شامل دوره‌های تخصصی برنامه‌نویسی PLC و امنیت سایبری شبکه‌های صنعتی خواهد بود.",
+      "category": "society",
+      "published_at": "1405/07/29 11:45",
+      "collected_at": "1405/07/29 12:00",
+      "source": "TUM News",
+      "source_url": "https://www.tum.de/en/news-and-events/siemens-automation-lab-partnership",
+      "tags": [
+        "Education",
+        "TIA Portal",
+        "University",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "عرضه ماژول‌های جدید ورودی/خروجی فشرده SIMATIC ET 200al برای محیط‌های کارگاهی",
+      "summary": "زیمنس خانواده محصولات SIMATIC ET 200al را با معرفی ماژول‌های مقاوم در برابر آب و گرد و غبار توسعه داد. این تجهیزات با استاندارد حفاظتی IP65/67 اجازه می‌دهند تا قطعات الکترونیکی بدون نیاز به تابلو برق مستقیماً روی بدنه ماشین‌آلات نصب شوند. این راهکار نوآورانه حجم سیم‌کشی را کاهش داده و نصب سیستم‌های اتوماسیون را در خطوط تولید سرعت می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/29 12:00",
+      "collected_at": "1405/07/29 12:00",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.iaasiaonline.com/siemens-et-200al-expansion",
+      "tags": [
+        "ET 200al",
+        "I/O Modules",
+        "Hardware",
+        "Siemens"
       ]
     }
   ]
