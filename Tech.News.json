@@ -5,8 +5,8 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
   "count": 932,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/29 12:01",
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/29 13:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
