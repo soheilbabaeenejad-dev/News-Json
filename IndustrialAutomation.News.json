@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1101,
-  "provider": "Gemini/gemini-3.5-flash",
-  "updated_at": "1405/07/29 14:00",
+  "count": 1110,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/29 14:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -17596,6 +17596,150 @@
         "Hydrogen",
         "Green Energy",
         "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول امنیتی سخت‌افزاری جدید برای محافظت از تجهیزات SIMATIC",
+      "summary": "شرکت زیمنس از ماژول امنیتی سخت‌افزاری جدیدی تحت عنوان SIMATIC SafeGuard برای ارتقای امنیت سایبری کنترل‌کننده‌های صنعتی رونمایی کرد. این راهکار با هدف جلوگیری از دسترسی‌های غیرمجاز و حفاظت از کدهای برنامه‌نویسی در محیط‌های اتوماسیون حساس طراحی شده است. این ماژول با انواع PLCهای سری S7-1500 سازگار بوده و استانداردهای سخت‌گیرانه امنیت شبکه OT را پوشش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 08:15",
+      "collected_at": "1405/07/29 14:03",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.industrial-automation-news.example/siemens-safeguard-module",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "به‌روزرسانی نرم‌افزار TIA Portal V20.1 با تمرکز بر مهندسی ابری",
+      "summary": "کمپانی زیمنس نسخه جدید بسته نرم‌افزاری مهندسی خود یعنی TIA Portal V20.1 را با قابلیت‌های گسترده برای کار تیمی ابری عرضه کرد. این نسخه امکان همگام‌سازی پروژه‌های اتوماسیون را برای تیم‌های مهندسی توزیع‌شده فراهم کرده و سرعت کامپایل کدهای سنگین را تا بیست درصد افزایش می‌دهد. این به‌روزرسانی گامی مهم در جهت تحقق مهندسی یکپارچه دیجیتال در صنایع تولیدی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 09:30",
+      "collected_at": "1405/07/29 14:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.example/tia-portal-v20-1-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Engineering",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش قابلیت‌های پلتفرم Industrial Edge زیمنس برای پردازش ابری محلی",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم Siemens Industrial Edge اضافه کرده است که امکان اجرای الگوریتم‌های پیچیده هوش مصنوعی را به صورت محلی در کارخانه‌ها فراهم می‌کند. این ابزار به اپراتورها اجازه می‌دهد تا داده‌های سنسورهای خطوط تولید را بدون نیاز به ارسال به ابر خارجی تحلیل کنند. این رویکرد تأخیر زمانی را به حداقل رسانده و امنیت داده‌های حیاتی کارخانه را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 10:05",
+      "collected_at": "1405/07/29 14:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.example/siemens-industrial-edge-ai",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی نسل جدید اینورترهای SINAMICS G120X با بهره‌وری انرژی بالا",
+      "summary": "شرکت زیمنس درایوهای فرکانس متغیر جدید سری SINAMICS G120X را برای کاربردهای مدیریت آب و صنایع پمپ و فن معرفی کرد. این اینورترها با دارا بودن الگوریتم‌های پیشرفته کنترل موتور، مصرف انرژی را به میزان قابل توجهی در فرآیندهای صنعتی کاهش می‌دهند. این تجهیزات به‌طور کامل با سیستم‌های اتوماسیون SIMATIC برای پایش مصرف انرژی یکپارچه شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/29 10:45",
+      "collected_at": "1405/07/29 14:03",
+      "source": "Drive & Control",
+      "source_url": "https://www.drive-control.example/sinamics-g120x-new",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری زیمنس و فستو برای توسعه استانداردهای ماژولار در خطوط مونتاژ",
+      "summary": "زیمنس و شرکت فستو تفاهم‌نامه همکاری جدیدی را برای توسعه تجهیزات پنوماتیک ماژولار سازگار با TIA Portal به امضا رساندند. این همکاری بر standardization رابط‌های ارتباطی بین سیستم‌های کنترل و عملگرهای پنوماتیک تمرکز دارد تا زمان راه‌اندازی ماشین‌آلات صنعتی کاهش یابد. این راهکار به مهندسان اجازه می‌دهد تا پیکربندی تجهیزات را به صورت خودکار انجام دهند.",
+      "category": "industry",
+      "published_at": "1405/07/29 11:20",
+      "collected_at": "1405/07/29 14:03",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.example/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Automation",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "عرضه ربات‌های صنعتی جدید با قابلیت ادغام مستقیم در کنترلرهای SIMATIC",
+      "summary": "شرکت ABB با همکاری زیمنس سیستم ارتباطی تازه‌ای را عرضه کرده است که اتصال ربات‌های صنعتی را به کنترل‌کننده‌های SIMATIC S7-1500 بسیار ساده‌تر می‌کند. این راهکار نیازی به سخت‌افزارهای واسط نداشته و برنامه‌نویسی حرکات ربات را مستقیماً از طریق محیط TIA Portal ممکن می‌سازد. این نوآوری زمان مهندسی و راه‌اندازی سلول‌های رباتیک را در خطوط تولید سرعت می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/29 12:00",
+      "collected_at": "1405/07/29 14:03",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusiness.example/abb-siemens-integration",
+      "tags": [
+        "ABB",
+        "Siemens",
+        "Robotics",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "انتشار بسته به‌روزرسانی امنیتی برای سیستم کنترل فرآیند SIMATIC PCS 7",
+      "summary": "زیمنس اطلاعیه امنیتی مهمی برای کاربران سیستم کنترل فرآیند SIMATIC PCS 7 منتشر کرد و از آن‌ها خواست بسته‌های اصلاحی جدید را نصب کنند. این به‌روزرسانی چند آسیب‌پذیری بالقوه در لایه ارتباطی سرورهای SCADA را برطرف کرده و از نفوذ سایبری جلوگیری می‌کند. رعایت این دستورالعمل‌ها برای حفظ پایداری و امنیت تاسیسات زیرساختی حیاتی است.",
+      "category": "regulation",
+      "published_at": "1405/07/29 12:35",
+      "collected_at": "1405/07/29 14:03",
+      "source": "ICS-CERT Security",
+      "source_url": "https://www.ics-cert.example/siemens-pcs7-patch",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "SCADA",
+        "Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "راه‌اندازی خط تولید هوشمند زیمنس در آلمان با فناوری دوقلوی دیجیتال",
+      "summary": "کارخانه تجهیزات الکتریکی زیمنس در شهر آمبرگ آلمان از یک خط تولید جدید کاملاً دیجیتال بر پایه پلتفرم Siemens Xcelerator بهره‌برداری کرد. این کارخانه از دوقلوهای دیجیتال پیشرفته برای شبیه‌سازی و بهینه‌سازی فرآیندهای ساخت پیش از اجرای واقعی استفاده می‌کند. این طرح توانسته است نرخOEE خطوط مونتاژ را به میزان قابل توجهی ارتقا دهد.",
+      "category": "industry",
+      "published_at": "1405/07/29 13:40",
+      "collected_at": "1405/07/29 14:03",
+      "source": "Factory Magazine",
+      "source_url": "https://www.factorymagazine.example/siemens-amberg-digital-twin",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Smart Factory",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی سیستم مانیتورینگ انرژی جدید برای بهینه‌سازی مصرف در شبکه‌های توزیع صنعتی",
+      "summary": "شرکت اشنایدر الکتریک از راهکار جامع مانیتورینگ انرژی EcoStruxure Power Advisor نسخه جدید برای پایش پسماند انرژی در واحدهای صنعتی بزرگ رونمایی کرد. این سیستم با استفاده از تحلیل داده‌های لحظه‌ای، انحرافات مصرف انرژی را در تجهیزات سنگین شناسایی می‌کند. این راهکار به کارخانجات کمک می‌کند تا اهداف کربن‌زدایی و پایداری محیط زیستی خود را راحت‌تر محقق سازند.",
+      "category": "product",
+      "published_at": "1405/07/29 14:00",
+      "collected_at": "1405/07/29 14:03",
+      "source": "Energy Management Today",
+      "source_url": "https://www.energymgmt.example/schneider-power-advisor",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "EcoStruxure",
+        "Sustainability"
       ]
     }
   ]
