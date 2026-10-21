@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1076,
+  "count": 1086,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 11:03",
+  "updated_at": "1405/07/29 11:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -17201,6 +17201,166 @@
         "AGV",
         "Robotics",
         "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20260719-001",
+      "title": "رونمایی زیمنس از ماژول ارتباطی جدید SCALANCE برای شبکه‌های TSN",
+      "summary": "شرکت زیمنس ماژول ارتباطی جدیدی از خانواده SCALANCE را برای پشتیبانی از شبکه‌های حساس به زمان معرفی کرد. این ماژول به مهندسان اتوماسیون اجازه می‌دهد تا داده‌های بلادرنگ را با دقت بالا در بسترهای صنعتی منتقل کنند. مدل جدید SCALANCE XM-400 با استانداردهای امنیتی سخت‌گیرانه IEC 62443 سازگاری کامل دارد.",
+      "category": "product",
+      "published_at": "1405/07/29 08:15",
+      "collected_at": "1405/07/29 11:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-scalance-tsn-2026",
+      "tags": [
+        "زیمنس",
+        "SCALANCE",
+        "TSN",
+        "شبکه صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20260719-002",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با راهکار جدید Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به‌روزرسانی مهمی برای پایش مصرف انرژی در خطوط تولید دریافت کرد. این ابزار به مدیران کارخانه‌ها کمک می‌کند تا نقاط اتلاف انرژی را شناسایی و به طور خودکار بهینه‌سازی کنند. نسخه جدید شامل داشبوردهای پیشرفته برای تحلیل ردپای کربن و گزارش‌گیری لحظه‌ای است.",
+      "category": "news",
+      "published_at": "1405/07/29 08:45",
+      "collected_at": "1405/07/29 11:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/insights-hub-energy-update",
+      "tags": [
+        "Insights Hub",
+        "مدیریت انرژی",
+        "زیمنس",
+        "ابری"
+      ]
+    },
+    {
+      "id": "ia-20260719-003",
+      "title": "گسترش قابلیت‌های رباتیک در پلتفرم SIMATIC Robot Integrator",
+      "summary": "زیمنس قابلیت‌های نرم‌افزاری SIMATIC Robot Integrator را برای اتصال روان‌تر ربات‌های صنعتی توسعه داد. این به‌روزرسانی زمان راه‌اندازی سلول‌های رباتیک را در محیط‌های TIA Portal به نصف کاهش می‌دهد. مهندسین می‌توانند بازوهای رباتیک مختلف را بدون نیاز به برنامه‌نویسی پیچیده یکپارچه کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:10",
+      "collected_at": "1405/07/29 11:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-robot-integrator-update",
+      "tags": [
+        "رباتیک",
+        "SIMATIC",
+        "TIA Portal",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20260719-004",
+      "title": "همکاری زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط مونتاژ",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه جدیدی برای ادغام تجهیزات پنوماتیک با کنترل‌کننده‌های SIMATIC امضا کردند. این همکاری به توسعه ماژول‌های هوشمند IO-Link برای تشخیص زودهنگام نشت هوا در کارخانه‌ها منجر می‌شود. هدف از این پروژه کاهش هزینه‌های تعمیر و نگهداری و افزایش بهره‌وری سیستم‌های اتوماسیون است.",
+      "category": "industry",
+      "published_at": "1405/07/29 09:30",
+      "collected_at": "1405/07/29 11:04",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/siemens-festo-partnership",
+      "tags": [
+        "فستو",
+        "پنوماتیک",
+        "IO-Link",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20260719-005",
+      "title": "عرضه ماژول‌های ایمنی جدید ET 200MP برای محیط‌های پرخطر",
+      "summary": "سیستم‌های توزیع‌شده ET 200MP زیمنس با معرفی ماژول‌های ایمنی پیشرفته گسترش یافتند. این تجهیزات جدید برای کاربردهای Safety Integrated تا سطح SIL 3 طراحی شده‌اند. ماژول‌های مذکور واکنش سریعی در شرایط اضطراری نشان داده و توقف خطوط را ایمن‌تر می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:50",
+      "collected_at": "1405/07/29 11:04",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/siemens-et200mp-safety",
+      "tags": [
+        "ایمنی صنعتی",
+        "ET 200MP",
+        "SIL 3",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20260719-006",
+      "title": "ارتقای نرم‌افزار WinCC Unified برای مانیتورینگ ابری خطوط تولید",
+      "summary": "نسخه جدید نرم‌افزار SIMATIC WinCC Unified با قابلیت‌های پیشرفته وب و مانیتورینگ ابری عرضه شد. این نسخه امکان دسترسی امن اپراتورها به تصاویر گرافیکیاچ‌ام‌آی را از طریق تبلت‌های صنعتی فراهم می‌کند. ابزارهای جدید تحلیل داده‌های گرافیکی، عیب‌یابی خطاهای فرآیندی را بسیار ساده‌تر می‌سازند.",
+      "category": "product",
+      "published_at": "1405/07/29 10:05",
+      "collected_at": "1405/07/29 11:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/wincc-unified-update-2026",
+      "tags": [
+        "WinCC Unified",
+        "اسکادا",
+        "HMI",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20260719-007",
+      "title": "توسعه زیرساخت‌های امنیت سایبری OT با راهکار جدید زیمنس",
+      "summary": "زیمنس مجموعه ابزارهای تشخیص تهدیدات سایبری خود را ویژه شبکه‌های صنعتی اتوماسیون منتشر کرد. این نرم‌افزار به طور خودکار تمام دارایی‌های متصل به شبکه PLC و HMI را شناسایی می‌کند. این راهکار به مدیران امنیت کمک می‌کند تا آسیب‌پذیری‌های سیستم‌های کنترل صنعتی را پیش از وقوع حمله رفع کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 10:20",
+      "collected_at": "1405/07/29 11:04",
+      "source": "Security Week",
+      "source_url": "https://www.securityweek.com/siemens-ot-cybersecurity-tool",
+      "tags": [
+        "امنیت سایبری",
+        "OT/ICS",
+        "زیمنس",
+        "شبکه صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20260719-008",
+      "title": "معرفی کنترل‌کننده جدید SINUMERIC ONE برای ماشین‌کاری دقیق",
+      "summary": "سیستم کنترل عددی SINUMERIC ONE زیمنس با قابلیت‌های جدید هوش مصنوعی برای بهینه‌سازی برش‌کاری به‌روز شد. این کنترل‌کننده به طور همزمان مدل دیجیتال و واقعی ماشین را همگام‌سازی می‌کند. تکنولوژی جدید لرزش‌های ابزار را کاهش داده و کیفیت نهایی قطعات فلزی را به شدت بالا می‌برد.",
+      "category": "product",
+      "published_at": "1405/07/29 10:35",
+      "collected_at": "1405/07/29 11:04",
+      "source": "Modern Machine Shop",
+      "source_url": "https://www.mmsonline.com/sinumeric-one-ai-update",
+      "tags": [
+        "SINUMERIC",
+        "ماشین‌کاری",
+        "CNC",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20260719-009",
+      "title": "اجرای پروژه دوقلوی دیجیتال کارخانه خودرو‌سازی با نرم‌افزار زیمنس",
+      "summary": "یک خودروساز بزرگ اروپایی از راه‌اندازی کامل دوقلوی دیجیتال خط تولید خود با همکاری زیمنس خبر داد. این پروژه با استفاده از ابزارهای Siemens Xcelerator و محيط‌های سه‌بعدی پیاده‌سازی شده است. شبیه‌سازی دقیق جریان مواد توانسته زمان توقف خط مونتاژ را تا بیست درصد کاهش دهد.",
+      "category": "industry",
+      "published_at": "1405/07/29 10:50",
+      "collected_at": "1405/07/29 11:04",
+      "source": "Digital Engineering",
+      "source_url": "https://www.degine.com/siemens-digital-twin-factory",
+      "tags": [
+        "دوقلوی دیجیتال",
+        "Siemens Xcelerator",
+        "خودروسازی",
+        "شبیه‌سازی"
+      ]
+    },
+    {
+      "id": "ia-20260719-010",
+      "title": "بهبود پایداری سیستم‌های DCS با نسخه جدید SIMATIC PCS neo",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo با تمرکز بر همکاری ابری مهندسان منتشر شد. این سامانه امکان مدیریت یکپارچه پروژه‌های بزرگ پتروشیمی را در بستر وب فراهم می‌کند. معماری نوین این پلتفرم قابلیت اطمینان و در دسترس بودن فرآیندهای پیوسته را ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 11:00",
+      "collected_at": "1405/07/29 11:04",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-pcs-neo-update",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "پتروشیمی",
+        "زیمنس"
       ]
     }
   ]
