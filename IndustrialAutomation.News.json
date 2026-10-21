@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1157,
+  "count": 1167,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 16:01",
+  "updated_at": "1405/07/29 16:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18492,6 +18492,166 @@
         "آکادمی زیمنس",
         "نیروی کار ماهر",
         "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261021-001",
+      "title": "رونمایی از ماژول ارتباطی جدید Scalance زیمنس برای شبکه‌های TSN",
+      "summary": "شرکت زیمنس ماژول ارتباطی جدیدی از خانواده Scalance را برای پشتیبانی از فناوری شبکه زمان‌بندی شده TSN معرفی کرد. این ماژول صنعتی به کارخانه‌ها اجازه می‌دهد تا ترافیک داده‌های حیاتی و غیرحیاتی را روی یک زیرساخت اترنت استاندارد با قطعیت زمانی بالا مدیریت کنند. این راهکار نقش کلیدی در همگرایی شبکه‌های IT و OT ایفا کرده و تأخیر ارتباطی را در خطوط تولید پیشرفته به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:15",
+      "collected_at": "1405/07/29 16:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/siemens-scalance-tsn-module",
+      "tags": [
+        "Siemens",
+        "Scalance",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261021-002",
+      "title": "به‌روزرسانی نرم‌افزار مانیتورینگ WinCC Unified V19 با ابزارهای تحلیل پیشرفته",
+      "summary": "زیمنس نسخه جدید بسته نرم‌افزاری SIMATIC WinCC Unified V19 را با تمرکز بر بهبود ابزارهای مصورسازی و تحلیل داده‌های صنعتی منتشر کرد. این نسخه شامل ویجت‌های وب جدید و قابلیت‌های پیشرفته گزارش‌دهی مبتنی بر HTML5 است که مهندسان را قادر می‌سازد داشبوردهای بصری دقیق‌تری ایجاد کنند. این به‌روزرسانی همچنین امنیت سایبری ارتباطات اچ‌ام‌آی را از طریق پروتکل‌های رمزنگاری پیشرفته تقویت می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 10:00",
+      "collected_at": "1405/07/29 16:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-releases-wincc-unified-v19",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "HMI",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261021-003",
+      "title": "گسترش قابلیت‌های رباتیک صنعتی ABB با هوش مصنوعی مولد",
+      "summary": "شرکت ABB از یکپارچه‌سازی مدل‌های هوش مصنوعی مولد با سیستم کنترل رباتیک OmniCore خبر داد تا برنامه‌نویسی مسیر حرکت ربات‌ها ساده‌تر شود. اپراتورها اکنون می‌توانند با دستورات متنی ساده، وظایف پیچیده مونتاژ و جوشکاری را به بازوهای رباتیک دیکته کنند. این نوآوری زمان راه‌اندازی سلول‌های رباتیک در خطوط تولید خودرو و لوازم خانگی را تا چهل درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 10:45",
+      "collected_at": "1405/07/29 16:03",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/article/abb-omnicore-generative-ai-integration",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "OmniCore",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "معرفی کنترل‌کننده ایمنی جدید Modicon Safety M580 توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک کنترل‌کننده منطقی ایمنی جدیدی با نام Modicon Safety M580 را برای حفاظت از فرآیندهای صنعتی خطرساز عرضه کرد. این PLC ایمنی دارای گواهینامه SIL3 بوده و با معماری سایبری درون‌ساختی خود از تاسیسات در برابر نفوذهای مخرب محافظت می‌کند. این محصول امکان یکپارچه‌سازی بی‌درنگ داده‌های ایمنی و کنترل استاندارد را در یک شاسی واحد فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/29 11:20",
+      "collected_at": "1405/07/29 16:03",
+      "source": "InTech Magazine",
+      "source_url": "https://www.intechplus.com/schneider-electric-modicon-safety-m580",
+      "tags": [
+        "Schneider Electric",
+        "Modicon",
+        "Safety PLC",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "سرمایه‌گذاری زیمنس در توسعه زیرساخت‌های کارخانه هوشمند در شرق اروپا",
+      "summary": "زیمنس از آغاز پروژه سرمایه‌گذاری جدیدی به ارزش ۱۵۰ میلیون یورو برای راه‌اندازی خطوط تولید تمام‌خودکار در اروپا خبر داد. این سایت جدید مجهز به فناوری‌های پیشرفته دوقلوی دیجیتال و تجهیزات SIMATIC خواهد بود تا کارایی مصرف انرژی به حداکثر برسد. این اقدام بخشی از راهبرد کلان زیمنس برای انعطاف‌پذیری زنجیره تأمین و توسعه صنعت پایدار است.",
+      "category": "industry",
+      "published_at": "1405/07/29 12:05",
+      "collected_at": "1405/07/29 16:03",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-smart-factory-investment-europe",
+      "tags": [
+        "Siemens",
+        "Smart Factory",
+        "Digital Twin",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "عرضه درایوهای سروو جدید آلفا توسط راکول اتوماسیون برای کاربردهای سنگین",
+      "summary": "راکول اتوماسیون سری جدید درایوهای سروو Kinetix 5300 را برای ماشین‌آلات بسته‌بندی پرسرعت و صنایع غذایی به بازار عرضه کرد. این درایوها با نرم‌افزار Logix Designer سازگاری کامل داشته و تنظیم پارامترها را به صورت خودکار انجام می‌دهند. طراحی فشرده این تجهیزات کمک می‌کند تا سازندگان ماشین‌آلات فضای کمتری را در تابلوهای برق اشغال کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 12:50",
+      "collected_at": "1405/07/29 16:03",
+      "source": "Control Design",
+      "source_url": "https://www.controldesign.com/rockwell-automation-kinetix-servo-drives",
+      "tags": [
+        "Rockwell Automation",
+        "Kinetix",
+        "Servo Drives",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "انتشار هشدار امنیتی CISA درباره آسیب‌پذیری تجهیزات شبکه صنعتی فونیکس کنتاکت",
+      "summary": "آژانس امنیت سایبری و زیرساختی آمریکا (CISA) اطلاعیه‌ای درباره چندین آسیب‌پذیری آسیب‌رسان در روترها و سوئیچ‌های صنعتی فونیکس کنتاکت منتشر کرد. این نقص‌های امنیتی می‌توانند به نفوذگران اجازه دهند تا کنترل ترافیک شبکه OT را به دست گرفته و اختلال ایجاد کنند. به مدیران سیستم توصیه شده است برای رفع این مشکل، میان‌افزار تجهیزات را فوری به آخرین نسخه ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 13:30",
+      "collected_at": "1405/07/29 16:03",
+      "source": "CISA ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/phoenix-contact-industrial-routers",
+      "tags": [
+        "CISA",
+        "Phoenix Contact",
+        "Cybersecurity",
+        "Vulnerability"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "توسعه قابلیت‌های تعمیر و نگهداری پیش‌بینانه با پلتفرم Insights Hub زیمنس",
+      "summary": "شرکت زیمنس ماژول جدید تجزیه و تحلیل ارتعاشات را به پلتفرم ابری Insights Hub (MindSphere سابق) اضافه کرد. این ابزار به صنایع سنگین کمک می‌کند تا با تحلیل داده‌های سنسورهای نصب شده رو الکتروموتورها، خرابی‌های احتمالی را هفته‌ها پیش از وقوع پیش‌بینی کنند. این راهکار ابری موجب کاهش چشمگیر هزینه‌های توقف اضطراری خطوط تولید و بهینه‌سازی قطعات یدکی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 14:10",
+      "collected_at": "1405/07/29 16:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-predictive-maintenance",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "MindSphere",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "معرفی سیستم کنترل توزیع‌شده Centum VP R6.09 یوکوگاوا برای صنایع پالایشگاهی",
+      "summary": "یوکوگاوا نسخه جدید سیستم کنترل توزیع‌شده Centum VP خود را با تمرکز بر ارتقای امنیت سایبری و انعطاف‌پذیری ابری معرفی کرد. این نسخه جدید از معماری باز OPAF پشتیبانی می‌کند تا اتصال تجهیزات فیلد از برندهای مختلف به سیستم DCS ساده‌تر شود. این سیستم به اپراتورهای نفت و گاز کمک می‌کند تا نظارت دقیق‌تری بر فرآیندهای پالایشگاهی پیچیده داشته باشند.",
+      "category": "product",
+      "published_at": "1405/07/29 14:55",
+      "collected_at": "1405/07/29 16:03",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/yokogawa-centum-vp-dcs-release",
+      "tags": [
+        "Yokogawa",
+        "Centum VP",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "گسترش همکاری زیمنس و انویدیا برای شبیه‌سازی پیشرفته فیزیکی در صنایع",
+      "summary": "زیمنس و انویدیا از تعمیق شراکت راهبردی خود برای ادغام پلتفرم Siemens Xcelerator با موتور هوش مصنوعی Omniverse انویدیا خبر دادند. این همکاری امکان ساخت دوقلوهای دیجیتال با فیزیک کاملاً واقع‌گرایانه را برای مهندسان کارخانه‌ها فراهم می‌آورد. این فناوری پیشرفته بهینه‌سازی مصرف انرژی و تست خطوط تولید رباتیک را پیش از ساخت فیزیکی میسر می‌سازد.",
+      "category": "company",
+      "published_at": "1405/07/29 15:40",
+      "collected_at": "1405/07/29 16:03",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com/news-releases/siemens-nvidia-expand-partnership-industrial-metaverse",
+      "tags": [
+        "Siemens",
+        "Nvidia",
+        "Xcelerator",
+        "Digital Twin"
       ]
     }
   ]
