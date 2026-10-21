@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1051,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/29 08:51",
+  "count": 1061,
+  "provider": "Gemini/gemini-3.5-flash",
+  "updated_at": "1405/07/29 10:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -16810,6 +16810,166 @@
         "Semiconductor",
         "Hardware Security",
         "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "یکپارچه‌سازی ابزار SIMATIC OPC UA Modeling Editor با پلتفرم TIA Portal توسط زیمنس",
+      "summary": "شرکت زیمنس ابزار جدید SIMATIC OPC UA Modeling Editor را با نرم‌افزار TIA Portal یکپارچه کرد. این ویژگی به مهندسان اتوماسیون اجازه می‌دهد ساختار داده‌های استانداردهای صنعتی مانند Umati را بدون نیاز به برنامه‌نویسی پیچیده پیاده‌سازی کنند. این اقدام تبادل داده میان تجهیزات خط تولید و سیستم‌های IT را تا ۴۰ درصد تسریع می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 08:15",
+      "collected_at": "1405/07/29 10:02",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/feature/simatic-opc-ua-modeling-editor",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "OPC UA",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "عرضه اپلیکیشن بینایی ماشین مبتنی بر هوش مصنوعی برای Siemens Industrial Edge",
+      "summary": "زیمنس اپلیکیشن صنعتی جدید AI Vision Quality Inspection را برای پلتفرم Siemens Industrial Edge منتشر کرد. این نرم‌افزار به کارخانه‌ها امکان می‌دهد ناهنجاری‌های قطعات تولیدی را در مقیاس میلی‌ثانیه‌ای و با دقت ۹۹.۴ درصد شناسایی کنند. استفاده از پردازش لبه‌ای هزینه پهنای باند را به‌شدت کاهش داده و امنیت داده‌های تصویری را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 08:30",
+      "collected_at": "1405/07/29 10:02",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.ia-asia.com/siemens-launches-ai-vision-app-for-industrial-edge",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "معرفی سیستم درایوهای فشار متوسط SINAMICS PERFECT HARMONY GH180 زیمنس",
+      "summary": "زیمنس نسل جدید درایوهای فشار متوسط SINAMICS PERFECT HARMONY GH180 را با قابلیت بازیابی انرژی و راندمان ۹۸.۵ درصد معرفی کرد. این درایوها برای صنایع سنگین از جمله فولاد و پتروشیمی طراحی شده‌اند و امکان پایش از راه دور را فراهم می‌سازند. با به‌کارگیری این سیستم، هزینه‌های عملیاتی و مصرف برق تا ۲۵ درصد کاهش می‌یابد.",
+      "category": "product",
+      "published_at": "1405/07/29 08:45",
+      "collected_at": "1405/07/29 10:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/drives/news/53098712/siemens-unveils-sinamics-gh180-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "ارتقای ایمنی صنعتی با معرفی ماژول‌های جدید SIMATIC F-PLC توسط زیمنس",
+      "summary": "شرکت زیمنس ماژول‌های ایمنی جدید SIMATIC F-PLC را با استانداردهای SIL 3 و PLe برای یکپارچه‌سازی در خطوط رباتیک معرفی کرد. این ماژول‌ها امکان قطع اضطراری ایمن و مدیریت خطاهای شبکه را در بستر PROFINET فراهم می‌کنند. این به‌روزرسانی زمان توقف ناخواسته خطوط تولید سنگین را تا ۳۰ درصد کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/29 09:00",
+      "collected_at": "1405/07/29 10:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-expands-simatic-safety-plc-portfolio",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "تجهیز کارخانه‌های هوشمند به سیستم مکان‌یابی بلادرنگ SIMATIC RTLS زیمنس",
+      "summary": "زیمنس راهکار مکان‌یابی بلادرنگ SIMATIC RTLS را با دقت سانتیمتری برای ردیابی قطعات و خودروهای خودکار (AGV) در سالن‌های تولید عرضه کرد. این سیستم با اتصال به پلتفرم Insights Hub، بهینه‌سازی مسیرهای لجستیکی درون‌کارخانه‌ای را ممکن می‌سازد. ارزیابی‌ها نشان می‌دهد این فناوری راندمان لجستیک را تا ۲۰ درصد ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 09:10",
+      "collected_at": "1405/07/29 10:02",
+      "source": "Smart Industry",
+      "source_url": "https://www.smartindustry.com/siemens-simatic-rtls-smart-manufacturing",
+      "tags": [
+        "Siemens",
+        "SIMATIC RTLS",
+        "AGV",
+        "Insights Hub"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی راهکار جامع امنیت سایبری OT توسط راکول اتوماسیون برای پلتفرم‌های کنترل",
+      "summary": "شرکت راکول اتوماسیون مجموعه جدید راهکارهای امنیتی Verve Industrial را برای حفاظت از شبکه کنترل صنعتی عرضه کرد. این راهکار امکان شناسایی دارایی‌ها و مدیریت نقاط آسیب‌پذیری در کنترل‌کننده‌های ControlLogix را فراهم می‌آورد. با این توسعه، پاسخگویی به تهدیدات سایبری در بخش‌های زیرساختی تا ۵۰ درصد سریع‌تر انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 09:20",
+      "collected_at": "1405/07/29 10:02",
+      "source": "Cyber Security Today",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/verve-ot-cybersecurity-expansion.html",
+      "tags": [
+        "Rockwell Automation",
+        "OT Security",
+        "ControlLogix",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "رونمایی اشنایدر الکتریک از ماژول‌های پردازشی جدید برای سیستم کنترل EcoStruxure Foxboro",
+      "summary": "اشنایدر الکتریک ماژول‌های پردازشی سری FCP280 را برای سیستم کنترل توزیع‌شده EcoStruxure Foxboro ارتقا داد. این پردازنده‌ها توان پردازشی را دو برابر کرده و قابلیت ادغام مستقیم با پروتکل‌های HART و Modbus TCP را دارند. این بستر ایمنی عملیاتی و پایداری در پالایشگاه‌ها را به‌شدت افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 09:30",
+      "collected_at": "1405/07/29 10:02",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/automation/dcs/article/55012391/schneider-electric-ecostruxure-foxboro-update",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Foxboro DCS",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه سیستم نرم‌افزاری RobotStudio ABB با ابزارهای شبیه‌سازی مبتنی بر هوش مصنوعی",
+      "summary": "شرکت ABB نرم‌افزار شبیه‌سازی RobotStudio را به قابلیت‌های پیشرفته یادگیری ماشین تجهیز کرد. این نرم‌افزار به مهندسان اجازه می‌دهد مسیرهای حرکتی ربات‌های صنعتی را پیش از نصب فیزیکی بهینه‌سازی کرده و مصرف انرژی را تا ۱۵ درصد کاهش دهند. این ابزار زمان راه‌اندازی سلول‌های کاری رباتیک را به‌میزان چشمگیری کوتاه می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:40",
+      "collected_at": "1405/07/29 10:02",
+      "source": "Robotics World",
+      "source_url": "https://new.abb.com/news/detail/109823/abb-robotstudio-ai-simulation-update",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "RobotStudio",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "عرضه مبدل‌های پروتکل جدید سری PLClogic توسط فونیکس کنتاکت برای شبکه‌های صنعتی",
+      "summary": "فونیکس کنتاکت نسل جدید مبدل‌های هوشمند PLClogic را برای متصل‌کردن تجهیزات آنالوگ به شبکه‌های دیجیتال اترنت صنعتی معرفی کرد. این گیت‌وی‌ها از پروتکل‌های MQTT و REST API پشتیبانی کرده و امکان ارسال مستقیم داده‌ها به ابر را فراهم می‌کنند. این تجهیزات هزینه‌های کابل‌کشی تابلو برق را تا ۳۵ درصد کاهش می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:50",
+      "collected_at": "1405/07/29 10:02",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/phoenix-contact-plclogic-gateways-launch",
+      "tags": [
+        "Phoenix Contact",
+        "PLClogic",
+        "MQTT",
+        "Industrial IoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "ارتقای قابلیت‌های کنترل حرکت چندمحوره در نرم‌افزار TwinCAT 3 توسط بکوف",
+      "summary": "بکوف ماژول جدید TwinCAT 3 Kinematics را برای کنترل همزمان و بسیار دقیق سیستم‌های دلتا و ربات‌های چندمفصله عرضه کرد. این به‌روزرسانی ابزارهای ریاضی پیشرفته‌ای برای جبران‌سازی ارتعاشات در سرعت‌های بالا ارائه می‌دهد. این راهکار راندمان ماشین‌آلات بسته‌بندی و مونتاژ دقیق را تا ۲۵ درصد ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 10:00",
+      "collected_at": "1405/07/29 10:02",
+      "source": "Motion Control Tips",
+      "source_url": "https://www.motioncontroltips.com/beckhoff-twincat-3-kinematics-update",
+      "tags": [
+        "Beckhoff",
+        "TwinCAT",
+        "Motion Control",
+        "Robotics"
       ]
     }
   ]
