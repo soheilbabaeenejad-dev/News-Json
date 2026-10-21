@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1204,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 18:07",
+  "count": 1212,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/29 18:11",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -19240,6 +19240,133 @@
         "Training",
         "TIA Portal",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های جدید ارتباطی سری SIMATIC S7-1500 برای شبکه‌های TSN",
+      "summary": "زیمنس از ماژول‌های ارتباطی جدید برای کنترل‌کننده‌های SIMATIC S7-1500 رونمایی کرد که از پروتکل شبکه‌های حساس به زمان (TSN) پشتیبانی می‌کنند. این ارتقا به مهندسان اجازه می‌دهد تا داده‌ها را با تأخیر بسیار کم و قابلیت اطمینان بالا در محیط‌های صنعتی منتقل کنند. این محصول جدید برای کاربردهایی که نیاز به همگام‌سازی دقیق در سطح شبکه دارند، یک گام رو به جلو محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 09:15",
+      "collected_at": "1405/07/29 18:11",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TSN",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "رونمایی از نسل جدید درایوهای SINAMICS S210 با امنیت سایبری ارتقایافته",
+      "summary": "زیمنس نسل جدید درایوهای سروو SINAMICS S210 را با تمرکز بر امنیت سایبری و کارایی انرژی معرفی کرد. این درایوها اکنون دارای قابلیت‌های رمزنگاری داخلی و احراز هویت پیشرفته هستند که از نفوذ به شبکه‌های کنترل حرکت جلوگیری می‌کند. این محصول برای کاربردهای کنترل حرکت دقیق در ماشین‌آلات بسته‌بندی و مونتاژ طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/29 12:45",
+      "collected_at": "1405/07/29 18:11",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/sinamics-s210-security-update/",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Cybersecurity",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "انتشار وصله امنیتی برای نرم‌افزار مدیریت دارایی ABB Genix",
+      "summary": "شرکت ABB یک وصله امنیتی مهم برای پلتفرم مدیریت دارایی Genix منتشر کرد تا آسیب‌پذیری‌های شناسایی شده در لایه ارتباطی آن را برطرف کند. این به‌روزرسانی از دسترسی غیرمجاز به داده‌های عملیاتی جلوگیری کرده و پایداری سیستم‌های مانیتورینگ را تضمین می‌کند. تمامی کاربران این پلتفرم باید در اسرع وقت نسبت به نصب این وصله اقدام نمایند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 13:30",
+      "collected_at": "1405/07/29 18:11",
+      "source": "CISA Alerts",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/abb-genix-vulnerability",
+      "tags": [
+        "ABB",
+        "Cybersecurity",
+        "Genix",
+        "Patch"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی سیستم جدید مانیتورینگ انرژی توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک از سیستم جدید EcoStruxure Power برای نظارت دقیق بر مصرف انرژی در کارخانه‌های بزرگ رونمایی کرد. این سیستم با استفاده از سنسورهای هوشمند و تحلیل ابری، نقاط هدررفت انرژی را شناسایی و راهکارهای بهینه‌سازی ارائه می‌دهد. این اقدام بخشی از استراتژی این شرکت برای کمک به صنایع در مسیر کربن‌زدایی است.",
+      "category": "product",
+      "published_at": "1405/07/29 14:10",
+      "collected_at": "1405/07/29 18:11",
+      "source": "Energy Manager Today",
+      "source_url": "https://www.energymanagertoday.com/schneider-electric-new-monitoring-system",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای قابلیت‌های هوش مصنوعی در پلتفرم TIA Portal V20",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی را در نسخه جدید TIA Portal V20 تقویت کرده است. این ابزار اکنون می‌تواند کدهای برنامه‌نویسی PLC را بر اساس توصیفات متنی پیشنهاد دهد و خطاهای احتمالی را در زمان کامپایل شناسایی کند. این پیشرفت باعث کاهش چشمگیر زمان مهندسی و توسعه پروژه‌های اتوماسیون صنعتی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 15:00",
+      "collected_at": "1405/07/29 18:11",
+      "source": "Siemens Software",
+      "source_url": "https://support.industry.siemens.com/cs/document/tia-portal-v20-ai-features",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "AI",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه ربات‌های همکار جدید با قابلیت یادگیری ماشین توسط فانوک",
+      "summary": "شرکت فانوک سری جدید ربات‌های همکار خود را با قابلیت یادگیری ماشین برای انجام وظایف پیچیده مونتاژ معرفی کرد. این ربات‌ها قادرند بدون نیاز به برنامه‌نویسی مجدد، با تغییرات در خط تولید سازگار شوند. این فناوری به انعطاف‌پذیری بیشتر در خطوط تولید انبوه کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 16:15",
+      "collected_at": "1405/07/29 18:11",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/fanuc-new-cobots-ml",
+      "tags": [
+        "FANUC",
+        "Robotics",
+        "Machine Learning",
+        "Cobot"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گزارش وضعیت امنیت شبکه‌های OT در سال ۲۰۲۶",
+      "summary": "موسسه تحقیقاتی SANS گزارشی جامع درباره وضعیت امنیت شبکه‌های صنعتی (OT) منتشر کرد که نشان‌دهنده افزایش تهدیدات سایبری علیه کنترل‌کننده‌های منطقی برنامه‌پذیر (PLC) است. این گزارش بر لزوم پیاده‌سازی استانداردهای امنیتی سخت‌گیرانه و استفاده از راهکارهای دفاع در عمق تأکید دارد. زیمنس و سایر تولیدکنندگان در حال همکاری برای تقویت استانداردهای امنیتی هستند.",
+      "category": "research",
+      "published_at": "1405/07/29 17:05",
+      "collected_at": "1405/07/29 18:11",
+      "source": "SANS Institute",
+      "source_url": "https://www.sans.org/white-papers/ot-security-2026-report",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "PLC",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "بهره‌برداری از مرکز جدید تولید تراشه‌های صنعتی زیمنس در آلمان",
+      "summary": "زیمنس رسماً مرکز تولید تراشه‌های اختصاصی خود را برای تجهیزات اتوماسیون صنعتی در آلمان افتتاح کرد. این مرکز با هدف کاهش وابستگی به زنجیره تأمین جهانی و افزایش سرعت تولید قطعات حیاتی برای SIMATIC و SINAMICS راه‌اندازی شده است. این سرمایه‌گذاری بخشی از طرح بزرگ زیمنس برای خودکفایی در تولید قطعات الکترونیک صنعتی است.",
+      "category": "industry",
+      "published_at": "1405/07/29 17:50",
+      "collected_at": "1405/07/29 18:11",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/siemens-opens-new-chip-facility-germany",
+      "tags": [
+        "Siemens",
+        "Semiconductors",
+        "Manufacturing",
+        "Industry"
       ]
     }
   ]
