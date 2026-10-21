@@ -4,7 +4,7 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1087,
+  "count": 1096,
   "provider": "Gemini/gemini-3.5-flash-lite",
   "updated_at": "1405/07/29 12:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
@@ -17375,6 +17375,150 @@
         "ABB",
         "Siemens",
         "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از ماژول ارتباطی جدید CP 1543-1 برای ارتقای امنیت شبکه در SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید CP 1543-1 برای کنترل‌کننده‌های SIMATIC S7-1500 با تمرکز بر امنیت لایه شبکه OT رونمایی کرد. این ماژول دارای فایروال پیشرفته Stateful Inspection و قابلیت پشتیبانی از پروتکل‌های رمزنگاری مدرن برای حفاظت در برابر حملات سایبری است. این ابزار به مهندسان اتوماسیون کمک می‌کند تا تجهیزات صنعتی را با استاندارد امنیتی IEC 62443 به‌راحتی یکپارچه‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 08:30",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/cp-1543-1-security-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Industrial Cybersecurity",
+        "OT Network"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "انتشار نسخه جدید محیط مهندسی TIA Portal V20 SP1 با ابزارهای همکاری ابری",
+      "summary": "نسخه به‌روزرسانی شده TIA Portal V20 SP1 توسط زیمنس منتشر شد که قابلیت‌های مهندسی همزمان تیمی را بر بستر پلتفرم Xcelerator تقویت می‌کند. این نسخه سرعت کامپایل پروژه‌های بزرگ SIMATIC را تا 30 درصد افزایش داده و ابزارهای تست خودکار را بهبود بخشیده است. این ارتقا به کاهش زمان راه‌اندازی خطوط تولید و بهینه‌سازی فرآیندهای مهندسی کارخانجات کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:15",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/plc/article/siemens-releases-tia-portal-v20-sp1",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Engineering Software",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه رباتیک مدولار در خطوط مونتاژ",
+      "summary": "زیمنس و شرکت Festo طی تفاهم‌نامه‌ای مشترک، نسل جدیدی از سیستم‌های محرک خطی و پنوماتیک هوشمند را با کنترل‌کننده‌های SIMATIC توسعه می‌دهند. این همکاری بر ادغام عمیق تجهیزات فستو در محیط TIA Portal و استفاده از پروتکل PROFINET برای تبادل داده بلادرنگ تمرکز دارد. هدف از این پروژه، انعطاف‌پذیری بیشتر در خطوط مونتاژ خودکار و کاهش هزینه‌های سیم‌کشی تابلوهای برق است.",
+      "category": "industry",
+      "published_at": "1405/07/29 10:00",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/factory-automation/article/siemens-festo-modular-robotics",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "PROFINET",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "رونمایی از سیستم کنترل توزیع‌شده SIMATIC PCS neo با معماری بومی وب",
+      "summary": "زیمنس آخرین نسخه سیستم کنترل فرآیند SIMATIC PCS neo را با امکانات پیشرفته مدیریت مهندسی مبتنی بر وب معرفی کرد. این پلتفرم اجازه دسترسی امن مهندسان به داده‌های فرآیندی را از هر نقطه‌ای در کارخانه بدون نیاز به نصب نرم‌افزار سنگین فراهم می‌سازد. سیستم جدید پایداری بالا و قابلیت مقیاس‌پذیری بی‌نظیری را برای صنایع شیمیایی و داروسازی به ارمغان می‌آورد.",
+      "category": "product",
+      "published_at": "1405/07/29 11:20",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/control-automation/dcs/article/siemens-simatic-pcs-neo-update",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "راکول اتوماسیون نسخه جدید نرم‌افزار Logix Designer را برای کنترلرهای GuardLogix منتشر کرد",
+      "summary": "شرکت راکول اتوماسیون نسخه جدیدی از محیط نرم‌افزاری Studio 5000 Logix Designer را با تمرکز بر ایمنی ماشین‌آلات عرضه کرد. این نسخه بهبود چشمگیری در زمان پاسخ‌دهی ایمنی و پیکربندی منطق‌های حفاظتی کنترلرهای GuardLogix ایجاد می‌کند. ابزارهای عیب‌یابی بصری جدید به اپراتورها اجازه می‌دهد خطاهای سیستم ایمنی را در کوتاه‌ترین زمان ممکن شناسایی و برطرف کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 11:50",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/rockwell-automation-studio-5000-v36",
+      "tags": [
+        "Rockwell Automation",
+        "GuardLogix",
+        "Safety PLC",
+        "Studio 5000"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "افزایش قابلیت‌های دستیار هوش مصنوعی Siemens Industrial Copilot در تعمیر و نگهداری",
+      "summary": "زیمنس قابلیت‌های جدیدی را به دستیار هوش مصنوعی صنعتی خود موسفت Industrial Copilot اضافه کرد که به تکنسین‌ها در عیب‌یابی تجهیزات کمک می‌کند. با استفاده از این ابزار، تعمیرکاران می‌توانند کدهای خطای PLC و راهنماهای سرویس را به زبان طبیعی جستجو کرده و دستورالعمل‌های تعمیر را دریافت کنند. این فناوری زمان توقف اضطراب‌آور خطوط تولید را به طور قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 12:00",
+      "collected_at": "1405/07/29 12:06",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/ai-ml/siemens-expands-industrial-copilot-capabilities",
+      "tags": [
+        "Industrial Copilot",
+        "Artificial Intelligence",
+        "Siemens",
+        "Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "انتشار هشدار امنیتی CISA درباره آسیب‌پذیری‌های کنترل‌کننده‌های منطقی برنامه‌پذیر",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) گزارشی درباره چندین آسیب‌پذیری در تجهیزات اتوماسیون صنعتی منتشر کرد. این گزارش شامل توصیه‌هایی برای ایمن‌سازی پورت‌های ارتباطی و به‌روزرسانی سیستم‌عامل PLCها جهت جلوگیری از دسترسی غیرمجاز است. کارشناسان امنیتی به مدیران شبکه OT توصیه می‌کنند فوراً بسته‌های اصلاحی ارائه‌شده توسط سازندگان را نصب کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 12:02",
+      "collected_at": "1405/07/29 12:06",
+      "source": "CISA Cybersecurity Advisories",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-290-01",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "PLC",
+        "Vulnerability"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه زیرساخت‌های تولید باتری خودروهای الکتریکی با فناوری دوقلوی دیجیتال زیمنس",
+      "summary": "یک شرکت بزرگ خودروسازی اروپایی خطوط تولید باتری‌های لیتیومی خود را با استفاده از پلتفرم دوقلوی دیجیتال زیمنس راه‌اندازی کرد. این راهکار امکان شبیه‌سازی کامل فرآیند مونتاژ سلول‌های باتری و بهینه‌سازی جریان مواد را پیش از ساخت فیزیکی کارخانه فراهم ساخته است. این پروژه نمونه‌ای بارز از ترکیب نرم‌افزارهای مهندسی زیمنس با سخت‌افزارهای اتوماسیون پیشرفته است.",
+      "category": "industry",
+      "published_at": "1405/07/29 12:04",
+      "collected_at": "1405/07/29 12:06",
+      "source": "E&T Magazine",
+      "source_url": "https://eandt.theiet.org/2026/oct/siemens-digital-twin-battery-plant",
+      "tags": [
+        "Digital Twin",
+        "Siemens Xcelerator",
+        "EV Battery",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی درایوهای فرکانس متغیر SINAMICS G120X با استانداردهای جدید بهره‌وری انرژی",
+      "summary": "سری جدید درایوهای SINAMICS G120X زیمنس به‌طور ویژه برای کاربردهای صنعت آب، فاضلاب و تهویه مطبوع (HVAC) به بازار عرضه شدند. این درایوها با دارا بودن الگوریتم‌های پیشرفته کنترل موتور، راندمان مصرف انرژی را حتی در بارهای جزئی به حداکثر می‌رسانند. طراحی ماژولار و سازگاری کامل با سیستم‌های اتوماسیون SIMATIC از دیگر ویژگی‌های برجسته این تجهیزات است.",
+      "category": "product",
+      "published_at": "1405/07/29 12:05",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-updates-sinamics-g120x-drives/",
+      "tags": [
+        "SINAMICS G120X",
+        "VFD",
+        "Energy Efficiency",
+        "Siemens"
       ]
     }
   ]
