@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1041,
+  "count": 1051,
   "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/29 06:58",
+  "updated_at": "1405/07/29 08:51",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -16650,6 +16650,166 @@
         "EU",
         "OT Security",
         "Compliance"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "ارتقای هوش مصنوعی در پلتفرم Industrial Copilot زیمنس",
+      "summary": "زیمنس با ادغام مدل‌های زبانی بزرگ جدید در پلتفرم Industrial Copilot، توانایی مهندسان برای نوشتن کد PLC را به طور کامل متحول کرد. این به‌روزرسانی جدید به کاربران اجازه می‌دهد تا با استفاده از زبان طبیعی، دستورات برنامه‌نویسی پیچیده را برای سیستم‌های SIMATIC صادر کنند. این اقدام گامی بزرگ در جهت کاهش زمان برنامه‌نویسی و کاهش خطاهای انسانی در خطوط تولید مدرن است.",
+      "category": "product",
+      "published_at": "1405/07/28 14:30",
+      "collected_at": "1405/07/29 08:51",
+      "source": "Siemens Press",
+      "source_url": "https://www.siemens.com/global/en/company/press/news/industrial-ai-copilot.html",
+      "tags": [
+        "Siemens",
+        "AI",
+        "Industrial Copilot",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "هشدار امنیتی جدید درباره پروتکل‌های ارتباطی تجهیزات OT",
+      "summary": "کارشناسان امنیت سایبری نسبت به وجود یک حفره امنیتی جدید در پروتکل‌های رایج ارتباطی در تجهیزات OT هشدار داده‌اند. این آسیب‌پذیری می‌تواند به مهاجمان اجازه دهد تا بدون شناسایی، دستورات مخرب را به کنترل‌کننده‌های منطقی برنامه‌پذیر ارسال کنند. شرکت‌های صنعتی باید بلافاصله فریم‌ورهای خود را بر اساس توصیه‌های CISA به‌روزرسانی کنند تا از حملات احتمالی جلوگیری شود.",
+      "category": "regulation",
+      "published_at": "1405/07/28 10:00",
+      "collected_at": "1405/07/29 08:51",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/alerts/industrial-protocol-vulnerability",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "ICS",
+        "CISA"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "رونمایی کایکو از ربات‌های همکار با دقت بالا برای مونتاژ",
+      "summary": "شرکت KUKA از سری جدید ربات‌های همکار (Cobots) خود با دقت بسیار بالا رونمایی کرد که برای مونتاژ قطعات الکترونیکی کوچک طراحی شده است. این ربات‌ها دارای حسگرهای لمسی پیشرفته‌ای هستند که ایمنی اپراتور را در محیط‌های کاری مشترک تضمین می‌کنند. این محصول جدید می‌تواند بهره‌وری در خطوط مونتاژ ظریف را تا ۳۰ درصد افزایش دهد.",
+      "category": "product",
+      "published_at": "1405/07/27 16:45",
+      "collected_at": "1405/07/29 08:51",
+      "source": "KUKA News",
+      "source_url": "https://www.kuka.com/en-de/products/collaborative-robots",
+      "tags": [
+        "KUKA",
+        "Robotics",
+        "Cobots",
+        "Electronics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "راهکارهای جدید زیمنس برای مدیریت انرژی در مراکز داده",
+      "summary": "زیمنس با معرفی راهکار جدید مدیریت انرژی مبتنی بر پلتفرم Xcelerator، به دنبال بهینه‌سازی مصرف برق در مراکز داده بزرگ است. این سیستم با استفاده از تحلیل‌های پیشرفته، مصرف انرژی را در زمان‌های پیک کاهش می‌دهد. این فناوری به اپراتورها کمک می‌کند تا هزینه‌های عملیاتی و ردپای کربن خود را به طور چشمگیری مدیریت و کنترل کنند.",
+      "category": "industry",
+      "published_at": "1405/07/27 09:15",
+      "collected_at": "1405/07/29 08:51",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://www.siemens.com/energy-management-data-centers",
+      "tags": [
+        "Siemens",
+        "Energy Management",
+        "Data Center",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "سیستم کنترل فرآیند جدید امرسون برای صنایع دارویی",
+      "summary": "شرکت امرسون از سیستم کنترل فرآیند جدید خود که با استانداردهای سخت‌گیرانه GMP سازگار است، رونمایی کرد. این سیستم با قابلیت‌های مانیتورینگ بلادرنگ، دقت در تولید داروهای حساس را تضمین می‌کند. استفاده از این تکنولوژی می‌تواند ریسک ناخالصی در محصولات دارویی و همچنین هزینه‌های بازرسی کیفیت را به شدت کاهش دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 11:20",
+      "collected_at": "1405/07/29 08:51",
+      "source": "Emerson Automation",
+      "source_url": "https://www.emerson.com/en-us/automation/pharmaceutical-control-systems",
+      "tags": [
+        "Emerson",
+        "DCS",
+        "Pharmaceutical",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "تاثیر کمبود تراشه بر بازار تجهیزات اتوماسیون صنعتی",
+      "summary": "گزارش‌های اخیر نشان می‌دهد که گسترش تولید نیمه‌هادی‌ها در اروپا باعث تغییر در زنجیره تامین تجهیزات اتوماسیون شده است. این روند باعث شده تا شرکت‌هایی مانند زیمنس سرمایه‌گذاری‌های سنگینی در تامین قطعات حساس انجام دهند. تامین قطعاتی مانند درایوها و کنترل‌کننده‌ها همچنان یک چالش استراتژیک برای تولیدکنندگان جهانی محسوب می‌شود.",
+      "category": "economy",
+      "published_at": "1405/07/25 15:00",
+      "collected_at": "1405/07/29 08:51",
+      "source": "Reuters Industry",
+      "source_url": "https://www.reuters.com/technology/semiconductor-impact-automation-industry",
+      "tags": [
+        "Semiconductor",
+        "Supply Chain",
+        "Economy",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "قابلیت جدید TIA Portal برای اتصال به شبکه‌های 5G",
+      "summary": "زیمنس نسخه جدیدی از محیط برنامه‌نویسی TIA Portal را منتشر کرد که قابلیت اتصال مستقیم به تجهیزات مجهز به مودم‌های 5G صنعتی را دارد. این ویژگی اجازه می‌دهد تا سایت‌های دورافتاده با سرعت بسیار بالا به مرکز کنترل متصل شوند. این توسعه برای مدیریت پروژه‌های اتوماسیون در مناطق با زیرساخت‌های ارتباطی محدود بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/24 13:10",
+      "collected_at": "1405/07/29 08:51",
+      "source": "Siemens Software",
+      "source_url": "https://www.siemens.com/tia-portal-5g-connectivity",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "5G",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "کاربرد دوقلوی دیجیتال در لجستیک انبار هوشمند",
+      "summary": "شرکت‌های بزرگ تولیدی با استفاده از مدل‌های دوقلوی دیجیتال، فرآیند جابجایی کالا در انبارها را به طور کامل شبیه‌سازی می‌کنند. این روش با پیش‌بینی گلوگاه‌های احتمالی، اجازه می‌دهد تا سیستم‌های AGV و ربات‌های لجستیک با کارایی بیشتری عمل کنند. این فناوری باعث کاهش زمان توقف خطوط و افزایش سرعت توزیع محصولات نهایی می‌شود.",
+      "category": "research",
+      "published_at": "1405/07/23 17:40",
+      "collected_at": "1405/07/29 08:51",
+      "source": "Industry 4.0 Journal",
+      "source_url": "https://www.industry40.com/digital-twin-logistics-optimization",
+      "tags": [
+        "Digital Twin",
+        "Logistics",
+        "AGV",
+        "Smart Warehouse"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی ماژول‌های I/O مقاوم فونیکس کنتاکت برای صنایع سنگین",
+      "summary": "شرکت فونیکس کنتاکت از سری جدید ماژول‌های ورودی/خروجی خود رونمایی کرد که در برابر شوک‌های حرارتی و لرزش‌های شدید بسیار مقاوم هستند. این قطعات برای استفاده در صنایع معدنی و نفت و گاز که شرایط محیطی بسیار دشوار است، طراحی شده‌اند. این ماژول‌ها با پروتکل‌های ارتباطی صنعتی استاندارد کاملاً سازگار و قابل نصب هستند.",
+      "category": "product",
+      "published_at": "1405/07/22 08:50",
+      "collected_at": "1405/07/29 08:51",
+      "source": "Phoenix Contact",
+      "source_url": "https://www.phoenixcontact.com/en/rugged-io-modules",
+      "tags": [
+        "Phoenix Contact",
+        "I/O Modules",
+        "Hardened",
+        "Mining"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "همکاری زیمنس با تولیدکنندگان تراشه برای امنیت سخت‌افزاری",
+      "summary": "زیمنس برای تقویت امنیت در سطح سخت‌افزار، با چندین تولیدکننده پیشرو در حوزه نیمه‌هادی همکاری خود را آغاز کرد. هدف از این همکاری، تولید کنترل‌کننده‌هایی است که دارای لایه‌های امنیتی در سطح سیلیکون باشند. این اقدام می‌تواند از حملات فیزیکی و دستکاری‌های سخت‌افزاری در تجهیزات حساس صنعتی جلوگیری کند.",
+      "category": "company",
+      "published_at": "1405/07/21 12:00",
+      "collected_at": "1405/07/29 08:51",
+      "source": "Siemens Newsroom",
+      "source_url": "https://www.siemens.com/hardware-security-partnership",
+      "tags": [
+        "Siemens",
+        "Semiconductor",
+        "Hardware Security",
+        "Partnership"
       ]
     }
   ]
