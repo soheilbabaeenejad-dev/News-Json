@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1088,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/29 13:01",
+  "count": 1098,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/29 13:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -17375,6 +17375,166 @@
         "Cybersecurity",
         "OT Security",
         "Research"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی جدید PROFINET برای توسعه شبکه‌های صنعتی پرسرعت",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی PROFINET برای سری کنترل‌کننده‌های SIMATIC S7-1500 رونمایی کرد. این ماژول‌ها با هدف افزایش سرعت تبادل داده و ارتقای پهنای باند در شبکه‌های اتوماسیون پیچیده کارخانه‌ای طراحی شده‌اند. این راهکار جدید به مهندسان اجازه می‌دهد تا تجهیزات مختلف OT را با امنیت و پایداری بیشتری به لایه‌های بالاتر IT متصل کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 08:15",
+      "collected_at": "1405/07/29 13:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-profinet-modules-2026",
+      "tags": [
+        "Siemens",
+        "PROFINET",
+        "SIMATIC S7-1500",
+        "OT/IT"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "به‌روزرسانی نرم‌افزار SIMATIC PCS 7 زیمنس با قابلیت‌های پیشرفته مدیریت آلارم",
+      "summary": "زیمنس نسخه جدیدی از سیستم کنترل فرآیند کلاسیک خود یعنی SIMATIC PCS 7 را منتشر کرد که تمرکز اصلی آن روی بهبود مدیریت آلارم و کاهش خطاهای انسانی است. این به‌روزرسانی ابزارهای تحلیل ریشه‌ای را تقویت کرده و به اپراتورها کمک می‌کند در شرایط بحرانی فرآیندهای صنعتی تصمیمات سریع‌تر و دقیق‌تری اتخاذ کنند. این پلتفرم همچنان ستون فقرات بسیاری از کارخانجات بزرگ شیمیایی و داروسازی جهان محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 08:45",
+      "collected_at": "1405/07/29 13:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-pcs7-update-2026",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش همکاری زیمنس و دانشگاه فنی مونیخ برای توسعه پژوهش‌های رباتیک شناختی",
+      "summary": "زیمنس و دانشگاه فنی مونیخ طی یک توافقنامه جدید، همکاری‌های خود را در حوزه رباتیک شناختی و کاربرد هوش مصنوعی در خطوط مونتاژ توسعه دادند. این پروژه مشترک بر روی یادگیری تطبیقی ربات‌های صنعتی در مواجهه با قطعات نامنظم تمرکز دارد. هدف نهایی، دستیابی به کارخانه‌های کاملاً انعطاف‌پذیری است که بتوانند بدون نیاز به برنامه‌نویسی مجدد دستی، محصولات سفارشی تولید کنند.",
+      "category": "research",
+      "published_at": "1405/07/29 09:20",
+      "collected_at": "1405/07/29 13:02",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-tum-partnership-2026",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "AI",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه ماژول‌های جدید امنیت سایبری برای تجهیزات SIMATIC توسط زیمنس",
+      "summary": "برای مقابله با تهدیدات روزافزون سایبری علیه زیرساخت‌های حیاتی، زیمنس ماژول‌های سخت‌افزاری دیواره آتش جدیدی را برای خانواده SIMATIC معرفی کرد. این ماژول‌ها از بازرسی عمیق بسته‌ها (DPI) و پروتکل‌های رمزنگاری پیشرفته پشتیبانی می‌کنند. نصب این تجهیزات در ورودی شبکه کنترل، مانع از نفوذ بدافزارهای مخرب به درون لایه‌های حساس PLC می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 09:55",
+      "collected_at": "1405/07/29 13:02",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-security-modules-2026",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "PLC",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "معرفی ابزار جدید دیجیتال‌سازی انبارها توسط ABB مبتنی بر هوش مصنوعی",
+      "summary": "شرکت ABB از نرم‌افزار مدیریت لجستیک هوشمند خود با نام تجاری RoboWarehouse رونمایی کرد که برای بهینه‌سازی مسیر حرکت ربات‌های خودگردان در انبارهای بزرگ ساخته شده است. این سیستم با استفاده از الگوریتم‌های یادگیری ماشین، تراکم ترافیک ربات‌ها را پیش‌بینی کرده و زمان جابجایی کالاها را تا بیست درصد کاهش می‌دهد. این راهکار به طور کامل با سیستم‌های مدیریت انبار موجود در کارخانجات یکپارچه می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 10:30",
+      "collected_at": "1405/07/29 13:02",
+      "source": "Logistics Tech Outlook",
+      "source_url": "https://www.logisticstechoutlook.com/abb-robowarehouse-2026",
+      "tags": [
+        "ABB",
+        "Logistics",
+        "AGV",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "اشنایدر الکتریک پلتفرم EcoStruxure را برای مدیریت مصرف آب در صنایع سنگین ارتقا داد",
+      "summary": "اشنایدر الکتریک ماژول جدیدی را به پلتفرم مدیریت انرژی EcoStruxure اضافه کرده است که به طور اختصاصی روی پایش و بهینه‌سازی مصرف آب در صنایع معدنی و فلزی تمرکز دارد. این ماژول با جمع‌آوری داده‌ها از سنسورهای مختلف و تحلیل آن‌ها توسط الگوریتم‌های ابری، هدررفت منابع را به حداقل می‌رساند. این اقدام در راستای اهداف توسعه پایدار و کاهش ردپای کربن در صنایع بزرگ صورت گرفته است.",
+      "category": "product",
+      "published_at": "1405/07/29 11:00",
+      "collected_at": "1405/07/29 13:02",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/schneider-ecostruxure-water-2026",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Sustainability",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "راکول اتوماسیون قابلیت‌های جدید تحلیل داده‌های لبه را به پلتفرم FactoryTalk اضافه کرد",
+      "summary": "راکول اتوماسیون با ارائه نسخه جدید ابزارهای نرم‌افزاری FactoryTalk Edge، امکان پردازش محلی داده‌های زمان واقعی را به شدت تقویت کرد. این قابلیت به اپراتورها اجازه می‌دهد بدون وابستگی دائمی به سرورهای ابری، ناهنجاری‌های مکانیکی را در ماشین‌آلات شناسایی کنند. این رویکرد هیبریدی باعث کاهش تأخیر در پاسخگویی سیستم و افزایش امنیت اطلاعات محرمانه تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 11:35",
+      "collected_at": "1405/07/29 13:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/rockwell-factorytalk-edge-2026",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Edge Computing",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "انتشار گزارش جدید موسسه ARC Advisory Group درباره رشد بازار جهانی نرم‌افزارهای مهندسی TIA Portal",
+      "summary": "موسسه تحقیقاتی ARC Advisory Group در گزارش جدید خود اعلام کرد که سهم بازار پلتفرم مهندسی TIA Portal زیمنس در سال گذشته میلادی رشد قابل توجهی داشته است. این گزارش دلیل اصلی موفقیت مذکور را یکپارچه‌سازی ابزارهای طراحی، شبیه‌سازی و مهندسی در یک محیط واحد عنوان می‌کند. کارشناسان معتقدند این پلتفرم استاندارد جدیدی را در مهندسی سیستم‌های اتوماسیون صنعتی ایجاد کرده است.",
+      "category": "research",
+      "published_at": "1405/07/29 12:00",
+      "collected_at": "1405/07/29 13:02",
+      "source": "ARC Advisory Group",
+      "source_url": "https://www.arcweb.com/blog/siemens-tia-portal-market-share-2026",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Market Research",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه همکاری زیمنس و زوای (Zuken) برای بهبود طراحی مدارهای الکتریکی تابلوهای برق",
+      "summary": "زیمنس و شرکت Zuken توافقنامه‌ای را برای اتصال عمیق‌تر نرم‌افزار طراحی مهندسی E3.series به اکوسیستم Siemens Xcelerator امضا کردند. این یکپارچه‌سازی به سازندگان تابلوهای برق صنعتی امکان می‌دهد تا مستندات الکتریکی را به صورت کاملاً هماهنگ با برنامه‌نویسی PLC در TIA Portal پیش ببرند. این همکاری زمان لازم از ایده تا ساخت تابلوهای کنترل را به طور محسوسی کاهش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/29 12:30",
+      "collected_at": "1405/07/29 13:02",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-zuken-partnership-2026",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Electrical Design",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "آغاز به کار مرکز جدید آموزش مهندسی اتوماسیون زیمنس در پایتخت صنعتی اروپا",
+      "summary": "شرکت زیمنس بزرگترین مرکز تخصصی آموزش فناوری‌های SIMATIC و Industrial Edge را در شهر فرانکفورت افتتاح کرد. این مرکز مجهز به خطوط تولید آزمایشی واقعی است تا دانشجویان و مهندسان صنایع بتوانند کار با تجهیزات پیشرفته اتوماسیون را به صورت عملی تجربه کنند. هدف از این سرمایه‌گذاری، برطرف کردن کمبود نیروی انسانی متخصص در حوزه نگهداری و برنامه‌نویسی سیستم‌های صنعتی مدرن است.",
+      "category": "industry",
+      "published_at": "1405/07/29 13:00",
+      "collected_at": "1405/07/29 13:02",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-training-center-2026",
+      "tags": [
+        "Siemens",
+        "Education",
+        "Industrial Edge",
+        "SIMATIC"
       ]
     }
   ]
