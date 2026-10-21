@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1031,
+  "count": 1041,
   "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/29 05:27",
+  "updated_at": "1405/07/29 06:58",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -16492,6 +16492,164 @@
         "5G",
         "Industrial Networking",
         "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261021-001",
+      "title": "زیمنس از قابلیت تولید خودکار کد PLC با استفاده از هوش مصنوعی رونمایی کرد",
+      "summary": "شرکت زیمنس با معرفی یک ابزار جدید در محیط TIA Portal، امکان تولید خودکار کدهای برنامه‌نویسی برای کنترل‌کننده‌های SIMATIC را فراهم کرده است. این فناوری با استفاده از مدل‌های زبانی بزرگ، زمان مهندسی پروژه‌های پیچیده را به شدت کاهش می‌دهد. این قابلیت به مهندسان اجازه می‌دهد تا با دستورات متنی ساده، منطق کنترل را پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/28 14:30",
+      "collected_at": "1405/07/29 06:58",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/news/ai-driven-plc-coding",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "AI",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261021-002",
+      "title": "ورود ربات‌های خودگردان ABB به مدیریت انبار‌های هوشمند با فناوری LiDAR",
+      "summary": "شرکت ABB از نسل جدید ربات‌های متحرک خود (AMR) رونمایی کرد که مجهز به حسگرهای پیشرفته LiDAR برای ناوبری دقیق در محیط‌های شلوغ هستند. این ربات‌ها می‌توانند بدون نیاز به تغییر در زیرساخت کارخانه، مسیرهای بهینه را برای جابجایی کالا پیدا کنند. این محصول با هدف افزایش سرعت لجستیک در صنایع خودکارسازی شده عرضه شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 15:45",
+      "collected_at": "1405/07/29 06:58",
+      "source": "ABB Newsroom",
+      "source_url": "https://new.abb.com/robotics/amr-lidar-navigation",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "AMR",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261021-003",
+      "title": "اشنایدر الکتریک راهکار جدید اتوماسیون مبتنی بر نرم‌افزار را معرفی کرد",
+      "summary": "اشنایدر الکتریک با معرفی پلتفرم جدید خود، مفهوم اتوماسیون مبتنی بر نرم‌افزار را به بازار عرضه کرد تا وابستگی به سخت‌افزارهای اختصاصی کاهش یابد. این رویکرد اجازه می‌دهد تا کنترل‌کننده‌ها از طریق بسته‌های نرم‌افزاری استاندارد مدیریت شوند. این تغییر پارادایم باعث کاهش هزینه‌های عملیاتی و افزایش انعطاف‌پذیری خطوط تولید می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/28 16:20",
+      "collected_at": "1405/07/29 06:58",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/software-defined-automation",
+      "tags": [
+        "Schneider Electric",
+        "Software-Defined",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "تقویت امنیت سایبری در پلتفرم Siemens Industrial Edge با پروتکل‌های Zero Trust",
+      "summary": "زیمنس برای مقابله با تهدیدات سایبری در لبه شبکه، پروتکل‌های امنیت صفر اعتماد (Zero Trust) را به پلتفرم Industrial Edge اضافه کرد. این به‌روزرسانی تضمین می‌کند که هر دستگاه و کاربر در شبکه OT باید هویت خود را به طور مداوم تایید کند. این اقدام برای محافظت از داده‌های حساس صنعتی در برابر حملات پیشرفته بسیار حیاتی است.",
+      "category": "news",
+      "published_at": "1405/07/28 17:10",
+      "collected_at": "1405/07/29 06:58",
+      "source": "Siemens Security",
+      "source_url": "https://www.siemens.com/industrial-edge-security-update",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "Zero Trust",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "راکول اتوماسیون از سیستم کنترل توزیع‌شده کاملاً ابری خود رونمایی کرد",
+      "summary": "شرکت راکول اتوماسیون با معرفی نسخه ابری از سیستم‌های مدیریت فرآیند، امکان کنترل از راه دور و مدیریت داده‌ها در مقیاس جهانی را فراهم کرده است. این سیستم به اپراتورها اجازه می‌دهد تا پارامترهای تولید را از هر جای دنیا مدیریت کنند. این نوآوری با هدف کاهش هزینه‌های نگهداری زیرساخت‌های محلی انجام شده است.",
+      "category": "product",
+      "published_at": "1405/07/28 18:05",
+      "collected_at": "1405/07/29 06:58",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/cloud-dcs-announcement",
+      "tags": [
+        "Rockwell Automation",
+        "DCS",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "زیمنس و پلتفرم Xcelerator برای کاهش ردپای کربن در صنایع سنگین",
+      "summary": "زیمنس با ادغام ابزارهای تحلیل انرژی در پلتفرم Siemens Xcelerator، راهکاری برای پایش دقیق مصرف انرژی در صنایع سنگین ارائه داد. این ابزار با استفاده از داده‌های Real-time، نقاط اتلاف انرژی را شناسایی و پیشنهادهای بهینه‌سازی می‌دهد. این حرکت بخشی از استراتژی جهانی زیمنس برای دستیابی به اهداف پایداری و محیط‌زیستی است.",
+      "category": "industry",
+      "published_at": "1405/07/28 19:30",
+      "collected_at": "1405/07/29 06:58",
+      "source": "Siemens Sustainability",
+      "source_url": "https://www.siemens.com/xcelerator-energy-management",
+      "tags": [
+        "Siemens",
+        "Sustainability",
+        "Energy Management",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "یکپارچگی نسل جدید ارتباطات 5G در ماژول‌های SIMATIC زیمنس",
+      "summary": "زیمنس اعلام کرد که ماژول‌های ارتباطی جدید سری SIMATIC اکنون از پهنای باند بالا و تأخیر بسیار کم در شبکه‌های 5G پشتیبانی می‌کنند. این قابلیت اجازه می‌دهد تا تعداد بیشتری از حسگرها و ربات‌ها به صورت بی‌سیم و با سرعت بالا به شبکه متصل شوند. این فناوری برای پیاده‌سازی کارخانه‌های کاملاً بدون سیم بسیار ضروری است.",
+      "category": "product",
+      "published_at": "1405/07/28 20:15",
+      "collected_at": "1405/07/29 06:58",
+      "source": "Siemens Industry",
+      "source_url": "https://www.siemens.com/simatic-5g-connectivity",
+      "tags": [
+        "Siemens",
+        "5G",
+        "SIMATIC",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "آزمایش موفقیت‌آمیز ربات‌های انسان‌نمند در خطوط مونتاژ ظریف",
+      "summary": "در یک آزمایش صنعتی جدید، ربات‌های انسان‌نمند مجهز به هوش مصنوعی توانستند قطعات الکترونیکی بسیار ظریف را با دقت بالا مونتاژ کنند. این ربات‌ها با استفاده از بینایی ماشین پیشرفته، قادر به درک تغییرات محیطی هستند. این پیشرفت می‌تواند جایگزین نیروی کار انسانی در وظایف تکراری و حساس در صنایع الکترونیک شود.",
+      "category": "research",
+      "published_at": "1405/07/28 21:40",
+      "collected_at": "1405/07/29 06:58",
+      "source": "Tech Automation Journal",
+      "source_url": "https://www.techautomation.com/humanoid-robots-assembly",
+      "tags": [
+        "Robotics",
+        "AI",
+        "Humanoid",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "ارتقای قابلیت‌های دوقلوی دیجیتال در نرم‌افزار TIA Portal برای شبیه‌سازی دقیق‌تر",
+      "summary": "زیمنس نسخه جدیدی از ابزارهای شبیه‌سازی را در TIA Portal معرفی کرد که دقت دوقلوی دیجیتال را تا سطح فیزیکی افزایش می‌دهد. این به‌روزرسانی اجازه می‌دهد تا رفتارهای مکانیکی و الکتریکی ماشین‌آلات قبل از ساخت، با دقت بسیار بالا پیش‌بینی شود. این کار باعث کاهش زمان راه‌اندازی خطوط تولید و جلوگیری از خطاهای گران‌قیمت می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 22:55",
+      "collected_at": "1405/07/29 06:58",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://www.siemens.com/tia-portal-digital-twin-update",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "TIA Portal",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "استانداردهای جدید امنیت OT توسط اتحادیه اروپا برای تجهیزات اتوماسیون",
+      "summary": "اتحادیه اروپا مقررات جدیدی را برای امنیت سایبری در تجهیزات اتوماسیون صنعتی تصویب کرد که تمامی تولیدکنندگان را ملزم به رعایت استانداردهای سخت‌گیرانه می‌کند. این قوانین بر شفافیت زنجیره تامین نرم‌افزاری و مدیریت آسیب‌پذیری‌ها تمرکز دارند. شرکت‌های بزرگ مانند زیمنس و اشنایدر باید محصولات خود را با این قوانین جدید تطبیق دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 01:10",
+      "collected_at": "1405/07/29 06:58",
+      "source": "EU Industrial Policy",
+      "source_url": "https://ec.europa.eu/digital-strategy/ot-security-standards",
+      "tags": [
+        "Regulation",
+        "EU",
+        "OT Security",
+        "Compliance"
       ]
     }
   ]
