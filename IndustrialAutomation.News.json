@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1091,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/29 12:39",
+  "count": 1101,
+  "provider": "Gemini/gemini-3.5-flash",
+  "updated_at": "1405/07/29 14:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -17430,6 +17430,172 @@
         "Industrial Protocol",
         "Interoperability",
         "Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی سوئیچ‌های صنعتی جدید سری Scalance XC-200 زیمنس با پشتیبانی از TSN",
+      "summary": "زیمنس نسل جدید سوئیچ‌های مدیریت‌شده سری Scalance XC-200 را برای بهبود ارتباطات شبکه در محیط‌های سخت صنعتی عرضه کرده است. این سوئیچ‌ها با پشتیبانی از پروتکل‌های TSN و PROFINET IRT، تاخیر در انتقال داده‌های کنترلی را به حداقل می‌رسانند. استفاده از این تجهیزات موجب افزایش پایداری خطوط تولید و بهبود امنیت سایبری شبکه‌های OT می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 08:30",
+      "collected_at": "1405/07/29 14:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-expands-industrial-networking-portfolio-scalance-xc-200",
+      "tags": [
+        "Siemens",
+        "Scalance",
+        "TSN",
+        "PROFINET",
+        "OT Network"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه همکاری زیمنس و بنتلی سیستمز برای ادغام داده‌های عملیاتی در دوقلوهای دیجیتال",
+      "summary": "شرکت زیمنس و بنتلی سیستمز همکاری استراتژیک خود را برای اتصال پلتفرم Insights Hub به نرم‌افزارهای مدلسازی زیرساخت گسترش دادند. این یکپارچه‌سازی امکان پایش بلادرنگ وضعیت دارایی‌های بزرگ صنعتی مانند نیروگاه‌ها و کارخانه‌ها را فراهم می‌سازد. با تحلیل پیشرفته داده‌های سنسورها، هزینه‌های توقف ناگهانی تولید تا ۲۵ درصد کاهش می‌یابد.",
+      "category": "company",
+      "published_at": "1405/07/29 09:15",
+      "collected_at": "1405/07/29 14:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/digital-twin/news/33014520/siemens-and-bentley-expand-digital-twin-integration",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Bentley Systems",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "عرضه بسته نرم‌افزاری جدید زیمنس برای ارتقای ایمنی کنترل‌کننده‌های SIMATIC S7-1500F",
+      "summary": "زیمنس بسته نرم‌افزاری جدیدی را برای سیستم‌های ایمنی اتوماسیون در محیط TIA Portal معرفی نمود. این راهکار برنامه‌نویسی توابع Failsafe در کنترل‌کننده‌های سری S7-1500F را تسهیل کرده و زمان عیب‌یابی خطاهای ایمنی را به‌شدت کاهش می‌دهد. این اقدام پاسخ به نیاز صنایع خودرو و داروسازی برای دستیابی به استانداردهای سخت‌گیرانه SIL 3 است.",
+      "category": "product",
+      "published_at": "1405/07/29 09:50",
+      "collected_at": "1405/07/29 14:00",
+      "source": "Siemens Global",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal/safety.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500F",
+        "TIA Portal",
+        "Safety",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "رونمایی راکول اتوماسیون از کنترل‌کننده‌های ایمنی جدید سری GuardLogix 5580",
+      "summary": "راکول اتوماسیون نسل تازه کنترل‌کننده‌های ایمنی GuardLogix 5580 را با قدرت پردازش دوبرابر نسبت به نسخه‌های قبلی وارد بازار کرد. این کنترل‌کننده‌ها پردازش همزمان توابع استاندارد و ایمنی را در یک سخت‌افزار واحد فراهم می‌سازند. این ویژگی باعث کاهش تجهیزات تابلو برق و تسهیل یکپارچه‌سازی در خطوط مونتاژ پیچیده می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 10:20",
+      "collected_at": "1405/07/29 14:00",
+      "source": "Rockwell Automation Newsroom",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/guardlogix-5580-safety-controllers.html",
+      "tags": [
+        "Rockwell Automation",
+        "GuardLogix",
+        "PLC",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "به‌روزرسانی درایوهای چندمحوره SINAMICS S120 زیمنس با قابلیت‌های امنیتی جدید",
+      "summary": "زیمنس سیستم درایو چندمحوره SINAMICS S120 را به سخت‌افزار ارتقایافته و پروتکل‌های ارتباطی امن مجهز کرد. این به‌روزرسانی از دسترسی‌های غیرمجاز به پارامترهای حرکتی در سیستم‌های کنترل حرکت پیشرفته جلوگیری می‌کند. صنایع بسته‌بندی و ماشین‌سازی می‌توانند با این درایوها امنیت لایه عملیاتی خود را مطابق با استاندارد IEC 62443 ارتقا دهند.",
+      "category": "product",
+      "published_at": "1405/07/29 11:00",
+      "collected_at": "1405/07/29 14:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-enhances-sinamics-s120-drives-with-embedded-cybersecurity/",
+      "tags": [
+        "Siemens",
+        "SINAMICS S120",
+        "Drives",
+        "Cybersecurity",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای سیستم کنترل توزیع‌شده EcoStruxure Foxboro توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک نسخه جدید سیستم کنترل توزیع‌شده EcoStruxure Foxboro DCS را با پشتیبانی از معماری اتوماسیون باز عرضه کرد. این سیستم امکان ادغام آسان‌تر نرم‌افزارهای شخص ثالث و سنسورهای هوشمند را در پالایشگاه‌ها فراهم می‌سازد. بهبود کارایی انرژی و افزایش قابلیت اطمینان سیستم تا ۱۵ درصد از دستاوردهای کلیدی این نسخه است.",
+      "category": "product",
+      "published_at": "1405/07/29 11:40",
+      "collected_at": "1405/07/29 14:00",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/press-releases/ecostruxure-foxboro-dcs-update.jsp",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Foxboro",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "هشدار آژانس CISA درباره پیکربندی نادرست پروتکل OPC UA در سیستم‌های اسکادا",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) راهنمای جدیدی درباره خطرات ناشی از پیکربندی غیراستاندارد OPC UA در شبکه‌های صنعتی منتشر کرد. این نهاد از مدیران شبکه OT خواست تا گواهی‌های دیجیتال را به‌روز کرده و رمزنگاری داده‌ها را فعال کنند. این توصیه جهت جلوگیری از حملات دستکاری داده‌ها در سیستم‌های مانیتورینگ صادر شده است.",
+      "category": "regulation",
+      "published_at": "1405/07/29 12:15",
+      "collected_at": "1405/07/29 14:00",
+      "source": "CISA Advisories",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/opc-ua-configuration-best-practices",
+      "tags": [
+        "CISA",
+        "OPC UA",
+        "SCADA",
+        "OT Security",
+        "ICS"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "عرضه اپلیکیشن هوش مصنوعی جدید زیمنس برای پیش‌بینی کیفیت در Siemens Industrial Edge",
+      "summary": "زیمنس نرم‌افزار جدید Predictive Quality را برای اجرای مستقیم روی سخت‌افزارهای Siemens Industrial Edge معرفی نمود. این برنامه با تحلیل فرآیندهای تولید در لبه شبکه، قطعات معیوب را قبل از اتمام ساخت شناسایی می‌کند. استفاده از این ابزار هوشمند ضایعات مواد اولیه را در خطوط تولید قطعات فلزی تا ۲۰ درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 12:45",
+      "collected_at": "1405/07/29 14:00",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.iaasiaonline.com/siemens-launches-ai-predictive-quality-app-for-industrial-edge/",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "Predictive Maintenance",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "رونمایی فونیکس کنتاکت از منابع تغذیه هوشمند QUINT با درگاه ارتباطی IO-Link",
+      "summary": "شرکت فونیکس کنتاکت نسل جدید منابع تغذیه سری QUINT POWER را مجهز به رابط ارتباطی IO-Link وارد بازار نمود. این ویژگی امکان پایش پیوسته ولتاژ، جریان و دمای منبع تغذیه را از طریق پلتفرم‌های اتوماسیون فراهم می‌آورد. مهندسان می‌توانند با تحلیل این داده‌ها، نقایص احتمالی برق‌رسانی را پیش از بروز خرابی پیش‌بینی کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 13:15",
+      "collected_at": "1405/07/29 14:00",
+      "source": "Phoenix Contact Press",
+      "source_url": "https://www.phoenixcontact.com/en-pc/news-and-events/news/quint-power-supplies-with-io-link",
+      "tags": [
+        "Phoenix Contact",
+        "QUINT POWER",
+        "IO-Link",
+        "Power Supply"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "خودکارسازی جدیدترین کارخانه تولید هیدروژن سبز در آلمان با فناوری SIMATIC زیمنس",
+      "summary": "زیمنس تجهیز سیستم کنترل و اتوماسیون یکی از بزرگ‌ترین کارخانه‌های هیدروژن سبز در آلمان را با سیستم SIMATIC PCS 7 بر عهده گرفت. این پروژه شامل مدیریت دقیق فرآیند الکترولیز و پایش ایمنی گاز هیدروژن به‌صورت ۲۴ ساعته است. استفاده از راهکارهای اتوماسیون زیمنس به بهینه‌سازی مصرف انرژی و افزایش ایمنی عملیاتی پروژه کمک شایانی می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/29 13:45",
+      "collected_at": "1405/07/29 14:00",
+      "source": "Energy Storage News",
+      "source_url": "https://www.energy-storage.news/siemens-automates-major-green-hydrogen-plant-in-germany/",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "Hydrogen",
+        "Green Energy",
+        "DCS"
       ]
     }
   ]
