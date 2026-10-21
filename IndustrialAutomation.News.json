@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1225,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/29 23:58",
+  "count": 1235,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/30 02:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -19527,6 +19527,166 @@
         "Motion Control",
         "PLC",
         "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از ماژول‌های ارتباطی جدید SCALANCE برای شبکه‌های امن صنعتی",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی سری SCALANCE با پشتیبانی از پروتکل‌های امنیتی پیشرفته رونمایی کرد. این تجهیزات برای حفاظت از شبکه‌های حساس OT و جلوگیری از نفوذ سایبری به لزوم زیرساخت‌های کلیدی طراحی شده‌اند. مدل‌های جدید امکان مانیتورینگ بلادرنگ ترافیک شبکه را با پلتفرم TIA Portal فراهم می‌آورند.",
+      "category": "product",
+      "published_at": "1405/07/30 01:00",
+      "collected_at": "1405/07/30 02:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/scalance-siemens-security",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "OT Security",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پیش‌بینی خرابی در نرم‌افزار SIMATIC WinCC Unified",
+      "summary": "نسخه به‌روزرسانی‌شده نرم‌افزار مانیتورینگ SIMATIC WinCC Unified زیمنس با الگوریتم‌های جدید تحلیل داده منتشر شد. این ابزار به اپراتورها اجازه می‌دهد تا قبل از وقوع خرابی مکانیکی در تجهیزات، هشدارهای دقیقی دریافت کنند. این توسعه نقش مهمی در کاهش توقفات خطوط تولید و بهینه‌سازی هزینه‌های نگهداری ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 01:10",
+      "collected_at": "1405/07/30 02:04",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/wincc-unified-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای ارتقای اتوماسیون پنوماتیک",
+      "summary": "زیمنس و شرکت فستو تفاهم‌نامه همکاری جدیدی برای یکپارچه‌سازی سیستم‌های پنوماتیک با کنترل‌کننده‌های SIMATIC امضا کردند. این شراکت مهندسان را قادر می‌سازد تا تجهیزات مکانیکی و بادی را با سرعت بیشتری در محیط TIA Portal پیکربندی کنند. هدف اصلی این پروژه کاهش زمان راه‌اندازی ماشین‌آلات بسته‌بندی پیچیده است.",
+      "category": "industry",
+      "published_at": "1405/07/30 01:20",
+      "collected_at": "1405/07/30 02:04",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی کنترل‌کننده ایمن جدید SIMATIC S7-1500F با گواهینامه SIL3",
+      "summary": "خانواده کنترل‌کننده‌های ایمنی زیمنس با معرفی مدل جدید SIMATIC S7-1500F گسترش یافت که دارای تأییدیه معتبر ایمنی SIL3 است. این پردازنده قدرتمند برای کاربری‌های رباتیک پیچیده و خطوط پرس سنگین صنعتی بهینه شده است. مهندسین می‌توانند توابع ایمنی و استاندارد را درون یک سخت‌افزار واحد به‌راحتی مدیریت کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 01:30",
+      "collected_at": "1405/07/30 02:04",
+      "source": "IEB",
+      "source_url": "https://www.iebmedia.com/s7-1500f-sil3",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای پلتفرم Insights Hub برای تحلیل پیشرفته داده‌های مصرف انرژی",
+      "summary": "زیمنس پلتفرم ابری Insights Hub خود را با ابزارهای جدید هوش مصنوعی برای مدیریت کربن و بهینه‌سازی انرژی به‌روز کرد. این ماژول‌های جدید به کارخانه‌ها کمک می‌کنند تا ردپای کربن خود را به صورت دقیق و لحظه‌ای اندازه‌گیری کنند. این اقدام در راستای اهداف توسعه پایدار و استانداردهای سخت‌گیرانه زیست‌محیطی اروپا انجام شده است.",
+      "category": "news",
+      "published_at": "1405/07/30 01:40",
+      "collected_at": "1405/07/30 02:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/insights-hub-energy",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Energy Management",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "عرضه ماژول‌های توسعه‌یافته ورودی/خروجی برای سیستم ET 200MP",
+      "summary": "سری ماژول‌های توزیع‌شده ET 200MP زیمنس با اضافه‌شدن مدل‌های با تراکم بالا و سرعت پاسخ‌دهی بالا تقویت شد. این ماژول‌ها دقت بالایی در دریافت سیگنال‌های آنالوگ از سنسورهای دقیق خطوط تولید فراهم می‌کنند. این تجهیزات به کاهش فضای مورد نیاز در تابلوهای برق صنعتی کمک شایانی خواهند کرد.",
+      "category": "product",
+      "published_at": "1405/07/30 01:50",
+      "collected_at": "1405/07/30 02:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/et200mp-expansion",
+      "tags": [
+        "Siemens",
+        "ET 200MP",
+        "I/O Modules",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "گسترش کاربرد Siemens Industrial Copilot در صنایع خودروسازی",
+      "summary": "شرکت زیمنس از توسعه کاربردهای دستیار هوش مصنوعی Industrial Copilot در صنعت خودرو خبر داد تا تولید کدهای PLC خودکار شود. این ابزار مبتنی بر هوش مصنوعی مولد خطاهای برنامه‌نویسی را به حداقل رسانده و سرعت توسعه پروژه را افزایش می‌دهد. مهندسان می‌توانند دستورات متنی را به کدهای ساختاریافته SCL در محیط TIA Portal تبدیل کنند.",
+      "category": "news",
+      "published_at": "1405/07/30 02:00",
+      "collected_at": "1405/07/30 02:04",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/industrial-copilot-auto",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "AI",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "عرضه نسخه جدید درایوهای SINAMICS G120X با قابلیت‌های یکپارچه لبه",
+      "summary": "نسخه جدید درایوهای فرکانس متغیر SINAMICS G120X زیمنس با قابلیت اتصال مستقیم به سیستم‌های لبه روانه بازار شد. این سری برای کاربردهای پمپ، فن و کمپرسور طراحی شده و مصرف انرژی را به طور قابل توجهی کاهش می‌دهد. پایش وضعیت درایو از طریق پروتکل‌های استاندارد صنعتی به سادگی قابل انجام است.",
+      "category": "product",
+      "published_at": "1405/07/30 02:04",
+      "collected_at": "1405/07/30 02:04",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/sinamics-g120x-new",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه زیرساخت‌های دیجیتال فابریک در کارخانه هوشمند امبرگ زیمنس",
+      "summary": "کارخانه الکترونیک زیمنس در امبرگ آلمان از پلتفرم Siemens Xcelerator برای بهینه‌سازی کامل لجستیک داخلی استفاده کرد. این پروژه با بهره‌گیری از ربات‌های خودگردان و دوقلوهای دیجیتال پیشرفته، بهره‌وری تولید را افزایش داد. این سایت صنعتی به عنوان یکی از پیشروترین نمونه‌های کارخانه هوشمند در سطح جهان شناخته می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/30 02:04",
+      "collected_at": "1405/07/30 02:04",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/amberg-factory-xcelerator",
+      "tags": [
+        "Siemens",
+        "Amberg",
+        "Digital Twin",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "انتشار راهنمای جامع امنیت سایبری برای سیستم‌های کنترل صنعتی زیمنس",
+      "summary": "تیم واکنش به رویدادهای امنیتی زیمنس راهنمای جدیدی برای ایمن‌سازی تجهیزات SIMATIC در برابر تهدیدات نوین منتشر کرد. این سند بر لزوم پیکربندی صحیح دیوارهای آتش و مدیریت کلمات عبور در تجهیزات لایه OT تأکید دارد. رعایت این توصیه‌ها مانع از دسترسی‌های غیرمجاز به کنترل‌کننده‌های صنعتی می‌شود.",
+      "category": "regulation",
+      "published_at": "1405/07/30 02:04",
+      "collected_at": "1405/07/30 02:04",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-security-guide",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "SIMATIC",
+        "ICS"
       ]
     }
   ]
