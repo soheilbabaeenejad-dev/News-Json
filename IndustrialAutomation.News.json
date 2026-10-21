@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1194,
+  "count": 1204,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 18:04",
+  "updated_at": "1405/07/29 18:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -19070,6 +19070,176 @@
         "Microsoft",
         "FactoryTalk",
         "AI"
+      ]
+    },
+    {
+      "id": "ia-20260719-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته SIMATIC ET 200MP با قابلیت عیب‌یابی هوشمند",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ورودی و خروجی SIMATIC ET 200MP با قابلیت‌های پیشرفته عیب‌یابی داخلی رونمایی کرد. این تجهیزات به مهندسان کمک می‌کنند تا خطاهای سیم‌کشی و مشکلات سخت‌افزاری را در کوتاه‌ترین زمان ممکن شناسایی و برطرف کنند. این ماژول‌ها به‌طور کامل با نرم‌افزار TIA Portal یکپارچه شده و زمان توقف خطوط تولید را به حداقل می‌رسانند.",
+      "category": "product",
+      "published_at": "1405/07/28 09:15",
+      "collected_at": "1405/07/29 18:07",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-et-200mp-advanced",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TIA Portal",
+        "ET 200MP",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20260719-002",
+      "title": "ارتقای پلتفرم ابری Insights Hub زیمنس با ابزارهای تحلیل پیش‌بینی‌کننده",
+      "summary": "زیمنس قابلیت‌های جدید مبتنی بر یادگیری ماشین را به پلتفرم ابری Insights Hub اضافه کرد تا تحلیل داده‌های تجهیزات صنعتی با دقت بالاتری انجام شود. این به‌روزرسانی به مدیران کارخانه‌ها اجازه می‌دهد رفتار ماشین‌آلات را پیش‌بینی کرده و از خرابی‌های ناگهانی جلوگیری کنند. این راهکار نقش مهمی در بهینه‌سازی هزینه‌های نگهداری و تعمیرات در صنایع سنگین دارد.",
+      "category": "news",
+      "published_at": "1405/07/28 11:30",
+      "collected_at": "1405/07/29 18:07",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-insights-hub-ml-update",
+      "tags": [
+        "Insights Hub",
+        "MindSphere",
+        "Cloud",
+        "Predictive Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20260719-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه اتوماسیون پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه همکاری جدیدی برای یکپارچه‌سازی تجهیزات پنوماتیک با کنترل‌کننده‌های SIMATIC امضا کردند. این همکاری به توسعه سیستم‌های ماژولار کمک می‌کند که از پروتکل‌های ارتباطی استاندارد صنعتی پشتیبانی می‌کنند. هدف اصلی این پروژه، افزایش انعطاف‌پذیری خطوط مونتاژ در صنایع خودروسازی و بسته‌بندی است.",
+      "category": "match",
+      "published_at": "1405/07/28 13:45",
+      "collected_at": "1405/07/29 18:07",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-pneumatic-automation-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "SIMATIC",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20260719-004",
+      "title": "عرضه نسخه جدید نرم‌افزار SINAMICS Startdrive برای پیکربندی درایوها",
+      "summary": "نسخه جدید نرم‌افزار SINAMICS Startdrive با ابزارهای بهینه‌شده برای تنظیم درایوهای فرکانس متغیر توسط زیمنس منتشر شد. این ابزار مهندسی فرآیند راه‌اندازی موتورهای الکتریکی را ساده‌تر کرده و از استانداردهای ایمنی جدید پشتیبانی می‌کند. مهندسی پروژه اکنون با سرعت بیشتری درون محیط جامع TIA Portal انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 15:20",
+      "collected_at": "1405/07/29 18:07",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sinamics-startdrive-new-version",
+      "tags": [
+        "SINAMICS",
+        "Startdrive",
+        "Drives",
+        "TIA Portal",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20260719-005",
+      "title": "توسعه قابلیت‌های امنیتی در تجهیزات اساسی شبکه صنعتی Scalance",
+      "summary": "زیمنس پکیج امنیتی جدیدی را برای روترها و سوئیچ‌های صنعتی سری Scalance عرضه کرد تا از شبکه‌های OT در برابر تهدیدات سایبری محافظت کند. این راهکار شامل فایروال‌های پیشرفته و قابلیت‌های رمزنگاری سخت‌افزاری برای جلوگیری از دسترسی‌های غیرمجاز است. این اقدام گامی مهم در جهت انطباق با استانداردهای سخت‌گیرانه امنیت سایبری IEC 62443 محسوب می‌شود.",
+      "category": "regulation",
+      "published_at": "1405/07/29 08:10",
+      "collected_at": "1405/07/29 18:07",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-scalance-security-update",
+      "tags": [
+        "Scalance",
+        "Cybersecurity",
+        "Networking",
+        "IEC 62443",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20260719-006",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با سیستم مانیتورینگ جدید زیمنس",
+      "summary": "سیستم جامع مدیریت انرژی جدید زیمنس برای پایش لحظه‌ای مصرف برق و گاز در واحدهای تولیدی معرفی شد. این سیستم با جمع‌آوری داده‌ها از کنتورهای هوشمند و PLCها، نقاط اتلاف انرژی را شناسایی می‌کند. این راهکار به صنایع کمک می‌کند تا به اهداف توسعه پایدار و کاهش انتشار کربن دست یابند.",
+      "category": "product",
+      "published_at": "1405/07/29 10:00",
+      "collected_at": "1405/07/29 18:07",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-energy-management-system",
+      "tags": [
+        "Energy Management",
+        "Sustainability",
+        "Monitoring",
+        "Siemens",
+        "Factory"
+      ]
+    },
+    {
+      "id": "ia-20260719-007",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS 7 با ابزارهای مهندسی مدرن",
+      "summary": "نسخه به‌روزرسانی‌شده سیستم کنترل فرآیند SIMATIC PCS 7 با تمرکز بر بهبود پایداری و کارایی اپراتوری منتشر شد. این نسخه ابزارهای جدیدی برای مدیریت آلارم‌ها و مستندسازی تغییرات فرآیندی در اختیار مهندسان قرار می‌دهد. این سیستم همچنان یکی از انتخاب‌های اصلی صنایع پالایشگاهی و پتروشیمی در سراسر جهان است.",
+      "category": "product",
+      "published_at": "1405/07/29 11:45",
+      "collected_at": "1405/07/29 18:07",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-simatic-pcs7-update",
+      "tags": [
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Control",
+        "Refinery",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20260719-008",
+      "title": "گسترش کاربرد ربات‌های صنعتی با ماژول‌های کنترل حرکت پیشرفته زیمنس",
+      "summary": "زیمنس ماژول‌های کنترل حرکت جدیدی را برای هماهنگ‌سازی دقیق بازوهای رباتیک و نقاله‌های خط تولید ارائه داد. این ماژول‌ها امکان اجرای سناریوهای پیچیده رباتیک را مستقیماً از طریق کنترل‌کننده‌های استاندارد SIMATIC فراهم می‌کنند. این فناوری کارایی سلول‌های تولیدی را به‌طور چشمگیری افزایش می‌دهد.",
+      "category": "topic",
+      "published_at": "1405/07/29 13:20",
+      "collected_at": "1405/07/29 18:07",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-motion-control-robotics",
+      "tags": [
+        "Robotics",
+        "Motion Control",
+        "SIMATIC",
+        "Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20260719-009",
+      "title": "پشتیبانی از پروتکل OPC UA FX در تجهیزات اتوماسیون صنعتی زیمنس",
+      "summary": "پشتیبانی از استاندارد ارتباطی OPC UA Field Exchange به محصولات اتوماسیون صنعتی زیمنس افزوده شد. این پروتکل امکان تبادل داده بین تجهیزات تولیدکنندگان مختلف را بدون نیاز به درگاه‌های واسط فراهم می‌کند. این تحول گامی بزرگ در جهت تحقق قابلیت همکاری واقعی در محیط‌های تولیدی ناهمگن است.",
+      "category": "industry",
+      "published_at": "1405/07/29 15:05",
+      "collected_at": "1405/07/29 18:07",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-opc-ua-fx-integration",
+      "tags": [
+        "OPC UA",
+        "Interoperability",
+        "Industrial Ethernet",
+        "Protocols",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20260719-010",
+      "title": "سرمایه‌گذاری زیمنس در توسعه زیرساخت‌های آموزشی اتوماسیون دیجیتال",
+      "summary": "شرکت زیمنس برنامه جدیدی را برای تجهیز آزمایشگاه‌های دانشگاهی به آخرین فناوری‌های PLC و دوقلوهای دیجیتال آغاز کرد. این ابتکار با هدف تربیت مهندسان متخصص در زمینه نرم‌افزارهای TIA Portal و اتوماسیون پیشرفته اجرا می‌شود. این اقدام به کاهش شکاف مهارت‌های فنی در صنعت آینده کمک شایانی خواهد کرد.",
+      "category": "society",
+      "published_at": "1405/07/29 17:00",
+      "collected_at": "1405/07/29 18:07",
+      "source": "Education Technology Insights",
+      "source_url": "https://www.edtechinsights.com/siemens-automation-education-investment",
+      "tags": [
+        "Education",
+        "Digital Twin",
+        "Training",
+        "TIA Portal",
+        "Siemens"
       ]
     }
   ]
