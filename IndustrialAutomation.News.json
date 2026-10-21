@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1167,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 16:03",
+  "count": 1174,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/07/29 16:09",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18652,6 +18652,117 @@
         "Nvidia",
         "Xcelerator",
         "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20241020-002",
+      "title": "ارتقای پلتفرم Siemens Industrial Edge برای مدیریت متمرکز دستگاه‌ها",
+      "summary": "زیمنس قابلیت‌های مدیریت متمرکز را به پلتفرم Industrial Edge اضافه کرده است که امکان نظارت بر هزاران دستگاه لبه را از یک داشبورد واحد فراهم می‌کند. این به‌روزرسانی شامل ابزارهای پیشرفته برای استقرار کانتینرها و مدیریت وصله‌های امنیتی در مقیاس بزرگ است. هدف از این تغییر، ساده‌سازی عملیات IT/OT در کارخانه‌های هوشمند و کاهش هزینه‌های نگهداری است.",
+      "category": "product",
+      "published_at": "1403/07/29 10:00",
+      "collected_at": "1405/07/29 16:09",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/iiot/article/33145678/siemens-industrial-edge-updates",
+      "tags": [
+        "Industrial Edge",
+        "IIoT",
+        "Siemens",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20241020-004",
+      "title": "انتشار وصله‌های امنیتی جدید برای سیستم‌های کنترل فرآیند PCS 7",
+      "summary": "زیمنس مجموعه‌ای از وصله‌های امنیتی حیاتی را برای سیستم کنترل فرآیند SIMATIC PCS 7 منتشر کرد. این به‌روزرسانی آسیب‌پذیری‌های شناسایی شده در لایه ارتباطی شبکه و مدیریت دسترسی کاربران را برطرف می‌کند. کارشناسان امنیتی توصیه می‌کنند تمامی اپراتورهای زیرساخت‌های حیاتی در اسرع وقت نسبت به نصب این بسته‌های امنیتی اقدام نمایند.",
+      "category": "regulation",
+      "published_at": "1403/07/29 12:05",
+      "collected_at": "1405/07/29 16:09",
+      "source": "CISA ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-290-01",
+      "tags": [
+        "Cybersecurity",
+        "PCS 7",
+        "Siemens",
+        "ICS"
+      ]
+    },
+    {
+      "id": "ia-20241020-005",
+      "title": "معرفی درایوهای جدید SINAMICS G220 با قابلیت بهره‌وری انرژی",
+      "summary": "زیمنس درایوهای فرکانس متغیر جدید سری SINAMICS G220 را با تمرکز بر بهره‌وری انرژی و پایداری معرفی کرد. این درایوها از فناوری‌های پیشرفته برای کاهش مصرف برق در موتورهای القایی استفاده می‌کنند و با پلتفرم TIA Portal کاملاً سازگار هستند. این محصول جدید به صنایع کمک می‌کند تا علاوه بر کاهش هزینه‌های عملیاتی، ردپای کربنی خود را نیز کاهش دهند.",
+      "category": "product",
+      "published_at": "1403/07/29 12:45",
+      "collected_at": "1405/07/29 16:09",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-sinamics-g220-launch/",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Siemens",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20241020-007",
+      "title": "رونمایی از سوئیچ‌های صنعتی جدید سری SCALANCE XC-200",
+      "summary": "زیمنس سبد محصولات شبکه صنعتی خود را با معرفی سوئیچ‌های جدید سری SCALANCE XC-200 گسترش داد. این سوئیچ‌ها با استاندارد حفاظتی IP20 و قابلیت‌های پیشرفته مدیریت شبکه، برای محیط‌های صنعتی سخت طراحی شده‌اند. این تجهیزات از پروتکل‌های امنیتی مدرن برای محافظت از داده‌های حساس در شبکه‌های OT پشتیبانی می‌کنند.",
+      "category": "product",
+      "published_at": "1403/07/29 14:10",
+      "collected_at": "1405/07/29 16:09",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iebmedia.com/siemens-scalance-xc200-release",
+      "tags": [
+        "SCALANCE",
+        "Networking",
+        "Siemens",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20241020-008",
+      "title": "گسترش همکاری راکول اتوماسیون با شرکت‌های نرم‌افزاری برای تحلیل داده",
+      "summary": "راکول اتوماسیون اعلام کرد که همکاری‌های جدیدی را برای یکپارچه‌سازی پلتفرم FactoryTalk با ابزارهای تحلیل داده پیشرفته آغاز کرده است. این همکاری به کاربران اجازه می‌دهد تا داده‌های تولید را به صورت آنی تحلیل کرده و الگوهای خرابی تجهیزات را پیش‌بینی کنند. این اقدام در راستای استراتژی شرکت برای تقویت اکوسیستم دیجیتال کارخانه انجام شده است.",
+      "category": "company",
+      "published_at": "1403/07/29 14:50",
+      "collected_at": "1405/07/29 16:09",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases.html",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Analytics",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20241020-009",
+      "title": "معرفی سیستم جدید مانیتورینگ انرژی توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک سیستم جدید مانیتورینگ انرژی خود را برای صنایع سنگین معرفی کرد که به طور کامل با اکوسیستم EcoStruxure یکپارچه می‌شود. این سیستم با استفاده از سنسورهای هوشمند، مصرف انرژی را در سطح ماشین‌آلات پایش کرده و گزارش‌های دقیق برای بهینه‌سازی ارائه می‌دهد. این راهکار به کاهش اتلاف انرژی در فرآیندهای تولیدی کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/29 15:25",
+      "collected_at": "1405/07/29 16:09",
+      "source": "Schneider Electric Press",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20241020-010",
+      "title": "انتشار گزارش جدید درباره امنیت شبکه‌های صنعتی توسط موسسه SANS",
+      "summary": "موسسه SANS گزارش جدیدی درباره وضعیت امنیت سایبری در شبکه‌های صنعتی منتشر کرد که بر افزایش حملات باج‌افزاری به کنترلرهای منطقی برنامه‌پذیر (PLC) تمرکز دارد. این گزارش تأکید می‌کند که سازمان‌ها باید استراتژی‌های دفاع در عمق را پیاده‌سازی کنند. استفاده از تجهیزات با امنیت داخلی و به‌روزرسانی‌های منظم از جمله توصیه‌های کلیدی این گزارش است.",
+      "category": "research",
+      "published_at": "1403/07/29 15:55",
+      "collected_at": "1405/07/29 16:09",
+      "source": "SANS Institute",
+      "source_url": "https://www.sans.org/white-papers/industrial-cybersecurity-2024/",
+      "tags": [
+        "Cybersecurity",
+        "PLC",
+        "SANS",
+        "ICS"
       ]
     }
   ]
