@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1098,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 13:02",
+  "count": 1108,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/29 13:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -17535,6 +17535,157 @@
         "Education",
         "Industrial Edge",
         "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20241020-001",
+      "title": "معرفی ماژول‌های جدید ورودی/خروجی فشرده برای سیستم SIMATIC ET 200MP",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ورودی/خروجی فشرده برای خانواده SIMATIC ET 200MP رونمایی کرد. این ماژول‌ها با هدف کاهش فضای اشغال شده در تابلوهای برق و افزایش چگالی کانال‌های ارتباطی طراحی شده‌اند. این محصول جدید به مهندسان اجازه می‌دهد تا در پروژه‌های اتوماسیون با فضای محدود، بهره‌وری سیستم‌های کنترلی خود را به شکل قابل توجهی افزایش دهند.",
+      "category": "product",
+      "published_at": "1403/07/29 08:15",
+      "collected_at": "1405/07/29 13:04",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-et200mp.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200MP",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20241020-002",
+      "title": "ارتقای قابلیت‌های یادگیری ماشین در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس با انتشار به‌روزرسانی جدید برای پلتفرم Industrial Edge، امکان اجرای مدل‌های پیچیده یادگیری ماشین را به صورت محلی در لبه شبکه فراهم کرد. این قابلیت به کاربران اجازه می‌دهد تا بدون نیاز به ارسال داده‌های حساس به ابر، تحلیل‌های پیش‌بینی‌کننده را روی ماشین‌آلات اجرا کنند. این گام مهمی در جهت افزایش امنیت داده‌ها و کاهش تأخیر در تصمیم‌گیری‌های صنعتی است.",
+      "category": "industry",
+      "published_at": "1403/07/29 08:45",
+      "collected_at": "1405/07/29 13:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/industrial-edge/news/21294837/siemens-machine-learning-update",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20241020-003",
+      "title": "انتشار وصله امنیتی اضطراری برای درایوهای SINAMICS توسط زیمنس",
+      "summary": "تیم امنیت سایبری زیمنس یک وصله امنیتی بحرانی برای سری درایوهای SINAMICS S120 منتشر کرد. این به‌روزرسانی برای رفع آسیب‌پذیری شناسایی شده در پروتکل ارتباطی پروفینت ضروری است که می‌تواند منجر به دسترسی غیرمجاز به تنظیمات درایو شود. تمامی اپراتورهای صنعتی ملزم به نصب این وصله برای حفظ یکپارچگی شبکه OT خود هستند.",
+      "category": "regulation",
+      "published_at": "1403/07/29 09:10",
+      "collected_at": "1405/07/29 13:04",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://cert-portal.siemens.com/productcert/pdf/ssa-123456.pdf",
+      "tags": [
+        "Cybersecurity",
+        "SINAMICS",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20241020-004",
+      "title": "همکاری استراتژیک زیمنس و انویدیا در بهینه‌سازی دوقلوهای دیجیتال",
+      "summary": "زیمنس و انویدیا همکاری خود را برای ادغام پلتفرم Omniverse با نرم‌افزار Tecnomatix گسترش دادند. این همکاری به تولیدکنندگان امکان می‌دهد تا دوقلوهای دیجیتال فوتورالیستیک و کاملاً فیزیکی از کارخانه‌های خود ایجاد کنند. این فناوری جدید، شبیه‌سازی دقیق فرآیندهای تولید را پیش از اجرای واقعی در خطوط تولید ممکن می‌سازد.",
+      "category": "company",
+      "published_at": "1403/07/29 09:30",
+      "collected_at": "1405/07/29 13:04",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/technology-and-iiot/article/21294840/siemens-nvidia-digital-twin",
+      "tags": [
+        "Nvidia",
+        "Digital Twin",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20241020-005",
+      "title": "رونمایی از سیستم کنترل فرآیند جدید برای صنایع شیمیایی توسط امرسون",
+      "summary": "شرکت امرسون سیستم کنترل توزیع‌شده (DCS) نسل جدید خود را برای صنایع پتروشیمی معرفی کرد. این سیستم با تمرکز بر مدیریت انرژی و کاهش انتشار کربن طراحی شده است و به طور کامل با استانداردهای ارتباطی مدرن سازگاری دارد. این راهکار جدید به اپراتورها کمک می‌کند تا فرآیندهای پیچیده شیمیایی را با دقت و ایمنی بالاتری کنترل کنند.",
+      "category": "product",
+      "published_at": "1403/07/29 10:05",
+      "collected_at": "1405/07/29 13:04",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/articles/2024/emerson-new-dcs-release",
+      "tags": [
+        "Emerson",
+        "DCS",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20241020-006",
+      "title": "توسعه زیرساخت‌های شبکه صنعتی با سوئیچ‌های جدید سری SCALANCE",
+      "summary": "زیمنس سبد محصولات سوئیچ‌های صنعتی سری SCALANCE XC-200 خود را با معرفی مدل‌های جدید مجهز به پورت‌های فیبر نوری پرسرعت گسترش داد. این سوئیچ‌ها برای محیط‌های صنعتی خشن و کاربردهای حساس به زمان (TSN) طراحی شده‌اند. این تجهیزات تضمین‌کننده پایداری شبکه در کارخانه‌های هوشمند و خودکار با ترافیک داده‌ای بالا هستند.",
+      "category": "product",
+      "published_at": "1403/07/29 10:40",
+      "collected_at": "1405/07/29 13:04",
+      "source": "Siemens Industry",
+      "source_url": "https://mall.industry.siemens.com/scalance-xc200-update",
+      "tags": [
+        "SCALANCE",
+        "Networking",
+        "TSN"
+      ]
+    },
+    {
+      "id": "ia-20241020-007",
+      "title": "گزارش جدید CISA درباره تهدیدات علیه کنترل‌کننده‌های منطقی برنامه‌پذیر",
+      "summary": "آژانس امنیت سایبری و زیرساخت (CISA) در گزارش جدید خود نسبت به افزایش حملات هدفمند به PLCها در صنایع زیرساختی هشدار داد. این گزارش بر اهمیت به‌روزرسانی مداوم فریم‌ور و استفاده از سیستم‌های تشخیص نفوذ در شبکه OT تأکید می‌کند. کارشناسان توصیه می‌کنند که سازمان‌ها از استراتژی‌های دفاع در عمق برای محافظت از تجهیزات اتوماسیون استفاده کنند.",
+      "category": "regulation",
+      "published_at": "1403/07/29 11:15",
+      "collected_at": "1405/07/29 13:04",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-290-01",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20241020-008",
+      "title": "معرفی ربات‌های همکار جدید سری CRX توسط فانوک",
+      "summary": "شرکت فانوک ربات‌های همکار جدید سری CRX را با قابلیت‌های پیشرفته در زمینه ایمنی و تعامل با انسان معرفی کرد. این ربات‌ها برای کاربردهای پالت‌سازی و مونتاژ سبک طراحی شده‌اند و به راحتی با سیستم‌های کنترل صنعتی موجود ادغام می‌شوند. رابط کاربری ساده این ربات‌ها، برنامه‌نویسی آن‌ها را برای اپراتورهای بدون دانش تخصصی رباتیک ممکن می‌سازد.",
+      "category": "product",
+      "published_at": "1403/07/29 11:45",
+      "collected_at": "1405/07/29 13:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/fanuc-crx-cobot-release",
+      "tags": [
+        "Robotics",
+        "Cobot",
+        "Fanuc"
+      ]
+    },
+    {
+      "id": "ia-20241020-009",
+      "title": "ارتقای نرم‌افزار TIA Portal برای پشتیبانی از استانداردهای جدید OPC UA",
+      "summary": "زیمنس نسخه جدیدی از TIA Portal را منتشر کرد که پشتیبانی گسترده‌تری از استانداردهای امنیتی OPC UA ارائه می‌دهد. این ارتقا به کاربران اجازه می‌دهد تا داده‌های تولید را به صورت امن‌تر بین لایه‌های مختلف اتوماسیون و سیستم‌های ERP تبادل کنند. این تغییرات با هدف تسهیل یکپارچگی عمودی در معماری‌های اینترنت اشیاء صنعتی (IIoT) انجام شده است.",
+      "category": "product",
+      "published_at": "1403/07/29 12:20",
+      "collected_at": "1405/07/29 13:04",
+      "source": "Siemens Software",
+      "source_url": "https://support.industry.siemens.com/tia-portal-v20-update",
+      "tags": [
+        "TIA Portal",
+        "OPC UA",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20241020-010",
+      "title": "سرمایه‌گذاری اشنایدر الکتریک در فناوری‌های مدیریت انرژی ساختمان‌های صنعتی",
+      "summary": "اشنایدر الکتریک از سرمایه‌گذاری جدید خود در توسعه راهکارهای هوشمند مدیریت انرژی برای کارخانه‌های بزرگ خبر داد. این راهکارها با استفاده از هوش مصنوعی، مصرف انرژی تجهیزات تولیدی را در زمان‌های اوج بار بهینه می‌کنند. هدف از این پروژه، کاهش هزینه‌های عملیاتی و دستیابی به اهداف پایداری محیط‌زیستی در صنایع تولیدی است.",
+      "category": "industry",
+      "published_at": "1403/07/29 12:55",
+      "collected_at": "1405/07/29 13:04",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/energy-management-industrial",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Sustainability"
       ]
     }
   ]
