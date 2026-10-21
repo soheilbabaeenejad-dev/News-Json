@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1137,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/29 14:14",
+  "count": 1146,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/29 15:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18172,6 +18172,141 @@
         "MOM",
         "Supply Chain",
         "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های پردازش ابری در نرم‌افزار TIA Portal V19 SP1",
+      "summary": "زیمنس بسته به‌روزرسانی جدیدی را برای نرم‌افزار مهندسی TIA Portal V19 منتشر کرد که ابزارهای ابری را تقویت می‌کند. این نسخه امکان همکاری همزمان مهندسان بر روی پروژه‌های بزرگ اتوماسیون را از راه دور فراهم می‌سازد. هدف اصلی از این انتشار، کاهش زمان مهندسی و افزایش یکپارچگی داده‌ها در کارخانه‌های هوشمند است.",
+      "category": "product",
+      "published_at": "1405/07/29 09:15",
+      "collected_at": "1405/07/29 15:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-tia-portal-v19-sp1",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "معرفی سیستم کنترل توزیع‌شده SIMATIC PCS neo با پشتیبانی از استاندارد NAMUR",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo زیمنس با تطابق کامل با استانداردهای NAMUR عرضه شد. این سامانه وب‌محور امکان مدیریت یکپارچه و امن فرآیندهای پیوسته را در صنایع شیمیایی و داروسازی مهیا می‌کند. این ویژگی به کاهش هزینه‌های راه‌اندازی و بهبود بهره‌وری اپراتورها در سایت‌های صنعتی منجر می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 10:00",
+      "collected_at": "1405/07/29 15:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-simatic-pcs-neo-namur",
+      "tags": [
+        "DCS",
+        "SIMATIC PCS neo",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "گسترش کاربرد Industrial Copilot زیمنس در خطوط مونتاژ خودرو",
+      "summary": "شرکت زیمنس از توسعه کاربرد هوش مصنوعی مولد Industrial Copilot در خودروسازی‌های بزرگ اروپا خبر داد. این ابزار هوشمند به اپراتورها اجازه می‌دهد دستورات پیچیده برنامه‌نویسی را به صورت متن ساده وارد کنند. این فناوری نوآورانه زمان عیب‌یابی کدهای PLC را به طور چشمگیری کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/29 10:45",
+      "collected_at": "1405/07/29 15:00",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-industrial-copilot-automotive",
+      "tags": [
+        "Industrial Copilot",
+        "AI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "عرضه درایوهای فرکانس متغیر SINAMICS G120X با استانداردهای جدید بهره‌وری انرژی",
+      "summary": "زیمنس سری جدید درایوهای SINAMICS G120X را برای کاربردهای پمپ، فن و کمپرسور به بازار معرفی کرد. این درایوها با بهینه‌سازی مصرف انرژی به صنایع کمک می‌کنند تا اهداف پایداری محیط زیستی خود را محقق سازند. این محصولات همچنین مایه‌های ارتباطی گسترده‌ای برای اتصال به سیستم‌های اتوماسیون فراهم می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 11:20",
+      "collected_at": "1405/07/29 15:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sinamics-g120x-energy",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "تقویت امنیت سایبری تجهیزات OT با راهکار جدید مانیتورینگ شبکه زیمنس",
+      "summary": "زیمنس پلتفرم امنیتی Industrial Edge را با ماژول‌های جدید پایش تهدیدات سایبری به‌روزرسانی کرد. این راهکار به مدیران شبکه اجازه می‌دهد نفوذهای احتمالی به تجهیزات صنعتی را به صورت بلادرنگ شناسایی کنند. این اقدام در پاسخ به افزایش حملات سایبری به زیرساخت‌های حیاتی صنعتی صورت گرفته است.",
+      "category": "news",
+      "published_at": "1405/07/29 12:05",
+      "collected_at": "1405/07/29 15:00",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-ot-security-edge",
+      "tags": [
+        "Cybersecurity",
+        "Industrial Edge",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه همکاری‌های مشترک زیمنس و فستو در زمینه اتوماسیون پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه جدیدی برای یکپارچه‌سازی تجهیزات پنوماتیک با کنترل‌کننده‌های SIMATIC امضا کردند. این همکاری به توسعه ماژول‌های تشخیصی پیشرفته برای کنترل دقیق‌تر فشار و جریان هوا منجر می‌شود. هدف این پروژه کاهش زمان توقف خطوط تولید و بهبود نگهداری پیشگیرانه است.",
+      "category": "company",
+      "published_at": "1405/07/29 12:50",
+      "collected_at": "1405/07/29 15:00",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-festo-partnership",
+      "tags": [
+        "Partnership",
+        "Festo",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "رونمایی از نسل جدید پنل‌های اپراتوری SIMATIC HMI Comfort Pro",
+      "summary": "زیمنس سری جدید پنل‌های اپراتوری SIMATIC HMI Comfort Pro را با بدنه مقاوم و صفحه‌نمایش لمسی خازنی به بازار عرضه کرد. این نمایشگرها برای کار در محیط‌های خشن صنعتی و شرایط سخت آب و هوایی طراحی شده‌اند. این تجهیزات قابلیت اتصال آسان به نرم‌افزار WinCC Unified را برای نمایش بهینه گرافیکی دارند.",
+      "category": "product",
+      "published_at": "1405/07/29 13:30",
+      "collected_at": "1405/07/29 15:00",
+      "source": "Design News",
+      "source_url": "https://www.designnews.com/siemens-simatic-hmi-comfort-pro",
+      "tags": [
+        "HMI",
+        "SIMATIC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی بسته‌های نرم‌افزاری جدید Insights Hub برای تحلیل داده‌های مصرف انرژی کارخانه‌ها",
+      "summary": "زیمنس قابلیت‌های پلتفرم ابری Insights Hub را با افزودن ماژول‌های پیشرفته تحلیل انرژی توسعه داد. این ابزار به مدیران کارخانه‌ها کمک می‌کند تا الگوهای مصرف برق و گاز را به دقت زیر نظر داشته باشند. این تحلیل‌ها راهکارهای عملی برای کاهش هزینه‌های انرژی و بهینه‌سازی مصرف ارائه می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/29 14:10",
+      "collected_at": "1405/07/29 15:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-energy-analytics",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش زیرساخت‌های آموزشی زیمنس برای تربیت متخصصان اتوماسیون صنعتی در اروپا",
+      "summary": "زیمنس برنامه‌ای جامع برای تجهیز دانشگاه‌ها و مراکز فنی به آخرین سیستم‌های SIMATIC و TIA Portal اعلام کرد. این طرح با هدف کاهش شکاف مهارت‌های دیجیتال و تامین نیروی کار ماهر برای کارخانه‌های آینده اجرا می‌شود. شرکت‌کنندگان در این دوره‌ها گواهینامه‌های معتبر بین‌المللی زیمنس را دریافت خواهند کرد.",
+      "category": "society",
+      "published_at": "1405/07/29 14:45",
+      "collected_at": "1405/07/29 15:00",
+      "source": "Education Technology Insights",
+      "source_url": "https://www.edtechinsights.com/siemens-automation-education-2026",
+      "tags": [
+        "Education",
+        "Training",
+        "Siemens"
       ]
     }
   ]
