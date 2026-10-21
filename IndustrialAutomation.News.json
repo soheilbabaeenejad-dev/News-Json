@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1185,
+  "count": 1194,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 18:01",
+  "updated_at": "1405/07/29 18:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18926,6 +18926,150 @@
         "Manufacturing Execution",
         "Pharma",
         "MES"
+      ]
+    },
+    {
+      "id": "ia-20261021-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی صنعتی در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس قابلیت‌های یادگیری ماشین را به پلتفرم Siemens Industrial Edge اضافه کرده است تا تحلیل داده‌های لبه به صورت بلادرنگ و بدون نیاز به اتصال دائم به ابر انجام شود. این راهکار به اپراتورهای خط تولید امکان می‌دهد تا آنومالی‌های تجهیزات را پیش از ایجاد خرابی اساسی شناسایی کنند. این به‌روزرسانی شامل اپلیکیشن‌های جدید Edge Analytics است که پردازش محلی داده‌های سنسورهای ارتعاشی و حرارتی را ساده‌تر می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/21 11:15",
+      "collected_at": "1405/07/29 18:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-industrial-edge-ai-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261021-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای هوشمندسازی پنوماتیک در اتوماسیون کارخانه‌ها",
+      "summary": "شرکت‌های زیمنس و فستو توافق‌نامه همکاری جدیدی را برای یکپارچه‌سازی سیستم‌های پنوماتیک با کنترل‌کننده‌های SIMATIC S7-1500 امضا کردند که امکان مانیتورینگ دقیق فشار و مصرف هوا را فراهم می‌سازد. این همکاری به کاهش مصرف انرژی در خطوط مونتاژ بزرگ کمک شایانی کرده و داده‌های تشخیصی شیرهای برقی را مستقیماً به سیستم‌های SCADA منتقل می‌کند. این راهکار به صنایع تولیدی کمک می‌کند تا اهداف پایداری و کاهش ردپای کربن را بهتر محقق سازند.",
+      "category": "news",
+      "published_at": "1405/07/21 14:00",
+      "collected_at": "1405/07/29 18:04",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.iaasiaonline.com/siemens-festo-pneumatic-integration",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "SIMATIC",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "انتشار آپدیت امنیتی بحران‌زدایی برای سیستم‌های کنترل توزیع‌شده SIMATIC PCS 7",
+      "summary": "تیم امنیتی زیمنس یک بسته اصلاحی حیاتی برای رفع آسیب‌پذیری‌های امنیتی در نسخه‌های قدیمی‌تر پلتفرم کنترل فرآیند SIMATIC PCS 7 منتشر کرده است. این به‌روزرسانی دسترسی‌های غیرمجاز به لایه کنترل صنعتی را مسدود کرده و پروتکل‌های رمزنگاری ارتباطی را به استاندارد TLS 1.3 ارتقا می‌دهد. به مدیران زیرساخت‌های حیاتی توصیه شده است هر چه سریع‌تر سیستم‌های خود را برای جلوگیری از تهدیدات سایبری پچ کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/21 16:20",
+      "collected_at": "1405/07/29 18:04",
+      "source": "Industrial Cyber Security",
+      "source_url": "https://www.industrialcyber.co/siemens-pcs7-security-patch",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "Cybersecurity",
+        "ICS"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "معرفی کنترل‌کننده حرکتی SINAMICS S220 برای ماشین‌آلات پرسرعت بسته‌بندی",
+      "summary": "زیمنس درایوهای سرووی پیشرفته SINAMICS S220 را با قابلیت‌های کنترل موقعیت دقیق برای استفاده در ماشین‌آلات پیچیده بسته‌بندی و چاپ معرفی کرد. این درایوها با پشتیبانی از پروتکل ارتباطی PROFINET IRT بالاترین سرعت همگام‌سازی محورها را در خطوط تولید فراهم می‌کنند. این محصول طراحی فشرده‌تری دارد که فضای اشغال شده در تابلوهای برق صنعتی را به طور قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/22 08:45",
+      "collected_at": "1405/07/29 18:04",
+      "source": "Drive & Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-s220-launch",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Motion Control",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "توسعه قابلیت‌های شبیه‌سازی سه بعدی در نرم‌افزار Tecnomatix زیمنس",
+      "summary": "بخش صنایع دیجیتال زیمنس نسخه جدید نرم‌افزار Tecnomatix را با موتور گرافیکی جدید برای شبیه‌سازی پیشرفته خطوط تولید رباتیک عرضه کرد. این ابزار به طراحان اجازه می‌دهد رفتار دینامیکی ربات‌ها و تجهیزات جانبی را پیش از راه‌اندازی فیزیکی در محیط مجازی تست کنند. این امر زمان راه‌اندازی خطوط تولید جدید را تا ۳۰ درصد کاهش داده و هزینه‌های مهندسی را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/22 10:10",
+      "collected_at": "1405/07/29 18:04",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-tecnomatix-update",
+      "tags": [
+        "Siemens",
+        "Tecnomatix",
+        "Digital Twin",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "افزایش بهره‌وری انرژی با پلتفرم Insights Hub و ابزارهای مانیتورینگ ابری",
+      "summary": "زیمنس قابلیت‌های جدید پلتفرم ابری Insights Hub را برای ردیابی مصرف انرژی در کارخانه‌های بزرگ شیمیایی و خودروسازی توسعه داده است. این سیستم با جمع‌آوری داده‌های مصرف برق از کنتورهای هوشمند و درایوهای SINAMICS، الگوهای هدررفت انرژی را شناسایی می‌کند. این راهکار به صنایع کمک می‌کند تا با بهینه‌سازی مصرف، هزینه‌های عملیاتی خود را در دوران نوسان قیمت انرژی مدیریت کنند.",
+      "category": "industry",
+      "published_at": "1405/07/22 13:30",
+      "collected_at": "1405/07/29 18:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-energy",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "رونمایی از پنل‌های اپراتوری جدید SIMATIC HMI Unified Comfort با قابلیت HTML5",
+      "summary": "نسخه جدید پنل‌های اپراتوری SIMATIC HMI Unified Comfort زیمنس با پشتیبانی کامل از استاندارد HTML5 و وب‌سایت‌های واکنش‌گرا به بازار عرضه شد. این پنل‌ها به اپراتورها اجازه می‌دهند مانیتورینگ فرآیند را علاوه بر محیط کارخانه، از طریق تبلت‌های صنعتی امن نیز انجام دهند. این تجهیزات با سخت‌افزار مقاوم در برابر محیط‌های خشن کارگاهی و پردازنده‌های گرافیکی قدرتمند مجهز شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/22 15:50",
+      "collected_at": "1405/07/29 18:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-simatic-hmi-unified-comfort",
+      "tags": [
+        "Siemens",
+        "SIMATIC HMI",
+        "Unified Comfort",
+        "Visualization"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "ادغام سیستم‌های کنترل فرآیند Emerson DeltaV با بسترهای ابری نسل جدید",
+      "summary": "شرکت امرسون از قابلیت‌های جدید پلتفرم DeltaV برای اتصال امن به محیط‌های ابری هیبریدی و پردازش داده‌های فرآیندی رونمایی کرد. این نسخه جدید به مهندسان بهره‌برداری اجازه می‌دهد تا پارامترهای حیاتی را در پالایشگاه‌ها از راه دور بهینه‌سازی کنند. این فناوری نقش مهمی در تسریع تحول دیجیتال صنایع نفت، گاز و پتروشیمی دارد.",
+      "category": "product",
+      "published_at": "1405/07/23 09:00",
+      "collected_at": "1405/07/29 18:04",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/emerson-deltav-cloud-integration",
+      "tags": [
+        "Emerson",
+        "DeltaV",
+        "Process Control",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "گسترش همکاری راکول اتوماسیون و مایکروسافت برای تحلیل داده‌های اتوماسیون",
+      "summary": "راکول اتوماسیون از توسعه همکاری‌های خود با مایکروسافت برای یکپارچه‌سازی ابزارهای FactoryTalk با سرویس‌های هوش مصنوعی Azure خبر داد. این همکاری به تحلیلگران داده اجازه می‌دهد مدل‌های پیش‌بینی خرابی تجهیزات را بر اساس داده‌های زنده PLCها آموزش دهند. این راهکار گامی مهم در جهت همگرایی کامل فناوری‌های اطلاعات (IT) و فناوری‌های عملیاتی (OT) به شمار می‌رود.",
+      "category": "news",
+      "published_at": "1405/07/23 11:40",
+      "collected_at": "1405/07/29 18:04",
+      "source": "IoT Analytics",
+      "source_url": "https://iot-analytics.com/rockwell-microsoft-partnership-expansion",
+      "tags": [
+        "Rockwell Automation",
+        "Microsoft",
+        "FactoryTalk",
+        "AI"
       ]
     }
   ]
