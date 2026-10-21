@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1155,
+  "count": 1163,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 15:02",
+  "updated_at": "1405/07/29 15:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18452,6 +18452,134 @@
         "SIMATIC",
         "Cybersecurity",
         "Firewall"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از نسخه جدید نرم‌افزار مهندسی SIMATIC STEP 7 V19 با امکانات پیشرفته",
+      "summary": "شرکت زیمنس از انتشار نسخه جدید نرم‌افزار مهندسی SIMATIC STEP 7 V19 برای پیکربندی و برنامه‌نویسی کنترل‌کننده‌های صنعتی خبر داد. این نسخه جدید با هدف افزایش بهره‌وری مهندسان اتوماسیون و کاهش زمان توسعه پروژه‌های پیچیده طراحی شده است. امکاناتی نظیر ابزارهای پیشرفته مدیریت نسخه و پشتیبانی بهینه از سخت‌افزارهای سری SIMATIC S7-1500 در این به‌روزرسانی گنجانده شده است.",
+      "category": "product",
+      "published_at": "1405/07/29 08:30",
+      "collected_at": "1405/07/29 15:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-step7-v19-release",
+      "tags": [
+        "Siemens",
+        "STEP 7",
+        "TIA Portal",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "معرفی ماژول‌های ارتباطی جدید برای سیستم کنترل توزیع‌شده SIMATIC PCS 7",
+      "summary": "شرکت زیمنس سبد محصولات سیستم کنترل توزیع‌شده SIMATIC PCS 7 خود را با معرفی ماژول‌های ارتباطی پرسرعت و ایمن گسترش داد. این تجهیزات جدید امکان تبادل امن داده‌ها را بین لایه فیلد و اتاق کنترل در صنایع فرآیندی فراهم می‌کنند. ارتقای امنیت سایبری بر اساس استاندارد IEC 62443 از مهم‌ترین ویژگی‌های این ماژول‌های جدید است.",
+      "category": "product",
+      "published_at": "1405/07/29 10:00",
+      "collected_at": "1405/07/29 15:03",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-simatic-pcs7-communication",
+      "tags": [
+        "SIMATIC PCS 7",
+        "DCS",
+        "Industrial Ethernet",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "عرضه درایوهای سروو جدید SINAMICS S220 با قابلیت‌های پیشرفته ایمنی",
+      "summary": "زیمنس خانواده جدید درایوهای سروو SINAMICS S220 را برای کاربردهای دقیق کنترل حرکت در ماشین‌آلات صنعتی معرفی کرد. این درایوها با معماری سخت‌افزاری نوین و توابع ایمنی یکپارچه، بالاترین سطح دقت و سرعت را در خطوط بسته‌بندی و مونتاژ ارائه می‌دهند. اتصال آسان به کنترل‌کننده‌های SIMATIC از طریق پروتکل PROFINET از مزایای کلیدی این محصول است.",
+      "category": "product",
+      "published_at": "1405/07/29 11:30",
+      "collected_at": "1405/07/29 15:03",
+      "source": "Drive & Control",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-s220",
+      "tags": [
+        "SINAMICS",
+        "Servo Drive",
+        "Motion Control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "انتشار هشدار امنیتی جدید برای تجهیزات زیرساختی شبکه صنعتی زیمنس",
+      "summary": "مراکز هماهنگی امنیت سایبری صنعتی اطلاعیه جدیدی درباره برخی آسیب‌پذیری‌های امنیتی در سوئیچ‌های مدیریت‌شده لایه صنعتی زیمنس منتشر کردند. این نقص‌ها می‌توانند به مهاجمان اجازه دهند تا ترافیک شبکه OT را مختل کنند یا تنظیمات تجهیزات را تغییر دهند. شرکت زیمنس بلافاصله بسته‌های نرم‌افزاری اصلاحی و راهنمای ارتقای فرمور را برای رفع این چالش‌ها عرضه کرده است.",
+      "category": "regulation",
+      "published_at": "1405/07/29 12:15",
+      "collected_at": "1405/07/29 15:03",
+      "source": "CISA ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/siemens-security-update",
+      "tags": [
+        "Cybersecurity",
+        "CISA",
+        "Industrial Network",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در پلتفرم دوقلوی دیجیتال زیمنس",
+      "summary": "زیمنس با به‌روزرسانی پلتفرم Siemens Xcelerator قابلیت‌های هوش مصنوعی مولد را به بخش طراحی دوقلوهای دیجیتال اضافه کرد. این ابزار جدید به طراحان صنعتی اجازه می‌دهد تا با دستورات متنی، خطوط تولید شبیه‌سازی‌شده را بهینه‌سازی کرده و گلوگاه‌های احتمالی را شناسایی کنند. این فناوری گامی بزرگ در جهت تسریع فرآیندهای مهندسی معکوس و راه‌اندازی کارخانه‌های هوشمند محسوب می‌شود.",
+      "category": "topic",
+      "published_at": "1405/07/29 13:00",
+      "collected_at": "1405/07/29 15:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-xcelerator-ai-digital-twin",
+      "tags": [
+        "Digital Twin",
+        "Artificial Intelligence",
+        "Siemens Xcelerator",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی کنترل‌کننده منطقی فشرده SIMATIC S7-1200 با ارتباطات نسل پنجم",
+      "summary": "شرکت زیمنس مدل جدیدی از کنترل‌کننده‌های جمع‌وجور SIMATIC S7-1200 را با ماژول‌های ارتباطی داخلی نسل پنجم موبایل روانه بازار کرد. این محصول برای کاربردهایی که دسترسی به شبکه کابلی سخت یا پرهزینه است، ارتباطی پایدار و امن را تضمین می‌کند. صنایع کوچک و متوسط می‌توانند از این کنترل‌کننده برای پایش از راه دور تجهیزات و مزارع خورشیدی استفاده کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 13:45",
+      "collected_at": "1405/07/29 15:03",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/siemens-s7-1200-5g",
+      "tags": [
+        "SIMATIC S7-1200",
+        "PLC",
+        "5G",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "افزایش سرمایه‌گذاری زیمنس در ساخت تجهیزات تولیدی پایدار در اروپا",
+      "summary": "مدیران ارشد زیمنس از طرح سرمایه‌گذاری جدیدی برای مدرنیزاسیون کارخانه‌های تولید تجهیزات اتوماسیون صنعتی در آلمان و جمهوری چک خبر دادند. این پروژه با بودجه‌ای کلان، استفاده از انرژی‌های تجدیدپذیر و سیستم‌های بازیافت مواد را در خطوط مونتاژ پیاده‌سازی می‌کند. هدف اصلی این طرح کاهش انتشار کربن در زنجیره تأمین محصولات سخت‌افزاری SIMATIC تا سال آینده میلادی است.",
+      "category": "economy",
+      "published_at": "1405/07/29 14:30",
+      "collected_at": "1405/07/29 15:03",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com/content/siemens-factory-investment-europe",
+      "tags": [
+        "Manufacturing",
+        "Sustainability",
+        "Factory Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "ارتقای سیستم اسکادا SIMATIC WinCC Unified با بسته‌های نرم‌افزاری جدید",
+      "summary": "زیمنس آخرین به‌روزرسانی نرم‌افزار مانیتورینگ و اسکادا SIMATIC WinCC Unified V19 را با ابزارهای تحلیل داده‌های وب‌محور عرضه کرد. این نسخه جدید انعطاف‌پذیری بالایی را در طراحی رابط‌های کاربری گرافیکی برای اپراتورهای خطوط تولید فراهم می‌سازد. پشتیبانی کامل از پروتکل‌های استاندارد باز و قابلیت‌های ابری از مهم‌ترین ویژگی‌های این نسخه به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/29 15:00",
+      "collected_at": "1405/07/29 15:03",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-wincc-unified-v19",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
       ]
     }
   ]
