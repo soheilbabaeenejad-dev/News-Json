@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1176,
+  "count": 1186,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 17:07",
+  "updated_at": "1405/07/29 17:09",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18783,6 +18783,166 @@
         "Cybersecurity",
         "ICS",
         "Compliance"
+      ]
+    },
+    {
+      "id": "ia-20261020-001",
+      "title": "معرفی کنترل‌کننده جدید SIMATIC Microbox برای لایه اتوماسیون فشرده توسط زیمنس",
+      "summary": "شرکت زیمنس از کنترل‌کننده فشرده و صنعتی جدید SIMATIC Microbox برای توسعه کاربردهای لبه و محاسبات بلادرنگ در محیط‌های کوچک رونمایی کرد. این محصول جدید با تلفیق قابلیت‌های یک رایانه صنعتی و یک PLC قدرتمند، امکان پردازش داده‌های سنسورها را مستقیماً در محل نصب فراهم می‌سازد. مهندسان می‌توانند با استفاده از ابزارهای TIA Portal این سیستم را به آسانی پیکربندی کرده و بهره‌وری خطوط تولید را به طور قابل توجهی افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/07/29 08:30",
+      "collected_at": "1405/07/29 17:09",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/simatic-microbox-siemens-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Edge Computing",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261020-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم Insights Hub زیمنس",
+      "summary": "زیمنس نسخه جدید پلتفرم ابری Insights Hub را با ماژول‌های پیشرفته تحلیل داده و یادگیری ماشین منتشر کرد. این به‌روزرسانی به مدیران کارخانه‌ها اجازه می‌دهد تا الگوهای پنهان در عملکرد تجهیزات صنعتی را شناسایی کرده و از خرابی‌های ناگهانی ماشین‌آلات جلوگیری کنند. همچنین ابزارهای تجسم‌سازی جدید گزارش‌گیری از مصرف انرژی را در واحدهای بزرگ تولیدی ساده‌تر می‌سازند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:15",
+      "collected_at": "1405/07/29 17:09",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/insights-hub-update-siemens",
+      "tags": [
+        "Insights Hub",
+        "Cloud",
+        "Industrial IoT",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261020-003",
+      "title": "همکاری زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط مونتاژ",
+      "summary": "شرکت‌های زیمنس و فستو توافق‌نامه جدیدی را برای ادغام تجهیزات پنوماتیک پیشرفته با سیستم‌های کنترل SIMATIC امضا کردند. این همکاری راهکارهای جدیدی را برای ارتباط دیجیتال میان شیرهای برقی و کنترل‌کننده‌ها بر بستر پروتکل‌های استاندارد صنعتی فراهم می‌آورد. هدف از این پروژه کاهش زمان سیم‌کشی، عیب‌یابی سریع‌تر سیستم‌های حرکتی و بهینه‌سازی مصرف باد صنعتی در کارخانه‌ها است.",
+      "category": "industry",
+      "published_at": "1405/07/29 10:00",
+      "collected_at": "1405/07/29 17:09",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-partnership-pneumatics",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261020-004",
+      "title": "رونمایی از ماژول‌های ارتباطی جدید SCALANCE برای شبکه‌های پرسرعت صنعتی",
+      "summary": "زیمنس سبد محصولات شبکه خود را با معرفی سری جدید سوئیچ‌های صنعتی SCALANCE X برای زیرساخت‌های حساس OT گسترش داد. این تجهیزات از استانداردهای امنیتی سخت‌گیرانه و قابلیت‌های مدیریت پیشرفته شبکه پشتیبانی می‌کنند تا انتقال داده‌ها میان تجهیزات لایه زمین و اتاق کنترل با بالاترین پایداری انجام شود. این محصولات به‌ویژه برای استفاده در پست‌های برق هوشمند و خطوط تولید خودکار طراحی شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/29 10:45",
+      "collected_at": "1405/07/29 17:09",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/scalance-new-switches-siemens",
+      "tags": [
+        "SCALANCE",
+        "Industrial Ethernet",
+        "Cybersecurity",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "راکول اتوماسیون پلتفرم نرم‌افزاری FactoryTalk Optix را ارتقا داد",
+      "summary": "راکول اتوماسیون نسخه جدیدی از نرم‌افزار تجسم‌سازی FactoryTalk Optix را با قابلیت‌های توسعه مبتنی بر ابر عرضه کرد. این پلتفرم انعطاف‌پذیر به تیم‌های مهندسی اجازه می‌دهد تا رابط‌های کاربری ماشین را به صورت مشارکتی و از راه دور طراحی کنند. ویژگی‌های جدید سازگاری با سیستم‌عامل‌های مختلف، سرعت پیاده‌سازی پروژه‌های مانیتورینگ را به شدت افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 11:30",
+      "collected_at": "1405/07/29 17:09",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/rockwell-factorytalk-optix-update",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "HMI",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261020-006",
+      "title": "انتشار راهنمای امنیتی جدید برای تجهیزات اتوماسیون صنعتی توسط سازمان CISA",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) گزارش جامع جدیدی را درباره ایمن‌سازی کنترل‌کننده‌های منطقی برنامه‌پذیر در برابر تهدیدات سایبری منتشر کرد. این سند به مدیران شبکه توصیه می‌کند تا با به‌کارگیری تقسیم‌بندی دقیق شبکه‌های OT و اعمال به‌روزرسانی‌های میان‌افزاری، ریسک حملات به زیرساخت حیاتی را کاهش دهند. کارشناسان امنیتی بر لزوم بازبینی مستمر دسترسی‌های از راه دور تاکید دارند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 12:15",
+      "collected_at": "1405/07/29 17:09",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com/cisa-industrial-control-systems-security-guide",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "OT/ICS",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261020-007",
+      "title": "توسعه ابزارهای شبیه‌سازی فرآیند در نرم‌افزار SIMATIC PCS neo",
+      "summary": "زیمنس امکانات جدیدی را برای مدل‌سازی فرآیندهای شیمیایی و پالایشگاهی به نرم‌افزار کنترل توزیع‌شده SIMATIC PCS neo اضافه کرد. این قابلیت‌ها به اپراتورها اجازه می‌دهد پیش از راه‌اندازی واقعی تجهیزات، سناریوهای مختلف بحرانی را در محیط مجازی آزمایش کنند. این رویکرد نوآورانه خطاهای انسانی در زمان بهره‌برداری را به حداقل رسانده و ایمنی سایت‌های صنعتی را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 13:00",
+      "collected_at": "1405/07/29 17:09",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-simatic-pcs-neo-simulation-tools",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Control",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261020-008",
+      "title": "اشنایدر الکتریک نسل جدید اینورترهای ATV را برای کنترل دور دقیق معرفی کرد",
+      "summary": "شرکت اشنایدر الکتریک سری جدید اینورترهای فرکانس متغیر Altivar را با قابلیت‌های پیشرفته مدیریت انرژی روانه بازار کرد. این درایوها مجهز به الگوریتم‌های هوشمند برای کاهش تلفات موتور و بهینه‌سازی گشتاور در بارهای متغیر هستند. این تجهیزات صنعتی با پشتیبانی از پروتکل‌های ارتباطی مدرن، به سادگی در معماری‌های اتوماسیون مبتنی بر اینترنت اشیاء ادغام می‌شوند.",
+      "category": "product",
+      "published_at": "1405/07/29 13:45",
+      "collected_at": "1405/07/29 17:09",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/schneider-electric-altivar-new-drives",
+      "tags": [
+        "Schneider Electric",
+        "Inverter",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "افزایش بهره‌وری خطوط تولید خودرو با ربات‌های همکار جدید ABB",
+      "summary": "شرکت ABB از سری جدید ربات‌های همکار با ظرفیت بار بالا برای استفاده در خطوط مونتاژ بدنه خودرو رونمایی کرد. این بازوهای رباتیک با بهره‌گیری از حسگرهای پیشرفته ایمنی، بدون نیاز به حصارهای حفاظتی فیزیکی در کنار اپراتورهای انسانی فعالیت می‌کنند. نرم‌افزار برنامه‌نویسی ساده این ربات‌ها امکان تغییر سریع وظایف را در خطوط تولید سفارشی فراهم می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/29 14:30",
+      "collected_at": "1405/07/29 17:09",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/abb-new-cobots-automotive-assembly",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Cobots",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "توسعه کدهای استاندارد در TIA Portal برای ماژول‌های ایمنی جدید زیمنس",
+      "summary": "زیمنس بلوک‌های نرم‌افزاری استاندارد جدیدی را برای پیکربندی ماژول‌های ایمنی (Safety) در نرم‌افزار TIA Portal منتشر کرد. این کتابخانه‌ها به برنامه‌نویسان کمک می‌کنند تا توابع ایمنی ماشین‌آلات را بر اساس استانداردهای بین‌المللی با سرعت و دقت بیشتری پیاده‌سازی کنند. این اقدام گامی مهم در جهت کاهش زمان تست و تأیید نهایی تجهیزات ایمنی در خطوط تولید به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/29 15:15",
+      "collected_at": "1405/07/29 17:09",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.iaasiaonline.com/siemens-tia-portal-safety-blocks-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Safety PLC",
+        "Engineering"
       ]
     }
   ]
