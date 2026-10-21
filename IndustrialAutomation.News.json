@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1086,
+  "count": 1094,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 11:04",
+  "updated_at": "1405/07/29 11:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -17361,6 +17361,134 @@
         "DCS",
         "پتروشیمی",
         "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه استانداردهای رباتیک مدولار در کارخانه‌ها",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه همکاری جدیدی را برای توسعه تجهیزات رباتیک مدولار و انطباق‌پذیر با پلتفرم Siemens Xcelerator امضا کردند. این همکاری بر ایجاد ارتباط استاندارد میان کنترل‌کننده‌های SIMATIC و محرک‌های پنوماتیک پیشرفته تمرکز دارد. هدف اصلی این پروژه، تسهیل سفارشی‌سازی انبوه در خطوط مونتاژ الکترونیک و کاهش هزینه‌های راه‌اندازی سیستم‌های اتوماسیون است.",
+      "category": "news",
+      "published_at": "1405/07/29 09:15",
+      "collected_at": "1405/07/29 11:06",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-festo-modular-robotics",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Robotics",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه نسخه ارتقایافته سیستم اسکادا SIMATIC WinCC Unified V19 با امکانات ابری",
+      "summary": "زیمنس نسخه جدید سیستم مانیتورینگ و کنترل SIMATIC WinCC Unified V19 را با قابلیت‌های گسترده برای اتصال به ابر و امنیت سایبری پیشرفته روانه بازار کرد. این نرم‌افزار به اپراتورها اجازه می‌دهد تا تصاویر گرافیکی پویا را روی هر مرورگری بدون نیاز به نصب پلاگین‌های جانبی مشاهده کنند. این به‌روزرسانی شامل ابزارهای قدرتمندتری برای مدیریت آلارم‌ها و گزارش‌گیری خودکار در صنایع فرآیندی است.",
+      "category": "product",
+      "published_at": "1405/07/29 09:40",
+      "collected_at": "1405/07/29 11:06",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/wincc-unified-v19-release",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "رونمایی از مبدل‌های فرکانس جدید SINAMICS G120X با تمرکز بر بهره‌وری انرژی آب و فاضلاب",
+      "summary": "زیمنس سری جدید درایوهای فرکانس متغیر SINAMICS G120X را به‌طور ویژه برای استفاده در تاسیسات آب، فاضلاب و تهویه مطبوع بزرگ معرفی کرد. این درایوها با دارا بودن الگوریتم‌های پیشرفته کنترل توان، مصرف انرژی پمپ‌ها را به میزان قابل توجهی کاهش می‌دهند. طراحی جمع‌وجور و پشتیبانی از پروتکل‌های ارتباطی متنوع از ویژگی‌های کلیدی این تجهیزات صنعتی جدید است.",
+      "category": "product",
+      "published_at": "1405/07/29 10:00",
+      "collected_at": "1405/07/29 11:06",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/sinamics-g120x-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه ابزارهای مهندسی مبتنی بر هوش مصنوعی در Siemens Industrial Copilot",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی Siemens Industrial Copilot را گسترش داده تا کدهای PLC و برنامه‌نویسی ساختاریافته در TIA Portal با سرعت بیشتری تولید شوند. این ابزار با تحلیل کدهای موجود، پیشنهادهای بهینه‌سازی و رفع خطای خودکار را به مهندسان اتوماسیون ارائه می‌دهد. این نوآوری زمان لازم برای توسعه پروژه‌های بزرگ اتوماسیون صنعتی را تا حد زیادی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 10:20",
+      "collected_at": "1405/07/29 11:06",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/industrial-copilot-ai-update",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "Artificial Intelligence",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "انتشار هشدار امنیتی CISA درباره آسیب‌پذیری‌های تجهیزات شبکه صنعتی لایه ۲",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) گزارشی درباره چند آسیب‌پذیری آسیب‌رسان در سوئیچ‌های مدیریت‌شده لایه ۲ صنعتی منتشر کرد. این نقص‌ها می‌تواند به مهاجمان اجازه دهد ترافیک شبکه OT را مختل کنند یا دسترسی غیرمجاز به کنترل‌کننده‌ها داشته باشند. به سازندگان تجهیزات از جمله زیمنس و فونیکس کنتاکت توصیه شده بسته‌های اصلاحی امنیتی جدید را سریعاً اعمال کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 10:35",
+      "collected_at": "1405/07/29 11:06",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/cisa-industrial-network-security-alert",
+      "tags": [
+        "Cybersecurity",
+        "CISA",
+        "Industrial Networks",
+        "Vulnerability"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی سیستم کنترل توزیع‌شده جدید EcoStruxure Foxboro DCS توسط اشنایدر الکتریک",
+      "summary": "شرکت اشنایدر الکتریک نسل جدید سیستم کنترل توزیع‌شده EcoStruxure Foxboro DCS را با معماری نرم‌افزاری کاملاً منعطف عرضه کرد. این سیستم جدید برای مجتمع‌های بزرگ نفت، گاز و پتروشیمی طراحی شده و قابلیت اطمینان بالا را در پردازش‌های مداوم تضمین می‌کند. پلتفرم جدید با کاهش هزینه‌های سیم‌کشی و بهه‌سازی مدیریت آلارم، کارایی اپراتور را بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/29 10:45",
+      "collected_at": "1405/07/29 11:06",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/schneider-foxboro-dcs-release",
+      "tags": [
+        "Schneider Electric",
+        "Foxboro",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گسترش کاربرد دوقلوهای دیجیتال در خطوط تولید باتری خودرو با پلتفرم Siemens Xcelerator",
+      "summary": "یکی از خودروسازان بزرگ اروپایی با استفاده از پلتفرم Siemens Xcelerator توانسته خط تولید سلول‌های باتری خود را به طور کامل به صورت دوقلو دیجیتال شبیه‌سازی کند. این پروژه به مهندسان اجازه می‌دهد تا پیش از ساخت فیزیکی کارخانه، چیدمان ربات‌ها و جریان مواد را آزمایش و بهینه‌سازی کنند. این رویکرد نوآورانه زمان ورود محصول به بازار را به میزان قابل توجهی کوتاه می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/29 10:55",
+      "collected_at": "1405/07/29 11:06",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-digital-twin-battery-plants",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Xcelerator",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "ارتقای پلتفرم رباتیک صنعتی ABB با قابلیت‌های یادگیری عمیق در کنترلر OmniCore",
+      "summary": "شرکت ABB بسته‌ به‌روزرسانی نرم‌افزاری جدیدی را برای کنترل‌کننده‌های رباتیک سری OmniCore خود با تکیه بر الگوریتم‌های یادگیری عمیق ارائه داد. این قابلیت‌ها به بازوها و ربات‌های صنعتی اجازه می‌دهد تا قطعات نامنظم را با دقت بسیار بالاتری در خطوط مونتاژ تشخیص دهند. این پیشرفت گامی بزرگ در جهت افزایش انعطاف‌پذیری ربات‌ها در محیط‌های پویا و متغیر کارگاهی است.",
+      "category": "product",
+      "published_at": "1405/07/29 11:05",
+      "collected_at": "1405/07/29 11:06",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/abb-omnicore-deep-learning-update",
+      "tags": [
+        "ABB",
+        "OmniCore",
+        "Robotics",
+        "Artificial Intelligence"
       ]
     }
   ]
