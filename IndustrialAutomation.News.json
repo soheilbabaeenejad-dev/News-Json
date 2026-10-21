@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1061,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/29 09:53",
+  "count": 1069,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/29 11:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -16960,6 +16960,135 @@
         "AMR",
         "Logistics",
         "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261021-002",
+      "title": "ارتقای امنیت سایبری در تجهیزات شبکه صنعتی با پروتکل‌های جدید زیمنس",
+      "summary": "شرکت زیمنس استانداردهای امنیتی جدیدی را برای سوئیچ‌های صنعتی سری SCALANCE معرفی کرد. این به‌روزرسانی شامل پیاده‌سازی پروتکل‌های رمزنگاری پیشرفته برای محافظت در برابر حملات مرد میانی در شبکه‌های OT است. این اقدام گامی مهم برای انطباق با استانداردهای IEC 62443 در کارخانه‌های هوشمند و زیرساخت‌های حیاتی محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/21 09:30",
+      "collected_at": "1405/07/29 11:00",
+      "source": "Industrial Cybersecurity News",
+      "source_url": "https://cert.siemens.com/productcert/security-advisories",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT",
+        "Networking",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261021-003",
+      "title": "توسعه قابلیت‌های مدیریت انرژی در پلتفرم Siemens Xcelerator",
+      "summary": "زیمنس با افزودن ماژول‌های جدید به پلتفرم Xcelerator، امکان پایش دقیق مصرف انرژی در سطح ماشین‌آلات را فراهم کرد. این ابزارها با تحلیل داده‌های ارسالی از درایوهای SINAMICS، نقاط اتلاف انرژی را شناسایی کرده و راهکارهایی برای بهینه‌سازی ارائه می‌دهند. این قابلیت به صنایع کمک می‌کند تا اهداف پایداری و کاهش کربن را سریع‌تر محقق کنند.",
+      "category": "product",
+      "published_at": "1405/07/21 10:00",
+      "collected_at": "1405/07/29 11:00",
+      "source": "Siemens Xcelerator Portal",
+      "source_url": "https://xcelerator.siemens.com/global/en/energy-management.html",
+      "tags": [
+        "Xcelerator",
+        "Energy Management",
+        "Sustainability",
+        "SINAMICS"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "همکاری استراتژیک زیمنس و انویدیا برای شبیه‌سازی دوقلوهای دیجیتال در مقیاس بزرگ",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه پلتفرم‌های دوقلوی دیجیتال فوتورالیستیک گسترش دادند. این همکاری بر استفاده از Omniverse برای شبیه‌سازی دقیق کارخانه‌های خودروسازی متمرکز است. با این فناوری، تولیدکنندگان می‌توانند قبل از ساخت فیزیکی خط تولید، تمامی فرآیندهای رباتیک را در محیط مجازی تست و بهینه‌سازی کنند.",
+      "category": "industry",
+      "published_at": "1405/07/21 10:30",
+      "collected_at": "1405/07/29 11:00",
+      "source": "Automation World",
+      "source_url": "https://www.siemens.com/global/en/company/stories/industry/nvidia-partnership.html",
+      "tags": [
+        "NVIDIA",
+        "Digital Twin",
+        "Omniverse",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "عرضه کنترل‌کننده جدید سری Modicon M580 توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک نسل جدید کنترل‌کننده‌های Modicon M580 را با قابلیت‌های پیشرفته پردازش داده‌های ابری عرضه کرد. این کنترل‌کننده با معماری باز، امکان اتصال مستقیم به سیستم‌های IT را فراهم کرده و امنیت سایبری داخلی را در سطح سخت‌افزار تضمین می‌کند. این محصول برای صنایع فرآیندی که به پایداری بالا نیاز دارند، طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/21 11:00",
+      "collected_at": "1405/07/29 11:00",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/product-range/6211-modicon-m580/",
+      "tags": [
+        "Schneider Electric",
+        "PLC",
+        "Modicon",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "رونمایی از نسل جدید ربات‌های همکار ABB برای خطوط مونتاژ الکترونیک",
+      "summary": "شرکت ABB ربات‌های همکار سری YuMi جدید خود را با سنسورهای لمسی پیشرفته معرفی کرد. این ربات‌ها برای همکاری ایمن با انسان در فضاهای محدود طراحی شده‌اند و نیازی به حصارهای ایمنی ندارند. با استفاده از این ربات‌ها، سرعت مونتاژ قطعات الکترونیکی کوچک تا ۳۰ درصد افزایش یافته و خطاهای انسانی به حداقل رسیده است.",
+      "category": "product",
+      "published_at": "1405/07/21 12:00",
+      "collected_at": "1405/07/29 11:00",
+      "source": "ABB Robotics",
+      "source_url": "https://new.abb.com/products/robotics/cobots/yumi",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Cobot",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "معرفی سیستم کنترل فرآیند جدید Yokogawa برای صنایع پتروشیمی",
+      "summary": "یوکوگاوا سیستم کنترل توزیع‌شده (DCS) جدید خود را با نام CENTUM VP R6.10 معرفی کرد. این سیستم با تمرکز بر امنیت سایبری و پایداری عملیاتی، برای محیط‌های خشن پتروشیمی بهینه‌سازی شده است. قابلیت‌های پیشرفته عیب‌یابی خودکار در این سیستم، زمان توقف ناخواسته کارخانه را به میزان قابل توجهی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/21 12:30",
+      "collected_at": "1405/07/29 11:00",
+      "source": "Yokogawa Global",
+      "source_url": "https://www.yokogawa.com/solutions/products-platforms/control-system/distributed-control-systems-dcs/",
+      "tags": [
+        "Yokogawa",
+        "DCS",
+        "Petrochemical",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "سرمایه‌گذاری جدید زیمنس در توسعه فناوری‌های امنیت سایبری شبکه‌های OT",
+      "summary": "زیمنس اعلام کرد که یک مرکز تخصصی جدید برای توسعه امنیت سایبری شبکه‌های صنعتی در برلین افتتاح می‌کند. این مرکز با تمرکز بر شناسایی تهدیدات نوظهور در تجهیزات PLC و SCADA، راهکارهای دفاعی پیشگیرانه تولید خواهد کرد. این سرمایه‌گذاری بخشی از استراتژی کلان زیمنس برای حفاظت از زیرساخت‌های دیجیتال مشتریانش در برابر حملات سایبری است.",
+      "category": "company",
+      "published_at": "1405/07/21 13:00",
+      "collected_at": "1405/07/29 11:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/cybersecurity-center-berlin",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "OT",
+        "Investment"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "ارتقای استاندارد EtherCAT G توسط بکوف برای انتقال داده‌های حجیم",
+      "summary": "شرکت بکوف اتوماسیون نسخه ارتقایافته استاندارد EtherCAT G را برای کاربردهای با پهنای باند بالا معرفی کرد. این فناوری جدید امکان انتقال داده‌ها با سرعت ۱۰ گیگابیت بر ثانیه را فراهم می‌کند که برای سیستم‌های بینایی ماشین و رباتیک پیشرفته ضروری است. این ارتقا باعث می‌شود تا هماهنگی بین کنترل‌کننده‌ها و محرک‌ها در سیستم‌های بسیار پیچیده به دقت میلی‌ثانیه برسد.",
+      "category": "industry",
+      "published_at": "1405/07/21 13:30",
+      "collected_at": "1405/07/29 11:00",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com/en-en/products/i-o/ethercat/",
+      "tags": [
+        "Beckhoff",
+        "EtherCAT",
+        "Automation",
+        "Networking"
       ]
     }
   ]
