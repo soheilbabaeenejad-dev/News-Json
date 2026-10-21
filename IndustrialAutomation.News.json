@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1146,
+  "count": 1155,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 15:00",
+  "updated_at": "1405/07/29 15:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18307,6 +18307,151 @@
         "Education",
         "Training",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261020-001",
+      "title": "رونمایی زیمنس از ماژول‌های توسعه‌یافته SIMATIC ET 200MP برای خطوط تولید پرسرعت",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ورودی و خروجی SIMATIC ET 200MP با قابلیت پردازش سیگنال فوق‌سریع رونمایی کرد. این تجهیزات جدید به مهندسان اجازه می‌دهند تا زمان پاسخگویی سیستم‌های کنترل را به طور چشمگیری کاهش داده و بهره‌وری خطوط مونتاژ را ارتقا دهند. این ماژول‌ها به‌طور کامل با محیط مهندسی TIA Portal یکپارچه شده‌اند و نصب و راه‌اندازی آن‌ها با سرعت بیشتری انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 09:15",
+      "collected_at": "1405/07/29 15:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-et-200mp-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200MP",
+        "TIA Portal",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261020-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در نسخه جدید Siemens Industrial Edge Hub",
+      "summary": "زیمنس نسخه جدید پلتفرم Industrial Edge Hub را با ابزارهای پیشرفته تحلیل داده‌های صنعتی منتشر کرد. این نسخه به مدیران کارخانه‌ها کمک می‌کند تا اطلاعات بلادرنگ سنسورهای سطح کارخانه را با دقت بالاتری برای نگهداری پیشگیرانه تحلیل کنند. این به‌روزرسانی شامل اتصال امن‌تر به سرویس‌های ابری و کاهش هزینه‌های زیرساختی پردازش لبه است.",
+      "category": "product",
+      "published_at": "1405/07/29 10:00",
+      "collected_at": "1405/07/29 15:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-industrial-edge-hub-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Edge Computing",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261020-004",
+      "title": "انتشار بسته امنیتی جدید برای سیستم کنترل توزیع‌شده SIMATIC PCS 7",
+      "summary": "زیمنس بسته به‌روزرسانی امنیتی ماهانه را برای سیستم کنترل فرآیند SIMATIC PCS 7 عرضه کرد که چندین آسیب‌پذیری حیاتی را برطرف می‌کند. این اصلاحیه امنیتی پروتکل‌های ارتباطی سرورهای اسکادا را در برابر تهدیدات سایبری مدرن مقاوم‌تر می‌سازد. به تمامی اپراتورهای صنایع فرآیندی توصیه شده است هرچه سریع‌تر سیستم‌های خود را ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 11:20",
+      "collected_at": "1405/07/29 15:02",
+      "source": "ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/siemens-pcs7-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "Cybersecurity",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "رونمایی از نسل جدید روبات‌های صنعتی متحرک زیمنس با ناوبری هوشمند",
+      "summary": "زیمنس روبات‌های خودران لجستیکی جدیدی را معرفی کرد که مجهز به سیستم ناوبری مبتنی بر هوش مصنوعی و سنسورهای لایدار پیشرفته هستند. این روبات‌های صنعتی می‌توانند به طور خودکار مسیر خود را در کارخانه‌های شلوغ تغییر دهند و با سیستم‌های مدیریت انبار زیمنس هماهنگ شوند. این فناوری به طور قابل توجهی زمان جابجایی قطعات را در خطوط تولید بهینه می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 12:05",
+      "collected_at": "1405/07/29 15:02",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/siemens-autonomous-mobile-robots",
+      "tags": [
+        "Siemens",
+        "AMR",
+        "Robotics",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261020-006",
+      "title": "توسعه قابلیت‌های شبیه‌سازی سه‌بعدی در نرم‌افزار SINAMICS Startdrive",
+      "summary": "بخش درایوهای زیمنس قابلیت‌های جدیدی را به نرم‌افزار مهندسی SINAMICS Startdrive برای شبیه‌سازی رفتار موتورهای الکتریکی اضافه کرد. این ابزار جدید مهندسان را قادر می‌سازد پیش از اتصال سخت‌افزاری واقعی، عملکرد درایوهای SINAMICS S120 را در محیط مجازی بررسی کنند. این ویژگی خطاهای احتمالی سیم‌کشی و پارامتردهی را به میزان زیادی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/29 12:50",
+      "collected_at": "1405/07/29 15:02",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-startdrive-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Startdrive",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261020-007",
+      "title": "افزایش بهره‌وری انرژی با راهکار جدید مانیتورینگ پاور زیمنس",
+      "summary": "زیمنس از ماژول‌های جدید اندازه‌گیری انرژی PAC نام برد که برای نظارت بر مصرف برق تجهیزات صنعتی سنگین طراحی شده‌اند. این دستگاه‌ها داده‌های مصرف را به پلتفرم ابری Insights Hub ارسال می‌کنند تا الگوهای هدررفت انرژی شناسایی شوند. این راهکار به کارخانه‌ها کمک می‌کند تا استانداردهای سخت‌گیرانه زیست‌محیطی ISO 50001 را راحت‌تر رعایت کنند.",
+      "category": "industry",
+      "published_at": "1405/07/29 13:30",
+      "collected_at": "1405/07/29 15:02",
+      "source": "Energy Manager Today",
+      "source_url": "https://www.energymanagertoday.com/siemens-pac-energy-monitoring",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Energy Management",
+        "ISO 50001"
+      ]
+    },
+    {
+      "id": "ia-20261020-008",
+      "title": "یکپارچه‌سازی پروتکل OPC UA over TSN در کنترل‌کننده‌های پیشرفته زیمنس",
+      "summary": "زیمنس پشتیبانی از استاندارد ارتباطی TSN را برای کنترل‌کننده‌های رده‌بالای SIMATIC S7-1500 توسعه داد تا تبادل داده در شبکه‌های ابعادی تضمین شود. این فناوری ارتباطی بستر لازم برای کنترل بلادرنگ و قطعی را در خطوط تولید اتوماتیک فراهم می‌کند. این رویکرد ساختار شبکه‌های OT را همگام با استانداردهای فناوری اطلاعات مدرن می‌سازد.",
+      "category": "topic",
+      "published_at": "1405/07/29 14:00",
+      "collected_at": "1405/07/29 15:02",
+      "source": "Industrial Communication",
+      "source_url": "https://www.industrial-communication.com/siemens-opc-ua-tsn",
+      "tags": [
+        "Siemens",
+        "OPC UA",
+        "TSN",
+        "SIMATIC S7-1500"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "سرمایه‌گذاری زیمنس در تأسیس مرکز جدید نوآوری اتوماسیون صنعتی در آلمان",
+      "summary": "شرکت زیمنس از راه‌اندازی یک مرکز پیشرفته تحقیق و توسعه با بودجه ۵۰ میلیون یورویی در شهر نورنبرگ خبر داد. این مرکز بر توسعه فناوری‌های نوظهور در حوزه هوش مصنوعی صنعتی، رایانش لبه و معماری باز اتوماسیون تمرکز خواهد کرد. این اقدام بخشی از برنامه استراتژیک زیمنس برای تسریع تحول دیجیتال در صنایع کوچک و متوسط است.",
+      "category": "economy",
+      "published_at": "1405/07/29 14:35",
+      "collected_at": "1405/07/29 15:02",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/siemens-automation-innovation-center",
+      "tags": [
+        "Siemens",
+        "R&D",
+        "Automation",
+        "Germany"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "عرضه ماژول ارتباطی جدید CP 1543-1 برای امنیت شبکه‌های صنعتی SIMATIC",
+      "summary": "زیمنس ماژول ارتباطی پیشرفته CP 1543-1 را برای کنترل‌کننده‌های SIMATIC S7-1500 به بازار عرضه کرد که امنیت شبکه‌های صنعتی را تقویت می‌کند. این ماژول دارای فایروال یکپارچه Stateful Inspection و قابلیت پشتیبانی از VPN برای دسترسی امن از راه دور است. این تجهیزات حفاظت از زیرساخت‌های حیاتی در برابر نفوذهای سایبری را به‌طور قابل توجهی ساده‌تر می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 15:00",
+      "collected_at": "1405/07/29 15:02",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-cp-1543-1-security-module",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "Firewall"
       ]
     }
   ]
