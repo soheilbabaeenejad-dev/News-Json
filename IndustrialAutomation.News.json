@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1079,
+  "count": 1087,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 12:00",
+  "updated_at": "1405/07/29 12:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -17248,6 +17248,133 @@
         "I/O Modules",
         "Hardware",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای پلتفرم Industrial Edge با ابزارهای جدید مدیریت داده‌های OT",
+      "summary": "پلتفرم Siemens Industrial Edge میزبان قابلیت‌های جدیدی برای تحلیل بلادرنگ داده‌های سطح کارخانه و اتصال امن به سیستم‌های Enterprise شد. این ماژول‌های نرم‌افزاری جدید به اپراتورها اجازه می‌دهد بدون نیاز به تغییر زیرساخت اصلی، تصمیمات مبتنی بر داده اتخاذ کنند. چنین رویکردی کارایی نگهداری پیشگیرانه تجهیزات را در صنایع سنگین بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/29 09:10",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/edge-computing/siemens-industrial-edge-updates",
+      "tags": [
+        "Industrial Edge",
+        "OT/IT",
+        "Siemens",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی کنترل‌کننده ایمنی جدید SIMATIC S7-1500F با ارتباطات پیشرفته",
+      "summary": "شرکت زیمنس سری جدید کنترل‌کننده‌های ایمنی SIMATIC S7-1500F را با پروتکل‌های ارتباطی سرعت بالا و امنیت سایبری سخت‌گیرانه عرضه کرد. این سخت‌افزارها برای حفاظت از اپراتورها در خطوط مونتاژ رباتیک پیچیده طراحی شده‌اند و استانداردهای SIL 3 را به طور کامل پوشش می‌دهند. این محصول نقش کلیدی در ارتقای ضریب ایمنی کارخانجات خودکار ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 09:30",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-s7-1500f-release",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Safety",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه زیرساخت‌های دوقلوی دیجیتال با راهکار جدید Siemens Xcelerator",
+      "summary": "بستر نرم‌افزاری Siemens Xcelerator اکنون از ماژول‌های پیشرفته شبیه‌سازی فیزیکی سه‌بعدی برای خطوط تولید خودرو پشتیبانی می‌کند. این پلتفرم به مهندسان کمک می‌کند پیش از راه‌اندازی فیزیکی کارخانه، تمامی اشکالات احتمالی را در محیط مجازی شناسایی و برطرف کنند. این فناوری موجب کاهش چشمگیر هزینه‌های ساخت و افزایش بهره‌وری کلی خط تولید می‌شود.",
+      "category": "news",
+      "published_at": "1405/07/29 09:55",
+      "collected_at": "1405/07/29 12:06",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/manufacturing/siemens-xcelerator-digital-twin-expansion",
+      "tags": [
+        "Digital Twin",
+        "Siemens Xcelerator",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "عرضه درایوهای فرکانس متغیر SINAMICS G120X با استانداردهای جدید بهینه‌سازی انرژی",
+      "summary": "زیمنس درایوهای صنعتی SINAMICS G120X را با الگوریتم‌های جدید کنترل مصرف انرژی برای صنایع پمپاژ و تهویه مطبوع روانه بازار کرد. این درایوها با کاهش تلفات الکتریکی، نقش بسزایی در کاهش هزینه‌های عملیاتی و ردپای کربن کارخانجات دارند. این محصول به راحتی با سیستم‌های اتوماسیون مبتنی بر پروفی‌نت یکپارچه می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 10:20",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/drives-siemens-sinamics-g120x",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه استاندارد پمپاژ هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو توافق‌نامه جدیدی برای استانداردسازی تجهیزات پنوماتیک هوشمند در خطوط مونتاژ امضا کردند. این همکاری منجر به تولید ماژول‌های ارتباطی مشترکی می‌شود که به پایش وضعیت لحظه‌ای شیرهای برقی کمک می‌کند. این اقدام هماهنگی میان سیستم‌های کنترل مکانیکی و الکترونیکی را در محیط‌های صنعتی تسریع می‌بخشد.",
+      "category": "industry",
+      "published_at": "1405/07/29 10:40",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/article/siemens-festo-partnership-smart-pneumatics",
+      "tags": [
+        "Partnership",
+        "Pneumatics",
+        "Automation",
+        "Festo"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "انتشار وصله امنیتی اضطراری برای تجهیزات ارتباطی SCALANCE زیمنس",
+      "summary": "تیم امنیتی زیمنس یک آسیب‌پذیری بحرانی را در سوئیچ‌های صنعتی خانواده SCALANCE شناسایی و وصله امنیتی متناظر را منتشر کرد. این نقص امنیتی می‌تواند به مهاجمان اجازه دهد ترافیک شبکه OT را مختل کنند. مدیران شبکه تشویق شده‌اند هر چه سریع‌تر فریم‌ور تجهیزات خود را به نسخه جدید ارتقا دهند تا از خطرات سایبری جلوگیری شود.",
+      "category": "regulation",
+      "published_at": "1405/07/29 11:05",
+      "collected_at": "1405/07/29 12:06",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com/siemens-scalance-switches-critical-vulnerability-patch",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "Vulnerability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "رونمایی از سیستم اسکادا جدید SIMATIC WinCC Unified V19",
+      "summary": "زیمنس نسخه جدید پلتفرم مانیتورینگ و کنترل SIMATIC WinCC Unified را با فناوری وب‌محور و انعطاف‌پذیری بالا معرفی کرد. این نرم‌افزار به اپراتورها امکان می‌دهد از طریق هر مرورگر مدرنی به داشبوردهای گرافیکی سه‌بعدی دسترسی داشته باشند. بهبود ابزارهای تحلیل روند و مقیاس‌پذیری از ویژگی‌های برجسته این نسخه است.",
+      "category": "product",
+      "published_at": "1405/07/29 11:30",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/2026/siemens-wincc-unified-v19-release",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه قابلیت‌های رباتیک هوشمند در خطوط تولید با همکاری زیمنس و ABB",
+      "summary": "زیمنس و ABB پلتفرم‌های نرم‌افزاری خود را برای کنترل هماهنگ بازوهای رباتیک و کنترل‌کننده‌های SIMATIC توسعه دادند. این راهکار مشترک برنامه‌نویسی ربات‌ها را از طریق محیط واحد TIA Portal امکان‌پذیر می‌سازد و پیچیدگی‌های سنتی را از بین می‌برد. این پیشرفت موجب افزایش انعطاف‌پذیری خطوط تولید در صنایع الکترونیک و خودروسازی می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/29 11:55",
+      "collected_at": "1405/07/29 12:06",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/story/2026/siemens-abb-collaborative-robotics",
+      "tags": [
+        "Robotics",
+        "ABB",
+        "Siemens",
+        "Integration"
       ]
     }
   ]

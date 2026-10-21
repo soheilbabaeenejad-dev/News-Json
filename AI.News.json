@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1214,
+  "count": 1215,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 12:00",
+  "updated_at": "1405/07/29 12:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18474,6 +18474,21 @@
         "امنیت سایبری",
         "سرمایه‌گذاری",
         "استارتاپ"
+      ]
+    },
+    {
+      "id": "ai-20261007-003",
+      "title": "شایعات از توانایی‌های چندوجهی و استدلالی مدل Llama 4 متا حکایت دارند",
+      "summary": "گزارش‌های تازه نشان می‌دهد که شرکت متا در حال آماده‌سازی نسخه پیشرفته‌ای از مدل Llama 4 با قابلیت‌های چندوجهی خارق‌العاده است. این مدل جدید قرار است استدلال منطقی و درک محتوای وئدویی را به سطح تازه‌ای ارتقا دهد. انتظار می‌رود متا این مدل را به صورت متن‌باز در اختیار جامعه جهانی قرار دهد.",
+      "category": "industry",
+      "published_at": "1405/07/29 09:45",
+      "collected_at": "1405/07/29 12:05",
+      "source": "دِ ورج",
+      "source_url": "https://www.theverge.com/meta-llama-4-multimodal-rumors",
+      "tags": [
+        "متا",
+        "Llama 4",
+        "مدل متن‌باز"
       ]
     }
   ]
