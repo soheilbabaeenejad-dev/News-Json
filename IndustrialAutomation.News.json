@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1186,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/29 18:44",
+  "count": 1196,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/29 20:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18933,6 +18933,166 @@
         "Machine Vision",
         "AI",
         "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20261020-001",
+      "title": "همکاری زیمنس و سونی برای ایجاد تحول در طراحی صنعتی با واقعیت مجازی",
+      "summary": "زیمنس با همکاری شرکت سونی از یک سیستم جدید برای مهندسی فضایی رونمایی کرده است که از هدست‌های واقعیت ترکیبی سونی و نرم‌افزار NX زیمنس استفاده می‌کند. این راهکار به مهندسان اجازه می‌دهد تا مدل‌های سه‌بعدی پیچیده را در محیطی غوطه‌ور طراحی و بازبینی کنند. این فناوری با هدف تسریع فرآیند توسعه محصول و کاهش نیاز به نمونه‌سازی فیزیکی در صنایع خودروسازی و هوافضا طراحی و عرضه شده است.",
+      "category": "industry",
+      "published_at": "1405/07/29 10:15",
+      "collected_at": "1405/07/29 20:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-sony-partner-spatial-content-creation",
+      "tags": [
+        "Siemens",
+        "Sony",
+        "Digital Twin",
+        "NX"
+      ]
+    },
+    {
+      "id": "ia-20261020-002",
+      "title": "ادغام پردازش هوش مصنوعی در کنترلرهای SIMATIC S7-1500 با ماژول جدید NPU",
+      "summary": "زیمنس ماژول جدید TM NPU را برای خانواده کنترل‌کننده‌های S7-1500 معرفی کرده است که امکان اجرای الگوریتم‌های یادگیری عمیق را به صورت محلی فراهم می‌کند. این ماژول از پردازنده‌های عصبی اینتل برای تحلیل داده‌های سنسورها در زمان واقعی استفاده می‌کند. با این قابلیت، وظایفی مانند بازرسی بصری کیفیت بدون نیاز به اتصال به ابر و با تاخیر بسیار کم در سطح کارخانه انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 11:30",
+      "collected_at": "1405/07/29 20:05",
+      "source": "Siemens Industry",
+      "source_url": "https://support.industry.siemens.com/cs/document/109817240/simatic-s7-1500-tm-npu",
+      "tags": [
+        "SIMATIC",
+        "AI",
+        "S7-1500",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261020-003",
+      "title": "خرید شرکت SEAM Group توسط ABB برای تقویت خدمات مدیریت دارایی‌های صنعتی",
+      "summary": "شرکت ABB با هدف گسترش سبد خدمات خود در زمینه برق‌رسانی و مدیریت دارایی، شرکت آمریکایی SEAM Group را به مالکیت خود درآورد. این اقدام به ABB اجازه می‌دهد تا راهکارهای نگهداری پیشگیرانه و ایمنی الکتریکی را با پلتفرم‌های دیجیتال خود ادغام کند. با اضافه شدن ۳۰۰ متخصص جدید، این شرکت قصد دارد بهره‌وری عملیاتی و پایداری انرژی را در تاسیسات صنعتی و دیتاسنترهای بزرگ بهبود بخشد.",
+      "category": "company",
+      "published_at": "1405/07/29 12:45",
+      "collected_at": "1405/07/29 20:05",
+      "source": "ABB News",
+      "source_url": "https://new.abb.com/news/detail/112543/abb-completes-acquisition-of-seam-group",
+      "tags": [
+        "ABB",
+        "Acquisition",
+        "Asset Management",
+        "Electrification"
+      ]
+    },
+    {
+      "id": "ia-20261020-004",
+      "title": "ارتقای بهره‌وری ماشین‌کاری با قابلیت‌های جدید دوقلوی دیجیتال در Sinumerik One",
+      "summary": "زیمنس به‌روزرسانی‌های جدیدی را برای سیستم کنترل عددی Sinumerik One ارائه کرده است که تمرکز ویژه‌ای بر یکپارچه‌سازی کامل با نرم‌افزار Create MyVirtual Machine دارد. این قابلیت به تولیدکنندگان اجازه می‌دهد تا کل فرآیند ماشین‌کاری را پیش از شروع تولید واقعی، در محیط دیجیتال شبیه‌سازی و بهینه‌سازی کنند. استفاده از این فناوری منجر به کاهش ۲۵ درصدی زمان راه‌اندازی و جلوگیری از برخوردهای احتمالی ابزار می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 13:20",
+      "collected_at": "1405/07/29 20:05",
+      "source": "Siemens CNC",
+      "source_url": "https://www.siemens.com/global/en/products/automation/systems/cnc-sinumerik/sinumerik-one.html",
+      "tags": [
+        "Sinumerik",
+        "CNC",
+        "Digital Twin",
+        "Machining"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "گسترش همکاری راکول اتوماسیون و مایکروسافت در زمینه سیستم‌های اجرای تولید ابری",
+      "summary": "راکول اتوماسیون اعلام کرد که پلتفرم Plex MES خود را به طور کامل با سرویس‌های ابری Azure مایکروسافت یکپارچه کرده است تا دسترسی به داده‌های تولید را تسهیل کند. این همکاری به کارخانه‌ها اجازه می‌دهد تا از ابزارهای تحلیل پیشرفته و هوش مصنوعی برای پایش زنجیره تامین در مقیاس جهانی استفاده کنند. هدف اصلی این طرح، ایجاد شفافیت کامل در فرآیندهای تولید و کاهش هزینه‌های زیرساخت IT برای تولیدکنندگان است.",
+      "category": "company",
+      "published_at": "1405/07/29 14:50",
+      "collected_at": "1405/07/29 20:05",
+      "source": "Rockwell Press",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/rockwell-automation-and-microsoft-expand-partnership.html",
+      "tags": [
+        "Rockwell Automation",
+        "Microsoft",
+        "Azure",
+        "MES"
+      ]
+    },
+    {
+      "id": "ia-20261020-006",
+      "title": "بهبود قابلیت‌های کنترل حرکت در نسخه جدید پلتفرم مهندسی TIA Portal",
+      "summary": "در آخرین به‌روزرسانی TIA Portal، زیمنس ابزارهای جدیدی را برای مدیریت سیستم‌های کنترل حرکت و همگام‌سازی محورهای متعدد معرفی کرده است. این نسخه شامل کتابخانه‌های پیشرفته‌ای برای کنترل ربات‌های دلتا و سیستم‌های انتقال خطی است که برنامه‌نویسی را تا ۳۰ درصد سریع‌تر می‌کند. همچنین قابلیت‌های شبیه‌سازی Kinematics به مهندسان اجازه می‌دهد تا رفتار مکانیکی سیستم را به دقت در محیط نرم‌افزاری آزمایش کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 15:40",
+      "collected_at": "1405/07/29 20:05",
+      "source": "Siemens Industry",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html",
+      "tags": [
+        "TIA Portal",
+        "Motion Control",
+        "Engineering",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261020-007",
+      "title": "رونمایی اشنایدر الکتریک از ربات‌های همکار جدید سری Lexium برای محیط‌های کوچک",
+      "summary": "اشنایدر الکتریک با معرفی سری جدید Cobotهای Lexium، گام مهمی در جهت اتوماسیون انعطاف‌پذیر در صنایع بسته‌بندی و الکترونیک برداشته است. این ربات‌ها به گونه‌ای طراحی شده‌اند که بدون نیاز به حصارهای ایمنی در کنار اپراتورهای انسانی کار کنند و به راحتی با پلتفرم EcoStruxure ادغام می‌شوند. نصب سریع و قابلیت برنامه‌نویسی گرافیکی این ربات‌ها، آن‌ها را به گزینه‌ای ایده‌آل برای کارخانه‌های مدرن تبدیل کرده است.",
+      "category": "product",
+      "published_at": "1405/07/29 16:15",
+      "collected_at": "1405/07/29 20:05",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com/ww/en/product-range/39512247-lexium-cobot/",
+      "tags": [
+        "Schneider Electric",
+        "Cobot",
+        "Lexium",
+        "EcoStruxure"
+      ]
+    },
+    {
+      "id": "ia-20261020-008",
+      "title": "معرفی نسخه دوم پلتفرم مدیریت لبه صنعتی زیمنس برای کنترل متمرکز دستگاه‌ها",
+      "summary": "زیمنس نسخه ۲.۰ سیستم مدیریت Industrial Edge (IEM) را با رابط کاربری بازطراحی شده و قابلیت‌های امنیتی ارتقایافته روانه بازار کرد. این پلتفرم جدید امکان مدیریت هزاران دستگاه لبه را در سایت‌های مختلف تولیدی به صورت متمرکز و از راه دور فراهم می‌آورد. از ویژگی‌های کلیدی این نسخه می‌توان به پشتیبانی بهتر از کانتینرهای Docker و ابزارهای عیب‌یابی پیشرفته اشاره کرد که پایداری اپلیکیشن‌ها را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 17:30",
+      "collected_at": "1405/07/29 20:05",
+      "source": "Siemens Edge",
+      "source_url": "https://www.siemens.com/global/en/products/automation/topic/industrial-edge.html",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "Edge Management",
+        "Docker"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "هشدار امنیتی CISA در مورد آسیب‌پذیری‌های بحرانی در روترهای صنعتی پرکاربرد",
+      "summary": "آژانس امنیت زیرساخت و امنیت سایبری (CISA) هشداری درباره وجود چندین حفره امنیتی در روترهای صنعتی مورد استفاده در شبکه‌های OT صادر کرده است. این آسیب‌پذیری‌ها می‌توانند به مهاجمان اجازه دهند تا با اجرای کدهای مخرب، کنترل ترافیک شبکه کارخانه را در دست بگیرند. به مدیران سیستم‌های اتوماسیون توصیه شده است که سریعاً وصله‌های امنیتی ارائه شده توسط سازندگان را نصب کرده و دسترسی‌های از راه دور را محدود کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 18:20",
+      "collected_at": "1405/07/29 20:05",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+      "tags": [
+        "Cybersecurity",
+        "CISA",
+        "OT Security",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "همکاری زیمنس و شرکت BASF برای کاهش انتشار کربن با استفاده از داده‌های صنعتی",
+      "summary": "زیمنس و غول شیمیایی BASF پروژه‌ای مشترک را برای ردیابی دقیق ردپای کربن در محصولات پتروشیمی با استفاده از پلتفرم SiGreen آغاز کرده‌اند. این سیستم داده‌های واقعی مصرف انرژی را از سطح PLCها جمع‌آوری کرده و با مدل‌های زنجیره تامین ترکیب می‌کند تا گزارش‌های پایداری دقیقی ارائه دهد. این راهکار به شرکت‌ها کمک می‌کند تا با شناسایی نقاط پرمصرف، استراتژی‌های موثری برای دستیابی به اهداف توسعه پایدار اتخاذ کنند.",
+      "category": "industry",
+      "published_at": "1405/07/29 19:45",
+      "collected_at": "1405/07/29 20:05",
+      "source": "Sustainability News",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-basf-cooperate-carbon-footprint-tracking",
+      "tags": [
+        "Sustainability",
+        "Siemens",
+        "BASF",
+        "Decarbonization"
       ]
     }
   ]
