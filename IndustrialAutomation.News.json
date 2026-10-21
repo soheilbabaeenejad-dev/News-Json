@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1129,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/29 14:05",
+  "count": 1137,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/07/29 14:14",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -18044,6 +18044,134 @@
         "ET 200MP",
         "Safety PLC",
         "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261020-002",
+      "title": "ارتقای قابلیت‌های امنیت سایبری در پلتفرم TIA Portal V20.1",
+      "summary": "زیمنس نسخه جدید TIA Portal V20.1 را با تمرکز بر تقویت امنیت سایبری در محیط‌های OT عرضه کرد. این به‌روزرسانی شامل مکانیزم‌های پیشرفته احراز هویت چندعاملی برای دسترسی به PLCها و رمزنگاری داده‌های ارسالی در سطح شبکه است. این تغییرات به کاهش ریسک حملات سایبری در زیرساخت‌های حیاتی و افزایش انطباق با استانداردهای امنیتی بین‌المللی کمک شایانی می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/29 09:45",
+      "collected_at": "1405/07/29 14:14",
+      "source": "Industrial Automation News",
+      "source_url": "https://support.industry.siemens.com/cs/document/109825432",
+      "tags": [
+        "TIA Portal",
+        "Cybersecurity",
+        "Siemens",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261020-003",
+      "title": "همکاری زیمنس و انویدیا برای بهینه‌سازی دوقلوهای دیجیتال در صنایع سنگین",
+      "summary": "زیمنس و انویدیا در پروژه مشترک جدیدی، قابلیت‌های رندرینگ فوتورالیستیک را به پلتفرم Xcelerator اضافه کردند. این همکاری به تولیدکنندگان اجازه می‌دهد تا دوقلوهای دیجیتال کارخانه‌های خود را با دقت فیزیکی بسیار بالا شبیه‌سازی کنند. استفاده از پردازنده‌های گرافیکی قدرتمند انویدیا در این فرآیند، زمان شبیه‌سازی خطوط تولید را تا ۴۰ درصد کاهش داده است.",
+      "category": "research",
+      "published_at": "1405/07/29 10:10",
+      "collected_at": "1405/07/29 14:14",
+      "source": "Automation World",
+      "source_url": "https://www.siemens.com/global/en/company/stories/industry/nvidia-partnership.html",
+      "tags": [
+        "Nvidia",
+        "Digital Twin",
+        "Siemens",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261020-004",
+      "title": "رونمایی از درایوهای هوشمند SINAMICS S210 با پشتیبانی از پروتکل OPC UA",
+      "summary": "زیمنس نسل جدید درایوهای سروو SINAMICS S210 را با قابلیت پشتیبانی بومی از پروتکل OPC UA معرفی کرد. این درایوها برای کاربردهای دقیق کنترل حرکت در صنایع بسته‌بندی و الکترونیک طراحی شده‌اند و امکان تبادل داده مستقیم با سیستم‌های سطح بالاتر را فراهم می‌کنند. این قابلیت یکپارچه‌سازی درایوها را در معماری‌های Industry 4.0 بسیار ساده‌تر و سریع‌تر می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 10:30",
+      "collected_at": "1405/07/29 14:14",
+      "source": "Siemens Industry",
+      "source_url": "https://mall.industry.siemens.com/mall/en/WW/Catalog/Products/10345678",
+      "tags": [
+        "SINAMICS",
+        "Drive",
+        "OPC UA",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "گسترش اکوسیستم Industrial Edge با اپلیکیشن‌های جدید مدیریت انرژی",
+      "summary": "زیمنس مجموعه جدیدی از اپلیکیشن‌های تحلیل انرژی را برای پلتفرم Industrial Edge عرضه کرد. این ابزارها به مدیران کارخانه‌ها اجازه می‌دهند تا مصرف انرژی تجهیزات را به صورت بلادرنگ مانیتور کرده و نقاط هدررفت را شناسایی کنند. این راهکار با تحلیل داده‌های سنسورهای متصل به PLCهای SIMATIC، به بهینه‌سازی هزینه‌های عملیاتی و کاهش ردپای کربن کمک می‌کند.",
+      "category": "topic",
+      "published_at": "1405/07/29 11:00",
+      "collected_at": "1405/07/29 14:14",
+      "source": "Control Engineering",
+      "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/industrial-edge.html",
+      "tags": [
+        "Industrial Edge",
+        "Energy Management",
+        "Sustainability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261020-006",
+      "title": "هشدار CISA درباره آسیب‌پذیری در تجهیزات شبکه صنعتی فونیکس کنتاکت",
+      "summary": "آژانس امنیت سایبری CISA نسبت به یک آسیب‌پذیری بحرانی در سوئیچ‌های مدیریت‌نشده سری FL شرکت فونیکس کنتاکت هشدار داد. این حفره امنیتی می‌تواند به مهاجمان اجازه دهد تا ترافیک شبکه OT را شنود یا مختل کنند. کاربران ملزم به به‌روزرسانی فوری فریم‌ور تجهیزات خود به آخرین نسخه ارائه شده توسط سازنده هستند تا از حملات احتمالی جلوگیری شود.",
+      "category": "regulation",
+      "published_at": "1405/07/29 11:45",
+      "collected_at": "1405/07/29 14:14",
+      "source": "CISA Alerts",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-290-01",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "Phoenix Contact",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261020-008",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در پلتفرم FactoryTalk راکول اتوماسیون",
+      "summary": "راکول اتوماسیون قابلیت‌های جدیدی مبتنی بر هوش مصنوعی را به پلتفرم FactoryTalk Hub اضافه کرد. این ابزارها با تحلیل داده‌های تاریخی ماشین‌آلات، خرابی‌های احتمالی را پیش‌بینی کرده و دستورالعمل‌های تعمیراتی را به تکنسین‌ها پیشنهاد می‌دهند. این رویکرد به کاهش زمان توقف خطوط تولید و افزایش بهره‌وری کلی تجهیزات (OEE) در کارخانه‌های هوشمند کمک می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/29 12:45",
+      "collected_at": "1405/07/29 14:14",
+      "source": "Rockwell Automation Blog",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/factorytalk-ai-update.html",
+      "tags": [
+        "Rockwell Automation",
+        "AI",
+        "FactoryTalk",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "عرضه ماژول‌های ورودی/خروجی بی‌سیم برای محیط‌های صنعتی سخت",
+      "summary": "شرکت فونیکس کنتاکت ماژول‌های جدید I/O بی‌سیم را برای استفاده در محیط‌هایی که امکان کابل‌کشی وجود ندارد، معرفی کرد. این ماژول‌ها از پروتکل‌های ارتباطی ایمن پشتیبانی کرده و در برابر تداخلات الکترومغناطیسی شدید مقاوم هستند. این فناوری برای کاربردهای پایش از راه دور در صنایع معدنی و زیرساخت‌های آب و فاضلاب بسیار ایده‌آل است.",
+      "category": "product",
+      "published_at": "1405/07/29 13:20",
+      "collected_at": "1405/07/29 14:14",
+      "source": "Phoenix Contact Press",
+      "source_url": "https://www.phoenixcontact.com/en-pc/products/wireless-io-modules",
+      "tags": [
+        "Phoenix Contact",
+        "Wireless",
+        "I/O",
+        "Industrial Networking"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "به‌روزرسانی نرم‌افزار مدیریت عملیات ساخت (MOM) زیمنس برای زنجیره تامین",
+      "summary": "زیمنس نسخه جدید نرم‌افزار مدیریت عملیات ساخت (MOM) خود را با قابلیت‌های پیشرفته ردیابی زنجیره تامین عرضه کرد. این به‌روزرسانی به تولیدکنندگان اجازه می‌دهد تا جریان مواد را در سراسر کارخانه و حتی در سطح تامین‌کنندگان خارجی به دقت پایش کنند. این شفافیت داده‌ای به کاهش موجودی انبار و بهبود زمان پاسخگویی به تغییرات تقاضا در بازار کمک می‌کند.",
+      "category": "industry",
+      "published_at": "1405/07/29 13:50",
+      "collected_at": "1405/07/29 14:14",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://www.siemens.com/global/en/products/software/manufacturing/mom.html",
+      "tags": [
+        "Siemens",
+        "MOM",
+        "Supply Chain",
+        "Digitalization"
       ]
     }
   ]
