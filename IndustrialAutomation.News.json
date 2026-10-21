@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1215,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/07/29 22:55",
+  "count": 1225,
+  "provider": "Gemini/gemma-4-26b-a4b-it",
+  "updated_at": "1405/07/29 23:58",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -19368,6 +19368,165 @@
         "Siemens Xcelerator",
         "Mercedes-Benz",
         "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20250520-001",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس با معرفی ماژول‌های جدید پردازش هوش مصنوعی برای پلتفرم Industrial Edge، گام بزرگی در جهت هوشمندسازی لبه برداشته است. این تجهیزات جدید به اپراتورها اجازه می‌دهند مدل‌های یادگیری عمیق را مستقیماً روی ماشین‌آلات اجرا کنند. این اقدام باعث کاهش تأخیر در تصمیم‌گیری‌های حیاتی و بهبود بازدهی خطوط تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 10:30",
+      "collected_at": "1405/07/29 23:58",
+      "source": "Siemens Press",
+      "source_url": "https://www.siemens.com/news/industrial-edge-ai",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20250520-002",
+      "title": "رونمایی ABB از نسل جدید ربات‌های خودگردان برای لجستیک هوشمند",
+      "summary": "شرکت ABB از سری جدید ربات‌های متحرک خودمختار (AMR) خود رونمایی کرد که برای محیط‌های انبار با چگالی بالا طراحی شده‌اند. این ربات‌ها با استفاده از سنسورهای لیدار پیشرفته، توانایی ناوبری در محیط‌های شلوغ را دارند. این محصول جدید می‌تواند سرعت عملیات جابجایی کالا را در انبارها تا ۳۰ درصد افزایش دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:15",
+      "collected_at": "1405/07/29 23:58",
+      "source": "ABB Robotics News",
+      "source_url": "https://new.abb.com/products/robotics/amr",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "AMR",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20250520-003",
+      "title": "هشدار امنیتی درباره آسیب‌پذیری‌های جدید در پروتکل‌های صنعتی رایج",
+      "summary": "آژانس CISA هشدار داده است که پروتکل‌های قدیمی ارتباطی در تجهیزات OT با ریسک حملات تزریق کد مواجه هستند. این آسیب‌پذیری‌ها می‌تواند منجر به توقف ناگهانی خطوط تولید یا تغییر در پارامترهای PLC شود. متخصصان توصیه می‌کنند از گیت‌وی‌های امنیتی و فایروال‌های صنعتی برای ایزوله‌سازی شبکه‌ها استفاده کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/27 09:00",
+      "collected_at": "1405/07/29 23:58",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/alerts",
+      "tags": [
+        "Cybersecurity",
+        "OT Security",
+        "CISA",
+        "ICS"
+      ]
+    },
+    {
+      "id": "ia-20250520-004",
+      "title": "راهکار جدید زیمنس برای پایش مصرف انرژی در صنایع سنگین",
+      "summary": "زیمنس از یک سیستم یکپارچه برای مدیریت انرژی مبتنی بر داده‌های Real-time رونمایی کرد که با پلتفرم Xcelerator سازگار است. این سیستم با استفاده از حسگرهای هوشمند، میزان اتلاف انرژی در موتورها و درایوها را شناسایی می‌کند. هدف اصلی این پروژه، کمک به صنایع برای دستیابی به اهداف کربن‌صفر و کاهش هزینه‌های عملیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/27 16:45",
+      "collected_at": "1405/07/29 23:58",
+      "source": "Siemens Xcelerator",
+      "source_url": "https://www.siemens.com/energy-management",
+      "tags": [
+        "Siemens",
+        "Sustainability",
+        "Energy Management",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20250520-005",
+      "title": "عرضه نرم‌افزار جدید اشنایدر الکتریک برای مدیریت چرخه حیات دارایی‌ها",
+      "summary": "شرکت اشنایدر الکتریک نسخه جدید نرم‌افزار مدیریت دارایی خود را با تمرکز بر نگهداری پیش‌بینانه عرضه کرد. این نرم‌افزار با تحلیل داده‌های ارتعاش و دما، زمان خرابی قطعات را پیش‌بینی می‌کند. این ابزار به مدیران کارخانه کمک می‌کند تا از توقف‌های ناخواسته و هزینه‌های بالای تعمیرات اضطراری جلوگیری نمایند.",
+      "category": "product",
+      "published_at": "1405/07/28 11:20",
+      "collected_at": "1405/07/29 23:58",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com/asset-management-software",
+      "tags": [
+        "Schneider Electric",
+        "Predictive Maintenance",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20250520-006",
+      "title": "همکاری استراتژیک زیمنس و شرکت‌های نیمه‌هادی برای تراشه‌های صنعتی",
+      "summary": "زیمنس برای تقویت زیرساخت‌های سخت‌افزاری خود، با چندین تولیدکننده بزرگ تراشه وارد همکاری شده است. این همکاری بر تولید تراشه‌های اختصاصی با مقاومت بالا در برابر دما و نویز الکترومغناطیسی تمرکز دارد. این تراشه‌ها قرار است در نسل بعدی کنترل‌کننده‌های SIMATIC برای عملکرد پایدارتر استفاده شوند.",
+      "category": "industry",
+      "published_at": "1405/07/28 13:00",
+      "collected_at": "1405/07/29 23:58",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/siemens-semiconductor",
+      "tags": [
+        "Siemens",
+        "Semiconductors",
+        "Hardware",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20250520-007",
+      "title": "گسترش قابلیت‌های مدیریت از راه دور در پلتفرم‌های راکول اتوماسیون",
+      "summary": "راکول اتوماسیون قابلیت‌های جدیدی را برای کنترل از راه دور تجهیزات از طریق ابر به محصولات خود اضافه کرد. این به‌روزرسانی به مهندسان اجازه می‌دهد تا تنظیمات PLC را بدون حضور فیزیکی در سایت انجام دهند. این ویژگی برای مدیریت سایت‌های پراکنده و کاهش هزینه‌های سفر به محل پروژه بسیار حیاتی است.",
+      "category": "news",
+      "published_at": "1405/07/29 08:10",
+      "collected_at": "1405/07/29 23:58",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/cloud-updates",
+      "tags": [
+        "Rockwell Automation",
+        "Cloud",
+        "Remote Access",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20250520-008",
+      "title": "تأثیر گسترش شبکه‌های 5G خصوصی بر اتوماسیون کارخانه‌ای",
+      "summary": "گزارش‌های جدید نشان می‌دهند که استقرار شبکه‌های 5G خصوصی در محیط‌های صنعتی، پهنای باند مورد نیاز برای ربات‌های پرسرعت را تأمین می‌کند. این فناوری باعث کاهش تأخیر در ارتباطات بین دستگاه‌های حسگر و کنترل‌کننده‌ها می‌شود. شرکت‌هایی مانند نوکیا و زیمنس در حال توسعه زیرساخت‌های سازگار با این استاندارد هستند.",
+      "category": "research",
+      "published_at": "1405/07/29 15:30",
+      "collected_at": "1405/07/29 23:58",
+      "source": "Industrial IoT Journal",
+      "source_url": "https://www.iiot-journal.com/5g-industrial-impact",
+      "tags": [
+        "5G",
+        "Connectivity",
+        "Industrial IoT",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20250520-009",
+      "title": "معرفی قابلیت‌های جدید طراحی سه بعدی در TIA Portal زیمنس",
+      "summary": "زیمنس قابلیت‌های جدیدی را برای ادغام مدل‌های سه بعدی تجهیزات در محیط TIA Portal معرفی کرد. این ویژگی به مهندسان اجازه می‌دهد تا چیدمان تابلوهای برق و مسیر کابل‌ها را پیش از نصب فیزیکی شبیه‌سازی کنند. این ابزار باعث کاهش خطاهای نصب و صرفه‌جویی قابل توجهی در زمان راه‌اندازی پروژه‌ها می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 20:00",
+      "collected_at": "1405/07/29 23:58",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://www.siemens.com/tia-portal-3d-design",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "3D Design",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20250520-010",
+      "title": "رونمایی میتسوبیشی الکتریک از سری جدید کنترل‌کننده‌های حرکت سریع",
+      "summary": "شرکت میتسوبیشی الکتریک از سری جدید کنترل‌کننده‌های MELSEC با دقت بسیار بالا برای کاربردهای کنترل حرکت رونمایی کرد. این محصولات برای صنایع نیمه‌هادی و بسته‌بندی با سرعت بالا طراحی شده‌اند. این کنترل‌کننده‌ها می‌توانند با فرکانس‌های بالای پردازش، دقت حرکت محورها را در حد میکرون تضمین کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 22:45",
+      "collected_at": "1405/07/29 23:58",
+      "source": "Mitsubishi Electric",
+      "source_url": "https://www.mitsubishielectric.com/melsec-motion",
+      "tags": [
+        "Mitsubishi Electric",
+        "Motion Control",
+        "PLC",
+        "Automation"
       ]
     }
   ]
