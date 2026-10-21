@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1069,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/29 11:00",
+  "count": 1076,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/29 11:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -17089,6 +17089,118 @@
         "EtherCAT",
         "Automation",
         "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261020-001",
+      "title": "رونمایی زیمنس از ماژول‌های توسعه‌یافته SIMATIC ET 200MP برای شبکه‌های پرسرعت",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ورودی و خروجی SIMATIC ET 200MP با پشتیبانی از پروتکل‌های ارتباطی پیشرفته رونمایی کرد. این ماژول‌ها به مهندسین اتوماسیون اجازه می‌دهند تا تبادل داده‌ها را در خطوط تولید پیچیده با سرعت و دقت بالاتری انجام دهند. این تجهیزات جدید سهم بسزایی در کاهش زمان تاخیر شبکه و افزایش بهره‌وری کلی سیستم‌های کنترل صنعتی ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/29 08:15",
+      "collected_at": "1405/07/29 11:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-et-200mp-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200MP",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261020-003",
+      "title": "گسترش قابلیت‌های عیب‌یابی خودکار در نرم‌افزار TIA Portal V19 SP1",
+      "summary": "نسخه جدید اصلاح‌شده TIA Portal V19 SP1 با امکانات پیشرفته عیب‌یابی مبتنی بر منطق فازی توسط زیمنس عرضه شد. این ابزار به اپراتورها کمک می‌کند تا خطاهای پنهان در کدهای PLC و درایوهای SINAMICS را سریع‌تر شناسایی کنند. این ویژگی باعث کاهش چشمگیر زمان توقف خطوط تولید و افزایش پایداری تجهیزات در محیط‌های صنعتی سخت می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 09:10",
+      "collected_at": "1405/07/29 11:03",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrialein.com/tia-portal-v19-sp1-release",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "PLC",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "id": "ia-20261020-005",
+      "title": "ارتقای امنیت سایبری سیستم‌های کنترل صنعتی با پروتکل‌های رمزنگاری جدید زیمنس",
+      "summary": "زیمنس استانداردهای امنیتی جدیدی را برای تجهیزات اتوماسیون مبتنی بر SIMATIC S7-1500 معرفی کرد. این به‌روزرسانی سخت‌افزاری و نرم‌افزاری به مقابله با تهدیدات سایبری پیچیده علیه زیرساخت‌های حیاتی کمک می‌کند. این اقدام در راستای تطبیق با استانداردهای سخت‌گیرانه IEC 62443 برای حفاظت از شبکه‌های OT انجام شده است.",
+      "category": "regulation",
+      "published_at": "1405/07/29 09:50",
+      "collected_at": "1405/07/29 11:03",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-ot-cybersecurity-update",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "SIMATIC",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261020-006",
+      "title": "همکاری زیمنس و تویوتا برای هوشمندسازی فرایندهای مونتاژ خودرو",
+      "summary": "شرکت زیمنس از امضای قرارداد همکاری استراتژیک با گروه صنعتی تویوتا برای استفاده از راهکارهای دوقلوی دیجیتال خبر داد. این پروژه با هدف شبیه‌سازی کامل خطوط مونتاژ و کاهش خطاهای انسانی در کارخانه‌های ژاپن اجرا می‌شود. این همکاری نشان‌دهنده استقبال صنایع خودروسازی پیشرو از پلتفرم‌های مهندسی پیشرفته زیمنس است.",
+      "category": "match",
+      "published_at": "1405/07/29 10:10",
+      "collected_at": "1405/07/29 11:03",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-toyota-digital-twin",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Toyota",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261020-007",
+      "title": "عرضه نسل جدید منبع تغذیه‌های صنعتی SITOP PSU8600 با مدیریت هوشمند بار",
+      "summary": "زیمنس منبع تغذیه صنعتی SITOP PSU8600 را با قابلیت‌های ارتباطی پروژه‌محور و پایش انرژی عرضه کرد. این تجهیزات می‌توانند وضعیت سلامت سیستم برق‌رسانی را به طور مداوم به سیستم کنترل مرکزی گزارش دهند. این ویژگی از خرابی‌های ناگهانی ناشی از نوسانات ولتاژ در تابلوهای فرمان جلوگیری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/29 10:30",
+      "collected_at": "1405/07/29 11:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sitop-psu8600-release",
+      "tags": [
+        "Siemens",
+        "SITOP",
+        "Power Supply",
+        "Industrial Electrical"
+      ]
+    },
+    {
+      "id": "ia-20261020-009",
+      "title": "رونمایی از سیستم پایش لرزش جدید SIMATIC CMS برای ماشین‌آلات دوار",
+      "summary": "سیستم پایش وضعیت SIMATIC CMS زیمنس برای تشخیص زودهنگام خرابی بلبرینگ‌ها و گیربکس‌ها معرفی شد. این سیستم با نصب روی الکتروموتورهای سنگین، داده‌های ارتعاشی را برای تحلیل به سیستم‌های ابری ارسال می‌کند. این راهکار مانع از توقف‌های اضطراب‌آور در خطوط تولید پیوسته کارخانجات سیمان و فولاد می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/29 10:55",
+      "collected_at": "1405/07/29 11:03",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/siemens-simatic-cms-vibration",
+      "tags": [
+        "Siemens",
+        "SIMATIC CMS",
+        "Condition Monitoring",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261020-010",
+      "title": "گسترش کاربرد ربات‌های خودران AGV در لجستیک داخلی کارخانجات زیمنس",
+      "summary": "زیمنس از به‌روزرسانی ناوگان ربات‌های خودران و هوشمند (AGV) در کارخانه مرکزی خود در نورنبرگ خبر داد. این ربات‌ها با استفاده از سیستم‌های ناوبری لیزری پیشرفته، قطعات را میان ایستگاه‌های مختلف مونتاژ جابجا می‌کنند. این پروژه کارایی لجستیک داخلی را بهبود بخشیده و هزینه حمل‌ونقل مواد را به حداقل رسانده است.",
+      "category": "industry",
+      "published_at": "1405/07/29 11:00",
+      "collected_at": "1405/07/29 11:03",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-agv-fleet-expansion",
+      "tags": [
+        "Siemens",
+        "AGV",
+        "Robotics",
+        "Smart Factory"
       ]
     }
   ]
