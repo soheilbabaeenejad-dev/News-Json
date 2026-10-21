@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1205,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/29 21:31",
+  "count": 1215,
+  "provider": "Gemini/gemma-4-31b-it",
+  "updated_at": "1405/07/29 22:55",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -19218,6 +19218,156 @@
         "Industrial Copilot",
         "AI",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20251021-001",
+      "title": "گسترش قابلیت‌های پیش‌بینی در Industrial Copilot زیمنس برای کاهش توقفات ناخواسته",
+      "summary": "زیمنس قابلیت‌های جدیدی را به دستیار هوش مصنوعی Industrial Copilot اضافه کرد تا توقفات ناخواسته در خطوط تولید را پیش‌بینی کند. این ابزار با تحلیل داده‌های بلادرنگ از سنسورهای SIMATIC، الگوهای خرابی را شناسایی کرده و توصیه‌های اصلاحی ارائه می‌دهد. این پیشرفت باعث کاهش هزینه‌های نگهداری و افزایش بهره‌وری در صنایع پیچیده می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/28 10:30",
+      "collected_at": "1405/07/29 22:55",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/industrial-copilot-update",
+      "tags": [
+        "Industrial Copilot",
+        "AI",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20251021-002",
+      "title": "معرفی به‌روزرسانی جامع برای سیستم کنترل توزیع‌شده SIMATIC PCS 7 زیمنس",
+      "summary": "زیمنس نسخه جدیدی از سیستم PCS 7 را برای بهینه‌سازی مدیریت فرآیندهای شیمیایی و دارویی عرضه کرد. این به‌روزرسانی شامل ابزارهای مهندسی پیشرفته‌تر و یکپارچگی عمیق‌تر با پلتفرم Xcelerator است تا زمان استقرار سیستم‌ها کاهش یابد. تمرکز اصلی این نسخه بر افزایش امنیت سایبری در لایه‌های کنترل و مانیتورینگ است.",
+      "category": "product",
+      "published_at": "1405/07/27 14:15",
+      "collected_at": "1405/07/29 22:55",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-pcs7-update",
+      "tags": [
+        "SIMATIC PCS 7",
+        "DCS",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20251021-003",
+      "title": "همکاری استراتژیک زیمنس و انویدیا برای شبیه‌سازی فوتورالیستیک کارخانه‌های هوشمند",
+      "summary": "زیمنس و انویدیا همکاری خود را برای ادغام دوقلوهای دیجیتال در محیط Omniverse گسترش دادند تا شبیه‌سازی‌های بصری دقیق‌تری ایجاد کنند. این فناوری به مهندسان اجازه می‌دهد تا قبل از ساخت فیزیکی، جریان مواد و حرکت ربات‌ها را با دقت میلی‌متری بررسی کنند. این اقدام منجر به کاهش خطاهای طراحی در مراحل اولیه پروژه می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/26 09:00",
+      "collected_at": "1405/07/29 22:55",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/siemens-omniverse-digital-twin/",
+      "tags": [
+        "NVIDIA",
+        "Omniverse",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20251021-004",
+      "title": "عرضه ماژول‌های ارتباطی جدید برای SIMATIC S7-1500 جهت پشتیبانی از پروتکل OPC UA FX",
+      "summary": "زیمنس ماژول‌های ارتباطی جدیدی را معرفی کرد که از استاندارد OPC UA FX برای ارتباطات بلادرنگ بین کنترلرها پشتیبانی می‌کنند. این فناوری امکان تبادل داده‌های سریع و استاندارد را بین تجهیزات برندهای مختلف فراهم کرده و وابستگی به پروتکل‌های اختصاصی را کاهش می‌دهد. این گام مهمی در جهت تحقق مفهوم صنعت ۴.۰ است.",
+      "category": "product",
+      "published_at": "1405/07/25 11:45",
+      "collected_at": "1405/07/29 22:55",
+      "source": "Siemens Industry Online Support",
+      "source_url": "https://support.industry.siemens.com/opc-ua-fx-s7-1500",
+      "tags": [
+        "SIMATIC S7-1500",
+        "OPC UA FX",
+        "Interoperability"
+      ]
+    },
+    {
+      "id": "ia-20251021-005",
+      "title": "معرفی ربات‌های سری IRB جدید توسط ABB برای اتوماسیون دقیق در صنعت الکترونیک",
+      "summary": "شرکت ABB نسل جدیدی از ربات‌های سری IRB را رونمایی کرد که برای مونتاژ قطعات بسیار ریز در بردهای الکترونیکی طراحی شده‌اند. این ربات‌ها دارای دقت تکرارپذیری میکرونی هستند و با سیستم‌های بینایی پیشرفته برای شناسایی قطعات مجهز شده‌اند. این محصول سرعت تولید در خطوط SMT را تا ۲۰ درصد افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/24 16:20",
+      "collected_at": "1405/07/29 22:55",
+      "source": "ABB Robotics",
+      "source_url": "https://new.abb.com/robotics/electronics-assembly",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Electronics Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20251021-006",
+      "title": "به‌روزرسانی امنیتی بحرانی برای تجهیزات شبکه صنعتی Ruggedcom زیمنس",
+      "summary": "زیمنس یک وصله امنیتی فوری برای سوئیچ‌های سری Ruggedcom منتشر کرد تا آسیب‌پذیری‌های مربوط به دسترسی غیرمجاز را برطرف کند. این نقص امنیتی می‌توانست منجر به توقف خدمات در شبکه‌های OT شود و مهاجمان را قادر سازد ترافیک شبکه را شنود کنند. کاربران توصیه شده‌اند سریعاً فریم‌ورهای خود را به آخرین نسخه ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/23 08:10",
+      "collected_at": "1405/07/29 22:55",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/alerts/siemens-ruggedcom-update",
+      "tags": [
+        "Cybersecurity",
+        "Ruggedcom",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20251021-007",
+      "title": "توسعه راهکار جدید اشنایدر الکتریک برای مدیریت انرژی در دیتاسنترهای صنعتی",
+      "summary": "اشنایدر الکتریک ابزارهای جدیدی را به پلتفرم EcoStruxure اضافه کرد تا مصرف انرژی در دیتاسنترهای لبه شبکه صنعتی را بهینه کند. این سیستم با استفاده از تحلیل‌های پیش‌بینانه، دمای محیط را مدیریت کرده و هزینه‌های سرمایشی را تا ۱۵ درصد کاهش می‌دهد. این راهکار برای کارخانه‌هایی که از محاسبات ابری محلی استفاده می‌کنند ایده‌آل است.",
+      "category": "product",
+      "published_at": "1405/07/22 13:00",
+      "collected_at": "1405/07/29 22:55",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ecostruxure-datacenter-energy",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20251021-008",
+      "title": "معرفی سیستم مانیتورینگ پیشرفته برای درایوهای SINAMICS G120X زیمنس",
+      "summary": "زیمنس یک اپلیکیشن جدید برای پایش وضعیت درایوهای G120X معرفی کرد که به صورت مستقیم روی Industrial Edge اجرا می‌شود. این ابزار با تحلیل فرکانس‌های جریان، سلامت یاتاقان‌ها و موتورها را ارزیابی کرده و زمان تعمیرات را بهینه‌سازی می‌کند. این سیستم از توقفات ناگهانی در پمپ‌ها و فن‌های صنعتی جلوگیری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/21 10:00",
+      "collected_at": "1405/07/29 22:55",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://siemens.com/sinamics-g120x-monitoring",
+      "tags": [
+        "SINAMICS",
+        "Industrial Edge",
+        "Condition Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20251021-009",
+      "title": "رونمایی راکول اتوماسیون از قابلیت‌های جدید تحلیل داده در FactoryTalk Hub",
+      "summary": "شرکت راکول اتوماسیون قابلیت‌های تحلیل پیشرفته‌ای را به پلتفرم FactoryTalk Hub اضافه کرد تا یکپارچگی داده‌های لبه و ابر را بهبود بخشد. این به‌روزرسانی به مدیران تولید اجازه می‌دهد تا داشبوردهای مدیریتی را در لحظه برای چندین سایت تولیدی مختلف ایجاد کنند. این ابزار باعث تسریع در تصمیم‌گیری‌های عملیاتی می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/20 15:30",
+      "collected_at": "1405/07/29 22:55",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/factorytalk-hub-update",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20251021-010",
+      "title": "اجرای پروژه دوقلوی دیجیتال زیمنس در خط تولید خودروهای برقی شرکت مرسدس بنز",
+      "summary": "زیمنس و مرسدس بنز همکاری خود را برای پیاده‌سازی کامل دوقلوهای دیجیتال در کارخانه جدید باتری‌های برقی گسترش دادند. با استفاده از نرم‌افزارهای Xcelerator، تمام مراحل مونتاژ پیش از اجرای فیزیکی شبیه‌سازی شدند تا گلوگاه‌های تولید شناسایی شوند. این پروژه منجر به کاهش زمان راه‌اندازی خط تولید به میزان ۳۰ درصد شده است.",
+      "category": "industry",
+      "published_at": "1405/07/19 12:00",
+      "collected_at": "1405/07/29 22:55",
+      "source": "Automotive News",
+      "source_url": "https://www.autonews.com/siemens-mercedes-digital-twin",
+      "tags": [
+        "Siemens Xcelerator",
+        "Mercedes-Benz",
+        "Digital Twin"
       ]
     }
   ]
