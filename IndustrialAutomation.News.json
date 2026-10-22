@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 30,
+  "count": 40,
   "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/08/01 01:56",
+  "updated_at": "1405/08/01 02:55",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -458,6 +458,161 @@
         "Predictive Maintenance",
         "DCS",
         "AI"
+      ]
+    },
+    {
+      "id": "ia-20250520-001",
+      "title": "ارتقای امنیت شبکه OT با استفاده از راهکارهای جدید زیمنس و Claroty",
+      "summary": "زیمنس با گسترش همکاری خود با شرکت Claroty، ابزارهای جدیدی را برای شناسایی تهدیدات در پروتکل‌های صنعتی معرفی کرده است. این همکاری به مدیران شبکه اجازه می‌دهد تا آسیب‌پذیری‌های موجود در تجهیزات SIMATIC را در لحظه شناسایی کنند. این اقدام گامی حیاتی برای حفاظت از زیرساخت‌های حساس در برابر حملات سایبری پیشرفته محسوب می‌شود.",
+      "category": "news",
+      "published_at": "1404/08/01 01:15",
+      "collected_at": "1405/08/01 02:55",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-claroty-strengthen-ot-security",
+      "tags": [
+        "security",
+        "Siemens",
+        "Claroty",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20250520-002",
+      "title": "معرفی نسل جدید درایوهای SINAMICS برای بهینه‌سازی مصرف انرژی",
+      "summary": "شرکت زیمنس از به‌روزرسانی سری درایوهای SINAMICS رونمایی کرد که با استفاده از الگوریتم‌های پیشرفته کنترل جریان، بازدهی انرژی را تا ۱۵ درصد افزایش می‌دهند. این درایوها با پلتفرم TIA Portal به طور کامل یکپارچه شده‌اند تا برنامه‌نویسی و تنظیم آن‌ها ساده‌تر شود. این محصول برای صنایع سنگین که با چالش هزینه‌های انرژی روبرو هستند بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1404/08/01 01:45",
+      "collected_at": "1405/08/01 02:55",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/news/siemens-sinamics-energy-efficiency",
+      "tags": [
+        "SINAMICS",
+        "energy",
+        "Siemens",
+        "drives"
+      ]
+    },
+    {
+      "id": "ia-20250520-003",
+      "title": "گسترش استفاده از Industrial Edge در صنایع خودروسازی آلمان",
+      "summary": "کارخانه‌های بزرگ خودروسازی در آلمان برای مدیریت داده‌های بلادرنگ از راهکار Siemens Industrial Edge استفاده می‌کنند. این سیستم با پردازش داده‌ها در نزدیکی منبع تولید، تاخیر در تصمیم‌گیری‌های رباتیک را به حداقل می‌رساند. استفاده از این لایه محاسباتی باعث شده تا خطوط مونتاژ با دقت بسیار بالاتری عمل کنند.",
+      "category": "industry",
+      "published_at": "1404/08/01 01:20",
+      "collected_at": "1405/08/01 02:55",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/digital-transformation/siemens-edge-automotive",
+      "tags": [
+        "Industrial Edge",
+        "automotive",
+        "digitalization"
+      ]
+    },
+    {
+      "id": "ia-20250520-004",
+      "title": "تحلیل بازار جهانی کنترلرهای PLC در سال ۲۰۲۵",
+      "summary": "گزارش‌های جدید نشان می‌دهد که تقاضا برای کنترلرهای با قابلیت اتصال IIoT مانند سری S7-1200 و S7-1500 رشد چشمگیری داشته است. این رشد ناشی از نیاز صنایع به یکپارچگی بیشتر بین لایه اتوماسیون و لایه مدیریت (IT/OT) است. تحلیلگران پیش‌بینی می‌کنند که هوش مصنوعی در سال‌های آینده نقش پررنگ‌تری در منطق PLC ایفا خواهد کرد.",
+      "category": "economy",
+      "published_at": "1404/08/01 00:50",
+      "collected_at": "1405/08/01 02:55",
+      "source": "Market Research Future",
+      "source_url": "https://www.marketresearchfuture.com/reports/plc-market-analysis",
+      "tags": [
+        "PLC",
+        "market",
+        "Siemens",
+        "growth"
+      ]
+    },
+    {
+      "id": "ia-20250520-005",
+      "title": "بهبود دقت رباتیک با ادغام بینایی ماشین در سیستم‌های زیمنس",
+      "summary": "یک سیستم جدید از ترکیب دوربین‌های هوشمند با کنترلرهای SIMATIC برای بازرسی کیفی خودکار در خطوط تولید معرفی شده است. این فناوری اجازه می‌دهد تا عیوب بسیار کوچک در قطعات مکانیکی با دقت میکرونی شناسایی شوند. این پیشرفت باعث کاهش نرخ ضایعات در صنایع الکترونیک و تولید قطعات دقیق شده است.",
+      "category": "research",
+      "published_at": "1404/08/01 01:05",
+      "collected_at": "1405/08/01 02:55",
+      "source": "Robotics Digest",
+      "source_url": "https://www.roboticsdigest.com/siemens-machine-vision-integration",
+      "tags": [
+        "robotics",
+        "vision",
+        "quality-control",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20250520-006",
+      "title": "استاندارد جدید OPC UA برای ارتباطات امن در کارخانه‌های هوشمند",
+      "summary": "سازمان‌های استانداردسازی بر روی نسخه‌های جدید پروتکل OPC UA برای افزایش امنیت در تبادل داده‌های بین دستگاه‌های مختلف تاکید کرده‌اند. این پروتکل که توسط بسیاری از تولیدکنندگان از جمله زیمنس پشتیبانی می‌شود، امنیت لایه ارتباطی را در برابر حملات شنود بهبود می‌بخشد. این موضوع برای پیاده‌سازی مفهوم Industry 4.0 ضروری است.",
+      "category": "regulation",
+      "published_at": "1404/08/01 00:30",
+      "collected_at": "1405/08/01 02:55",
+      "source": "IEC Standards",
+      "source_url": "https://www.iec.ch/opc-ua-industrial-communication",
+      "tags": [
+        "OPC UA",
+        "standard",
+        "communication",
+        "security"
+      ]
+    },
+    {
+      "id": "ia-20250520-007",
+      "title": "نقش پلتفرم Xcelerator در مدیریت چرخه حیات محصولات صنعتی",
+      "summary": "زیمنس با تمرکز بر پلتفرم Xcelerator، ابزارهای نرم‌افزاری جدیدی را برای اتصال طراحی، مهندسی و تولید به یکدیگر عرضه کرده است. این پلتفرم به شرکت‌ها اجازه می‌دهد تا از مدل‌های دیجیتال برای تست محصولات پیش از تولید واقعی استفاده کنند. این رویکرد زمان رسیدن محصول به بازار (Time-to-Market) را به شدت کاهش می‌دهد.",
+      "category": "topic",
+      "published_at": "1404/08/01 01:35",
+      "collected_at": "1405/08/01 02:55",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://www.siemens.com/xcelerator-lifecycle-management",
+      "tags": [
+        "Xcelerator",
+        "digital-twin",
+        "software"
+      ]
+    },
+    {
+      "id": "ia-20250520-008",
+      "title": "بهینه‌سازی فرآیندهای شیمیایی با سیستم‌های DCS پیشرفته",
+      "summary": "استفاده از سیستم‌های کنترل توزیع‌شده (DCS) نسل جدید در صنایع پتروشیمی منجر به پایداری بیشتر در واکنش‌های شیمیایی شده است. این سیستم‌ها با قابلیت تحلیل داده‌های حجیم، امکان کنترل دقیق دما و فشار را فراهم می‌کنند. این تکنولوژی از بروز حوادث ناخواسته ناشی از نوسانات فرآیندی جلوگیری می‌کند.",
+      "category": "industry",
+      "published_at": "1404/08/01 00:15",
+      "collected_at": "1405/08/01 02:55",
+      "source": "Chemical Engineering News",
+      "source_url": "https://www.chene.com/dcs-optimization-chemical-plants",
+      "tags": [
+        "DCS",
+        "chemical",
+        "process-control"
+      ]
+    },
+    {
+      "id": "ia-20250520-009",
+      "title": "چالش‌های جدید در تامین نیمه‌هادی‌های صنعتی برای اتوماسیون",
+      "summary": "کمبود جهانی قطعات نیمه‌هادی همچنان بر زنجیره تامین تجهیزات اتوماسیون تاثیرگذار است. تولیدکنندگان بزرگ مانند زیمنس و شنایدر الکتریک در حال بازنگری در استراتژی‌های تامین خود برای جلوگیری از توقف خطوط تولید هستند. این وضعیت باعث شده تا صنایع به سمت استفاده از تجهیزات با قابلیت ارتقای نرم‌افزاری بیشتر متمایل شوند.",
+      "category": "world",
+      "published_at": "1404/08/01 00:40",
+      "collected_at": "1405/08/01 02:55",
+      "source": "Reuters Business",
+      "source_url": "https://www.reuters.com/business/semiconductor-shortage-automation-industry",
+      "tags": [
+        "supply-chain",
+        "semiconductor",
+        "industry"
+      ]
+    },
+    {
+      "id": "ia-20250520-010",
+      "title": "توسعه سیستم‌های مدیریت انرژی هوشمند در شبکه‌های توزیع",
+      "summary": "تکنولوژی‌های جدید اتوماسیون در حال متحول کردن نحوه مدیریت شبکه‌های برق هوشمند هستند. با استفاده از کنترلرهای پیشرفته، امکان مدیریت بهتر منابع انرژی تجدیدپذیر و کاهش تلفات در شبکه فراهم شده است. این سیستم‌ها با یکپارچگی با زیرساخت‌های موجود، پایداری شبکه را در زمان پیک مصرف تضمین می‌کنند.",
+      "category": "news",
+      "published_at": "1404/08/01 01:55",
+      "collected_at": "1405/08/01 02:55",
+      "source": "Electrical Engineering Journal",
+      "source_url": "https://www.eejournal.com/smart-grid-automation-trends",
+      "tags": [
+        "smart-grid",
+        "energy",
+        "automation"
       ]
     }
   ]
