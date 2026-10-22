@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1234,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/30 01:38",
+  "count": 1243,
+  "provider": "Gemini/gemma-4-31b-it",
+  "updated_at": "1405/07/30 03:30",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -19671,6 +19671,145 @@
         "NX",
         "Digital Twin",
         "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261018-001",
+      "title": "گسترش همکاری زیمنس و انویدیا برای ایجاد دوقلوهای دیجیتال فوتورالیستیک",
+      "summary": "زیمنس و انویدیا همکاری خود را برای ادغام پلتفرم Omniverse با نرم‌افزارهای Xcelerator گسترش دادند. این اقدام به شرکت‌ها اجازه می‌دهد مدل‌های سه بعدی دقیق و فوتورالیستیک از کارخانه‌ها بسازند تا پیش از اجرای فیزیکی، فرآیندها را شبیه‌سازی کنند. این فناوری باعث کاهش هزینه‌های خطای مهندسی در پروژه‌های بزرگ صنعتی می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/28 10:15",
+      "collected_at": "1405/07/30 03:30",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-nvidia-expand-partnership",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Digital Twin",
+        "Omniverse"
+      ]
+    },
+    {
+      "id": "ia-20261018-002",
+      "title": "ارتقای قابلیت‌های تولید کد در Siemens Industrial Copilot برای مهندسان PLC",
+      "summary": "زیمنس قابلیت‌های جدیدی را به دستیار هوش مصنوعی Industrial Copilot اضافه کرده است که به مهندسان اجازه می‌دهد با دستورات متنی، کدهای پیچیده SCL برای کنترلرهای SIMATIC S7-1500 تولید کنند. این ابزار زمان برنامه‌نویسی را به شدت کاهش داده و خطاهای انسانی در کدنویسی را به حداقل می‌رساند. این سیستم اکنون در چندین خط تولید آزمایشی فعال است.",
+      "category": "product",
+      "published_at": "1405/07/29 08:30",
+      "collected_at": "1405/07/30 03:30",
+      "source": "Siemens News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/industrial-ai.html",
+      "tags": [
+        "AI",
+        "SIMATIC",
+        "S7-1500",
+        "Industrial Copilot"
+      ]
+    },
+    {
+      "id": "ia-20261018-003",
+      "title": "معرفی راهکار جدید اشنایدر الکتریک برای بهینه‌سازی مصرف انرژی در دیتاسنترهای صنعتی",
+      "summary": "اشنایدر الکتریک ابزارهای جدیدی را در چارچوب EcoStruxure معرفی کرد که به طور خاص برای مدیریت انرژی در لبه شبکه و دیتاسنترهای صنعتی طراحی شده‌اند. این سیستم با استفاده از حسگرهای پیشرفته و تحلیل داده‌ها، مصرف برق را تا ۱۵ درصد کاهش می‌دهد. این راهکار برای صنایع با مصرف انرژی بالا مانند پتروشیمی‌ها بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/27 14:20",
+      "collected_at": "1405/07/30 03:30",
+      "source": "Schneider Electric",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261018-004",
+      "title": "ادغام هوش مصنوعی مولد در پلتفرم FactoryTalk برای تحلیل پیش‌بینانه",
+      "summary": "شرکت راکول اتوماسیون قابلیت‌های جدیدی را به پلتفرم FactoryTalk اضافه کرده است که از هوش مصنوعی مولد برای تحلیل داده‌های حسگرها استفاده می‌کند. این سیستم می‌تواند الگوهای خرابی تجهیزات را پیش‌بینی کرده و توصیه‌های تعمیراتی دقیقی به تکنسین‌ها ارائه دهد. این به‌روزرسانی باعث کاهش زمان توقف ناخواسته در خطوط تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/26 11:00",
+      "collected_at": "1405/07/30 03:30",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news.html",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261018-005",
+      "title": "توسعه اپلیکیشن‌های جدید تحلیل کیفیت در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس مجموعه‌ای از اپلیکیشن‌های جدید را برای Industrial Edge عرضه کرد که قادر به تحلیل بلادرنگ کیفیت محصولات با استفاده از بینایی ماشین هستند. این ابزارها بدون نیاز به ارسال داده‌ها به ابر، در لبه شبکه تصمیم‌گیری کرده و قطعات معیوب را شناسایی می‌کنند. این سیستم با کنترلرهای SIMATIC S7-1500 کاملاً یکپارچه است.",
+      "category": "product",
+      "published_at": "1405/07/29 09:45",
+      "collected_at": "1405/07/30 03:30",
+      "source": "Siemens Blog",
+      "source_url": "https://blog.siemens.com/industrial-edge/",
+      "tags": [
+        "Industrial Edge",
+        "Computer Vision",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261018-006",
+      "title": "رونمایی ABB از سیستم جدید مدیریت ناوگان ربات‌های متحرک (AMR)",
+      "summary": "شرکت ABB سیستم نرم‌افزاری جدیدی را برای مدیریت بهینه ناوگان ربات‌های متحرک در محیط‌های صنعتی پیچیده معرفی کرد. این سیستم با استفاده از الگوریتم‌های مسیریابی پیشرفته، تداخل ربات‌ها را به حداقل رسانده و بهره‌وری لجستیک داخلی را افزایش می‌دهد. این راهکار برای انبار‌های هوشمند و خطوط مونتاژ خودرو بسیار کاربردی است.",
+      "category": "product",
+      "published_at": "1405/07/25 16:10",
+      "collected_at": "1405/07/30 03:30",
+      "source": "ABB News",
+      "source_url": "https://new.abb.com/products/robotics",
+      "tags": [
+        "ABB",
+        "AMR",
+        "Robotics",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261018-007",
+      "title": "هشدار امنیتی جدید CISA درباره آسیب‌پذیری‌های پروتکل‌های ارتباطی صنعتی",
+      "summary": "آژانس CISA هشدار جدیدی را درباره وجود حفره‌های امنیتی در برخی از پروتکل‌های رایج ارتباطی OT منتشر کرد که می‌تواند منجر به دسترسی غیرمجاز به PLCها شود. این آژانس به سازمان‌ها توصیه کرده است که سریعاً وصله‌های امنیتی سازندگان را نصب کرده و دسترسی‌های شبکه را محدود کنند. این آسیب‌پذیری‌ها در محیط‌های حساس زیرساختی خطرناک هستند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 13:00",
+      "collected_at": "1405/07/30 03:30",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+      "tags": [
+        "Cybersecurity",
+        "CISA",
+        "OT Security",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261018-008",
+      "title": "گسترش اکوسیستم Siemens Xcelerator با جذب شرکای نرم‌افزاری جدید",
+      "summary": "زیمنس اعلام کرد که تعداد شرکای فعال در پلتفرم باز Xcelerator افزایش یافته است تا یکپارچگی بین نرم‌افزارهای مهندسی و عملیاتی بهبود یابد. این اکوسیستم به کاربران اجازه می‌دهد اپلیکیشن‌های مختلف از تامین‌کنندگان گوناگون را به راحتی در محیط تولید خود ادغام کنند. هدف این اقدام تسریع در دیجیتالی شدن صنایع کوچک و متوسط است.",
+      "category": "industry",
+      "published_at": "1405/07/27 09:00",
+      "collected_at": "1405/07/30 03:30",
+      "source": "Siemens Press",
+      "source_url": "https://siemens.com/xcelerator",
+      "tags": [
+        "Siemens Xcelerator",
+        "Digitalization",
+        "Ecosystem"
+      ]
+    },
+    {
+      "id": "ia-20261018-009",
+      "title": "معرفی ماژول‌های جدید EtherCAT G توسط شرکت بکوف برای انتقال داده‌های سریع",
+      "summary": "شرکت بکوف نسل جدیدی از ماژول‌های ارتباطی با پشتیبانی از EtherCAT G را معرفی کرد که پهنای باند شبکه را به یک گیگابیت بر ثانیه افزایش می‌دهد. این ارتقا برای کاربردهایی که نیاز به انتقال حجم زیادی از داده‌های حسگرها در زمان واقعی دارند، مانند ماشین‌های CNC پیشرفته، ضروری است. این فناوری تاخیر در سیستم‌های کنترل را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 15:30",
+      "collected_at": "1405/07/30 03:30",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com/en-en/products/",
+      "tags": [
+        "Beckhoff",
+        "EtherCAT G",
+        "Industrial Ethernet"
       ]
     }
   ]
