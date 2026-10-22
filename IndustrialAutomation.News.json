@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1301,
+  "count": 1310,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 11:02",
+  "updated_at": "1405/07/30 11:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -20723,6 +20723,150 @@
         "SIMATIC",
         "S7-1500",
         "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "به‌روزرسانی قابلیت‌های ابری برای پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس نسخه جدید پلتفرم Industrial Edge را با تمرکز بر بهبود مدیریت تجهیزات لبه شبکه و ارتباط ابری منتشر کرد. این نسخه ابزارهای جدیدی برای تجزیه و تحلیل داده‌های ماشین‌آلات در زمان واقعی فراهم می‌کند که به کاهش زمان توقف خطوط تولید می‌انجامد. این راهکار واسطه میان تجهیزات سطح کارخانه و سیستم‌های ابری سازمانی را بهینه‌تر می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/30 08:45",
+      "collected_at": "1405/07/30 11:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-edge-cloud-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Cloud",
+        "OT/IT"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "گسترش راهکارهای امنیت سایبری صنعتی توسط فونیکس کنتاکت",
+      "summary": "فونیکس کنتاکت مجموعه جدیدی از تجهیزات فایروال و امنیت شبکه را مخصوص زیرساخت‌های حیاتی اتوماسیون صنعتی معرفی کرد. این محصولات برای مقابله با تهدیدات سایبری فزاینده در شبکه‌های OT طراحی شده‌اند و از پروتکل‌های رمزنگاری پیشرفته پشتیبانی می‌کنند. این اقدام گامی مهم در جهت ایمن‌سازی ارتباطات صنعتی در برابر نفوذهای احتمالی به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/30 09:00",
+      "collected_at": "1405/07/30 11:03",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/phoenix-contact-new-ot-security-firewalls",
+      "tags": [
+        "Phoenix Contact",
+        "Cybersecurity",
+        "OT",
+        "Firewall"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی نسل جدید ربات‌های صنعتی ABB با سیستم کنترل حرکت پیشرفته",
+      "summary": "شرکت ABB از سری جدید ربات‌های صنعتی خود مجهز به کنترل‌کننده‌های حرکتی پرسرعت پرده برداشت. این ربات‌ها برای کاربردهای مونتاژ دقیق در صنایع الکترونیک و خودروسازی طراحی شده و دقت جابجایی مواد را افزایش می‌دهند. ادغام این تجهیزات با نرم‌افزارهای شبیه‌سازی شرکت، زمان راه‌اندازی خطوط تولید را به نصف کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/30 09:20",
+      "collected_at": "1405/07/30 11:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/abb-new-industrial-robots-motion-control",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Motion Control",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای نرم‌افزار مهندسی TIA Portal V19 با ابزارهای هوش مصنوعی کمکی",
+      "summary": "زیمنس قابلیت‌های جدید مبتنی بر هوش مصنوعی را به محیط مهندسی TIA Portal اضافه کرد تا فرآیند برنامه‌نویسی PLCها تسهیل شود. این ابزارها قادرند کدهای پیشنهادی برای منطق کنترل ارائه داده و خطاهای احتمالی را پیش از اجرا شناسایی کنند. این فناوری بهره‌وری مهندسان اتوماسیون را در پروژه‌های بزرگ صنعتی به طور قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/30 09:40",
+      "collected_at": "1405/07/30 11:03",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-tia-portal-v19-ai-tools",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "AI",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه سیستم کنترل توزیع‌شده DeltaV توسط امرسون برای مجتمع‌های پتروشیمی",
+      "summary": "شرکت امرسون نسخه به‌روزشده سیستم کنترل توزیع‌شده (DCS) مدل DeltaV را برای صنایع نفت، گاز و پتروشیمی عرضه کرد. این نسخه جدید شامل ماژول‌های تشخیصی پیشرفته است که پایداری عملیاتی واحدهای فرآیندی بزرگ را تضمین می‌کند. این سیستم به اپراتورها کمک می‌کند تا تصمیمات سریع‌تری در شرایط بحرانی اتخاذ کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 10:00",
+      "collected_at": "1405/07/30 11:03",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/emerson-deltav-dcs-upgrade",
+      "tags": [
+        "Emerson",
+        "DeltaV",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "راکول اتوماسیون پلتفرم ابری FactoryTalk Hub را با قابلیت‌های جدید توسعه داد",
+      "summary": "راکول اتوماسیون بسته‌های نرم‌افزاری جدیدی را به پلتفرم ابری FactoryTalk Hub اضافه کرد تا نظارت بر عملکرد تجهیزات کارخانه یکپارچه‌تر شود. این ابزارها امکان تجمیع داده‌های ماشین‌آلات مختلف را در یک داشبورد واحد فراهم می‌کنند. این رویکرد به مدیران تولید اجازه می‌دهد تا تصمیمات مبتنی بر داده‌های دقیق‌تری اتخاذ کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 10:15",
+      "collected_at": "1405/07/30 11:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/rockwell-automation-factorytalk-hub-update",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی درایوهای فرکانس متغیر سری SINAMICS G120X زیمنس برای صنایع آب و فاضلاب",
+      "summary": "زیمنس درایوهای فرکانس متغیر جدید سری SINAMICS G120X را به طور ویژه برای کاربردهای پمپاژ و تهویه در صنایع آب و فاضلاب معرفی کرد. این درایوها با طراحی بهینه انرژی، تلفات توان را به حداقل رسانده و هزینه‌های عملیاتی را کاهش می‌دهند. نصب و پیکربندی آسان از طریق ابزارهای نرم‌افزاری زیمنس از مزیت‌های کلیدی این تجهیزات است.",
+      "category": "product",
+      "published_at": "1405/07/30 10:30",
+      "collected_at": "1405/07/30 11:03",
+      "source": "Water Technology",
+      "source_url": "https://www.watertechonline.com/siemens-sinamics-g120x-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Water Industry"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری راهبردی زیمنس و شرکای صنعتی برای توسعه استاندارد OPC UA",
+      "summary": "زیمنس به همراه گروهی از شرکت‌های پیشرو اتوماسیون، اتحاد جدیدی را برای گسترش کاربرد پروتکل استاندارد OPC UA در لایه زمینه شکل داد. این همکاری با هدف ایجاد ارتباط یکپارچه و امن میان تجهیزات سازندگان مختلف در کارخانه‌های هوشمند دنبال می‌شود. این استانداردسازی به توسعه معماری‌های باز در اتوماسیون صنعتی شتاب می‌بخشد.",
+      "category": "news",
+      "published_at": "1405/07/30 10:45",
+      "collected_at": "1405/07/30 11:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-opc-ua-collaboration-standard",
+      "tags": [
+        "Siemens",
+        "OPC UA",
+        "Interoperability",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "اشنایدر الکتریک پلتفرم EcoStruxure را برای مدیریت مصرف انرژی صنایع سنگین ارتقا داد",
+      "summary": "اشنایدر الکتریک نسخه‌ای تازه از پلتفرم مدیریت انرژی EcoStruxure را با قابلیت‌های پیشرفته هوش مصنوعی عرضه کرد. این سیستم به کارخانه‌های بزرگ کمک می‌کند تا میزان انتشار کربن و مصرف برق را به صورت دقیق ردیابی و بهینه‌سازی کنند. این راهکار گامی اساسی در راستای تحقق اهداف توسعه پایدار در بخش تولید صنعتی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/30 11:00",
+      "collected_at": "1405/07/30 11:03",
+      "source": "Energy Manager Today",
+      "source_url": "https://www.energymanagertoday.com/schneider-electric-ecostruxure-energy-management",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Energy Management",
+        "Sustainability"
       ]
     }
   ]
