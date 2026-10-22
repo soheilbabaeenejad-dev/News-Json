@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1348,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 19:16",
+  "count": 1356,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/07/30 19:41",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21460,6 +21460,134 @@
         "SIMATIC HMI",
         "Comfort Pro",
         "HMI"
+      ]
+    },
+    {
+      "id": "ia-20241021-003",
+      "title": "انتشار وصله امنیتی اضطراری برای تجهیزات شبکه صنعتی زیمنس",
+      "summary": "آژانس امنیت سایبری CISA نسبت به وجود آسیب‌پذیری‌های بحرانی در سوئیچ‌های سری SCALANCE زیمنس هشدار داد. این نقص امنیتی می‌تواند به مهاجمان اجازه دهد تا دسترسی غیرمجاز به شبکه‌های OT پیدا کنند. زیمنس بلافاصله وصله‌های امنیتی لازم را برای تمامی مدل‌های تحت تأثیر منتشر کرده و از کاربران خواسته است تا سیستم‌های خود را به‌روزرسانی کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 11:45",
+      "collected_at": "1405/07/30 19:41",
+      "source": "CISA Cybersecurity",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories",
+      "tags": [
+        "Cybersecurity",
+        "Siemens",
+        "SCALANCE",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20241021-004",
+      "title": "همکاری استراتژیک زیمنس و انویدیا در حوزه شبیه‌سازی فیزیکی کارخانه‌ها",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه دوقلوهای دیجیتال فوتورالیستیک در محیط Omniverse گسترش دادند. این همکاری به تولیدکنندگان اجازه می‌دهد تا پیش از ساخت فیزیکی کارخانه، تمامی فرآیندهای تولید را با دقت فیزیکی بالا شبیه‌سازی کنند. این راهکار باعث کاهش هزینه‌های راه‌اندازی و بهبود کیفیت نهایی محصولات در صنایع خودروسازی می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/30 12:20",
+      "collected_at": "1405/07/30 19:41",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/technology-and-iiot",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Digital Twin",
+        "Omniverse"
+      ]
+    },
+    {
+      "id": "ia-20241021-005",
+      "title": "معرفی درایوهای هوشمند SINAMICS G220 با قابلیت‌های پیشرفته پایش وضعیت",
+      "summary": "زیمنس نسل جدید درایوهای فرکانس متغیر SINAMICS G220 را با تمرکز بر امنیت سایبری و پایش وضعیت عرضه کرد. این درایوها مجهز به حسگرهای داخلی برای تشخیص خطاهای احتمالی پیش از وقوع خرابی هستند. طراحی ماژولار این تجهیزات، نصب و نگهداری آن‌ها را در محیط‌های صنعتی سخت بسیار آسان‌تر از مدل‌های قبلی کرده است.",
+      "category": "product",
+      "published_at": "1405/07/30 13:10",
+      "collected_at": "1405/07/30 19:41",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/sinamics-g220-launch",
+      "tags": [
+        "Siemens",
+        "Drives",
+        "SINAMICS",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20241021-006",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS neo برای صنایع شیمیایی",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo زیمنس با قابلیت‌های ابری گسترده معرفی شد. این سیستم به اپراتورها اجازه می‌دهد تا از هر نقطه جغرافیایی به مدیریت فرآیندهای پیچیده شیمیایی بپردازند. امنیت داده‌ها در این نسخه با استفاده از استانداردهای رمزنگاری جدید افزایش یافته و مدیریت تغییرات پروژه بسیار بهینه‌تر شده است.",
+      "category": "product",
+      "published_at": "1405/07/30 14:05",
+      "collected_at": "1405/07/30 19:41",
+      "source": "Process Automation News",
+      "source_url": "https://www.siemens.com/pcs-neo",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "Process Control",
+        "Chemical Industry"
+      ]
+    },
+    {
+      "id": "ia-20241021-007",
+      "title": "گسترش سبد محصولات رباتیک ABB با کنترل‌کننده OmniCore",
+      "summary": "شرکت ABB کنترل‌کننده جدید رباتیک OmniCore را برای افزایش سرعت و دقت در خطوط مونتاژ معرفی کرد. این کنترل‌کننده با بهره‌گیری از هوش مصنوعی، مسیرهای حرکت ربات را بهینه کرده و زمان چرخه تولید را تا ۲۰ درصد کاهش می‌دهد. این محصول با تمامی ربات‌های سری IRB شرکت ABB سازگاری کامل داشته و از استانداردهای ایمنی جدید پشتیبانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 15:30",
+      "collected_at": "1405/07/30 19:41",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/abb-omnicore",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Automation",
+        "OmniCore"
+      ]
+    },
+    {
+      "id": "ia-20241021-008",
+      "title": "معرفی راهکار جدید اشنایدر الکتریک برای مدیریت هوشمند انرژی در کارخانه‌ها",
+      "summary": "اشنایدر الکتریک پلتفرم جدید EcoStruxure را برای مدیریت کربن و بهینه‌سازی انرژی در صنایع سنگین عرضه کرد. این راهکار با تحلیل داده‌های مصرف برق، گاز و آب، نقاط هدررفت انرژی را شناسایی کرده و پیشنهادات خودکار برای کاهش هزینه‌ها ارائه می‌دهد. این سیستم به راحتی با تجهیزات اتوماسیون موجود در کارخانه‌ها یکپارچه می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/30 16:45",
+      "collected_at": "1405/07/30 19:41",
+      "source": "Energy Management Today",
+      "source_url": "https://www.se.com/ecostruxure",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Sustainability",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20241021-009",
+      "title": "توسعه پروتکل‌های ارتباطی بی‌سیم در تجهیزات صنعتی فونیکس کنتاکت",
+      "summary": "فونیکس کنتاکت نسل جدید ماژول‌های ارتباطی بی‌سیم خود را برای محیط‌های صنعتی با نویز بالا معرفی کرد. این ماژول‌ها از پروتکل‌های پیشرفته برای تبادل داده بین سنسورها و PLCها استفاده می‌کنند که نیاز به کابل‌کشی‌های طولانی را حذف می‌کند. این فناوری به‌ویژه برای کاربردهای لجستیک و انبارداری هوشمند بسیار کارآمد است.",
+      "category": "product",
+      "published_at": "1405/07/30 17:50",
+      "collected_at": "1405/07/30 19:41",
+      "source": "Industrial Networking",
+      "source_url": "https://www.phoenixcontact.com/wireless",
+      "tags": [
+        "Phoenix Contact",
+        "Wireless",
+        "Industrial Networking",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241021-010",
+      "title": "سرمایه‌گذاری راکول اتوماسیون در توسعه پلتفرم‌های ابری برای مدیریت تولید",
+      "summary": "راکول اتوماسیون اعلام کرد که سرمایه‌گذاری خود را بر روی پلتفرم FactoryTalk Hub برای مدیریت عملیات تولید در فضای ابری افزایش می‌دهد. این اقدام با هدف تسهیل همکاری بین تیم‌های مهندسی در نقاط مختلف جهان انجام شده است. کاربران اکنون می‌توانند داده‌های تولید را به صورت آنی مشاهده کرده و تنظیمات ماشین‌آلات را از راه دور مدیریت کنند.",
+      "category": "company",
+      "published_at": "1405/07/30 18:55",
+      "collected_at": "1405/07/30 19:41",
+      "source": "Manufacturing Tech",
+      "source_url": "https://www.rockwellautomation.com/factorytalk",
+      "tags": [
+        "Rockwell Automation",
+        "Cloud",
+        "FactoryTalk",
+        "Manufacturing"
       ]
     }
   ]
