@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1291,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/30 11:03",
+  "count": 1300,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/30 12:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -20566,6 +20566,150 @@
         "OPC UA",
         "Gateway",
         "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های امنیت سایبری در سیستم کنترل فرآیند SIMATIC PCS neo",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo زیمنس با استانداردهای امنیتی سخت‌گیرانه‌تری منتشر شد. این بروزرسانی شامل رمزنگاری پیشرفته ارتباطات شبکه و مدیریت متمرکز گواهینامه‌ها است تا از زیرساخت‌های حیاتی صنایع پتروشیمی در برابر تهدیدات سایبری محافظت کند.",
+      "category": "product",
+      "published_at": "1405/07/30 09:00",
+      "collected_at": "1405/07/30 12:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-simatic-pcs-neo-security",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "Cybersecurity",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه اتوماسیون پنوماتیک هوشمند",
+      "summary": "زیمنس و شرکت فستو تفاهم‌نامه‌ای را برای یکپارچه‌سازی تجهیزات پنوماتیک با کنترل‌کننده‌های SIMATIC S7-1500 امضا کردند. این همکاری به مهندسان اجازه می‌دهد تا سیستم‌های مکانیکی و بادی را با دقت بالا از طریق پروتکل‌های صنعتی استاندارد در TIA Portal برنامه‌نویسی و عیب‌یابی کنند.",
+      "category": "company",
+      "published_at": "1405/07/30 09:30",
+      "collected_at": "1405/07/30 12:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-pneumatics-automation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه ماژول‌های ارتباطی جدید پروفینت برای تابلوهای کنترل توزیع‌شده",
+      "summary": "شرکت زیمنس سری جدیدی از ماژول‌های ارتباطی پروفینت را با قابلیت پشتیبانی از سرعت‌های گیگابیتی به بازار عرضه کرد. این ماژول‌ها برای خطوط تولید پرسرعت طراحی شده‌اند و تبادل همزمان حجم عظیمی از داده‌های سنسورها را با کنترل‌کننده‌های مرکزی تضمین می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 10:00",
+      "collected_at": "1405/07/30 12:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-profinet-gigabit-modules",
+      "tags": [
+        "Siemens",
+        "Profinet",
+        "PLC",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه ابزارهای هوش مصنوعی برای بهینه‌سازی مصرف انرژی در پلتفرم Xcelerator",
+      "summary": "مجموعه ابزارهای هوش مصنوعی جدیدی به پلتفرم Siemens Xcelerator اضافه شد که بر بهینه‌سازی مصرف انرژی در کارخانه‌های بزرگ تمرکز دارد. این سیستم با تحلیل الگوی مصرف ماشین‌آلات سنگین، راهکارهای خودکاری را برای کاهش اتلاف انرژی و رعایت استانداردهای محیط زیستی ارائه می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/30 10:15",
+      "collected_at": "1405/07/30 12:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-xcelerator-energy-ai",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "AI",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "انتشار راهنمای جامع امنیت شبکه‌های صنعتی توسط آژانس CISA و شرکا",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) با همکاری شرکت‌های پیشرو اتوماسیون گزارشی درباره مقاوم‌سازی شبکه‌های OT منتشر کرد. این سند راهبردی به اپراتورهای زیرساخت‌های حیاتی توصیه می‌کند تا از پروتکل‌های احراز هویت چندمرحله‌ای برای دسترسی به تجهیزات PLC استفاده کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 10:30",
+      "collected_at": "1405/07/30 12:00",
+      "source": "CISA News",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/ot-security-guidelines",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "OT/ICS",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "رونمایی از سیستم جدید مانیتورینگ وضعیت موتورهای الکتریکی با فناوری حسگرهای هوشمند",
+      "summary": "شرکت ABB نسل جدید حسگرهای هوشمند خود را برای پایش مداوم لرزش و دمای موتورهای صنعتی معرفی کرد. این تجهیزات بی‌سیم به طور مستقیم به سیستم‌های اسکادا متصل می‌شوند و با استفاده از الگوریتم‌های یادگیری ماشین، خرابی‌های احتمالی بلبرینگ‌ها را پیش از وقوع هشدار می‌دهند.",
+      "category": "product",
+      "published_at": "1405/07/30 10:45",
+      "collected_at": "1405/07/30 12:00",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/abb-smart-sensor-motors",
+      "tags": [
+        "ABB",
+        "Sensors",
+        "Predictive Maintenance",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش کاربرد روبات‌های همکار در خطوط مونتاژ باتری‌های خودروهای الکتریکی",
+      "summary": "یک کارخانه بزرگ خودروسازی با به‌کارگیری نسل جدید ربات‌های همکار، سرعت مونتاژ بسته‌های باتری را تا سی درصد افزایش داد. این سلول‌های رباتیک مجهز به حسگرهای ایمنی پیشرفته هستند که امکان همکاری نزدیک و بدون خطر را در کنار اپراتورهای انسانی فراهم می‌کنند.",
+      "category": "industry",
+      "published_at": "1405/07/30 11:00",
+      "collected_at": "1405/07/30 12:00",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/ev-battery-cobots-assembly",
+      "tags": [
+        "Robotics",
+        "Cobots",
+        "EV Manufacturing",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "به‌روزرسانی نرم‌افزار مهندسی TIA Portal با ابزارهای پیشرفته مدیریت نسخه پروژه",
+      "summary": "زیمنس نسخه تکمیلی محیط مهندسی TIA Portal را با تمرکز بر بهبود کار تیمی مهندسان کنترل منتشر کرد. قابلیت‌های جدید مدیریت نسخه به تیم‌های بزرگ اجازه می‌دهد تا تغییرات برنامه‌نویسی PLCها را به صورت موازی پیگیری کرده و خطاهای انسانی را در استقرار نهایی کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/30 11:15",
+      "collected_at": "1405/07/30 12:00",
+      "source": "Siemens Global",
+      "source_url": "https://www.siemens.com/global/en/products/automation/tia-portal-version-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Engineering",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "سرمایه‌گذاری مشترک برای توسعه زیرساخت‌های آموزشی اتوماسیون دیجیتال در اروپا",
+      "summary": "کنسرسیومی از شرکت‌های فناوری صنعتی و دانشگاه‌های برتر اروپایی طرح جدیدی را برای آموزش مهارت‌های دیجیتال OT آغاز کردند. این پروژه با تجهیز آزمایشگاه‌ها به آخرین کنترل‌کننده‌های صنعتی و نرم‌افزارهای شبیه‌سازی، نسل آینده مهندسان اتوماسیون را برای کار در کارخانه‌های هوشمند آماده می‌کند.",
+      "category": "society",
+      "published_at": "1405/07/30 11:30",
+      "collected_at": "1405/07/30 12:00",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/digital-automation-education-europe",
+      "tags": [
+        "Education",
+        "Digital Transformation",
+        "Smart Factory",
+        "Industry 4.0"
       ]
     }
   ]
