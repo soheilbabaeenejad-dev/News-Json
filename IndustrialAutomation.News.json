@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1330,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/07/30 16:52",
+  "count": 1337,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/30 18:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21180,6 +21180,117 @@
         "DCS",
         "Petrochemical",
         "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241021-004",
+      "title": "انتشار وصله امنیتی جدید برای سیستم‌های کنترل فرآیند PCS 7 زیمنس",
+      "summary": "تیم امنیت سایبری زیمنس یک وصله امنیتی حیاتی برای سیستم کنترل فرآیند SIMATIC PCS 7 منتشر کرد تا آسیب‌پذیری‌های شناسایی شده در لایه ارتباطی را برطرف کند. این به‌روزرسانی برای محافظت از زیرساخت‌های حیاتی در برابر حملات سایبری احتمالی ضروری است. تمامی اپراتورهای صنعتی ملزم به نصب این وصله برای حفظ پایداری شبکه هستند.",
+      "category": "regulation",
+      "published_at": "1403/07/30 12:45",
+      "collected_at": "1405/07/30 18:01",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://cert-portal.siemens.com/productcert/html/ssa-pcs7.html",
+      "tags": [
+        "Cybersecurity",
+        "PCS 7",
+        "Security Patch",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20241021-005",
+      "title": "رونمایی از درایوهای جدید SINAMICS G220 با تمرکز بر بهره‌وری انرژی",
+      "summary": "زیمنس درایوهای فرکانس متغیر SINAMICS G220 را با قابلیت‌های پیشرفته مدیریت انرژی و کاهش هارمونیک معرفی کرد. این درایوها به طور خاص برای کاربردهای پمپ و فن در صنایع سنگین طراحی شده‌اند تا هزینه‌های عملیاتی را کاهش دهند. استفاده از این تجهیزات می‌تواند تا ۱۵ درصد در مصرف برق موتورهای الکتریکی صرفه‌جویی ایجاد کند.",
+      "category": "product",
+      "published_at": "1403/07/30 13:20",
+      "collected_at": "1405/07/30 18:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/sinamics-g220-launch",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241021-006",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در نرم‌افزار TIA Portal V20",
+      "summary": "در نسخه جدید TIA Portal V20، زیمنس قابلیت‌های دستیار هوش مصنوعی را برای عیب‌یابی سریع‌تر کدهای PLC اضافه کرده است. این ابزار به برنامه‌نویسان کمک می‌کند تا خطاهای منطقی را به صورت خودکار شناسایی و پیشنهادهای اصلاحی دریافت کنند. این تحول باعث کاهش زمان مهندسی و تسریع در فرآیند راه‌اندازی پروژه‌های اتوماسیون پیچیده می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/30 14:10",
+      "collected_at": "1405/07/30 18:01",
+      "source": "Siemens Engineering",
+      "source_url": "https://support.industry.siemens.com/tia-portal-v20",
+      "tags": [
+        "TIA Portal",
+        "AI",
+        "Programming",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241021-007",
+      "title": "گسترش سبد محصولات رباتیک ABB برای صنایع خودروسازی",
+      "summary": "شرکت ABB با معرفی ربات‌های سری IRB جدید، توانمندی‌های خود را در خطوط مونتاژ بدنه خودرو افزایش داد. این ربات‌ها با دقت بالا و قابلیت‌های حسگری پیشرفته، برای جوشکاری لیزری و مونتاژ قطعات حساس بهینه شده‌اند. این محصول جدید به تولیدکنندگان کمک می‌کند تا سرعت تولید خود را در محیط‌های پرچالش افزایش دهند.",
+      "category": "product",
+      "published_at": "1403/07/30 15:05",
+      "collected_at": "1405/07/30 18:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/abb-irb-series",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Automotive",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20241021-008",
+      "title": "معرفی راهکار جدید اشنایدر الکتریک برای مدیریت هوشمند انرژی در دیتاسنترها",
+      "summary": "اشنایدر الکتریک راهکار جدید EcoStruxure IT را برای مدیریت هوشمند انرژی و سرمایش در مراکز داده صنعتی معرفی کرد. این سیستم با استفاده از الگوریتم‌های پیش‌بینی‌کننده، مصرف انرژی را بر اساس بار کاری سرورها بهینه می‌کند. این فناوری به کاهش ردپای کربنی صنایع دیجیتال و افزایش پایداری زیرساخت‌های IT کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/30 16:00",
+      "collected_at": "1405/07/30 18:01",
+      "source": "Data Center Dynamics",
+      "source_url": "https://www.datacenterdynamics.com/schneider-ecostruxure",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "ia-20241021-009",
+      "title": "گزارش جدید CISA درباره تهدیدات علیه پروتکل‌های ارتباطی صنعتی",
+      "summary": "آژانس امنیت سایبری CISA در گزارش جدید خود نسبت به آسیب‌پذیری‌های موجود در پروتکل‌های ارتباطی قدیمی مانند Modbus TCP هشدار داد. این گزارش بر لزوم مهاجرت به پروتکل‌های امن‌تر مانند OPC UA و استفاده از فایروال‌های صنعتی تأکید می‌کند. کارشناسان امنیت شبکه توصیه می‌کنند که تجهیزات OT باید از شبکه‌های عمومی کاملاً ایزوله شوند.",
+      "category": "regulation",
+      "published_at": "1403/07/30 17:15",
+      "collected_at": "1405/07/30 18:01",
+      "source": "CISA Reports",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "Protocols",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20241021-010",
+      "title": "سرمایه‌گذاری زیمنس در تحقیق و توسعه فناوری‌های باتری در آلمان",
+      "summary": "زیمنس اعلام کرد که سرمایه‌گذاری جدیدی را برای توسعه سیستم‌های کنترل و اتوماسیون در کارخانه‌های تولید باتری خودروهای برقی آغاز کرده است. این پروژه بر روی یکپارچه‌سازی فرآیندهای تولید با استفاده از پلتفرم Xcelerator متمرکز است. هدف از این سرمایه‌گذاری، افزایش ظرفیت تولید باتری در اروپا و کاهش وابستگی به زنجیره‌های تأمین خارجی است.",
+      "category": "industry",
+      "published_at": "1403/07/30 17:50",
+      "collected_at": "1405/07/30 18:01",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/siemens-battery-investment",
+      "tags": [
+        "Siemens",
+        "EV",
+        "Battery",
+        "Investment"
       ]
     }
   ]
