@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1347,
+  "count": 1356,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 18:07",
+  "updated_at": "1405/07/30 19:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21451,6 +21451,148 @@
         "NVIDIA",
         "Industrial Metaverse",
         "Omniverse"
+      ]
+    },
+    {
+      "id": "ia-20261021-001",
+      "title": "رونمایی از ماژول ارتباطی جدید SIPLUS NET برای شرایط محیطی سخت",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید SIPLUS NET برای شبکه‌های صنعتی در شرایط محیطی سخت و دماهای بالا رونمایی کرد. این محصول به مهندسین کمک می‌کند تا ارتباطات پایدار را در صنایع نفت، گاز و معدن حفظ کنند. ماژول جدید با استانداردهای سخت‌گیرانه صنعتی کاملاً سازگار است.",
+      "category": "product",
+      "published_at": "1405/07/25 08:30",
+      "collected_at": "1405/07/30 19:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-siplus-net-release",
+      "tags": [
+        "Siemens",
+        "SIPLUS",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261021-002",
+      "title": "توسعه قابلیت‌های تجزیه و تحلیل داده در نرم‌افزار SIMATIC IT",
+      "summary": "نسخه جدید نرم‌افزار SIMATIC IT زیمنس با ابزارهای پیشرفته تحلیل داده و هوش مصنوعی عرضه شد. این به‌روزرسانی به مدیران کارخانه‌ها اجازه می‌دهد تا گلوگاه‌های تولید را سریع‌تر شناسایی کنند. قابلیت‌های جدید موجب کاهش چشمگیر زمان توقف خطوط تولید خواهد شد.",
+      "category": "news",
+      "published_at": "1405/07/25 09:45",
+      "collected_at": "1405/07/30 19:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-simatic-it-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC IT",
+        "Manufacturing Operations"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "عرضه نسل جدید رله‌های حفاظتی SIPROTEC 5 با قابلیت‌های سایبری پیشرفته",
+      "summary": "شرکت زیمنس سری جدید رله‌های حفاظتی SIPROTEC 5 را با استانداردهای امنیتی سایبری سخت‌گیرانه معرفی کرد. این رله‌ها از شبکه‌های پست‌های برق فشار قوی در برابر حملات سایبری پیچیده محافظت می‌کنند. محصول جدید نقش کلیدی در پایداری شبکه‌های توزیع هوشمند انرژی دارد.",
+      "category": "product",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/30 19:01",
+      "source": "Power Magazine",
+      "source_url": "https://www.powermag.com/siemens-siprotec-5-update",
+      "tags": [
+        "Siemens",
+        "SIPROTEC",
+        "Cybersecurity",
+        "Smart Grid"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "ارتقای پلتفرم Totally Integrated Automation برای پشتیبانی از استاندارد OPC UA FX",
+      "summary": "زیمنس پشتیبانی کامل از استاندارد ارتباطی جدید OPC UA FX را به نرم‌افزار TIA Portal اضافه کرد. این توسعه امکان تبادل داده بی‌interoperability میان تجهیزات مختلف سازندگان را به صورت بلادرنگ فراهم می‌کند. مهندسان اتوماسیون اکنون می‌توانند شبکه‌های انعطاف‌پذیرتری طراحی کنند.",
+      "category": "news",
+      "published_at": "1405/07/26 13:20",
+      "collected_at": "1405/07/30 19:01",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-tia-portal-opc-ua-fx",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "OPC UA",
+        "Interoperability"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "معرفی پنل‌های اپراتوری جدید SIMATIC HMI Unified Comfort Panels پرو",
+      "summary": "خانواده پنل‌های اپراتوری SIMATIC HMI Unified Comfort زیمنس با مدل‌های جدید مجهز به بدنه ضد زنگ توسعه یافت. این پنل‌ها با سیستم‌عامل مبتنی بر وب و صفحه نمایش لمسی خازنی کاربری بسیار ساده‌ای دارند. تجهیزات جدید برای صنایع غذایی و دارویی گواهی‌های بهداشتی دریافت کرده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/27 09:10",
+      "collected_at": "1405/07/30 19:01",
+      "source": "IEB Media",
+      "source_url": "https://www.iebmedia.com/siemens-unified-comfort-pro",
+      "tags": [
+        "Siemens",
+        "HMI",
+        "SIMATIC",
+        "Comfort Panel"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "راه‌اندازی مرکز جدید نوآوری دوقلوهای دیجیتال زیمنس در برلین",
+      "summary": "زیمنس از افتتاح یک مرکز تخصصی جدید برای توسعه فناوری‌های دوقلوهای دیجیتال در شهر برلین خبر داد. این مرکز با بودجه کلان برای تحقیق روی شبیه‌سازی پیشرفته خطوط تولید تأسیس شده است. محققان در این مکان روی مدل‌سازی مبتنی بر فیزیک واقعی کار می‌کنند.",
+      "category": "research",
+      "published_at": "1405/07/27 14:00",
+      "collected_at": "1405/07/30 19:01",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-digital-twin-berlin",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Innovation",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "انتشار بسته به‌روزرسانی امنیتی برای نرم‌افزار مهندسی SIMATIC STEP 7",
+      "summary": "شرکت زیمنس یک بسته اصلاحی امنیتی مهم برای نرم‌افزار مهندسی SIMATIC STEP 7 منتشر کرد. این آپدیت چند آسیب‌پذیری احتمالی در بخش مدیریت پروژه‌ها و بلوک‌های کد را برطرف می‌سازد. به تمامی کاربران صنعتی توصیه شده است سریعاً سیستم‌های خود را به‌روزرسانی کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/28 08:00",
+      "collected_at": "1405/07/30 19:01",
+      "source": "ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/siemens-step7-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC STEP 7",
+        "Security",
+        "Patch"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "توسعه قابلیت‌های کنترل حرکت در درایوهای SINAMICS S120 با فریم‌ور جدید",
+      "summary": "نسخه جدید فریم‌ور درایوهای پیشرفته SINAMICS S120 زیمنس با قابلیت‌های پیشرفته کنترل موقعیت عرضه شد. این نسخه دقت همگام‌سازی محورها را در ماشین‌آلات پیچیده چاپ و بسته‌بندی افزایش می‌دهد. مهندسان می‌توانند از طریق پورتال TIA به این قابلیت‌های جدید دسترسی داشته باشند.",
+      "category": "product",
+      "published_at": "1405/07/28 12:30",
+      "collected_at": "1405/07/30 19:01",
+      "source": "Drive & Control",
+      "source_url": "https://www.driveandcontrol.co.uk/siemens-sinamics-s120-firmware",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Motion Control",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "همکاری زیمنس با دانشگاه فنی مونیخ برای بهینه‌سازی الگوریتم‌های هوش مصنوعی صنعتی",
+      "summary": "پروژه پژوهشی مشترکی میان زیمنس و دانشگاه فنی مونیخ برای توسعه الگوریتم‌های سبک هوش مصنوعی لبه آغاز شد. هدف این پروژه اجرای مدل‌های یادگیری عمیق روی کنترلرهای کوچک SIMATIC است. این دستاورد کیفیت بازرسی چشمی محصولات را در خطوط تولید پرسرعت متحول می‌کند.",
+      "category": "research",
+      "published_at": "1405/07/29 15:45",
+      "collected_at": "1405/07/30 19:01",
+      "source": "TechBriefs",
+      "source_url": "https://www.techbriefs.com/siemens-tum-ai-research",
+      "tags": [
+        "Siemens",
+        "AI",
+        "Edge Computing",
+        "Research"
       ]
     }
   ]
