@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1320,
+  "count": 1329,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 15:01",
+  "updated_at": "1405/07/30 15:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21020,6 +21020,153 @@
         "Sustainability",
         "Carbon Footprint",
         "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261022-001",
+      "title": "معرفی ماژول ارتباطی جدید SCALANCE برای توسعه شبکه‌های پرسرعت صنعتی",
+      "summary": "شرکت زیمنس از ماژول ارتباطی پیشرفته سری SCALANCE با پشتیبانی از استانداردهای نوین شبکه رونمایی کرد. این تجهیز جدید به مهندسان امکان می‌دهد تا تبادل داده‌ها را در بسترهای اتوماسیون صنعتی با سرعت و پایداری بسیار بالاتری انجام دهند. این اقدام گامی مهم در جهت بهبود یکپارچگی میان تجهیزات لایه فیلد و سیستم‌های ابری محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/22 08:30",
+      "collected_at": "1405/07/30 15:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/scalance-new-module",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Industrial Ethernet",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261022-002",
+      "title": "ارتقای قابلیت‌های امنیتی در نسخه جدید نرم‌افزار SIMATIC STEP 7",
+      "summary": "بسته‌به‌روزرسانی امنیتی جدید برای نرم‌افزار مهندسی SIMATIC STEP 7 توسط زیمنس عرضه شد. این نسخه شامل ابزارهای پیشرفته تایید هویت و رمزنگاری داده‌ها برای جلوگیری از نفوذ سایبری به کنترل‌کننده‌های منطقی برنامه‌پذیر است. صنایع مختلف می‌توانند با نصب این پچ، استانداردهای امنیتی لایه OT خود را به شکل چشمگیری افزایش دهند.",
+      "category": "news",
+      "published_at": "1405/07/22 10:15",
+      "collected_at": "1405/07/30 15:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/plc/news/siemens-step7-security-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "STEP 7",
+        "Cybersecurity",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261022-004",
+      "title": "رونمایی از سیستم پایش مصرف انرژی SIMATIC Energy Suite با قابلیت‌های ابری",
+      "summary": "نسخه تکامل‌یافته SIMATIC Energy Suite توسط زیمنس معرفی شد تا به کارخانه‌ها در مسیر کربن‌زدایی کمک کند. این ماژول نرم‌افزاری امکان تحلیل لحظه‌ای مصرف برق، گاز و آب را مستقیماً از روی تیا پورتال فراهم می‌سازد. مدیران تولید با استفاده از این ابزار می‌توانند هزینه‌های انرژی را بهینه‌سازی کرده و اهداف پایداری محیط زیستی را محقق سازند.",
+      "category": "product",
+      "published_at": "1405/07/22 13:20",
+      "collected_at": "1405/07/30 15:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-updates-simatic-energy-suite",
+      "tags": [
+        "Siemens",
+        "Energy Management",
+        "SIMATIC",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261022-005",
+      "title": "گسترش کاربرد پنل‌های اپراتوری SIMATIC HMI Comfort Pro در صنایع غذایی",
+      "summary": "سری جدید پنل‌های اپراتوری SIMATIC HMI Comfort Pro زیمنس با بدنه‌های مقاوم در برابر مواد شوینده اسیدی وارد بازار شد. این نمایشگرهای صنعتی با استاندارد حفاظتی بالا، پایداری فوق‌العاده‌ای در خطوط تولید مواد غذایی و دارویی از خود نشان می‌دهند. طراحی ارگونومیک جدید این تجهیزات، کاربری اپراتورها را در محیط‌های سخت و بهداشتی تسهیل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/22 14:50",
+      "collected_at": "1405/07/30 15:03",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-hmi-comfort-pro-food-industry",
+      "tags": [
+        "Siemens",
+        "SIMATIC HMI",
+        "Food & Beverage",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261022-006",
+      "title": "راکول اتوماسیون پلتفرم FactoryTalk Analytics را با قابلیت‌های جدید بروز رسانی کرد",
+      "summary": "شرکت راکول اتوماسیون از نسخه به‌روزشده پلتفرم FactoryTalk Analytics برای تحلیل داده‌های صنعتی پرده برداشت. این نسخه جدید به ابزارهای خودکار عیب‌یابی مبتنی بر یادگیری ماشین مجهز شده است که زمان توقف ناخواسته ماشین‌آلات را کاهش می‌دهد. این راهکار به اپراتورها کمک می‌کند تا تصمیمات بهتری بر اساس داده‌های بلادرنگ اتخاذ کنند.",
+      "category": "product",
+      "published_at": "1405/07/22 16:10",
+      "collected_at": "1405/07/30 15:03",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/rockwell-factorytalk-analytics-update",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Analytics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "ia-20261022-007",
+      "title": "اشنایدر الکتریک راهکار جامع EcoStruxure Automation Expert را برای صنایع آب توسعه داد",
+      "summary": "اشنایدر الکتریک نرم‌افزار EcoStruxure Automation Expert را برای بهینه‌سازی تاسیسات تصفیه آب و فاضلاب ارتقا داد. این معماری مبتنی بر استاندارد IEC 61499 به مهندسان اجازه می‌دهد نرم‌افزار کنترل را مستقل از سخت‌افزار توسعه دهند. این قابلیت انعطاف‌پذیری سیستم‌های اتوماسیون را افزایش داده و هزینه‌های مهندسی را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/22 17:35",
+      "collected_at": "1405/07/30 15:03",
+      "source": "Water Technology",
+      "source_url": "https://www.watertechonline.com/automation/schneider-ecostruxure-water-industry",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Water Treatment",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261022-008",
+      "title": "انتشار دستورالعمل جدید CISA برای مقاوم‌سازی زیرساخت‌های حیاتی در برابر حملات سایبری",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) راهنمای جامع جدیدی برای حفاظت از سیستم‌های کنترل صنعتی منتشر کرد. این سند بر لزوم تفکیک شبکه‌های IT و OT و استفاده از احراز هویت چندمرحله‌ای تاکید دارد. کارشناسان امنیتی توصیه می‌کنند اپراتورهای زیرساخت حیاتی هرچه سریع‌تر این توصیه‌ها را در شبکه PLC و SCADA خود پیاده‌سازی کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/22 19:00",
+      "collected_at": "1405/07/30 15:03",
+      "source": "CISA Cybersecurity",
+      "source_url": "https://www.cisa.gov/news-events/alerts/2026/ics-security-guidelines",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "ICS",
+        "SCADA",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ia-20261022-009",
+      "title": "رونمایی ABB از بازوهای رباتیک جدید با پوشش ضدخوردگی برای صنایع شیمیایی",
+      "summary": "شرکت ABB از نسل جدید ربات‌های صنعتی مقاوم در برابر مواد شیمیایی خورنده و محیط‌های مرطوب رونمایی کرد. این ربات‌ها دارای گواهی‌نامه IP69 هستند و می‌توانند در فرآیندهای دشوار شستشوی صنعتی با فشار بالا بدون آسیب کار کنند. این ویژگی طول عمر تجهیزات رباتیک را در خطوط تولید شیمیایی و دارویی به طور قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/22 20:20",
+      "collected_at": "1405/07/30 15:03",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/article/abb-new-corrosion-resistant-robots",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Chemical Industry",
+        "IP69"
+      ]
+    },
+    {
+      "id": "ia-20261022-010",
+      "title": "توسعه پروتکل‌های ارتباطی 5G صنعتی توسط کنسرسیوم جهانی 5G-ACIA",
+      "summary": "کنسرسیوم 5G-ACIA مشخصات فنی جدیدی را برای کاربرد شبکه ۵G در ارتباطات فوق‌العاده قابل اعتماد و بلادرنگ (URLLC) منتشر کرد. این استاندارد جدید امکان حذف کابل‌های سنتی در ربات‌های متحرک خودگردان (AGV) و ماشین‌آلات پیچیده را فراهم می‌سازد. شرکت‌های پیشرو اتوماسیون نظیر زیمنس نقش کلیدی در تدوین این استانداردهای ارتباطی ایفا کرده‌اند.",
+      "category": "industry",
+      "published_at": "1405/07/22 21:40",
+      "collected_at": "1405/07/30 15:03",
+      "source": "Industrial IoT World",
+      "source_url": "https://www.industrialiotworld.com/5g-acia-new-industrial-standards",
+      "tags": [
+        "5G-ACIA",
+        "Industrial 5G",
+        "Wireless",
+        "AGV",
+        "Standardization"
       ]
     }
   ]
