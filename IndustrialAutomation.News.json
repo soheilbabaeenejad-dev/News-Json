@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1365,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/30 17:08",
+  "count": 1374,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/30 17:14",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21736,6 +21736,150 @@
         "Connectivity",
         "Smart Factory",
         "Innovation"
+      ]
+    },
+    {
+      "id": "ia-20261021-002",
+      "title": "گسترش قابلیت‌های پردازش ابری در پلتفرم Insights Hub زیمنس",
+      "summary": "زیمنس پلتفرم ابری خود موسوم به Insights Hub را با ابزارهای جدید تحلیل داده‌های اینترنت اشیاء صنعتی به‌روزرسانی کرد. این قابلیت‌های جدید به مدیران کارخانجات کمک می‌کند تا جریان عظیمی از داده‌های سنسورهای OT را به صورت بلادرنگ پردازش کنند. این سیستم با مدل‌سازی دقیق مصرف انرژی، به بهینه‌سازی هزینه‌های عملیاتی در خطوط تولید بزرگ کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/21 10:15",
+      "collected_at": "1405/07/30 17:14",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-insights-hub-update",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261021-003",
+      "title": "رونمایی از سیستم کنترل توزیع‌شده جدید DeltaV v15 توسط امرسون",
+      "summary": "شرکت امرسون نسخه جدید سیستم کنترل توزیع‌شده DeltaV v15 را با معماری نرم‌افزاری متمرکز بر امنیت سایبری و ابری عرضه کرد. این سیستم به پالایشگاه‌ها و صنایع فرآیندی اجازه می‌دهد تا کنترل بیشتری بر فرآیندهای پیچیده‌شان داشته باشند و خطاهای انسانی را به حداقل برسانند. با بهره‌گیری از پروتکل‌های ارتباطی مدرن، یکپارچگی بین لایه‌های مختلف اتوماسیون با سرعت بالاتری انجام می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/21 11:00",
+      "collected_at": "1405/07/30 17:14",
+      "source": "Process Automation News",
+      "source_url": "https://www.process-automation.com/emerson-deltav-v15",
+      "tags": [
+        "Emerson",
+        "DeltaV",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه اتوماسیون پنوماتیک هوشمند",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه همکاری جدیدی را برای توسعه تجهیزات پنوماتیک مجهز به پروتکل PROFINET امضا کردند. این شراکت راهبردی به دنبال ترکیب محرک‌های پنوماتیک پیشرفته با کنترل‌کننده‌های SIMATIC S7-1500 برای افزایش بهره‌وری خطوط مونتاژ است. این رویکرد به مهندسان امکان می‌دهد تا عیب‌یابی تجهیزات پنوماتیک را از طریق بستر نرم‌افزاری واحدی انجام دهند.",
+      "category": "company",
+      "published_at": "1405/07/21 12:20",
+      "collected_at": "1405/07/30 17:14",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "PROFINET",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "عرضه سیستم کنترل حرکت جدید PacDrive 4 توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک نسل جدید سیستم کنترل حرکت PacDrive 4 را برای صنایع بسته‌بندی، داروسازی و مواد غذایی معرفی کرد. این کنترل‌کننده با پشتیبانی کامل از استاندارد IEC 61131-3 امکان اجرای همزمان الگوریتم‌های پیچیده رباتیک و کنترل محورها را فراهم می‌سازد. کاهش فضای اشغال‌شده در تابلوهای برق و افزایش سرعت واکنش از ویژگی‌های کلیدی این محصول است.",
+      "category": "product",
+      "published_at": "1405/07/21 13:45",
+      "collected_at": "1405/07/30 17:14",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/schneider-pacdrive-4",
+      "tags": [
+        "Schneider Electric",
+        "Motion Control",
+        "PacDrive",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "ارتقای قابلیت‌های امنیت سایبری در دروازه‌های ارتباطی SCALANCE زیمنس",
+      "summary": "زیمنس بسته‌های نرم‌افزاری امنیتی جدیدی را برای خانواده تجهیزات شبکه صنعتی SCALANCE منتشر کرد تا از شبکه‌های OT در برابر حملات سایبری فزاینده محافظت کند. این به‌روزرسانی شامل فایروال‌های پیشرفته و پروتکل‌های رمزنگاری مبتنی بر استانداردهای IEC 62443 است. این راهکار به مدیران شبکه اجازه می‌دهد تا ترافیک غیرمجاز را به صورت خودکار در لبه شبکه شناسایی و مسدود کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/21 14:30",
+      "collected_at": "1405/07/30 17:14",
+      "source": "Industrial Cyber Security",
+      "source_url": "https://www.industrialcyber.co/siemens-scalance-security-update",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "توسعه قابلیت‌های رباتیک سیار خودران با پلتفرم MiR Fleet و زیمنس",
+      "summary": "شرکت Mobile Industrial Robots با همکاری زیمنس، سیستم یکپارچه‌سازی ناوگان ربات‌های خودران (AMR) را با سیستم‌های مدیریت انبار بهبود بخشید. این ارتباط به ربات‌های لجستیک اجازه می‌دهد تا به صورت کاملاً خودکار با خطوط تولید مجهز به تجهیزات SIMATIC تبادل کالا داشته باشند. این پروژه نمونه‌ای بارز از همگرایی فناوری‌های IT و OT در لجستیک کارخانجات مدرن است.",
+      "category": "industry",
+      "published_at": "1405/07/21 15:10",
+      "collected_at": "1405/07/30 17:14",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/mir-siemens-integration",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Siemens",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "معرفی گیت‌وی لبه صنعتی جدید از سوی فونیکس کنتاکت با پشتیبانی از MQTT",
+      "summary": "فونیکس کنتاکت یک گیت‌وی صنعتی جدید مجهز به پروتکل‌های قدرتمند IoT از جمله MQTT و OPC UA برای اتصال تجهیزات قدیمی به ابر معرفی کرد. این سخت‌افزار مقاوم برای کار در شرایط سخت محیطی طراحی شده و داده‌های سنسورها را با امنیت بالا به پلتفرم‌های ابری منتقل می‌کند. این محصول فرآیند نوسازی دیجیتال کارخانجات را بدون نیاز به تعویض تجهیزات موجود تسهیل می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/21 16:00",
+      "collected_at": "1405/07/30 17:14",
+      "source": "IEB Magazine",
+      "source_url": "https://www.iebmedia.com/phoenix-contact-iot-gateway",
+      "tags": [
+        "Phoenix Contact",
+        "IoT",
+        "Gateway",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "انتشار گزارش جدید موسسه گارتنر درباره نقش کلیدی پلتفرم‌های Xcelerator زیمنس",
+      "summary": "موسسه تحقیقاتی گارتنر در گزارش تازه‌ای، پلتفرم Siemens Xcelerator را به عنوان یکی از پیشگامان تحول دیجیتال در صنایع تولیدی معرفی کرد. این گزارش بر توانمندی این پلتفرم در ایجاد دوقلوهای دیجیتال یکپارچه از طراحی محصول تا خط تولید تأکید دارد. استفاده از این بستر نرم‌افزاری به شرکت‌ها کمک می‌کند تا زمان عرضه محصولات جدید به بازار را به طور چشمگیری کاهش دهند.",
+      "category": "research",
+      "published_at": "1405/07/21 16:45",
+      "collected_at": "1405/07/30 17:14",
+      "source": "Gartner Research",
+      "source_url": "https://www.gartner.com/en/documents/siemens-xcelerator-report",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "راه‌اندازی مرکز جدید نوآوری اتوماسیون صنعتی زیمنس در توکیو",
+      "summary": "شرکت زیمنس به منظور توسعه فناوری‌های هوش مصنوعی و رباتیک پیشرفته، مرکز نوآوری جدیدی را در شهر توکیو افتتاح کرد. این مرکز بر روی توسعه کاربردهای هوش مصنوعی مولد در مهندسی کنترل و رباتیک صنعتی متمرکز خواهد بود. پژوهشگران در این مرکز روی پروژه‌های مشترک با صنایع خودروسازی و الکترونیک ژاپن فعالیت خواهند کرد.",
+      "category": "company",
+      "published_at": "1405/07/21 17:00",
+      "collected_at": "1405/07/30 17:14",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.ia-asia.com/siemens-tokyo-innovation-center",
+      "tags": [
+        "Siemens",
+        "AI",
+        "Innovation",
+        "Japan"
       ]
     }
   ]
