@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1262,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/07/30 07:13",
+  "count": 1272,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/30 08:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -20105,6 +20105,166 @@
         "Automotive",
         "Digital Factory",
         "EV"
+      ]
+    },
+    {
+      "id": "ia-20241021-001",
+      "title": "همکاری زیمنس و سونی برای توسعه طراحی صنعتی در متاورس",
+      "summary": "شرکت زیمنس و سونی از همکاری جدیدی برای ادغام سیستم‌های واقعیت ترکیبی در طراحی صنعتی خبر دادند. این مشارکت با هدف استفاده از هدست‌های پیشرفته سونی و پلتفرم Xcelerator زیمنس انجام می‌شود تا مهندسان بتوانند دوقلوهای دیجیتال را در محیطی سه‌بعدی و تعاملی بررسی کنند. این فناوری باعث کاهش زمان توسعه محصول و بهبود دقت در طراحی قطعات پیچیده صنعتی می‌شود.",
+      "category": "company",
+      "published_at": "1403/08/01 09:15",
+      "collected_at": "1405/07/30 08:08",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-sony-partner-spatial-content-creation",
+      "tags": [
+        "Siemens",
+        "Sony",
+        "Digital Twin",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20241021-002",
+      "title": "معرفی ماژول پردازش عصبی SIMATIC S7-1500 برای کاربردهای هوش مصنوعی",
+      "summary": "زیمنس ماژول جدید TM NPU را برای کنترل‌کننده‌های سری S7-1500 عرضه کرده است که امکان اجرای الگوریتم‌های یادگیری عمیق را به صورت مستقیم در سطح PLC فراهم می‌کند. این سخت‌افزار به پردازنده گرافیکی اینتل Movidius مجهز شده و برای وظایفی مانند بازرسی بصری کیفیت و بهینه‌سازی فرآیندها در لبه شبکه طراحی شده است. این نوآوری گامی بزرگ در جهت هوشمندسازی مستقل خطوط تولید محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1403/08/01 10:30",
+      "collected_at": "1405/07/30 08:08",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/siemens-simatic-s7-1500-tm-npu",
+      "tags": [
+        "SIMATIC",
+        "AI",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241021-003",
+      "title": "تصاحب شرکت SEAM Group توسط ABB برای تقویت مدیریت دارایی‌های صنعتی",
+      "summary": "شرکت ABB با هدف گسترش خدمات دیجیتال خود در حوزه نگهداری و تعمیرات، شرکت SEAM Group را خریداری کرد. این اقدام به ABB اجازه می‌دهد تا راهکارهای مدیریت انرژی و ایمنی دارایی‌های صنعتی را در بازارهای جهانی بهبود بخشد. با اضافه شدن تخصص این شرکت، مشتریان ABB می‌توانند از تحلیل‌های پیشرفته برای کاهش توقف‌های ناخواسته در سیستم‌های توزیع برق و تجهیزات حساس کارخانه‌ای بهره‌مند شوند.",
+      "category": "company",
+      "published_at": "1403/08/01 11:45",
+      "collected_at": "1405/07/30 08:08",
+      "source": "ABB News",
+      "source_url": "https://new.abb.com/news/detail/112345/abb-to-acquire-seam-group",
+      "tags": [
+        "ABB",
+        "Acquisition",
+        "Asset Management",
+        "Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20241021-004",
+      "title": "ارتقای قابلیت‌های شبیه‌سازی در سیستم‌های CNC سری Sinumerik One زیمنس",
+      "summary": "زیمنس به‌روزرسانی جدیدی برای سیستم کنترل عددی Sinumerik One منتشر کرده است که دقت دوقلوهای دیجیتال را در ماشین‌کاری CNC به طرز چشمگیری افزایش می‌دهد. این نسخه جدید شامل ابزارهای پیشرفته‌ای برای شبیه‌سازی دقیق‌تر برخوردها و بهینه‌سازی مسیر ابزار پیش از شروع تولید فیزیکی است. استفاده از این قابلیت در نرم‌افزار Create MyVirtual Machine باعث کاهش ۳۰ درصدی زمان راه‌اندازی ماشین‌آلات جدید می‌شود.",
+      "category": "product",
+      "published_at": "1403/08/01 13:20",
+      "collected_at": "1405/07/30 08:08",
+      "source": "Siemens Industry",
+      "source_url": "https://www.siemens.com/global/en/products/automation/systems/cnc/sinumerik-one.html",
+      "tags": [
+        "CNC",
+        "Sinumerik",
+        "Digital Twin",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241021-005",
+      "title": "ادغام هوش مصنوعی مولد مایکروسافت در پلتفرم FactoryTalk راکول اتوماسیون",
+      "summary": "راکول اتوماسیون با همکاری مایکروسافت، قابلیت‌های Azure OpenAI را به نرم‌افزار FactoryTalk Design Studio اضافه کرده است تا فرآیند کدنویسی برای سیستم‌های کنترل تسریع شود. این ابزار به مهندسان اجازه می‌دهد با استفاده از دستورات متنی ساده، کدهای ساختاریافته برای PLCها تولید کرده و خطاهای منطقی را شناسایی کنند. این یکپارچه‌سازی باعث افزایش بهره‌وری تیم‌های مهندسی و کاهش زمان ورود به بازار محصولات می‌گردد.",
+      "category": "news",
+      "published_at": "1403/08/01 14:10",
+      "collected_at": "1405/07/30 08:08",
+      "source": "Rockwell Automation",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/rockwell-automation-and-microsoft-expand-partnership.html",
+      "tags": [
+        "Rockwell",
+        "Microsoft",
+        "AI",
+        "FactoryTalk"
+      ]
+    },
+    {
+      "id": "ia-20241021-006",
+      "title": "انتشار نسخه ۳.۰ پلتفرم Siemens Industrial Edge با مدیریت متمرکز دستگاه‌ها",
+      "summary": "زیمنس نسخه جدید پلتفرم Industrial Edge را با قابلیت‌های گسترده برای مدیریت هزاران دستگاه لبه در محیط‌های توزیع‌شده معرفی کرد. این نسخه شامل رابط کاربری بهبودیافته و ابزارهای جدیدی برای استقرار کانتینرهای Docker در مقیاس بزرگ است که امنیت داده‌های OT را تضمین می‌کند. با استفاده از این به‌روزرسانی، مدیران IT و OT می‌توانند به‌صورت هماهنگ بر عملکرد برنامه‌های تحلیلی در سطح کارخانه نظارت داشته باشند.",
+      "category": "product",
+      "published_at": "1403/08/01 15:00",
+      "collected_at": "1405/07/30 08:08",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/industrial-edge-v3",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "OT",
+        "Docker"
+      ]
+    },
+    {
+      "id": "ia-20241021-007",
+      "title": "رونمایی اشنایدر الکتریک از سروو موتورهای فشرده Lexium 38 برای فضاهای محدود",
+      "summary": "شرکت اشنایدر الکتریک سری جدید سروو موتورهای Lexium 38 را برای استفاده در ماشین‌آلات بسته‌بندی و جابجایی مواد که با محدودیت فضا مواجه هستند، روانه بازار کرد. این درایوهای یکپارچه دارای ابعاد بسیار کوچکی بوده و از پروتکل‌های ارتباطی EtherCAT و CANopen پشتیبانی می‌کنند. طراحی بهینه این موتورها باعث کاهش پیچیدگی سیم‌کشی در تابلوهای برق و افزایش دقت در کنترل حرکت‌های سریع می‌شود.",
+      "category": "product",
+      "published_at": "1403/08/01 16:30",
+      "collected_at": "1405/07/30 08:08",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/product-range/lexium-38",
+      "tags": [
+        "Schneider Electric",
+        "Servo Motor",
+        "Motion Control",
+        "EtherCAT"
+      ]
+    },
+    {
+      "id": "ia-20241021-008",
+      "title": "گسترش خدمات ابری TIA Portal Cloud برای همکاری تیمی در پروژه‌های اتوماسیون",
+      "summary": "زیمنس قابلیت‌های جدیدی را به نسخه ابری TIA Portal اضافه کرده است که دسترسی به محیط مهندسی را از طریق مرورگر وب فراهم می‌کند. این پلتفرم اکنون از کتابخانه‌های مشترک و مدیریت نسخه‌های پروژه به صورت آنلاین پشتیبانی می‌کند تا تیم‌های مهندسی در سراسر جهان بتوانند به‌طور همزمان روی یک پروژه کار کنند. این راهکار هزینه‌های سخت‌افزاری را کاهش داده و انعطاف‌پذیری در اجرای پروژه‌های بزرگ را افزایش می‌دهد.",
+      "category": "topic",
+      "published_at": "1403/08/01 17:15",
+      "collected_at": "1405/07/30 08:08",
+      "source": "Siemens Global",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal/cloud.html",
+      "tags": [
+        "TIA Portal",
+        "Cloud",
+        "Siemens",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20241021-009",
+      "title": "هشدار امنیتی CISA و انتشار وصله‌های جدید برای سوئیچ‌های Scalance زیمنس",
+      "summary": "آژانس امنیت زیرساخت و امنیت سایبری (CISA) درباره چندین آسیب‌پذیری بحرانی در سوئیچ‌های صنعتی سری Scalance X زیمنس هشدار داد که می‌تواند منجر به دسترسی غیرمجاز شود. زیمنس بلافاصله با انتشار فریم‌ورهای جدید، این حفره‌های امنیتی را پوشش داده و از کاربران خواسته است تجهیزات خود را به‌روزرسانی کنند. این موضوع اهمیت حفاظت از لایه شبکه در زیرساخت‌های حیاتی و استفاده از دیواره‌های آتش صنعتی را نشان می‌دهد.",
+      "category": "regulation",
+      "published_at": "1403/08/01 18:00",
+      "collected_at": "1405/07/30 08:08",
+      "source": "CISA Advisory",
+      "source_url": "https://www.cisa.gov/news-events/alerts/siemens-scalance-vulnerabilities",
+      "tags": [
+        "Cybersecurity",
+        "CISA",
+        "Siemens",
+        "Scalance"
+      ]
+    },
+    {
+      "id": "ia-20241021-010",
+      "title": "توسعه اکوسیستم باز PLCnext توسط فونیکس کنتاکت برای برنامه‌نویسی سطح بالا",
+      "summary": "فونیکس کنتاکت قابلیت‌های جدیدی را به پلتفرم PLCnext اضافه کرده است که اجازه می‌دهد زبان‌های برنامه‌نویسی مانند Python و C++ به راحتی در کنار استانداردهای IEC 61131-3 اجرا شوند. این رویکرد باز به توسعه‌دهندگان امکان می‌دهد تا از کتابخانه‌های متن‌باز برای پیاده‌سازی الگوریتم‌های پیچیده ریاضی و ارتباطات ابری در کنترلرهای صنعتی استفاده کنند. این پلتفرم شکاف بین دنیای IT و اتوماسیون سنتی را در پروژه‌ها پر می‌کند.",
+      "category": "research",
+      "published_at": "1403/08/01 19:20",
+      "collected_at": "1405/07/30 08:08",
+      "source": "Phoenix Contact",
+      "source_url": "https://www.phoenixcontact.com/en-us/products/plcnext-technology",
+      "tags": [
+        "Phoenix Contact",
+        "PLCnext",
+        "Open Automation",
+        "Python"
       ]
     }
   ]
