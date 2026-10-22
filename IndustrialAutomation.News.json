@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1337,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/30 18:01",
+  "count": 1347,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/30 18:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21291,6 +21291,166 @@
         "EV",
         "Battery",
         "Investment"
+      ]
+    },
+    {
+      "id": "ia-20261021-001",
+      "title": "رونمایی زیمنس از نسخه جدید نرم‌افزار مهندسی TIA Portal V20.2 با بهینه‌سازی ابری",
+      "summary": "شرکت زیمنس نسخه به‌روزرسانی شده TIA Portal V20.2 را با تمرکز بر ارتقای ابزارهای مهندسی مشترک و یکپارچه‌سازی ابری معرفی کرد. این نسخه جدید به مهندسان اتوماسیون اجازه می‌دهد تا پروژه‌های SIMATIC را سریع‌تر پیکربندی کرده و از قابلیت‌های هوش مصنوعی برای کاهش خطاهای کدنویسی PLC بهره ببرند. این انتشار گامی مهم در جهت سرعت‌بخشی به توسعه دوقلوهای دیجیتال در صنایع تولیدی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/25 09:30",
+      "collected_at": "1405/07/30 18:07",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/tia-portal-v20-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "SIMATIC",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261021-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی مولد در Siemens Industrial Copilot برای خطوط تولید",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی Industrial Copilot را برای بهینه‌سازی فرآیندهای تولیدی و عیب‌یابی ماشین‌آلات صنعتی توسعه داد. این ابزار پیشرفته به اپراتورها کمک می‌کند تا کدهای کنترلی複雜 را با دستورات متنی ساده ایجاد کرده و زمان توقف خطوط تولید را به حداقل برسانند. این راهکار مبتنی بر همکاری عمیق زیمنس با مایکروسافت در اکوسیستم Xcelerator پیاده‌سازی شده است.",
+      "category": "product",
+      "published_at": "1405/07/25 11:15",
+      "collected_at": "1405/07/30 18:07",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/ai/siemens-industrial-copilot-expansion",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "AI",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261021-003",
+      "title": "معرفی ماژول‌های ارتباطی جدید پروفینت برای سری کنترل‌کننده‌های SIMATIC S7-1500",
+      "summary": "زیمنس از ماژول‌های ارتباطی پیشرفته جدیدی برای خانواده کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 رونمایی کرد که از پروتکل‌های امن و پرسرعت شبکه پشتیبانی می‌کنند. این ماژول‌ها امکان تبادل ایمن داده‌ها در شبکه‌های بزرگ OT را فراهم کرده و امنیت سایبری لایه کنترل را به شدت تقویت می‌کنند. این تجهیزات جدید به صنایع کمک می‌کنند تا الزامات استاندارد IEC 62443 را به راحتی رعایت نمایند.",
+      "category": "product",
+      "published_at": "1405/07/26 10:00",
+      "collected_at": "1405/07/30 18:07",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-new-profinet-modules-s7-1500",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Profinet",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "ارتقای پلتفرم Siemens Industrial Edge با ابزارهای جدید مدیریت容器 بر بستر کوبرنتیز",
+      "summary": "پلتفرم لبه صنعتی زیمنس (Industrial Edge) به قابلیت‌های پیشرفته مدیریت کانتینر مجهز شد تا پردازش داده‌های بلادرنگ در سطح کارخانه تسهیل شود. این به‌روزرسانی به توسعه‌دهندگان اجازه می‌دهد اپلیکیشن‌های تحلیل داده و نگهداری پیشگیرانه را به صورت انبوه روی سخت‌افزارهای SIMATIC مستقر کنند. این رویکرد فاصله میان سیستم‌های فناوری اطلاعات IT و فناوری عملیاتی OT را بیش از پیش کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/26 14:20",
+      "collected_at": "1405/07/30 18:07",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrialiotnews.com/siemens-industrial-edge-kubernetes-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Kubernetes",
+        "OT/IT"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "همکاری راهبردی زیمنس و شرکت هوش مصنوعی برای توسعه سیستم‌های بینایی ماشین پیشرفته",
+      "summary": "زیمنس طی یک توافق‌نامه جدید با یک پیشگام هوش مصنوعی، سیستم‌های بینایی ماشین خود را برای کنترل کیفیت دقیق در خطوط مونتاژ رباتیک ارتقا داد. این فناوری ترکیبی به دوربین‌های صنعتی SIMATIC MV اجازه می‌دهد تا عیوب میکروسکوپی محصولات را با دقت ۹۹.۹ درصد شناسایی کنند. این راهکار به صنایع خودروسازی و الکترونیک کمک چشمگیری در کاهش ضایعات تولید خواهد کرد.",
+      "category": "company",
+      "published_at": "1405/07/27 08:45",
+      "collected_at": "1405/07/30 18:07",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/article/siemens-ai-machine-vision-partnership",
+      "tags": [
+        "Siemens",
+        "Machine Vision",
+        "AI",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "عرضه سیستم کنترل فرآیند SIMATIC PCS neo با قابلیت‌های جدید مدیریت انرژی",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo از سوی زیمنس با ابزارهای یکپارچه مدیریت انرژی و کاهش کربن عرضه شد. این سیستم به اپراتورهای صنایع فرآیندی، پتروشیمی و داروسازی امکان می‌دهد مصرف انرژی واحدهای تولیدی را به صورت لحظه‌ای پایش و بهینه‌سازی کنند. این رویکرد به کارخانه‌ها کمک می‌کند تا به اهداف توسعه پایدار و انتشار صفر کربن دست یابند.",
+      "category": "product",
+      "published_at": "1405/07/27 13:10",
+      "collected_at": "1405/07/30 18:07",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-simatic-pcs-neo-energy-management",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "DCS",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "رونمایی از درایوهای سروو پیشرفته SINAMICS S220 با قابلیت‌های ارتباطی TSN",
+      "summary": "زیمنس سبد محصولات درایوهای کنترل حرکت خود را با معرفی سری SINAMICS S220 مجهز به فناوری شبکه Time-Sensitive Networking گسترش داد. این درایوهای هوشمند دقت بالا و زمان پاسخگویی فوق‌العاده سریعی را در ماشین‌آلات بسته‌بندی و چاپ پیچیده فراهم می‌کنند. امنیت سایبریپارامتریک تعبیه‌شده در این تجهیزات، حفاظت کاملی در برابر دسترسی‌های غیرمجاز ایجاد می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/28 10:05",
+      "collected_at": "1405/07/30 18:07",
+      "source": "Drive and Control",
+      "source_url": "https://www.driveandcontrol.co.uk/news/siemens-sinamics-s220-tsn-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS S220",
+        "Motion Control",
+        "TSN"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "گسترش دوقلوهای دیجیتال در کارخانه‌های هوشمند با پلتفرم Siemens Xcelerator",
+      "summary": "شرکت زیمنس از پروژه‌های جدید پیاده‌سازی دوقلوهای دیجیتال مبتنی بر پلتفرم Xcelerator در چندین کارخانه بزرگ تولید ماشین‌آلات صنعتی خبر داد. این فناوری به مدیران تولید اجازه می‌دهد کل خط مونتاژ را پیش از ساخت فیزیکی شبیه‌سازی کرده و گلوگاه‌های احتمالی را شناسایی کنند. این امر زمان ورود محصولات جدید به بازار را تا چهل درصد کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/28 15:50",
+      "collected_at": "1405/07/30 18:07",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/manufacturing/siemens-xcelerator-digital-twins-expansion",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "انتشار به‌روزرسانی امنیتی حیاتی برای تجهیزات شبکه صنعتی سری Ruggedcom زیمنس",
+      "summary": "زیمنس یک اصلاحیه امنیتی مهم برای رفع آسیب‌پذیری‌های کشف شده در سوئیچ‌های صنعتی و روترهای سری Ruggedcom منتشر کرد. این تجهیزات که به طور گسترده در زیرساخت‌های حیاتی و شبکه‌های توزیع انرژی استفاده می‌شوند، اکنون با فریم‌ور جدید در برابر حملات سایبری مقاوم‌تر شده‌اند. متخصصان امنیت شبکه توصیه کرده‌اند این به‌روزرسانی‌ها در سریع‌ترین زمان ممکن اعمال شوند.",
+      "category": "regulation",
+      "published_at": "1405/07/29 09:15",
+      "collected_at": "1405/07/30 18:07",
+      "source": "Security Week",
+      "source_url": "https://www.securityweek.com/siemens-patches-critical-vulnerabilities-ruggedcom-switches",
+      "tags": [
+        "Siemens",
+        "Ruggedcom",
+        "Cybersecurity",
+        "CISA"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "توسعه همکاری زیمنس و شرکت انویدیا برای پیشبرد متاورس صنعتی فوتورالیستیک",
+      "summary": "زیمنس و انویدیا همکاری‌های خود را برای ادغام پلتفرم‌های Omniverse و Xcelerator به منظور ساخت شبیه‌سازی‌های فوق‌واقع‌گرایانه صنعتی تقویت کردند. این فناوری به مهندسان امکان می‌دهد کارخانه‌های بزرگ را با جزئیات دقیق فیزیکی و نوری در محیط‌های سه‌بعدی مجازی مدل‌سازی و بهینه‌سازی کنند. این شراکت راهبردی انقلابی در نحوه طراحی و بهره‌برداری از تاسیسات صنعتی آینده ایجاد کرده است.",
+      "category": "company",
+      "published_at": "1405/07/29 16:40",
+      "collected_at": "1405/07/30 18:07",
+      "source": "VentureBeat",
+      "source_url": "https://venturebeat.com/ai/siemens-nvidia-industrial-metaverse-expansion",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Industrial Metaverse",
+        "Omniverse"
       ]
     }
   ]
