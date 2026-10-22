@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1368,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/07/30 21:11",
+  "count": 1376,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/30 22:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21770,6 +21770,134 @@
         "Cybersecurity",
         "PLC",
         "Industrial Security"
+      ]
+    },
+    {
+      "id": "ia-20261021-003",
+      "title": "همکاری استراتژیک زیمنس و انویدیا برای بهینه‌سازی دوقلوهای دیجیتال در صنایع خودروسازی",
+      "summary": "زیمنس و انویدیا در پروژه جدید خود، قابلیت‌های شبیه‌سازی فوتورالیستیک را به پلتفرم Xcelerator اضافه کرده‌اند. این همکاری به تولیدکنندگان خودرو اجازه می‌دهد تا پیش از ساخت فیزیکی، تمامی مراحل مونتاژ را در محیط مجازی با دقت بالا تست کنند. این فناوری باعث کاهش هزینه‌های طراحی و تسریع در عرضه محصولات جدید به بازار می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/30 11:45",
+      "collected_at": "1405/07/30 22:01",
+      "source": "IndustryWeek",
+      "source_url": "https://www.industryweek.com/siemens-nvidia-partnership",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Digital Twin",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "انتشار وصله امنیتی اضطراری برای تجهیزات شبکه صنعتی زیمنس",
+      "summary": "آژانس امنیت سایبری CISA نسبت به آسیب‌پذیری بحرانی در سوئیچ‌های صنعتی سری SCALANCE زیمنس هشدار داد. زیمنس بلافاصله وصله امنیتی جدیدی را برای رفع این حفره منتشر کرده است که از دسترسی غیرمجاز به شبکه‌های OT جلوگیری می‌کند. تمامی مدیران شبکه صنعتی ملزم به به‌روزرسانی فوری تجهیزات خود برای حفظ امنیت زیرساخت‌ها هستند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 12:20",
+      "collected_at": "1405/07/30 22:01",
+      "source": "CISA Alerts",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories",
+      "tags": [
+        "Cybersecurity",
+        "Siemens",
+        "SCALANCE",
+        "CISA"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "رونمایی از درایوهای هوشمند SINAMICS G220 با قابلیت‌های پیشرفته بهره‌وری انرژی",
+      "summary": "زیمنس درایوهای فرکانس متغیر SINAMICS G220 را با تمرکز بر کاهش مصرف انرژی در صنایع سنگین عرضه کرد. این درایوها مجهز به حسگرهای داخلی برای پایش وضعیت سلامت موتور هستند و می‌توانند با سیستم‌های مدیریت انرژی یکپارچه شوند. این محصول به صنایع کمک می‌کند تا با کاهش تلفات انرژی، هزینه‌های عملیاتی خود را به شکل چشمگیری کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/30 13:50",
+      "collected_at": "1405/07/30 22:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-sinamics-g220",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در Siemens Industrial Copilot برای مهندسی برق",
+      "summary": "زیمنس قابلیت‌های جدیدی را به دستیار هوش مصنوعی Industrial Copilot اضافه کرده است که به مهندسان در طراحی نقشه‌های الکتریکی کمک می‌کند. این ابزار با تحلیل استانداردهای صنعتی، پیشنهادهای بهینه‌ای برای چیدمان تابلوهای برق ارائه می‌دهد. این نوآوری زمان مهندسی پروژه‌های اتوماسیون را تا ۳۰ درصد کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/07/30 14:10",
+      "collected_at": "1405/07/30 22:01",
+      "source": "Engineering News",
+      "source_url": "https://www.engineeringnews.com/siemens-copilot-update",
+      "tags": [
+        "Siemens",
+        "AI",
+        "Industrial Copilot",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "معرفی سیستم جدید مدیریت دارایی‌های صنعتی توسط راکول اتوماسیون",
+      "summary": "راکول اتوماسیون پلتفرم جدیدی را برای مدیریت دارایی‌های فیزیکی در کارخانه‌ها معرفی کرد که با سیستم‌های ERP یکپارچه می‌شود. این سیستم با استفاده از تحلیل‌های پیش‌بینانه، زمان تعمیر و نگهداری تجهیزات را به دقت پیش‌بینی می‌کند. این راهکار به صنایع کمک می‌کند تا از خرابی‌های ناگهانی در خطوط تولید جلوگیری کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 15:30",
+      "collected_at": "1405/07/30 22:01",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news.html",
+      "tags": [
+        "Rockwell",
+        "Asset Management",
+        "Maintenance",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "گسترش شبکه ارتباطی ۵G در کارخانه‌های هوشمند با تجهیزات جدید زیمنس",
+      "summary": "زیمنس از تجهیزات جدید زیرساخت ۵G برای محیط‌های صنعتی رونمایی کرد که امکان ارتباط بی‌سیم با تاخیر بسیار کم را فراهم می‌کند. این فناوری برای کنترل ربات‌های متحرک خودران (AMR) در محیط‌های کارخانه حیاتی است. با استفاده از این تجهیزات، انعطاف‌پذیری خطوط تولید برای تغییرات سریع در سفارشات مشتریان افزایش می‌یابد.",
+      "category": "industry",
+      "published_at": "1405/07/30 16:45",
+      "collected_at": "1405/07/30 22:01",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-world.com/siemens-5g-industrial",
+      "tags": [
+        "Siemens",
+        "5G",
+        "Connectivity",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "رونمایی اشنایدر الکتریک از کنترل‌کننده ایمن برای صنایع فرآیندی",
+      "summary": "اشنایدر الکتریک نسل جدیدی از کنترل‌کننده‌های ایمن (Safety PLC) را برای صنایع نفت و گاز معرفی کرد. این تجهیزات با استانداردهای سخت‌گیرانه ایمنی عملکردی (SIL3) مطابقت دارند و در شرایط محیطی خشن عملکرد پایداری دارند. این محصول امنیت فرآیندهای حیاتی را در واحدهای پتروشیمی تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 18:00",
+      "collected_at": "1405/07/30 22:01",
+      "source": "Schneider Electric Press",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/",
+      "tags": [
+        "Schneider Electric",
+        "Safety PLC",
+        "Oil and Gas",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "سرمایه‌گذاری زیمنس در مراکز آموزشی اتوماسیون دیجیتال در خاورمیانه",
+      "summary": "زیمنس با هدف توسعه نیروی کار متخصص در زمینه اتوماسیون صنعتی، چندین مرکز آموزشی جدید را در کشورهای منطقه خاورمیانه راه‌اندازی می‌کند. این مراکز به تجهیزات پیشرفته SIMATIC و نرم‌افزارهای TIA Portal مجهز خواهند بود. این اقدام بخشی از استراتژی زیمنس برای حمایت از تحول دیجیتال صنایع در بازارهای نوظهور است.",
+      "category": "society",
+      "published_at": "1405/07/30 19:20",
+      "collected_at": "1405/07/30 22:01",
+      "source": "Siemens Middle East",
+      "source_url": "https://www.siemens.com/ae/en/company/press.html",
+      "tags": [
+        "Siemens",
+        "Education",
+        "Digital Transformation",
+        "Middle East"
       ]
     }
   ]
