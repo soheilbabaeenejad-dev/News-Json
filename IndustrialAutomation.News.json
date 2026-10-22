@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1300,
+  "count": 1308,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 12:00",
+  "updated_at": "1405/07/30 12:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -20710,6 +20710,134 @@
         "Digital Transformation",
         "Smart Factory",
         "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در نسخه جدید Insights Hub زیمنس",
+      "summary": "پلتفرم ابری Insights Hub زیمنس (MindSphere سابق) به‌روزرسانی بزرگی را دریافت کرد که امکان تحلیل پیشرفته داده‌های کلان را فراهم می‌سازد. این نسخه جدید با بهره‌گیری از الگوریتم‌های یادگیری ماشین، خطاهای احتمالی ماشین‌آلات را پیش از وقوع پیش‌بینی می‌کند. صنایع بزرگ با استفاده از این ابزار توانسته‌اند زمان توقف ناخواسته خطوط تولید را تا حد قابل توجهی کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/07/30 08:45",
+      "collected_at": "1405/07/30 12:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-insights-hub-update-2026",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه ماژول‌های ایمنی جدید F-IO برای کنترل‌کننده‌های SIMATIC S7-1500",
+      "summary": "زیمنس سبد محصولات ایمنی صنعتی خود را با معرفی ماژول‌های جدید F-IO برای کنترل‌کننده‌های پیشرفته SIMATIC S7-1500 گسترش داد. این ماژول‌ها دارای گواهینامه SIL3 بوده و بالاترین سطح استانداردهای ایمنی کارگاهی را برای اپراتورها فراهم می‌کنند. طراحی فشرده این تجهیزات به کاهش فضای مورد نیاز داخل تابلوهای فرمان کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 09:30",
+      "collected_at": "1405/07/30 12:02",
+      "source": "DirectIndustry",
+      "source_url": "https://www.directindustry.com/siemens-f-io-s71500-2026",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Safety",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "برگزاری رویداد تخصصی توسعه‌دهندگان Siemens Industrial Edge در مونیخ",
+      "summary": "زیمنس میزبان بزرگترین نشست سالانه توسعه‌دهندگان نرم‌افزار برای پلتفرم Industrial Edge در شهر مونیخ آلمان بود. در این رویداد از ابزارهای جدید برنامه‌نویسی کانتینری و کیت‌های توسعه نرم‌افزار (SDK) رونمایی شد که ساخت اپلیکیشن‌های لبه را تسهیل می‌کنند. این پلتفرم به شرکت‌ها اجازه می‌دهد پردازش داده‌ها را به جای فضای ابری، مستقیماً در کنار ماشین‌آلات انجام دهند.",
+      "category": "news",
+      "published_at": "1405/07/30 09:55",
+      "collected_at": "1405/07/30 12:02",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-industrial-edge-dev-2026",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Edge Computing",
+        "Developer"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای نرم‌افزار شبیه‌سازی Process Simulate در مجموعه Siemens Xcelerator",
+      "summary": "بخش نرم‌افزارهای صنعتی زیمنس نسخه جدید Process Simulate را از پلتفرم Xcelerator با موتور گرافیکی ارتقایافته منتشر کرد. این نرم‌افزار به مهندسان اجازه می‌دهد خطوط رباتیک پیچیده را با دقت میلی‌متری و به صورت کاملاً واقع‌گرایانه شبیه‌سازی کنند. کاهش زمان راه‌اندازی خطوط تولید جدید از مهم‌ترین مزایای این به‌روزرسانی نرم‌افزاری محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/30 10:20",
+      "collected_at": "1405/07/30 12:02",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/siemens-process-simulate-2026",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Simulation",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی نسل جدید پنل‌های اپراتوری SIMATIC HMI Comfort Pro",
+      "summary": "زیمنس از سری جدید پنل‌های اپراتوری SIMATIC HMI Comfort Pro با نمایشگرهای لمسی ضد خش و روشنایی بهبودیافته رونمایی کرد. این پنل‌ها با دارا بودن بدنه مقاوم در برابر شرایط سخت محیطی و استانداردهای IP65، برای صنایع غذایی و دارویی بسیار مناسب هستند. پردازنده‌های قدرتمندتر به کار رفته در این تجهیزات، سرعت اجرای صفحات گرافیکی را دو برابر کرده است.",
+      "category": "product",
+      "published_at": "1405/07/30 10:45",
+      "collected_at": "1405/07/30 12:02",
+      "source": "IEB Media",
+      "source_url": "https://www.iebmedia.com/siemens-hmi-comfort-pro-2026",
+      "tags": [
+        "Siemens",
+        "SIMATIC HMI",
+        "Panel",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانجات با راهکار جدید انرژی مانیتورینگ زیمنس",
+      "summary": "بخش اتوماسیون صنعتی زیمنس بسته نرم‌افزاری جدیدی را برای مدیریت و پایش مصرف انرژی بر بستر سیستم‌های کنترل SIMATIC ارائه داد. این راهکار به مدیران کارخانجات دیدگاهی لحظه‌ای از میزان مصرف برق، گاز و آب در بخش‌های مختلف تولید می‌دهد. استفاده از این ابزار به واحدهای صنعتی کمک می‌کند تا اهداف کربن صفر را با هزینه کمتری محقق سازند.",
+      "category": "product",
+      "published_at": "1405/07/30 11:10",
+      "collected_at": "1405/07/30 12:02",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-energy-monitoring-2026",
+      "tags": [
+        "Siemens",
+        "Energy Management",
+        "Sustainability",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه سیستم کنترل توزیع‌شده SIMATIC PCS 7 با قابلیت‌های جدید امنیتی",
+      "summary": "زیمنس نسخه به‌روزرسانی‌شده سیستم کنترل توزیع‌شده SIMATIC PCS 7 را با تمرکز ویژه بر ارتقای امنیت سایبری منتشر کرد. این نسخه از پروتکل‌های رمزنگاری پیشرفته برای ارتباط میان کنترل‌کننده‌ها و ایستگاه‌های مهندسی پشتیبانی می‌کند. هدف از عرضه این پکیج، حفاظت زیرساخت‌های حیاتی صنایع فرآیندی در برابر حملات پیچیده سایبری است.",
+      "category": "product",
+      "published_at": "1405/07/30 11:35",
+      "collected_at": "1405/07/30 12:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-pcs7-update-2026",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS 7",
+        "DCS",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "همکاری زیمنس و دانشگاه صنعتی مونیخ برای پرورش متخصصان اتوماسیون دیجیتال",
+      "summary": "شرکت زیمنس و دانشگاه فنی مونیخ (TUM) تفاهم‌نامه مشترکی برای راه‌اندازی آزمایشگاه تخصصی دوقلوهای دیجیتال امضا کردند. در این مرکز، دانشجویان مهندسی به تجهیزات پیشرفته TIA Portal و ربات‌های صنعتی دسترسی خواهند داشت تا بافناوری‌های روز دنیا آشنا شوند. این اقدام با هدف کاهش شکاف بین دانشگاه و صنعت و تربیت نیروهای متخصص آینده انجام شده است.",
+      "category": "research",
+      "published_at": "1405/07/30 12:00",
+      "collected_at": "1405/07/30 12:02",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/siemens-tum-partnership-2026",
+      "tags": [
+        "Siemens",
+        "Education",
+        "Digital Twin",
+        "TIA Portal"
       ]
     }
   ]
