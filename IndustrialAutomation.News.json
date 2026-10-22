@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1281,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/07/30 09:54",
+  "count": 1291,
+  "provider": "Gemini/gemini-3.8-flash",
+  "updated_at": "1405/07/30 11:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -20406,6 +20406,163 @@
         "AWS",
         "Industrial Data Lake",
         "Cloud Computing"
+      ]
+    },
+    {
+      "id": "ia-20261021-001",
+      "title": "رونمایی زیمنس از ماژول پردازش عصبی SIMATIC S7-1500 TM NPU برای بینایی ماشین در خط تولید",
+      "summary": "شرکت زیمنس ماژول سخت‌افزاری SIMATIC S7-1500 TM NPU را برای پیاده‌سازی مستقیم شبکه‌های عصبی در سطح PLC معرفی کرد. این پردازنده اختصاصی امکان اجرای الگوریتم‌های هوش مصنوعی بینایی ماشین را بدون نیاز به رایانه صنعتی جانبی فراهم می‌کند. این نوآوری زمان تاخیر بازرسی کنترل کیفیت قطعات را به کمتر از ۱۰ میلی‌ثانیه می‌رساند و پایداری فرآیند را به شکل چشمگیری ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/30 08:15",
+      "collected_at": "1405/07/30 11:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-ai-neural-processing-module-launch",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ia-20261021-002",
+      "title": "به‌روزرسانی پلتفرم وب‌محور SIMATIC PCS neo V4.0 با پشتیبانی کامل از معماری MTP",
+      "summary": "زیمنس نسخه جدید سیستم کنترل فرآیند کاملاً تحت وب SIMATIC PCS neo را با تمرکز بر ماژولار بودن خطوط فرآیندی عرضه کرد. این نسخه با استاندارد Module Type Package یا MTP تطابق کامل دارد و زمان اتصال واحدهای شیمیایی جدید را تا ۵۰ درصد کاهش می‌دهد. اپراتورها اکنون می‌توانند از طریق مرورگر ایمن، پیکربندی تجهیزات را به صورت چندکاربره و توزیع‌شده مدیریت کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 08:40",
+      "collected_at": "1405/07/30 11:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/process-automation/article/simatic-pcs-neo-mtp-update",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "DCS",
+        "اتوماسیون فرآیندی"
+      ]
+    },
+    {
+      "id": "ia-20261021-003",
+      "title": "معرفی کنترل‌کننده ایمن CompactLogix 5480 توسط راکول اتوماسیون با قابلیت ادغام ویندوز ۱۰ اینترپرایز",
+      "summary": "راکول اتوماسیون کنترل‌کننده جدید سری CompactLogix 5480 را برای اجرای هم‌زمان منطق کنترلی Logix و برنامه‌های ویندوزی عرضه کرد. این تجهیز با پشتیبانی از استاندارد ایمنی SIL 3 و ادغام پلتفرم Logix با سیستم‌عامل تعبیه‌شده، هزینه سخت‌افزارهای جانبی در کارخانه‌ها را کاهش می‌دهد. کاربرد اصلی این سیستم در تحلیل سریع داده‌های تولید و مانیتورینگ بلادرنگ ابزارها است.",
+      "category": "product",
+      "published_at": "1405/07/30 09:05",
+      "collected_at": "1405/07/30 11:00",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/compactlogix-5480-safety-release.html",
+      "tags": [
+        "Rockwell Automation",
+        "PLC",
+        "ایمنی صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "یکپارچگی پروتکل TSN در خانواده سوئیچ‌های صنعتی SCALANCE X-300 زیمنس برای شبکه اترنت بلادرنگ",
+      "summary": "بخش ارتباطات صنعتی زیمنس از ادغام پروتکل حساس به زمان یا TSN در سوئیچ‌های سری SCALANCE X-300 خبر داد. این به‌روزرسانی تضمین می‌کند ترافیک کنترلی بحرانی PROFINET و داده‌های ویدیویی سنگین بر روی یک بستر فیزیکی بدون افت سرعت مبادله شوند. این سازوکار گامی محوری در همگرایی پایدار شبکه‌های IT و OT در صنایع پیشرفته محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/30 09:25",
+      "collected_at": "1405/07/30 11:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-scalance-tsn-deterministic-networking",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "شبکه صنعتی",
+        "TSN"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "انتشار راهنمای امنیتی آژانس CISA برای پیکربندی امن پروتکل OPC UA در شبکه‌های کنترل صنعتی",
+      "summary": "آژانس امنیت سایبری CISA رهنمود فنی جدیدی را برای اعمال تدابیر دفاعی در معماری‌های مبتنی بر OPC UA منتشر کرد. این سند بر لزوم فعال‌سازی رمزنگاری سرتاسری با استاندارد ECC و ممیزی دوره‌ای گواهی‌های دیجیتال سرورها تاکید دارد. گزارش‌های اخیر نشان داده‌اند پیکربندی‌های پیش‌فرض بدون احراز هویت در محیط‌های صنعتی، بیشترین مسیر رخنه مهاجمان بوده‌اند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 09:45",
+      "collected_at": "1405/07/30 11:00",
+      "source": "CISA Alerts",
+      "source_url": "https://www.cisa.gov/news-events/alerts/secure-opc-ua-deployment-ot-guidelines",
+      "tags": [
+        "امنیت سایبری",
+        "OPC UA",
+        "CISA",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "عرضه درایو یکپارچه SINAMICS S120 با قابلیت بهینه‌سازی خودکار مصرف توان راکتیو در کارخانجات",
+      "summary": "زیمنس نسخه ارتقایافته سیستم درایو چندمحوره SINAMICS S120 را مجهز به الگوریتم مدیریت توان اکتیو و راکتیو به بازار معرفی کرد. این درایوها با بازتولید انرژی ترمز در شبکه داخلی خطوط تولید، بازدهی سیستم را تا ۱۵ درصد افزایش می‌دهند. ادغام بی‌واسطه با پلتفرم نرم‌افزاری Startdrive در TIA Portal روند راه‌اندازی و بهینه‌سازی موتورها را به حداقل زمان رسانده است.",
+      "category": "product",
+      "published_at": "1405/07/30 10:05",
+      "collected_at": "1405/07/30 11:00",
+      "source": "Drives & Controls",
+      "source_url": "https://drivesncontrols.com/news/fullstory.php/aid/sinamics-s120-energy-efficient-drive",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "درایو صنعتی",
+        "بهره‌وری انرژی"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "معرفی پایانه‌های هوشمند ترمینال EtherCAT سری EL3751 توسط بکوف با اندازه‌گیری فوق‌دقیق نوسانات دینامیکی",
+      "summary": "شرکت بکوف ترمینال ورودی آنالوگ پیشرفته EL3751 را با نرخ نمونه‌برداری ۱۰ کیلوهرتز برای سنجش فشار، کشش و ارتعاش رونمایی کرد. این تجهیز با تکنولوژی XFC امکان آنالیز ارتعاشات پیچیده توربین‌ها و پرس‌های هیدرولیک سنگین را بدون تاخیر فراهم می‌کند. سازگاری کامل با نرم‌افزار TwinCAT 3 مهندسان را قادر به پیش‌بینی خستگی مکانیکی قبل از وقوع خرابی فاجعه‌بار می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/30 10:20",
+      "collected_at": "1405/07/30 11:00",
+      "source": "Beckhoff Automation",
+      "source_url": "https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el3xxx-analog-input/el3751.html",
+      "tags": [
+        "Beckhoff",
+        "EtherCAT",
+        "اتوماسیون صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "توسعه کیت نرم‌افزاری Siemens Industrial Edge برای پردازش بی‌درنگ داده‌های صوتی در پایش وضعیت موتورها",
+      "summary": "زیمنس برنامه تحلیلی جدیدی برای پلتفرم Siemens Industrial Edge ارائه کرد که وضعیت یاتاقان‌ها را از طریق آنالیز امواج صوتی پایش می‌کند. این اپلیکیشن با اتصال به میکروفون‌های صنعتی و اجرای مدل‌های یادگیری عمیق، عیوب مکانیکی را پیش از بروز لرزش شدید شناسایی می‌نماید. پردازش تمام داده‌ها در سطح محلی (Edge) مانع از ارسال ترافیک سنگین به بستر ابری می‌شود.",
+      "category": "topic",
+      "published_at": "1405/07/30 10:35",
+      "collected_at": "1405/07/30 11:00",
+      "source": "Smart Industry",
+      "source_url": "https://www.smartindustry.com/edge-computing/article/siemens-industrial-edge-acoustic-anomaly-detection",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "نگهداری پیشگیرانه",
+        "اینترنت اشیاء صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "رونمایی اشنایدر الکتریک از ماژول مدیریت بار هوشمند TeSys Giga برای کنترل پیشرفته موتورهای صنعتی",
+      "summary": "اشنایدر الکتریک از رده جدید کنتاکتورها و استارترهای TeSys Giga با قابلیت عیب‌یابی مداوم پارامترهای الکتریکی رونمایی کرد. این تجهیزات مجهز به کنترل خودکار کویل الکترونیکی هستند و مصرف توان سیم‌پیچ‌ها را تا ۹۰ درصد نسبت به رله‌های سنتی کاهش می‌دهند. انتقال خودکار داده‌های سلامت تجهیز از طریق کدهای QR پویا، زمان تعمیرات در کارخانجات را به شدت کوتاه می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 10:48",
+      "collected_at": "1405/07/30 11:00",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://iaasiaonline.com/schneider-electric-tesys-giga-intelligent-motor-management",
+      "tags": [
+        "Schneider Electric",
+        "کنترل موتور",
+        "بهره‌وری انرژی"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "همکاری استراتژیک زیمنس و بی ام و برای استانداردسازی تولید با پروتکل باز OPC UA Field eXchange",
+      "summary": "گروه خودروسازی بی ام و و شرکت زیمنس پروژه‌ای مشترک برای پیاده‌سازی مشخصه ارتباطی OPC UA FX در خطوط رباتیک جوشکاری آغاز کردند. این همکاری با هدف ارتباط مستقیم کنترلرهای برندهای مختلف بدون نیاز به مبدل‌های نرم‌افزاری گران‌قیمت طراحی شده است. مدیران پروژه اعلام کردند این استاندارد متن‌باز، هزینه یکپارچه‌سازی ایستگاه‌های رباتیک را در خطوط جدید تا ۳۰ درصد کاهش خواهد داد.",
+      "category": "company",
+      "published_at": "1405/07/30 10:55",
+      "collected_at": "1405/07/30 11:00",
+      "source": "Manufacturing Technology Insights",
+      "source_url": "https://www.manufacturingtechnologyinsights.com/news/siemens-bmw-opc-ua-fx-standardization",
+      "tags": [
+        "Siemens",
+        "BMW",
+        "اتوماسیون صنعتی",
+        "OPC UA"
       ]
     }
   ]
