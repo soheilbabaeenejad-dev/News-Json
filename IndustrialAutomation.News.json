@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1320,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/30 15:27",
+  "count": 1330,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/30 16:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21020,6 +21020,166 @@
         "WinCC",
         "SCADA",
         "Big Data"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته پردازش ابری برای SIMATIC S7-1500 توسط زیمنس",
+      "summary": "شرکت زیمنس از ماژول‌های ارتباطی جدید برای سری SIMATIC S7-1500 رونمایی کرد که امکان ارسال مستقیم داده‌های صنعتی به پلتفرم ابری Insights Hub را فراهم می‌کند. این فناوری به مهندسان اجازه می‌دهد تا بدون نیاز به سخت‌افزارهای واسط، شاخص‌های کلیدی عملکرد را پایش کنند. این اقدام گامی مهم در جهت تسریع همگرایی فناوری‌های OT و IT در خطوط تولید مدرن به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/07/30 08:30",
+      "collected_at": "1405/07/30 16:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-cloud-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Insights Hub",
+        "Cloud OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های امنیت سایبری در نرم‌افزار SIMATIC WinCC Unified V19",
+      "summary": "زیمنس بسته به‌روزرسانی امنیتی جدیدی را برای سیستم اسکادا SIMATIC WinCC Unified V19 منتشر کرد که پروتکل‌های رمزنگاری لایه انتقال را تقویت می‌کند. این نسخه جدید با استاندارد IEC 62443 سازگاری کامل داشته و از حملات سایبری به زیرساخت‌های حیاتی جلوگیری می‌کند. نصب این وصله برای تمامی اپراتورهای کنترل صنعتی به منظور حفظ پایداری شبکه الزامی اعلام شده است.",
+      "category": "news",
+      "published_at": "1405/07/30 09:15",
+      "collected_at": "1405/07/30 16:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-wincc-unified-security-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "Cybersecurity",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه استاندارد هوشمندسازی پنوماتیک",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه‌ای را برای یکپارچه‌سازی تجهیزات پنوماتیک با محیط مهندسی TIA Portal به امضا رساندند. این همکاری به سازندگان ماشین‌آلات اجازه می‌دهد تا بلوک‌های برنامه‌نویسی استاندارد را برای کنترل دقیق عملگرها به کار گیرند. هدف از این پروژه کاهش بیست درصدی زمان راه‌اندازی سیستم‌های مکانیکی و پنوماتیکی در کارخانه‌ها است.",
+      "category": "match",
+      "published_at": "1405/07/30 10:00",
+      "collected_at": "1405/07/30 16:01",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-festo-partnership-pneumatics",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه درایوهای پیشرفته SINAMICS G120X با قابلیت تشخیص زودهنگام خطا",
+      "summary": "زیمنس نسل جدید درایوهای فرکانس متغیر SINAMICS G120X را مجهز به الگوریتم‌های هوش مصنوعی داخلی برای پایش وضعیت موتورها معرفی کرد. این درایوها قادرند ناهنجاری‌های مکانیکی و ارتعاشات غیرعادی پمپ‌ها را پیش از بروز توقف ناگهانی شناسایی کنند. این قابلیت به صنایع آب و فاضلاب کمک شایانی در کاهش هزینه‌های تعمیر و نگهداری اضطراری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 10:45",
+      "collected_at": "1405/07/30 16:01",
+      "source": "IEngineering",
+      "source_url": "https://www.iengineering.com/siemens-sinamics-g120x-ai-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش کاربرد ربات‌های صنعتی Yaskawa با کنترل‌کننده‌های سازگار با زیمنس",
+      "summary": "یاسکاوا از ماژول ارتباطی جدیدی پرده برداشت که اتصال بی‌درنگ ربات‌های صنعتی این شرکت را به کنترل‌کننده‌های SIMATIC S7-1500 از طریق پروتکل PROFINET ممکن می‌سازد. این نوآوری پیچیدگی‌های برنامه‌نویسی سلول‌های رباتیک پیچیده را به حداقل می‌رساند و سرعت تبادل داده را بهبود می‌بخشد. این راهکار به‌ویژه در خطوط مونتاژ خودرو کاربرد فراوانی دارد.",
+      "category": "product",
+      "published_at": "1405/07/30 11:30",
+      "collected_at": "1405/07/30 16:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/yaskawa-profinet-siemens-integration",
+      "tags": [
+        "Yaskawa",
+        "Robotics",
+        "PROFINET",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "انتشار گزارش جدید موسسه ARC Advisory درباره پیشتازان بازار سیستم‌های DCS",
+      "summary": "بر اساس تازه ترین گزارش منتشر شده توسط موسسه تحقیقاتی ARC Advisory، پلتفرم SIMATIC PCS 7 و نسخه نوین PCS neo زیمنس همچنان سهم عمده‌ای از بازار جهانی کنترل فرآیند را در اختیار دارند. این گزارش برتری نرم‌افزارهای مهندسی یکپارچه و قابلیت مقیاس‌پذیری بالا را به عنوان عوامل اصلی این موفقیت ذکر می‌کند. رشد فزاینده صنایع شیمیایی و داروسازی بیشترین تقاضا را برای این سیستم‌ها ایجاد کرده است.",
+      "category": "research",
+      "published_at": "1405/07/30 12:15",
+      "collected_at": "1405/07/30 16:01",
+      "source": "ARC Advisory Group",
+      "source_url": "https://www.arcweb.com/market-research/dcs-global-market-share-siemens",
+      "tags": [
+        "DCS",
+        "SIMATIC PCS 7",
+        "Market Research",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "رونمایی از نسل جدید پنل‌های اپراتوری SIMATIC HMI Comfort Outdoor",
+      "summary": "زیمنس سری جدید پنل‌های اپراتوری مقاوم خود موسوم به SIMATIC HMI Comfort Outdoor را با قابلیت کار در شرایط سخت محیطی و دماهای بالا معرفی کرد. این نمایشگرها دارای استانداردهای حفاظتی بالا در برابر تابش نور خورشید و گرد و غبار شدید هستند. این تجهیزات برای استفاده در صنایع نفت، گاز و پتروشیمی در فضای باز طراحی شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/30 13:00",
+      "collected_at": "1405/07/30 16:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-simatic-hmi-comfort-outdoor-panels",
+      "tags": [
+        "Siemens",
+        "SIMATIC HMI",
+        "Outdoor Panels",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه زیرساخت‌های اینترنت اشیاء صنعتی با پلتفرم Siemens Industrial Edge V3.5",
+      "summary": "نسخه ۳.۵ پلتفرم Siemens Industrial Edge با امکانات مدیریت متمرکز کانتینرها در مقیاس وسیع عرضه شد. این نسخه ابزارهای توسعه‌دهندگان را بهبود بخشیده و امنیت اجرای اپلیکیشن‌های لبه را به طور چشمگیری افزایش می‌دهد. این پلتفرم به کارخانه‌ها اجازه می‌دهد پردازش داده‌های ماشین‌آلات را به صورت محلی و با تاخیر صفر انجام دهند.",
+      "category": "product",
+      "published_at": "1405/07/30 13:45",
+      "collected_at": "1405/07/30 16:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-v3-5-release",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "IIoT",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای پرورش متخصصان هوش مصنوعی صنعتی",
+      "summary": "زیمنس و دانشگاه فنی مونیخ برنامه‌ای مشترک را برای راه‌اندازی آزمایشگاه تخصصی هوش مصنوعی کاربردی در اتوماسیون صنعتی آغاز کردند. این پروژه با هدف آموزش نسل جدید مهندسان نرم‌افزار OT و توسعه الگوریتم‌های یادگیری ماشین برای ربات‌ها پایه‌گذاری شده است. دانشجویان در این مرکز به آخرین ابزارهای توسعه زیمنس از جمله Industrial Copilot دسترسی خواهند داشت.",
+      "category": "society",
+      "published_at": "1405/07/30 14:30",
+      "collected_at": "1405/07/30 16:01",
+      "source": "University World News",
+      "source_url": "https://www.universityworldnews.com/siemens-tum-ai-industrial-lab",
+      "tags": [
+        "Siemens",
+        "Education",
+        "Artificial Intelligence",
+        "Industrial Copilot"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "ارائه راهکار جامع مدیریت انرژی برای کارخانه‌ها مبتنی بر پلتفرم Siemens Xcelerator",
+      "summary": "بخش صنایع دیجیتال زیمنس از پکیج نرم‌افزاری جدیدی برای بهینه‌سازی مصرف انرژی در کارخانه‌های تولیدی رونمایی کرد. این ابزار با اتصال به کنتورهای هوشمند و درایوها، پسماند انرژی را شناسایی و الگوهای مصرف را اصلاح می‌کند. استفاده از این راهکار می‌تواند تا پانزده درصد هزینه‌های انرژی واحدهای صنعتی بزرگ را کاهش دهد.",
+      "category": "product",
+      "published_at": "1405/07/30 15:15",
+      "collected_at": "1405/07/30 16:01",
+      "source": "Energy Manager Today",
+      "source_url": "https://www.energymanagertoday.com/siemens-xcelerator-energy-management-solution",
+      "tags": [
+        "Siemens Xcelerator",
+        "Energy Management",
+        "Sustainability",
+        "Industry"
       ]
     }
   ]
