@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1349,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/07/30 20:25",
+  "count": 1358,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/30 21:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21466,6 +21466,150 @@
         "SINAMICS",
         "Motion Control",
         "Semiconductors"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم Insights Hub زیمنس",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم ابری Insights Hub اضافه کرده است که امکان تحلیل پیش‌دستانه داده‌های سنسورها را با استفاده از مدل‌های هوش مصنوعی فراهم می‌آورد. این به‌روزرسانی به مدیران کارخانه‌ها کمک می‌کند تا پیش از وقوع خرابی‌های غیرمنتظره، اقدامات اصلاحی لازم را انجام دهند. این ابزار با کاهش زمان توقف خط تولید، بهره‌وری کلی تجهیزات را به شکل قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/30 09:30",
+      "collected_at": "1405/07/30 21:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/iiot/news/21987654",
+      "tags": [
+        "Insights Hub",
+        "IIoT",
+        "AI",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "رونمایی از نسل جدید درایوهای فرکانس متغیر SINAMICS G120X برای پمپاژ صنعتی",
+      "summary": "زیمنس نسل جدید درایوهای SINAMICS G120X را با تمرکز بر بهینه‌سازی مصرف انرژی در سیستم‌های پمپاژ و تهویه مطبوع معرفی کرد. این درایوها دارای ویژگی‌های پیشرفته‌ای برای مدیریت هوشمند گشتاور هستند که باعث کاهش استهلاک مکانیکی موتورها می‌شود. طراحی جمع‌وجور و نصب آسان این تجهیزات در تابلوهای برق، هزینه‌های نصب و راه‌اندازی را برای صنایع بزرگ کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/30 10:45",
+      "collected_at": "1405/07/30 21:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-launches-new-sinamics-drives/",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری استراتژیک زیمنس و انویدیا برای شبیه‌سازی فیزیک‌محور در کارخانه‌ها",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه دوقلوهای دیجیتال با دقت فیزیکی بالا گسترش داده‌اند که از پلتفرم Omniverse بهره می‌برد. این همکاری به مهندسان اجازه می‌دهد تا فرآیندهای پیچیده تولید را قبل از پیاده‌سازی فیزیکی در محیط مجازی شبیه‌سازی کنند. این رویکرد باعث کاهش خطاهای طراحی و تسریع در زمان عرضه محصولات جدید به بازار می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/30 11:20",
+      "collected_at": "1405/07/30 21:03",
+      "source": "IndustryWeek",
+      "source_url": "https://www.industryweek.com/technology-and-iiot/article/21254321",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Digital Twin",
+        "Omniverse"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "انتشار وصله امنیتی جدید برای سیستم‌های کنترل توزیع‌شده PCS 7 زیمنس",
+      "summary": "تیم امنیت سایبری زیمنس یک وصله امنیتی حیاتی برای سیستم‌های کنترل توزیع‌شده PCS 7 منتشر کرده است تا آسیب‌پذیری‌های شناسایی شده در پروتکل‌های ارتباطی را رفع کند. تمامی اپراتورهای صنعتی که از نسخه‌های قدیمی این سیستم استفاده می‌کنند، ملزم به به‌روزرسانی فوری هستند. این اقدام بخشی از تعهد زیمنس به استانداردهای امنیتی IEC 62443 برای حفاظت از زیرساخت‌های حیاتی است.",
+      "category": "regulation",
+      "published_at": "1405/07/30 12:05",
+      "collected_at": "1405/07/30 21:03",
+      "source": "CISA Alerts",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01",
+      "tags": [
+        "Cybersecurity",
+        "PCS 7",
+        "Siemens",
+        "ICS"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی سوئیچ‌های صنعتی لایه ۳ سری SCALANCE XC-200",
+      "summary": "زیمنس سوئیچ‌های جدید سری SCALANCE XC-200 را برای شبکه‌های صنعتی با قابلیت اطمینان بالا معرفی کرد که از پروتکل‌های پیشرفته مدیریت شبکه پشتیبانی می‌کنند. این سوئیچ‌ها برای محیط‌های سخت صنعتی طراحی شده‌اند و مقاومت بالایی در برابر نویزهای الکترومغناطیسی دارند. این تجهیزات زیرساخت لازم برای پیاده‌سازی شبکه‌های TSN در کارخانه‌های هوشمند را فراهم می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 13:40",
+      "collected_at": "1405/07/30 21:03",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iebmedia.com/siemens-scalance-xc200-launch",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Networking",
+        "TSN"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه ابزارهای مدیریت انرژی در پلتفرم Siemens Xcelerator",
+      "summary": "زیمنس قابلیت‌های مدیریت انرژی را در پلتفرم Xcelerator تقویت کرده است تا به صنایع کمک کند ردپای کربن خود را به دقت اندازه‌گیری و کاهش دهند. این ابزارها با تحلیل داده‌های مصرف انرژی در سطح ماشین‌آلات، راهکارهای بهینه‌سازی خودکار ارائه می‌دهند. این توسعه به شرکت‌ها کمک می‌کند تا به اهداف پایداری محیط‌زیستی و استانداردهای ISO 50001 دست یابند.",
+      "category": "industry",
+      "published_at": "1405/07/30 14:55",
+      "collected_at": "1405/07/30 21:03",
+      "source": "Energy Manager Today",
+      "source_url": "https://www.energymanagertoday.com/siemens-xcelerator-energy-management",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Sustainability",
+        "Energy"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "رونمایی از ربات‌های همکار جدید سری UR20 توسط یونیورسال رباتس",
+      "summary": "شرکت یونیورسال رباتس از نسل جدید ربات‌های همکار خود با نام UR20 رونمایی کرد که ظرفیت حمل بار بیشتری را برای کاربردهای پالت‌سازی و جوشکاری فراهم می‌کند. این ربات‌ها با سیستم‌های کنترل صنعتی زیمنس از طریق پروتکل‌های استاندارد مانند PROFINET سازگاری کامل دارند. این انعطاف‌پذیری باعث می‌شود تا ادغام آن‌ها در خطوط تولید موجود بسیار سریع و ساده انجام شود.",
+      "category": "product",
+      "published_at": "1405/07/30 16:10",
+      "collected_at": "1405/07/30 21:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/news/2026/10/07/universal-robots-ur20-launch",
+      "tags": [
+        "Robotics",
+        "Cobot",
+        "Universal Robots",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "ارتقای سیستم‌های کنترل حرکت در سری SIMOTION زیمنس",
+      "summary": "زیمنس با انتشار به‌روزرسانی جدید برای کنترل‌کننده‌های حرکتی SIMOTION، دقت و سرعت پاسخ‌دهی سیستم‌های سروو را بهبود بخشیده است. این ارتقا به ویژه برای ماشین‌آلات بسته‌بندی و چاپ که نیاز به هماهنگی دقیق چندین محور حرکتی دارند، بسیار حیاتی است. این بهبودها از طریق بهینه‌سازی الگوریتم‌های کنترل در سطح نرم‌افزار و سخت‌افزار حاصل شده است.",
+      "category": "product",
+      "published_at": "1405/07/30 18:30",
+      "collected_at": "1405/07/30 21:03",
+      "source": "Motion Control Tips",
+      "source_url": "https://www.motioncontroltips.com/siemens-simotion-update-2026",
+      "tags": [
+        "Siemens",
+        "Motion Control",
+        "SIMOTION",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش همکاری زیمنس و آمازون در حوزه محاسبات لبه صنعتی",
+      "summary": "زیمنس و آمازون وب سرویس (AWS) همکاری خود را برای یکپارچه‌سازی سرویس‌های ابری با پلتفرم Siemens Industrial Edge گسترش دادند. این همکاری به کاربران اجازه می‌دهد تا مدل‌های یادگیری ماشین را به صورت محلی در لبه شبکه اجرا کرده و نتایج را برای تحلیل‌های کلان به ابر ارسال کنند. این معماری ترکیبی، امنیت داده‌ها را حفظ کرده و تأخیر در پردازش‌های حساس را به حداقل می‌رساند.",
+      "category": "industry",
+      "published_at": "1405/07/30 20:15",
+      "collected_at": "1405/07/30 21:03",
+      "source": "Cloud Computing News",
+      "source_url": "https://www.cloudcomputing-news.net/news/2026/10/07/siemens-aws-industrial-edge-partnership",
+      "tags": [
+        "Siemens",
+        "AWS",
+        "Industrial Edge",
+        "Cloud"
       ]
     }
   ]
