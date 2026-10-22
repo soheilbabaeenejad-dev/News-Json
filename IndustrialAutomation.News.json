@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1291,
-  "provider": "Gemini/gemini-3.8-flash",
-  "updated_at": "1405/07/30 11:00",
+  "count": 1301,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/30 11:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -20563,6 +20563,166 @@
         "BMW",
         "اتوماسیون صنعتی",
         "OPC UA"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی جدید برای SIMATIC ET 200MP با پشتیبانی از پروتکل TSN",
+      "summary": "شرکت زیمنس ماژول‌های ارتباطی پیشرفته جدیدی را برای خانواده SIMATIC ET 200MP معرفی کرد که به‌طور کامل از پروتکل TSN پشتیبانی می‌کنند. این تجهیزات جدید امکان تبادل بلادرنگ و قطعی داده‌ها را در شبکه‌های پیچیده صنعتی فراهم ساخته و بهینه‌سازی خطوط تولید را سرعت می‌بخشد. مهندسان می‌توانند این ماژول‌ها را به‌سادگی از طریق نرم‌افزار TIA Portal پیکربندی و راه‌اندازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 08:15",
+      "collected_at": "1405/07/30 11:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-et200mp-tsn",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TSN",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در نسخه جدید پلتفرم Insights Hub زیمنس",
+      "summary": "زیمنس نسخه به‌روزرسانی‌شده پلتفرم ابری Insights Hub را با ابزارهای پیشرفته تحلیل داده‌های صنعتی منتشر کرد. این نسخه جدید به مدیران کارخانه‌ها اجازه می‌دهد تا وضعیت سلامت تجهیزات OT را با دقت بالاتری پایش کنند. با اتکا به الگوریتم‌های یادگیری ماشین، این سیستم پیش‌بینی خرابی قطعات را به شکل قابل توجهی بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/07/30 08:45",
+      "collected_at": "1405/07/30 11:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-insights-hub-update",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای هوشمندسازی پنوماتیک در اتوماسیون کارخانه‌ها",
+      "summary": "زیمنس و شرکت Festo طی یک تفاهم‌نامه مشترک، راهکارهای نوینی را برای یکپارچه‌سازی سیستم‌های پنوماتیک با کنترل‌کننده‌های SIMATIC توسعه دادند. این همکاری به کاهش مصرف انرژی در تجهیزات کارگاهی و افزایش بهره‌وری خطوط مونتاژ منجر می‌شود. اطلاعات تشخیصی این قطعات به‌طور مستقیم در محیط مهندسی TIA Portal قابل دسترسی است.",
+      "category": "company",
+      "published_at": "1405/07/30 09:10",
+      "collected_at": "1405/07/30 11:02",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه ماژول‌های امنیتی سخت‌افزاری جدید برای حفاظت از شبکه‌های اتوماسیون صنعتی",
+      "summary": "شرکت فونیکس کنتاکت ماژول‌های امنیتی سایبری جدیدی را برای حفاظت از زیرساخت‌های حیاتی و شبکه‌های OT روانه بازار کرد. این تجهیزات با ایجاد دیوارهای آتش تخصصی، مانع از دسترسی‌های غیرمجاز به کنترل‌کننده‌ها و تجهیزات لایه زمین می‌شوند. استفاده از این راهکارها الزامات استانداردهای بین‌المللی IEC 62443 را در خطوط تولید پیاده‌سازی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 09:30",
+      "collected_at": "1405/07/30 11:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/phoenix-contact-security-modules",
+      "tags": [
+        "Phoenix Contact",
+        "Cybersecurity",
+        "OT",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای قابلیت‌های شبیه‌سازی سه بعدی در نرم‌افزار SIMIT V11.2 زیمنس",
+      "summary": "نسخه جدید نرم‌افزار شبیه‌سازی فرآیند SIMIT V11.2 توسط زیمنس منتشر شد تا اعتبارسنچی سیستم‌های کنترل را پیش از راه‌اندازی واقعی ساده‌تر کند. این ابزار با مدل‌سازی دقیق رفتار فیزیکی تجهیزات، خطاهای احتمالی طراحی را به حداقل می‌رساند. مهندسان می‌توانند کدهای برنامه‌نویسی PLC را در محیطی کاملاً مجازی و ایمن تست کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 09:55",
+      "collected_at": "1405/07/30 11:02",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-simit-v11-2",
+      "tags": [
+        "Siemens",
+        "SIMIT",
+        "Simulation",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه قابلیت‌های هوش مصنوعی در پلتفرم FactoryTalk Analytics راکول اتوماسیون",
+      "summary": "راکول اتوماسیون قابلیت‌های جدید مبتنی بر هوش مصنوعی را به پلتفرم FactoryTalk Analytics اضافه کرد تا تصمیم‌گیری در کف کارخانه تسهیل شود. این ماژول‌های هوشمند الگوهای پنهان در داده‌های تولید را شناسایی کرده و هشدار مشکوک صادر می‌کنند. این امر از توقف‌های برنامه‌ریزی‌نشده ماشین‌آلات صنعتی جلوگیری چشمگیری به عمل می‌آورد.",
+      "category": "product",
+      "published_at": "1405/07/30 10:12",
+      "collected_at": "1405/07/30 11:02",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/rockwell-factorytalk-analytics",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "AI",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "انتشار به‌روزرسانی امنیتی بحرانی برای سیستم‌های کنترل توزیع‌شده DeltaV امرسون",
+      "summary": "شرکت امرسون اطلاعیه امنیتی مهمی همراه با وصله‌های اصلاحی برای نرم‌افزار سیستم کنترل DeltaV منتشر کرد. این به‌روزرسانی چندین آسیب‌پذیری سطح بالا را که ممکن بود مورد سوءاستفاده نفوذگران قرار گیرد برطرف می‌سازد. به تمامی اپراتورهای صنایع فرآیندی توصیه شده است تا در اسرع وقت سیستم‌های خود را ارتقا دهند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 10:25",
+      "collected_at": "1405/07/30 11:02",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/emerson-deltav-security-update",
+      "tags": [
+        "Emerson",
+        "DeltaV",
+        "Cybersecurity",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی نسل جدید اینورترهای صنعتی SINAMICS G120X با بهره‌وری انرژی بالا",
+      "summary": "زیمنس سبد محصولات درایوهای خود را با معرفی سری جدید اینورترهای SINAMICS G120X برای کاربردهای پمپ و فن گسترش داد. این تجهیزات با کاهش تلفات الکتریکی، سهم بسزایی در کاهش مصرف انرژی کارخانجات بزرگ صنعتی دارند. نصب و راه‌اندازی سریع این درایوها از طریق پنل اپراتوری هوشمند به راحتی انجام می‌گیرد.",
+      "category": "product",
+      "published_at": "1405/07/30 10:40",
+      "collected_at": "1405/07/30 11:02",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-g120x",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Inverter",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "رونمایی از ربات‌های صنعتی جدید ABB با گواهی‌نامه حفاظت در برابر انفجار",
+      "summary": "شرکت ABB ربات‌های تخصصی جدیدی را معرفی کرد که برای کار در محیط‌های مستعد خطر و صنایع نفت و گاز طراحی شده‌اند. بدنه‌ی این ربات‌ها به‌گونه ای ساخته شده است که از جرقه‌زدن در محیط‌های حاوی گازهای قابل اشتعال جلوگیری می‌کند. این تجهیزات می‌توانند فرآیندهای سنگین رنگ‌آمیزی و انتقال مواد را به صورت کاملاً خودکار انجام دهند.",
+      "category": "product",
+      "published_at": "1405/07/30 10:50",
+      "collected_at": "1405/07/30 11:02",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/abb-explosion-proof-robots",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Ex-proof",
+        "Factory Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش قابلیت‌های ارتباطی در کنترل‌کننده‌های منطقی قابل برنامه‌ریزی SIMATIC S7-1500",
+      "summary": "زیمنس با ارائه سفت‌افزار جدید برای کنترل‌کننده‌های SIMATIC S7-1500، پشتیبانی از پروتکل‌های ارتباطی پیشرفته را بهبود بخشید. این ارتقا امکان اتصال امن‌تر به سیستم‌های سطح بالای MES و ERP را بدون نیاز به سخت‌افزار واسطه فراهم می‌کند. مهندسان اتوماسیون صنعتی می‌توانند از این قابلیت برای تبادل بهینه‌تر داده‌ها بهره ببرند.",
+      "category": "product",
+      "published_at": "1405/07/30 11:00",
+      "collected_at": "1405/07/30 11:02",
+      "source": "Control Engineering Europe",
+      "source_url": "https://www.controleng.com/siemens-s7-1500-firmware",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "S7-1500",
+        "PLC"
       ]
     }
   ]
