@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1301,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/07/30 11:56",
+  "count": 1310,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/30 13:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -20716,6 +20716,150 @@
         "Industrial Edge",
         "AI Inspection",
         "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از ماژول امنیتی جدید SIMATIC S7-1500 CP 1543-1 با قابلیت رمزنگاری کوانتومی",
+      "summary": "شرکت زیمنس از ماژول ارتباطی جدید خود برای سری SIMATIC S7-1500 رونمایی کرد که از الگوریتم‌های رمزنگاری مقاوم در برابر کامپیوترهای کوانتومی پشتیبانی می‌کند. این ماژول با کد CP 1543-1 Quantum Secure به منظور حفاظت از زیرساخت‌های حیاتی در برابر تهدیدات سایبری آینده طراحی شده است. این محصول همچنین قابلیت یکپارچه‌سازی با نرم‌افزار TIA Portal را به صورت کامل داراست.",
+      "category": "product",
+      "published_at": "1405/07/30 08:30",
+      "collected_at": "1405/07/30 13:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-s7-1500-quantum-secure",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی مولد در نرم‌افزار مانیتورینگ WinCC Unified V19",
+      "summary": "نسخه جدید سیستم اسکادا و مانیتورینگ زیمنس، WinCC Unified V19، اکنون به ابزار پیشرفته تولید کدهای اسکریپت‌نویسی بر پایه هوش مصنوعی مجهز شده است. این قابلیت به اپراتورها اجازه می‌دهد تا صفحات گرافیکی و آلارم‌های سفارشی را با دستورات متنی ساده ایجاد کنند. هدف از این به‌روزرسانی، کاهش زمان مهندسی پروژه تا چهل درصد و افزایش بهره‌وری تیم‌های نگهداری است.",
+      "category": "product",
+      "published_at": "1405/07/30 09:15",
+      "collected_at": "1405/07/30 13:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-wincc-unified-v19-ai",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "SCADA",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای هوشمندسازی پنل‌های پنوماتیک در خطوط تولید",
+      "summary": "زیمنس و فستو طی یک توافق‌نامه مشترک، نسل جدیدی از اجزای پنوماتیک متصل به سیستم‌های کنترل SIMATIC را معرفی کردند که داده‌های تشخیصی را مستقیماً به لبه شبکه ارسال می‌کنند. این تجهیزات مجهز به پروتکل OPC UA هستند و به مهندسان اجازه می‌دهند تا نشت هوا و خرابی قطعات را پیش از وقوع شناسایی کنند. این پروژه در کارخانه پایلوت دو شرکت در آلمان با موفقیت آزمایش شده است.",
+      "category": "industry",
+      "published_at": "1405/07/30 09:50",
+      "collected_at": "1405/07/30 13:00",
+      "source": "IEngineering",
+      "source_url": "https://www.iengineering.com/siemens-festo-pneumatics-automation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Industrial Edge",
+        "OPC UA"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای پلتفرم ابری Siemens Xcelerator با ابزارهای تحلیل پیشرفته چرخه عمر محصول",
+      "summary": "زیمنس قابلیت‌های جدیدی را به اکوسیستم دیجیتال Xcelerator اضافه کرده که امکان تحلیل دقیق ردپای کربن و مصرف منابع را در تمام مراحل تولید فراهم می‌کند. این ابزار نرم‌افزاری به مدیران کارخانه‌ها کمک می‌کند تا استانداردهای سخت‌گیرانه محیط زیستی اتحادیه اروپا را بدون افت سرعت تولید رعایت کنند. این ماژول جدید هم‌اکنون برای تمامی مشترکان سازمانی این پلتفرم قابل دسترسی است.",
+      "category": "news",
+      "published_at": "1405/07/30 10:45",
+      "collected_at": "1405/07/30 13:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-xcelerator-lifecycle-update",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "عرضه ماژول‌های ورودی/خروجی ایمن جدید ET 200MP با پشتیبانی از پروتکل PROFIsafe",
+      "summary": "خانواده تجهیزات توزیع‌شده زیمنس با معرفی ماژول‌های ایمنی جدید برای رک‌های ET 200MP گسترش یافت. این ماژول‌ها دارای گواهینامه SIL3 بوده و برای کاربردهای اضطراری در خطوط پرس‌کاری و رباتیک سنگین طراحی شده‌اند. زمان پاسخگویی این تجهیزات به زیر ۵ میلی‌ثانیه کاهش یافته که ایمنی اپراتورها را به شکل چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/30 11:10",
+      "collected_at": "1405/07/30 13:00",
+      "source": "Industrial Ethernet",
+      "source_url": "https://www.industrial-ethernet.com/siemens-et200mp-profisafe",
+      "tags": [
+        "Siemens",
+        "ET 200MP",
+        "Safety",
+        "PROFIsafe"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه مراکز داده لبه صنعتی توسط زیمنس برای پردازش داده‌های حجیم بینایی ماشین",
+      "summary": "زیمنس از سرورهای لبه جدید خود تحت عنوان Industrial Edge Microbox نام برد که به طور خاص برای اجرای الگوریتم‌های بینایی ماشین و کنترل کیفیت در خطوط پرسرعت بسته‌بندی طراحی شده‌اند. این سخت‌افزار مقاوم در برابر دما و ارتعاشات صنعتی شدید بوده و با سیستم‌عامل اختصاصی زیمنس عرضه می‌شود. این راهکار نیاز به ارسال حجم انبوه داده‌ها به سرورهای ابری مرکزی را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/30 11:35",
+      "collected_at": "1405/07/30 13:00",
+      "source": "Machine Design",
+      "source_url": "https://www.machinedesign.com/siemens-industrial-edge-microbox",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Machine Vision",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "همکاری زیمنس و بوش برای هوشمندسازی زنجیره تامین قطعات خودرو با سیستم‌های اتوماسیون",
+      "summary": "شرکت‌های زیمنس و بوش توافق‌نامه‌ای را برای استانداردسازی تبادل داده در زنجیره تامین قطعات خودرو امضا کردند. این پروژه از معماری مشترک مبتنی بر اتصالات OPC UA و نرم‌افزارهای مدیریت تولید زیمنس استفاده می‌کند تا شفافیت کامل در انبارداری و مونتاژ ایجاد شود. انتظار می‌رود این طرح پایلوت هزینه‌های لجستیک داخلی را تا پانزده درصد کاهش دهد.",
+      "category": "industry",
+      "published_at": "1405/07/30 12:00",
+      "collected_at": "1405/07/30 13:00",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/siemens-bosch-supply-chain-automation",
+      "tags": [
+        "Siemens",
+        "Bosch",
+        "Supply Chain",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "انتشار نسخه ارتقایافته نرم‌افزار SIMIT V11.1 برای شبیه‌سازی فرآیندهای صنعتی پیچیده",
+      "summary": "زیمنس نسخه جدید نرم‌افزار SIMIT را برای شبیه‌سازی دقیق رفتار فرآیندهای شیمیایی و نیروگاهی منتشر کرد. این نسخه امکان اتصال همزمان به سیستم‌های کنترل واقعی و مجازی (PLCSim Advanced) را با سرعت بالاتر فراهم کرده است. مهندسان می‌توانند پیش از راه‌اندازی نهایی کارخانه، تمامی سناریوهای خطا و راه‌اندازی اضطراری را در محیطی امن آزمایش کنند.",
+      "category": "news",
+      "published_at": "1405/07/30 12:25",
+      "collected_at": "1405/07/30 13:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-simit-v11-1-release",
+      "tags": [
+        "Siemens",
+        "SIMIT",
+        "Simulation",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی سوئیچ‌های مدیریت‌شده جدید RUGGEDCOM RSG920V برای زیرساخت‌های انرژی و پست‌های برق",
+      "summary": "خط تولید تجهیزات شبکه صنعتی زیمنس با معرفی سوئیچ‌های رگدکام مدل RSG920V برای محیط‌های خشن و پست‌های انتقال نیروی الکتریکی تقویت شد. این تجهیزات دارای استانداردهای سخت‌گیرانه IEC 61850-3 بوده و در برابر میدان‌های الکترومغناطیسی شدید مقاوم هستند. این سوئیچ‌ها پایداری ارتباطی شبکه را در شبکه‌های توزیع برق هوشمند تضمین می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 12:50",
+      "collected_at": "1405/07/30 13:00",
+      "source": "Power Magazine",
+      "source_url": "https://www.powermag.com/siemens-ruggedcom-rsg920v-switches",
+      "tags": [
+        "Siemens",
+        "RUGGEDCOM",
+        "Networking",
+        "Substation Automation"
       ]
     }
   ]
