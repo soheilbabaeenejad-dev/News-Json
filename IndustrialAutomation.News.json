@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1310,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/07/30 14:09",
+  "count": 1320,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/30 15:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -20860,6 +20860,166 @@
         "TIA Portal",
         "AI",
         "PLC Programming"
+      ]
+    },
+    {
+      "id": "ia-20261021-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی جدید برای SIMATIC S7-1500 جهت پشتیبانی از TSN",
+      "summary": "شرکت زیمنس ماژول‌های ارتباطی پیشرفته جدیدی را برای کنترل‌کننده‌های SIMATIC S7-1500 معرفی کرد که از فناوری شبکه زمان‌بندی‌شده (TSN) پشتیبانی کامل می‌کنند. این توسعه به مهندسان اتوماسیون اجازه می‌دهد تا تبادل داده‌ها را با قطعیت بالاتر و تاخیر کمتر در شبکه‌های صنعتی بلادرنگ پیاده‌سازی کنند. این ماژول‌ها گامی مهم در جهت همگرایی بیشتر فناوری‌های IT و OT در کارخانه‌های هوشمند به شمار می‌روند.",
+      "category": "product",
+      "published_at": "1405/07/21 08:30",
+      "collected_at": "1405/07/30 15:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/siemens-simatic-s7-1500-tsn-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261021-002",
+      "title": "به‌روزرسانی بزرگ پلتفرم Siemens Industrial Edge با ابزارهای تحلیل پیشرفته",
+      "summary": "زیمنس نسخه جدید پلتفرم Siemens Industrial Edge را با تمرکز بر پردازش داده‌های حجیم در لبه شبکه عرضه کرد. این آپدیت شامل ابزارهای تحلیلی جدیدی است که به اپراتورها کمک می‌کند وضعیت سلامت ماشین‌آلات را با دقت بالاتری مانیتور کنند. این راهکار بستر مناسبی برای اجرای الگوریتم‌های هوش مصنوعی محلی بدون وابستگی به ابر فراهم می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/21 09:45",
+      "collected_at": "1405/07/30 15:01",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/siemens-industrial-edge-update",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "Edge Computing",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261021-003",
+      "title": "همکاری استراتژیک زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط تولید",
+      "summary": "زیمنس و شرکت فستو در پروژه‌ای مشترک برای ادغام تجهیزات پنوماتیکی هوشمند با سیستم‌های کنترل SIMATIC به توافق رسیدند. این همکاری امکان مانیتورینگ مصرف هوای فشرده و عیب‌یابی زودهنگام نشت را مستقیماً از طریق محیط مهندسی TIA Portal فراهم می‌سازد. هدف از این طرح کاهش چشمگیر مصرف انرژی و افزایش بهره‌وری در کارخانه‌های مدرن است.",
+      "category": "company",
+      "published_at": "1405/07/21 11:15",
+      "collected_at": "1405/07/30 15:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/siemens-festo-pneumatic-integration",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261021-004",
+      "title": "عرضه نسخه جدید نرم‌افزار WinCC Unified V19 با امکانات تجسم‌سازی پیشرفته",
+      "summary": "زیمنس نسخه V19 از نرم‌افزار مانیتورینگ و اسکادا SIMATIC WinCC Unified را با قابلیت‌های گرافیکی و وب‌بیس توسعه‌یافته منتشر کرد. این نسخه ابزارهای سفارشی‌سازی بیشتری را برای ایجاد داشبوردهای تعاملی روی انواع نمایشگرها و تجهیزات موبایل در اختیار مهندسان قرار می‌دهد. امنیت سایبری این پلتفرم نیز برای تطابق با استانداردهای سخت‌گیرانه جدید تقویت شده است.",
+      "category": "product",
+      "published_at": "1405/07/21 12:30",
+      "collected_at": "1405/07/30 15:01",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/en-us/articles/siemens-wincc-unified-v19-release",
+      "tags": [
+        "WinCC Unified",
+        "SCADA",
+        "HMI",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "گسترش قابلیت‌های سیستم CNC زیمنس برای ماشین‌کاری دقیق قطعات هوافضا",
+      "summary": "شرکت زیمنس از توسعه جدید قابلیت‌های کنترل‌کننده‌های SINUMERIK برای صنایع هوافضا و ساخت قطعات پیچیده خبر داد. این سیستم جدید با بهینه‌سازی مسیرهای حرکت ابزار و کاهش زمان چرخش ماشین، دقت تولید را به شکل قابل توجهی افزایش می‌دهد. این راهکار به سازندگان کمک می‌کند تا ضایعات مواد اولیه را در ماشین‌کاری‌های سنگین کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/07/21 13:20",
+      "collected_at": "1405/07/30 15:01",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/story/2026/10/siemens-sinumerik-aerospace",
+      "tags": [
+        "SINUMERIK",
+        "CNC",
+        "Siemens",
+        "Aerospace"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "انتشار گزارش امنیت سایبری صنعتی زیمنس برای سال 1405",
+      "summary": "واحد امنیت سایبری زیمنس گزارش جامع سالانه خود درباره تهدیدات نوظهور علیه زیرساخت‌های حیاتی و شبکه‌های OT را منتشر کرد. این گزارش بر لزوم پیاده‌سازی معماری امنیت صفر در تجهیزات PLC و سیستم‌های DCS تاکید دارد. کارشناسان زیمنس راهکارهای عملی برای مقابله با حملات پیچیده باج‌افزاری به خطوط تولید ارائه داده‌اند.",
+      "category": "regulation",
+      "published_at": "1405/07/21 14:00",
+      "collected_at": "1405/07/30 15:01",
+      "source": "Industrial Cyber Security",
+      "source_url": "https://www.industrialcyber.co/siemens-cybersecurity-report-2026",
+      "tags": [
+        "Cybersecurity",
+        "OT Security",
+        "Siemens",
+        "CISA"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "توسعه مراکز آموزشی اتوماسیون صنعتی زیمنس در دانشگاه‌های صنعتی اروپا",
+      "summary": "زیمنس برنامه‌ای جدید برای تجهیز آزمایشگاه‌های دانشگاهی به آخرین نسل تجهیزات SIMATIC و ابزارهای TIA Portal آغاز کرد. هدف از این سرمایه‌گذاری آماده‌سازی دانشجویان مهندسی برای ورود به بازار کار با تسلط بر فناوری‌های مدرن کارخانه دیجیتال است. این مراکز به عنوان هاب‌های نوآوری محلی برای توسعه پروژه‌های کوچک صنعتی نیز عمل خواهند کرد.",
+      "category": "society",
+      "published_at": "1405/07/21 14:30",
+      "collected_at": "1405/07/30 15:01",
+      "source": "EdTech Automation",
+      "source_url": "https://www.edtechautomation.com/siemens-university-labs-expansion",
+      "tags": [
+        "Education",
+        "Siemens",
+        "TIA Portal",
+        "Workforce Development"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "معرفی نسل جدید اینورترهای خورشیدی تجاری با فناوری مدیریت انرژی زیمنس",
+      "summary": "بخش انرژی زیمنس از سری جدید اینورترهای صنعتی با قابلیت اتصال هوشمند به شبکه‌های توزیع برق محلی رونمایی کرد. این تجهیزات با بهره‌گیری از الگوریتم‌های پیشرفته تبدیل توان، راندمان سیستم‌های خورشیدی مقیاس بزرگ را افزایش می‌دهند. این اینورترها امکان پایش لحظه‌ای پارامترهای الکتریکی را از طریق پلتفرم ابری فراهم می‌سازند.",
+      "category": "product",
+      "published_at": "1405/07/21 14:50",
+      "collected_at": "1405/07/30 15:01",
+      "source": "Renewable Energy World",
+      "source_url": "https://www.renewableenergyworld.com/siemens-new-commercial-inverters",
+      "tags": [
+        "Energy Management",
+        "Siemens",
+        "Smart Grid",
+        "Inverter"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "ارتقای سیستم کنترل فرآیند SIMATIC PCS 7 برای واحدهای پالایشگاهی بزرگ",
+      "summary": "زیمنس نسخه به‌روزرسانی‌شده سیستم کنترل توزیع‌شده SIMATIC PCS 7 را با پایداری بالاتر برای صنایع نفت و گاز عرضه کرد. این نسخه جدید مدیریت افزونگی سخت‌افزاری را بهبود بخشیده و امکان تعویض ماژول‌ها را در حین کارکرد بدون توقف فرآیند فراهم می‌کند. این ویژگی برای مجتمع‌های پتروشیمی که نیازمند استمرار تولید هستند بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/21 15:00",
+      "collected_at": "1405/07/30 15:01",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-simatic-pcs7-update",
+      "tags": [
+        "DCS",
+        "SIMATIC PCS 7",
+        "Siemens",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "رونمایی از راهکار جامع زیمنس برای ردگیری کربن در زنجیره تامین تولید",
+      "summary": "پلتفرم Siemens Xcelerator میزبان یک ماژول نرم‌افزاری جدید برای محاسبه دقیق ردپای کربن محصولات صنعتی شد. این ابزار به مدیران کارخانه‌ها اجازه می‌دهد میزان انتشار گازهای گلخانه‌ای را در تمام مراحل تولید از مواد اولیه تا محصول نهایی اندازه‌گیری و گزارش کنند. این راهکار به شرکت‌ها در رعایت استانداردهای سخت‌گیرانه زیست‌محیطی کمک شایانی می‌کند.",
+      "category": "news",
+      "published_at": "1405/07/21 15:01",
+      "collected_at": "1405/07/30 15:01",
+      "source": "GreenTech Media",
+      "source_url": "https://www.greentechmedia.com/siemens-xcelerator-carbon-tracking",
+      "tags": [
+        "Siemens Xcelerator",
+        "Sustainability",
+        "Carbon Footprint",
+        "Industry 4.0"
       ]
     }
   ]
