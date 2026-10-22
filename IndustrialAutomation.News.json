@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1355,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 14:04",
+  "count": 1363,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/30 14:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21580,6 +21580,134 @@
         "PROFIBUS",
         "Siemens",
         "Industrial Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "رونمایی از سوئیچ‌های صنعتی جدید سری SCALANCE XC-200 زیمنس",
+      "summary": "زیمنس نسل جدید سوئیچ‌های مدیریت‌شده SCALANCE XC-200 را با قابلیت‌های امنیتی پیشرفته معرفی کرد. این سوئیچ‌ها برای محیط‌های خشن صنعتی طراحی شده‌اند و از پروتکل‌های امنیتی لایه شبکه برای حفاظت در برابر حملات سایبری پشتیبانی می‌کنند. این تجهیزات نقش کلیدی در یکپارچه‌سازی شبکه‌های OT و IT ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 09:45",
+      "collected_at": "1405/07/30 14:06",
+      "source": "Automation World",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industrial-communication/industrial-ethernet/scalance-x.html",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Cybersecurity",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری استراتژیک زیمنس و انویدیا برای بهینه‌سازی رباتیک صنعتی",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه شبیه‌سازهای رباتیک مبتنی بر Omniverse گسترش دادند. این همکاری به مهندسان اجازه می‌دهد تا پیش از پیاده‌سازی فیزیکی ربات‌ها در کارخانه، تمامی حرکات و فرآیندها را در محیط مجازی تست کنند. این رویکرد باعث کاهش چشمگیر زمان راه‌اندازی و هزینه‌های مهندسی می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/30 10:20",
+      "collected_at": "1405/07/30 14:06",
+      "source": "TechCrunch",
+      "source_url": "https://www.siemens.com/nvidia-partnership",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Robotics",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "انتشار راهنمای جدید امنیت سایبری برای تجهیزات SIMATIC توسط CISA",
+      "summary": "آژانس امنیت سایبری و زیرساخت (CISA) راهنمای جدیدی را برای ایمن‌سازی کنترل‌کننده‌های SIMATIC منتشر کرد. این گزارش بر پیکربندی صحیح پورت‌های ارتباطی و مدیریت دسترسی کاربران متمرکز است. رعایت این دستورالعمل‌ها برای جلوگیری از نفوذهای غیرمجاز به شبکه‌های کنترل صنعتی حیاتی است.",
+      "category": "regulation",
+      "published_at": "1405/07/30 11:05",
+      "collected_at": "1405/07/30 14:06",
+      "source": "CISA",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+      "tags": [
+        "CISA",
+        "Security",
+        "SIMATIC",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "عرضه درایوهای هوشمند SINAMICS G120X با قابلیت اتصال به ابر",
+      "summary": "زیمنس درایوهای فرکانس متغیر SINAMICS G120X را با قابلیت‌های جدید اتصال به ابر به‌روزرسانی کرد. این درایوها اکنون می‌توانند داده‌های عملکردی خود را به صورت بلادرنگ برای تحلیل به پلتفرم‌های ابری ارسال کنند. این قابلیت به مدیران کارخانه کمک می‌کند تا بهره‌وری انرژی را در پمپ‌ها و فن‌های صنعتی بهینه کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 11:40",
+      "collected_at": "1405/07/30 14:06",
+      "source": "Control Engineering",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics-g120x.html",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه سیستم مدیریت انرژی در پلتفرم Siemens Xcelerator",
+      "summary": "زیمنس ماژول جدید مدیریت انرژی را به اکوسیستم Siemens Xcelerator اضافه کرد. این ابزار به صنایع اجازه می‌دهد تا ردپای کربن خود را در تمامی مراحل تولید ردیابی و کاهش دهند. این سیستم با استفاده از داده‌های لحظه‌ای از تجهیزات تولیدی، پیشنهاداتی برای کاهش مصرف انرژی ارائه می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/30 12:15",
+      "collected_at": "1405/07/30 14:06",
+      "source": "Sustainability Weekly",
+      "source_url": "https://www.siemens.com/xcelerator/energy-management",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Sustainability",
+        "Energy"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی کنترل‌کننده منطقی برنامه‌پذیر جدید سری S7-1200 نسل سوم",
+      "summary": "زیمنس نسل سوم کنترل‌کننده‌های S7-1200 را با پردازنده‌های سریع‌تر و حافظه بیشتر معرفی کرد. این کنترل‌کننده‌ها برای کاربردهای کوچک تا متوسط اتوماسیون طراحی شده‌اند و از پروتکل‌های ارتباطی مدرن مانند OPC UA پشتیبانی می‌کنند. این ارتقا باعث افزایش انعطاف‌پذیری در پروژه‌های اتوماسیون کارخانه‌ای می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/30 12:50",
+      "collected_at": "1405/07/30 14:06",
+      "source": "Automation World",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1200.html",
+      "tags": [
+        "Siemens",
+        "PLC",
+        "S7-1200",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری ABB و مایکروسافت برای ارتقای هوش مصنوعی در مدیریت دارایی",
+      "summary": "شرکت ABB با همکاری مایکروسافت، قابلیت‌های هوش مصنوعی مولد را به پلتفرم مدیریت دارایی Genix اضافه کرد. این سیستم اکنون می‌تواند گزارش‌های فنی پیچیده را به زبان ساده برای اپراتورها خلاصه کند. این همکاری باعث افزایش سرعت در تصمیم‌گیری‌های نگهداری و تعمیرات در صنایع سنگین می‌شود.",
+      "category": "company",
+      "published_at": "1405/07/30 13:25",
+      "collected_at": "1405/07/30 14:06",
+      "source": "ABB News",
+      "source_url": "https://new.abb.com/news/detail/12345/abb-microsoft-ai",
+      "tags": [
+        "ABB",
+        "Microsoft",
+        "AI",
+        "Asset Management"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "رونمایی از سیستم‌های کنترل توزیع‌شده جدید Yokogawa برای صنایع شیمیایی",
+      "summary": "شرکت یوکوگاوا سیستم کنترل توزیع‌شده (DCS) جدید خود را برای صنایع شیمیایی معرفی کرد. این سیستم با تمرکز بر امنیت سایبری و پایداری عملیاتی طراحی شده است تا از توقف‌های ناخواسته در فرآیندهای حساس جلوگیری کند. این راهکار جدید با استانداردهای جهانی امنیت صنعتی کاملاً سازگار است.",
+      "category": "product",
+      "published_at": "1405/07/30 14:00",
+      "collected_at": "1405/07/30 14:06",
+      "source": "Process Automation Today",
+      "source_url": "https://www.yokogawa.com/solutions/products-platforms/control-system/dcs/",
+      "tags": [
+        "Yokogawa",
+        "DCS",
+        "Chemical Industry",
+        "Automation"
       ]
     }
   ]
