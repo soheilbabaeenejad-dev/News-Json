@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1345,
+  "count": 1355,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 14:03",
+  "updated_at": "1405/07/30 14:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21420,6 +21420,166 @@
         "Education",
         "Industry 4.0",
         "Digital Enterprise"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های توسعه‌یافته پردازش ابری در نرم‌افزار TIA Portal V19",
+      "summary": "شرکت زیمنس از قابلیت‌های جدید و پیشرفته پردازش ابری در نسخه به‌روزرسانی‌شده TIA Portal V19 رونمایی کرد. این امکانات به مهندسان اتوماسیون اجازه می‌دهد تا پروژه‌های سنگین SIMATIC را به صورت همزمان و از راه دور ویرایش و تست کنند. این راهکار جدید با هدف کاهش زمان توسعه مهندسی و افزایش بهره‌وری تیم‌های صنعتی در سراسر جهان ارائه شده است.",
+      "category": "product",
+      "published_at": "1405/07/30 08:15",
+      "collected_at": "1405/07/30 14:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-tia-portal-v19-cloud-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Cloud",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های رباتیک شناختی در خطوط تولید با همکاری زیمنس و کوکا",
+      "summary": "زیمنس در راستای توسعه اتوماسیون انعطاف‌پذیر، شراکت خود را با شرکت KUKA برای یکپارچه‌سازی هوش مصنوعی شناختی در بازوهای رباتیک تقویت کرد. این سیستم‌های جدید می‌توانند به صورت پویا خود را با تغییرات خط مونتاژ تطبیق داده و خطاهای انسانی را به حداقل برسانند. مدل‌های یادگیری عمیق پیاده‌سازی شده روی کنترلرهای زیمنس، دقت جابجایی قطعات را تا بیست درصد افزایش داده‌اند.",
+      "category": "match",
+      "published_at": "1405/07/30 09:00",
+      "collected_at": "1405/07/30 14:04",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-kuka-cognitive-robotics-partnership",
+      "tags": [
+        "Siemens",
+        "KUKA",
+        "Robotics",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "عرضه ماژول‌های ارتباطی جدید SCALANCE برای شبکه‌های پرسرعت صنعتی",
+      "summary": "سبد محصولات شبکه صنعتی زیمنس با معرفی سری جدید سوئیچ‌های مدیریت‌شده SCALANCE گسترش یافت. این تجهیزات با پشتیبانی از استانداردهای نوین ارتباطی، امنیت و پهنای باند لازم برای انتقال حجم انبوه داده‌های لایه OT را فراهم می‌کنند. این تجهیزات به‌ویژه برای اتصال تجهیزات میدانی SIMATIC به پلتفرم‌های ابری و مراکز مانیتورینگ کارخانجات هوشمند طراحی شده‌اند.",
+      "category": "product",
+      "published_at": "1405/07/30 09:45",
+      "collected_at": "1405/07/30 14:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-scalance-industrial-networking-launch",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Networking",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "توسعه استراتژی پایداری انرژی در صنایع با راهکارهای جدید Siemens Xcelerator",
+      "summary": "پلتفرم جامع Siemens Xcelerator میزبان ماژول‌های جدیدی برای مدیریت جامع مصرف انرژی و کاهش ردپای کربن در کارخانجات بزرگ شد. این ابزارها با تحلیل لحظه‌ای مصرف برق در تجهیزات و الکتروموتورهای صنعتی، نقاط تلفات انرژی را شناسایی و بهینه‌سازی می‌کنند. شرکت‌های تولیدی با به‌کارگیری این بسته‌ها می‌توانند به استانداردهای سخت‌گیرانه زیست‌محیطی اروپا سریع‌تر دست پیدا کنند.",
+      "category": "industry",
+      "published_at": "1405/07/30 10:20",
+      "collected_at": "1405/07/30 14:04",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-xcelerator-energy-management-update",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "به‌روزرسانی امنیتی بحران برای سیستم‌های کنترل توزیع‌شده SIMATIC PCS 7",
+      "summary": "شرکت زیمنس یک بسته اصلاحی امنیتی مهم برای نرم‌افزار مدیریت فرآیند SIMATIC PCS 7 منتشر کرد تا آسیب‌پذیری‌های کشف‌شده اخیر را برطرف سازد. این به‌روزرسانی برای محافظت از زیرساخت‌های حیاتی در صنایع نفت، گاز و پتروشیمی در برابر حملات سایبری پیچیده حیاتی است. مدیران شبکه صنعتی موظفند این وصله‌ها را در کوتاه‌ترین زمان ممکن روی سرورهای کنترل مرکزی اعمال کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 11:05",
+      "collected_at": "1405/07/30 14:04",
+      "source": "ICS-CERT",
+      "source_url": "https://www.cisa.gov/uscert/ics/advisories/siemens-pcs7-security-update",
+      "tags": [
+        "Siemens",
+        "PCS 7",
+        "Cybersecurity",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی نسل تازه پمپ‌های هوشمند مجهز به سنسورهای دیجیتال اینشتین",
+      "summary": "گراندفوس از نسل جدید پمپ‌های صنعتی خود با قابلیت اتصال مستقیم به سیستم‌های اتوماسیون زیمنس پرده برداشت. این تجهیزات مجهز به سنسورهای داخلی لرزش و دما هستند که وضعیت سلامت مکانیکی پمپ را به صورت بلادرنگ گزارش می‌دهند. این داده‌ها از طریق پروتکل PROFINET به کنترل‌کننده‌های SIMATIC S7-1500 منتقل شده و از توقف‌های ناخواسته خط تولید جلوگیری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 11:40",
+      "collected_at": "1405/07/30 14:04",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/grundfos-smart-pumps-siemens-integration",
+      "tags": [
+        "Grundfos",
+        "Siemens",
+        "PROFINET",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای قابلیت‌های یادگیری ماشین در پلتفرم Siemens Industrial Edge",
+      "summary": "زیمنس امکان اجرای مدل‌های پیچیده هوش مصنوعی و یادگیری ماشین را به صورت محلی روی سخت‌افزارهای Industrial Edge فراهم کرد. این قابلیت جدید به اپراتورها اجازه می‌دهد بدون نیاز به ارسال داده‌ها به فضای ابری، تصمیمات کنترلی لحظه‌ای اتخاذ کنند. مدل‌های بهینه‌سازی شده برای تشخیص نقص در خطوط مونتاژ با این روش با سرعت و دقت بسیار بالاتری اجرا می‌شوند.",
+      "category": "research",
+      "published_at": "1405/07/30 12:10",
+      "collected_at": "1405/07/30 14:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-machine-learning-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Machine Learning",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش اتوماسیون کارخانجات خودروسازی با دوقلوهای دیجیتال پیشرفته",
+      "summary": "شرکت زیمنس طی قراردادی جدید، سیستم دوقلوی دیجیتال جامع خود را برای طراحی یک خط تولید کاملاً رباتیک خودرو در اروپا پیاده‌سازی کرد. این فناوری امکان شبیه‌سازی کامل فیزیکی و منطقی کارخانه را پیش از ساخت فیزیکی فراهم کرده و هزینه‌های راه‌اندازی را کاهش می‌دهد. مهندسان می‌توانند تمامی سناریوهای احتمالی تولید را در محیط مجازی بررسی و بهینه‌سازی کنند.",
+      "category": "industry",
+      "published_at": "1405/07/30 12:55",
+      "collected_at": "1405/07/30 14:04",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-digital-twin-automotive-plant",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Automotive",
+        "Virtual Commissioning"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "عرضه درایوهای جدید SINAMICS با قابلیت بازگردانی انرژی به شبکه",
+      "summary": "زیمنس خانواده جدیدی از درایوهای فرکانس متغیر سری SINAMICS را با تکنولوژی بازگردانی توان به شبکه برق معرفی کرد. این تجهیزات برای کنترل دور موتورهای سنگین در صنایع سیمان و فولاد طراحی شده‌اند و تلفات انرژی الکتریکی را به شدت کاهش می‌دهند. این درایوها به‌طور کامل با نرم‌افزارهای مهندسی TIA Portal و استانداردهای ایمنی یکپارچه سازگار هستند.",
+      "category": "product",
+      "published_at": "1405/07/30 13:30",
+      "collected_at": "1405/07/30 14:04",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-energy-recovery-drives",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه پروتکل‌های ارتباطی امن برای تجهیزات میدانی با همکاری بنیاد PROFIBUS",
+      "summary": "بنیاد PROFIBUS و PROFINET با همکاری مهندسان زیمنس نسخه جدید پروتکل ارتباطی ایمن را برای لایه ابزار دقیق منتشر کردند. این استاندارد جدید امنیت ارتباطات فیلدباس را در برابر شنود و دستکاری اطلاعات به طور چشمگیری افزایش می‌دهد. مهندسان می‌توانند تجهیزات ابزار دقیق مختلف را با بالاترین سطح اطمینان سایبری به کنترل‌کننده‌های مرکزی متصل کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 14:00",
+      "collected_at": "1405/07/30 14:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/profinet-secure-fieldbus-protocol-update",
+      "tags": [
+        "PROFINET",
+        "PROFIBUS",
+        "Siemens",
+        "Industrial Security"
       ]
     }
   ]
