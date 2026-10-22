@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1337,
+  "count": 1345,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 14:00",
+  "updated_at": "1405/07/30 14:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21292,6 +21292,134 @@
         "Opcenter",
         "Xcelerator",
         "Manufacturing Operations"
+      ]
+    },
+    {
+      "id": "ia-20261021-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی مولد در نرم‌افزار TIA Portal V20",
+      "summary": "زیمنس قابلیت‌های دستیار هوش مصنوعی خود را برای محیط مهندسی TIA Portal V20 به‌روزرسانی کرد تا تولید کدهای PLC و عیب‌یابی اتوماتیک با سرعت بیشتری انجام شود. این نسخه جدید با تحلیل الگوهای گذشته پروژه، پیشنهادات بهینه‌تری برای کاهش خطاهای انسانی ارائه می‌دهد. این تحول گامی بزرگ در جهت خودکارسازی فرآیندهای مهندسی و کاهش زمان راه‌اندازی خطوط تولید است.",
+      "category": "product",
+      "published_at": "1405/07/21 09:15",
+      "collected_at": "1405/07/30 14:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-tia-portal-v20-ai-update",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Artificial Intelligence",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261021-003",
+      "title": "راه‌اندازی نسل جدید سیستم کنترل فرآیند SIMATIC PCS neo در کارخانه شیمیایی",
+      "summary": "یک مجتمع بزرگ پتروشیمی با همکاری زیمنس، نسل جدید سیستم کنترل فرآیند SIMATIC PCS neo را برای مدیریت یکپارچه واحد تولیدی خود به کار گرفت. این سیستم مبتنی بر وب امکان دسترسی امن مهندسان به داده‌های فرآیندی را از هر نقطه‌ای فراهم می‌کند. پایداری بالا و معماری مقیاس‌پذیر از ویژگی‌های کلیدی این پروژه موفق صنعتی به شمار می‌روند.",
+      "category": "industry",
+      "published_at": "1405/07/21 10:00",
+      "collected_at": "1405/07/30 14:03",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-simatic-pcs-neo-petersburg",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261021-005",
+      "title": "عرضه درایوهای پیشرفته SINAMICS G120X با قابلیت‌های ارتقایافته مدیریت انرژی",
+      "summary": "شرکت زیمنس سری جدید درایوهای فرکانس متغیر SINAMICS G120X را با تمرکز بر بهینه‌سازی مصرف انرژی در صنایع آب و فاضلاب روانه بازار کرد. این درایوها مجهز به الگوریتم‌های پیشرفته برای کاهش تلفات توان در الکتروموتورهای سنگین هستند. استفاده از این تجهیزات به شرکت‌ها کمک می‌کند تا اهداف پایداری زیست‌محیطی خود را با دقت بیشتری محقق کنند.",
+      "category": "product",
+      "published_at": "1405/07/21 12:40",
+      "collected_at": "1405/07/30 14:03",
+      "source": "IEngineering",
+      "source_url": "https://www.iengineering.com/siemens-sinamics-g120x-energy",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261021-006",
+      "title": "ارتقای امنیت سایبری تجهیزات شبکه صنعتی با نسل جدید فایروال‌های Scalance زیمنس",
+      "summary": "زیمنس سبد محصولات شبکه خود را با معرفی سری جدید فایروال‌های Scalance برای حفاظت از زیرساخت‌های حیاتی در برابر تهدیدات سایبری تقویت کرد. این تجهیزات با پشتیبانی از پروتکل‌های امنیتی روز دنیا، امکان تفکیک دقیق ترافیک IT و OT را فراهم می‌سازند. این اقدام پاسخگویی به استانداردهای سخت‌گیرانه امنیتی جدید در اتحادیه اروپا را تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/21 13:10",
+      "collected_at": "1405/07/30 14:03",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://www.cybersecurityindustrial.com/siemens-scalance-firewall-update",
+      "tags": [
+        "Siemens",
+        "Scalance",
+        "Cybersecurity",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261021-007",
+      "title": "توسعه قابلیت‌های مانیتورینگ ابری در پلتفرم Insights Hub زیمنس",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به ابزارهای جدید تحلیل داده مجهز شد تا پایش سلامت تجهیزات دوار در کارخانه‌های بزرگ ساده‌تر شود. این ابزارها با استفاده از یادگیری ماشین، خرابی‌های احتمالی پمپ‌ها و کمپرسورها را هفته‌ها پیش از وقوع پیش‌بینی می‌کنند. این راهکار از توقف‌های ناخواسته خط تولید جلوگیری کرده و هزینه‌های تعمیرات را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/21 14:00",
+      "collected_at": "1405/07/30 14:03",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-insights-hub-monitoring",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261021-008",
+      "title": "گسترش کاربرد دوقلوهای دیجیتال در خطوط مونتاژ با نرم‌افزار Tecnomatix زیمنس",
+      "summary": "شرکت زیمنس از نسخه جدید نرم‌افزار Tecnomatix برای شبیه‌سازی پیشرفته خطوط تولید و بهینه‌سازی چیدمان ربات‌ها رونمایی کرد. این نرم‌افزار به طراحان امکان می‌دهد قبل از ساخت فیزیکی کارخانه، تمامی سناریوهای حرکتی را تست کنند. این رویکرد نوآورانه هزینه‌های راه‌اندازی را کاهش داده و راندمان کلی تجهیزات را به شکل چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/21 15:15",
+      "collected_at": "1405/07/30 14:03",
+      "source": "Digital Engineering",
+      "source_url": "https://www.digitaleng.news/siemens-tecnomatix-update",
+      "tags": [
+        "Siemens",
+        "Tecnomatix",
+        "Digital Twin",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261021-009",
+      "title": "معرفی ماژول‌های ارتباطی جدید برای یکپارچه‌سازی پروتیفای با زیرساخت‌های زیمنس",
+      "summary": "شرکت HMS Networks ماژول‌های ارتباطی جدیدی را عرضه کرد که اتصال تجهیزات مختلف را به کنترل‌کننده‌های SIMATIC زیمنس از طریق شبکه Profinet فراهم می‌کنند. این ماژول‌ها امکان تبادل داده بین پروتکل‌های گوناگون اتوماسیون را بدون افت سرعت تضمین می‌کنند. این محصول انعطاف‌پذیری طراحان سیستم را در پروژه‌های اتوماسیون صنعتی به شدت بالا می‌برد.",
+      "category": "product",
+      "published_at": "1405/07/21 16:30",
+      "collected_at": "1405/07/30 14:03",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/hms-networks-siemens-profinet",
+      "tags": [
+        "HMS Networks",
+        "Profinet",
+        "Siemens",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261021-010",
+      "title": "توسعه مرکز نوآوری زیمنس برای آموزش فناوری‌های اتوماسیون در آلمان",
+      "summary": "زیمنس مرکز جدیدی را برای آموزش تخصصی فناوری‌های اتوماسیون دیجیتال و هوش مصنوعی صنعتی در شهر نورنبرگ افتتاح کرد. این مرکز مجهز به آخرین تجهیزات خطوط تولید زیمنس است تا مهندسان جوان مهارت‌های عملی کسب کنند. این سرمایه‌گذاری بخشی از استراتژی بلندمدت زیمنس برای رفع کمبود نیروی کار ماهر در حوزه صنعت چهارم است.",
+      "category": "economy",
+      "published_at": "1405/07/21 17:45",
+      "collected_at": "1405/07/30 14:03",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/siemens-innovation-center-nuremberg",
+      "tags": [
+        "Siemens",
+        "Education",
+        "Industry 4.0",
+        "Digital Enterprise"
       ]
     }
   ]
