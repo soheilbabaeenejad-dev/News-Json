@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1310,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 11:03",
+  "count": 1320,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/07/30 11:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -20867,6 +20867,166 @@
         "EcoStruxure",
         "Energy Management",
         "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20250221-001",
+      "title": "همکاری زیمنس و سونی برای توسعه هدست‌های واقعیت ترکیبی در مهندسی صنعتی",
+      "summary": "زیمنس و سونی همکاری جدیدی را برای ایجاد محیط‌های طراحی سه‌بعدی بصری در پلتفرم Xcelerator آغاز کرده‌اند. این فناوری به مهندسان اجازه می‌دهد تا دوقلوهای دیجیتال را با دقت بسیار بالا در یک فضای واقعیت ترکیبی (XR) مشاهده و ویرایش کنند. هدف از این پروژه، کاهش زمان توسعه محصول در صنایع پیچیده مانند خودروسازی و هوافضا با استفاده از هدست‌های جدید سونی و نرم‌افزارهای مهندسی زیمنس است.",
+      "category": "industry",
+      "published_at": "1403/12/03 09:15",
+      "collected_at": "1405/07/30 11:06",
+      "source": "Siemens Global",
+      "source_url": "https://www.siemens.com/global/en/company/stories/industry/sony-siemens-xr-engineering.html",
+      "tags": [
+        "Siemens",
+        "Sony",
+        "Digital Twin",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20250221-002",
+      "title": "ارتقای ماژول‌های ورودی و خروجی SIMATIC ET 200MP برای پردازش‌های فوق سریع",
+      "summary": "زیمنس به‌روزرسانی جدیدی برای خانواده SIMATIC ET 200MP معرفی کرده است که شامل بهبود زمان پاسخگویی و افزایش دقت در اندازه‌گیری‌های آنالوگ است. این ماژول‌های جدید با نرخ انتقال داده بالاتر در شبکه‌های PROFINET، برای خطوط تولید حساس که نیاز به همزمانی دقیق دارند، بهینه‌سازی شده‌اند. این تجهیزات به طور خاص در صنایع بسته‌بندی و چاپ کاربرد دارند و باعث افزایش کارایی سیستم‌های کنترل S7-1500 می‌شوند.",
+      "category": "product",
+      "published_at": "1403/12/03 09:40",
+      "collected_at": "1405/07/30 11:06",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/siemens-simatic-et200-update",
+      "tags": [
+        "SIMATIC",
+        "ET 200MP",
+        "Siemens",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20250221-003",
+      "title": "معرفی ربات‌های همکار جدید سری Lexium توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک از سری جدید کوبات‌های Lexium برای اتوماسیون انعطاف‌پذیر در محیط‌های تولیدی کوچک و متوسط رونمایی کرد. این ربات‌ها با یکپارچگی کامل در پلتفرم EcoStruxure، امکان برنامه‌نویسی سریع و مانیتورینگ بلادرنگ را برای اپراتورها فراهم می‌کنند. استفاده از حسگرهای ایمنی پیشرفته در این مدل‌ها باعث شده تا بتوانند بدون نیاز به حصار حفاظتی در کنار انسان‌ها فعالیت کنند و بهره‌وری خطوط مونتاژ را بهبود ببخشند.",
+      "category": "product",
+      "published_at": "1403/12/03 10:05",
+      "collected_at": "1405/07/30 11:06",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/lexium-cobot-launch.jsp",
+      "tags": [
+        "Schneider Electric",
+        "Robotics",
+        "Cobot",
+        "EcoStruxure"
+      ]
+    },
+    {
+      "id": "ia-20250221-004",
+      "title": "انتشار سرویس پک ۱ برای TIA Portal V19 با تمرکز بر کنترل حرکت",
+      "summary": "زیمنس نسخه SP1 نرم‌افزار TIA Portal V19 را با قابلیت‌های جدید در مدیریت سینماتیک‌های پیچیده و هماهنگی چندین محور منتشر کرد. در این نسخه، ابزارهای عیب‌یابی گرافیکی برای شناسایی سریع‌تر خطاهای درایوهای SINAMICS بهبود یافته و یکپارچگی با کنترلرهای S7-1500 افزایش یافته است. این به‌روزرسانی به مهندسان کمک می‌کند تا پروژه‌های اتوماسیون را با سرعت و دقت بیشتری در محیط‌های ابری و محلی مدیریت و اجرا کنند.",
+      "category": "product",
+      "published_at": "1403/12/03 10:20",
+      "collected_at": "1405/07/30 11:06",
+      "source": "Siemens Support",
+      "source_url": "https://support.industry.siemens.com/cs/document/tia-portal-v19-sp1-release",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Motion Control",
+        "S7-1500"
+      ]
+    },
+    {
+      "id": "ia-20250221-005",
+      "title": "هشدار امنیتی CISA در مورد آسیب‌پذیری‌های بحرانی در سوئیچ‌های SCALANCE زیمنس",
+      "summary": "آژانس امنیت سایبری CISA هشدار داد که چندین آسیب‌پذیری بحرانی در سوئیچ‌های صنعتی سری SCALANCE زیمنس شناسایی شده است که می‌تواند منجر به حملات منع سرویس (DoS) شود. این آژانس از مدیران شبکه OT خواست تا هرچه سریع‌تر وصله‌های امنیتی ارائه شده برای مدل‌های X-200 و X-300 را نصب کنند. این حفره‌های امنیتی در صورت عدم رسیدگی، به مهاجمان اجازه می‌دهند تا کنترل ترافیک شبکه را در لایه دسترسی صنعتی به دست بگیرند.",
+      "category": "regulation",
+      "published_at": "1403/12/03 10:35",
+      "collected_at": "1405/07/30 11:06",
+      "source": "CISA ICS Advisories",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/siemens-scalance-vulnerability",
+      "tags": [
+        "Cybersecurity",
+        "CISA",
+        "Siemens",
+        "SCALANCE"
+      ]
+    },
+    {
+      "id": "ia-20250221-006",
+      "title": "توسعه استراتژی امنیت سایبری راکول اتوماسیون برای حفاظت از زیرساخت‌های حیاتی",
+      "summary": "راکول اتوماسیون اعلام کرد که ابزارهای تشخیص تهدید پیشرفته را به صورت بومی در کنترلرهای سری Logix خود ادغام می‌کند تا امنیت شبکه‌های صنعتی را افزایش دهد. این اقدام در پاسخ به افزایش حملات باج‌افزاری به بخش‌های تولیدی و انرژی صورت گرفته است. هدف این شرکت ایجاد یک معماری 'اعتماد صفر' در سطح کارخانه است تا از یکپارچگی داده‌های تولید در برابر نفوذهای خارجی و دسترسی‌های غیرمجاز محافظت کامل به عمل آید.",
+      "category": "company",
+      "published_at": "1403/12/03 10:45",
+      "collected_at": "1405/07/30 11:06",
+      "source": "Rockwell Automation News",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/cybersecurity-strategy-update.html",
+      "tags": [
+        "Rockwell Automation",
+        "Cybersecurity",
+        "OT Security",
+        "Logix"
+      ]
+    },
+    {
+      "id": "ia-20250221-007",
+      "title": "رونمایی از نسخه ۲.۰ سیستم مدیریت لبه صنعتی زیمنس (IEM) برای مقیاس‌پذیری بیشتر",
+      "summary": "زیمنس نسخه ۲.۰ پلتفرم Industrial Edge Management را با قابلیت مدیریت متمرکز هزاران دستگاه لبه در کارخانه‌های توزیع شده معرفی کرد. بهبود رابط کاربری و اضافه شدن قابلیت‌های خودکارسازی در نصب اپلیکیشن‌ها از ویژگی‌های کلیدی این نسخه است. با استفاده از IEM V2.0، شرکت‌های صنعتی می‌توانند تحلیل‌های هوش مصنوعی را به راحتی از ابر به کف کارخانه منتقل کرده و عملکرد ماشین‌آلات را بر اساس داده‌های بلادرنگ بهینه کنند.",
+      "category": "product",
+      "published_at": "1403/12/03 10:50",
+      "collected_at": "1405/07/30 11:06",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-industrial-edge-management-v2",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "IIoT",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20250221-008",
+      "title": "معرفی ربات جدید IRB 1300 توسط ABB برای محیط‌های اتاق تمیز و دارویی",
+      "summary": "شرکت ABB مدل جدیدی از ربات IRB 1300 را عرضه کرده است که به طور اختصاصی برای محیط‌های استریل و صنایع دارویی طراحی شده است. این ربات با مقاومت بالا در برابر مواد ضدعفونی‌کننده و طراحی فشرده، برای جابجایی قطعات حساس در فضاهای محدود ایده‌آل است. ظرفیت حمل بار این مدل تا ۱۲ کیلوگرم افزایش یافته و دقت تکرارپذیری آن به سطح میکرون رسیده است که به تولیدکنندگان در رعایت استانداردهای سختگیرانه بهداشتی کمک می‌کند.",
+      "category": "product",
+      "published_at": "1403/12/03 10:55",
+      "collected_at": "1405/07/30 11:06",
+      "source": "ABB Robotics",
+      "source_url": "https://new.abb.com/products/robotics/industrial-robots/irb-1300",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Pharmaceutical",
+        "Cleanroom"
+      ]
+    },
+    {
+      "id": "ia-20250221-009",
+      "title": "همکاری زیمنس و مرسدس بنز برای دیجیتالی‌سازی فرآیند تولید باتری‌های نسل جدید",
+      "summary": "زیمنس و مرسدس بنز در یک پروژه مشترک از پلتفرم دوقلوی دیجیتال برای شبیه‌سازی کامل خطوط تولید باتری خودروهای برقی استفاده می‌کنند. این همکاری با هدف کاهش ۳۰ درصدی زمان عرضه به بازار و بهینه‌سازی مصرف انرژی در کارخانه‌ها شکل گرفته است. با استفاده از داده‌های بلادرنگ و هوش مصنوعی، فرآیند تولید باتری‌ها پایدارتر شده و میزان ضایعات مواد اولیه در حین تولید به حداقل می‌رسد که گامی مهم در صنعت خودروهای سبز است.",
+      "category": "industry",
+      "published_at": "1403/12/03 11:00",
+      "collected_at": "1405/07/30 11:06",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/news/siemens-mercedes-benz-battery-digitalization",
+      "tags": [
+        "Siemens",
+        "Mercedes-Benz",
+        "EV Battery",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20250221-010",
+      "title": "عرضه نسل جدید کنترلرهای PLCnext توسط فونیکس کنتاکت با پردازش لبه قدرتمند",
+      "summary": "فونیکس کنتاکت سری جدید کنترلرهای PLCnext را معرفی کرد که امکان برنامه‌نویسی با زبان‌های سطح بالا مانند پایتون و ++C را در کنار استانداردهای صنعتی فراهم می‌کند. این تجهیزات با هدف پل زدن میان دنیای IT و OT طراحی شده‌اند و دارای امنیت سایبری داخلی برای اتصال مستقیم به پلتفرم‌های ابری هستند. این کنترلرها برای پروژه‌های اینترنت اشیاء صنعتی (IIoT) که نیاز به تحلیل داده‌های حجیم در محل تولید دارند، یک راهکار منعطف محسوب می‌شوند.",
+      "category": "product",
+      "published_at": "1403/12/03 11:05",
+      "collected_at": "1405/07/30 11:06",
+      "source": "Phoenix Contact News",
+      "source_url": "https://www.phoenixcontact.com/en-pc/products/plcnext-control-new-generation",
+      "tags": [
+        "Phoenix Contact",
+        "PLCnext",
+        "IIoT",
+        "Edge Computing"
       ]
     }
   ]
