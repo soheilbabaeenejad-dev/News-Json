@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1358,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/30 21:03",
+  "count": 1368,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/07/30 21:11",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21610,6 +21610,166 @@
         "AWS",
         "Industrial Edge",
         "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261022-001",
+      "title": "ارتقای قابلیت‌های یادگیری ماشین در درایوهای SINAMICS زیمنس",
+      "summary": "شرکت زیمنس با معرفی به‌روزرسانی جدید برای درایوهای SINAMICS، قابلیت‌های یادگیری ماشین را برای تحلیل ارتعاشات و پیش‌بینی خرابی موتورها بهبود بخشیده است. این ارتقا به کاربران اجازه می‌دهد بدون نیاز به حسگرهای خارجی، وضعیت سلامت تجهیزات دوار را پایش کنند. این فناوری با کاهش زمان توقف ناخواسته، بهره‌وری کلی خطوط تولید را به میزان قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/30 08:30",
+      "collected_at": "1405/07/30 21:11",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/drives.html",
+      "tags": [
+        "SINAMICS",
+        "Siemens",
+        "Predictive Maintenance",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261022-002",
+      "title": "معرفی ماژول‌های جدید ارتباطی برای SIMATIC S7-1500 با پشتیبانی از TSN",
+      "summary": "زیمنس ماژول‌های ارتباطی جدیدی را برای سری SIMATIC S7-1500 رونمایی کرد که از استاندارد Time-Sensitive Networking (TSN) پشتیبانی می‌کنند. این ماژول‌ها امکان تبادل داده‌های بلادرنگ با دقت بسیار بالا را در شبکه‌های صنعتی فراهم می‌آورند. این توسعه زیرساختی برای کاربردهای حساس به زمان در رباتیک و کنترل حرکت بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1405/07/30 09:15",
+      "collected_at": "1405/07/30 21:11",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-tsn-modules",
+      "tags": [
+        "SIMATIC",
+        "S7-1500",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261022-003",
+      "title": "گسترش همکاری زیمنس و انویدیا در شبیه‌سازی فیزیکی کارخانه‌ها",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه محیط‌های شبیه‌سازی فیزیکی در پلتفرم Xcelerator گسترش داده‌اند. این همکاری به مهندسان اجازه می‌دهد تا دوقلوهای دیجیتال با دقت فیزیکی فوق‌العاده بالا را پیش از ساخت فیزیکی کارخانه تست کنند. این رویکرد باعث کاهش هزینه‌های طراحی و تسریع در زمان عرضه محصولات جدید به بازار می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/30 10:45",
+      "collected_at": "1405/07/30 21:11",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrial-iot.com/nvidia-siemens-collab",
+      "tags": [
+        "NVIDIA",
+        "Siemens",
+        "Digital Twin",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261022-004",
+      "title": "انتشار وصله امنیتی برای نرم‌افزار TIA Portal V19",
+      "summary": "تیم امنیتی زیمنس یک وصله حیاتی برای رفع آسیب‌پذیری‌های امنیتی در نسخه V19 نرم‌افزار TIA Portal منتشر کرد. این به‌روزرسانی از دسترسی‌های غیرمجاز به پروژه‌های اتوماسیون جلوگیری کرده و پروتکل‌های رمزنگاری ارتباطی را تقویت می‌کند. تمامی کاربران سیستم‌های اتوماسیون زیمنس ملزم به نصب فوری این بسته امنیتی برای حفاظت از دارایی‌های خود هستند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 11:20",
+      "collected_at": "1405/07/30 21:11",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://cert-portal.siemens.com/productcert",
+      "tags": [
+        "TIA Portal",
+        "Cybersecurity",
+        "Patch",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261022-005",
+      "title": "رونمایی از سیستم مدیریت انرژی هوشمند در پلتفرم Industrial Edge",
+      "summary": "زیمنس اپلیکیشن جدیدی را برای Industrial Edge معرفی کرد که به مدیریت لحظه‌ای مصرف انرژی در کارخانه‌ها کمک می‌کند. این ابزار با تحلیل داده‌های کنتورهای هوشمند، نقاط هدررفت انرژی را شناسایی و پیشنهادهای بهینه‌سازی ارائه می‌دهد. این راهکار در راستای اهداف پایداری و کاهش ردپای کربن در صنایع سنگین طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/07/30 12:05",
+      "collected_at": "1405/07/30 21:11",
+      "source": "Energy Manager Today",
+      "source_url": "https://www.energymanager.com/siemens-edge-energy",
+      "tags": [
+        "Industrial Edge",
+        "Energy Management",
+        "Sustainability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261022-006",
+      "title": "توسعه قابلیت‌های رباتیک در خطوط تولید با کنترلرهای جدید ABB",
+      "summary": "شرکت ABB نسل جدید کنترلرهای رباتیک خود را با قابلیت یکپارچه‌سازی آسان با سیستم‌های PLC زیمنس معرفی کرد. این کنترلرها از پروتکل‌های استاندارد صنعتی پشتیبانی کرده و امکان هماهنگی دقیق بین بازوهای رباتیک و ماشین‌آلات تولیدی را فراهم می‌کنند. این پیشرفت باعث افزایش انعطاف‌پذیری در خطوط مونتاژ خودکار می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/30 13:40",
+      "collected_at": "1405/07/30 21:11",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.robotics.com/abb-new-controllers",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "PLC",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261022-007",
+      "title": "معرفی سیستم کنترل توزیع‌شده (DCS) جدید امرسون برای صنایع شیمیایی",
+      "summary": "شرکت امرسون سیستم کنترل توزیع‌شده جدید خود را با تمرکز بر امنیت سایبری و پایداری فرآیند برای صنایع شیمیایی عرضه کرد. این سیستم با استفاده از معماری ماژولار، امکان ارتقای آسان تجهیزات را فراهم می‌کند. این محصول رقیبی جدی برای سیستم‌های PCS neo زیمنس در بازارهای بزرگ جهانی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/30 14:50",
+      "collected_at": "1405/07/30 21:11",
+      "source": "Process Automation News",
+      "source_url": "https://www.process-automation.com/emerson-dcs",
+      "tags": [
+        "Emerson",
+        "DCS",
+        "Chemical Industry",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261022-008",
+      "title": "به‌روزرسانی استاندارد OPC UA برای ارتباطات امن در لایه OT",
+      "summary": "کنسرسیوم OPC Foundation نسخه جدیدی از استاندارد ارتباطی OPC UA را منتشر کرد که تمرکز ویژه‌ای بر امنیت در لایه OT دارد. این استاندارد با همکاری نزدیک شرکت‌هایی نظیر زیمنس و راکول اتوماسیون توسعه یافته است. هدف اصلی این به‌روزرسانی، تسهیل تبادل داده‌های ایمن بین تجهیزات تولیدی و سیستم‌های مدیریت ابری است.",
+      "category": "topic",
+      "published_at": "1405/07/30 16:10",
+      "collected_at": "1405/07/30 21:11",
+      "source": "OPC Foundation",
+      "source_url": "https://opcfoundation.org/news",
+      "tags": [
+        "OPC UA",
+        "Standardization",
+        "OT",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20261022-009",
+      "title": "سرمایه‌گذاری اشنایدر الکتریک در فناوری‌های هوش مصنوعی برای ساختمان‌های هوشمند",
+      "summary": "اشنایدر الکتریک با هدف توسعه پلتفرم EcoStruxure، سرمایه‌گذاری جدیدی را در بخش هوش مصنوعی برای مدیریت ساختمان‌های صنعتی انجام داد. این فناوری به کاهش مصرف برق و بهینه‌سازی شرایط محیطی کارگاه‌ها کمک می‌کند. این اقدام بخشی از استراتژی کلان شرکت برای پیشتازی در بازار مدیریت هوشمند انرژی است.",
+      "category": "company",
+      "published_at": "1405/07/30 17:30",
+      "collected_at": "1405/07/30 21:11",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/en/about-us/news",
+      "tags": [
+        "Schneider Electric",
+        "AI",
+        "EcoStruxure",
+        "Smart Building"
+      ]
+    },
+    {
+      "id": "ia-20261022-010",
+      "title": "گزارش جدید CISA درباره تهدیدات علیه کنترل‌کننده‌های منطقی برنامه‌پذیر",
+      "summary": "آژانس امنیت سایبری و زیرساخت آمریکا (CISA) در گزارشی جدید نسبت به افزایش حملات هدفمند به PLCهای صنعتی هشدار داد. این گزارش بر اهمیت استفاده از سیستم‌های دفاعی چندلایه در تجهیزات زیمنس و سایر برندها تاکید می‌کند. کارشناسان توصیه می‌کنند که تمامی تجهیزات متصل به شبکه باید به صورت دوره‌ای از نظر آسیب‌پذیری‌های نرم‌افزاری بررسی شوند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 19:00",
+      "collected_at": "1405/07/30 21:11",
+      "source": "CISA Reports",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+      "tags": [
+        "CISA",
+        "Cybersecurity",
+        "PLC",
+        "Industrial Security"
       ]
     }
   ]
