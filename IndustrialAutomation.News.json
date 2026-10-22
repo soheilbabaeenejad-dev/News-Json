@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1338,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/07/30 16:03",
+  "count": 1347,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/30 16:10",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21306,6 +21306,150 @@
         "SCADA",
         "Cybersecurity",
         "Ransomware"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های تجزیه و تحلیل پیشرفته در نسخه جدید نرم‌افزار TIA Portal V20 SP1",
+      "summary": "کمپانی زیمنس به‌روزرسانی جدیدی برای محیط مهندسی محبوب خود یعنی TIA Portal V20 عرضه کرد که شامل ابزارهای پیشرفته تحلیل خطا و بهینه‌سازی کدهای PLC است. این نسخه جدید با هدف کاهش زمان راه‌اندازی ماشین‌آلات صنعتی و افزایش بهره‌وری تیم‌های مهندسی توسعه یافته است. قابلیت‌های جدید مدیریت پروژه به توسعه‌دهندگان اجازه می‌دهد تا تغییرات بزرگ را با دقت و سرعت بالاتری مدیریت کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 09:15",
+      "collected_at": "1405/07/30 16:10",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-tia-portal-v20-sp1-release",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Engineering",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری راهبردی زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط مونتاژ صنعتی",
+      "summary": "زیمنس و شرکت فستو در پروژه‌ای مشترک برای یکپارچه‌سازی تجهیزات پنوماتیک هوشمند با سیستم‌های کنترل SIMATIC اعلام همکاری کردند. این شراکت به تولیدکنندگان امکان می‌دهد تا مصرف هوای فشرده را در کارخانه‌ها به صورت دقیق مانیتور کرده و هزینه‌های انرژی را کاهش دهند. این ماژول‌های جدید به طور مستقیم از طریق پروتکل PROFINET به کنترل‌کننده‌های زیمنس متصل می‌شوند.",
+      "category": "news",
+      "published_at": "1405/07/30 10:00",
+      "collected_at": "1405/07/30 16:10",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-festo-pneumatics-automation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "PROFINET",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه نسل جدید سیستم‌های مانیتورینگ لبه توسط زیمنس برای پایش ارتعاشات توربین",
+      "summary": "سیستم جدید پایش وضعیت ارتعاشات زیمنس که بر پایه پلتفرم Siemens Industrial Edge کار می‌کند، برای صنایع سنگین و نیروگاهی معرفی شد. این تجهیزات می‌توانند داده‌های ارتعاشی را با فرکانس بالا نمونه‌برداری کرده و با استفاده از الگوریتم‌های هوش مصنوعی داخلی، خرابی‌های احتمالی یاتاقان‌ها را پیش‌بینی کنند. این راهکار از توقف‌های ناخواسته خطوط تولید جلوگیری چشمگیری می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 10:45",
+      "collected_at": "1405/07/30 16:10",
+      "source": "IEB",
+      "source_url": "https://www.iebmedia.com/siemens-industrial-edge-vibration-monitoring",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Condition Monitoring",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "گسترش قابلیت‌های امنیت سایبری در سیستم کنترل توزیع‌شده SIMATIC PCS neo",
+      "summary": "زیمنس نسخه ارتقایافته‌ای از سیستم کنترل فرآیند SIMATIC PCS neo را با تمرکز ویژه بر استانداردهای سخت‌گیرانه امنیت سایبری IEC 62443 عرضه کرد. این سیستم به اپراتورها اجازه می‌دهد تا در محیط‌های پالایشگاهی و شیمیایی، مدیریت یکپارچه‌ای بر روی امنیت شبکه و دسترسی‌های کاربران داشته باشند. رمزنگاری پیشرفته داده‌ها و مدیریت متمرکز گواهینامه‌ها از ویژگی‌های اصلی این به‌روزرسانی است.",
+      "category": "product",
+      "published_at": "1405/07/30 11:30",
+      "collected_at": "1405/07/30 16:10",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-simatic-pcs-neo-cybersecurity-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "Cybersecurity",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای پلتفرم Siemens Xcelerator با ابزارهای جدید طراحی دوقلوی دیجیتال خطوط رباتیک",
+      "summary": "شرکت زیمنس از افزونه‌های جدیدی برای پلتفرم Siemens Xcelerator رونمایی کرد که توانایی شبیه‌سازی سه‌بعدی و دقیق سلول‌های رباتیک را افزایش می‌دهد. این ابزارها به طراحان خطوط تولید اجازه می‌دهند تداخلات مکانیکی و سینماتیک ربات‌ها را پیش از ساخت فیزیکی به طور کامل بررسی و بهینه‌سازی کنند. این راهکار تاثیر مستقیمی در کاهش زمان راه‌اندازی و هزینه‌های مهندسی دارد.",
+      "category": "product",
+      "published_at": "1405/07/30 12:15",
+      "collected_at": "1405/07/30 16:10",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-xcelerator-digital-twin-robotics",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "سرمایه‌گذاری زیمنس در توسعه زیرساخت‌های تولید تراشه‌های صنعتی تخصصی در آلمان",
+      "summary": "مدیران زیمنس از طرح سرمایه‌گذاری جدیدی برای توسعه خطوط تولید نیمه‌هادی‌های اختصاصی مورد استفاده در تجهیزات اتوماسیون صنعتی خبر دادند. این تراشه‌ها که در درایوهای پیشرفته و کنترل‌کننده‌های نسل جدید کاربرد دارند، وابستگی زنجیره تامین را به واردات کاهش می‌دهند. این کارخانه جدید مجهز به فناوری‌های پیشرفته اتوماسیون و رباتیک مبتنی بر محصولات خود زیمنس خواهد بود.",
+      "category": "economy",
+      "published_at": "1405/07/30 13:00",
+      "collected_at": "1405/07/30 16:10",
+      "source": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com/siemens-semiconductor-manufacturing-investment",
+      "tags": [
+        "Siemens",
+        "Semiconductors",
+        "Manufacturing",
+        "Supply Chain"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی نسل جدید اینورترهای SINAMICS G120X با قابلیت‌های پیشرفته مدیریت انرژی",
+      "summary": "زیمنس سبد محصولات درایوهای خود را با معرفی مدل‌های جدید SINAMICS G120X برای کاربردهای پمپ و فن در صنایع آب و فاضلاب گسترش داد. این اینورترها با داشتن الگوریتم‌های پیشرفته کنترل دور، می‌توانند راندمان مصرف انرژی را تا حد زیادی بهبود ببخشند. همچنین این تجهیزات دارای استانداردهای ارتباطی متنوعی برای اتصال آسان به سیستم‌های SCADA هستند.",
+      "category": "product",
+      "published_at": "1405/07/30 13:45",
+      "collected_at": "1405/07/30 16:10",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-sinamics-g120x-drives-expansion",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای توسعه الگوریتم‌های هوش مصنوعی در کنترل بلادرنگ",
+      "summary": "پروژه تحقیقاتی مشترکی میان زیمنس و دانشگاه فنی مونیخ برای پیاده‌سازی یادگیری ماشین بر روی لبه شبکه صنعتی آغاز شد. هدف این پروژه اجرای مدل‌های عصبی سبک‌وزن بر روی کنترل‌کننده‌های SIMATIC برای تنظیم خودکار پارامترهای کنترلی PID است. این فناوری می‌تواند پایداری فرآیندهای صنعتی حساس را در برابر تغییرات ناگهانی بار به طور قابل توجهی افزایش دهد.",
+      "category": "research",
+      "published_at": "1405/07/30 14:30",
+      "collected_at": "1405/07/30 16:10",
+      "source": "Industrial AI Magazine",
+      "source_url": "https://www.industrial-ai-mag.com/siemens-tum-ai-real-time-control",
+      "tags": [
+        "Siemens",
+        "Artificial Intelligence",
+        "Research",
+        "Control Systems"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "به‌روزرسانی امنیتی بحرانی برای نرم‌افزار مانیتورینگ SIMATIC WinCC زیمنس",
+      "summary": "شرکت زیمنس یک بسته به‌روزرسانی امنیتی مهم برای رفع چند آسیب‌پذیری در نرم‌افزار اسکادا و مانیتورینگ SIMATIC WinCC منتشر کرد. این اصلاحیه امنیتی از دسترسی‌های غیرمجاز به داده‌های فرآیندی جلوگیری کرده و پایداری شبکه‌های صنعتی را تضمین می‌کند. کارشناسان امنیت سایبری OT به تمام کاربران توصیه کرده‌اند که سریعاً این وصله‌ها را اعمال کنند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 15:15",
+      "collected_at": "1405/07/30 16:10",
+      "source": "ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/siemens-simatic-wincc-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC WinCC",
+        "Cybersecurity",
+        "SCADA"
       ]
     }
   ]
