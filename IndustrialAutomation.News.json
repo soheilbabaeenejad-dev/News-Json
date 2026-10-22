@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1320,
+  "count": 1330,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 13:03",
+  "updated_at": "1405/07/30 13:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21020,6 +21020,166 @@
         "زیمنس",
         "هوش مصنوعی",
         "توسعه نرم‌افزار"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی از ماژول‌های توسعه‌یافته SIMATIC ET 200MP با قابلیت عیب‌یابی پیشرفته",
+      "summary": "شرکت زیمنس ماژول‌های جدیدی را برای خانواده I/O توزیع‌شده SIMATIC ET 200MP معرفی کرد که دقت عیب‌یابی خطوط تولید را افزایش می‌دهند. این ماژول‌ها با پشتیبانی از پروتکل‌های ارتباطی پرسرعت، امکان پایش لحظه‌ای وضعیت سیگنال‌ها را در خطوط ساخت فراهم می‌کنند. این ویژگی به کاهش چشمگیر زمان توقف ناخواسته تجهیزات و بهبود بهره‌وری کلی کارخانه منجر می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/30 08:30",
+      "collected_at": "1405/07/30 13:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-et200mp-release",
+      "tags": [
+        "SIMATIC",
+        "Siemens",
+        "ET 200MP",
+        "I/O"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های امنیت شبکه در سیستم‌های کنترل توزیع‌شده SIMATIC PCS 7",
+      "summary": "زیمنس بسته به‌روزرسانی امنیتی جدیدی را برای پلتفرم اتوماسیون فرآیند SIMATIC PCS 7 عرضه کرد تا استانداردهای دفاعی شبکه OT را ارتقا دهد. این پکیج شامل ابزارهای رمزنگاری پیشرفته و مکانیزم‌های جدید احراز هویت برای کنترل‌کننده‌ها است. هدف از این اقدام، مقابله با تهدیدات سایبری روزافزون علیه زیرساخت‌های حیاتی و پالایشگاه‌های صنعتی است.",
+      "category": "regulation",
+      "published_at": "1405/07/30 09:15",
+      "collected_at": "1405/07/30 13:04",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-pcs7-security-update",
+      "tags": [
+        "Siemens",
+        "PCS 7",
+        "Cybersecurity",
+        "DCS"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با ماژول‌های جدید انرژی‌سنج SIMATIC Energy Meter",
+      "summary": "زیمنس از ماژول‌های سخت‌افزاری جدیدی برای پایش مصرف انرژی در محیط‌های صنعتی پرمصرف رونمایی کرد که مستقیماً با نرم‌افزار Xcelerator یکپارچه می‌شوند. این تجهیزات به مدیران صنعتی اجازه می‌دهند تا هدررفت انرژی را به صورت دقیق ردیابی و بهینه‌سازی کنند. این راهکار نقش مهمی در دستیابی به اهداف پایداری زیست‌محیطی و کاهش هزینه‌های عملیاتی دارد.",
+      "category": "product",
+      "published_at": "1405/07/30 10:00",
+      "collected_at": "1405/07/30 13:04",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-energy-meter-launch",
+      "tags": [
+        "Siemens",
+        "Energy Management",
+        "Xcelerator",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی نسل جدید پنل‌های اپراتوری SIMATIC HMI Comfort Pro با طراحی مدلار",
+      "summary": "شرکت زیمنس سری جدید پنل‌های اپراتوری SIMATIC HMI Comfort Pro را با بدنه‌ای مقاوم و قابلیت سفارشی‌سازی بالا معرفی نمود. این نمایشگرهای صنعتی با پشتیبانی از وب‌سایت‌های HTML5، انعطاف‌پذیری بی‌نظیری در مانیتورینگ فرآیندها ارائه می‌دهند. ارتقای پردازنده گرافیکی باعث اجرای بسیار روان‌تر گرافیک‌های سنگین در محیط‌های عملیاتی سخت شده است.",
+      "category": "product",
+      "published_at": "1405/07/30 10:45",
+      "collected_at": "1405/07/30 13:04",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/siemens-comfort-pro-hmi",
+      "tags": [
+        "Siemens",
+        "HMI",
+        "Comfort Pro",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری راهبردی زیمنس و فستو برای توسعه استانداردهای ارتباطی پنوماتیک هوشمند",
+      "summary": "زیمنس و فستو در پروژه‌ای مشترک به دنبال یکپارچه‌سازی تجهیزات پنوماتیک با بستر اتوماسیون TIA Portal هستند. این همکاری به مهندسان اجازه می‌دهد تا بلوک‌های کنترلی شیرهای برقی را با سرعت بیشتری در پروژه‌های اتوماسیون پیاده‌سازی کنند. این رویکرد نوآورانه، پیچیدگی‌های سیم‌کشی و راه‌اندازی سیستم‌های ترکیبی مکانیکی و الکترونیکی را به شدت کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/30 11:20",
+      "collected_at": "1405/07/30 13:04",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "عرضه درایوهای فشرده SINAMICS G120X با قابلیت‌های ارتباطی پیشرفته پروتکل PROFINET",
+      "summary": "زیمنس خط تولید درایوهای SINAMICS G120X را با افزودن پورت‌های ارتباطی PROFINET نسل جدید تقویت کرد. این درایوها به‌طور ویژه برای کنترل پمپ‌ها و فن‌ها در تاسیسات ساختمانی و صنعتی طراحی شده‌اند. قابلیت تنظیم پارامترها از طریق اپلیکیشن موبایل، راه‌اندازی این تجهیزات را برای تکنسین‌ها بسیار ساده‌تر کرده است.",
+      "category": "product",
+      "published_at": "1405/07/30 11:50",
+      "collected_at": "1405/07/30 13:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-sinamics-g120x-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای پلتفرم Industrial Edge برای پردازش ابری داده‌های حجیم سنسورها",
+      "summary": "زیمنس نسخه جدید پلتفرم Industrial Edge را با ابزارهای تحلیل پیشرفته برای پردازش لبه‌ای داده‌های سنسوری منتشر کرد. این نرم‌افزار به کارخانه‌ها کمک می‌کند بدون وابستگی کامل به فضای ابری، الگوریتم‌های هوش مصنوعی را روی داده‌های محلی اجرا کنند. این قابلیت نرخ پاسخ‌دهی سیستم‌های اتوماسیون را در خطوط پرسرعت ساخت بهبود می‌بخشد.",
+      "category": "news",
+      "published_at": "1405/07/30 12:10",
+      "collected_at": "1405/07/30 13:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-upgrade",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه قابلیت‌های مهندسی معکوس و شبیه‌سازی در نرم‌افزار SIMIT V11",
+      "summary": "شرکت زیمنس نسخه جدید نرم‌افزار شبیه‌سازی SIMIT V11 را با موتور محاسباتی بهبودیافته برای مدل‌سازی فرآیندهای صنعتی عرضه کرد. این نسخه امکان تست مجازی کدهای PLC را پیش از استقرار در خط تولید واقعی فراهم می‌سازد. استفاده از این ابزار خطاهای انسانی را کاهش داده و هزینه‌های راه‌اندازی سیستم‌های کنترل را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/30 12:35",
+      "collected_at": "1405/07/30 13:04",
+      "source": "Industrial Automation Asia",
+      "source_url": "https://www.industrialautomationasia.com/siemens-simit-v11",
+      "tags": [
+        "Siemens",
+        "SIMIT",
+        "Simulation",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی سوئیچ‌های مدیریت‌شده سری RUGGEDCOM برای شبکه‌های سخت‌افزاری خشن",
+      "summary": "زیمنس سبد محصولات شبکه صنعتی خود را با معرفی سوئیچ‌های RUGGEDCOM با استاندارد مقاومت محیطی بالا گسترش داد. این تجهیزات برای کار در شرایط دمایی شدید و میدان‌های الکترومغناطیسی سنگین در پست‌های برق و معادن بهینه‌سازی شده‌اند. پایداری بالای این سوئیچ‌ها تداوم ارتباطات حیاتی را در زیرساخت‌های بزرگ تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 12:50",
+      "collected_at": "1405/07/30 13:04",
+      "source": "Electric Light & Power",
+      "source_url": "https://www.elp.com/siemens-ruggedcom-switches",
+      "tags": [
+        "Siemens",
+        "RUGGEDCOM",
+        "Networking",
+        "Substation"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش دامنه کاربرد ربات‌های صنعتی با یکپارچه‌سازی عمیق در کنترل‌کننده‌های SIMATIC",
+      "summary": "زیمنس با ارائه بسته‌های نرم‌افزاری جدید، اتصال بازوهای رباتیک مختلف را به کنترل‌کننده‌های SIMATIC S7-1500 ساده‌تر کرد. این ماژول‌های برنامه‌نویسی استاندارد، فرآیند هماهنگی حرکت ربات با نقاله و ماشین‌های ابزار را تسریع می‌کنند. این تحول گامی مهم در جهت تحقق کارخانه‌های کاملاً خودکار و انعطاف‌پذیر به شمار می‌رود.",
+      "category": "industry",
+      "published_at": "1405/07/30 13:00",
+      "collected_at": "1405/07/30 13:04",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/siemens-simatic-robotics",
+      "tags": [
+        "Siemens",
+        "Robotics",
+        "SIMATIC",
+        "Automation"
       ]
     }
   ]
