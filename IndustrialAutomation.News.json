@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1339,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/07/30 18:38",
+  "count": 1348,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/07/30 19:16",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21316,6 +21316,150 @@
         "CISA",
         "OT Security",
         "Industrial Gateway"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول امنیتی جدید Scalance SC-600 زیمنس برای حفاظت از شبکه‌های OT",
+      "summary": "شرکت زیمنس از سری جدید ماژول‌های دیواره آتش صنعتی Scalance SC-600 برای ارتقای امنیت سایبری شبکه‌های اتوماسیون صنعتی رونمایی کرد. این تجهیزات با هدف تفکیک مناطق بحرانی و جلوگیری از دسترسی‌های غیرمجاز به کنترل‌کننده‌های SIMATIC طراحی شده‌اند. این راهکار به مدیران شبکه اجازه می‌دهد تا ترافیک لایه صنعتی را به‌دقت پایش کرده و استانداردهای سخت‌گیرانه IEC 62443 را پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 08:30",
+      "collected_at": "1405/07/30 19:16",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-scalance-sc600-launch",
+      "tags": [
+        "Siemens",
+        "Scalance",
+        "Cybersecurity",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری مشترک زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط مونتاژ",
+      "summary": "شرکت‌های زیمنس و فستو توافق‌نامه جدیدی برای یکپارچه‌سازی تجهیزات پنوماتیک هوشمند با کنترل‌کننده‌های صنعتی امضا کردند. این همکاری امکان تبادل مستقیم داده‌های تشخیصی از شیرهای برقی و سیلندرها به پلتفرم TIA Portal را فراهم می‌سازد. مهندسان می‌توانند از این طریق خطاهای احتمالی سیستم‌های حرکتی را پیش از توقف خط تولید شناسایی کنند.",
+      "category": "company",
+      "published_at": "1405/07/30 10:00",
+      "collected_at": "1405/07/30 19:16",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Pneumatics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه ماژول‌های پردازش لبه جدید برای رک‌های ET 200MP زیمنس",
+      "summary": "زیمنس ماژول جدید پردازش لبه با نام SIMATIC ET 200MP CPU را برای محاسبات غیرمتمرکز در لایه میدانی معرفی کرد. این ماژول توانایی اجرای اسکریپت‌های پایتون و الگوریتم‌های هوش مصنوعی سبک را در نزدیکی سنسورها دارد. این رویکرد بار ترافیکی شبکه را کاهش داده و تصمیم‌گیری‌های کنترلی را با سرعت بسیار بالاتری ممکن می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/30 11:10",
+      "collected_at": "1405/07/30 19:16",
+      "source": "IE Magazine",
+      "source_url": "https://www.iemagazine.com/siemens-et200mp-edge-processing",
+      "tags": [
+        "Siemens",
+        "ET 200MP",
+        "Edge Computing",
+        "Industrial IoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای پلتفرم مانیتورینگ فرآیند SIPLUS برای محیط‌های سخت صنعتی",
+      "summary": "تجهیزات خانواده SIPLUS extreme زیمنس که برای کار در شرایط محیطی شدید مانند دماهای بالا و گازهای خورنده طراحی شده‌اند، به‌روزرسانی شدند. این سری جدید شامل کنترل‌کننده‌های مقاوم‌شده‌ای است که پایداری سیستم‌های کنترل را در صنایع نفت، گاز و معدن تضمین می‌کنند. این تجهیزات نیاز به تابلوهای تهویه‌شده گران‌قیمت را در محیط‌های بیرونی به حداقل می‌رسانند.",
+      "category": "product",
+      "published_at": "1405/07/30 12:20",
+      "collected_at": "1405/07/30 19:16",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-siplus-extreme-update",
+      "tags": [
+        "Siemens",
+        "SIPLUS",
+        "DCS",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه ابزارهای شبیه‌سازی مجازی در نرم‌افزار SIMIT V11.2",
+      "summary": "نسخه جدید نرم‌افزار شبیه‌سازی فرآیند SIMIT V11.2 از سوی زیمنس با کتابخانه‌های مدل‌سازی گسترده‌تر منتشر شد. این ابزار به مهندسان اجازه می‌دهد رفتار دینامیکی کارخانه‌ها و منطق کنترل سیستم‌های DCS را پیش از راه‌اندازی واقعی آزمایش کنند. این فرآیند به‌طور چشمگیری زمان تست‌های کمیسیونینگ را در پروژه‌های بزرگ پتروشیمی کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/07/30 13:45",
+      "collected_at": "1405/07/30 19:16",
+      "source": "Automation Update",
+      "source_url": "https://www.automationupdate.com/siemens-simit-v11-release",
+      "tags": [
+        "Siemens",
+        "SIMIT",
+        "Digital Twin",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی نسل جدید اینورترهای SINAMICS G120X با قابلیت‌های تشخیصی پیشرفته",
+      "summary": "زیمنس سبد محصولات درایوهای خود را با عرضه مدل‌های بهینه‌شده SINAMICS G120X برای کاربردهای پمپ و فن توسعه داد. این درایوها مجهز به الگوریتم‌های داخلی تشخیص کاویتاسیون و پایش بار مکانیکی هستند. این قابلیت‌ها به اپراتورها کمک می‌کند تا از آسیب‌های زودهنگام به تجهیزات دوار در تأسیسات آب و فاضلاب جلوگیری کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 14:30",
+      "collected_at": "1405/07/30 19:16",
+      "source": "Pumps & Systems",
+      "source_url": "https://www.pumpsandsystems.com/siemens-sinamics-g120x-upgrade",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش پروتکل‌های ارتباطی استاندارد در ماژول‌های ارتباطی CP 1543-1",
+      "summary": "زیمنس با ارائه یک بسته نرم‌افزاری جدید، پشتیبانی از پروتکل‌های امنیتی پیشرفته را به ماژول ارتباطی CP 1543-1 افزود. این ماژول اکنون از استانداردهای رمزنگاری مدرن برای تبادل امن داده‌ها میان کنترل‌کننده‌های SIMATIC S7-1500 و سرورهای ابری پشتیبانی می‌کند. این تغییر گامی مهم در جهت تامین امنیت ارتباطات افقی و عمودی در کارخانه‌های هوشمند است.",
+      "category": "product",
+      "published_at": "1405/07/30 15:50",
+      "collected_at": "1405/07/30 19:16",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-cp1543-1-security",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Industrial Ethernet",
+        "Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "همکاری زیمنس با دانشگاه فنی مونیخ برای توسعه پژوهش‌های اتوماسیون سبز",
+      "summary": "زیمنس و دانشگاه فنی مونیخ پروژه تحقیقاتی مشترکی را با بودجه کلان برای بهینه‌سازی مصرف انرژی در کارخانه‌ها آغاز کردند. این پروژه بر پایه تحلیل داده‌های ابری پلتفرم Insights Hub تمرکز دارد تا الگوهای بهینه‌سازی مصرف توان را استخراج کند. نتایج این پژوهش مستقیماً در نسل آینده نرم‌افزارهای مهندسی صنعتی این شرکت اعمال خواهد شد.",
+      "category": "research",
+      "published_at": "1405/07/30 17:05",
+      "collected_at": "1405/07/30 19:16",
+      "source": "TechCrunch Europe",
+      "source_url": "https://www.techcrunch.com/siemens-tum-green-automation",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Research",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "عرضه نسخه سفارشی پنل‌های اپراتوری SIMATIC HMI Comfort Pro با حفاظ IP65",
+      "summary": "زیمنس خط تولید پنل‌های اپراتوری SIMATIC HMI Comfort Pro را با طراحی مکانیکی جدید برای نصب بدون تابلو گسترش داد. این تجهیزات دارای بدنه آلومینیومی مقاوم و درجه حفاظتی IP65 در تمامی وجوه هستند که کار در محیط‌های بهداشتی و داروسازی را تسهیل می‌کند. این پنل‌ها ارتباط پایداری با کنترل‌کننده‌ها از طریق پروتکل PROFINET برقرار می‌کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 18:40",
+      "collected_at": "1405/07/30 19:16",
+      "source": "Manufacturing Global",
+      "source_url": "https://www.manufacturingglobal.com/siemens-hmi-comfort-pro",
+      "tags": [
+        "Siemens",
+        "SIMATIC HMI",
+        "Comfort Pro",
+        "HMI"
       ]
     }
   ]
