@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1329,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 15:03",
+  "count": 1335,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/07/30 15:07",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21167,6 +21167,97 @@
         "Wireless",
         "AGV",
         "Standardization"
+      ]
+    },
+    {
+      "id": "ia-20241021-003",
+      "title": "رونمایی از نسل جدید درایوهای هوشمند SINAMICS G120X برای صنایع آب و فاضلاب",
+      "summary": "زیمنس نسل جدید درایوهای SINAMICS G120X را با تمرکز بر بهره‌وری انرژی در ایستگاه‌های پمپاژ معرفی کرد. این درایوها دارای توابع ایمنی یکپارچه و قابلیت اتصال به شبکه برای نظارت از راه دور هستند که به بهینه‌سازی مصرف انرژی در شبکه‌های توزیع آب کمک شایانی می‌کند. این محصول با استانداردهای جدید زیست‌محیطی اروپا کاملاً سازگار است.",
+      "category": "product",
+      "published_at": "1403/07/30 11:30",
+      "collected_at": "1405/07/30 15:07",
+      "source": "Automation World",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics/g120x.html",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20241021-006",
+      "title": "معرفی راهکار جدید اشنایدر الکتریک برای مدیریت هوشمند ریزشبکه‌های صنعتی",
+      "summary": "اشنایدر الکتریک از سیستم مدیریت ریزشبکه جدید خود برای صنایع سنگین رونمایی کرد. این راهکار به کارخانه‌ها اجازه می‌دهد تا منابع انرژی تجدیدپذیر مانند پنل‌های خورشیدی و توربین‌های بادی را با شبکه برق اصلی یکپارچه کنند. این سیستم با استفاده از الگوریتم‌های هوشمند، هزینه‌های انرژی را در زمان‌های اوج مصرف به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1403/07/30 13:10",
+      "collected_at": "1405/07/30 15:07",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/en/work/solutions/microgrid.jsp",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20241021-007",
+      "title": "توسعه قابلیت‌های رباتیک ABB در محیط‌های خطرناک با کنترل‌کننده جدید",
+      "summary": "شرکت ABB کنترل‌کننده جدیدی را برای ربات‌های صنعتی در محیط‌های با دمای بالا و رطوبت زیاد معرفی کرد. این کنترل‌کننده با طراحی ضد انفجار، امکان استفاده از ربات‌ها را در صنایع شیمیایی و نفت و گاز فراهم می‌کند. این محصول با استانداردهای حفاظتی IP67 عرضه شده و پایداری عملکرد را در شرایط سخت تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/30 13:45",
+      "collected_at": "1405/07/30 15:07",
+      "source": "ABB Robotics",
+      "source_url": "https://new.abb.com/products/robotics/controllers",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Industrial Safety"
+      ]
+    },
+    {
+      "id": "ia-20241021-008",
+      "title": "ارتقای پلتفرم FactoryTalk راکول اتوماسیون با ابزارهای تحلیل ابری",
+      "summary": "راکول اتوماسیون قابلیت‌های تحلیل ابری را به پلتفرم FactoryTalk اضافه کرد تا امکان نظارت از راه دور بر عملکرد ماشین‌آلات فراهم شود. این ابزار به تیم‌های مهندسی کمک می‌کند تا داده‌های تولید را از سایت‌های مختلف جمع‌آوری و در یک داشبورد مرکزی تحلیل کنند. این یکپارچگی باعث افزایش بهره‌وری کلی تجهیزات (OEE) در سطح کارخانه می‌شود.",
+      "category": "product",
+      "published_at": "1403/07/30 14:10",
+      "collected_at": "1405/07/30 15:07",
+      "source": "Rockwell Automation Blog",
+      "source_url": "https://www.rockwellautomation.com/factorytalk-cloud",
+      "tags": [
+        "Rockwell Automation",
+        "FactoryTalk",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "id": "ia-20241021-009",
+      "title": "معرفی سوئیچ‌های صنعتی جدید فونیکس کنتاکت برای شبکه‌های TSN",
+      "summary": "فونیکس کنتاکت سری جدید سوئیچ‌های صنعتی خود را با پشتیبانی کامل از پروتکل شبکه حساس به زمان (TSN) معرفی کرد. این سوئیچ‌ها برای کاربردهایی که نیاز به تأخیر بسیار کم در انتقال داده دارند، مانند کنترل حرکت دقیق ربات‌ها، طراحی شده‌اند. این محصول زیرساخت لازم برای پیاده‌سازی نسل جدید شبکه‌های اتوماسیون صنعتی را فراهم می‌کند.",
+      "category": "product",
+      "published_at": "1403/07/30 14:30",
+      "collected_at": "1405/07/30 15:07",
+      "source": "Phoenix Contact Press",
+      "source_url": "https://www.phoenixcontact.com/tsn-switches",
+      "tags": [
+        "Phoenix Contact",
+        "TSN",
+        "Industrial Networking"
+      ]
+    },
+    {
+      "id": "ia-20241021-010",
+      "title": "گزارش جدید درباره نقش هوش مصنوعی در کاهش خطاهای انسانی در خطوط مونتاژ",
+      "summary": "یک گزارش تحقیقاتی جدید نشان می‌دهد که استفاده از دستیارهای هوش مصنوعی مانند Siemens Industrial Copilot می‌تواند خطاهای انسانی در خطوط مونتاژ را تا ۳۰ درصد کاهش دهد. این دستیارها با ارائه راهنمایی‌های گام‌به‌گام به اپراتورها، از اشتباهات در فرآیندهای پیچیده جلوگیری می‌کنند. این فناوری اکنون در حال تبدیل شدن به یک استاندارد در کارخانه‌های مدرن است.",
+      "category": "research",
+      "published_at": "1403/07/30 15:00",
+      "collected_at": "1405/07/30 15:07",
+      "source": "Automation Research Institute",
+      "source_url": "https://www.automation-research.org/ai-impact-report",
+      "tags": [
+        "AI",
+        "Industrial Copilot",
+        "Human-Machine Interaction"
       ]
     }
   ]
