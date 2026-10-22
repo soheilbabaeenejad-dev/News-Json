@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1330,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 16:01",
+  "count": 1338,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/07/30 16:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21180,6 +21180,132 @@
         "Energy Management",
         "Sustainability",
         "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه همکاری زیمنس و انویدیا در شبیه‌سازی فیزیکی کارخانه‌های هوشمند",
+      "summary": "زیمنس و انویدیا همکاری خود را برای ادغام پلتفرم Omniverse با نرم‌افزار Tecnomatix گسترش دادند. این همکاری به مهندسان اجازه می‌دهد تا دوقلوهای دیجیتال با دقت فیزیکی بالا ایجاد کنند که رفتار ماشین‌آلات را تحت شرایط مختلف پیش‌بینی می‌کند. این امر هزینه‌های راه‌اندازی خطوط تولید جدید را تا ۳۰ درصد کاهش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/07/30 10:45",
+      "collected_at": "1405/07/30 16:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/digital-twin",
+      "tags": [
+        "Nvidia",
+        "Siemens",
+        "Digital Twin",
+        "Omniverse"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه درایوهای جدید SINAMICS S210 با پشتیبانی از پروتکل PROFINET IRT",
+      "summary": "زیمنس نسل جدید درایوهای سروو SINAMICS S210 را برای کاربردهای دقیق کنترل حرکت معرفی کرد. این درایوها اکنون از پروتکل PROFINET IRT برای همگام‌سازی فوق‌سریع بین محورها پشتیبانی می‌کنند. این محصول برای ماشین‌آلات بسته‌بندی و ربات‌های مونتاژ که به دقت میلی‌ثانیه‌ای نیاز دارند، بهینه‌سازی شده است.",
+      "category": "product",
+      "published_at": "1405/07/30 11:20",
+      "collected_at": "1405/07/30 16:03",
+      "source": "Siemens Industry",
+      "source_url": "https://mall.industry.siemens.com/sinamics-s210",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Motion Control",
+        "PROFINET"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "راه‌اندازی مرکز جدید تحلیل داده‌های صنعتی زیمنس در مونیخ",
+      "summary": "زیمنس یک مرکز تخصصی جدید برای تحلیل داده‌های کلان صنعتی در مونیخ افتتاح کرد. این مرکز با استفاده از پلتفرم Insights Hub، به شرکت‌های تولیدی کمک می‌کند تا الگوهای مصرف انرژی و بهره‌وری تجهیزات خود را بهینه کنند. این مرکز به عنوان قطب اصلی برای توسعه الگوریتم‌های پیش‌بینی خرابی در تجهیزات دوار عمل خواهد کرد.",
+      "category": "industry",
+      "published_at": "1405/07/30 12:05",
+      "collected_at": "1405/07/30 16:03",
+      "source": "Industry 4.0 Daily",
+      "source_url": "https://www.siemens.com/insights-hub",
+      "tags": [
+        "Insights Hub",
+        "Data Analytics",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "رونمایی از سوئیچ‌های صنعتی جدید سری SCALANCE XC-200 برای محیط‌های خشن",
+      "summary": "زیمنس سبد محصولات شبکه صنعتی خود را با معرفی سری SCALANCE XC-200 گسترش داد. این سوئیچ‌ها با استاندارد حفاظتی IP20 و مقاومت بالا در برابر لرزش و نوسانات دمایی طراحی شده‌اند. این تجهیزات به قابلیت‌های مدیریت شبکه پیشرفته برای اطمینان از پایداری ارتباطات در کارخانه‌های هوشمند مجهز هستند.",
+      "category": "product",
+      "published_at": "1405/07/30 12:40",
+      "collected_at": "1405/07/30 16:03",
+      "source": "Industrial Networking",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industrial-communication/scalance.html",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "Networking",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "به‌روزرسانی نرم‌افزار TIA Portal برای پشتیبانی از استانداردهای جدید OPC UA",
+      "summary": "نسخه جدید TIA Portal اکنون از پروفایل‌های امنیتی پیشرفته OPC UA برای تبادل داده بین تجهیزات مختلف پشتیبانی می‌کند. این قابلیت به کاربران اجازه می‌دهد تا داده‌های PLCهای زیمنس را به سیستم‌های MES و ERP بدون واسطه‌های پیچیده منتقل کنند. این به‌روزرسانی گام مهمی در جهت تحقق کامل معماری باز در صنعت است.",
+      "category": "product",
+      "published_at": "1405/07/30 13:15",
+      "collected_at": "1405/07/30 16:03",
+      "source": "Siemens Software",
+      "source_url": "https://support.industry.siemens.com/cs/document/tia-portal-v20",
+      "tags": [
+        "TIA Portal",
+        "OPC UA",
+        "Interoperability"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "همکاری استراتژیک ABB و زیمنس برای استانداردسازی پروتکل‌های شارژ خودروهای برقی",
+      "summary": "دو غول دنیای اتوماسیون، ABB و زیمنس، برای تدوین استانداردهای جدید در زیرساخت‌های شارژ صنعتی خودروهای برقی همکاری می‌کنند. هدف این پروژه، یکپارچه‌سازی سیستم‌های مدیریت انرژی کارخانه‌ها با ایستگاه‌های شارژ سریع است. این همکاری می‌تواند به کاهش فشار بر شبکه‌های برق داخلی کارخانه‌ها در زمان شارژ ناوگان لجستیک کمک کند.",
+      "category": "match",
+      "published_at": "1405/07/30 14:00",
+      "collected_at": "1405/07/30 16:03",
+      "source": "Energy Industry Review",
+      "source_url": "https://www.abb.com/news",
+      "tags": [
+        "ABB",
+        "Siemens",
+        "EV Charging",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "معرفی سیستم جدید مانیتورینگ انرژی برای صنایع شیمیایی توسط اشنایدر الکتریک",
+      "summary": "اشنایدر الکتریک از سیستم جدید EcoStruxure Power برای صنایع شیمیایی رونمایی کرد. این سیستم با تحلیل مصرف انرژی در بخش‌های مختلف فرآیندی، به کاهش ردپای کربن کمک می‌کند. این راهکار به طور خاص برای محیط‌های دارای ریسک انفجار طراحی شده و با استانداردهای بین‌المللی ایمنی تجهیزات الکتریکی کاملاً منطبق است.",
+      "category": "product",
+      "published_at": "1405/07/30 14:45",
+      "collected_at": "1405/07/30 16:03",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/en/work/solutions/industrial-automation/",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Energy",
+        "Chemical Industry"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گزارش جدید CISA درباره افزایش حملات باج‌افزاری به سیستم‌های SCADA",
+      "summary": "آژانس امنیت سایبری و زیرساخت (CISA) در گزارش جدید خود نسبت به افزایش حملات باج‌افزاری به سیستم‌های SCADA در صنایع تولیدی هشدار داد. این گزارش بر اهمیت به‌روزرسانی مداوم سیستم‌عامل‌های تجهیزات OT و استفاده از روش‌های احراز هویت چندعاملی تأکید می‌کند. کارشناسان توصیه می‌کنند که شبکه‌های کنترلی باید از شبکه‌های اداری کاملاً ایزوله شوند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 15:30",
+      "collected_at": "1405/07/30 16:03",
+      "source": "CISA Reports",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+      "tags": [
+        "CISA",
+        "SCADA",
+        "Cybersecurity",
+        "Ransomware"
       ]
     }
   ]
