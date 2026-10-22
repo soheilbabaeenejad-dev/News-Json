@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1347,
+  "count": 1356,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 16:10",
+  "updated_at": "1405/07/30 17:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -21450,6 +21450,150 @@
         "SIMATIC WinCC",
         "Cybersecurity",
         "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی جدید برای SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از ماژول‌های ارتباطی جدید برای کنترل‌کننده‌های قابل برنامه‌ریزی SIMATIC S7-1500 رونمایی کرد که از استانداردهای پیشرفته صنعتی پشتیبانی می‌کنند. این تجهیزات جدید امکان تبادل امن و پرسرعت داده‌ها را در شبکه‌های پیچیده صنعتی فراهم می‌آورند. این توسعه به مهندسان کمک می‌کند تا ساختار اتوماسیون کارخانه‌ها را با انعطاف‌پذیری بیشتری ارتقا دهند.",
+      "category": "product",
+      "published_at": "1405/07/30 08:30",
+      "collected_at": "1405/07/30 17:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-simatic-s7-1500-comm-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "Industrial Communication"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای پلتفرم مانیتورینگ SIMATIC WinCC Unified برای محیط‌های ابری",
+      "summary": "نسخه جدید پلتفرم اسکادا SIMATIC WinCC Unified زیمنس با تمرکز بر قابلیت‌های ابری و تجزیه و تحلیل پیشرفته منتشر شد. این نسخه ابزارهای بصری‌سازی قدرتمندتری را برای پایش فرآیندهای صنعتی در اختیار مدیران سایت قرار می‌دهد. ویژگی‌های امنیتی جدید این سیستم، حفاظت از داده‌های حیاتی کارخانه‌ها را در برابر تهدیدات سایبری تضمین می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 10:00",
+      "collected_at": "1405/07/30 17:02",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-wincc-unified-update",
+      "tags": [
+        "Siemens",
+        "WinCC",
+        "SCADA",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری زیمنس و فستو برای هوشمندسازی پنوماتیک در خطوط مونتاژ",
+      "summary": "شرکت‌های زیمنس و فستو تفاهم‌نامه همکاری جدیدی را برای یکپارچه‌سازی تجهیزات پنوماتیک با سیستم‌های کنترل SIMATIC امضا کردند. این همکاری به توسعه ماژول‌های هوشمند برای پایش مصرف هوا و عیب‌یابی پیشگیرانه در تجهیزات حرکتی منجر می‌شود. هدف این پروژه کاهش چشمگیر هزینه‌های انرژی و افزایش قابلیت اطمینان در ماشین‌آلات صنعتی است.",
+      "category": "company",
+      "published_at": "1405/07/30 10:45",
+      "collected_at": "1405/07/30 17:02",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/siemens-festo-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "عرضه درایوهای پیشرفته SINAMICS G120X با قابلیت‌های تشخیصی جدید",
+      "summary": "زیمنس خانواده درایوهای فرکانس متغیر SINAMICS G120X را با ویژگی‌های ارتقایافته برای صنایع آب و فاضلاب و تهویه مطبوع به‌روزرسانی کرد. این درایوها اکنون دارای الگوریتم‌های پیشرفته برای تشخیص زودهنگام خرابی در پمپ‌ها و فن‌ها هستند. این قابلیت به کاهش هزینه‌های تعمیر و نگهداری و جلوگیری از توقف‌های برنامه‌ریزی‌نشده کمک شایانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 11:30",
+      "collected_at": "1405/07/30 17:02",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-g120x-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Drives",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه زیرساخت‌های امنیت سایبری OT با راهکارهای جدید زیمنس",
+      "summary": "زیمنس از مجموعه جدید ابزارهای امنیتی برای محافظت از شبکه‌های صنعتی در برابر تهدیدات سایبری پیچیده رونمایی کرد. این راهکارها با استانداردهای سخت‌گیرانه IEC 62443 سازگار بوده و امنیت ارتباطات را در لایه‌های مختلف اتوماسیون تضمین می‌کنند. این اقدام پاسخ مستقیم به افزایش حملات سایبری به زیرساخت‌های حیاتی تولیدی است.",
+      "category": "regulation",
+      "published_at": "1405/07/30 12:15",
+      "collected_at": "1405/07/30 17:02",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-ot-cybersecurity-solutions",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "OT",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "به‌روزرسانی نرم‌افزار پایش انرژی SIMATIC Energy Manager",
+      "summary": "نسخه جدید نرم‌افزار SIMATIC Energy Manager زیمنس با قابلیت‌های پیشرفته برای تحلیل ردپای کربن عرضه شد. این ابزار به شرکت‌ها کمک می‌کند تا مصرف انرژی خود را به طور دقیق در سطح ماشین‌آلات و کارخانه‌ها ردیابی و بهینه‌سازی کنند. این به‌روزرسانی نقش مهمی در کمک به صنایع برای دستیابی به اهداف پایداری و کاهش انتشار گازهای گلخانه‌ای دارد.",
+      "category": "product",
+      "published_at": "1405/07/30 13:00",
+      "collected_at": "1405/07/30 17:02",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-energy-manager-update",
+      "tags": [
+        "Siemens",
+        "Energy Management",
+        "Sustainability",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی سیستم جدید کنترل توزیع‌شده SIMATIC PCS neo برای صنایع شیمیایی",
+      "summary": "زیمنس نسل جدید سیستم کنترل توزیع‌شده SIMATIC PCS neo را با معماری مبتنی بر وب برای صنایع فرآیندی معرفی کرد. این سیستم به تیم‌های مهندسی اجازه می‌دهد تا از هر نقطه‌ای در جهان به صورت همزمان روی پروژه‌های پیچیده کار کنند. این پلتفرم نوآورانه استانداردهای جدیدی را در زمینه مدیریت چرخه عمر فرآیندهای صنعتی ایجاد می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 13:45",
+      "collected_at": "1405/07/30 17:02",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-simatic-pcs-neo-release",
+      "tags": [
+        "Siemens",
+        "SIMATIC PCS neo",
+        "DCS",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گسترش کاربرد دوقلوهای دیجیتال در خطوط تولید با پلتفرم Xcelerator",
+      "summary": "شرکت زیمنس از یکپارچه‌سازی عمیق‌تر ابزارهای شبیه‌سازی سه بعدی در پلتفرم Siemens Xcelerator خبر داد. این توسعه به سازندگان ماشین‌آلات اجازه می‌دهد پیش از ساخت فیزیکی، عملکرد مکانیکی و کنترلی را به طور کامل اعتبارسنجی کنند. این راهکار زمان ورود محصولات جدید به بازار را به طور چشمگیری کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/07/30 14:30",
+      "collected_at": "1405/07/30 17:02",
+      "source": "Digital Engineering 24/7",
+      "source_url": "https://www.digitaleng.news/siemens-xcelerator-digital-twin",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی کنترل‌کننده‌های فشرده SIMATIC S7-1200 با ارتباطات پرسرعت",
+      "summary": "زیمنس سبد محصولات کنترل‌کننده‌های منطقی برنامه‌پذیر کوچک خود را با معرفی مدل‌های جدید S7-1200 گسترش داد. این کنترل‌کننده‌ها به پورت‌های ارتباطی پرسرعت و امنیت داخلی پیشرفته مجهز شده‌اند تا نیازهای اتوماسیون مقیاس متوسط را پوشش دهند. این محصولات انتخابی ایده‌آل برای ماشین‌سازانی هستند که به دنبال کارایی بالا در فضای محدود می‌گردند.",
+      "category": "product",
+      "published_at": "1405/07/30 15:15",
+      "collected_at": "1405/07/30 17:02",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/siemens-simatic-s7-1200-expansion",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1200",
+        "PLC",
+        "Machine Building"
       ]
     }
   ]
