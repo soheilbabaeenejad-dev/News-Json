@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 1308,
+  "count": 1317,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/07/30 12:02",
+  "updated_at": "1405/07/30 12:04",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -20837,6 +20837,150 @@
         "Siemens",
         "Education",
         "Digital Twin",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "رونمایی زیمنس از ماژول‌های ارتباطی جدید برای توسعه شبکه‌های TSN در اتوماسیون",
+      "summary": "شرکت زیمنس ماژول‌های ارتباطی جدیدی را برای پشتیبانی از فناوری شبکه زمان‌بندی‌شده حساس یا همان TSN بر روی کنترل‌کننده‌های SIMATIC معرفی کرد. این ماژول‌ها امکان تبادل داده‌های بلادرنگ و قطعی را در خطوط تولید پیچیده فراهم می‌کنند تا یکپارچگی شبکه OT به شکل چشمگیری افزایش یابد. این اقدام گامی مهم در جهت تحقق کارخانه‌های کاملاً همگام و مبتنی بر استانداردهای باز اترنت صنعتی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/07/30 08:15",
+      "collected_at": "1405/07/30 12:04",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-tsn-modules-simatic",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های تحلیل پیشرفته در نسخه جدید نرم‌افزار WinCC Unified",
+      "summary": "نسخه جدید نرم‌افزار تجسم‌سازی و اسکادا WinCC Unified زیمنس با ابزارهای تحلیل داده قدرتمندتر و داشبوردهای تعاملی‌تر عرضه شد. این نسخه به اپراتورها اجازه می‌دهد تا روند عملکرد ماشین‌آلات را با دقت بالایی رصد کرده و خطاهای احتمالی را پیش از بروز توقفات ناخواسته شناسایی کنند. این به‌روزرسانی نقش کلیدی در کاهش هزینه‌های تعمیر و نگهداری کارخانه‌ها ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/07/30 08:45",
+      "collected_at": "1405/07/30 12:04",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-wincc-unified-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "عرضه درایوهای فشرده SINAMICS G120X با استانداردهای جدید بهره‌وری انرژی",
+      "summary": "سری جدید درایوهای فرکانس متغیر SINAMICS G120X زیمنس با تمرکز ویژه بر بهینه‌سازی مصرف انرژی در صنایع آب، فاضلاب و تهویه مطبوع معرفی شدند. این درایوها مجهز به الگوریتم‌های پیشرفته کنترل موتور هستند که تلفات انرژی را تا حد زیادی کاهش می‌دهند. طراحی ماژولار این تجهیزات نصب و سیم‌کشی را در تابلوهای برق صنعتی به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/30 09:30",
+      "collected_at": "1405/07/30 12:04",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-sinamics-g120x-update",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای پلتفرم Industrial Edge زیمنس با ابزارهای مدیریت متمرکز کانتینرها",
+      "summary": "زیمنس قابلیت‌های مدیریتی پلتفرم لبه صنعتی خود را با ابزارهای جدید ارکستراسیون و مدیریت کانتینرها به‌روزرسانی کرد. این امکانات به تیم‌های مهندسی اجازه می‌دهد تا اپلیکیشن‌های هوش مصنوعی و تحلیل داده را به صورت همزمان روی صدها دستگاه لبه در کارخانه‌های مختلف مستقر کنند. امنیت سایبری و پایداری اجرای نرم‌افزارها در این نسخه به طور قابل توجهی تقویت شده است.",
+      "category": "product",
+      "published_at": "1405/07/30 09:55",
+      "collected_at": "1405/07/30 12:04",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-containers",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Edge Computing",
+        "OT/IT"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "راکول اتوماسیون سیستم کنترل توزیع‌شده جدید PlantPAx 5.4 را منتشر کرد",
+      "summary": "راکول اتوماسیون نسخه ۵.۴ از سیستم کنترل توزیع‌شده PlantPAx را با تمرکز بر انعطاف‌پذیری بیشتر در معماری سیستم‌های فرآیندی عرضه کرد. این نسخه ابزارهای مهندسی جدیدی را برای کاهش زمان طراحی و یکپارچه‌سازی تجهیزات ابزار دقیق فراهم می‌آورد. شرکت‌ها می‌توانند با کمک این پلتفرم، کنترل فرآیندهای شیمیایی و دارویی خود را با استانداردهای امنیتی بالاتری مدیریت کنند.",
+      "category": "product",
+      "published_at": "1405/07/30 10:20",
+      "collected_at": "1405/07/30 12:04",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/rockwell-plantpax-5-4",
+      "tags": [
+        "Rockwell Automation",
+        "PlantPAx",
+        "DCS",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "انتشار هشدار امنیتی درباره آسیب‌پذیری در پروتکل‌های ارتباطی کنترل‌کننده‌ها",
+      "summary": "تیم‌های واکنش اضطراری سایبری صنعتی گزارش جدیدی درباره نقص‌های امنیتی در پشته‌های ارتباطی چند برند مطرح تجهیزات اتوماسیون منتشر کردند. این آسیب‌پذیری‌ها می‌تواند به مهاجمان اجازه دهد تا ترافیک شبکه را مختل کرده یا دستورات غیرمجاز به کنترل‌کننده‌های منطقی ارسال کنند. سازندگان تجهیزات از جمله زیمنس بسته‌های اصلاحی و توصیه‌های امنیتی لازم را برای مقاوم‌سازی شبکه‌ها ارائه داده‌اند.",
+      "category": "regulation",
+      "published_at": "1405/07/30 10:40",
+      "collected_at": "1405/07/30 12:04",
+      "source": "CISA ICS-CERT",
+      "source_url": "https://www.cisa.gov/news-events/ics-advisories/ics-alert-2026",
+      "tags": [
+        "Cybersecurity",
+        "CISA",
+        "PLC",
+        "Industrial Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "اشنایدر الکتریک نرم‌افزار EcoStruxure Automation Expert را برای رباتیک توسعه داد",
+      "summary": "اشنایدر الکتریک قابلیت‌های جدیدی را به پلتفرم نرم‌افزاری EcoStruxure Automation Expert اضافه کرد تا کنترل ربات‌ها و بازوهای مکانیکی آسان‌تر شود. این نرم‌افزار مبتنی بر استاندارد IEC 61499 به مهندسان اجازه می‌دهد منطق کنترل و حرکات رباتیک را در یک محیط واحد برنامه‌نویسی کنند. هدف از این توسعه، افزایش چابکی خطوط تولید در صنعت خودرو و بسته‌بندی است.",
+      "category": "product",
+      "published_at": "1405/07/30 11:05",
+      "collected_at": "1405/07/30 12:04",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/schneider-ecostruxure-robotics",
+      "tags": [
+        "Schneider Electric",
+        "EcoStruxure",
+        "Robotics",
+        "IEC 61499"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "سرمایه‌گذاری مشترک زیمنس و دانشگاه صنعتی مونیخ روی فناوری‌های دوقلوی دیجیتال",
+      "summary": "زیمنس با همکاری دانشگاه صنعتی مونیخ یک مرکز پژوهشی پیشرفته برای توسعه نسل بعدی دوقلوهای دیجیتال تاسیس کرد. این مرکز روی شبیه‌سازی‌های مبتنی بر فیزیک واقعی و یادگیری عمیق برای بهینه‌سازی عملکرد روبات‌های صنعتی متمرکز خواهد بود. دستاوردهای این پروژه مستقیماً در اکوسیستم نرم‌افزاری Siemens Xcelerator برای استفاده صنعتی تجاری‌سازی می‌شوند.",
+      "category": "research",
+      "published_at": "1405/07/30 11:30",
+      "collected_at": "1405/07/30 12:04",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrialiotnews.com/siemens-tum-digital-twin-lab",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Xcelerator",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "معرفی نسل جدید کنترل‌کننده‌های ایمنی SIMATIC Safety Advanced برای خطوط پرسرعت",
+      "summary": "شرکت زیمنس سری جدید ماژول‌ها و نرم‌افزارهای ایمنی SIMATIC Safety Advanced را برای کنترل ماشین‌آلات پرخطر و سریع معرفی کرد. این تجهیزات با زمان‌های پاسخ‌دهی فوق‌العاده کوتاه، بالاترین استانداردهای ایمنی SIL 3 و PL e را برای اپراتورها تضمین می‌کنند. ادغام کامل این سیستم‌ها با محیط مهندسی TIA Portal خطاهای پیکربندی را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/07/30 11:55",
+      "collected_at": "1405/07/30 12:04",
+      "source": "Automation Inside",
+      "source_url": "https://www.automationinside.com/siemens-simatic-safety-advanced",
+      "tags": [
+        "Siemens",
+        "Safety",
+        "SIMATIC",
         "TIA Portal"
       ]
     }
