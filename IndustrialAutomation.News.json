@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 179,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/08/01 21:05",
+  "count": 189,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 22:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2756,6 +2756,166 @@
         "Logistics",
         "Energy Management",
         "Smart Grid"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "گسترش کاربرد هوش مصنوعی لبه در نسل جدید درایوهای SINAMICS زیمنس",
+      "summary": "شرکت زیمنس از قابلیت‌های هوش مصنوعی لبه برای تحلیل بی‌درنگ داده‌ها در سری جدید درایوهای SINAMICS رونمایی کرد. این فناوری امکان شناسایی زودهنگام خطاهای مکانیکی و الکتریکی را مستقیماً روی تجهیز فراهم می‌کند. این اقدام به کاهش چشمگیر زمان توقف خطوط تولید و بهینه‌سازی مصرف انرژی در صنایع سنگین کمک شایانی خواهد کرد.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 22:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-sinamics-edge-ai-2026",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Edge AI",
+        "Industrial Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "ارتقای قابلیت‌های امنیتی در ماژول‌های ارتباطی جدید SIMATIC S7-1500",
+      "summary": "آپدیت جدید فریم‌ور کنترلرهای SIMATIC S7-1500 زیمنس پروتکل‌های رمزنگاری پیشرفته‌ای را برای مقابله با تهدیدات سایبری OT معرفی کرده است. این ویژگی به مهندسان اتوماسیون اجازه می‌دهد تا امنیت شبکه‌های صنعتی را بر اساس استانداردهای سخت‌گیرانه IEC 62443 ارتقا دهند. این به‌روزرسانی مهم به‌صورت یکپارچه از طریق محیط مهندسی TIA Portal قابل اعمال است.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 22:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-simatic-s7-1500-security-update",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "Cybersecurity",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "همکاری زیمنس و فستو برای توسعه ربات‌های متحرک خودگردان در کارخانه‌ها",
+      "summary": "زیمنس و شرکت Festo در پروژه‌ای مشترک، سیستم‌های ناوبری مبتنی بر هوش مصنوعی را برای ربات‌های متحرک خودگردان (AMR) توسعه دادند. این راهکار جدید امکان هماهنگی بی‌درنگ لجستیک داخلی کارخانه را با خطوط مونتاژ فراهم می‌سازد. این همکاری به افزایش بهره‌وری و انعطاف‌پذیری سیستم‌های تولیدی در کارخانه‌های هوشمند کمک می‌کند.",
+      "category": "news",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 22:00",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-festo-amr-partnership",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "AMR",
+        "Factory Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی ابزار جدید پایداری زیست‌محیطی در پلتفرم Siemens Xcelerator",
+      "summary": "زیمنس ابزار جدیدی را برای محاسبه و کاهش ردپای کربن به پلتفرم نرم‌افزاری Xcelerator اضافه کرد که به صنایع تولیدی امکان پایش دقیق انتشار گازهای گلخانه‌ای را می‌دهد. این ابزار با تجمیع داده‌های مصرف انرژی از تجهیزات مختلف مزرعه تولیدی، گزارش‌های دقیقی برای انطباق با قوانین محیط‌زیستی تهیه می‌کند. این راهکار گامی مهم در جهت تحقق اهداف توسعه پایدار در کارخانه‌ها محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 11:20",
+      "collected_at": "1405/08/01 22:00",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-xcelerator-sustainability-tool",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Sustainability",
+        "Green Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه پروتکل ارتباطی TSN در ماژول‌های جدید شبکه صنعتی زیمنس",
+      "summary": "زیمنس سبد محصولات شبکه خود را با پشتیبانی کامل از استاندارد Time-Sensitive Networking یا همان TSN گسترش داد. این تکنولوژی امکان انتقال هم‌زمان داده‌های کنترلی با اولویت بالا و داده‌های IT را روی یک بستر اترنت واحد فراهم می‌کند. پیاده‌سازی این استاندارد تاخیر شبکه را به حداقل رسانده و قابلیت اطمینان ارتباطات صنعتی را تضمین می‌کند.",
+      "category": "news",
+      "published_at": "1405/08/01 12:40",
+      "collected_at": "1405/08/01 22:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-tsn-industrial-networking",
+      "tags": [
+        "Siemens",
+        "TSN",
+        "Industrial Ethernet",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "بهینه‌سازی سیستم‌های کنترل فرآیند در صنایع شیمیایی با راهکار جدید زیمنس",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده (DCS) زیمنس با قابلیت‌های پیشرفته پردازش ابری برای مجتمع‌های پتروشیمی عرضه شد. این سامانه با استفاده از الگوریتم‌های پیشرفته پیش‌بینی، پایداری فرآیندهای شیمیایی پیچیده را بهبود می‌بخشد. مهندسان بهره‌برداری می‌توانند از طریق داشبوردهای تحت وب به مانیتورینگ لحظه‌ای پارامترهای کلیدی بپردازند.",
+      "category": "product",
+      "published_at": "1405/08/01 14:10",
+      "collected_at": "1405/08/01 22:00",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-dcs-chemical-industry",
+      "tags": [
+        "Siemens",
+        "DCS",
+        "Process Control",
+        "Chemical Plant"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "افزایش بهره‌وری مهندسی با قابلیت‌های جدید تولید کد در Siemens Industrial Copilot",
+      "summary": "ابزار هوش مصنوعی کمکی زیمنس موسوم به Industrial Copilot اکنون از تولید خودکار کدهای ساختاریافته SCL برای کنترلرهای منطقی پشتیبانی می‌کند. این قابلیت زمان لازم برای توسعه و تست برنامه‌های اتوماسیون را تا چهل درصد کاهش می‌دهد. این نوآوری نشان‌دهنده عمق نفوذ هوش مصنوعی مولد در نرم‌افزارهای مهندسی صنعتی است.",
+      "category": "product",
+      "published_at": "1405/08/01 15:30",
+      "collected_at": "1405/08/01 22:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-copilot-scl-generation",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "Generative AI",
+        "PLC Programming"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "سرمایه‌گذاری مشترک زیمنس برای توسعه زیرساخت‌های انرژی هوشمند در اروپا",
+      "summary": "زیمنس با همکاری چندین شرکت بزرگ انرژی اروپایی، پروژه کلان هوشمندسازی شبکه‌های توزیع برق را کلید زد. در این پروژه از تجهیزات اتوماسیون پیشرفته و سیستم‌های اسکادا زیمنس برای مدیریت بار مصرفی و یکپارچه‌سازی منابع انرژی تجدیدپذیر استفاده می‌شود. این طرح به پایداری بیشتر شبکه در مواجهه با نوسانات تولید انرژی خورشیدی و بادی کمک می‌کند.",
+      "category": "economy",
+      "published_at": "1405/08/01 16:50",
+      "collected_at": "1405/08/01 22:00",
+      "source": "Power Engineering",
+      "source_url": "https://www.power-eng.com/siemens-smart-grid-investment-europe",
+      "tags": [
+        "Siemens",
+        "Smart Grid",
+        "SCADA",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "ارتقای سیستم بینایی ماشین زیمنس برای بازرسی کیفیت با دقت بالا",
+      "summary": "نسخه جدید سیستم بینایی ماشین SIMATIC MV زیمنس با قابلیت‌های یادگیری عمیق برای تشخیص عیوب ریز در خطوط مونتاژ الکترونیک معرفی شد. این سیستم قادر است سرعت پردازش تصاویر را به طور چشمگیری افزایش داده و نرخ خطای بازرسی را به نزدیک صفر برساند. این تجهیزات به راحتی با روبات‌ها و کنترلرهای صنعتی زیمنس یکپارچه می‌شوند.",
+      "category": "product",
+      "published_at": "1405/08/01 18:00",
+      "collected_at": "1405/08/01 22:00",
+      "source": "Quality Digest",
+      "source_url": "https://www.qualitydigest.com/siemens-simatic-mv-machine-vision",
+      "tags": [
+        "Siemens",
+        "Machine Vision",
+        "SIMATIC MV",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه مراکز آموزشی اتوماسیون صنعتی زیمنس برای توانمندسازی نیروی کار ماهر",
+      "summary": "شرکت زیمنس از افتتاح چندین مرکز جدید آموزش تخصصی اتوماسیون و دیجیتال‌سازی در مناطق صنعتی کلیدی خبر داد. این مراکز مجهز به آخرین تجهیزات سخت‌افزاری مانند کنترلرهای SIMATIC و نرم‌افزارهای مهندسی TIA Portal خواهند بود. هدف از این اقدام تربیت نسل جدیدی از مهندسان مسلط به فناوری‌های صنعت چهارم است.",
+      "category": "society",
+      "published_at": "1405/08/01 19:30",
+      "collected_at": "1405/08/01 22:00",
+      "source": "EdTech Industry",
+      "source_url": "https://www.edtechindustry.com/siemens-industrial-automation-training-centers",
+      "tags": [
+        "Siemens",
+        "Education",
+        "Workforce Development",
+        "Industry 4.0"
       ]
     }
   ]
