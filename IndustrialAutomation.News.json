@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 110,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/08/01 12:28",
+  "count": 120,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 13:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1673,6 +1673,156 @@
         "Digital Twin",
         "Automotive",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های جدید ارتباطی برای توسعه شبکه‌های صنعتی PROFINET",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی PROFINET رونمایی کرد که برای پایداری بیشتر در اتوماسیون کارخانه‌ها طراحی شده‌اند. این تجهیزات به مهندسان کمک می‌کنند تا تبادل داده‌ها را با سرعت بالا و تأخیر کمتر در خطوط تولید پیاده‌سازی کنند. این محصول جدید نقش مهمی در ارتقای زیرساخت‌های ارتباطی کارخانه‌های هوشمند ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/01 08:15",
+      "collected_at": "1405/08/01 13:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/profinet-modules-siemens",
+      "tags": [
+        "PROFINET",
+        "SIMATIC",
+        "Industrial Networks"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی در سیستم‌های SCADA زیمنس",
+      "summary": "نسخه جدید نرم‌افزار WinCC از پلتفرم زیمنس امکانات پیشرفته‌ای برای نظارت بر مصرف انرژی کارخانه‌ها ارائه می‌دهد. این ابزار به مدیران صنعتی اجازه می‌دهد تا نقاط اتلاف انرژی را به صورت بلادرنگ شناسایی و بهینه‌سازی کنند. این رویکرد نقش کلیدی در کاهش هزینه‌های عملیاتی و دستیابی به اهداف پایداری دارد.",
+      "category": "news",
+      "published_at": "1405/08/01 08:45",
+      "collected_at": "1405/08/01 13:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/wincc-energy-monitoring",
+      "tags": [
+        "SCADA",
+        "WinCC",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی تعمیرات و نگهداری با قابلیت‌های جدید Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس به‌روزرسانی جدیدی برای تحلیل پیش‌بینانه سلامت تجهیزات صنعتی دریافت کرد. این سامانه با استفاده از الگوریتم‌های یادگیری ماشین، خرابی‌های احتمالی پمپ‌ها و توربین‌ها را پیش‌بینی می‌کند. این امر موجب کاهش چشمگیر زمان توقف اضطرابی خطوط تولید در صنایع سنگین می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 09:10",
+      "collected_at": "1405/08/01 13:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/insights-hub-update",
+      "tags": [
+        "Insights Hub",
+        "Predictive Maintenance",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری زیمنس و دانشگاه فنی مونیخ برای تحقیق روی ربات‌های شناختی",
+      "summary": "پروژه تحقیقاتی مشترکی میان زیمنس و دانشگاه فنی مونیخ برای توسعه نسل آینده ربات‌های شناختی آغاز شد. این پروژه بر روی بهبود درک محیطی ربات‌ها با استفاده از بینایی ماشین و هوش مصنوعی تمرکز دارد. این فناوری‌ها به ربات‌های صنعتی امکان می‌دهد تا با انعطاف‌پذیری بیشتری در کنار اپراتورهای انسانی کار کنند.",
+      "category": "research",
+      "published_at": "1405/08/01 09:40",
+      "collected_at": "1405/08/01 13:00",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-tmu-research",
+      "tags": [
+        "Robotics",
+        "AI",
+        "Research"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "افزایش امنیت سایبری تجهیزات صنعتی با استانداردهای جدید IEC 62443",
+      "summary": "کارشناسان امنیت صنعتی زیمنس راهکارهای جدیدی برای تطبیق کنترلرهای SIMATIC با الزامات استاندارد IEC 62443 ارائه دادند. این راهکارها از شبکه تجهیزات OT در برابر حملات سایبری پیچیده محافظت می‌کنند. پیاده‌سازی این پروتکل‌ها برای حفظ امنیت زیرساخت‌های حیاتی تولیدی از اهمیت بالایی برخوردار است.",
+      "category": "regulation",
+      "published_at": "1405/08/01 10:05",
+      "collected_at": "1405/08/01 13:00",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-iec62443",
+      "tags": [
+        "Cybersecurity",
+        "IEC 62443",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "توسعه نرم‌افزار مهندسی با ابزارهای مبتنی بر ابر در پلتفرم Xcelerator",
+      "summary": "شرکت زیمنس دسترسی به ابزارهای مهندسی ماژولار را از طریق اکوسیستم Xcelerator و به صورت ابری گسترش داد. این قابلیت به تیم‌های مهندسی پراكنده اجازه می‌دهد به صورت همزمان روی پروژه‌های اتوماسیون کار کنند. این تحول سرعت طراحی و پیاده‌سازی سیستم‌های کنترل صنعتی را به طور قابل توجهی افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/08/01 10:30",
+      "collected_at": "1405/08/01 13:00",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/siemens-xcelerator-cloud",
+      "tags": [
+        "Xcelerator",
+        "Cloud Engineering",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی نسل جدید اینورترهای SINAMICS برای کارخانجات خودروسازی",
+      "summary": "درایوهای پیشرفته SINAMICS G120 با قابلیت‌های جدید برای کنترل دقیق موتورهای الکتریکی در خطوط مونتاژ معرفی شدند. این درایوها با کاهش تلفات انرژی و بهبود راندمان دینامیکی نقش مهمی در صنایع خودروسازی دارند. این تجهیزات به راحتی با محیط TIA Portal یکپارچه می‌شوند تا راه‌اندازی سریع‌تری داشته باشند.",
+      "category": "product",
+      "published_at": "1405/08/01 11:00",
+      "collected_at": "1405/08/01 13:00",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-g120",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "پیاده‌سازی موفق دوقلوی دیجیتال در خطوط تولید داروسازی",
+      "summary": "یک کارخانه بزرگ داروسازی با استفاده از راهکارهای دوقلوی دیجیتال زیمنس توانست زمان ساخت محصولات جدید را کاهش دهد. این شبیه‌سازی دقیق فرآیندها به مهندسان کمک می‌کند تا پیش از تولید واقعی، خطاهای احتمالی را برطرف کنند. این پروژه نمونه‌ای بارز از تاثیر فناوری‌های مدرن بر افزایش بهره‌وری صنعت دارو است.",
+      "category": "industry",
+      "published_at": "1405/08/01 11:35",
+      "collected_at": "1405/08/01 13:00",
+      "source": "Pharmaceutical Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-digital-twin-pharma",
+      "tags": [
+        "Digital Twin",
+        "Pharma",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "توسعه ماژول‌های هوش مصنوعی برای لبه شبکه در تجهیزات Industrial Edge",
+      "summary": "زیمنس قابلیت پردازش مدل‌های هوش مصنوعی را به سخت‌افزارهای Industrial Edge اضافه کرد تا تصمیم‌گیری‌ها در لبه شبکه سریع‌تر انجام شوند. این ماژول‌ها امکان تحلیل داده‌های سنسورها را بدون نیاز به ارسال اطلاعات به ابر فراهم می‌کنند. این ویژگی امنیت داده‌ها را افزایش داده و تأخیر در واکنش‌های صنعتی را حذف می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/01 12:00",
+      "collected_at": "1405/08/01 13:00",
+      "source": "IoT Insider",
+      "source_url": "https://www.iotinsider.com/siemens-industrial-edge-ai",
+      "tags": [
+        "Industrial Edge",
+        "Edge AI",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "نقش کنترلرهای SIMATIC S7-1500 در اتوماسیون نیروگاه‌های خورشیدی",
+      "summary": "کنترلرهای پیشرفته SIMATIC S7-1500 زیمنس برای مدیریت و پایش مزارع بزرگ خورشیدی با موفقیت به کار گرفته شدند. این کنترلرها با پردازش دقیق داده‌های محیطی، زاویه پنل‌ها را برای جذب حداکثر انرژی تنظیم می‌کنند. این کاربرد نشان‌دهنده انعطاف‌پذیری بالای تجهیزات زیمنس در صنایع انرژی تجدیدپذیر است.",
+      "category": "industry",
+      "published_at": "1405/08/01 12:30",
+      "collected_at": "1405/08/01 13:00",
+      "source": "Renewable Energy Focus",
+      "source_url": "https://www.renewableenergyfocus.com/siemens-s7-1500-solar",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Renewable Energy",
+        "PLC"
       ]
     }
   ]
