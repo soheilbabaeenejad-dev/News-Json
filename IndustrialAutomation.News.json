@@ -4,8 +4,8 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 120,
-  "provider": "Gemini/gemini-3.1-flash-lite",
+  "count": 130,
+  "provider": "Gemini/gemini-3.5-flash-lite",
   "updated_at": "1405/08/01 12:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
@@ -1840,6 +1840,166 @@
         "Programming",
         "AI",
         "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "گسترش کاربرد Siemens Industrial Copilot در برنامه‌نویسی پیشرفته رباتیک",
+      "summary": "شرکت زیمنس قابلیت‌های جدیدی را به دستیار هوش مصنوعی Industrial Copilot اضافه کرده است تا مهندسان بتوانند کدهای رباتیک و منطق کنترل را با سرعت بیشتری توسعه دهند. این ابزار جدید با کاهش خطاهای انسانی و بهینه‌سازی زمان برنامه‌نویسی، نقش مهمی در تسریع راه‌اندازی خطوط تولید ایفا می‌کند. این نسخه همچنین از استانداردهای جدید ارتباطی پشتیبانی کامل به عمل می‌آورد.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 12:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/industrial-copilot-robotics-update",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "AI",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "معرفی ماژول‌های امنیتی جدید برای تجهیزات SIMATIC S7-1500",
+      "summary": "زیمنس از عرضه ماژول‌های سخت‌افزاری جدید برای خانواده کنترلرهای SIMATIC S7-1500 خبر داد که امنیت سایبری در شبکه‌های صنعتی را به طور چشمگیری ارتقا می‌دهند. این ماژول‌ها با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته و انطباق با استاندارد IEC 62443، از زیرساخت‌های حیاتی در برابر نفوذهای سایبری محافظت می‌کنند. این اقدام گامی مهم در جهت ایمن‌سازی کارخانه‌های متصل به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/08/01 09:00",
+      "collected_at": "1405/08/01 12:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/plc/news/siemens-simatic-s71500-security-modules",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Cybersecurity",
+        "PLC",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با نسخه جدید TIA Portal",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal ابزارهای پیشرفته‌ای را برای نظارت و کاهش مصرف انرژی در خطوط تولید صنعتی معرفی کرده است. مهندسان می‌توانند با استفاده از این ابزارها، درایوهای SINAMICS و سیستم‌های توزیع برق را به صورت دقیق پایش و بهینه‌سازی کنند. این ویژگی به شرکت‌ها کمک می‌کند تا علاوه بر کاهش هزینه‌ها، به اهداف پایداری خود دست یابند.",
+      "category": "product",
+      "published_at": "1405/08/01 09:30",
+      "collected_at": "1405/08/01 12:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/tia-portal-energy-efficiency-features/",
+      "tags": [
+        "TIA Portal",
+        "Energy Management",
+        "SINAMICS",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "گسترش پلتفرم ابری Siemens Xcelerator در صنایع خودروسازی اروپا",
+      "summary": "چندین خودروساز بزرگ اروپایی قراردادهای خود را برای استفاده گسترده از پلتفرم Siemens Xcelerator جهت مدیریت چرخه حیات محصول توسعه دادند. این پلتفرم ابری امکان یکپارچه‌سازی داده‌های طراحی، مهندسی و تولید را در قالب دوقلوهای دیجیتال فراهم می‌سازد. استفاده از این راهکار باعث کاهش زمان ورود محصولات جدید به بازار خواهد شد.",
+      "category": "company",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 12:01",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/news/siemens-xcelerator-automotive-expansion.html",
+      "tags": [
+        "Xcelerator",
+        "Digital Twin",
+        "Automotive",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه راهکارهای Industrial Edge برای تحلیل بلادرنگ داده‌های سنسورها",
+      "summary": "زیمنس پکیج نرم‌افزاری جدیدی را برای سخت‌افزارهای Industrial Edge منتشر کرد که امکان پردازش محلی و بلادرنگ داده‌های سنسورهای صنعتی را فراهم می‌آورد. این رویکرد لبه (Edge Computing) نیاز به انتقال حجم عظیمی از داده‌ها به فضای ابری را کاهش داده و زمان پاسخ‌دهی سیستم را به حداقل می‌رساند. این فناوری برای خطوط تولید پرسرعت بسیار حیاتی است.",
+      "category": "news",
+      "published_at": "1405/08/01 10:15",
+      "collected_at": "1405/08/01 12:01",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/edge-computing/siemens-industrial-edge-real-time-analytics",
+      "tags": [
+        "Industrial Edge",
+        "Edge Computing",
+        "IIoT",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "همکاری ABB و دانشگاه صنعتی مونیخ برای توسعه ربات‌های خودران",
+      "summary": "شرکت ABB با همکاری دانشگاه صنعتی مونیخ پروژه‌ای تحقیقاتی را برای بهبود ناوبری ربات‌های متحرک خودران (AMR) آغاز کرد. این پروژه بر پایه الگوریتم‌های یادگیری ماشین تمرکز دارد تا ربات‌ها بتوانند در محیط‌های پویا و شلوغ کارخانه‌ها با ایمنی بیشتری تردد کنند. نتایج این تحقیق مستقیماً در نسل آینده محصولات رباتیک صنعتی اعمال خواهد شد.",
+      "category": "research",
+      "published_at": "1405/08/01 10:30",
+      "collected_at": "1405/08/01 12:01",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/rrd/abb-tum-autonomous-mobile-robots/",
+      "tags": [
+        "ABB",
+        "AMR",
+        "Robotics",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "نقش سیستم‌های DCS زیمنس در ارتقای ایمنی صنایع پتروشیمی خاورمیانه",
+      "summary": "پروژه بزرگ نوسازی سیستم‌های کنترل صنعتی در چند مجتمع پتروشیمی با استفاده از تجهیزات DCS پیشرفته زیمنس به اتمام رسید. این سیستم‌ها با فراهم کردن نظارت دقیق بر فرآیندهای شیمیایی پیچیده، احتمال بروز خطاهای انسانی و حوادث را به شدت کاهش می‌دهند. این ارتقا همچنین بهره‌وری کلی مجتمع‌های تولیدی را بهبود بخشیده است.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:45",
+      "collected_at": "1405/08/01 12:01",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/siemens-dcs-upgrade-middle-east-petrochemical",
+      "tags": [
+        "DCS",
+        "Process Control",
+        "Petrochemical",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "رشد تقاضا برای درایوهای کم‌مصرف SINAMICS G220 در بازار آسیا",
+      "summary": "گزارش‌های جدید بازار نشان می‌دهد که درایوهای فرکانس متغیر SINAMICS G220 زیمنس با استقبال گسترده‌ای در صنایع تولیدی کشورهای آسیایی مواجه شده‌اند. این درایوها با بهره‌گیری از قابلیت‌های ارتباطی نوین و راندمان انرژی بالا، به مدیران کارخانه‌ها در کاهش هزینه‌های عملیاتی کمک شایانی می‌کنند. این محصول سهم قابل توجهی از بازار درایوهای صنعتی را به خود اختصاص داده است.",
+      "category": "economy",
+      "published_at": "1405/08/01 11:10",
+      "collected_at": "1405/08/01 12:01",
+      "source": "Automation Asia",
+      "source_url": "https://www.automationasia.net/news/sinamics-g220-demand-growth-asia",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Market Trends",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "استانداردسازی ارتباطات صنعتی با توسعه ماژول‌های OPC UA FX زیمنس",
+      "summary": "زیمنس خط تولید ماژول‌های شبکه جدید خود را بر اساس استاندارد OPC UA Field Exchange (FX) برای ارتباطات بین دستگاهی روانه بازار کرد. این استاندارد باز به تجهیزات مختلف اجازه می‌دهد صرف نظر از سازنده، به صورت کاملاً هماهنگ و بلادرنگ با یکدیگر تبادل اطلاعات کنند. این توسعه موانع سنتی در یکپارچه‌سازی سیستم‌های اتوماسیون را از میان برمی‌دارد.",
+      "category": "news",
+      "published_at": "1405/08/01 11:35",
+      "collected_at": "1405/08/01 12:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/news/siemens-opc-ua-fx-modules-release",
+      "tags": [
+        "OPC UA",
+        "Networking",
+        "Industrial Communication",
+        "Standards"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "اجرای موفقیت‌آمیز پروژه دوقلوی دیجیتال کارخانه بسته‌بندی با نرم‌افزارهای زیمنس",
+      "summary": "یک شرکت بزرگ بسته‌بندی اروپایی با استفاده از نرم‌افزار شبیه‌سازی زیمنس توانست کل خط تولید خود را پیش از ساخت فیزیکی به صورت دوقلوی دیجیتال پیاده‌سازی کند. این رویکرد به شناسایی و رفع گلوگاه‌های لجستیکی و بهینه‌سازی سرعت نوار نقاله‌ها پیش از راه‌اندازی نهایی کمک کرد. این پروژه نمونه بارزی از کاهش هزینه‌های سرمایه‌ای از طریق مهندسی مجازی است.",
+      "category": "news",
+      "published_at": "1405/08/01 12:00",
+      "collected_at": "1405/08/01 12:01",
+      "source": "Packaging World",
+      "source_url": "https://www.packworld.com/factory/digital-twin/news/siemens-digital-twin-packaging-plant",
+      "tags": [
+        "Digital Twin",
+        "Simulation",
+        "Packaging",
+        "Plant Design"
       ]
     }
   ]
