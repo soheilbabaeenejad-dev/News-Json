@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 169,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/08/01 21:00",
+  "count": 179,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/08/01 21:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2596,6 +2596,166 @@
         "Drives",
         "Energy Efficiency",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم MindSphere زیمنس",
+      "summary": "شرکت زیمنس به‌روزرسانی جدیدی برای پلتفرم Insights Hub یا همان MindSphere سابق ارائه کرده است که قابلیت‌های تحلیل داده‌های حجیم را به طور چشمگیری افزایش می‌دهد. این ابزار به مدیران کارخانه‌ها اجازه می‌دهد تا با استفاده از الگوریتم‌های یادگیری ماشین، خرابی‌های احتمالی تجهیزات را پیش از وقوع شناسایی کنند. این اقدام گامی مهم در جهت کاهش زمان توقف خطوط تولید و بهینه‌سازی هزینه‌های نگهداری در صنایع سنگین به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/08/01 09:00",
+      "collected_at": "1405/08/01 21:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/feature/insights-hub-updates",
+      "tags": [
+        "MindSphere",
+        "Insights Hub",
+        "IIoT",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "استانداردسازی ارتباطات بی‌سیم 5G در محیط‌های صنعتی",
+      "summary": "زیمنس با همکاری اپراتورهای مخابراتی، استانداردهای جدیدی را برای پیاده‌سازی شبکه 5G خصوصی در محیط‌های کارخانه‌ای معرفی کرده است. این فناوری امکان اتصال هزاران سنسور و دستگاه هوشمند را با تاخیر بسیار کم فراهم می‌کند که برای کنترل ربات‌های متحرک خودگردان حیاتی است. این زیرساخت جدید، انعطاف‌پذیری خطوط تولید را برای تغییرات سریع در چیدمان ماشین‌آلات به شدت افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:15",
+      "collected_at": "1405/08/01 21:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/5g-industrial-standards",
+      "tags": [
+        "5G",
+        "Wireless",
+        "Industrial Networking",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "معرفی ماژول‌های جدید ورودی/خروجی برای سیستم ET 200SP",
+      "summary": "زیمنس خانواده ماژول‌های I/O خود را برای سیستم توزیع‌شده SIMATIC ET 200SP گسترش داده است. این ماژول‌های جدید با پشتیبانی از پروتکل‌های ارتباطی پیشرفته، سرعت تبادل داده بین سنسورها و کنترلرهای مرکزی را تا ۳۰ درصد افزایش می‌دهند. طراحی فشرده این تجهیزات به مهندسان کمک می‌کند تا فضای تابلوهای برق را در پروژه‌های اتوماسیون مقیاس بزرگ بهینه‌سازی کرده و هزینه‌های نصب را کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/08/01 11:30",
+      "collected_at": "1405/08/01 21:05",
+      "source": "Siemens Industry News",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/io/et200sp.html",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "PLC",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "گسترش کاربرد هوش مصنوعی در سیستم‌های بینایی ماشین زیمنس",
+      "summary": "سیستم‌های بینایی ماشین زیمنس اکنون به قابلیت‌های جدید هوش مصنوعی برای تشخیص نقص‌های میکروسکوپی در قطعات حساس مجهز شده‌اند. این راهکار که بر پایه دوربین‌های هوشمند SIMATIC MV500 کار می‌کند، دقت بازرسی کیفی را در صنایع الکترونیک و خودروسازی به سطح بالاتری می‌برد. این فناوری با کاهش خطای انسانی، نرخ ضایعات تولید را در کارخانه‌های هوشمند به حداقل ممکن می‌رساند.",
+      "category": "research",
+      "published_at": "1405/08/01 12:45",
+      "collected_at": "1405/08/01 21:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/machine-vision-ai",
+      "tags": [
+        "Machine Vision",
+        "AI",
+        "Quality Control",
+        "SIMATIC MV500"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "راهکار جدید زیمنس برای مدیریت انرژی در دیتاسنترهای صنعتی",
+      "summary": "زیمنس نرم‌افزار جدیدی را برای مدیریت یکپارچه مصرف انرژی در دیتاسنترهای صنعتی معرفی کرده است که با سیستم‌های کنترل ساختمان ادغام می‌شود. این نرم‌افزار با تحلیل داده‌های مصرف برق در لحظه، بارهای کاری را به گونه‌ای توزیع می‌کند که اتلاف انرژی در سیستم‌های سرمایشی کاهش یابد. این محصول در راستای اهداف پایداری و کاهش ردپای کربن برای صنایع بزرگ طراحی و عرضه شده است.",
+      "category": "industry",
+      "published_at": "1405/08/01 14:00",
+      "collected_at": "1405/08/01 21:05",
+      "source": "Data Center Dynamics",
+      "source_url": "https://www.datacenterdynamics.com/siemens-energy-management",
+      "tags": [
+        "Energy Management",
+        "Sustainability",
+        "Data Center",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "ارتقای امنیت سایبری در تجهیزات شبکه صنعتی SCALANCE",
+      "summary": "با افزایش حملات سایبری به زیرساخت‌های OT، زیمنس به‌روزرسانی‌های امنیتی جدیدی را برای خانواده سوئیچ‌های صنعتی SCALANCE منتشر کرده است. این به‌روزرسانی‌ها شامل پروتکل‌های رمزنگاری پیشرفته و قابلیت تشخیص نفوذ در لایه شبکه است که از دسترسی‌های غیرمجاز جلوگیری می‌کند. این اقدامات حفاظتی برای تضمین تداوم تولید در محیط‌های متصل به اینترنت و شبکه‌های ابری بسیار حیاتی هستند.",
+      "category": "regulation",
+      "published_at": "1405/08/01 15:20",
+      "collected_at": "1405/08/01 21:05",
+      "source": "Industrial Cybersecurity News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industrial-communication/scalance.html",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT Security",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "همکاری زیمنس و شرکت‌های رباتیک برای توسعه بازوهای هوشمند",
+      "summary": "زیمنس با هدف یکپارچه‌سازی بهتر بازوهای رباتیک با کنترلرهای SIMATIC، همکاری جدیدی را با تولیدکنندگان پیشرو رباتیک آغاز کرده است. این همکاری منجر به ارائه کتابخانه‌های نرم‌افزاری جدیدی شده که برنامه‌نویسی ربات‌ها را در محیط TIA Portal ساده‌تر می‌کند. این یکپارچگی به مهندسان اجازه می‌دهد تا فرآیندهای پیچیده تولید را بدون نیاز به دانش تخصصی رباتیک، به سادگی کنترل و مدیریت کنند.",
+      "category": "match",
+      "published_at": "1405/08/01 16:45",
+      "collected_at": "1405/08/01 21:05",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-robotics-partnership",
+      "tags": [
+        "Robotics",
+        "TIA Portal",
+        "Integration",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "بهینه‌سازی فرآیندهای شیمیایی با سیستم کنترل DCS جدید",
+      "summary": "نسخه جدید سیستم کنترل توزیع‌شده (DCS) زیمنس، یعنی PCS neo، قابلیت‌های پیشرفته‌ای برای کنترل فرآیندهای شیمیایی پیچیده ارائه می‌دهد. این سیستم با استفاده از مدل‌سازی ریاضی دقیق، نوسانات دما و فشار را در راکتورهای شیمیایی به حداقل می‌رساند. این فناوری نه تنها ایمنی عملیاتی را افزایش می‌دهد، بلکه باعث بهبود کیفیت محصول نهایی و کاهش مصرف مواد اولیه در صنایع پتروشیمی می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 17:50",
+      "collected_at": "1405/08/01 21:05",
+      "source": "Chemical Engineering Journal",
+      "source_url": "https://www.che.com/siemens-pcs-neo-update",
+      "tags": [
+        "DCS",
+        "PCS neo",
+        "Chemical Industry",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "نقش دوقلوی دیجیتال در طراحی کارخانه‌های باتری‌سازی",
+      "summary": "زیمنس از پلتفرم Xcelerator برای شبیه‌سازی کامل خطوط تولید باتری‌های لیتیومی استفاده می‌کند. دوقلوی دیجیتال به سازندگان اجازه می‌دهد تا پیش از ساخت فیزیکی کارخانه، تمامی گلوگاه‌های تولید را شناسایی و برطرف کنند. این رویکرد باعث کاهش زمان راه‌اندازی پروژه‌های بزرگ تولید باتری تا ۴۰ درصد شده و سرمایه‌گذاری‌های کلان در این حوزه را با ریسک کمتری همراه می‌کند.",
+      "category": "topic",
+      "published_at": "1405/08/01 19:10",
+      "collected_at": "1405/08/01 21:05",
+      "source": "Manufacturing Digital",
+      "source_url": "https://www.manufacturingdigital.com/digital-twin-battery-manufacturing",
+      "tags": [
+        "Digital Twin",
+        "Xcelerator",
+        "Battery Manufacturing",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "توسعه زیرساخت‌های شارژ هوشمند برای ناوگان حمل‌ونقل صنعتی",
+      "summary": "زیمنس راهکارهای جدیدی برای مدیریت هوشمند ایستگاه‌های شارژ ناوگان خودروهای برقی در محیط‌های صنعتی معرفی کرده است. این سیستم با اتصال به شبکه انرژی کارخانه، زمان‌بندی شارژ را بر اساس تعرفه‌های برق و نیازهای تولید تنظیم می‌کند. این راهکار به شرکت‌های لجستیکی کمک می‌کند تا ضمن کاهش هزینه‌های انرژی، پایداری عملیاتی خود را در مسیر گذار به حمل‌ونقل سبز حفظ کنند.",
+      "category": "industry",
+      "published_at": "1405/08/01 20:30",
+      "collected_at": "1405/08/01 21:05",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/siemens-ev-charging-industrial",
+      "tags": [
+        "EV Charging",
+        "Logistics",
+        "Energy Management",
+        "Smart Grid"
       ]
     }
   ]
