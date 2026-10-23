@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 120,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/08/01 13:00",
+  "count": 128,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/08/01 13:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1823,6 +1823,135 @@
         "SIMATIC S7-1500",
         "Renewable Energy",
         "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "به‌روزرسانی جدید Siemens Industrial Copilot برای بهینه‌سازی کدهای SCL",
+      "summary": "زیمنس نسخه جدید دستیار هوشمند خود، Industrial Copilot، را برای بهبود فرآیند برنامه‌نویسی PLCها منتشر کرد. این ابزار اکنون با قابلیت‌های پیشرفته در تولید خودکار کدهای SCL، سرعت مهندسی را در TIA Portal به شدت افزایش می‌دهد. این ارتقا به مهندسان کمک می‌کند تا خطاهای منطقی را کاهش داده و فرآیند عیب‌یابی سیستم‌های اتوماسیون را در محیط‌های صنعتی پیچیده ساده‌تر کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 08:15",
+      "collected_at": "1405/08/01 13:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/feature/industrial-copilot-updates",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "TIA Portal",
+        "SCL",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "پیاده‌سازی استاندارد OPC UA FX در ماژول‌های شبکه زیمنس",
+      "summary": "شرکت زیمنس از ادغام استاندارد جدید OPC UA FX در نسل جدید ماژول‌های ارتباطی خود خبر داد. این پروتکل امکان تبادل داده‌های بلادرنگ و ایمن را بین دستگاه‌های مختلف در سطح کارخانه فراهم می‌کند. با استفاده از این فناوری، یکپارچه‌سازی سیستم‌های اتوماسیون ناهمگون تسهیل شده و انعطاف‌پذیری شبکه در محیط‌های تولید هوشمند به میزان قابل توجهی افزایش می‌یابد.",
+      "category": "industry",
+      "published_at": "1405/08/01 08:45",
+      "collected_at": "1405/08/01 13:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/opc-ua-fx-siemens",
+      "tags": [
+        "OPC UA",
+        "IIoT",
+        "Networking",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "گسترش اکوسیستم Xcelerator زیمنس در بازارهای نوظهور آسیا",
+      "summary": "زیمنس استراتژی جدیدی را برای توسعه پلتفرم دیجیتال Xcelerator در کشورهای در حال توسعه آسیا آغاز کرده است. این اقدام با هدف توانمندسازی صنایع کوچک و متوسط برای ورود به عرصه دیجیتالی‌سازی و کاهش هزینه‌های عملیاتی انجام می‌شود. این پلتفرم با ارائه ابزارهای یکپارچه، به شرکت‌ها کمک می‌کند تا دوقلوهای دیجیتال را برای بهینه‌سازی تولید در مقیاس وسیع پیاده‌سازی کنند.",
+      "category": "economy",
+      "published_at": "1405/08/01 09:10",
+      "collected_at": "1405/08/01 13:05",
+      "source": "Industrial News Asia",
+      "source_url": "https://www.industrialnews.asia/siemens-xcelerator-expansion",
+      "tags": [
+        "Xcelerator",
+        "Digitalization",
+        "Asia",
+        "SME"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "معرفی نسل جدید PLCهای Rockwell Automation برای محیط‌های سخت",
+      "summary": "شرکت راکول اتوماسیون از سری جدید کنترلرهای منطقی برنامه‌پذیر خود رونمایی کرد که برای کار در شرایط محیطی بسیار سخت طراحی شده‌اند. این کنترلرها با برخورداری از استانداردهای حفاظتی بالا، در برابر دماهای شدید و لرزش‌های صنعتی مقاوم هستند. این محصول جدید به کاربران اجازه می‌دهد تا در صنایع نفت، گاز و معدن، پایداری سیستم‌های کنترل خود را تضمین کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 09:35",
+      "collected_at": "1405/08/01 13:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/rockwell-new-plc",
+      "tags": [
+        "Rockwell Automation",
+        "PLC",
+        "Hardware",
+        "Industrial"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "راهکار جدید Schneider Electric برای کاهش ردپای کربن در کارخانه‌ها",
+      "summary": "اشنایدر الکتریک راهکار نرم‌افزاری جدیدی را برای پایش و مدیریت مصرف انرژی در کارخانه‌های هوشمند ارائه داد. این ابزار با تحلیل داده‌های مصرفی، پیشنهاداتی برای کاهش انتشار کربن و بهبود بهره‌وری انرژی ارائه می‌کند. این سیستم به مدیران کارخانه کمک می‌کند تا با رعایت استانداردهای زیست‌محیطی، هزینه‌های عملیاتی خود را در بلندمدت کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:30",
+      "collected_at": "1405/08/01 13:05",
+      "source": "Energy Management News",
+      "source_url": "https://www.schneider-electric.com/sustainability-solution",
+      "tags": [
+        "Schneider Electric",
+        "Sustainability",
+        "Energy",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "ارتقای سیستم‌های امنیتی در کنترلرهای SIMATIC S7-1500",
+      "summary": "زیمنس به‌روزرسانی‌های امنیتی گسترده‌ای را برای خانواده کنترلرهای SIMATIC S7-1500 منتشر کرد تا در برابر تهدیدات سایبری مدرن مقاوم‌تر شوند. این بسته امنیتی شامل تقویت پروتکل‌های رمزنگاری و بهبود مدیریت دسترسی کاربران است. این اقدام بخشی از تعهد زیمنس به استاندارد IEC 62443 برای تضمین امنیت زیرساخت‌های حیاتی در برابر حملات سایبری است.",
+      "category": "regulation",
+      "published_at": "1405/08/01 11:00",
+      "collected_at": "1405/08/01 13:05",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://www.siemens.com/cybersecurity-updates",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "توسعه زیرساخت‌های هیدروژن سبز با سیستم‌های کنترل زیمنس",
+      "summary": "زیمنس در حال همکاری با شرکت‌های انرژی برای پیاده‌سازی سیستم‌های کنترل پیشرفته در کارخانه‌های تولید هیدروژن سبز است. این سیستم‌ها وظیفه مدیریت دقیق فرآیندهای الکترولیز و ذخیره‌سازی انرژی را بر عهده دارند. با استفاده از پلتفرم‌های اتوماسیون زیمنس، بهره‌وری تولید هیدروژن افزایش یافته و پایداری شبکه انرژی در مقیاس صنعتی تضمین می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/01 11:30",
+      "collected_at": "1405/08/01 13:05",
+      "source": "Energy Global",
+      "source_url": "https://www.energyglobal.com/siemens-hydrogen-control",
+      "tags": [
+        "Hydrogen",
+        "Energy",
+        "Automation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "همکاری زیمنس و شرکت‌های لجستیکی برای توسعه ربات‌های AMR",
+      "summary": "زیمنس با همکاری پیشگامان صنعت لجستیک، نسل جدیدی از ربات‌های متحرک خودگردان (AMR) را برای انبارهای هوشمند توسعه داده است. این ربات‌ها با استفاده از سیستم‌های ناوبری پیشرفته زیمنس، بدون نیاز به زیرساخت‌های ثابت، کالاها را در انبار جابجا می‌کنند. این همکاری باعث افزایش سرعت پردازش سفارشات و کاهش خطاهای انسانی در زنجیره تامین جهانی شده است.",
+      "category": "company",
+      "published_at": "1405/08/01 12:45",
+      "collected_at": "1405/08/01 13:05",
+      "source": "Logistics Tech",
+      "source_url": "https://www.logisticstech.com/siemens-amr-robotics",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "Robotics",
+        "Siemens"
       ]
     }
   ]
