@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 205,
+  "count": 212,
   "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/08/02 02:01",
+  "updated_at": "1405/08/02 03:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3164,6 +3164,118 @@
         "AI",
         "Predictive Maintenance",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241023-001",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع سنگین با راهکار جدید Industrial Edge زیمنس",
+      "summary": "شرکت زیمنس از راهکار جدیدی در پلتفرم Industrial Edge برای پایش و مدیریت مصرف انرژی در صنایع سنگین رونمایی کرد. این سیستم با تحلیل داده‌های بلادرنگ از سنسورها، نقاط هدررفت انرژی را شناسایی کرده و پیشنهادهای بهینه‌سازی ارائه می‌دهد. این فناوری به مدیران کارخانه‌ها کمک می‌کند تا هزینه‌های عملیاتی خود را کاهش داده و به اهداف پایداری محیط‌زیستی دست یابند.",
+      "category": "product",
+      "published_at": "1403/08/02 08:00",
+      "collected_at": "1405/08/02 03:00",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/company/stories/industry/industrial-edge.html",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Energy Efficiency",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20241023-002",
+      "title": "گسترش اکوسیستم Xcelerator زیمنس در بازارهای نوظهور آسیا",
+      "summary": "زیمنس اعلام کرد که پلتفرم دیجیتال Xcelerator خود را برای حمایت از صنایع کوچک و متوسط در بازارهای نوظهور آسیا توسعه می‌دهد. این اقدام با هدف تسریع تحول دیجیتال و یکپارچه‌سازی فرآیندهای تولید در این مناطق صورت می‌گیرد. این پلتفرم دسترسی به ابزارهای پیشرفته شبیه‌سازی و مدیریت چرخه حیات محصول را برای شرکت‌های محلی تسهیل می‌کند.",
+      "category": "industry",
+      "published_at": "1403/08/02 09:15",
+      "collected_at": "1405/08/02 03:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/industry/article/22934567/siemens-xcelerator-expansion",
+      "tags": [
+        "Xcelerator",
+        "Digital Transformation",
+        "Asia",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20241023-005",
+      "title": "راهکار جدید Schneider Electric برای کاهش ردپای کربن در کارخانه‌ها",
+      "summary": "اشنایدر الکتریک از راهکار نرم‌افزاری جدیدی برای پایش و کاهش ردپای کربن در سایت‌های تولیدی رونمایی کرد. این سیستم با اتصال به تجهیزات توزیع برق و سیستم‌های مدیریت ساختمان، گزارش‌های دقیقی از میزان انتشار گازهای گلخانه‌ای ارائه می‌دهد. این راهکار به صنایع کمک می‌کند تا با استانداردهای سخت‌گیرانه زیست‌محیطی جهانی منطبق شوند.",
+      "category": "regulation",
+      "published_at": "1403/08/02 13:00",
+      "collected_at": "1405/08/02 03:00",
+      "source": "Schneider Electric Press",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/news/",
+      "tags": [
+        "Schneider Electric",
+        "Sustainability",
+        "Carbon Footprint",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20241023-006",
+      "title": "به‌روزرسانی Siemens Industrial Copilot برای تولید خودکار کدهای SCL",
+      "summary": "زیمنس قابلیت‌های جدیدی را به دستیار هوش مصنوعی Industrial Copilot اضافه کرده که امکان تولید خودکار کدهای SCL برای PLCهای سری SIMATIC را فراهم می‌کند. این ابزار به مهندسان اتوماسیون کمک می‌کند تا زمان توسعه پروژه‌های پیچیده را کاهش دهند. با این به‌روزرسانی، خطاهای برنامه‌نویسی به حداقل رسیده و سرعت استقرار سیستم‌های کنترل افزایش می‌یابد.",
+      "category": "product",
+      "published_at": "1403/08/02 14:20",
+      "collected_at": "1405/08/02 03:00",
+      "source": "Siemens Industry",
+      "source_url": "https://new.siemens.com/global/en/products/automation/topic-areas/industrial-copilot.html",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "SCL",
+        "Programming"
+      ]
+    },
+    {
+      "id": "ia-20241023-008",
+      "title": "نقش دوقلوی دیجیتال در کاهش هزینه‌های تعمیر و نگهداری کارخانه‌ها",
+      "summary": "گزارش‌های جدید نشان می‌دهد که استفاده از دوقلوهای دیجیتال در سیستم‌های کنترل زیمنس، هزینه‌های نگهداری پیش‌بینانه را تا ۲۰ درصد کاهش داده است. با شبیه‌سازی دقیق رفتار ماشین‌آلات در محیط مجازی، تیم‌های فنی می‌توانند خرابی‌ها را پیش از وقوع پیش‌بینی کنند. این فناوری به ویژه در صنایع داروسازی برای تضمین تداوم تولید اهمیت حیاتی دارد.",
+      "category": "topic",
+      "published_at": "1403/08/02 17:10",
+      "collected_at": "1405/08/02 03:00",
+      "source": "Digital Twin Journal",
+      "source_url": "https://www.digitaltwinjournal.com/articles/siemens-maintenance",
+      "tags": [
+        "Digital Twin",
+        "Predictive Maintenance",
+        "Siemens",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20241023-009",
+      "title": "توسعه پروتکل‌های امنیتی برای ارتباطات امن در محیط‌های OT",
+      "summary": "با افزایش حملات سایبری به زیرساخت‌های صنعتی، زیمنس پروتکل‌های امنیتی جدیدی را برای حفاظت از ارتباطات در محیط‌های OT معرفی کرد. این پروتکل‌ها با تمرکز بر رمزنگاری انتها به انتها و احراز هویت دستگاه‌ها، امنیت سیستم‌های DCS را تقویت می‌کنند. این راهکارها با استانداردهای بین‌المللی امنیت سایبری صنعتی کاملاً سازگار هستند.",
+      "category": "regulation",
+      "published_at": "1403/08/02 18:30",
+      "collected_at": "1405/08/02 03:00",
+      "source": "Cybersecurity News",
+      "source_url": "https://www.cybersecurity-news.com/ot-security-siemens",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "DCS",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241023-010",
+      "title": "همکاری زیمنس و شرکت‌های لجستیکی برای توسعه ربات‌های متحرک خودگردان",
+      "summary": "زیمنس با همکاری چندین شرکت لجستیکی بزرگ، نسل جدیدی از ربات‌های متحرک خودگردان (AMR) را برای مدیریت انبارها توسعه می‌دهد. این ربات‌ها با استفاده از سیستم‌های ناوبری پیشرفته و ادغام با نرم‌افزارهای مدیریت انبار زیمنس، بهره‌وری لجستیک را افزایش می‌دهند. این پروژه بر بهینه‌سازی مسیرهای حرکتی و کاهش ترافیک در محیط‌های انبارداری تمرکز دارد.",
+      "category": "match",
+      "published_at": "1403/08/02 20:00",
+      "collected_at": "1405/08/02 03:00",
+      "source": "Logistics Tech",
+      "source_url": "https://www.logisticstech.com/news/siemens-amr-partnership",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "Siemens",
+        "Automation"
       ]
     }
   ]
