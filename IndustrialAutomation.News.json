@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 189,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/08/01 23:02",
+  "count": 199,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/08/01 23:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2904,6 +2904,160 @@
         "Edge Computing",
         "IIoT",
         "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "ارتقای قابلیت‌های پردازش ابری در سیستم‌های SIMATIC S7-1500",
+      "summary": "زیمنس با معرفی به‌روزرسانی جدید برای کنترلرهای SIMATIC S7-1500، امکان اتصال مستقیم به پلتفرم‌های ابری را تسهیل کرده است. این قابلیت به مهندسان اجازه می‌دهد داده‌های فرآیندی را بدون نیاز به دروازه‌های واسط به فضای ابری منتقل کنند. این تغییر باعث کاهش تاخیر در تحلیل داده‌ها و بهبود نظارت بر عملکرد تجهیزات در مقیاس وسیع می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 08:00",
+      "collected_at": "1405/08/01 23:05",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "SIMATIC",
+        "Cloud",
+        "PLC",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "توسعه راهکار جدید Industrial Edge برای پایش ارتعاشات توربین‌ها",
+      "summary": "شرکت زیمنس راهکار جدیدی بر پایه Industrial Edge برای تحلیل بلادرنگ ارتعاشات در توربین‌های صنعتی ارائه کرده است. این سیستم با استفاده از الگوریتم‌های یادگیری ماشین، خرابی‌های احتمالی را پیش از وقوع شناسایی می‌کند. این فناوری به اپراتورها کمک می‌کند تا هزینه‌های تعمیر و نگهداری را به میزان قابل توجهی کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 23:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/edge-computing/article/21294567",
+      "tags": [
+        "Industrial Edge",
+        "Predictive Maintenance",
+        "Turbine"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای استانداردسازی TSN",
+      "summary": "زیمنس در همکاری با تولیدکنندگان بزرگ خودرو، پیاده‌سازی استاندارد شبکه حساس به زمان (TSN) را در خطوط تولید تسریع کرده است. این استاندارد ارتباطات همزمان و قابل پیش‌بینی را در محیط‌های صنعتی تضمین می‌کند. هدف از این همکاری، یکپارچه‌سازی بهتر ربات‌های صنعتی با سیستم‌های کنترل مرکزی است.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:30",
+      "collected_at": "1405/08/01 23:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iebmedia.com/news/2026/10/23/tsn-standardization-automotive",
+      "tags": [
+        "TSN",
+        "Networking",
+        "Automotive",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "معرفی قابلیت‌های جدید در پلتفرم Xcelerator برای مدیریت انرژی",
+      "summary": "پلتفرم Xcelerator زیمنس اکنون شامل ابزارهای پیشرفته‌ای برای مدیریت و بهینه‌سازی مصرف انرژی در کارخانه‌های هوشمند است. این ماژول جدید به مدیران کارخانه اجازه می‌دهد تا ردپای کربن را در هر مرحله از تولید ردیابی کنند. این اقدام در راستای تعهدات زیست‌محیطی صنایع برای کاهش آلایندگی انجام شده است.",
+      "category": "product",
+      "published_at": "1405/08/01 11:45",
+      "collected_at": "1405/08/01 23:05",
+      "source": "Siemens Xcelerator News",
+      "source_url": "https://xcelerator.siemens.com/global/en/news/energy-management-update.html",
+      "tags": [
+        "Xcelerator",
+        "Sustainability",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "ارتقای امنیت سایبری در سیستم‌های DCS با پروتکل‌های جدید",
+      "summary": "زیمنس استانداردهای امنیتی جدیدی را برای سیستم‌های کنترل توزیع‌شده (DCS) خود معرفی کرده است تا در برابر تهدیدات سایبری مدرن مقاوم‌تر شوند. این به‌روزرسانی شامل رمزنگاری پیشرفته برای ارتباطات بین سرورها و کنترلرها است. این امر امنیت زیرساخت‌های حیاتی را در برابر حملات نفوذی تقویت می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/08/01 13:00",
+      "collected_at": "1405/08/01 23:05",
+      "source": "Cybersecurity Industrial Journal",
+      "source_url": "https://www.cybersecurity-industrial.com/news/dcs-security-update",
+      "tags": [
+        "DCS",
+        "Cybersecurity",
+        "Infrastructure"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "گسترش استفاده از ربات‌های متحرک خودگردان در لجستیک صنعتی",
+      "summary": "تقاضا برای ربات‌های متحرک خودگردان (AMR) در انبارهای هوشمند به شدت افزایش یافته است. زیمنس با ارائه درایوهای هوشمند SINAMICS، به تولیدکنندگان ربات کمک می‌کند تا دقت و بهره‌وری انرژی این ماشین‌ها را بهبود بخشند. این ربات‌ها اکنون می‌توانند با سیستم‌های مدیریت انبار به صورت یکپارچه ارتباط برقرار کنند.",
+      "category": "industry",
+      "published_at": "1405/08/01 14:20",
+      "collected_at": "1405/08/01 23:05",
+      "source": "Robotics Today",
+      "source_url": "https://www.roboticstoday.com/articles/amr-logistics-automation",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "SINAMICS",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "بهره‌گیری از هوش مصنوعی در عیب‌یابی سیستم‌های درایو زیمنس",
+      "summary": "زیمنس ابزار جدیدی مبتنی بر هوش مصنوعی برای عیب‌یابی سریع درایوهای صنعتی سری SINAMICS معرفی کرده است. این ابزار با تحلیل کدهای خطا و الگوهای عملکرد، پیشنهادهای دقیقی برای تعمیر به تکنسین‌ها ارائه می‌دهد. این فناوری زمان توقف خطوط تولید را به حداقل می‌رساند و کارایی عملیاتی را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 15:50",
+      "collected_at": "1405/08/01 23:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/ai-driven-drive-diagnostics",
+      "tags": [
+        "AI",
+        "SINAMICS",
+        "Maintenance",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "توسعه زیرساخت‌های شبکه ۵G خصوصی در محیط‌های تولیدی",
+      "summary": "زیمنس با همکاری اپراتورهای مخابراتی، راهکارهای شبکه ۵G خصوصی را برای کارخانه‌های بزرگ توسعه داده است. این زیرساخت امکان ارتباط بی‌سیم با تاخیر بسیار کم را برای ربات‌ها و تجهیزات متحرک فراهم می‌کند. این فناوری جایگزین مناسبی برای شبکه‌های کابلی سنتی در محیط‌های صنعتی پیچیده است.",
+      "category": "industry",
+      "published_at": "1405/08/01 17:10",
+      "collected_at": "1405/08/01 23:05",
+      "source": "Telecom Industry News",
+      "source_url": "https://telecom-news.com/5g-private-networks-factory",
+      "tags": [
+        "5G",
+        "Industrial Networking",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "نقش دوقلوهای دیجیتال در شبیه‌سازی فرآیندهای شیمیایی",
+      "summary": "استفاده از دوقلوهای دیجیتال در صنایع شیمیایی برای شبیه‌سازی واکنش‌های پیچیده به استاندارد جدیدی تبدیل شده است. زیمنس با استفاده از نرم‌افزارهای تخصصی خود، امکان پیش‌بینی رفتار مواد در شرایط مختلف را فراهم کرده است. این کار باعث کاهش نیاز به آزمایش‌های فیزیکی پرهزینه و افزایش ایمنی در فرآیندهای شیمیایی می‌شود.",
+      "category": "research",
+      "published_at": "1405/08/01 18:30",
+      "collected_at": "1405/08/01 23:05",
+      "source": "Chemical Engineering Journal",
+      "source_url": "https://www.chemeurope.com/news/digital-twins-chemical-processes",
+      "tags": [
+        "Digital Twin",
+        "Chemical Industry",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "گزارش بازار جهانی کنترلرهای منطقی برنامه‌پذیر در سال ۲۰۲۶",
+      "summary": "گزارش اخیر نشان می‌دهد که بازار PLCها به دلیل نیاز روزافزون به اتوماسیون در کشورهای در حال توسعه، رشد پایداری را تجربه می‌کند. زیمنس همچنان به عنوان یکی از پیشگامان این بازار با تمرکز بر امنیت و یکپارچگی ابری شناخته می‌شود. این گزارش بر اهمیت انتقال از سیستم‌های سنتی به کنترلرهای هوشمند تاکید دارد.",
+      "category": "economy",
+      "published_at": "1405/08/01 20:00",
+      "collected_at": "1405/08/01 23:05",
+      "source": "Global Market Insights",
+      "source_url": "https://www.globalmarketinsights.com/reports/plc-market-2026",
+      "tags": [
+        "PLC",
+        "Market Analysis",
+        "Automation"
       ]
     }
   ]
