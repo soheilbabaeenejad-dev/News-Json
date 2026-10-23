@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 70,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/08/01 06:44",
+  "count": 80,
+  "provider": "Gemini/gemini-3.6-flash",
+  "updated_at": "1405/08/01 08:19",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1073,6 +1073,176 @@
         "AMR",
         "Logistics",
         "Smart Warehouse"
+      ]
+    },
+    {
+      "id": "ia-20261022-001",
+      "title": "یکپارچه‌سازی هوش مصنوعی Siemens Industrial Copilot با سیستم WinCC Unified",
+      "summary": "شرکت زیمنس دستیار هوش مصنوعی مولد خود را به نرم‌افزار WinCC Unified اضافه کرده است. این ویژگی به اپراتورها اجازه می‌دهد تا کدهای اسکریپت‌نویسی پیچیده را سریع‌تر تولید کرده و هشدارهای سیستم SCADA را تحلیل نمایند. این اقدام زمان خطایابی در کارخانه‌ها را تا ۴۰ درصد کاهش داده و بازدهی مهندسی اتوماسیون را به میزان چشمگیری ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 07:50",
+      "collected_at": "1405/08/01 08:19",
+      "source": "Siemens Press Release",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-industrial-copilot-wincc-unified-integration",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "WinCC Unified",
+        "SCADA",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261022-002",
+      "title": "رونمایی زیمنس از ماژول پردازش لبه‌ای جدید Scalance LPE برای محیط‌های سخت صنعتی",
+      "summary": "زیمنس سخت‌افزار جدید Scalance LPE 9403 را برای پردازش داده‌ها در لبه شبکه OT و نزدیک به سنسورها معرفی کرد. این تجهیز با پشتیبانی از سیستم‌عامل لینوکس، امکان اجرای نرم‌افزارهای تحلیلی و برنامه‌های سفارشی را فراهم می‌سازد. هدف این محصول ارتقای قابلیت اطمینان و کاهش تاخیر در انتقال داده‌های سیستم‌های اتوماسیون در شرایط دمایی سخت است.",
+      "category": "product",
+      "published_at": "1405/08/01 07:15",
+      "collected_at": "1405/08/01 08:19",
+      "source": "Siemens Industrial Automation",
+      "source_url": "https://www.siemens.com/global/en/products/automation/industrial-communication/scalance-lpe.html",
+      "tags": [
+        "Siemens",
+        "Scalance",
+        "Industrial Edge",
+        "OT Network",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261022-003",
+      "title": "گسترش همکاری زیمنس و بنتلی سیستمز برای توسعه دوقلوهای دیجیتال زیرساخت‌ها",
+      "summary": "شرکت‌های زیمنس و بنتلی سیستمز همکاری استراتژیک خود را برای ادغام داده‌های مدل‌سازی اطلاعات ساختمان با پلتفرم Xcelerator افزایش دادند. این پلتفرم یکپارچه به مهندسان اجازه می‌دهد چرخه حیات کامل تاسیسات صنعتی را به صورت آنلاین شبیه‌سازی کنند. این راهکار هزینه‌های عملیاتی پروژه‌های بزرگ اتوماسیون را تا ۱۵ درصد کاهش می‌دهد.",
+      "category": "company",
+      "published_at": "1405/08/01 06:40",
+      "collected_at": "1405/08/01 08:19",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/digital-transformation/article/siemens-bentley-digital-twin-expansion",
+      "tags": [
+        "Siemens",
+        "Bentley Systems",
+        "Digital Twin",
+        "Xcelerator",
+        "BIM"
+      ]
+    },
+    {
+      "id": "ia-20261022-004",
+      "title": "بهینه‌سازی سیستم کنترل توزیع‌شده OpreX یوکوگاوا برای افزایش پایداری فرآیندها",
+      "summary": "یوکوگاوا بروزرسانی جدیدی برای سیستم DCS پلتفرم OpreX عرضه کرده است که قابلیت‌های پیشرفته پایش آنی و مدیریت هوشمند فرآیندها را فراهم می‌سازد. این نرم‌افزار خطرات ناشی از وقفه ناگهانی در خطوط تولید مجتمع‌های پتروشیمی را کاهش می‌دهد. این اقدام گامی مهم در جهت نوسازی پالایشگاه‌ها و ارتقای امنیت عملیاتی به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/08/01 05:55",
+      "collected_at": "1405/08/01 08:19",
+      "source": "Yokogawa Newsroom",
+      "source_url": "https://www.yokogawa.com/news/press-releases/2026/oprex-control-software-update",
+      "tags": [
+        "Yokogawa",
+        "DCS",
+        "OpreX",
+        "Process Automation",
+        "Petrochemical"
+      ]
+    },
+    {
+      "id": "ia-20261022-005",
+      "title": "ارتقای عملکرد کنترلرهای حرکتی SIMATIC Drive Controller زیمنس در خطوط بسته‌بندی",
+      "summary": "زیمنس نسخه بروزشده کنترلرهای سری SIMATIC S7-1500D را برای مدیریت همزمان ده‌ها محور حرکتی پیچیده در خطوط تولید معرفی کرد. این سیستم با ادغام کنترلر PLC و درایو در یک سخت‌افزار واحد، فضای تابلوی برق را تا ۳۰ درصد کاهش می‌دهد. همچنین سرعت پاسخگویی سیستم‌های موشن کنترل به نحو محسوسی افزایش یافته است.",
+      "category": "product",
+      "published_at": "1405/08/01 04:30",
+      "collected_at": "1405/08/01 08:19",
+      "source": "Siemens Global",
+      "source_url": "https://press.siemens.com/global/en/feature/simatic-drive-controller-advancements-motion-control",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "S7-1500",
+        "Motion Control",
+        "Packaging"
+      ]
+    },
+    {
+      "id": "ia-20261022-006",
+      "title": "راه‌اندازی مرکز جدید دفاع سایبری صنعتی زیمنس برای حفاظت از شبکه‌های OT",
+      "summary": "زیمنس خدمات مرکز دفاع سایبری صنعتی (ICDC) را برای پایش ۲۴ ساعته تهدیدات در زیرساخت‌های حساس OT معرفی کرد. این مرکز با ترکیب پلتفرم‌های تحلیل هوشمند و کارشناسان امنیت شبکه، آسیب‌پذیری کنترلرهای SIMATIC را سریعاً شناسایی می‌کند. این سرویس موجب تقویت پایداری کارخانه‌ها در برابر حملات باج‌افزاری می‌شود.",
+      "category": "industry",
+      "published_at": "1405/07/30 23:10",
+      "collected_at": "1405/08/01 08:19",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-launches-industrial-cyber-defense-center-for-ot-security",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "OT Security",
+        "SIMATIC",
+        "ICDC"
+      ]
+    },
+    {
+      "id": "ia-20261022-007",
+      "title": "عرضه ربات‌های جدید SCARA شرکت کوکا برای مونتاژ دقیق قطعات الکترونیکی",
+      "summary": "شرکت کوکا سری جدید ربات‌های چهارمحوره KR SCARA را با سرعت و دقت تکرارپذیری بالاتر برای صنعت اتوماسیون الکترونیک معرفی کرد. این ربات‌ها توانایی جابجایی قطعات تا وزن ۶ کیلوگرم را داشته و به‌راحتی با سیستم‌های کنترل صنعتی یکپارچه می‌شوند. این محصول بهینه‌سازی خطوط تولید انبوه بردهای الکترونیکی را هدف قرار داده است.",
+      "category": "product",
+      "published_at": "1405/07/30 21:45",
+      "collected_at": "1405/08/01 08:19",
+      "source": "KUKA Robotics Press",
+      "source_url": "https://www.kuka.com/en-de/press/news/2026/new-kr-scara-robots-electronics-assembly",
+      "tags": [
+        "KUKA",
+        "Robotics",
+        "SCARA",
+        "Assembly",
+        "Electronics"
+      ]
+    },
+    {
+      "id": "ia-20261022-008",
+      "title": "افزوده شدن قابلیت‌های هوشمند IIoT به منبع تغذیه صنعتی SITOP PSU8600 زیمنس",
+      "summary": "زیمنس قابلیت‌های ارتباطی جدیدی بر پایه پروتکل OPC UA و اتصال به Industrial Edge را به سیستم منبع تغذیه SITOP PSU8600 اضافه کرد. این ارتقاء امکان پایش آنی جریان، ولتاژ و پیش‌بینی طول عمر قطعات را برای مهندسان نگهداری فراهم می‌کند. این فناوری از توقف‌های ناگهانی خطوط تولید به دلیل نوسانات برق جلوگیری می‌نماید.",
+      "category": "product",
+      "published_at": "1405/07/30 19:20",
+      "collected_at": "1405/08/01 08:19",
+      "source": "Siemens Market News",
+      "source_url": "https://www.siemens.com/global/en/products/automation/power-supplies/sitop-psu8600-iiot.html",
+      "tags": [
+        "Siemens",
+        "SITOP",
+        "Power Supply",
+        "OPC UA",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261022-009",
+      "title": "توسعه شبکه کارخانه‌های دیجیتال مرسدس بنز با استفاده از پلتفرم Siemens Xcelerator",
+      "summary": "مرسدس بنز با استفاده از نرم‌افزارهای پلتفرم Siemens Xcelerator فرآیند تولید خودروهای الکتریکی خود را در چندین سایت صنعتی یکپارچه کرده است. این همکاری امکان بازپیکربندی سریع خطوط مونتاژ بر اساس تقاضای بازار را به صورت خودکار میسر می‌سازد. در نتیجه، زمان عرضه محصولات جدید به بازار تا ۲۰ درصد کاهش یافته است.",
+      "category": "company",
+      "published_at": "1405/07/30 17:05",
+      "collected_at": "1405/08/01 08:19",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/digital-factory/mercedes-benz-siemens-xcelerator-expansion",
+      "tags": [
+        "Siemens",
+        "Mercedes-Benz",
+        "Xcelerator",
+        "Automotive",
+        "Digital Factory"
+      ]
+    },
+    {
+      "id": "ia-20261022-010",
+      "title": "معرفی قابلیت‌های جدید در سیستم کنترل توزیع‌شده DeltaV شرکت امرسون",
+      "summary": "شرکت امرسون نسخه جدید سیستم کنترل توزیع‌شده DeltaV را با تمرکز بر تسهیل عملیات از راه دور و ارتقای امنیت سایبری منتشر کرد. این نسخه دارای رابط کاربری مبتنی بر وب برای اپراتورها بوده و با استانداردهای جدید امنیت OT کاملاً هماهنگ است. این به‌روزرسانی مدیریت مجتمع‌های بزرگ صنعتی را در مناطق دورافتاده آسان‌تر می‌سازد.",
+      "category": "product",
+      "published_at": "1405/07/30 14:30",
+      "collected_at": "1405/08/01 08:19",
+      "source": "Emerson Automation News",
+      "source_url": "https://www.emerson.com/en-us/news/automation/deltav-dcs-software-update-remote-operations",
+      "tags": [
+        "Emerson",
+        "DeltaV",
+        "DCS",
+        "OT Security",
+        "Remote Operations"
       ]
     }
   ]
