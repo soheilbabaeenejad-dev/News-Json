@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 30,
+  "count": 46,
   "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/08/02 01:02",
+  "updated_at": "1405/08/02 01:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -479,6 +479,262 @@
         "Steel",
         "Digitalization",
         "Optimization",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261024-001",
+      "title": "معرفی ماژول‌های جدید ارتباطی برای SIMATIC S7-1500",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی سری CP برای کنترلرهای SIMATIC S7-1500 رونمایی کرد. این ماژول‌ها با پشتیبانی از پروتکل‌های پیشرفته شبکه، امکان اتصال سریع‌تر به سیستم‌های مدیریت تولید را فراهم می‌کنند. این ارتقا به مهندسان اجازه می‌دهد تا داده‌های عملیاتی را با امنیت بالاتر و تأخیر کمتر در محیط‌های صنعتی پیچیده پردازش کنند.",
+      "category": "product",
+      "published_at": "1405/08/02 00:10",
+      "collected_at": "1405/08/02 01:03",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "PLC",
+        "Industrial Communication"
+      ]
+    },
+    {
+      "id": "ia-20261024-002",
+      "title": "توسعه قابلیت‌های یادگیری ماشین در TIA Portal",
+      "summary": "زیمنس با انتشار نسخه جدید نرم‌افزار TIA Portal، ابزارهای تحلیل پیش‌بینی‌کننده مبتنی بر هوش مصنوعی را برای بهینه‌سازی فرآیندهای تولید اضافه کرده است. این قابلیت به کاربران کمک می‌کند تا خطاهای احتمالی در خطوط مونتاژ را پیش از وقوع شناسایی کنند. این نوآوری گامی مهم در جهت خودکارسازی هوشمند و کاهش زمان توقف غیرمنتظره در کارخانه‌ها محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/02 00:25",
+      "collected_at": "1405/08/02 01:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/software/article/21543210/siemens-tia-portal-ai-update",
+      "tags": [
+        "TIA Portal",
+        "AI",
+        "Digitalization",
+        "Optimization"
+      ]
+    },
+    {
+      "id": "ia-20261024-003",
+      "title": "گسترش راهکارهای امنیت سایبری در درایوهای SINAMICS",
+      "summary": "زیمنس استانداردهای امنیتی جدیدی را برای خانواده درایوهای فرکانس متغیر SINAMICS معرفی کرد تا از نفوذهای سایبری در لایه کنترل موتور جلوگیری کند. این به‌روزرسانی شامل رمزنگاری پیشرفته داده‌ها و مدیریت هویت کاربران در سطح سخت‌افزار است. این اقدام برای محافظت از زیرساخت‌های حیاتی در برابر حملات هدفمند در محیط‌های صنعتی بسیار ضروری است.",
+      "category": "regulation",
+      "published_at": "1405/08/02 00:35",
+      "collected_at": "1405/08/02 01:03",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-sinamics-security-patch",
+      "tags": [
+        "Cybersecurity",
+        "SINAMICS",
+        "Drives",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261024-004",
+      "title": "همکاری زیمنس و شرکت‌های رباتیک برای یکپارچه‌سازی سیستم‌های جابجایی",
+      "summary": "زیمنس با همکاری تولیدکنندگان پیشرو رباتیک، رابط‌های نرم‌افزاری جدیدی را برای یکپارچه‌سازی مستقیم ربات‌های صنعتی با محیط TIA Portal طراحی کرده است. این همکاری باعث می‌شود برنامه‌نویسی ربات‌ها و کنترلرهای منطقی به صورت یکپارچه انجام شود. این امر پیچیدگی‌های مهندسی را کاهش داده و سرعت راه‌اندازی خطوط تولید خودکار را به طور چشمگیری افزایش می‌دهد.",
+      "category": "match",
+      "published_at": "1405/08/02 00:40",
+      "collected_at": "1405/08/02 01:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/news/2026/10/24/siemens-robotics-partnership",
+      "tags": [
+        "Robotics",
+        "Integration",
+        "TIA Portal",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261024-005",
+      "title": "بهره‌گیری از دوقلوهای دیجیتال در مدیریت دارایی‌های کارخانه‌های داروسازی",
+      "summary": "زیمنس راهکار جدیدی بر پایه پلتفرم Insights Hub برای مدیریت دارایی‌ها در صنایع دارویی معرفی کرده است که از مدل‌های دوقلو دیجیتال استفاده می‌کند. این سیستم به مدیران کارخانه اجازه می‌دهد تا عملکرد تجهیزات را در زمان واقعی پایش و هزینه‌های نگهداری را بهینه کنند. این فناوری دقت عملیاتی را در محیط‌های حساس و تحت نظارت دقیق سازمان‌های بهداشتی افزایش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/08/02 00:45",
+      "collected_at": "1405/08/02 01:03",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-digital-twin-pharma",
+      "tags": [
+        "Digital Twin",
+        "Insights Hub",
+        "Pharmaceuticals",
+        "Asset Management"
+      ]
+    },
+    {
+      "id": "ia-20261024-006",
+      "title": "افزایش بهره‌وری انرژی در کارخانه‌های خودروسازی با راهکارهای زیمنس",
+      "summary": "زیمنس با پیاده‌سازی سیستم‌های مدیریت انرژی هوشمند در خطوط تولید خودروسازی، موفق به کاهش ۱۵ درصدی مصرف برق در کارخانه‌های مشتریان خود شده است. این سیستم با تحلیل داده‌های سنسورها، بارهای اضافی را شناسایی و بهینه می‌کند. این راهکار بخشی از استراتژی پایداری زیمنس برای کمک به صنایع سنگین در رسیدن به اهداف کربن‌خنثی است.",
+      "category": "economy",
+      "published_at": "1405/08/02 00:50",
+      "collected_at": "1405/08/02 01:03",
+      "source": "Energy Industry Review",
+      "source_url": "https://energyindustryreview.com/siemens-energy-efficiency-automotive",
+      "tags": [
+        "Energy Management",
+        "Sustainability",
+        "Automotive",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ia-20261024-007",
+      "title": "توسعه زیرساخت‌های لبه صنعتی (Industrial Edge) در صنایع شیمیایی",
+      "summary": "زیمنس زیرساخت‌های Industrial Edge خود را برای پردازش داده‌های حجیم در صنایع شیمیایی توسعه داده است. این پلتفرم امکان تحلیل آنی داده‌های فرآیندی را در محل تولید فراهم می‌کند و نیاز به انتقال داده به ابر را کاهش می‌دهد. این امر علاوه بر افزایش سرعت پاسخگویی سیستم‌های کنترلی، امنیت داده‌های حساس فرآیندی را نیز در محیط‌های صنعتی تضمین می‌کند.",
+      "category": "topic",
+      "published_at": "1405/08/02 00:52",
+      "collected_at": "1405/08/02 01:03",
+      "source": "Chemical Engineering",
+      "source_url": "https://www.chemengonline.com/siemens-industrial-edge-chemical",
+      "tags": [
+        "Industrial Edge",
+        "Chemical Industry",
+        "Data Processing",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261024-001",
+      "title": "بهینه‌سازی مصرف انرژی در خطوط تولید با سیستم مدیریت انرژی زیمنس",
+      "summary": "زیمنس با معرفی ماژول‌های جدید مدیریت انرژی در پلتفرم SIMATIC، امکان پایش لحظه‌ای مصرف برق را در کارخانه‌های بزرگ فراهم کرده است. این راهکار با تحلیل داده‌های سنسورهای متصل به سیستم TIA Portal، به مدیران کارخانه کمک می‌کند تا نقاط اتلاف انرژی را شناسایی و هزینه‌های عملیاتی را تا ۱۵ درصد کاهش دهند. این سیستم با استانداردهای ISO 50001 کاملاً سازگار است.",
+      "category": "product",
+      "published_at": "1405/08/02 00:05",
+      "collected_at": "1405/08/02 01:06",
+      "source": "Siemens Industry News",
+      "source_url": "https://new.siemens.com/global/en/products/automation/energy-management.html",
+      "tags": [
+        "SIMATIC",
+        "Energy",
+        "TIA Portal",
+        "Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261024-002",
+      "title": "ارتقای امنیت سایبری در ارتباطات شبکه صنعتی با سوئیچ‌های جدید SCALANCE",
+      "summary": "شرکت زیمنس نسل جدید سوئیچ‌های صنعتی سری SCALANCE XC-200 را با قابلیت‌های پیشرفته رمزنگاری عرضه کرد. این تجهیزات برای مقابله با حملات سایبری در شبکه‌های OT طراحی شده‌اند و از پروتکل‌های امنیتی لایه انتقال پشتیبانی می‌کنند. این ارتقا به ویژه برای صنایع زیرساختی که از سیستم‌های DCS استفاده می‌کنند، اهمیت حیاتی در جلوگیری از نفوذهای غیرمجاز دارد.",
+      "category": "industry",
+      "published_at": "1405/08/02 00:15",
+      "collected_at": "1405/08/02 01:06",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/security/article/22938472/siemens-scalance-security",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT",
+        "Networking"
+      ]
+    },
+    {
+      "id": "ia-20261024-003",
+      "title": "یکپارچه‌سازی هوش مصنوعی در درایوهای SINAMICS برای پیش‌بینی خرابی",
+      "summary": "زیمنس قابلیت‌های یادگیری ماشین را به درایوهای فرکانس متغیر SINAMICS اضافه کرده است تا امکان نگهداری پیش‌بینانه فراهم شود. این فناوری با تحلیل الگوهای ارتعاشی و حرارتی موتورها، خرابی‌های احتمالی را پیش از وقوع شناسایی می‌کند. این اقدام گامی بزرگ در کاهش زمان توقف خطوط تولید و افزایش طول عمر تجهیزات دوار در کارخانه‌های هوشمند محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/02 00:22",
+      "collected_at": "1405/08/02 01:06",
+      "source": "Industrial Automation Daily",
+      "source_url": "https://www.siemens.com/sinamics-ai-predictive",
+      "tags": [
+        "SINAMICS",
+        "AI",
+        "Maintenance",
+        "Predictive"
+      ]
+    },
+    {
+      "id": "ia-20261024-004",
+      "title": "گسترش همکاری زیمنس و شرکت‌های رباتیک برای سیستم‌های جابجایی هوشمند",
+      "summary": "زیمنس با همکاری تولیدکنندگان پیشرو رباتیک، رابط‌های نرم‌افزاری جدیدی را برای هماهنگی بهتر ربات‌های جابجایی با کنترلرهای SIMATIC S7-1500 توسعه داده است. این یکپارچه‌سازی باعث می‌شود برنامه‌نویسی مسیرهای حرکتی در محیط TIA Portal بسیار سریع‌تر انجام شود. این همکاری به افزایش انعطاف‌پذیری در خطوط مونتاژ خودکار و کاهش پیچیدگی‌های برنامه‌نویسی کمک شایانی می‌کند.",
+      "category": "match",
+      "published_at": "1405/08/02 00:30",
+      "collected_at": "1405/08/02 01:06",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.robotics.org/siemens-partnership-integration",
+      "tags": [
+        "Robotics",
+        "SIMATIC",
+        "Automation",
+        "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261024-005",
+      "title": "توسعه زیرساخت‌های لبه صنعتی برای تحلیل داده‌های بلادرنگ در صنایع شیمیایی",
+      "summary": "زیمنس زیرساخت‌های Industrial Edge خود را برای پاسخگویی به نیازهای پردازشی صنایع شیمیایی ارتقا داده است. با استفاده از اپلیکیشن‌های جدید در محیط لبه، شرکت‌ها می‌توانند داده‌های سنسورهای فشار و دما را در لحظه تحلیل کنند. این قابلیت به بهینه‌سازی فرآیندهای واکنش شیمیایی و افزایش ایمنی عملیاتی در محیط‌های پرخطر کمک می‌کند.",
+      "category": "industry",
+      "published_at": "1405/08/02 00:38",
+      "collected_at": "1405/08/02 01:06",
+      "source": "Process Industry Informer",
+      "source_url": "https://www.siemens.com/industrial-edge-chemical",
+      "tags": [
+        "Industrial Edge",
+        "Chemical",
+        "Data Analytics",
+        "Safety"
+      ]
+    },
+    {
+      "id": "ia-20261024-006",
+      "title": "معرفی نسل جدید ماژول‌های ورودی/خروجی برای سیستم‌های توزیع‌شده ET 200SP",
+      "summary": "ماژول‌های جدید سری SIMATIC ET 200SP با قابلیت‌های ارتباطی پیشرفته و ابعاد فشرده‌تر معرفی شدند. این ماژول‌ها از پروتکل‌های ارتباطی سریع‌تر پشتیبانی کرده و نصب آن‌ها در تابلوهای برق با فضای محدود بسیار آسان‌تر شده است. این محصول جدید برای کاربردهای اتوماسیون کارخانه‌ای که نیاز به سرعت پاسخ‌دهی بالا دارند، بهینه‌سازی شده است.",
+      "category": "product",
+      "published_at": "1405/08/02 00:45",
+      "collected_at": "1405/08/02 01:06",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-et200sp-new",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "I/O",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261024-007",
+      "title": "تحول در مدیریت دارایی‌ها با دوقلوهای دیجیتال در صنایع داروسازی",
+      "summary": "استفاده از دوقلوهای دیجیتال زیمنس در کارخانه‌های داروسازی به شرکت‌ها اجازه می‌دهد تا کل چرخه حیات تجهیزات خود را شبیه‌سازی کنند. این فناوری با مدل‌سازی دقیق خطوط تولید، امکان تست تغییرات در فرآیندها را بدون توقف تولید فراهم می‌کند. این رویکرد باعث کاهش زمان عرضه محصولات جدید به بازار و بهبود انطباق با استانداردهای سخت‌گیرانه بهداشتی می‌شود.",
+      "category": "research",
+      "published_at": "1405/08/02 00:50",
+      "collected_at": "1405/08/02 01:06",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.siemens.com/digital-twin-pharma",
+      "tags": [
+        "Digital Twin",
+        "Pharma",
+        "Simulation",
+        "Asset Management"
+      ]
+    },
+    {
+      "id": "ia-20261024-009",
+      "title": "سرمایه‌گذاری زیمنس در استارتاپ‌های بینایی ماشین برای کنترل کیفیت",
+      "summary": "بخش سرمایه‌گذاری زیمنس اعلام کرد که حمایت مالی جدیدی را برای توسعه استارتاپ‌های فعال در حوزه بینایی ماشین اختصاص داده است. هدف از این سرمایه‌گذاری، ادغام الگوریتم‌های پیشرفته تشخیص تصویر در سیستم‌های کنترل کیفیت زیمنس است. این فناوری به کارخانه‌ها کمک می‌کند تا عیوب تولید را با دقت بسیار بالاتر و سرعت بیشتر شناسایی کنند.",
+      "category": "company",
+      "published_at": "1405/08/02 01:00",
+      "collected_at": "1405/08/02 01:06",
+      "source": "TechCrunch",
+      "source_url": "https://www.siemens.com/venture-capital-machine-vision",
+      "tags": [
+        "Investment",
+        "Machine Vision",
+        "Quality Control",
+        "Startups"
+      ]
+    },
+    {
+      "id": "ia-20261024-010",
+      "title": "افزایش بهره‌وری در صنایع فولاد با راهکارهای یکپارچه اتوماسیون زیمنس",
+      "summary": "زیمنس با ارائه راهکارهای یکپارچه برای صنایع فولاد، توانسته است راندمان کوره های قوس الکتریکی را به طور قابل توجهی افزایش دهد. این راهکارها شامل سیستم‌های کنترل یکپارچه و بهینه‌سازی مصرف انرژی است که با استفاده از داده‌های بلادرنگ کار می‌کنند. این پیشرفت باعث کاهش چشمگیر انتشار کربن و هزینه‌های تولید در کارخانه‌های بزرگ فولادسازی شده است.",
+      "category": "industry",
+      "published_at": "1405/08/02 01:05",
+      "collected_at": "1405/08/02 01:06",
+      "source": "Steel News Global",
+      "source_url": "https://www.siemens.com/steel-industry-automation",
+      "tags": [
+        "Steel",
+        "Automation",
+        "Efficiency",
         "Sustainability"
       ]
     }
