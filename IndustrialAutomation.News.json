@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 128,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/08/01 13:05",
+  "count": 130,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/08/01 13:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1951,6 +1951,38 @@
         "AMR",
         "Logistics",
         "Robotics",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "راهکار جدید Industrial Edge زیمنس برای مدیریت مصرف انرژی",
+      "summary": "زیمنس یک اپلیکیشن جدید برای پلتفرم Industrial Edge ارائه کرده که به مدیران کارخانه اجازه می‌دهد مصرف انرژی تجهیزات را به صورت بلادرنگ مانیتور کنند. این اپلیکیشن با اتصال به درایوهای SINAMICS، داده‌های دقیق مصرف را تحلیل کرده و پیشنهاداتی برای کاهش هزینه‌های عملیاتی ارائه می‌دهد. این ابزار به سادگی روی سخت‌افزارهای موجود نصب می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 11:00",
+      "collected_at": "1405/08/01 13:08",
+      "source": "Siemens Industry",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industrial-edge.html",
+      "tags": [
+        "Industrial Edge",
+        "Energy",
+        "Siemens",
+        "SINAMICS"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "معرفی قابلیت‌های جدید در TIA Portal V19 برای یکپارچگی ابری",
+      "summary": "نسخه جدید TIA Portal V19 با تمرکز بر یکپارچگی بهتر با سرویس‌های ابری و پلتفرم‌های مدیریت داده معرفی شد. این نسخه امکان همگام‌سازی پروژه‌های مهندسی با فضای ابری را فراهم کرده و همکاری تیمی را در پروژه‌های بزرگ تسهیل می‌کند. همچنین ابزارهای جدیدی برای عیب‌یابی از راه دور به این محیط مهندسی اضافه شده است.",
+      "category": "product",
+      "published_at": "1405/08/01 12:50",
+      "collected_at": "1405/08/01 13:08",
+      "source": "Siemens Software",
+      "source_url": "https://siemens.com/tia-portal",
+      "tags": [
+        "TIA Portal",
+        "Cloud",
+        "Engineering",
         "Siemens"
       ]
     }
