@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 180,
+  "count": 190,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/08/01 20:05",
+  "updated_at": "1405/08/01 20:17",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2766,6 +2766,166 @@
         "شبکه صنعتی",
         "اترنت",
         "ارتباطات"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "گسترش کاربرد هوش مصنوعی در محیط‌های کارگاهی با راهکار جدید زیمنس",
+      "summary": "شرکت زیمنس از توسعه جدید قابلیت‌های هوش مصنوعی برای ابزارهای مهندسی خود خبر داد که امکان پردازش داده‌های بلادرنگ را در محیط‌های کارگاهی فراهم می‌کند. این فناوری به مهندسان کمک می‌کند تا خطاهای سیستم را سریع‌تر شناسایی کرده و کارایی خطوط تولید را به طور چشمگیری افزایش دهند. این راهکار به ویژه برای صنایع خودروسازی و مونتاژ پیشرفته طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 20:17",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-ai-edge-update",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "AI",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "بهه‌سازی ارتباطات صنعتی با ماژول‌های جدید شبکه سیماتیک",
+      "summary": "نسخه جدید ماژول‌های ارتباطی خانواده SIMATIC زیمنس با پشتیبانی کامل از پروتکل‌های امن شبکه معرفی شد. این ماژول‌ها امکان تبادل ایمن داده‌ها را در لایه‌های مختلف اتوماسیون صنعتی فراهم کرده و استانداردهای امنیتی جدید را برآورده می‌سازند. این توسعه گامی مهم در جهت تقویت امنیت سایبری زیرساخت‌های حیاتی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 20:17",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-simatic-network-update",
+      "tags": [
+        "SIMATIC",
+        "Networking",
+        "Cybersecurity",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "نقش کلیدی پلتفرم اکسلراتور در توسعه کارخانه‌های بدون کربن",
+      "summary": "پلتفرم Siemens Xcelerator ابزارهای جدیدی را برای محاسبه و کاهش ردپای کربن در واحدهای صنعتی بزرگ ارائه کرده است. این قابلیت‌ها به مدیران کارخانه‌ها اجازه می‌دهد تا مصرف انرژی را به صورت دقیق پایش کرده و راهکارهای بهینه‌سازی را پیاده‌سازی کنند. این ابتکار در راستای اهداف توسعه پایدار جهانی و کاهش انتشار گازهای گلخانه‌ای اجرا شده است.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 20:17",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-xcelerator-sustainability",
+      "tags": [
+        "Xcelerator",
+        "Sustainability",
+        "Energy Management",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "افزایش بهره‌وری خطوط تولید با درایوهای پیشرفته سینامیکس",
+      "summary": "نسخه بهینه‌سازی شده درایوهای صنعتی SINAMICS با تمرکز بر کاهش تلفات انرژی و افزایش دقت کنترل حرکت معرفی شد. این تجهیزات جدید با سیستم‌های اتوماسیون زیمنس یکپارچگی کامل داشته و زمان توقف ناخواسته ماشین‌آلات را کاهش می‌دهند. این درایوها به‌ویژه در صنایع بسته‌بندی و فرآیندی کاربرد فراوانی دارند.",
+      "category": "product",
+      "published_at": "1405/08/01 11:20",
+      "collected_at": "1405/08/01 20:17",
+      "source": "IEB Magazine",
+      "source_url": "https://www.iebmedia.com/siemens-sinamics-drives-update",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Motion Control",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری زیمنس و اپراتورهای مخابراتی برای توسعه شبکه 5G صنعتی",
+      "summary": "زیمنس با همکاری شرکت‌های بزرگ مخابراتی، زیرساخت‌های ارتباطی 5G اختصاصی را برای محیط‌های کارخانه‌ای توسعه داد. این فناوری ارتباطی پرسرعت و پایدار، امکان کنترل بی‌سیم ربات‌ها و تجهیزات سنگین را بدون تاخیر زمانی فراهم می‌کند. این پروژه تحولی بزرگ در راستای تحقق مفهوم کارخانه کاملاً متصل ایجاد خواهد کرد.",
+      "category": "news",
+      "published_at": "1405/08/01 12:45",
+      "collected_at": "1405/08/01 20:17",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-5g-private-networks",
+      "tags": [
+        "5G",
+        "Industrial IoT",
+        "Wireless",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای قابلیت‌های نگهداری پیش‌بینانه با سیستم‌های کنترل توزیع‌شده",
+      "summary": "سیستم‌های کنترل توزیع‌شده (DCS) زیمنس به الگوریتم‌های پیشرفته تحلیل داده مجهز شدند که خرابی تجهیزات را پیش‌بینی می‌کنند. این راهکار با مانیتورینگ مداوم وضعیت پمپ‌ها و توربین‌ها، از بروز خسارات پرهزینه جلوگیری می‌کند. این سیستم‌ها نقش حیاتی در صنایع نفت، گاز و پتروشیمی ایفا می‌کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 13:30",
+      "collected_at": "1405/08/01 20:17",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-dcs-predictive-maintenance",
+      "tags": [
+        "DCS",
+        "Predictive Maintenance",
+        "Process Automation",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "گسترش استفاده از ربات‌های متحرک خودگردان در لجستیک کارخانه",
+      "summary": "راهکارهای جدید لجستیکی زیمنس برای مدیریت ناوگان ربات‌های متحرک خودگردان (AMR) در انبارهای صنعتی به بازار عرضه شد. این نرم‌افزار مسیر حرکت ربات‌ها را به صورت پویا بهینه‌سازی کرده و سرعت انتقال قطعات را افزایش می‌دهد. این سیستم به طور مستقیم با نرم‌افزارهای برنامه‌ریزی منابع سازمان یکپارچه می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/01 14:10",
+      "collected_at": "1405/08/01 20:17",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/siemens-amr-fleet-management",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "Robotics",
+        "Supply Chain"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه ابزارهای مهندسی نرم‌افزار برای کاهش زمان راه‌اندازی خطوط",
+      "summary": "بسته‌های نرم‌افزاری جدید مهندسی اتوماسیون با هدف تسهیل فرآیند برنامه‌نویسی و شبیه‌سازی تجهیزات معرفی شدند. این ابزارها به تیم‌های مهندسی اجازه می‌دهد پیش از نصب فیزیکی تجهیزات، عملکرد خطوط تولید را بررسی کنند. این ویژگی باعث صرفه‌جویی چشمگیر در هزینه‌ها و زمان اجرای پروژه‌ها می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 15:00",
+      "collected_at": "1405/08/01 20:17",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-engineering-tools-update",
+      "tags": [
+        "Engineering",
+        "Software",
+        "Simulation",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "راهکار جدید امنیت سایبری برای حفاظت از زیرساخت‌های اتوماسیون",
+      "summary": "زیمنس بسته امنیتی جدیدی را برای حفاظت از شبکه‌های صنعتی در برابر تهدیدات سایبری پیچیده ارائه داد. این راهکار با نظارت لحظه‌ای بر ترافیک شبکه OT، ناهنجاری‌ها را شناسایی و مسدود می‌کند. این محصول پاسخی به افزایش حملات سایبری به زیرساخت‌های حیاتی تولیدی است.",
+      "category": "regulation",
+      "published_at": "1405/08/01 16:25",
+      "collected_at": "1405/08/01 20:17",
+      "source": "Security Week",
+      "source_url": "https://www.securityweek.com/siemens-ot-cybersecurity-solution",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "Security",
+        "Infrastructure"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "بهبود کارایی مصرف انرژی در کارخانه‌ها با سیستم‌های مانیتورینگ ابری",
+      "summary": "پلتفرم ابری تحلیل انرژی زیمنس امکان پایش مصرف برق و آب را در سطح کارخانه‌های بزرگ فراهم کرد. این سیستم با ارائه گزارش‌های دقیق به مدیران کمک می‌کند تا نقاط اتلاف انرژی را شناسایی و برطرف کنند. این راهکار نقش مهمی در کاهش هزینه‌های عملیاتی واحدهای صنعتی دارد.",
+      "category": "product",
+      "published_at": "1405/08/01 17:50",
+      "collected_at": "1405/08/01 20:17",
+      "source": "Energy Manager Today",
+      "source_url": "https://www.energymanagertoday.com/siemens-cloud-energy-monitoring",
+      "tags": [
+        "Cloud",
+        "Energy Management",
+        "Insights Hub",
+        "Factory Automation"
       ]
     }
   ]
