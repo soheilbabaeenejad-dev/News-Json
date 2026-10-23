@@ -5,168 +5,161 @@
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
   "count": 10,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/08/02 00:02",
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/08/02 00:06",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
       "id": "ia-20261024-001",
-      "title": "ارتقای پلتفرم TIA Portal زیمنس با قابلیت‌های هوش مصنوعی مولد",
-      "summary": "شرکت زیمنس نسخه جدید TIA Portal را با ادغام ابزارهای هوش مصنوعی مولد برای مهندسی اتوماسیون معرفی کرد. این به‌روزرسانی به مهندسان اجازه می‌دهد تا کدهای PLC را با سرعت بیشتری تولید کرده و خطاهای منطقی را به صورت خودکار شناسایی کنند. این تحول گامی بزرگ در جهت کاهش زمان طراحی پروژه‌های صنعتی و افزایش بهره‌وری در خطوط تولید هوشمند محسوب می‌شود.",
+      "title": "ارتقای قابلیت‌های هوش مصنوعی در پلتفرم صنعتی زیمنس",
+      "summary": "شرکت زیمنس از ادغام ابزارهای جدید هوش مصنوعی مولد در پلتفرم Industrial Operations X خبر داد. این به‌روزرسانی به مهندسان اجازه می‌دهد تا کدهای پیچیده PLC را با سرعت بیشتری تولید و عیب‌یابی کنند. این تحول با هدف کاهش زمان توقف خطوط تولید و افزایش بهره‌وری در کارخانه‌های هوشمند با استفاده از مدل‌های زبانی اختصاصی زیمنس انجام شده است.",
       "category": "product",
-      "published_at": "1405/08/02 00:02",
-      "collected_at": "1405/08/02 00:02",
+      "published_at": "1405/08/02 00:01",
+      "collected_at": "1405/08/02 00:06",
       "source": "Siemens Press",
-      "source_url": "https://new.siemens.com/global/en/products/automation/industry/tia-portal.html",
+      "source_url": "https://press.siemens.com/global/en/feature/industrial-ai",
       "tags": [
         "Siemens",
-        "TIA Portal",
         "AI",
-        "Automation"
+        "Industrial Operations X",
+        "PLC"
       ]
     },
     {
       "id": "ia-20261024-002",
-      "title": "همکاری استراتژیک زیمنس و انویدیا برای شبیه‌سازی دیجیتال دوقلو",
-      "summary": "زیمنس و انویدیا در پروژه مشترکی برای توسعه دوقلوهای دیجیتال در مقیاس صنعتی با استفاده از پلتفرم Omniverse همکاری می‌کنند. این همکاری به کارخانه‌ها اجازه می‌دهد تا فرآیندهای تولید را در محیط مجازی با دقت بالا شبیه‌سازی کنند. هدف از این کار کاهش هزینه‌های راه‌اندازی خطوط تولید و بهینه‌سازی مصرف انرژی در کارخانه‌های بزرگ خودروسازی است.",
-      "category": "industry",
+      "title": "همکاری استراتژیک زیمنس و انویدیا برای دوقلوهای دیجیتال",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه نسل جدید دوقلوهای دیجیتال در محیط Omniverse گسترش دادند. این همکاری بر شبیه‌سازی دقیق فرآیندهای تولید در مقیاس صنعتی تمرکز دارد تا هزینه‌های راه‌اندازی خطوط تولید جدید به حداقل برسد. با این ادغام، کاربران نرم‌افزار Tecnomatix می‌توانند تعاملات فیزیکی را با دقت بالایی در فضای مجازی پیش‌بینی کنند.",
+      "category": "company",
       "published_at": "1405/08/02 00:02",
-      "collected_at": "1405/08/02 00:02",
-      "source": "Industrial Automation News",
-      "source_url": "https://www.automation.com/en-us/articles/2026/siemens-nvidia-digital-twin",
+      "collected_at": "1405/08/02 00:06",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-nvidia-partnership",
       "tags": [
         "Digital Twin",
         "Nvidia",
-        "Simulation",
-        "Industry 4.0"
+        "Omniverse",
+        "Tecnomatix"
       ]
     },
     {
       "id": "ia-20261024-003",
-      "title": "معرفی نسل جدید کنترلرهای SIMATIC S7-1500 با امنیت سایبری ارتقایافته",
-      "summary": "زیمنس از نسل جدید کنترلرهای منطقی برنامه‌پذیر سری SIMATIC S7-1500 با تمرکز ویژه بر امنیت سایبری رونمایی کرد. این دستگاه‌ها اکنون دارای قابلیت‌های رمزنگاری سخت‌افزاری پیشرفته برای محافظت در برابر حملات شبکه هستند. این ارتقا برای زیرساخت‌های حیاتی که نیاز به بالاترین سطح امنیت در برابر نفوذهای خارجی دارند، بسیار ضروری و حیاتی است.",
+      "title": "معرفی کنترلرهای جدید سری SIMATIC S7-1500",
+      "summary": "زیمنس نسل جدید کنترلرهای منطقی برنامه‌پذیر سری SIMATIC S7-1500 را با قابلیت‌های امنیتی ارتقا یافته معرفی کرد. این کنترلرها اکنون دارای ماژول‌های رمزنگاری سخت‌افزاری برای محافظت در برابر حملات سایبری هستند. این محصول جدید برای پاسخگویی به نیازهای صنایع حساس مانند داروسازی و انرژی طراحی شده است تا امنیت شبکه OT را تضمین کند.",
       "category": "product",
-      "published_at": "1405/08/02 00:02",
-      "collected_at": "1405/08/02 00:02",
-      "source": "Control Engineering",
-      "source_url": "https://www.controleng.com/articles/siemens-simatic-s7-1500-security-update/",
+      "published_at": "1405/08/02 00:03",
+      "collected_at": "1405/08/02 00:06",
+      "source": "Siemens Industry",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
       "tags": [
-        "Siemens",
         "SIMATIC",
+        "S7-1500",
         "Cybersecurity",
         "PLC"
       ]
     },
     {
       "id": "ia-20261024-004",
-      "title": "گسترش راهکارهای Industrial Edge در کارخانه‌های داروسازی",
-      "summary": "استفاده از پلتفرم Industrial Edge زیمنس در صنعت داروسازی برای نظارت لحظه‌ای بر کیفیت تولید به شدت افزایش یافته است. این سیستم با پردازش داده‌ها در لبه شبکه، تأخیر در تصمیم‌گیری‌های کنترلی را به حداقل می‌رساند. این فناوری به تولیدکنندگان کمک می‌کند تا استانداردهای سخت‌گیرانه سازمان‌های نظارتی را با دقت بیشتری رعایت کنند.",
+      "title": "توسعه زیرساخت‌های لبه صنعتی (Industrial Edge) در اروپا",
+      "summary": "زیمنس از گسترش اکوسیستم Industrial Edge خود برای مدیریت داده‌های بلادرنگ در کارخانه‌های خودروسازی خبر داد. این سیستم به تولیدکنندگان اجازه می‌دهد تا پردازش داده‌ها را به جای ابر، مستقیماً در لبه شبکه و در کنار ماشین‌آلات انجام دهند. این رویکرد باعث کاهش تأخیر در ارسال دستورات کنترلی و افزایش پایداری سیستم‌های اتوماسیون در محیط‌های صنعتی می‌شود.",
       "category": "industry",
-      "published_at": "1405/08/02 00:02",
-      "collected_at": "1405/08/02 00:02",
-      "source": "Manufacturing Today",
-      "source_url": "https://www.manufacturing.net/automation/news/22098765/siemens-edge-pharma",
+      "published_at": "1405/08/02 00:04",
+      "collected_at": "1405/08/02 00:06",
+      "source": "Industrial IoT News",
+      "source_url": "https://iiot-news.com/siemens-edge-computing",
       "tags": [
         "Industrial Edge",
-        "Pharma",
-        "Data Processing",
-        "Quality Control"
+        "IIoT",
+        "Data Processing"
       ]
     },
     {
       "id": "ia-20261024-005",
-      "title": "رشد بازار رباتیک مشارکتی در صنایع غذایی اروپا",
-      "summary": "گزارش‌های جدید نشان می‌دهد که تقاضا برای ربات‌های مشارکتی (Cobots) در خطوط بسته‌بندی مواد غذایی در اروپا به رکورد جدیدی رسیده است. شرکت‌های بزرگ از جمله ABB و Fanuc در حال رقابت برای ارائه راهکارهای منعطف‌تر هستند. این ربات‌ها به دلیل ایمنی بالا، می‌توانند در کنار نیروی انسانی بدون نیاز به حصارهای حفاظتی سنگین فعالیت کنند.",
-      "category": "news",
-      "published_at": "1405/08/02 00:02",
-      "collected_at": "1405/08/02 00:02",
-      "source": "Robotics Business Review",
-      "source_url": "https://www.roboticsbusinessreview.com/cobots-food-industry-growth",
+      "title": "گزارش جدید از وضعیت امنیت سایبری در سیستم‌های SCADA",
+      "summary": "یک گزارش جدید نشان می‌دهد که آسیب‌پذیری‌های سیستم‌های SCADA در سال جاری میلادی افزایش یافته است. کارشناسان بر اهمیت به‌روزرسانی مداوم نرم‌افزارهای مدیریت زیمنس و سایر برندها تأکید دارند. استفاده از راهکارهای دفاعی چندلایه و جداسازی شبکه‌های OT از IT به عنوان راهکار اصلی برای مقابله با تهدیدات باج‌افزاری در زیرساخت‌های حیاتی معرفی شده است.",
+      "category": "topic",
+      "published_at": "1405/08/02 00:05",
+      "collected_at": "1405/08/02 00:06",
+      "source": "Cybersecurity Insiders",
+      "source_url": "https://www.cybersecurity-insiders.com/scada-security-report",
       "tags": [
-        "Robotics",
-        "Cobots",
-        "Food Industry",
-        "Automation"
+        "SCADA",
+        "Cybersecurity",
+        "OT Security"
       ]
     },
     {
       "id": "ia-20261024-006",
-      "title": "بهره‌برداری از سیستم‌های DCS زیمنس در نیروگاه‌های تجدیدپذیر",
-      "summary": "سیستم کنترل توزیع‌شده (DCS) زیمنس سری PCS 7 اکنون برای مدیریت نیروگاه‌های خورشیدی و بادی در مقیاس بزرگ بهینه شده است. این سیستم امکان مدیریت یکپارچه تولید و ذخیره‌سازی انرژی را فراهم می‌کند. با استفاده از این فناوری، پایداری شبکه برق در زمان نوسانات تولید انرژی‌های تجدیدپذیر به شکل قابل توجهی افزایش می‌یابد.",
+      "title": "پیشرفت در رباتیک مشارکتی با نرم‌افزار TIA Portal",
+      "summary": "زیمنس با ارائه پلاگین‌های جدید برای TIA Portal، برنامه‌نویسی ربات‌های مشارکتی (Cobots) را ساده‌تر کرده است. این ابزارها به کاربران اجازه می‌دهند تا بدون نیاز به دانش عمیق برنامه‌نویسی، حرکات ربات را با فرآیندهای تولید هماهنگ کنند. این پیشرفت باعث می‌شود تا واحدهای تولیدی کوچک و متوسط بتوانند سریع‌تر از فناوری رباتیک در خطوط مونتاژ خود استفاده کنند.",
       "category": "product",
-      "published_at": "1405/08/02 00:02",
-      "collected_at": "1405/08/02 00:02",
-      "source": "Energy Automation Daily",
-      "source_url": "https://www.energy-automation.com/siemens-pcs7-renewables",
+      "published_at": "1405/08/02 00:06",
+      "collected_at": "1405/08/02 00:06",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-tia-portal-robotics",
       "tags": [
-        "DCS",
-        "PCS 7",
-        "Renewable Energy",
-        "Grid Stability"
+        "TIA Portal",
+        "Cobots",
+        "Robotics"
       ]
     },
     {
       "id": "ia-20261024-007",
-      "title": "استاندارد جدید ارتباطی OPC UA در تجهیزات اتوماسیون صنعتی",
-      "summary": "پذیرش گسترده پروتکل ارتباطی OPC UA به عنوان استاندارد طلایی در تبادل داده‌های صنعتی، تعامل بین تجهیزات برندهای مختلف را تسهیل کرده است. زیمنس با پیاده‌سازی کامل این پروتکل در محصولات SIMATIC، امکان اتصال آسان به سیستم‌های ابری و ERP را فراهم کرده است. این استاندارد باعث کاهش پیچیدگی در یکپارچه‌سازی سیستم‌های مختلف در کارخانه‌ها می‌شود.",
-      "category": "topic",
-      "published_at": "1405/08/02 00:02",
-      "collected_at": "1405/08/02 00:02",
-      "source": "Automation World",
-      "source_url": "https://www.automationworld.com/factory/iiot/article/22099012/opc-ua-adoption",
+      "title": "تحول دیجیتال در صنایع فولاد با راهکارهای زیمنس",
+      "summary": "یک کارخانه بزرگ فولاد در آلمان با استفاده از راهکارهای جامع اتوماسیون زیمنس، مصرف انرژی خود را تا ۱۵ درصد کاهش داد. این پروژه شامل پیاده‌سازی سیستم‌های مدیریت هوشمند انرژی و بهینه‌سازی فرآیندهای ذوب با استفاده از سنسورهای پیشرفته است. این موفقیت نشان‌دهنده پتانسیل بالای دیجیتالی‌سازی در صنایع سنگین برای دستیابی به اهداف پایداری محیط‌زیستی است.",
+      "category": "industry",
+      "published_at": "1405/08/02 00:06",
+      "collected_at": "1405/08/02 00:06",
+      "source": "Manufacturing Global",
+      "source_url": "https://manufacturingglobal.com/siemens-steel-industry-case-study",
       "tags": [
-        "OPC UA",
-        "Interoperability",
-        "IIoT",
-        "Communication"
+        "Energy Efficiency",
+        "Steel Industry",
+        "Sustainability"
       ]
     },
     {
       "id": "ia-20261024-008",
-      "title": "تحول در تعمیر و نگهداری پیشگیرانه با Insights Hub",
-      "summary": "پلتفرم ابری Insights Hub زیمنس به تولیدکنندگان کمک می‌کند تا با تحلیل داده‌های سنسورها، زمان خرابی ماشین‌آلات را پیش‌بینی کنند. این رویکرد پیشگیرانه مانع از توقف‌های ناگهانی خط تولید شده و هزینه‌های تعمیرات اضطراری را تا ۳۰ درصد کاهش می‌دهد. این ابزار اکنون با قابلیت‌های یادگیری ماشین برای شناسایی الگوهای خرابی پیچیده مجهز شده است.",
-      "category": "product",
-      "published_at": "1405/08/02 00:02",
-      "collected_at": "1405/08/02 00:02",
-      "source": "Digital Factory News",
-      "source_url": "https://www.siemens.com/global/en/products/software/insights-hub.html",
+      "title": "استاندارد جدید ارتباطات صنعتی با پروتکل OPC UA",
+      "summary": "کنسرسیوم OPC Foundation از استانداردهای جدید برای ارتباطات بین‌ماشینی در محیط‌های صنعتی خبر داد. زیمنس به عنوان یکی از اعضای کلیدی، پشتیبانی گسترده‌ای از این پروتکل در تمامی تجهیزات جدید خود اعمال کرده است. این استاندارد باعث می‌شود که دستگاه‌های تولیدکنندگان مختلف بتوانند بدون نیاز به درایورهای اختصاصی، با یکدیگر تبادل اطلاعات کنند.",
+      "category": "regulation",
+      "published_at": "1405/08/02 00:06",
+      "collected_at": "1405/08/02 00:06",
+      "source": "OPC Foundation",
+      "source_url": "https://opcfoundation.org/news/opc-ua-standard-update",
       "tags": [
-        "Insights Hub",
-        "Predictive Maintenance",
-        "Cloud",
-        "Analytics"
+        "OPC UA",
+        "Interoperability",
+        "Industry 4.0"
       ]
     },
     {
       "id": "ia-20261024-009",
-      "title": "چالش‌های نیروی کار در عصر اتوماسیون صنعتی",
-      "summary": "با افزایش سرعت خودکارسازی کارخانه‌ها، نیاز به نیروی کار متخصص برای مدیریت سیستم‌های اتوماسیون بیش از پیش احساس می‌شود. کارشناسان تأکید دارند که آموزش مجدد کارکنان برای کار با سیستم‌های دیجیتال و رباتیک باید در اولویت شرکت‌های صنعتی قرار گیرد. این تغییر پارادایم، نیازمند همکاری نزدیک میان دانشگاه‌ها و صنایع بزرگ برای تربیت نسل جدید مهندسان است.",
-      "category": "society",
-      "published_at": "1405/08/02 00:02",
-      "collected_at": "1405/08/02 00:02",
-      "source": "Industry Week",
-      "source_url": "https://www.industryweek.com/talent/education-training/article/22099100/automation-workforce",
+      "title": "استفاده از واقعیت افزوده در نگهداری و تعمیرات کارخانه‌ها",
+      "summary": "زیمنس با معرفی عینک‌های هوشمند جدید برای پرسنل تعمیر و نگهداری، امکان عیب‌یابی از راه دور را فراهم کرد. تکنسین‌ها می‌توانند با استفاده از این ابزار، نقشه‌های سه‌بعدی تجهیزات را روی ماشین‌آلات واقعی مشاهده کنند. این فناوری باعث کاهش خطاهای انسانی و افزایش سرعت تعمیرات در مواقع اضطراری در کارخانه‌های بزرگ می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/02 00:06",
+      "collected_at": "1405/08/02 00:06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/siemens-ar-maintenance",
       "tags": [
-        "Workforce",
-        "Education",
-        "Automation",
-        "Skills"
+        "AR",
+        "Maintenance",
+        "Industry 4.0"
       ]
     },
     {
       "id": "ia-20261024-010",
-      "title": "رشد سرمایه‌گذاری در زیرساخت‌های شبکه 5G خصوصی برای کارخانه‌ها",
-      "summary": "شرکت‌های صنعتی به طور فزاینده‌ای در حال پیاده‌سازی شبکه‌های 5G خصوصی برای ارتباطات بی‌سیم فوق‌سریع در محیط‌های تولیدی هستند. زیمنس با ارائه تجهیزات شبکه صنعتی، امکان اتصال هزاران سنسور و ربات را با تأخیر بسیار کم فراهم کرده است. این فناوری زیربنای اصلی برای پیاده‌سازی کارخانه‌های کاملاً خودمختار و متصل در آینده نزدیک خواهد بود.",
-      "category": "industry",
-      "published_at": "1405/08/02 00:02",
-      "collected_at": "1405/08/02 00:02",
-      "source": "Tech Industrial Review",
-      "source_url": "https://www.techindustrial.com/5g-private-networks-manufacturing",
+      "title": "سرمایه‌گذاری زیمنس در استارتاپ‌های اتوماسیون هوشمند",
+      "summary": "بخش سرمایه‌گذاری زیمنس (Siemens Next47) اعلام کرد که بودجه جدیدی را برای حمایت از استارتاپ‌های فعال در حوزه هوش مصنوعی صنعتی اختصاص داده است. این سرمایه‌گذاری بر روی شرکت‌هایی متمرکز است که در زمینه تحلیل داده‌های حسگرها و یادگیری ماشین فعالیت می‌کنند. هدف از این اقدام، تقویت اکوسیستم نوآوری زیمنس و دسترسی به فناوری‌های پیشرو در بازار است.",
+      "category": "company",
+      "published_at": "1405/08/02 00:06",
+      "collected_at": "1405/08/02 00:06",
+      "source": "VentureBeat",
+      "source_url": "https://venturebeat.com/siemens-next47-investment",
       "tags": [
-        "5G",
-        "Connectivity",
-        "Industrial Networks",
-        "Infrastructure"
+        "Investment",
+        "Startups",
+        "Innovation"
       ]
     }
   ]
