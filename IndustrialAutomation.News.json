@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 150,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/08/01 18:08",
+  "count": 160,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 20:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2293,6 +2293,166 @@
         "Interoperability",
         "Siemens",
         "Industrial Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "گسترش کاربرد Industrial Copilot زیمنس در صنایع خودروسازی اروپا",
+      "summary": "شرکت زیمنس از توسعه کاربرد هوش مصنوعی مولد Siemens Industrial Copilot در خطوط مونتاژ خودروسازی‌های بزرگ اروپا خبر داد. این ابزار به مهندسان کمک می‌کند تا کدهای کنترلی SIMATIC را با سرعت بیشتری توسعه داده و خطاهای برنامه‌نویسی را به حداقل برسانند. این راهکار نقش مهمی در کاهش زمان راه‌اندازی خطوط تولید جدید ایفا می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/01 09:30",
+      "collected_at": "1405/08/01 20:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-industrial-copilot-expansion",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "SIMATIC",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "معرفی ماژول‌های ارتباطی جدید با پشتیبانی از TSN برای SIMATIC S7-1500",
+      "summary": "زیمنس نسل جدید ماژول‌های ارتباطی مجهز به فناوری Time-Sensitive Networking را برای کنترلرهای SIMATIC S7-1500 عرضه کرد. این ماژول‌ها امکان تبادل داده‌های بلادرنگ و قطعی را در شبکه‌های پیچیده صنعتی فراهم می‌سازند. این فناوری جدید گامی مهم در جهت تحقق ارتباطات یکپارچه در کارخانه‌های کاملاً متصل است.",
+      "category": "product",
+      "published_at": "1405/08/01 10:15",
+      "collected_at": "1405/08/01 20:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-tsn-s71500-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC S7-1500",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای پلتفرم Xcelerator با قابلیت‌های جدید مدیریت زنجیره تامین پایدار",
+      "summary": "شرکت زیمنس قابلیت‌های جدیدی را به پلتفرم نرم‌افزاری Xcelerator اضافه کرد که تمرکز ویژه‌ای بر پایداری و ردیابی کربن دارند. این ابزارها به مدیران صنعتی اجازه می‌دهند تا ردپای کربن محصولات را در تمام مراحل تولید و توزیع به دقت اندازه‌گیری کنند. این راهکار در راستای اهداف توسعه پایدار اتحادیه اروپا طراحی شده است.",
+      "category": "news",
+      "published_at": "1405/08/01 11:00",
+      "collected_at": "1405/08/01 20:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-xcelerator-sustainability-update",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Sustainability",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری زیمنس و Festo برای هوشمندسازی پنوماتیک در خطوط تولید",
+      "summary": "زیمنس و شرکت Festo طی یک تفاهم‌نامه استراتژیک، سیستم‌های پنوماتیک پیشرفته را با اتوماسیون مبتنی بر TIA Portal یکپارچه کردند. این همکاری به اپراتورها اجازه می‌دهد تا وضعیت مصرف هوای فشرده و سلامت تجهیزات را به صورت بلادرنگ مانیتور کنند. این پروژه منجر به کاهش قابل توجه هزینه‌های انرژی در کارخانه‌ها می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/01 12:45",
+      "collected_at": "1405/08/01 20:00",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-festo-pneumatics-automation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "TIA Portal",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه راهکارهای امنیت سایبری OT با آخرین به‌روزرسانی زیمنس و Fortinet",
+      "summary": "زیمنس با همکاری Fortinet راهکار امنیتی جدیدی را برای حفاظت از شبکه‌های صنعتی در برابر تهدیدات سایبری معرفی کرد. این سیستم ترکیبی، تجهیزات کنترل صنعتی SIMATIC را با دیوارهای آتش نسل جدید یکپارچه می‌کند تا نفوذ به لایه‌های OT غیرممکن شود. این راهکار پاسخگوی استانداردهای سخت‌گیرانه IEC 62443 است.",
+      "category": "news",
+      "published_at": "1405/08/01 13:20",
+      "collected_at": "1405/08/01 20:00",
+      "source": "Help Net Security",
+      "source_url": "https://www.helpnetsecurity.com/siemens-fortinet-ot-security",
+      "tags": [
+        "Siemens",
+        "Cybersecurity",
+        "OT Security",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "معرفی درایوهای پیشرفته SINAMICS G220 برای کاربردهای عمومی صنعتی",
+      "summary": "زیمنس از خانواده جدید درایوهای فرکانس متغیر SINAMICS G220 با قابلیت‌های ارتباطی پیشرفته رونمایی کرد. این درایوها دارای ویژگی‌های امنیتی داخلی و قابلیت اتصال مستقیم به پلتفرم Industrial Edge هستند. این محصول برای بهینه‌سازی مصرف انرژی در پمپ‌ها، فن‌ها و تسمه‌نقاله‌ها طراحی شده است.",
+      "category": "product",
+      "published_at": "1405/08/01 14:10",
+      "collected_at": "1405/08/01 20:00",
+      "source": "Drive & Control",
+      "source_url": "https://www.drivesncontrols.com/news/fullnews.php/id/siemens-sinamics-g220-launch",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Industrial Edge",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "پیاده‌سازی موفق دوقلوی دیجیتال کارخانه توسط زیمنس در صنایع داروسازی",
+      "summary": "یک شرکت بزرگ داروسازی با استفاده از راهکارهای دوقلوی دیجیتال زیمنس توانست زمان راه‌اندازی خط تولید جدید خود را ۳۰ درصد کاهش دهد. این شبیه‌سازی دقیق شامل تمام اجزای مکانیکی، الکتریکی و کدهای کنترلی PLC بوده است. این پروژه نمونه‌ای بارز از قدرت نرم‌افزارهای مهندسی زیمنس در صنعت داروست.",
+      "category": "industry",
+      "published_at": "1405/08/01 15:00",
+      "collected_at": "1405/08/01 20:00",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-digital-twin-pharma-success",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Pharma",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "رشد تجهیزات لبه صنعتی در پروژه‌های مدیریت آب و فاضلاب شهری",
+      "summary": "تکنولوژی Industrial Edge زیمنس به‌طور گسترده‌ای در پروژه‌های تصفیه آب و فاضلاب شهری در سراسر اروپا به کار گرفته شده است. این سیستم‌ها داده‌های حیاتی سنسورها را در محل پردازش کرده و از قطعی ناگهانی پمپ‌ها جلوگیری می‌کنند. این رویکرد باعث افزایش بهره‌وری و کاهش هزینه‌های تعمیر و نگهداری می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/01 16:30",
+      "collected_at": "1405/08/01 20:00",
+      "source": "Water World",
+      "source_url": "https://www.waterworld.com/siemens-industrial-edge-water-plants",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Water Treatment",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "به‌روزرسانی نرم‌افزار WinCC Unified برای نظارت پیشرفته بر خطوط تولید",
+      "summary": "نسخه جدید نرم‌افزار SCADA زیمنس یعنی WinCC Unified با ابزارهای پیشرفته تجسم‌سازی و وب‌محور منتشر شد. این نسخه امکان دسترسی امن به داده‌های کارخانه را از طریق مرورگرهای مختلف بدون نیاز به نصب افزونه فراهم می‌کند. این تحول گامی بزرگ در جهت افزایش انعطاف‌پذیری اپراتورها در اتاق کنترل است.",
+      "category": "news",
+      "published_at": "1405/08/01 17:45",
+      "collected_at": "1405/08/01 20:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-wincc-unified-update",
+      "tags": [
+        "Siemens",
+        "WinCC Unified",
+        "SCADA",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "بررسی نقش هوش مصنوعی در نگهداری پیش‌بینانه تجهیزات اتوماسیون",
+      "summary": "کارشناسان صنعت اتوماسیون بر نقش کلیدی الگوریتم‌های هوش مصنوعی در کاهش خرابی‌های ناگهانی ماشین‌آلات تأکید کردند. استفاده از پلتفرم‌های ابری مانند Insights Hub زیمنس به تحلیل دقیق داده‌های ارتعاشی موتورها کمک شایانی می‌کند. این روش از هزینه‌های هنگفت توقف خط تولید جلوگیری به عمل می‌آورد.",
+      "category": "research",
+      "published_at": "1405/08/01 18:50",
+      "collected_at": "1405/08/01 20:00",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/ai-predictive-maintenance-automation",
+      "tags": [
+        "AI",
+        "Insights Hub",
+        "Predictive Maintenance",
+        "DCS"
       ]
     }
   ]
