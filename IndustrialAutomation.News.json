@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 183,
+  "count": 193,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/08/01 18:09",
+  "updated_at": "1405/08/01 19:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2808,6 +2808,156 @@
         "Supply Chain",
         "Semiconductors",
         "Industry Trends"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "گسترش کاربرد هوش مصنوعی لبه در کنترلرهای صنعتی SIMATIC",
+      "summary": "شرکت زیمنس قابلیت‌های پردازش هوش مصنوعی را به نسل جدید کنترلرهای SIMATIC افزوده است. این فناوری به مهندسان اجازه می‌دهد الگوریتم‌های یادگیری ماشین را مستقیماً روی سخت‌افزار لبه اجرا کنند. این رویکرد زمان تأخیر را به شدت کاهش داده و پایداری خطوط تولید را افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 19:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/simatic-edge-ai-update",
+      "tags": [
+        "SIMATIC",
+        "Edge AI",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "بهه‌سازی تجهیزات کارخانه با ماژول‌های جدید TIA Portal",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal ابزارهای پیشرفته‌ای برای تست خودکار کدهای کنترلی ارائه می‌دهد. این ابزارها خطاهای برنامه‌نویسی را پیش از راه‌اندازی فیزیکی شناسایی می‌کنند. این ویژگی موجب صرفه‌جویی چشمگیر در زمان و هزینه‌های راه‌اندازی کارخانه‌ها می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 19:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/tia-portal-update",
+      "tags": [
+        "TIA Portal",
+        "Engineering",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه راهکارهای اتوماسیون سبز با پلتفرم Siemens Xcelerator",
+      "summary": "زیمنس بسته‌ای جدید برای پایش مصرف انرژی در صنایع سنگین از طریق پلتفرم Xcelerator معرفی کرده است. این راهکار داده‌های مصرف برق و گاز را به صورت بلادرنگ تحلیل می‌کند. هدف اصلی کمک به صنایع برای دستیابی به استانداردهای سخت‌گیرانه کربن‌زدایی است.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 19:01",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/xcelerator-green",
+      "tags": [
+        "Xcelerator",
+        "Sustainability",
+        "Energy"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "ارتقای امنیت شبکه OT با پروتکل‌های حفاظتی جدید زیمنس",
+      "summary": "با افزایش حملات سایبری به زیرساخت‌های حیاتی، زیمنس راهکارهای امنیتی جدیدی بر مبنای استاندارد IEC 62443 ارائه کرد. این پروتکل‌ها دسترسی غیرمجاز به تجهیزات سطح میدانی را مسدود می‌کنند. مدیران شبکه اکنون می‌توانند ترافیک مشکوک را به صورت خودکار ایزوله نمایند.",
+      "category": "regulation",
+      "published_at": "1405/08/01 11:20",
+      "collected_at": "1405/08/01 19:01",
+      "source": "Cybersecurity in OT",
+      "source_url": "https://www.ot-security-news.com/siemens-iec62443",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری زیمنس و فستو در توسعه ربات‌های خط مونتاژ هوشمند",
+      "summary": "شرکت زیمنس با همکاری فستو نسل جدیدی از ربات‌های خط مونتاژ مجهز به سیستم‌های بینایی پیشرفته را توسعه داده است. این ربات‌ها می‌توانند قطعات با ابعاد متغیر را بدون نیاز به تغییر مکانیکال مدیریت کنند. این انعطاف‌پذیری برای صنایع خودروسازی مدرن بسیار حیاتی است.",
+      "category": "company",
+      "published_at": "1405/08/01 12:45",
+      "collected_at": "1405/08/01 19:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-festo-robotics",
+      "tags": [
+        "Robotics",
+        "Assembly",
+        "Partnership"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "مدیریت یکپارچه درایوهای صنعتی با نسل جدید SINAMICS",
+      "summary": "خانواده درایوهای SINAMICS زیمنس به قابلیت‌های ارتباطی مبتنی على TSN مجهز شدند. این ویژگی تبادل اطلاعات میان اینورتر و کنترلر را با دقت میکروثانیه‌ای امکان‌پذیر می‌سازد. مهندسان می‌توانند عملکرد موتورهای الکتریکی را با دقت بالاتری تنظیم کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 13:30",
+      "collected_at": "1405/08/01 19:01",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesandcontrols.com/sinamics-tsn-update",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "TSN"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "نقش دوقلوهای دیجیتال در کاهش توقفات اضطراری کارخانه‌ها",
+      "summary": "استفاده از مدل‌های دوقلوی دیجیتال مبتنی بر نرم‌افزارهای زیمنس در صنایع پتروشیمی نتایج مثبتی به همراه داشته است. این فناوری رفتار تجهیزات را در سناریوهای بحرانی شبیه‌سازی می‌کند. مدیران بهره‌برداری قادرند پیش از وقوع خرابی واقعی، اقدامات تعمیراتی را برنامه‌ریزی کنند.",
+      "category": "research",
+      "published_at": "1405/08/01 14:10",
+      "collected_at": "1405/08/01 19:01",
+      "source": "Digital Twin Magazine",
+      "source_url": "https://www.digitaltwin-mag.com/petrochem-siemens",
+      "tags": [
+        "Digital Twin",
+        "Maintenance",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "گسترش کاربرد Industrial Edge در صنایع داروسازی اروپا",
+      "summary": "شرکت‌های داروسازی بزرگ اروپایی برای جمع‌آوری و تحلیل داده‌های استریل از راهکار Industrial Edge زیمنس استفاده می‌کنند. این سیستم امکان پردازش محلی داده‌ها را بدون ارسال به فضای ابری فراهم می‌کند. این امر الزامات سخت‌گیرانه حفظ محرمانگی داده‌ها را برآورده می‌سازد.",
+      "category": "industry",
+      "published_at": "1405/08/01 15:05",
+      "collected_at": "1405/08/01 19:01",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-edge-pharma",
+      "tags": [
+        "Industrial Edge",
+        "Pharma",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "بهبود سیستم‌های SCADA با قابلیت‌های ابری جدید",
+      "summary": "نسخه‌های جدید سیستم‌های اسکادا و کنترل مرکزی زیمنس اتصال امن به بسترهای ابری را ساده‌تر کرده‌اند. اپراتورها می‌توانند وضعیت کارخانه را از طریق تبلت‌ها و دستگاه‌های پرتابل به صورت امن رصد کنند. این تحول نظارت بر فرآیندهای دورافتاده را به شدت تسهیل کرده است.",
+      "category": "product",
+      "published_at": "1405/08/01 16:40",
+      "collected_at": "1405/08/01 19:01",
+      "source": "SCADA System News",
+      "source_url": "https://www.scadanews.org/siemens-cloud-scada",
+      "tags": [
+        "SCADA",
+        "Cloud",
+        "Operations"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "چالش‌های تأمین تراشه‌های تخصصی در بازار اتوماسیون صنعتی",
+      "summary": "گزارش‌های تازه نشان می‌دهد زنجیره تأمین نیمه‌هادی‌های صنعتی همچنان با نوسانات تقاضا مواجه است. شرکت‌های پیشرو مانند زیمنس و اشنایدر در حال بازطراحی بردهای الکترونیکی خود برای استفاده از تراشه‌های جایگزین هستند. این اقدام از بروز وقفه در تولید کنترلرهای منطقی جلوگیری می‌کند.",
+      "category": "economy",
+      "published_at": "1405/08/01 17:55",
+      "collected_at": "1405/08/01 19:01",
+      "source": "Global Industry Insights",
+      "source_url": "https://www.globalindustryinsights.com/semiconductor-supply-2026",
+      "tags": [
+        "Supply Chain",
+        "Semiconductors",
+        "Economy"
       ]
     }
   ]
