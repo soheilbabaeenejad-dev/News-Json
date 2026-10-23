@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 140,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/08/01 15:00",
+  "count": 150,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/08/01 15:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2143,6 +2143,159 @@
         "Engineering",
         "Cloud",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "به‌روزرسانی قابلیت‌های امنیتی در سیستم‌های SIMATIC S7-1500",
+      "summary": "زیمنس به‌روزرسانی‌های جدیدی را برای تقویت امنیت سایبری کنترلرهای SIMATIC S7-1500 منتشر کرده است. این تغییرات شامل بهبود پروتکل‌های رمزنگاری و مدیریت دسترسی کاربران برای مقابله با تهدیدات مدرن صنعتی است. با این ارتقا، مدیران شبکه می‌توانند با اطمینان بیشتری از استانداردهای IEC 62443 در محیط‌های OT بهره‌مند شوند.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 15:02",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500.html",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "گسترش قابلیت‌های هوش مصنوعی در پلتفرم Industrial Edge",
+      "summary": "زیمنس از اضافه شدن مدل‌های یادگیری ماشین پیشرفته به پلتفرم Industrial Edge خبر داد که امکان تحلیل داده‌های بلادرنگ را در لبه شبکه فراهم می‌کند. این قابلیت به کاربران اجازه می‌دهد بدون نیاز به انتقال داده به ابر، خرابی‌های احتمالی تجهیزات را پیش‌بینی کنند. این نوآوری گامی بزرگ در جهت کاهش زمان توقف تولید در کارخانه‌های هوشمند است.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 15:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/industrial-edge/news/219834",
+      "tags": [
+        "Industrial Edge",
+        "AI",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "همکاری زیمنس و انویدیا برای شبیه‌سازی دقیق‌تر خطوط تولید",
+      "summary": "زیمنس و انویدیا همکاری خود را برای ادغام پلتفرم Xcelerator با فناوری Omniverse عمیق‌تر کرده‌اند. این همکاری به مهندسان اجازه می‌دهد دوقلوهای دیجیتال فوتورالیستیک از خطوط تولید ایجاد کنند که رفتارهای فیزیکی را با دقت بسیار بالا شبیه‌سازی می‌کند. این ابزار به کاهش هزینه‌های راه‌اندازی و بهینه‌سازی چیدمان کارخانه‌ها کمک شایانی می‌کند.",
+      "category": "match",
+      "published_at": "1405/08/01 10:45",
+      "collected_at": "1405/08/01 15:02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/siemens-nvidia-partnership-digital-twin",
+      "tags": [
+        "Siemens",
+        "NVIDIA",
+        "Digital Twin",
+        "Xcelerator"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "معرفی درایوهای جدید SINAMICS برای بهره‌وری انرژی",
+      "summary": "نسل جدید درایوهای SINAMICS زیمنس با هدف کاهش مصرف انرژی در کاربردهای سنگین صنعتی معرفی شد. این درایوها با استفاده از الگوریتم‌های هوشمند، مصرف برق موتورها را بر اساس بار لحظه‌ای بهینه می‌کنند. این محصول جدید به صنایع کمک می‌کند تا اهداف پایداری و کاهش ردپای کربن خود را با دقت بیشتری دنبال کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 11:20",
+      "collected_at": "1405/08/01 15:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/new-sinamics-drives-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "توسعه استانداردهای ارتباطی OPC UA در تجهیزات شبکه",
+      "summary": "زیمنس با پیاده‌سازی استاندارد OPC UA FX در ماژول‌های ارتباطی جدید خود، گام مهمی در جهت یکپارچگی تجهیزات در کارخانه‌های هوشمند برداشته است. این پروتکل امکان ارتباط امن و بلادرنگ بین دستگاه‌های مختلف از برندهای متفاوت را فراهم می‌کند. این امر باعث افزایش انعطاف‌پذیری در طراحی معماری سیستم‌های کنترل صنعتی می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/01 12:05",
+      "collected_at": "1405/08/01 15:02",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iebmedia.com/opc-ua-fx-siemens-integration",
+      "tags": [
+        "OPC UA",
+        "Networking",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "ارتقای نرم‌افزار TIA Portal برای مدیریت پروژه‌های بزرگ",
+      "summary": "نسخه جدید TIA Portal با ابزارهای مدیریت پروژه پیشرفته برای تیم‌های مهندسی بزرگ منتشر شد. این به‌روزرسانی قابلیت‌های همکاری ابری و کنترل نسخه را بهبود بخشیده است تا توسعه‌دهندگان بتوانند پروژه‌های پیچیده اتوماسیون را سریع‌تر مدیریت کنند. این ابزار اکنون به طور کامل با محیط‌های توسعه مدرن و DevOps یکپارچه شده است.",
+      "category": "product",
+      "published_at": "1405/08/01 12:40",
+      "collected_at": "1405/08/01 15:02",
+      "source": "Siemens Industry Software",
+      "source_url": "https://support.industry.siemens.com/tia-portal-v20-release",
+      "tags": [
+        "TIA Portal",
+        "Software",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "نقش هوش مصنوعی در تولید کدهای SCL با Industrial Copilot",
+      "summary": "ابزار Siemens Industrial Copilot اکنون قادر است کدهای SCL را برای کنترلرهای SIMATIC به صورت خودکار تولید کند. این دستیار هوش مصنوعی با تحلیل نیازهای کاربر، کدهای استاندارد و بهینه را پیشنهاد می‌دهد که زمان برنامه‌نویسی را تا ۴۰ درصد کاهش می‌دهد. این فناوری به مهندسان کمک می‌کند تا بر طراحی فرآیندهای پیچیده تمرکز کنند.",
+      "category": "research",
+      "published_at": "1405/08/01 13:10",
+      "collected_at": "1405/08/01 15:02",
+      "source": "Engineering News",
+      "source_url": "https://www.engineering.com/siemens-copilot-scl-automation",
+      "tags": [
+        "AI",
+        "Industrial Copilot",
+        "SCL",
+        "Programming"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "راهکار جدید زیمنس برای مدیریت پایداری در صنایع غذایی",
+      "summary": "زیمنس راهکار SiGreen را برای ردیابی دقیق اثرات کربنی در زنجیره تامین صنایع غذایی معرفی کرد. این سیستم به تولیدکنندگان اجازه می‌دهد میزان انتشار گازهای گلخانه‌ای را در هر مرحله از تولید اندازه‌گیری و گزارش کنند. این ابزار برای تطبیق با قوانین جدید زیست‌محیطی اروپا و افزایش شفافیت در تولید ضروری است.",
+      "category": "regulation",
+      "published_at": "1405/08/01 13:50",
+      "collected_at": "1405/08/01 15:02",
+      "source": "Food Processing Tech",
+      "source_url": "https://www.foodprocessing.com/siemens-sigreen-sustainability",
+      "tags": [
+        "SiGreen",
+        "Sustainability",
+        "Food Industry"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "گسترش استفاده از ربات‌های متحرک خودگردان (AMR) در لجستیک",
+      "summary": "همکاری جدید زیمنس با شرکت‌های لجستیکی منجر به توسعه نسل جدید ربات‌های AMR برای انبارداری هوشمند شده است. این ربات‌ها با استفاده از سیستم‌های ناوبری زیمنس، قادر به مسیریابی دقیق در محیط‌های پویا هستند. این فناوری باعث افزایش سرعت جابجایی کالا در کارخانه‌های بزرگ و کاهش خطاهای انسانی در انبارها می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/01 14:20",
+      "collected_at": "1405/08/01 15:02",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/siemens-amr-logistics-solution",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "تحلیل بازار جهانی کنترلرهای منطقی برنامه‌پذیر در سال ۲۰۲۵",
+      "summary": "گزارش‌های جدید نشان می‌دهد که تقاضا برای کنترلرهای PLC با قابلیت‌های پیشرفته هوش مصنوعی در سال ۲۰۲۵ رشد چشمگیری داشته است. زیمنس همچنان پیشتاز این بازار با ارائه سری SIMATIC S7-1500 است که با قابلیت‌های ابری و امنیتی بالا عرضه می‌شود. این روند نشان‌دهنده حرکت صنایع به سمت اتوماسیون کاملاً دیجیتال و متصل است.",
+      "category": "economy",
+      "published_at": "1405/08/01 14:55",
+      "collected_at": "1405/08/01 15:02",
+      "source": "Market Research Insights",
+      "source_url": "https://www.marketresearch.com/plc-market-2025-report",
+      "tags": [
+        "PLC",
+        "Market Analysis",
+        "Automation"
       ]
     }
   ]
