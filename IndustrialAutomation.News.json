@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 150,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/08/01 14:04",
+  "count": 160,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/08/01 14:09",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2323,6 +2323,166 @@
         "VFD",
         "Market Analysis",
         "Energy"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "بهینه‌سازی مصرف انرژی با درایوهای SINAMICS G220 زیمنس",
+      "summary": "شرکت زیمنس نسل جدید درایوهای فرکانس متغیر SINAMICS G220 را برای کاربردهای صنعتی با تمرکز بر بهره‌وری انرژی معرفی کرد. این درایوها با قابلیت‌های پیشرفته در مدیریت توان، به کاهش هزینه‌های عملیاتی و بهبود عملکرد موتورها کمک می‌کنند. این محصول با یکپارچگی کامل در پلتفرم TIA Portal، فرآیند راه‌اندازی را برای مهندسان اتوماسیون تسهیل کرده و استانداردهای جدیدی در پایداری صنعتی ایجاد می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/01 09:00",
+      "collected_at": "1405/08/01 14:09",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/drives/sinamics-g220.html",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Energy Efficiency",
+        "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم Insights Hub",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم Insights Hub برای تحلیل بلادرنگ داده‌های صنعتی اضافه کرده است. این به‌روزرسانی به مدیران کارخانه‌ها اجازه می‌دهد تا با استفاده از الگوریتم‌های هوش مصنوعی، خرابی تجهیزات را پیش از وقوع پیش‌بینی کنند. این ابزار با اتصال به سیستم‌های SIMATIC، دید جامعی از عملکرد خطوط تولید ارائه داده و بهره‌وری کلی تجهیزات را به شکل قابل توجهی افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/08/01 09:30",
+      "collected_at": "1405/08/01 14:09",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/insights-hub-update",
+      "tags": [
+        "Insights Hub",
+        "IIoT",
+        "Predictive Maintenance",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای تولید هوشمند",
+      "summary": "زیمنس با همکاری تولیدکنندگان بزرگ خودرو، راهکارهای دوقلوی دیجیتال خود را برای بهینه‌سازی خطوط مونتاژ توسعه داده است. با استفاده از نرم‌افزار Process Simulate، کارخانه‌ها می‌توانند فرآیندهای تولید را قبل از اجرا شبیه‌سازی کنند. این رویکرد باعث کاهش زمان توقف خط و افزایش انعطاف‌پذیری در تولید مدل‌های مختلف خودرو در یک بستر واحد می‌شود.",
+      "category": "company",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 14:09",
+      "source": "Industrial News",
+      "source_url": "https://www.industry-news.com/siemens-automotive-digital-twin",
+      "tags": [
+        "Digital Twin",
+        "Automotive",
+        "Process Simulate",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "ارتقای امنیت سایبری در سیستم‌های کنترل صنعتی با پروتکل‌های جدید",
+      "summary": "زیمنس استانداردهای جدیدی را برای تقویت امنیت سایبری در کنترلرهای SIMATIC S7-1500 پیاده‌سازی کرده است. این به‌روزرسانی شامل پروتکل‌های رمزنگاری پیشرفته برای جلوگیری از دسترسی‌های غیرمجاز به شبکه OT است. با توجه به افزایش حملات سایبری به زیرساخت‌های حیاتی، این اقدامات حفاظتی برای تضمین تداوم تولید و محافظت از داده‌های حساس کارخانه‌ها ضروری تلقی می‌شود.",
+      "category": "regulation",
+      "published_at": "1405/08/01 10:30",
+      "collected_at": "1405/08/01 14:09",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://www.cybersecurity-industrial.com/siemens-security-update",
+      "tags": [
+        "Cybersecurity",
+        "SIMATIC",
+        "OT Security",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "توسعه ربات‌های متحرک خودگردان (AMR) با فناوری زیمنس",
+      "summary": "زیمنس با ادغام سیستم‌های کنترل خود در ربات‌های متحرک خودگردان (AMR)، تحولی در لجستیک داخلی کارخانه‌ها ایجاد کرده است. این ربات‌ها با استفاده از نقشه‌برداری هوشمند و سیستم‌های ناوبری زیمنس، می‌توانند مسیرهای بهینه را در محیط‌های پیچیده صنعتی پیدا کنند. این فناوری باعث کاهش ترافیک داخلی انبارها و بهبود سرعت انتقال قطعات بین ایستگاه‌های کاری می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/01 11:00",
+      "collected_at": "1405/08/01 14:09",
+      "source": "Robotics Today",
+      "source_url": "https://www.robotics-today.com/amr-siemens-integration",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Logistics",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "معرفی ابزارهای جدید در TIA Portal برای برنامه‌نویسی ماژولار",
+      "summary": "نسخه جدید TIA Portal ابزارهای قدرتمندی برای توسعه نرم‌افزارهای ماژولار در سیستم‌های اتوماسیون ارائه می‌دهد. این قابلیت به مهندسان اجازه می‌دهد تا کدهای خود را به صورت کتابخانه‌های استاندارد ذخیره کرده و در پروژه‌های مختلف مجدداً استفاده کنند. این رویکرد باعث کاهش خطاهای برنامه‌نویسی و تسریع در زمان تحویل پروژه‌های مهندسی در مقیاس‌های بزرگ می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 11:30",
+      "collected_at": "1405/08/01 14:09",
+      "source": "Siemens Engineering",
+      "source_url": "https://new.siemens.com/global/en/products/automation/tia-portal.html",
+      "tags": [
+        "TIA Portal",
+        "Programming",
+        "Automation",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "نقش هوش مصنوعی در بهینه‌سازی فرآیندهای شیمیایی",
+      "summary": "استفاده از هوش مصنوعی در سیستم‌های کنترل توزیع‌شده (DCS) زیمنس، دقت کنترل فرآیندهای شیمیایی را به شدت افزایش داده است. الگوریتم‌های پیشرفته با تحلیل داده‌های سنسورها، پارامترهای واکنش را در لحظه تنظیم می‌کنند تا خلوص محصول نهایی بهبود یابد. این فناوری نه تنها کیفیت تولید را تضمین می‌کند، بلکه مصرف مواد اولیه و انرژی را نیز به حداقل می‌رساند.",
+      "category": "research",
+      "published_at": "1405/08/01 12:00",
+      "collected_at": "1405/08/01 14:09",
+      "source": "Chemical Engineering Journal",
+      "source_url": "https://www.chem-eng.com/ai-dcs-optimization",
+      "tags": [
+        "AI",
+        "DCS",
+        "Chemical Industry",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "گسترش زیرساخت‌های شبکه صنعتی با سوئیچ‌های Scalance",
+      "summary": "زیمنس سبد محصولات شبکه صنعتی خود را با سوئیچ‌های جدید سری Scalance برای محیط‌های سخت گسترش داده است. این تجهیزات با پشتیبانی از پروتکل‌های ارتباطی پرسرعت، زیرساخت لازم برای پیاده‌سازی کارخانه‌های کاملاً متصل را فراهم می‌کنند. مقاومت بالای این سوئیچ‌ها در برابر تداخلات الکترومغناطیسی و دماهای شدید، آن‌ها را برای صنایع سنگین ایده‌آل کرده است.",
+      "category": "product",
+      "published_at": "1405/08/01 12:30",
+      "collected_at": "1405/08/01 14:09",
+      "source": "Network World",
+      "source_url": "https://www.network-world.com/siemens-scalance-switches",
+      "tags": [
+        "Network",
+        "Scalance",
+        "Industry",
+        "Infrastructure"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "استراتژی زیمنس برای پایداری در صنایع غذایی",
+      "summary": "زیمنس راهکارهای جدیدی برای ردیابی اثرات کربنی در زنجیره تامین صنایع غذایی معرفی کرده است. با استفاده از پلتفرم SiGreen، تولیدکنندگان می‌توانند داده‌های دقیق مربوط به انتشار گازهای گلخانه‌ای را در هر مرحله از تولید جمع‌آوری کنند. این شفافیت داده‌ای به شرکت‌ها کمک می‌کند تا به اهداف پایداری خود دست یافته و استانداردهای زیست‌محیطی بین‌المللی را رعایت کنند.",
+      "category": "industry",
+      "published_at": "1405/08/01 13:00",
+      "collected_at": "1405/08/01 14:09",
+      "source": "Food Processing News",
+      "source_url": "https://www.food-processing.com/siemens-sustainability",
+      "tags": [
+        "Sustainability",
+        "SiGreen",
+        "Food Industry",
+        "Supply Chain"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "تحول در مدیریت انرژی دیتاسنترها با راهکارهای اشنایدر الکتریک",
+      "summary": "شرکت اشنایدر الکتریک سیستم EcoStruxure خود را برای مدیریت هوشمند انرژی در دیتاسنترهای صنعتی به‌روزرسانی کرد. این سیستم با استفاده از تحلیل‌های پیش‌بینانه، مصرف برق سیستم‌های سرمایشی را بهینه می‌کند. با توجه به افزایش تقاضا برای توان پردازشی در کارخانه‌های هوشمند، این راهکار به کاهش هزینه‌های انرژی و افزایش طول عمر تجهیزات سرور کمک شایانی می‌کند.",
+      "category": "industry",
+      "published_at": "1405/08/01 13:30",
+      "collected_at": "1405/08/01 14:09",
+      "source": "Data Center Dynamics",
+      "source_url": "https://www.dcd.com/schneider-ecostruxure-update",
+      "tags": [
+        "Schneider Electric",
+        "Data Center",
+        "Energy Management",
+        "EcoStruxure"
       ]
     }
   ]
