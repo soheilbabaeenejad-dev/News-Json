@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 177,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/08/01 16:02",
+  "count": 187,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/08/01 16:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2716,6 +2716,156 @@
         "TSN",
         "Networking",
         "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با ماژول‌های جدید SIMATIC Energy Suite",
+      "summary": "شرکت زیمنس از قابلیت‌های جدید در ماژول SIMATIC Energy Suite رونمایی کرد که به مدیران کارخانه اجازه می‌دهد مصرف انرژی را به صورت بلادرنگ مانیتور کنند. این ابزار با تحلیل داده‌های دقیق، نقاط هدررفت انرژی را شناسایی کرده و به کاهش هزینه‌های عملیاتی کمک شایانی می‌کند. این راهکار با سیستم‌های کنترل موجود کاملاً سازگار است.",
+      "category": "product",
+      "published_at": "1405/08/01 09:00",
+      "collected_at": "1405/08/01 16:05",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry/simatic/energy-suite.html",
+      "tags": [
+        "SIMATIC",
+        "Energy Efficiency",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "گسترش قابلیت‌های تحلیل داده در پلتفرم Insights Hub برای صنایع شیمیایی",
+      "summary": "پلتفرم Insights Hub زیمنس اکنون به ابزارهای پیشرفته تحلیل داده برای صنایع شیمیایی مجهز شده است. این به‌روزرسانی به مهندسان کمک می‌کند تا فرآیندهای پیچیده واکنش‌های شیمیایی را با دقت بیشتری مدل‌سازی کنند. با استفاده از این تحلیل‌ها، پایداری تولید و ایمنی در محیط‌های پرخطر به میزان قابل توجهی افزایش می‌یابد.",
+      "category": "industry",
+      "published_at": "1405/08/01 09:45",
+      "collected_at": "1405/08/01 16:05",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.automation.com/en-us/articles/2026/siemens-insights-hub-chemical-update",
+      "tags": [
+        "Insights Hub",
+        "Chemical Industry",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "معرفی نسل جدید ماژول‌های ارتباطی برای پروتکل Profinet در محیط‌های صنعتی",
+      "summary": "زیمنس نسل جدیدی از ماژول‌های ارتباطی Profinet را معرفی کرده است که سرعت انتقال داده‌ها را تا دو برابر افزایش می‌دهد. این ماژول‌ها برای کاربردهایی که نیاز به زمان پاسخ‌دهی بسیار کوتاه دارند، مانند سیستم‌های کنترل حرکت دقیق، طراحی شده‌اند. این محصول جدید به کاهش تأخیر در شبکه‌های صنعتی بزرگ کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/01 10:15",
+      "collected_at": "1405/08/01 16:05",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-profinet-module-update",
+      "tags": [
+        "Profinet",
+        "Networking",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای پیاده‌سازی دوقلوی دیجیتال خط تولید",
+      "summary": "زیمنس در همکاری جدید با خودروسازان بزرگ، از دوقلوی دیجیتال برای شبیه‌سازی کامل خطوط تولید قبل از نصب فیزیکی استفاده می‌کند. این رویکرد باعث کاهش زمان راه‌اندازی کارخانه‌ها تا ۳۰ درصد شده است. استفاده از محیط Xcelerator به مهندسان اجازه می‌دهد تمامی چالش‌های احتمالی را در فضای مجازی شناسایی و رفع کنند.",
+      "category": "industry",
+      "published_at": "1405/08/01 11:00",
+      "collected_at": "1405/08/01 16:05",
+      "source": "Automotive Manufacturing",
+      "source_url": "https://www.automotive-manufacturing.com/siemens-digital-twin-partnership",
+      "tags": [
+        "Digital Twin",
+        "Xcelerator",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "ارتقای امنیت سایبری در سیستم‌های کنترل صنعتی با استاندارد جدید زیمنس",
+      "summary": "زیمنس با انتشار یک بسته امنیتی جدید برای کنترلرهای SIMATIC S7-1500، استانداردهای محافظت در برابر حملات سایبری را ارتقا داد. این به‌روزرسانی شامل رمزنگاری پیشرفته برای ارتباطات بین دستگاهی است که از نفوذهای غیرمجاز جلوگیری می‌کند. این اقدام در راستای تطبیق با الزامات سخت‌گیرانه IEC 62443 انجام شده است.",
+      "category": "regulation",
+      "published_at": "1405/08/01 11:45",
+      "collected_at": "1405/08/01 16:05",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://www.cybersecurity-industrial.com/siemens-security-patch",
+      "tags": [
+        "Cybersecurity",
+        "SIMATIC",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "استفاده از هوش مصنوعی در سیستم‌های بینایی ماشین زیمنس برای کنترل کیفیت",
+      "summary": "سیستم‌های بینایی ماشین زیمنس اکنون با الگوریتم‌های یادگیری عمیق برای تشخیص خودکار عیوب قطعات در خط تولید ادغام شده‌اند. این فناوری می‌تواند کوچکترین ترک‌ها یا تغییر رنگ‌ها را که از چشم انسان پنهان می‌ماند، شناسایی کند. این نوآوری نرخ ضایعات را در کارخانه‌های تولید قطعات الکترونیکی به شدت کاهش داده است.",
+      "category": "product",
+      "published_at": "1405/08/01 12:30",
+      "collected_at": "1405/08/01 16:05",
+      "source": "Machine Vision News",
+      "source_url": "https://www.machine-vision-news.com/siemens-ai-vision-system",
+      "tags": [
+        "AI",
+        "Machine Vision",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "توسعه راهکارهای اتوماسیون برای صنایع غذایی با تمرکز بر بهداشت",
+      "summary": "زیمنس راهکارهای جدیدی را برای اتوماسیون خطوط بسته‌بندی صنایع غذایی معرفی کرده است که کاملاً با استانداردهای بهداشتی سخت‌گیرانه مطابقت دارد. این تجهیزات از استیل ضدزنگ ساخته شده و در برابر شستشوی مداوم مقاوم هستند. این محصولات جدید به تولیدکنندگان کمک می‌کند تا ضمن افزایش سرعت، ایمنی مواد غذایی را تضمین کنند.",
+      "category": "industry",
+      "published_at": "1405/08/01 13:15",
+      "collected_at": "1405/08/01 16:05",
+      "source": "Food Processing Tech",
+      "source_url": "https://www.food-processing-tech.com/siemens-hygiene-automation",
+      "tags": [
+        "Food Industry",
+        "Automation",
+        "Hygiene"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "معرفی درایوهای جدید SINAMICS برای مدیریت هوشمند گشتاور در صنایع سنگین",
+      "summary": "نسل جدید درایوهای SINAMICS زیمنس با قابلیت کنترل هوشمند گشتاور، برای استفاده در صنایع سنگین مانند فولاد و معدن بهینه‌سازی شده‌اند. این درایوها با کاهش نوسانات مکانیکی، طول عمر تجهیزات را افزایش می‌دهند. همچنین، قابلیت‌های صرفه‌جویی در انرژی این درایوها به کاهش قابل توجه هزینه‌های برق در کارخانه‌های بزرگ کمک می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/01 14:00",
+      "collected_at": "1405/08/01 16:05",
+      "source": "Mining and Metals Automation",
+      "source_url": "https://www.mining-automation.com/siemens-sinamics-drives",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Heavy Industry"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "نقش پلتفرم Xcelerator در یکپارچه‌سازی فرآیندهای طراحی تا تولید",
+      "summary": "پلتفرم Xcelerator زیمنس اکنون به طور کامل با ابزارهای طراحی مکانیکی و الکتریکی ادغام شده است تا یک جریان کاری یکپارچه ایجاد کند. این یکپارچگی باعث می‌شود تغییرات در طراحی به سرعت در کل زنجیره تولید منعکس شود. این راهکار به شرکت‌های تولیدی کمک می‌کند تا محصولات خود را با سرعت بیشتری به بازار عرضه کنند.",
+      "category": "topic",
+      "published_at": "1405/08/01 14:45",
+      "collected_at": "1405/08/01 16:05",
+      "source": "Digital Engineering",
+      "source_url": "https://www.digital-engineering.com/siemens-xcelerator-integration",
+      "tags": [
+        "Xcelerator",
+        "Digitalization",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "گسترش استفاده از ربات‌های متحرک خودگردان (AMR) در انبارهای هوشمند",
+      "summary": "زیمنس با همکاری شرکای لجستیکی، نسل جدیدی از ربات‌های متحرک خودگردان (AMR) را برای مدیریت انبارها عرضه کرده است. این ربات‌ها با سیستم‌های مدیریت انبار زیمنس هماهنگ شده و مسیرهای بهینه را برای جابجایی کالا انتخاب می‌کنند. این فناوری باعث افزایش بهره‌وری در مراکز توزیع و کاهش خطاهای انسانی در انبارداری شده است.",
+      "category": "industry",
+      "published_at": "1405/08/01 15:30",
+      "collected_at": "1405/08/01 16:05",
+      "source": "Logistics Automation",
+      "source_url": "https://www.logistics-automation.com/siemens-amr-robotics",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "Robotics"
       ]
     }
   ]
