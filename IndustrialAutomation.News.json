@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 130,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/08/01 14:29",
+  "count": 140,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 15:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1983,6 +1983,166 @@
         "Rockwell Automation",
         "Discrete Manufacturing",
         "Predictive Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "ارتقای قابلیت‌های امنیت سایبری در سیستم‌های کنترل صنعتی سیمنس",
+      "summary": "شرکت زیمنس بسته‌های امنیتی جدیدی را برای حفاظت از زیرساخت‌های حیاتی و سیستم‌های کنترل صنعتی عرضه کرد. این راهکارها با هدف مقابله با تهدیدات سایبری پیچیده در تجهیزات SIMATIC توسعه یافته‌اند. این به‌روزرسانی به مدیران شبکه اجازه می‌دهد تا آسیب‌پذیری‌ها را در محیط‌های OT با دقت بیشتری شناسایی و رفع کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 15:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-cybersecurity-ot-2026",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "معرفی ماژول‌های جدید ارتباطی برای پلتفرم Industrial Edge",
+      "summary": "زیمنس از ماژول‌های سخت‌افزاری جدیدی برای پلتفرم Industrial Edge رونمایی کرد که پردازش داده‌های بلادرنگ را در خطوط تولید تسهیل می‌کنند. این ماژول‌ها اتصال روان دستگاه‌های مختلف را به سیستم‌های ابری فراهم می‌سازند. این فناوری به کارخانه‌ها کمک می‌کند تا تصمیمات بهینه‌تری بر اساس تحلیل داده‌های محلی اتخاذ کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 15:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-industrial-edge-modules",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "IIoT",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "گسترش کاربرد دوقلوهای دیجیتال در خطوط مونتاژ خودرو با پلتفرم Xcelerator",
+      "summary": "یک خودروساز بزرگ اروپایی با استفاده از پلتفرم Siemens Xcelerator توانست خط مونتاژ خود را به صورت کامل شبیه‌سازی کند. این پروژه باعث کاهش بیست درصدی زمان راه‌اندازی تجهیزات جدید در کارخانه شد. فناوری دوقلوی دیجیتال نقش کلیدی در شناسایی و رفع خطاهای طراحی پیش از ساخت فیزیکی ایفا می‌کند.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 15:00",
+      "source": "Digital Engineering",
+      "source_url": "https://www.digitaleng.news/siemens-xcelerator-automotive-2026",
+      "tags": [
+        "Xcelerator",
+        "Digital Twin",
+        "Automotive",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "بهینه‌سازی مصرف انرژی در پمپ‌های صنعتی با درایوهای جدید SINAMICS",
+      "summary": "سری جدید درایوهای SINAMICS زیمنس با الگوریتم‌های پیشرفته کنترل دور موتور معرفی شدند. این تجهیزات می‌توانند تا پانزده درصد در مصرف برق پمپ‌های صنعتی صرفه‌جویی کنند. این دستاورد گامی مهم در راستای کمک به صنایع برای دستیابی به اهداف پایداری و کاهش انتشار کربن محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 10:45",
+      "collected_at": "1405/08/01 15:00",
+      "source": "IEngineering",
+      "source_url": "https://www.iengineering.com/siemens-sinamics-energy-saving",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "توسعه همکاری‌های مشترک برای استانداردسازی پروتکل‌های TSN در شبکه",
+      "summary": "گروهی از رهبران صنعت اتوماسیون از جمله زیمنس بر اهمیت گسترش شبکه حساس به زمان یا همان TSN تأکید کردند. این استاندارد ارتباطی، تأخیر در انتقال داده‌های حیاتی را در کارخانه‌های هوشمند به حداقل می‌رساند. پیاده‌سازی این فناوری بستر لازم برای همگرایی کامل IT و OT را فراهم می‌آورد.",
+      "category": "news",
+      "published_at": "1405/08/01 11:20",
+      "collected_at": "1405/08/01 15:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/tsn-standards-automation-2026",
+      "tags": [
+        "TSN",
+        "Networking",
+        "Industrial Automation",
+        "Standardization"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "نقش هوش مصنوعی مولد در تسریع برنامه‌نویسی سیستم‌های کنترل",
+      "summary": "ابزار کمکی مبتنی بر هوش مصنوعی زیمنس موسوم به Industrial Copilot قابلیت‌های جدیدی برای تولید کدهای ساختاریافته دریافت کرد. مهندسان می‌توانند با استفاده از دستورات متنی، کدهای اولیه PLC را با سرعت بیشتری ایجاد کنند. این نوآوری زمان لازم برای توسعه و تست پروژه‌های بزرگ اتوماسیون را به طور چشمگیری کاهش می‌دهد.",
+      "category": "research",
+      "published_at": "1405/08/01 12:05",
+      "collected_at": "1405/08/01 15:00",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/siemens-copilot-update",
+      "tags": [
+        "AI",
+        "Industrial Copilot",
+        "PLC",
+        "Programming"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "افزایش بهره‌وری خطوط بسته‌بندی با استفاده از کنترلرهای توزیع‌شده",
+      "summary": "نسخه جدید کنترلرهای SIMATIC ET 200SP زیمنس برای کاربردهای سرعت بالا در صنایع بسته‌بندی به بازار عرضه شد. این ماژول‌ها دقت بالا در همگام‌سازی محورهای حرکتی را تضمین می‌کنند. استفاده از این تجهیزات به تولیدکنندگان اجازه می‌دهد تا خروجی خطوط تولید خود را بدون افت کیفیت افزایش دهند.",
+      "category": "product",
+      "published_at": "1405/08/01 12:50",
+      "collected_at": "1405/08/01 15:00",
+      "source": "Packaging Europe",
+      "source_url": "https://www.packingeurope.com/siemens-distributed-controllers-2026",
+      "tags": [
+        "SIMATIC",
+        "ET 200SP",
+        "Packaging",
+        "Motion Control"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "راهکارهای نوین برای نگهداری پیش‌بینانه تجهیزات در صنایع فرایندی",
+      "summary": "سیستم‌های کنترل صنعتی DCS زیمنس اکنون به ابزارهای پیشرفته تحلیل داده مجهز شده‌اند تا خرابی تجهیزات را پیش‌بینی کنند. این سیستم‌ها با پایش مداوم ارتعاشات و دما، هشدار مقتضی را پیش از بروز نقص فنی صادر می‌کنند. این رویکرد از توقف‌های ناخواسته خط تولید و هزینه‌های گزاف تعمیرات جلوگیری می‌کند.",
+      "category": "industry",
+      "published_at": "1405/08/01 13:30",
+      "collected_at": "1405/08/01 15:00",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-dcs-predictive-maintenance",
+      "tags": [
+        "DCS",
+        "Predictive Maintenance",
+        "Process Industry",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "گسترش زیرساخت‌های اتوماسیون در نیروگاه‌های انرژی خورشیدی",
+      "summary": "تجهیزات اتوماسیون و مانیتورینگ زیمنس برای مدیریت یک مزرعه بزرگ خورشیدی در خاورمیانه به کار گرفته شدند. این سیستم‌ها کنترل دقیق پنل‌ها و بهینه‌سازی توان خروجی را در شرایط مختلف آب و هوایی انجام می‌دهند. این پروژه نمونه‌ای بارز از نقش اتوماسیون صنعتی در توسعه انرژی‌های پاک است.",
+      "category": "economy",
+      "published_at": "1405/08/01 14:10",
+      "collected_at": "1405/08/01 15:00",
+      "source": "Power Magazine",
+      "source_url": "https://www.powermag.com/siemens-solar-automation-project",
+      "tags": [
+        "Energy",
+        "Solar Power",
+        "Automation",
+        "SCADA"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "ارتقای نسخه جدید نرم‌افزار مهندسی برای سازگاری با سیستم‌های ابری",
+      "summary": "بسته‌های نرم‌افزاری مهندسی زیمنس قابلیت‌های جدیدی برای کار در بستر فضای ابری دریافت کردند که همکاری تیم‌های مهندسی را آسان‌تر می‌سازد. این تغییرات به طراحان امکان می‌دهد پروژه‌های خود را به صورت همزمان از نقاط مختلف ویرایش کنند. این رویکرد انعطاف‌پذیری و سرعت اجرای پروژه‌های بزرگ صنعتی را بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/08/01 14:45",
+      "collected_at": "1405/08/01 15:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-engineering-software-cloud-2026",
+      "tags": [
+        "Software",
+        "Engineering",
+        "Cloud",
+        "Siemens"
       ]
     }
   ]
