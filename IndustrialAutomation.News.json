@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 173,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/08/01 18:00",
+  "count": 183,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 18:09",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2651,6 +2651,163 @@
         "Fieldbus",
         "Connectivity",
         "Standardization"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "گسترش کاربرد هوش مصنوعی لبه در سیستم‌های کنترل زیمنس",
+      "summary": "شرکت زیمنس از توسعه قابلیت‌های پردازش هوش مصنوعی در لبه شبکه برای کنترلرهای صنعتی خود خبر داد. این فناوری به مهندسان اجازه می‌دهد الگوریتم‌های یادگیری ماشین را مستقیماً روی سخت‌افزار SIMATIC اجرا کنند. این راهکار باعث کاهش تأخیر در تصمیم‌گیری‌های حیاتی کارخانه و بهبود بهره‌وری تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 18:09",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-edge-ai-simatic",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "SIMATIC",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "بهه‌سازی امنیت شبکه‌های OT با پروتکل‌های جدید زیمنس",
+      "summary": "زیمنس مجموعه‌ای از راهکارهای امنیتی جدید را برای حفاظت از زیرساخت‌های حیاتی اتوماسیون صنعتی معرفی کرد. این ابزارها با استاندارد IEC 62443 سازگاری کامل دارند و از نفوذ سایبری به لایه‌های PLC جلوگیری می‌کنند. این توسعه گامی مهم در جهت ایمن‌سازی کارخانه‌های متصل به شمار می‌رود.",
+      "category": "regulation",
+      "published_at": "1405/08/01 10:30",
+      "collected_at": "1405/08/01 18:09",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-ot-security-updates",
+      "tags": [
+        "Cybersecurity",
+        "OT",
+        "Siemens",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "نقش پلتفرم Xcelerator در مدیریت یکپارچه خطوط تولید",
+      "summary": "آخرین گزارش‌ها نشان می‌دهد استفاده از پلتفرم Xcelerator زیمنس در صنایع خودروسازی رشد چشمگیری داشته است. این پلتفرم نرم‌افزاری امکان یکپارچه‌سازی کامل طراحی مهندسی با داده‌های طبه‌قه‌بندی‌شده کارخانه را فراهم می‌کند. مدیران صنعتی با این ابزار می‌توانند زمان عرضه محصولات جدید به بازار را به طور قابل توجهی کاهش دهند.",
+      "category": "industry",
+      "published_at": "1405/08/01 11:00",
+      "collected_at": "1405/08/01 18:09",
+      "source": "Industrial Technology",
+      "source_url": "https://www.industrialtechnology.co.uk/siemens-xcelerator-growth",
+      "tags": [
+        "Siemens Xcelerator",
+        "Digitalization",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی نسل جدید ماژول‌های ارتباطی TSN برای تجهیزات SIMATIC",
+      "summary": "زیمنس ماژول‌های شبکه جدیدی مبتنی بر فناوری Time-Sensitive Networking برای خانواده SIMATIC S7 ارائه داد. این ماژول‌ها امکان ارتباط بلادرنگ و قطعی را در بستر اترنت صنعتی فراهم می‌کنند. این ویژگی برای کاربردهای رباتیک پیشرفته و کنترل حرکت با دقت بالا اهمیت حیاتی دارد.",
+      "category": "product",
+      "published_at": "1405/08/01 12:20",
+      "collected_at": "1405/08/01 18:09",
+      "source": "Iot World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-tsn-modules",
+      "tags": [
+        "TSN",
+        "SIMATIC",
+        "Industrial Ethernet",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "همکاری زیمنس و اپراتورهای مخابراتی برای توسعه شبکه 5G خصوصی",
+      "summary": "پروژه مشترک زیمنس و شرکت‌های مخابراتی برای راه‌اندازی شبکه‌های ۵G اختصاصی در محیط‌های صنعتی آغاز شد. این زیرساخت ارتباطی پرسرعت، پایداری لازم برای اتصال هزاران حسگر بی‌سیم و ربات متحرک را فراهم می‌کند. این فناوری ستون فقرات کارخانه‌های کاملاً خودکار و هوشمند آینده خواهد بود.",
+      "category": "news",
+      "published_at": "1405/08/01 13:45",
+      "collected_at": "1405/08/01 18:09",
+      "source": "Telecompaper",
+      "source_url": "https://www.telecompaper.com/siemens-private-5g-factory",
+      "tags": [
+        "5G",
+        "IIoT",
+        "Siemens",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "افزایش بهره‌وری انرژی در صنایع سنگین با درایوهای SINAMICS",
+      "summary": "سری جدید درایوهای SINAMICS زیمنس با قابلیت بازگردانی انرژی به شبکه معرفی شدند. این تجهیزات با بهینه‌سازی مصرف برق در الکتروموتورهای بزرگ صنعتی، هزینه‌های عملیاتی کارخانه‌ها را کاهش می‌دهند. این اقدام بخشی از استراتژی کلان زیمنس برای دستیابی به پایداری محیط زیستی در صنعت است.",
+      "category": "product",
+      "published_at": "1405/08/01 14:10",
+      "collected_at": "1405/08/01 18:09",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/siemens-sinamics-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه ابزارهای مهندسی ابری در به‌روزرسانی جدید TIA Portal",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal قابلیت‌های همکاری ابری را برای تیم‌های توسعه کنترلر تقویت کرده است. مهندسان می‌توانند به طور همزمان روی پروژه‌های بزرگ برنامه‌نویسی PLC کار کنند و تغییرات را به صورت پویا مدیریت نمایند. این تغییر باعث تسریع روند تست و راه‌اندازی خطوط تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 15:00",
+      "collected_at": "1405/08/01 18:09",
+      "source": "Automation Update",
+      "source_url": "https://www.automationupdate.com/tia-portal-cloud-engineering",
+      "tags": [
+        "TIA Portal",
+        "PLC",
+        "Engineering",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "نقش سیستم‌های DCS در اتوماسیون پیشرفته صنایع شیمیایی",
+      "summary": "سیستم‌های کنترل توزیع‌شده پیشرفته نقش کلیدی در نظارت بر فرآیندهای پیچیده شیمیایی ایفا می‌کنند. این سیستم‌ها با پردازش حجم عظیمی از داده‌های فرآیندی، پایداری واکنش‌ها و ایمنی اپراتورها را تضمین می‌کنند. شرکت‌های پیشرو اتوماسیون در تلاشند قابلیت‌های تجزیه و تحلیل پیش‌بینانه را به این سیستم‌ها اضافه کنند.",
+      "category": "industry",
+      "published_at": "1405/08/01 15:40",
+      "collected_at": "1405/08/01 18:09",
+      "source": "Chemical Engineering",
+      "source_url": "https://www.chemengonline.com/advanced-dcs-chemical-plants",
+      "tags": [
+        "DCS",
+        "Process Control",
+        "Chemical Industry"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "بهبود قابلیت‌های تشخیصی در سیستم‌های کنترل SIMATIC S7-1500",
+      "summary": "زیمنس قابلیت‌های عیب‌یابی خودکار را به خانواده کنترلرهای SIMATIC S7-1500 اضافه کرد. این سیستم قادر است خطاهای سخت‌افزاری و نرم‌افزاری را پیش از توقف خط تولید شناسایی و گزارش کند. این ویژگی زمان خرابی ناخواسته دستگاه‌ها را به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/08/01 16:30",
+      "collected_at": "1405/08/01 18:09",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-simatic-diagnostics",
+      "tags": [
+        "SIMATIC S7-1500",
+        "Diagnostics",
+        "PLC",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "چالش‌های زنجیره تامین نیمه‌هادی‌ها در صنعت اتوماسیون",
+      "summary": "بررسی‌های بازار جهانی نشان می‌دهد تامین پایدار میکروچیپ‌ها و قطعات الکترونیکی همچنان چالش اصلی سازندگان تجهیزات اتوماسیون است. شرکت‌های بزرگ مانند زیمنس و اشنایدر در حال diversification تامین‌کنندگان خود برای کاهش آسیب‌پذیری هستند. این وضعیت نیازمند بازنگری در برنامه‌ریزی تولید تجهیزات سخت‌افزاری است.",
+      "category": "economy",
+      "published_at": "1405/08/01 17:50",
+      "collected_at": "1405/08/01 18:09",
+      "source": "Supply Chain Dive",
+      "source_url": "https://www.supplychaindive.com/semiconductor-challenges-automation",
+      "tags": [
+        "Supply Chain",
+        "Semiconductors",
+        "Industry Trends"
       ]
     }
   ]
