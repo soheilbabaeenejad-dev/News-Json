@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 90,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/08/01 09:52",
+  "count": 100,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 11:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1373,6 +1373,166 @@
         "SINAMICS",
         "Green Hydrogen",
         "Energy Transition"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "گسترش راهکارهای ابری زیمنس با قابلیت‌های جدید تحلیل داده",
+      "summary": "شرکت زیمنس از توسعه قابلیت‌های جدید در پلتفرم ابری خود برای بهبود تحلیل داده‌های صنعتی خبر داد. این بروزرسانی به مهندسان کمک می‌کند تا اطلاعات بلادرنگ تجهیزات را با دقت بیشتری پردازش کنند. این اقدام گامی مهم در جهت افزایش بهره‌وری و کاهش زمان توقف خطوط تولید محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 08:15",
+      "collected_at": "1405/08/01 11:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-cloud-analytics-update",
+      "tags": [
+        "Siemens",
+        "Cloud",
+        "IIoT",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "معرفی ماژول‌های ارتباطی جدید برای سیستم‌های SIMATIC S7-1200",
+      "summary": "نسخه جدید ماژول‌های ارتباطی برای کنترلرهای SIMATIC S7-1200 زیمنس به بازار عرضه شد. این ماژول‌ها از پروتکل‌های امنیتی پیشرفته برای ارتباطات صنعتی پشتیبانی می‌کنند. استفاده از این تجهیزات امنیت سایبری شبکه OT را به شکل قابل توجهی ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 08:45",
+      "collected_at": "1405/08/01 11:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-s7-1200-communication-modules",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "Cybersecurity",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با سیستم‌های DCS جدید",
+      "summary": "سیستم‌های کنترل توزیع‌شده جدید زیمنس ابزارهای پیشرفته‌ای را برای مدیریت مصرف انرژی معرفی کردند. این فناوری به اپراتورها اجازه می‌دهد تا نقاط اتلاف انرژی را در فرآیندهای صنعتی شناسایی کنند. این راهکار نقش کلیدی در دستیابی به اهداف پایداری و کاهش انتشار کربن دارد.",
+      "category": "industry",
+      "published_at": "1405/08/01 09:00",
+      "collected_at": "1405/08/01 11:00",
+      "source": "Industrial Info",
+      "source_url": "https://www.industrialinfo.com/siemens-dcs-energy-management",
+      "tags": [
+        "DCS",
+        "Energy Efficiency",
+        "Sustainability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری جدید در زمینه رباتیک پیشرفته و هوش مصنوعی",
+      "summary": "شرکت ABB از مشارکت تازه خود برای توسعه الگوریتم‌های هوش مصنوعی در ربات‌های صنعتی خبر داد. این همکاری تمرکز ویژه‌ای بر افزایش انعطاف‌پذیری ربات‌ها در خطوط مونتاژ پیچیده دارد. تولیدکنندگان می‌توانند محصولات سفارشی‌سازی شده را با سرعت بیشتری به بازار عرضه کنند.",
+      "category": "news",
+      "published_at": "1405/08/01 09:20",
+      "collected_at": "1405/08/01 11:00",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/abb-ai-robotics-partnership",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "AI",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه استانداردهای امنیتی جدید برای تجهیزات لبه شبکه",
+      "summary": "کنسرسیوم‌های بین‌المللی استانداردهای جدیدی را برای امنیت تجهیزات لبه شبکه در محیط‌های صنعتی تدوین کردند. این چارچوب‌ها به شرکت‌ها کمک می‌کند تا از دستگاه‌های Industrial Edge در برابر تهدیدات سایبری محافظت کنند. رعایت این اصول برای تمامی تجهیزات متصل به شبکه ضروری است.",
+      "category": "regulation",
+      "published_at": "1405/08/01 09:40",
+      "collected_at": "1405/08/01 11:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/edge-security-standards-2026",
+      "tags": [
+        "Industrial Edge",
+        "Security",
+        "Standards",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "ارتقای ابزارهای شبیه‌سازی در پلتفرم Xcelerator",
+      "summary": "زیمنس قابلیت‌های جدیدی را به پلتفرم نرم‌افزاری Xcelerator برای طراحی خطوط تولید اضافه کرد. مهندسان اکنون می‌توانند رفتار مکانیکی و کنترلی ماشین‌آلات را به صورت همزمان شبیه‌سازی کنند. این قابلیت خطاهای طراحی را پیش از ساخت فیزیکی تجهیزات به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 11:00",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/siemens-xcelerator-simulation-update",
+      "tags": [
+        "Xcelerator",
+        "Digital Twin",
+        "Simulation",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "رشد بازار سیستم‌های کنترل صنعتی در صنایع داروسازی",
+      "summary": "گزارش‌های جدید نشان می‌دهد تقاضا برای سیستم‌های اتوماسیون پیشرفته در کارخانجات داروسازی افزایش یافته است. کنترل دقیق دما و فشار در این صنایع نیازمند PLCها و نرم‌افزارهای نظارتی با دقت بالا است. شرکت‌های پیشرو در حال نوسازی زیرساخت‌های خود با فناوری‌های روز هستند.",
+      "category": "economy",
+      "published_at": "1405/08/01 10:15",
+      "collected_at": "1405/08/01 11:00",
+      "source": "Pharmaceutical Processing",
+      "source_url": "https://www.pharmprocessing.com/pharma-automation-market-growth",
+      "tags": [
+        "Pharmaceutical",
+        "PLC",
+        "SCADA",
+        "Market Trends"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "معرفی نسل جدید اینورترهای فرکانسی برای کاربردهای سنگین",
+      "summary": "رده جدیدی از درایوهای صنعتی با قابلیت تحمل بارهای سنگین و بازدهی بالا معرفی شدند. این تجهیزات مجهز به الگوریتم‌های پیشرفته برای کنترل بردار بدون سنسور هستند. این ویژگی باعث کاهش تلفات حرارتی و افزایش طول عمر موتورهای الکتریکی می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 10:30",
+      "collected_at": "1405/08/01 11:00",
+      "source": "Drive & Control",
+      "source_url": "https://www.driveandcontrol.co.uk/new-heavy-duty-inverters",
+      "tags": [
+        "Drives",
+        "Inverters",
+        "Motors",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "نقش سنسورهای هوشمند در تحقق اهداف کارخانه بدون توقف",
+      "summary": "استفاده از نسل جدید سنسورهای تشخیصی مجهز به پروتکل IO-Link در خطوط تولید رو به گسترش است. این سنسورها علاوه بر اندازه‌گیری پارامترهای فیزیکی، وضعیت سلامت خود را نیز گزارش می‌کنند. این رویکرد به تیم‌های نگهداری و تعمیرات اجازه می‌دهد از خرابی‌های ناگهانی جلوگیری کنند.",
+      "category": "news",
+      "published_at": "1405/08/01 10:45",
+      "collected_at": "1405/08/01 11:00",
+      "source": "Sensors Magazine",
+      "source_url": "https://www.sensorsmag.com/smart-sensors-io-link-manufacturing",
+      "tags": [
+        "Sensors",
+        "IO-Link",
+        "Predictive Maintenance",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش استفاده از پروتکل‌های ارتباطی بی‌سیم در محیط‌های کارگاهی",
+      "summary": "تکنولوژی‌های ارتباطی بی‌سیم صنعتی مانند 5G خصوصی جایگاه خود را در اتوماسیون کارخانه‌ها تثبیت کرده‌اند. این فناوری امکان اتصال پایدار و با تاخیر بسیار کم را برای تجهیزات متحرک فراهم می‌کند. کارخانه‌های هوشمند با تکیه بر این زیرساخت، انعطاف‌پذیری عملیاتی خود را به شدت افزایش می‌دهند.",
+      "category": "industry",
+      "published_at": "1405/08/01 11:00",
+      "collected_at": "1405/08/01 11:00",
+      "source": "Industrial IoT 360",
+      "source_url": "https://www.industrialiot360.com/private-5g-factory-networks",
+      "tags": [
+        "Wireless",
+        "5G",
+        "Industrial Networking",
+        "Smart Factory"
       ]
     }
   ]
