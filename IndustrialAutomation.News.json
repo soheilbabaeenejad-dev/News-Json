@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 120,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/08/01 13:22",
+  "count": 130,
+  "provider": "Gemini/gemini-3.5-flash",
+  "updated_at": "1405/08/01 14:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1833,6 +1833,176 @@
         "Cloud Computing",
         "PLC",
         "Remote Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "توسعه ماژول‌های ورودی و خروجی SIMATIC ET 200MP زیمنس برای پردازش‌های سیگنال پرسرعت",
+      "summary": "زیمنس نسل جدید ماژول‌های پردازش سیگنال خانواده SIMATIC ET 200MP را برای استفاده در سیستم‌های کنترل توزیع‌شده معرفی کرد. این ماژول‌ها امکان ثبت داده‌های آنالوگ با فرکانس بالا را فراهم کرده و تأخیر ارتباطی با کنترلر S7-1500 را به حداقل می‌رسانند. استفاده از این تجهیزات در خطوط بسته‌بندی پرسرعت و ماشین‌آلات مدرن، موجب بهبود ۲۰ درصدی دقت زمان‌بندی و کاهش ضایعات تولید می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 14:00",
+      "source": "Siemens Press Release",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-et200mp-high-speed-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "ET 200MP",
+        "PLC",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "دریافت گواهینامه IEC 62443-4-2 توسط سوئیچ‌های صنعتی SCALANCE سری XC-200 زیمنس",
+      "summary": "شرکت زیمنس اعلام کرد که سوئیچ‌های شبکه مدیریت‌شده SCALANCE XC-200 موفق به دریافت گواهینامه امنیتی بین‌المللی IEC 62443-4-2 شده‌اند. این گواهینامه تأیید می‌کند که سوئیچ‌های مذکور دارای ویژگی‌های پیشرفته لایه دفاعی برای جلوگیری از دسترسی‌های غیرمجاز در شبکه‌های OT هستند. این ارتقای امنیتی به کارخانه‌ها اجازه می‌دهد زیرساخت‌های شبکه خود را در برابر حملات سایبری پیچیده ایمن‌سازی نمایند.",
+      "category": "regulation",
+      "published_at": "1405/08/01 09:40",
+      "collected_at": "1405/08/01 14:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/cybersecurity/article/scalance-xc200-iec62443",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "OT Security",
+        "IEC 62443",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "ارتقای پلتفرم SIMATIC PCS neo نسخه ۵.۰ زیمنس برای خطوط تولید فرآیندی مدولار",
+      "summary": "نسخه جدید سیستم کنترل فرآیند SIMATIC PCS neo 5.0 با پشتیبانی کامل از استاندارد MTP توسط زیمنس عرضه شد. این نسخه امکان یکپارچه‌سازی سریع‌تر واحدهای تولیدی مدولار را در صنایع شیمیایی و داروسازی فراهم می‌سازد. با استفاده از این پلتفرم کاملاً مبتنی بر وب، مهندسان می‌توانند فرآیندهای پیچیده را از هر مکانی مدیریت کرده و زمان راه‌اندازی کارخانه‌ها را تا ۳۰ درصد کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/08/01 10:10",
+      "collected_at": "1405/08/01 14:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-pcs-neo-v5-modular-automation",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "DCS",
+        "Process Automation",
+        "MTP"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "افزوده شدن ابزارهای هوش مصنوعی مولد به نرم‌افزار Process Simulate زیمنس",
+      "summary": "زیمنس قابلیت‌های جدید هوش مصنوعی مولد را به نرم‌افزار Process Simulate در مجموعه Xcelerator اضافه کرد. این ویژگی به مهندسان امکان می‌دهد سناریوهای حرکتی ربات‌ها و شبیه‌سازی سلول‌های کاری را با دستورات متنی ساده ایجاد کنند. این ابزار زمان طراحی خطوط رباتیک در صنایع خودروسازی را به شکل چشمگیری کاهش داده و از بروز برخوردهای فیزیکی در محیط واقعی جلوگیری می‌کند.",
+      "category": "research",
+      "published_at": "1405/08/01 10:50",
+      "collected_at": "1405/08/01 14:00",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://plm.sw.siemens.com/en-US/simcenter/process-simulate-ai-update",
+      "tags": [
+        "Siemens",
+        "Process Simulate",
+        "Xcelerator",
+        "AI",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "یکپارچه‌سازی آسان‌تر ربات‌های KUKA با کنترلرهای زیمنس از طریق رابط SIMATIC Robot",
+      "summary": "شرکت‌های زیمنس و کوکا (KUKA) از توسعه رابط نرم‌افزاری SIMATIC Robot Integration برای کنترل مستقیم ربات‌ها از داخل محیط TIA Portal خبر دادند. این فناوری نیازمند دانش تخصصی برنامه‌نویسی ربات نبوده و اپراتورهای PLC می‌توانند حرکات ربات را مستقیماً پیکربندی کنند. این همکاری منجر به کاهش هزینه آموزش نیروها و افزایش سرعت پیاده‌سازی رباتیک در خطوط تولید می‌شود.",
+      "category": "company",
+      "published_at": "1405/08/01 11:15",
+      "collected_at": "1405/08/01 14:00",
+      "source": "Robotics & Automation News",
+      "source_url": "https://roboticsandautomationnews.com/siemens-kuka-simatic-robot-integration",
+      "tags": [
+        "Siemens",
+        "KUKA",
+        "TIA Portal",
+        "Robotics",
+        "SIMATIC"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "ادغام سامانه نگهداری پیش‌بینانه Senseye با پلتفرم Insights Hub زیمنس",
+      "summary": "زیمنس ادغام کامل نرم‌افزار هوش مصنوعی Senseye Predictive Maintenance را با پلتفرم ابری Insights Hub به پایان رساند. این راهکار با تحلیل مداوم لرزش و دمای موتورها و درایوهای صنعتی، خرابی‌های احتمالی را هفته‌ها قبل از وقوع پیش‌بینی می‌کند. پیاده‌سازی این سامانه در صنایع فولاد و سیمان توانسته است توقف‌های ناخواسته خطوط تولید را تا ۵۰ درصد کاهش دهد.",
+      "category": "industry",
+      "published_at": "1405/08/01 11:40",
+      "collected_at": "1405/08/01 14:00",
+      "source": "Plant Engineering",
+      "source_url": "https://www.planteng.com/articles/siemens-senseye-insights-hub-integration",
+      "tags": [
+        "Siemens",
+        "Senseye",
+        "Insights Hub",
+        "Predictive Maintenance",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "به‌روزرسانی سیستم‌های کنترل حرکت S7-1500T برای هماهنگی با درایوهای SINAMICS S120",
+      "summary": "زیمنس قابلیت‌های جدیدی را به کنترلرهای حرکت سری SIMATIC S7-1500T برای همگام‌سازی چندمحوره با درایوهای SINAMICS S120 اضافه کرد. این به‌روزرسانی شامل توابع جدید برای کنترل دقیق کشش و همگام‌سازی موقعیت در ماشین‌آلات چاپ و بسته‌بندی است. بهره‌گیری از این کنترلرها کیفیت محصولات نهایی را افزایش داده و مصرف انرژی در درایوهای سنگین را بهینه‌تر می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/01 12:10",
+      "collected_at": "1405/08/01 14:00",
+      "source": "Drive & Control News",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-s7-1500t-sinamics-s120-motion",
+      "tags": [
+        "Siemens",
+        "S7-1500T",
+        "SINAMICS S120",
+        "Motion Control",
+        "Drive"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "معرفی اپلیکیشن پردازش تصویر مبتنی بر هوش مصنوعی در پلتفرم Industrial Edge زیمنس",
+      "summary": "اپلیکیشن جدید بازرسی بصری کیفیت در فروشگاه اپلیکیشن Industrial Edge زیمنس منتشر شد. این برنامه با استفاده از الگوریتم‌های یادگیری عمیق، قطعات معیوب را در خطوط مونتاژ با سرعت بالا شناسایی می‌کند. نصب این برنامه بر روی سخت‌افزارهای Edge زیمنس بدون نیاز به ارسال داده‌ها به ابر انجام شده و امنیت داده‌های تولیدی را کاملاً تضمین می‌نماید.",
+      "category": "product",
+      "published_at": "1405/08/01 12:45",
+      "collected_at": "1405/08/01 14:00",
+      "source": "Industrial Edge News",
+      "source_url": "https://marketplace.edge.siemens.com/apps/ai-quality-inspection",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Computer Vision",
+        "AI",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "به‌روزرسانی سیستم‌عامل پلتفرم PLCnext فنیکس کنتاکت برای پشتیبانی از فناوری TSN",
+      "summary": "شرکت Phoenix Contact نسخه جدید سیستم‌عامل کنترلرهای PLCnext را با پشتیبانی کامل از شبکه حساس به زمان (TSN) عرضه کرد. این قابلیت جدید امکان ارتباطات همزمان و بلادرنگ را میان سخت‌افزارهای مختلف سازندگان در یک شبکه واحد OT فراهم می‌سازد. توسعه‌دهندگان اکنون می‌توانند برنامه‌های اتوماسیون را با استفاده از پروتکل‌های باز و بدون وابستگی به سخت‌افزار خاص اجرا نمایند.",
+      "category": "product",
+      "published_at": "1405/08/01 13:15",
+      "collected_at": "1405/08/01 14:00",
+      "source": "Phoenix Contact Newsroom",
+      "source_url": "https://www.phoenixcontact.com/en-us/news/plcnext-tsn-update",
+      "tags": [
+        "Phoenix Contact",
+        "PLCnext",
+        "TSN",
+        "PLC",
+        "Industrial Network"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "تایید استاندارد Ethernet تک‌زوجه (SPE) در تجهیزات ابزار دقیق توسط کنسرسیوم‌های صنعتی",
+      "summary": "کنسرسیوم‌های بین‌المللی اتوماسیون از جمله FieldComm Group تاییدیه نهایی استاندارد تک‌زوجه Ethernet (SPE) را برای تجهیزات ابزار دقیق اعلام کردند. زیمنس نیز تجهیزات جدید اندازه‌گیری فرآیندی خود را به این فناوری مجهز کرده است. استفاده از SPE امکان انتقال همزمان داده و توان الکتریکی را با یک جفت سیم تا مسافت ۱۰۰۰ متری در محیط‌های عملیاتی سخت میسر می‌کند.",
+      "category": "news",
+      "published_at": "1405/08/01 13:50",
+      "collected_at": "1405/08/01 14:00",
+      "source": "Process Automation Magazine",
+      "source_url": "https://www.processautomation.com/spe-standard-validation-field-devices",
+      "tags": [
+        "SPE",
+        "Single Pair Ethernet",
+        "Field Instrumentation",
+        "Siemens",
+        "Standards"
       ]
     }
   ]
