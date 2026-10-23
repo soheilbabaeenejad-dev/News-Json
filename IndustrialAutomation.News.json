@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 189,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/08/02 01:51",
+  "count": 195,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/08/02 02:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2907,6 +2907,108 @@
         "Solar Energy",
         "Energy Optimization",
         "Smart Grid"
+      ]
+    },
+    {
+      "id": "ia-20241023-001",
+      "title": "بهینه‌سازی فرآیندهای تولید با قابلیت‌های جدید Siemens Industrial Copilot",
+      "summary": "شرکت زیمنس قابلیت‌های جدیدی را به دستیار هوش مصنوعی Industrial Copilot خود اضافه کرده است که امکان تولید خودکار کدهای SCL را برای مهندسان اتوماسیون فراهم می‌کند. این ابزار با کاهش زمان برنامه‌نویسی PLC، خطاهای انسانی را به حداقل رسانده و بهره‌وری مهندسی را در محیط TIA Portal افزایش می‌دهد. این توسعه گام مهمی در جهت خودکارسازی کامل چرخه‌های توسعه نرم‌افزار در کارخانه‌های هوشمند محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1403/08/02 08:00",
+      "collected_at": "1405/08/02 02:00",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/company/stories/industry/industrial-copilot.html",
+      "tags": [
+        "Siemens",
+        "AI",
+        "Industrial Copilot",
+        "TIA Portal",
+        "SCL"
+      ]
+    },
+    {
+      "id": "ia-20241023-002",
+      "title": "گسترش استاندارد OPC UA FX در تجهیزات شبکه صنعتی زیمنس",
+      "summary": "زیمنس با پیاده‌سازی استاندارد جدید OPC UA FX در سخت‌افزارهای شبکه خود، تعامل‌پذیری میان دستگاه‌های مختلف در لایه فیلد را بهبود بخشیده است. این پروتکل امکان ارتباط بلادرنگ و ایمن بین کنترلرهای SIMATIC و تجهیزات سایر تولیدکنندگان را فراهم می‌کند. این اقدام به کاهش پیچیدگی‌های پیکربندی شبکه در محیط‌های OT کمک شایانی کرده و استانداردهای ارتباطی را یکپارچه می‌سازد.",
+      "category": "industry",
+      "published_at": "1403/08/02 09:00",
+      "collected_at": "1405/08/02 02:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/iiot/article/33124567/opc-ua-fx-siemens",
+      "tags": [
+        "OPC UA",
+        "Networking",
+        "SIMATIC",
+        "OT",
+        "Standardization"
+      ]
+    },
+    {
+      "id": "ia-20241023-003",
+      "title": "ارتقای امنیت سایبری در کنترلرهای SIMATIC S7-1500",
+      "summary": "زیمنس به‌روزرسانی‌های امنیتی جدیدی را برای خانواده کنترلرهای SIMATIC S7-1500 منتشر کرده است تا در برابر تهدیدات سایبری مدرن مقاوم‌تر شوند. این آپدیت شامل تقویت مکانیزم‌های احراز هویت و رمزنگاری داده‌ها در سطح سخت‌افزار است. با توجه به افزایش حملات به شبکه‌های صنعتی، این ارتقا برای حفظ پایداری سیستم‌های کنترل حیاتی در صنایع سنگین و زیرساخت‌ها ضروری است.",
+      "category": "product",
+      "published_at": "1403/08/02 10:00",
+      "collected_at": "1405/08/02 02:00",
+      "source": "Siemens Security Advisory",
+      "source_url": "https://cert-portal.siemens.com/productcert/pdf/ssa-s7-1500-security.pdf",
+      "tags": [
+        "Cybersecurity",
+        "SIMATIC",
+        "S7-1500",
+        "OT Security",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20241023-005",
+      "title": "راهکار جدید Industrial Edge برای مدیریت مصرف انرژی در صنایع سنگین",
+      "summary": "واحد Industrial Edge زیمنس ابزار جدیدی را برای مانیتورینگ و تحلیل بلادرنگ مصرف انرژی در کارخانه‌های بزرگ معرفی کرده است. این راهکار با جمع‌آوری داده‌ها از سنسورهای هوشمند و درایوهای SINAMICS، نقاط اتلاف انرژی را شناسایی کرده و پیشنهادهایی برای کاهش هزینه‌ها ارائه می‌دهد. این سیستم به مدیران کارخانه کمک می‌کند تا اهداف پایداری و کاهش ردپای کربن را با دقت بیشتری دنبال کنند.",
+      "category": "product",
+      "published_at": "1403/08/02 12:00",
+      "collected_at": "1405/08/02 02:00",
+      "source": "Energy Tech Review",
+      "source_url": "https://www.energytechreview.com/siemens-industrial-edge-energy",
+      "tags": [
+        "Industrial Edge",
+        "Energy Management",
+        "SINAMICS",
+        "Sustainability",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20241023-006",
+      "title": "همکاری زیمنس و انویدیا برای بهینه‌سازی لجستیک با دوقلوهای دیجیتال",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه دوقلوهای دیجیتال فوتورالیستیک در بخش لجستیک گسترش داده‌اند. با استفاده از پلتفرم Omniverse، شرکت‌ها می‌توانند چیدمان انبارها و مسیر حرکت ربات‌های متحرک خودگردان (AMR) را پیش از اجرا شبیه‌سازی کنند. این همکاری منجر به کاهش چشمگیر زمان راه‌اندازی و افزایش دقت در عملیات‌های پیچیده انبارداری در مقیاس صنعتی شده است.",
+      "category": "match",
+      "published_at": "1403/08/02 13:00",
+      "collected_at": "1405/08/02 02:00",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/siemens-nvidia-digital-twin-logistics",
+      "tags": [
+        "NVIDIA",
+        "Digital Twin",
+        "Logistics",
+        "Omniverse",
+        "AMR"
+      ]
+    },
+    {
+      "id": "ia-20241023-007",
+      "title": "معرفی نسل جدید PLCهای شرکت Rockwell Automation برای محیط‌های سخت",
+      "summary": "شرکت Rockwell Automation نسل جدیدی از کنترلرهای PLC را برای کاربرد در محیط‌های صنعتی با شرایط سخت محیطی معرفی کرد. این کنترلرها با برخورداری از استانداردهای حفاظتی بالا، در برابر لرزش، دما و رطوبت شدید مقاوم هستند. این محصول برای صنایع نفت، گاز و معدن طراحی شده است تا پایداری سیستم‌های کنترل را در شرایط عملیاتی دشوار تضمین کند و هزینه‌های نگهداری را کاهش دهد.",
+      "category": "product",
+      "published_at": "1403/08/02 14:00",
+      "collected_at": "1405/08/02 02:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/rockwell-automation-new-plc",
+      "tags": [
+        "Rockwell Automation",
+        "PLC",
+        "Ruggedized",
+        "Industrial Control",
+        "Hardware"
       ]
     }
   ]
