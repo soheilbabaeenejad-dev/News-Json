@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 109,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/08/01 11:02",
+  "count": 119,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 11:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1677,6 +1677,166 @@
         "Machine Vision",
         "SIMATIC",
         "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی نسل جدید ماژول‌های ارتباطی SCALANCE برای شبکه‌های صنعتی پرسرعت",
+      "summary": "شرکت زیمنس از نسل جدید ماژول‌های ارتباطی SCALANCE با پشتیبانی از فناوری TSN رونمایی کرد. این تجهیزات جدید به مهندسان اجازه می‌دهند تا ارتباطات بلادرنگ و قطعی را در شبکه‌های پیچیده کارخانه پیاده‌سازی کنند. این راه‌اندازی گامی مهم در جهت تحقق کارخانه‌های کاملاً متصل و هوشمند بر مبنای استانداردهای روز اتوماسیون است.",
+      "category": "product",
+      "published_at": "1405/08/01 08:15",
+      "collected_at": "1405/08/01 11:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-scalance-tsn-2026",
+      "tags": [
+        "Siemens",
+        "SCALANCE",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "توسعه قابلیت‌های تجزیه و تحلیل داده‌ها در پلتفرم Insights Hub",
+      "summary": "زیمنس قابلیت‌های جدید هوش مصنوعی را به پلتفرم ابری Insights Hub اضافه کرد که امکان پیش‌بینی دقیق‌تر خرابی تجهیزات را فراهم می‌کند. این ابزار به مدیران کارخانه‌ها کمک می‌کند تا با شناسایی زودهنگام anomalies، زمان توقف خطوط تولید را به حداقل برسانند. این به‌روزرسانی ارزش افزوده زیادی برای صنایع سنگین و پتروشیمی ایجاد خواهد کرد.",
+      "category": "product",
+      "published_at": "1405/08/01 08:45",
+      "collected_at": "1405/08/01 11:03",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/insights-hub-ai-update",
+      "tags": [
+        "Insights Hub",
+        "MindSphere",
+        "Predictive Maintenance",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با درایوهای پیشرفته SINAMICS G220",
+      "summary": "سری جدید درایوهای فرکانس متغیر SINAMICS G220 زیمنس با هدف کاهش مصرف انرژی در کاربردهای صنعتی معرفی شدند. این درایوها دارای قابلیت‌های امنیتیپارک و یکپارچگی کامل با محیط مهندسی TIA Portal هستند. استفاده از این تجهیزات می‌تواند تا ۱۵ درصد در مصرف انرژی الکتریکی موتورهای صنعتی صرفه‌جویی کند.",
+      "category": "product",
+      "published_at": "1405/08/01 09:00",
+      "collected_at": "1405/08/01 11:03",
+      "source": "IEngineering",
+      "source_url": "https://www.iengineering.com/siemens-sinamics-g220-launch",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "گسترش کاربرد ربات‌های متحرک خودگردان در لجستیک هوشمند با فناوری زیمنس",
+      "summary": "شرکت زیمنس همکاری تازه‌ای را با ارائه‌دهندگان تجهیزات لجستیکی برای توسعه ربات‌های متحرک خودگردان (AMR) آغاز کرده است. این همکاری مبتنی بر نرم‌افزار شبیه‌سازی Plant Simulation از مجموعه Xcelerator است که مسیرهای حرکتی ربات‌ها را بهینه‌سازی می‌کند. این راهکار سرعت جابجایی مواد را در انبارهای بزرگ خودکار تا حد زیادی افزایش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/08/01 09:20",
+      "collected_at": "1405/08/01 11:03",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-amr-logistics-2026",
+      "tags": [
+        "AMR",
+        "Xcelerator",
+        "Logistics",
+        "Plant Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "افزایش امنیت سایبری در سیستم‌های کنترل صنعتی با راهکارهای مشترک زیمنس و Fortinet",
+      "summary": "زیمنس و Fortinet برای ارائه راهکارهای امنیتی یکپارچه ویژه شبکه‌های OT و IT تفاهم‌نامه همکاری امضا کردند. این راهکار ترکیبی از فایروال‌های صنعتی و سیستم‌های تشخیص نفوذ مبتنی بر هوش مصنوعی را برای محافظت از PLCها ارائه می‌دهد. این اقدام پاسخگویی به تهدیدات روزافزون سایبری علیه زیرساخت‌های حیاتی را بهبود می‌بخشد.",
+      "category": "news",
+      "published_at": "1405/08/01 09:40",
+      "collected_at": "1405/08/01 11:03",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-fortinet-ot-security",
+      "tags": [
+        "Cybersecurity",
+        "OT Security",
+        "Fortinet",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "نقش سیستم‌های DCS در اتوماسیون پیشرفته صنایع داروسازی",
+      "summary": "استفاده از سیستم‌های کنترل توزیع‌شده (DCS) پیشرفته زیمنس در خطوط تولید دارویی به دلیل دقت بالا در کنترل دسته‌ای افزایش یافته است. این سیستم‌ها تضمین می‌کنند که تمامی استانداردهای سختگیرانه سازمان غذا و دارو (FDA) به طور خودکار رعایت شوند. این فناوری نقش کلیدی در کاهش خطاهای انسانی و افزایش کیفیت محصول نهایی دارد.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 11:03",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/dcs-pharma-automation-siemens",
+      "tags": [
+        "DCS",
+        "Pharmaceutical",
+        "Process Control",
+        "Compliance"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "ارتقای ابزارهای برنامه‌نویسی شیءگرا در محیط TIA Portal V19",
+      "summary": "نسخه جدید محیط مهندسی TIA Portal V19 امکانات پیشرفته‌ای را برای برنامه‌نویسی شیءگرا و مدیریت کتابخانه‌های بزرگ فراهم کرده است. این ویژگی‌ها به تیم‌های مهندسی اجازه می‌دهد تا کدهای اتوماسیون را با سرعت و اطمینان بیشتری توسعه دهند و دوباره استفاده کنند. این به‌روزرسانی موجب کاهش چشمگیر زمان راه‌اندازی پروژه‌های بزرگ صنعتی می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 10:15",
+      "collected_at": "1405/08/01 11:03",
+      "source": "Automation Magazine",
+      "source_url": "https://www.automation.com/tia-portal-v19-features",
+      "tags": [
+        "TIA Portal",
+        "PLC Programming",
+        "Engineering",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "توسعه راهکارهای مدیریت آب هوشمند با تجهیزات اتوماسیون صنعتی زیمنس",
+      "summary": "شهرهای هوشمند مدرن برای بهینه‌سازی تصفیه و توزیع آب از کنترلرهای SIMATIC و نرم‌افزارهای نظارتی زیمنس استفاده می‌کنند. این سیستم‌ها با جمع‌آوری داده‌های بلادرنگ از حسگرهای مختلف، هدررفت آب را به حداقل می‌رسانند. این پروژه نمونه‌ای بارز از کاربرد فناوری‌های OT در توسعه پایدار شهری است.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:30",
+      "collected_at": "1405/08/01 11:03",
+      "source": "Water Technology",
+      "source_url": "https://www.watertechonline.com/smart-water-siemens-automation",
+      "tags": [
+        "Water Management",
+        "SIMATIC",
+        "SCADA",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "بررسی تاثیر هوش مصنوعی لبه بر کارایی ربات‌های خط مونتاژ",
+      "summary": "به کارگیری الگوریتم‌های هوش مصنوعی لبه (Edge AI) روی سخت‌افزارهای Industrial Edge زیمنس، دقت ربات‌های مونتاژ را به شدت افزایش داده است. این سیستم‌ها قادرند عیوب سطحی قطعات را در کسری از ثانیه شناسایی و اصلاح کنند. این رویکرد نیاز به پردازش ابری را کاهش داده و تأخیر زمانی را به صفر می‌رساند.",
+      "category": "research",
+      "published_at": "1405/08/01 10:45",
+      "collected_at": "1405/08/01 11:03",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/edge-ai-assembly-robots",
+      "tags": [
+        "Edge AI",
+        "Industrial Edge",
+        "Robotics",
+        "Machine Vision"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "گسترش استاندارد OPC UA FX در تجهیزات اتوماسیون نسل جدید",
+      "summary": "پذیرش گسترده استاندارد OPC UA Field Exchange (FX) توسط تولیدکنندگان بزرگ اتوماسیون از جمله زیمنس شتاب گرفته است. این استاندارد ارتباطی باز، امکان تبادل داده بی‌درز میان تجهیزات مختلف فیلدباس و کنترلرها را بدون وابستگی به برند فراهم می‌کند. این تحول مانع از ایجاد انبارهای انحصاری تجهیزات برای صنایع می‌شود.",
+      "category": "regulation",
+      "published_at": "1405/08/01 11:00",
+      "collected_at": "1405/08/01 11:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/opc-ua-fx-standard-adoption",
+      "tags": [
+        "OPC UA",
+        "Fieldbus",
+        "Interoperability",
+        "Industrial IoT"
       ]
     }
   ]
