@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 100,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/08/01 11:00",
+  "count": 109,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/08/01 11:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -1533,6 +1533,150 @@
         "5G",
         "Industrial Networking",
         "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "توسعه قابلیت‌های پردازش ابری در TIA Portal برای پروژه‌های بزرگ",
+      "summary": "زیمنس با معرفی به‌روزرسانی جدید برای TIA Portal، امکان یکپارچه‌سازی مستقیم با سرویس‌های ابری را برای مدیریت پروژه‌های اتوماسیون در مقیاس بزرگ فراهم کرده است. این قابلیت به مهندسان اجازه می‌دهد تا کدهای برنامه و پیکربندی‌های سخت‌افزاری SIMATIC را به صورت همزمان در فضای ابری ذخیره و مدیریت کنند. این تحول باعث کاهش زمان توسعه و بهبود همکاری تیمی در پروژه‌های پیچیده صنعتی می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 08:15",
+      "collected_at": "1405/08/01 11:02",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry-software/tia-portal.html",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Cloud",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "ارتقای امنیت سایبری در تجهیزات شبکه SCALANCE زیمنس",
+      "summary": "شرکت زیمنس سری جدید سوئیچ‌های صنعتی SCALANCE را با پروتکل‌های امنیتی پیشرفته منطبق بر استاندارد IEC 62443 روانه بازار کرد. این محصولات جدید برای مقابله با حملات پیچیده سایبری در شبکه‌های OT طراحی شده‌اند و قابلیت‌های تشخیص نفوذ بلادرنگ را ارائه می‌دهند. این ارتقا امنیت زیرساخت‌های حیاتی را در برابر تهدیدات نوین سایبری به طور قابل توجهی افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 08:45",
+      "collected_at": "1405/08/01 11:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/security/article/33000000/siemens-scalance-security",
+      "tags": [
+        "Cybersecurity",
+        "SCALANCE",
+        "OT",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع سنگین با درایوهای SINAMICS",
+      "summary": "نسل جدید درایوهای فرکانس متغیر SINAMICS زیمنس با بهره‌گیری از الگوریتم‌های هوشمند، مصرف انرژی موتورهای صنعتی را تا ۱۵ درصد کاهش می‌دهند. این درایوها با تحلیل داده‌های بار کاری به صورت لحظه‌ای، بهترین بازدهی را در فرآیندهای سنگین تولیدی تضمین می‌کنند. این راهکار نقش مهمی در کاهش هزینه‌های عملیاتی کارخانه‌ها و دستیابی به اهداف پایداری محیط‌زیستی ایفا می‌کند.",
+      "category": "industry",
+      "published_at": "1405/08/01 09:05",
+      "collected_at": "1405/08/01 11:02",
+      "source": "Industrial Automation News",
+      "source_url": "https://www.industry-automation.com/sinamics-efficiency-update",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "همکاری زیمنس و انویدیا برای شبیه‌سازی دقیق دوقلوهای دیجیتال",
+      "summary": "زیمنس و انویدیا در پروژه مشترک جدیدی، قابلیت‌های رندرینگ فوتورالیستیک را به پلتفرم Xcelerator اضافه کرده‌اند. این همکاری به تولیدکنندگان اجازه می‌دهد تا دوقلوهای دیجیتال کارخانه‌های خود را با دقت گرافیکی بسیار بالا شبیه‌سازی کنند. این فناوری به مهندسان کمک می‌کند تا پیش از اجرای فیزیکی، تمامی خطاهای احتمالی در خط تولید را در محیط مجازی شناسایی و اصلاح کنند.",
+      "category": "research",
+      "published_at": "1405/08/01 09:20",
+      "collected_at": "1405/08/01 11:02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/siemens-nvidia-digital-twin-collaboration",
+      "tags": [
+        "NVIDIA",
+        "Xcelerator",
+        "Digital Twin",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "گسترش راهکارهای Industrial Edge در صنایع داروسازی",
+      "summary": "زیمنس با ارائه بسته‌های نرم‌افزاری جدید برای Industrial Edge، مدیریت داده‌های حیاتی در خطوط تولید دارو را تسهیل کرده است. این راهکارها امکان پردازش محلی داده‌ها را فراهم کرده و از تاخیرهای ناشی از انتقال به ابر جلوگیری می‌کنند. این سیستم به شرکت‌های داروسازی کمک می‌کند تا استانداردهای سخت‌گیرانه نظارتی را با دقت و سرعت بیشتری رعایت کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 09:40",
+      "collected_at": "1405/08/01 11:02",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-edge-solutions",
+      "tags": [
+        "Industrial Edge",
+        "Pharma",
+        "Data Management",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "به‌روزرسانی هوش مصنوعی در Siemens Industrial Copilot",
+      "summary": "زیمنس نسخه ارتقایافته Industrial Copilot را برای تولید خودکار کدهای SCL در محیط TIA Portal منتشر کرد. این دستیار هوشمند با درک نیازهای مهندسی، پیشنهادهای بهینه‌ای برای برنامه‌نویسی PLC ارائه می‌دهد که سرعت توسعه پروژه‌ها را به شدت افزایش می‌دهد. این ابزار به عنوان یک همکار دیجیتال برای مهندسان اتوماسیون، خطاهای انسانی را در کدنویسی به حداقل می‌رساند.",
+      "category": "product",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 11:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-industrial-copilot-update",
+      "tags": [
+        "AI",
+        "Industrial Copilot",
+        "SCL",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "پیاده‌سازی استاندارد OPC UA FX در ماژول‌های ارتباطی جدید",
+      "summary": "زیمنس با معرفی ماژول‌های ارتباطی جدید، پشتیبانی کامل از استاندارد OPC UA FX را برای ارتباطات بلادرنگ در سطح فیلد فراهم کرده است. این استاندارد تعامل‌پذیری بین تجهیزات سازندگان مختلف را در کارخانه‌های هوشمند بهبود می‌بخشد. با این فناوری، یکپارچه‌سازی سیستم‌های کنترل و سنسورها در شبکه‌های صنعتی پیچیده بسیار ساده‌تر و ایمن‌تر از گذشته خواهد بود.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:15",
+      "collected_at": "1405/08/01 11:02",
+      "source": "OPC Foundation News",
+      "source_url": "https://opcfoundation.org/news/siemens-opc-ua-fx-implementation",
+      "tags": [
+        "OPC UA",
+        "Connectivity",
+        "Standards",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "استراتژی جدید زیمنس برای دیجیتالی کردن صنایع کوچک و متوسط",
+      "summary": "زیمنس با معرفی بسته‌های نرم‌افزاری مقرون‌به‌صرفه، استراتژی جدیدی را برای حمایت از تحول دیجیتال در صنایع کوچک و متوسط (SME) آغاز کرده است. این بسته‌ها شامل ابزارهای پایه برای اتوماسیون و تحلیل داده‌ها هستند که به راحتی قابل پیاده‌سازی می‌باشند. هدف از این اقدام، کاهش شکاف دیجیتال بین کارخانه‌های بزرگ و کسب‌وکارهای کوچک در بازارهای جهانی است.",
+      "category": "company",
+      "published_at": "1405/08/01 10:45",
+      "collected_at": "1405/08/01 11:02",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/siemens-sme-digital-strategy",
+      "tags": [
+        "SME",
+        "Digital Transformation",
+        "Strategy",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "بهبود دقت ربات‌های صنعتی با سیستم بینایی ماشین زیمنس",
+      "summary": "سیستم بینایی ماشین جدید زیمنس با ادغام در کنترلرهای SIMATIC، دقت ربات‌های صنعتی را در عملیات‌های ظریف افزایش داده است. این سیستم با استفاده از الگوریتم‌های پردازش تصویر پیشرفته، موقعیت قطعات را با دقت میلی‌متری شناسایی می‌کند. این فناوری در خطوط مونتاژ الکترونیک و بسته‌بندی دارویی که نیاز به دقت بسیار بالا دارند، کاربرد گسترده‌ای خواهد داشت.",
+      "category": "product",
+      "published_at": "1405/08/01 10:55",
+      "collected_at": "1405/08/01 11:02",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/siemens-machine-vision-robotics",
+      "tags": [
+        "Robotics",
+        "Machine Vision",
+        "SIMATIC",
+        "Siemens"
       ]
     }
   ]
