@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 169,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/08/01 21:58",
+  "count": 179,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 23:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2587,6 +2587,163 @@
         "Schneider Electric",
         "Microgrid",
         "EcoStruxure"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "گسترش کاربرد هوش مصنوعی لبه در خطوط مونتاژ با ماژول‌های جدید زیمنس",
+      "summary": "شرکت زیمنس ماژول‌های سخت‌افزاری جدیدی را برای پردازش محلی داده‌های هوش مصنوعی در لبه شبکه معرفی کرد. این تجهیزات به مهندسان کارخانه اجازه می‌دهند مدل‌های یادگیری ماشین را مستقیماً روی کنترلرهای SIMATIC پیاده‌سازی کنند. این رویکرد تأخیر زمانی در تصمیم‌گیری‌های بحرانی خط تولید را به شدت کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 23:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-edge-ai-modules-2026",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "SIMATIC",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "بهه‌سازی تجهیزات دوار با راهکار جدید نگهداری پیش‌بینانه زیمنس",
+      "summary": "پلتفرم تحلیل داده‌های صنعتی زیمنس قابلیت‌های جدیدی برای پایش وضعیت پمپ‌ها و توربین‌ها دریافت کرد. این سیستم با استفاده از الگوریتم‌های پیشرفته، نشانه‌های اولیه خرابی مکانیکی را هفته‌ها پیش از وقوع حادثه شناسایی می‌کند. این فناوری نقش کلیدی در جلوگیری از توقف‌های ناخواسته خطوط تولید بزرگ دارد.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 23:00",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-predictive-maintenance-2026",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "ارتقای امنیت ارتباطات صنعتی با پشتیبانی از پروتکل‌های رمزنگاری پیشرفته در سیستم‌های SIMATIC",
+      "summary": "زیمنس بسته امنیتی جدیدی را برای سری کنترلرهای SIMATIC S7-1500 منتشر کرد که استانداردهای امنیتی سایبری را بهبود می‌بخشد. این به‌روزرسانی شامل پروتکل‌های رمزنگاری مقاوم در برابر تهدیدات مدرن شبکه است. هدف از این اقدام، حفاظت هرچه بیشتر زیرساخت‌های حیاتی در برابر حملات سایبری پیچیده است.",
+      "category": "regulation",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 23:00",
+      "source": "Industrial Cyber",
+      "source_url": "https://industrialcyber.co/siemens-simatic-security-update-2026",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "Cybersecurity",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری راکول اتوماسیون و مایکروسافت برای یکپارچه‌سازی داده‌های ابری",
+      "summary": "شرکت Rockwell Automation از توسعه همکاری خود با مایکروسافت برای اتصال سیستم‌های کنترل به فضای ابری خبر داد. این شراکت به اپراتورهای صنعتی امکان می‌دهد تا داده‌های لحظه‌ای کارخانه را در پلتفرم Azure تحلیل کنند. این راهکار بهینه‌سازی مصرف انرژی و مدیریت منابع را در مقیاس وسیع تسهیل می‌کند.",
+      "category": "news",
+      "published_at": "1405/08/01 11:10",
+      "collected_at": "1405/08/01 23:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/rockwell-microsoft-cloud-integration",
+      "tags": [
+        "Rockwell Automation",
+        "Microsoft Azure",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "افزایش بهره‌وری انرژی در کارخانه‌ها با نسل جدید درایوهای SINAMICS",
+      "summary": "زیمنس خانواده جدیدی از درایوهای صنعتی SINAMICS با بازده انرژی فوق‌العاده بالا را روانه بازار کرد. این تجهیزات مجهز به الگوریتم‌های پیشرفته برای بازگرداندن انرژی ترمز به شبکه هستند. استفاده از این درایوها می‌تواند مصرف کلی برق در کارخانه‌های بزرگ خودروسازی را تا ۱۵ درصد کاهش دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 12:30",
+      "collected_at": "1405/08/01 23:00",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-new-generation",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "نقش ربات‌های همکار مجهز به هوش مصنوعی در انعطاف‌پذیری خطوط مونتاژ",
+      "summary": "شرکت ABB نسل جدیدی از ربات‌های همکار (کووبات) را معرفی کرد که با استفاده از بینایی ماشین پیشرفته، به طور خودکار با تغییرات قطعات تطبیق پیدا می‌کنند. این ربات‌ها نیازی به برنامه‌نویسی پیچیده دستی ندارند و توسط اپراتور خط به راحتی آموزش داده می‌شوند. این فناوری سرعت تغییر مدل در خطوط تولید را به طور چشمگیری افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 13:45",
+      "collected_at": "1405/08/01 23:00",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/abb-cobots-ai-flexibility",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Cobots",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "توسعه ابزارهای مهندسی خودکار در نسخه جدید محیط برنامه‌نویسی TIA Portal",
+      "summary": "تیم توسعه زیمنس امکانات جدیدی مبتنی بر هوش مصنوعی مولد را به محیط مهندسی TIA Portal اضافه کرد. این ابزارها قادرند کارهای تکراری مانند نام‌گذاری متغیرها و مستندسازی کدهای PLC را به صورت خودکار انجام دهند. این قابلیت زمان توسعه پروژه‌های بزرگ اتوماسیون را تا ۳۰ درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 14:20",
+      "collected_at": "1405/08/01 23:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/siemens-tia-portal-ai-tools",
+      "tags": [
+        "Siemens",
+        "TIA Portal",
+        "Engineering",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "پیاده‌سازی استانداردهای ارتباطی TSN در تجهیزات شبکه صنعتی اشنایدر الکتریک",
+      "summary": "شرکت اشنایدر الکتریک پشتیبانی از فناوری شبکه زمان‌بندی‌شده (TSN) را در تجهیزات زیرساختی خود گسترش داد. این استاندارد ارتباطی امکان انتقال همزمان داده‌های IT و OT را روی یک زیرساخت واحد با تضمین تأخیر صفر فراهم می‌کند. این تحول گامی بزرگ در جهت تحقق قابلیت همکاری واقعی در کارخانه‌های هوشمند است.",
+      "category": "industry",
+      "published_at": "1405/08/01 15:50",
+      "collected_at": "1405/08/01 23:00",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/schneider-electric-tsn-standards",
+      "tags": [
+        "Schneider Electric",
+        "TSN",
+        "Industrial Ethernet",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "گسترش کاربرد دوقلوی دیجیتال در طراحی خطوط تولید صنایع داروسازی",
+      "summary": "یک شرکت داروسازی بزرگ با استفاده از پلتفرم Siemens Xcelerator موفق شد کل خط تولید داروهای ترکیبی خود را به صورت دیجیتال شبیه‌سازی کند. این دوقلوی دیجیتال پیشرفته، اعتبارسنجی فرآیندها و تست سناریوهای مختلف را پیش از ساخت فیزیکی کارخانه امکان‌پذیر ساخت. این روش هزینه‌های راه‌اندازی و زمان ورود محصول به بازار را به حداقل می‌رساند.",
+      "category": "industry",
+      "published_at": "1405/08/01 17:05",
+      "collected_at": "1405/08/01 23:00",
+      "source": "Pharmaceutical Technology",
+      "source_url": "https://www.pharmtech.com/siemens-xcelerator-pharma-digital-twin",
+      "tags": [
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin",
+        "Pharma"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "رشد تقاضا برای سیستم‌های اسکادا ابری در مدیریت تاسیسات شهری",
+      "summary": "گزارش‌های جدید بازار نشان می‌دهد که استفاده از سیستم‌های SCADA مبتنی بر ابر برای کنترل شبکه‌های آب و فاضلاب شهری رو به افزایش است. این سامانه‌ها امکان پایش از راه دور و متمرکز را برای اپراتورهای شهری فراهم می‌کنند تا در مصرف آب و انرژی صرفه‌جویی کنند. امنیت بالا و مقیاس‌پذیری سریع از اصلی‌ترین دلایل استقبال مدیران زیرساخت از این راهکارها است.",
+      "category": "economy",
+      "published_at": "1405/08/01 18:30",
+      "collected_at": "1405/08/01 23:00",
+      "source": "Water World",
+      "source_url": "https://www.waterworld.com/cloud-scada-municipal-automation-growth",
+      "tags": [
+        "SCADA",
+        "Cloud",
+        "Infrastructure",
+        "IIoT"
       ]
     }
   ]
