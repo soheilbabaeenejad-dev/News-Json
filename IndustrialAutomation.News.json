@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 150,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/08/01 17:00",
+  "count": 154,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/08/01 17:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2293,6 +2293,70 @@
         "لبه شبکه",
         "بینایی ماشین",
         "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "بهینه‌سازی مصرف انرژی در صنایع سنگین با راهکار جدید Industrial Edge زیمنس",
+      "summary": "شرکت زیمنس راهکار جدیدی را در پلتفرم Industrial Edge برای پایش دقیق مصرف انرژی در صنایع سنگین معرفی کرد. این ابزار با تحلیل بلادرنگ داده‌های تجهیزات، نقاط اتلاف انرژی را شناسایی کرده و به کاهش هزینه‌های عملیاتی کمک می‌کند. این فناوری به مدیران کارخانه‌ها اجازه می‌دهد تا با استفاده از مدل‌های پیش‌بینانه، بهره‌وری انرژی را در خطوط تولید به حداکثر برسانند.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 17:02",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/company/press.html",
+      "tags": [
+        "Siemens",
+        "Industrial Edge",
+        "Energy Management",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "معرفی نسل جدید PLCهای شرکت Rockwell Automation برای محیط‌های سخت",
+      "summary": "شرکت راکول اتوماسیون از نسل جدید کنترل‌کننده‌های منطقی برنامه‌پذیر (PLC) خود رونمایی کرد که برای کار در شرایط محیطی بسیار سخت طراحی شده‌اند. این سخت‌افزارها با مقاومت بالا در برابر دما و ارتعاش، برای صنایع نفت و گاز و معدن ایده‌آل هستند. این محصول جدید با پشتیبانی از پروتکل‌های شبکه مدرن، قابلیت اطمینان سیستم‌های کنترلی را در محیط‌های پرخطر افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 10:45",
+      "collected_at": "1405/08/01 17:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com",
+      "tags": [
+        "PLC",
+        "Rockwell Automation",
+        "Industrial Hardware",
+        "Ruggedized"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "راهکار جدید Schneider Electric برای کاهش ردپای کربن در کارخانه‌ها",
+      "summary": "اشنایدر الکتریک راهکار نرم‌افزاری جدیدی را برای مدیریت کربن در کارخانه‌های هوشمند معرفی کرد که به تولیدکنندگان کمک می‌کند تا اثرات زیست‌محیطی خود را ردیابی کنند. این سیستم با اتصال به تجهیزات توزیع برق، داده‌های دقیقی از میزان انتشار گازهای گلخانه‌ای ارائه می‌دهد. این راهکار به شرکت‌ها کمک می‌کند تا با استانداردهای سخت‌گیرانه زیست‌محیطی جهانی منطبق شوند.",
+      "category": "product",
+      "published_at": "1405/08/01 12:00",
+      "collected_at": "1405/08/01 17:02",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/ww/en/about-us/newsroom/",
+      "tags": [
+        "Schneider Electric",
+        "Sustainability",
+        "Carbon Footprint",
+        "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "افزایش امنیت در سیستم‌های DCS با استفاده از پروتکل‌های رمزنگاری جدید",
+      "summary": "در پاسخ به تهدیدات سایبری جدید، زیمنس پروتکل‌های رمزنگاری پیشرفته‌ای را برای سیستم‌های کنترل توزیع‌شده (DCS) خود معرفی کرد. این به‌روزرسانی امنیتی، یکپارچگی داده‌ها را در طول انتقال بین کنترلرها و ایستگاه‌های مهندسی تضمین می‌کند. استفاده از این پروتکل‌ها برای صنایع حیاتی مانند پالایشگاه‌ها که امنیت شبکه در آن‌ها اولویت اول است، ضروری است.",
+      "category": "regulation",
+      "published_at": "1405/08/01 14:50",
+      "collected_at": "1405/08/01 17:02",
+      "source": "Cybersecurity News",
+      "source_url": "https://www.industrial-cybersecurity.com",
+      "tags": [
+        "DCS",
+        "Cybersecurity",
+        "Siemens",
+        "Encryption"
       ]
     }
   ]
