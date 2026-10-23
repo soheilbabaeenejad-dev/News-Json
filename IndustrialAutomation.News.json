@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 159,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/08/01 20:02",
+  "count": 169,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/08/01 21:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2437,6 +2437,165 @@
         "Smart Grid",
         "Energy Distribution",
         "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "به‌روزرسانی جدید Siemens Industrial Copilot برای بهینه‌سازی کدهای SCL",
+      "summary": "شرکت زیمنس نسخه جدیدی از دستیار هوشمند صنعتی خود یعنی Industrial Copilot را عرضه کرده است. این ابزار اکنون با قابلیت‌های پیشرفته برای تولید خودکار کدهای SCL در محیط TIA Portal همراه شده که سرعت برنامه‌نویسی PLCها را به شکل چشمگیری افزایش می‌دهد. این فناوری با کاهش خطاهای انسانی و تسریع در عیب‌یابی سیستم‌های اتوماسیون، بهره‌وری مهندسان را در پروژه‌های پیچیده بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 21:00",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/feature/industrial-copilot-scl-update",
+      "tags": [
+        "Siemens",
+        "Industrial Copilot",
+        "TIA Portal",
+        "PLC",
+        "SCL"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "پیاده‌سازی استاندارد OPC UA FX در ماژول‌های شبکه جدید زیمنس",
+      "summary": "زیمنس با معرفی نسل جدید ماژول‌های ارتباطی خود، پشتیبانی کامل از استاندارد OPC UA FX را برای ارتباطات بلادرنگ در سطح فیلد فراهم کرده است. این استاندارد جدید امکان تبادل داده‌های یکپارچه و امن را بین تجهیزات مختلف اتوماسیون از برندهای گوناگون میسر می‌سازد. این اقدام گامی مهم در جهت تحقق کارخانه‌های هوشمند و کاهش وابستگی به پروتکل‌های اختصاصی در لایه OT است.",
+      "category": "industry",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 21:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/opc-ua-fx-siemens-integration",
+      "tags": [
+        "OPC UA",
+        "Networking",
+        "IIoT",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "گسترش قابلیت‌های تحلیل انرژی در پلتفرم Insights Hub",
+      "summary": "پلتفرم Insights Hub زیمنس اکنون به ابزارهای جدیدی برای تحلیل دقیق مصرف انرژی در کارخانه‌های بزرگ مجهز شده است. این قابلیت‌ها به مدیران صنعتی اجازه می‌دهد تا با استفاده از داده‌های بلادرنگ، نقاط اتلاف انرژی را شناسایی و فرآیندهای تولید را برای کاهش هزینه‌ها بهینه‌سازی کنند. این به‌روزرسانی بخشی از استراتژی کلان زیمنس برای حمایت از پایداری زیست‌محیطی در صنایع سنگین است.",
+      "category": "product",
+      "published_at": "1405/08/01 10:45",
+      "collected_at": "1405/08/01 21:00",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.iiot-news.com/insights-hub-energy-analytics",
+      "tags": [
+        "Insights Hub",
+        "Energy Management",
+        "Sustainability",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "همکاری زیمنس و انویدیا برای شبیه‌سازی دقیق دوقلوهای دیجیتال",
+      "summary": "زیمنس و انویدیا در پروژه مشترک جدیدی، قابلیت‌های رندرینگ فوتورالیستیک را به پلتفرم Xcelerator اضافه کرده‌اند. این همکاری به مهندسان اجازه می‌دهد تا دوقلوهای دیجیتال کارخانه‌ها را با جزئیات بصری خیره‌کننده شبیه‌سازی کنند که در پیش‌بینی رفتار ماشین‌آلات در شرایط واقعی بسیار موثر است. این فناوری به ویژه در طراحی خطوط تولید خودرو و صنایع هوافضا کاربرد گسترده‌ای خواهد داشت.",
+      "category": "research",
+      "published_at": "1405/08/01 11:20",
+      "collected_at": "1405/08/01 21:00",
+      "source": "TechCrunch Industry",
+      "source_url": "https://techcrunch.com/siemens-nvidia-digital-twin-collaboration",
+      "tags": [
+        "NVIDIA",
+        "Digital Twin",
+        "Xcelerator",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "ارتقای امنیت سایبری در کنترلرهای SIMATIC S7-1500",
+      "summary": "زیمنس به‌روزرسانی امنیتی جدیدی را برای خانواده کنترلرهای SIMATIC S7-1500 منتشر کرده است که پروتکل‌های رمزنگاری پیشرفته‌تری را برای ارتباطات شبکه معرفی می‌کند. این ارتقا با هدف مقابله با تهدیدات سایبری مدرن در محیط‌های صنعتی انجام شده و با استانداردهای IEC 62443 مطابقت کامل دارد. این اقدام امنیت لایه کنترل را در برابر حملات تزریق داده و دسترسی‌های غیرمجاز تقویت می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/08/01 12:00",
+      "collected_at": "1405/08/01 21:00",
+      "source": "Cybersecurity Industrial",
+      "source_url": "https://www.cyber-industrial.com/siemens-s7-1500-security-update",
+      "tags": [
+        "Cybersecurity",
+        "SIMATIC",
+        "S7-1500",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "توسعه ربات‌های متحرک خودگردان (AMR) در لجستیک هوشمند",
+      "summary": "زیمنس با همکاری شرکای لجستیکی، نسل جدیدی از ربات‌های متحرک خودگردان را برای محیط‌های انبارداری معرفی کرده است که با سیستم‌های مدیریتی زیمنس یکپارچه می‌شوند. این ربات‌ها از الگوریتم‌های هوش مصنوعی برای مسیریابی بهینه استفاده کرده و ترافیک داخلی کارخانه‌ها را مدیریت می‌کنند. این راهکار باعث کاهش زمان جابجایی کالا و افزایش دقت در مدیریت موجودی انبارها می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/01 13:30",
+      "collected_at": "1405/08/01 21:00",
+      "source": "Logistics Automation",
+      "source_url": "https://www.logistics-automation.com/siemens-amr-launch",
+      "tags": [
+        "Robotics",
+        "AMR",
+        "Logistics",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "راهکار جدید Industrial Edge برای مدیریت داده‌های صنایع شیمیایی",
+      "summary": "زیمنس راهکار جدیدی مبتنی بر Industrial Edge برای نظارت بر فرآیندهای شیمیایی حساس معرفی کرده است. این سیستم با پردازش محلی داده‌ها، امکان واکنش سریع به تغییرات دما و فشار را فراهم می‌کند و از وقوع حوادث احتمالی جلوگیری می‌نماید. این فناوری به کارخانه‌های شیمیایی کمک می‌کند تا بدون نیاز به ارسال داده‌های حساس به ابر، امنیت و پایداری فرآیندهای تولید خود را تضمین کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 14:15",
+      "collected_at": "1405/08/01 21:00",
+      "source": "Chemical Engineering News",
+      "source_url": "https://www.chem-eng.com/siemens-edge-chemical-processing",
+      "tags": [
+        "Industrial Edge",
+        "Chemical Industry",
+        "Data Processing"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "استفاده از هوش مصنوعی در پیش‌بینی خرابی توربین‌های صنعتی",
+      "summary": "سیستم‌های پیش‌بینانه جدید زیمنس که بر پایه هوش مصنوعی توسعه یافته‌اند، اکنون برای توربین‌های صنعتی در نیروگاه‌ها به کار گرفته می‌شوند. این سیستم‌ها با تحلیل الگوهای ارتعاشی و حرارتی، خرابی‌های احتمالی را هفته‌ها قبل از وقوع شناسایی می‌کنند. این رویکرد نگهداری پیش‌بینانه، هزینه‌های تعمیرات اضطراری را به شدت کاهش داده و طول عمر تجهیزات را افزایش می‌دهد.",
+      "category": "topic",
+      "published_at": "1405/08/01 15:50",
+      "collected_at": "1405/08/01 21:00",
+      "source": "Energy Tech Review",
+      "source_url": "https://www.energy-tech.com/siemens-ai-turbine-maintenance",
+      "tags": [
+        "AI",
+        "Predictive Maintenance",
+        "Turbines",
+        "Energy"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "گسترش اکوسیستم Xcelerator در بازارهای نوظهور آسیا",
+      "summary": "زیمنس اعلام کرد که سرمایه‌گذاری گسترده‌ای برای توسعه پلتفرم Xcelerator در بازارهای در حال رشد آسیا انجام داده است. هدف از این طرح، ارائه ابزارهای دیجیتال به صنایع کوچک و متوسط برای گذار به سمت تولید هوشمند است. با این اقدام، شرکت‌های محلی می‌توانند از راهکارهای پیشرفته زیمنس برای بهبود رقابت‌پذیری و ارتقای استانداردهای تولید خود در سطح جهانی استفاده کنند.",
+      "category": "economy",
+      "published_at": "1405/08/01 17:10",
+      "collected_at": "1405/08/01 21:00",
+      "source": "Global Industry Report",
+      "source_url": "https://www.global-industry.com/siemens-xcelerator-asia",
+      "tags": [
+        "Xcelerator",
+        "Asia Market",
+        "Digital Transformation"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "معرفی درایوهای جدید SINAMICS برای بهره‌وری انرژی",
+      "summary": "نسل جدید درایوهای فرکانس متغیر SINAMICS زیمنس با هدف کاهش مصرف انرژی در کارخانه‌های تولیدی معرفی شد. این درایوها با استفاده از الگوریتم‌های کنترل پیشرفته، تلفات انرژی موتورها را به حداقل می‌رسانند. این محصول جدید به ویژه برای صنایعی که از پمپ‌ها و فن‌های بزرگ استفاده می‌کنند، انتخابی ایده‌آل برای کاهش هزینه‌های عملیاتی و ردپای کربن محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 18:45",
+      "collected_at": "1405/08/01 21:00",
+      "source": "Manufacturing Today",
+      "source_url": "https://www.manufacturing-today.com/siemens-sinamics-new-drives",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
       ]
     }
   ]
