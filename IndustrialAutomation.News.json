@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 179,
+  "count": 189,
   "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/08/01 23:00",
+  "updated_at": "1405/08/01 23:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2744,6 +2744,166 @@
         "Cloud",
         "Infrastructure",
         "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "معرفی ماژول‌های ارتباطی جدید برای توسعه شبکه‌های TSN در سیستم‌های SIMATIC",
+      "summary": "شرکت زیمنس از ماژول‌های ارتباطی جدیدی برای پشتیبانی از فناوری Time-Sensitive Networking در تجهیزات SIMATIC رونمایی کرد. این فناوری امکان تبادل داده‌های بلادرنگ و قطعی را در بستر اترنت صنعتی فراهم می‌کند. این ماژول‌ها به کاهش تاخیر شبکه و افزایش کارایی سیستم‌های کنترل توزیع‌شده کمک شایانی می‌کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 23:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-tsn-modules-simatic",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "TSN",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی در نسخه جدید پلتفرم MindSphere",
+      "summary": "زیمنس قابلیت‌های جدیدی را برای پلتفرم ابری خود جهت بهینه‌سازی مصرف انرژی در کارخانه‌ها عرضه کرد. این ابزارها به مدیران صنعتی اجازه می‌دهند تا هدررفت انرژی را به صورت لحظه‌ای شناسایی و تحلیل کنند. شرکت‌ها با استفاده از این راهکار توانسته‌اند هزینه‌های عملیاتی خود را تا پانزده درصد کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/08/01 09:45",
+      "collected_at": "1405/08/01 23:02",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/mindsphere-energy-monitoring-update",
+      "tags": [
+        "MindSphere",
+        "Insights Hub",
+        "Energy Management",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی تعمیرات پیش‌بینانه با ماژول‌های هوش مصنوعی SINAMICS",
+      "summary": "درایوهای صنعتی SINAMICS زیمنس اکنون به الگوریتم‌های پیشرفته هوش مصنوعی برای پیش‌بینی خرابی تجهیزات مجهز شده‌اند. این سیستم وضعیت سلامت قطعات مکانیکی را به طور مداوم پایش و گزارش می‌کند. این اقدام مانع از توقف‌های ناخواسته خطوط تولید و کاهش هزینه‌های تعمیراتی می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 11:10",
+      "collected_at": "1405/08/01 23:02",
+      "source": "Industrial Engineer",
+      "source_url": "https://www.industrialengineer.com/sinamics-ai-predictive-maintenance",
+      "tags": [
+        "SINAMICS",
+        "AI",
+        "Predictive Maintenance",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "همکاری زیمنس و فستون برای ارتقای اتوماسیون پنوماتیک در کارخانه‌ها",
+      "summary": "شرکت‌های زیمنس و فستون طی قراردادی مشترک، راهکارهای یکپارچه‌ای برای اتوماسیون پنوماتیک و الکتریکی توسعه دادند. این همکاری امکان اتصال تجهیزات پنوماتیک به کنترلرهای SIMATIC را از طریق پروتکل‌های استاندارد تسهیل می‌کند. این رویکرد طراحی مهندسی را ساده‌تر و راه‌اندازی خطوط تولید را تسریع می‌بخشد.",
+      "category": "company",
+      "published_at": "1405/08/01 12:20",
+      "collected_at": "1405/08/01 23:02",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-festo-pneumatic-automation",
+      "tags": [
+        "Siemens",
+        "Festo",
+        "Pneumatics",
+        "Integration"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه ابزارهای برنامه‌نویسی شی‌گرا در محیط TIA Portal V20",
+      "summary": "نسخه آتی محیط مهندسی TIA Portal ابزارهای پیشرفته‌ای را برای برنامه‌نویسی شی‌گرا در اختیار مهندسان کنترل قرار می‌دهد. این قابلیت امکان استفاده مجدد از کدهای نوشته شده را به طور چشمگیری افزایش می‌دهد. این تحول زمان توسعه پروژه‌های بزرگ اتوماسیون صنعتی را به میزان قابل توجهی کاهش خواهد داد.",
+      "category": "product",
+      "published_at": "1405/08/01 13:55",
+      "collected_at": "1405/08/01 23:02",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/tia-portal-v20-object-oriented",
+      "tags": [
+        "TIA Portal",
+        "Programming",
+        "PLC",
+        "Software"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "افزایش امنیت سایبری سیستم‌های DCS با بسته‌های امنیتی جدید زیمنس",
+      "summary": "زیمنس بسته‌های به‌روزرسانی امنیتی جدیدی را برای سیستم‌های کنترل توزیع‌شده خود منتشر کرد تا در برابر تهدیدات پیچیده مقاوم شوند. این استانداردها مطابق با الزامات سخت‌گیرانه IEC 62443 طراحی شده‌اند. این بسته‌ها امنیت ارتباطات در لایه‌های مختلف اتوماسیون فرآیندی را تضمین می‌کنند.",
+      "category": "regulation",
+      "published_at": "1405/08/01 15:15",
+      "collected_at": "1405/08/01 23:02",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-dcs-security-updates",
+      "tags": [
+        "Cybersecurity",
+        "DCS",
+        "IEC 62443",
+        "Process Control"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "گسترش کاربرد ربات‌های متحرک خودگردان در انبارهای هوشمند زیمنس",
+      "summary": "مجتمع‌های تولیدی زیمنس در آلمان از نسل جدید ربات‌های متحرک خودگردان برای لجستیک داخلی بهره‌برداری کردند. این ربات‌ها به لطف سیستم‌های ناوبری پیشرفته و هوش مصنوعی، مسیر خود را در محیط‌های پویا بهینه می‌کنند. این راهکار کارایی زنجیره تامین داخلی را تا بیست درصد بهبود بخشیده است.",
+      "category": "industry",
+      "published_at": "1405/08/01 16:40",
+      "collected_at": "1405/08/01 23:02",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/siemens-amr-smart-warehouses",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "Smart Factory",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "رشد سرمایه‌گذاری جهانی در پلتفرم‌های دوقلوی دیجیتال صنعتی",
+      "summary": "تازه‌ترین تحلیل‌های بازار نشان می‌دهد تقاضا برای پلتفرم‌های شبیه‌سازی و دوقلوی دیجیتال رشد چشمگیری داشته است. شرکت‌ها از این فناوری برای تست و اعتبارسنجی خطوط تولید پیش از ساخت فیزیکی استفاده می‌کنند. این رویکرد هزینه‌های راه‌اندازی و خطاهای مهندسی را به حداقل می‌رساند.",
+      "category": "economy",
+      "published_at": "1405/08/01 18:05",
+      "collected_at": "1405/08/01 23:02",
+      "source": "IHS Markit",
+      "source_url": "https://www.ihsmarkit.com/digital-twin-market-growth-2026",
+      "tags": [
+        "Digital Twin",
+        "Market Analysis",
+        "Industry 4.0",
+        "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "بهینه‌سازی مصرف آب در صنایع سنگین با سیستم‌های اتوماسیون جدید",
+      "summary": "یک شرکت صنعتی پیشرو با استفاده از تجهیزات اندازه‌گیری و کنترل زیمنس، مصرف آب خود را به طور دقیق مدیریت کرد. این سیستم با پایش مداوم دپارتمان‌های مختلف، هدررفت آب را شناسایی و به طور خودکار کنترل می‌کند. این پروژه نمونه‌ای موفق از پیاده‌سازی توسعه پایدار در صنایع سنگین به شمار می‌رود.",
+      "category": "news",
+      "published_at": "1405/08/01 19:30",
+      "collected_at": "1405/08/01 23:02",
+      "source": "Environmental Protection",
+      "source_url": "https://www.envpro.com/siemens-water-management-heavy-industry",
+      "tags": [
+        "Sustainability",
+        "Water Management",
+        "Automation",
+        "Sensors"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "تقویت قابلیت‌های لبه‌ی صنعتی با اپلیکیشن‌های جدید Industrial Edge",
+      "summary": "زیمنس مجموعه‌ای از اپلیکیشن‌های جدید را برای بستر Industrial Edge معرفی کرد که تحلیل داده‌ها را در لبه شبکه ممکن می‌سازند. این ابزارها نیازی به ارسال تمامی داده‌ها به سرورهای ابری نداشته و سرعت تصمیم‌گیری را افزایش می‌دهند. این فناوری پردازش موازی، امنیت داده‌ها را نیز درون کارخانه حفظ می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/01 21:00",
+      "collected_at": "1405/08/01 23:02",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-new-apps",
+      "tags": [
+        "Industrial Edge",
+        "Edge Computing",
+        "IIoT",
+        "Data Analytics"
       ]
     }
   ]
