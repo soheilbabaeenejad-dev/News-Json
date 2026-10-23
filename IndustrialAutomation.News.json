@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 50,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/08/01 04:11",
+  "count": 60,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 05:20",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -773,6 +773,166 @@
         "Warehouse Automation",
         "Logistics",
         "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "معرفی نسخه جدید نرم‌افزار SIMATIC PCS neo برای کنترل فرآیند",
+      "summary": "شرکت زیمنس نسخه جدید پلتفرم کنترل فرآیند خود موسوم به SIMATIC PCS neo را با قابلیت‌های پیشرفته ابری و مهندسی همزمان عرضه کرد. این نسخه به مهندسان اجازه می‌دهد تا از هر کجای دنیا به صورت بلادرنگ روی پروژه‌های بزرگ پتروشیمی و داروسازی کار کنند. این به‌روزرسانی زمان راه‌اندازی سیستم‌های DCS را تا بیست درصد کاهش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 01:10",
+      "collected_at": "1405/08/01 05:20",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/simatic-pcs-neo-new-release",
+      "tags": [
+        "SIMATIC PCS neo",
+        "DCS",
+        "زیمنس",
+        "کنترل فرآیند"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "گسترش قابلیت‌های مانیتورینگ انرژی در پلتفرم Industrial Edge",
+      "summary": "زیمنس ابزار جدیدی را برای پلتفرم Industrial Edge معرفی کرده است که به کارخانه‌ها کمک می‌کند مصرف انرژی خود را با دقت بالا رصد کنند. این ماژول نرم‌افزاری به طور مستقیم به درایوها و کنترلرهای SIMATIC متصل شده و داده‌های مصرف برق را تحلیل می‌کند. این راهکار نقش مهمی در کاهش هزینه‌های عملیاتی و دستیابی به اهداف پایداری صنعتی دارد.",
+      "category": "product",
+      "published_at": "1405/08/01 01:45",
+      "collected_at": "1405/08/01 05:20",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory-automation/edge-computing/news/siemens-industrial-edge-energy",
+      "tags": [
+        "Industrial Edge",
+        "SIMATIC",
+        "مدیریت انرژی",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "همکاری زیمنس و فستو برای هوشمندسازی خطوط مونتاژ پنوماتیک",
+      "summary": "دو شرکت بزرگ زیمنس و فستو تفاهم‌نامه‌ای برای یکپارچه‌سازی سیستم‌های پنوماتیک با کنترلرهای اتوماسیون صنعتی امضا کردند. این همکاری به توسعه ماژول‌های ارتباطی جدید بر مبنای پروفی‌نت منجر می‌شود که عیب‌یابی تجهیزات بادی را تسهیل می‌کند. این فناوری جدید بهره‌وری خطوط مونتاژ خودکار را به شکل چشمگیری افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/08/01 02:00",
+      "collected_at": "1405/08/01 05:20",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-festo-partnership-automation",
+      "tags": [
+        "فستو",
+        "پروفی‌نت",
+        "اتوماسیون",
+        "همکاری صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "ارتقای امنیت تجهیزات اتوماسیون با گواهینامه جدید IEC 62443 برای SIMATIC",
+      "summary": "کنترلرهای قابل برنامه‌ریزی SIMATIC S7-1500 زیمنس موفق به کسب بالاترین سطح گواهینامه امنیت سایبری بر اساس استاندارد IEC 62443-4-2 شدند. این استاندارد سخت‌گیرانه تضمین می‌کند که تجهیزات در برابر تهدیدات پیچیده شبکه OT مقاومت بالایی دارند. این دستاورد امنیت زیرساخت‌های حیاتی را در برابر حملات سایبری احتمالی تضمین می‌کند.",
+      "category": "regulation",
+      "published_at": "1405/08/01 02:30",
+      "collected_at": "1405/08/01 05:20",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/siemens-simatic-iec62443-certification",
+      "tags": [
+        "امنیت سایبری",
+        "IEC 62443",
+        "SIMATIC",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "استفاده از دوقلوی دیجیتال در طراحی خطوط تولید باتری خودروهای الکتریکی",
+      "summary": "یک شرکت خودروسازی اروپایی با استفاده از نرم‌افزار Siemens Xcelerator خط تولید باتری‌های لیتیومی خود را به صورت کاملاً مجازی شبیه‌سازی کرد. این پروژه با استفاده از ابزارهای دوقلوی دیجیتال توانست زمان طراحی کارخانه را تا سی درصد کاهش دهد. این روش از بروز خطاهای پرهزینه در فاز اجرای فیزیکی جلوگیری می‌کند.",
+      "category": "industry",
+      "published_at": "1405/08/01 03:00",
+      "collected_at": "1405/08/01 05:20",
+      "source": "Automotive Manufacturing Solutions",
+      "source_url": "https://www.automotivemanufacturingsolutions.com/siemens-xcelerator-battery-plant",
+      "tags": [
+        "دوقلوی دیجیتال",
+        "Xcelerator",
+        "خودروسازی",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "توسعه ماژول‌های هوش مصنوعی برای بهینه‌سازی ربات‌های صنعتی",
+      "summary": "شرکت ABB ربات‌های صنعتی جدید مجهز به پردازشگرهای هوش مصنوعی لبه را معرفی کرد که توانایی تطبیق خودکار با تغییرات خط تولید را دارند. این ربات‌ها می‌توانند اشیاء با اشکال نامنظم را بدون نیاز به برنامه‌نویسی مجدد تشخیص داده و جابجا کنند. این فناوری انعطاف‌پذیری کارخانه‌ها را در مونتاژ قطعات مختلف به شدت بالا می‌برد.",
+      "category": "product",
+      "published_at": "1405/08/01 03:25",
+      "collected_at": "1405/08/01 05:20",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/manufacturing/abb-ai-industrial-robots-update",
+      "tags": [
+        "ABB",
+        "رباتیک",
+        "هوش مصنوعی",
+        "بینایی ماشین"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "نقش پلتفرم Insights Hub در پایش وضعیت توربین‌های بادی دریایی",
+      "summary": "شرکت انرژی دانمارکی از پلتفرم ابری Insights Hub زیمنس برای نظارت بر عملکرد صدها توربین بادی دور از ساحل استفاده می‌کند. این سیستم با تحلیل داده‌های ارسالی از حسگرهای لرزش و دما، نیاز به تعمیرات را از پیش پیش‌بینی می‌کند. این راهکار هزینه‌های نگهداری و تعمیرات اضطرابی را به طور چشمگیری کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/08/01 03:50",
+      "collected_at": "1405/08/01 05:20",
+      "source": "Renewable Energy World",
+      "source_url": "https://www.renewableenergyworld.com/wind-power/siemens-insights-hub-wind-turbines",
+      "tags": [
+        "Insights Hub",
+        "نگهداری پیش‌بینانه",
+        "انرژی بادی",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "به‌روزرسانی درایوهای SINAMICS برای بهره‌وری بیشتر در صنایع سنگین",
+      "summary": "نسخه جدید درایوهای فرکانس متغیر SINAMICS زیمنس با قابلیت بازگردانی انرژی ترمز به شبکه الکترونیکی کارخانه روانه بازار شد. این سری از درایوها با موتورهای سنکرون و آسنکرون جدید کاملاً سازگار بوده و تلفات حرارتی را به حداقل می‌رسانند. این تجهیزات سهم بسزایی در کاهش مصرف کلی برق در کارخانجات فولاد و سیمان دارند.",
+      "category": "product",
+      "published_at": "1405/08/01 04:15",
+      "collected_at": "1405/08/01 05:20",
+      "source": "Processing Magazine",
+      "source_url": "https://www.processingmagazine.com/automation/siemens-sinamics-drives-update",
+      "tags": [
+        "SINAMICS",
+        "درایو صنعتی",
+        "بهره‌وری انرژی",
+        "زیمنس"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "چالش‌های تأمین تراشه‌های تخصصی در صنعت اتوماسیون و راهکارها",
+      "summary": "گزارش جدید انجمن جهانی اتوماسیون نشان می‌دهد که تأمین نیمه‌هادی‌های صنعتی با استاندارد دما و پایداری بالا همچنان با چالش مواجه است. شرکت‌های بزرگ مانند زیمنس و اشنایدر الکتریک در حال متنوع‌سازی منابع زنجیره تأمین خود برای جلوگیری از توقف خطوط تولید کنترلرها هستند. این اقدامات به پایداری بازار تجهیزات PLC و DCS کمک می‌کند.",
+      "category": "economy",
+      "published_at": "1405/08/01 04:40",
+      "collected_at": "1405/08/01 05:20",
+      "source": "IHS Markit Technology",
+      "source_url": "https://technology.ihs.com/industrial-semiconductor-supply-chain-2026",
+      "tags": [
+        "زنجیره تامین",
+        "نیمه‌هادی",
+        "PLC",
+        "اقتصاد صنعتی"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "گسترش کاربرد ربات‌های موبایل مستقل در لجستیک داخلی کارخانه‌ها",
+      "summary": "بازار ربات‌های موبایل مستقل یا همان AMRها شاهد رشد چشمگیری در سال جاری میلادی بوده است که با سیستم‌های اسکادا و PLC زیمنس یکپارچه می‌شوند. این ربات‌ها می‌توانند مواد اولیه را بدون نیاز به مسیرهای مغناطیسی ثابت در سراسر سالن تولید جابجا کنند. این فناوری کارایی زنجیره تامین داخلی کارخانه‌های هوشمند را به صورت ساختاری متحول کرده است.",
+      "category": "industry",
+      "published_at": "1405/08/01 05:05",
+      "collected_at": "1405/08/01 05:20",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/article/amr-integration-smart-factories-scada",
+      "tags": [
+        "AMR",
+        "لجستیک هوشمند",
+        "SCADA",
+        "رباتیک"
       ]
     }
   ]
