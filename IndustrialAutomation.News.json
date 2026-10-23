@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 209,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/08/01 23:11",
+  "count": 219,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 23:16",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3208,6 +3208,166 @@
         "Schneider Electric",
         "Sustainability",
         "Data Center"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "یکپارچه‌سازی هوش مصنوعی مولد در سیستم‌های اسکادا زیمنس",
+      "summary": "شرکت زیمنس از قابلیت‌های جدید هوش مصنوعی مولد در نسل تازه سیستم‌های اسکادا (SCADA) خود رونمایی کرد. این فناوری به اپراتورها اجازه می‌دهد تا داده‌های پیچیده فرآیندی را به صورت محاوره‌ای تحلیل کنند و زمان پاسخگویی به هشدارها را به شدت کاهش دهند. این راهکار جدید گامی مهم در جهت هوشمندسازی اتاق‌های فرمان صنعتی به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-scada-genai-update",
+      "tags": [
+        "Siemens",
+        "SCADA",
+        "Generative AI",
+        "Control Room"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش قابلیت‌های ارتباطی 5G در تجهیزات SIMATIC زیمنس",
+      "summary": "زیمنس ماژول‌های ارتباطی جدیدی را برای خانواده کنترلرهای SIMATIC معرفی کرده که از شبکه‌های 5G صنعتی پشتیبانی کامل می‌کنند. این ماژول‌ها امکان انتقال داده با تاخیر بسیار پایین را برای ربات‌های متحرک و ماشین‌آلات سیار فراهم می‌سازند. این توسعه به صنایع کمک می‌کند تا وابستگی خود را به زیرساخت‌های کابلی به حداقل برسانند.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/siemens-simatic-5g-modules",
+      "tags": [
+        "Siemens",
+        "SIMATIC",
+        "5G",
+        "Industrial Networking"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف آب در صنایع سنگین با راهکارهای دیجیتال زیمنس",
+      "summary": "بخش اتوماسیون فرایند زیمنس نرم‌افزار جدیدی را برای مدیریت و بازcirculating آب در کارخانجات فولاد و پتروشیمی عرضه کرد. این پلتفرم با استفاده از الگوریتم‌های پیشرفته دوقلوی دیجیتال، هدررفت منابع آبی را تا بیست درصد کاهش می‌دهد. این اقدام در راستای اهداف توسعه پایدار و کاهش اثرات زیست‌محیطی صنایع انجام شده است.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Industrial IoT For You",
+      "source_url": "https://www.industrialiotifyou.com/siemens-water-management-digital-twin",
+      "tags": [
+        "Siemens",
+        "Digital Twin",
+        "Sustainability",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "معرفی نسل جدید ماژول‌های ایمنی امنیتی در اتوماسیون صنعتی",
+      "summary": "شرکت راکول اتوماسیون از ماژول‌های ایمنی یکپارچه جدیدی برای حفاظت از خطوط تولید رباتیک رونمایی کرد. این تجهیزات با استانداردهای سخت‌گیرانه ایمنی ماشین‌آلات مطابقت داشته و به سرعت خطرات انسانی را تشخیص می‌دهند. استفاده از این ماژول‌ها زمان توقف اضطراری خطوط تولید را به طور چشمگیری بهبود می‌بخشد.",
+      "category": "product",
+      "published_at": "1405/08/01 11:20",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Plant Engineering",
+      "source_url": "https://www.plantengineering.com/rockwell-new-safety-modules",
+      "tags": [
+        "Rockwell Automation",
+        "Machine Safety",
+        "Robotics",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای پلتفرم ابری زیمنس برای تحلیل داده‌های کلان تولیدی",
+      "summary": "زیمنس نسخه به‌روزرسانی شده پلتفرم ابری خود را با ابزارهای پیشرفته یادگیری ماشین عرضه کرد که تحلیل حجم عظیمی از داده‌های سنسورها را ساده‌تر می‌کند. این سرویس جدید به مدیران کارخانه‌ها امکان می‌دهد الگوهای پنهان خرابی تجهیزات را پیش از وقوع شناسایی کنند. این قابلیت نقش کلیدی در کاهش هزینه‌های تعمیرات اضطراری دارد.",
+      "category": "product",
+      "published_at": "1405/08/01 12:45",
+      "collected_at": "1405/08/01 23:16",
+      "source": "IoT Central",
+      "source_url": "https://www.iotcentral.io/siemens-cloud-analytics-update",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "Cloud Computing",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "همکاری ABB و سازندگان تراشه برای توسعه کنترلرهای رباتیک هوشمند",
+      "summary": "شرکت ABB با همکاری یکی از تامینکنندگان پیشرو نیمه‌هادی، نسل آتی پردازنده‌های هوش مصنوعی را برای بازوهای رباتیک توسعه می‌دهد. این تراشه‌های تخصصی پردازش بینایی ماشین و تصمیم‌گیری لحظه‌ای را در لبه شبکه ممکن می‌سازند. این همکاری گامی رو به جلو برای افزایش دقت ربات‌ها در خطوط مونتاژ الکترونیک است.",
+      "category": "company",
+      "published_at": "1405/08/01 13:30",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Robotics 24/7",
+      "source_url": "https://www.robotics247.com/abb-semiconductor-partnership-robotics",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "AI",
+        "Semiconductors"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "گسترش کاربرد پروتکل TSN در تجهیزات اتوماسیون کارخانه",
+      "summary": "کنسرسیوم استانداردسازی ارتباطات صنعتی اعلام کرد که پذیرش پروتکل شبکه زمانی حساس (TSN) در میان تولیدکنندگان تجهیزات PLC سرعت گرفته است. این فناوری امکان همگام‌سازی دقیق تجهیزات مختلف را روی یک بستر اترنت استاندارد فراهم می‌کند. این تحول ساختار ارتباطی شبکه‌های OT را به شدت ساده‌تر و یکپارچه‌تر می‌سازد.",
+      "category": "regulation",
+      "published_at": "1405/08/01 14:10",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/tsn-industrial-adoption-growth",
+      "tags": [
+        "TSN",
+        "Industrial Ethernet",
+        "PLC",
+        "Standards"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "راهکار جدید اشنایدر الکتریک برای مدیریت هوشمند انرژی در ریزشبکه‌ها",
+      "summary": "اشنایدر الکتریک نرم‌افزار جامع جدیدی برای کنترل و بهینه‌سازی مصرف انرژی در ریزشبکه‌های صنعتی معرفی کرد. این نرم‌افزار به صورت خودکار منابع انرژی تجدیدپذیر محلی را با شبکه برق اصلی متعادل می‌سازد. این راهکار به کارخانجات کمک می‌کند تا هم‌زمان با کاهش هزینه‌های انرژی، پایداری تامین برق را حفظ کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 15:00",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Smart Energy International",
+      "source_url": "https://www.smart-energy.com/schneider-electric-microgrid-software",
+      "tags": [
+        "Schneider Electric",
+        "Energy Management",
+        "Microgrids",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "نقش تجهیزات اتوماسیون زیمنس در خطوط تولید باتری خودروهای الکتریکی",
+      "summary": "یک خودساز بزرگ اروپایی خطوط تولید باتری خود را به طور کامل به کنترلرهای پیشرفته و درایوهای SINAMICS زیمنس مجهز کرد. این تجهیزات دقت بالایی در کنترل سرعت و گشتاور طی فرآیندهای حساس ساخت سلول‌های باتری ارائه می‌دهند. این پروژه نمونه‌ای بارز از تاثیر اتوماسیون پیشرفته در توسعه صنعت خودروهای پاک است.",
+      "category": "industry",
+      "published_at": "1405/08/01 16:20",
+      "collected_at": "1405/08/01 23:16",
+      "source": "E&T Magazine",
+      "source_url": "https://eandt.theiet.org/siemens-ev-battery-manufacturing",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "EV Battery",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "چالش‌های امنیت سایبری در زیرساخت‌های اتوماسیون آب و فاضلاب",
+      "summary": "گزارش جدید آژانس امنیت سایبری صنعتی بر ضرورت ارتقای لایه‌های حفاظتی در تاسیسات تصفیه آب تاکید کرد. این بررسی نشان می‌دهد که سیستم‌های قدیمی SCADA همچنان در برابر نفوذهای هدفمند آسیب‌پذیر هستند و نیازمند به‌روزرسانی فوری با پروتکل‌های مدرن هستند. کارشناسان استفاده از فایروال‌های صنعتی اختصاصی را برای این تاسیسات حیاتی می‌دانند.",
+      "category": "regulation",
+      "published_at": "1405/08/01 17:05",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Industrial Cybersecurity Pulse",
+      "source_url": "https://www.industrialcybersecuritypulse.com/water-infrastructure-security-report",
+      "tags": [
+        "OT Security",
+        "SCADA",
+        "Water Treatment",
+        "Cybersecurity"
       ]
     }
   ]

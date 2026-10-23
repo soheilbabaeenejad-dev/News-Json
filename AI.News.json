@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 358,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/08/01 23:09",
+  "count": 368,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 23:16",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -5407,6 +5407,166 @@
         "Anthropic",
         "Voice",
         "Mobile"
+      ]
+    },
+    {
+      "id": "ai-20261007-001",
+      "title": "نسخه جدید مدل ارتقایافته Claude 3.7 Sonnet با تمرکز بر استدلال ترکیبی",
+      "summary": "شرکت آنتروپیک نسخه جدید مدل هوش مصنوعی Claude 3.7 Sonnet را با قابلیت‌های پیشرفته در استدلال ترکیبی معرفی کرد. این مدل قادر است بین پاسخ‌های آنی و فرآیندهای استدلالی عمیق جابه‌جا شود. توسعه‌دهندگان معتقدند این رویکرد بهینه‌سازی کارایی را در پروژه‌های پیچیده مهندسی نرم‌افزار به شدت افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Anthropic News",
+      "source_url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "LLM",
+        "AI Models"
+      ]
+    },
+    {
+      "id": "ai-20261007-002",
+      "title": "پیشرفت چشمگیر پردازنده‌های هوش مصنوعی با معماری جدید انویدیا",
+      "summary": "شرکت انویدیا از نسل جدید تراشه‌های تخصصی خود با قابلیت پشتیبانی از کلاسترهای عظیم پردازشی رونمایی کرد. این تراشه‌ها با هدف کاهش مصرف انرژی و افزایش سرعت استنتاج در مراکز داده بزرگ طراحی شده‌اند. این تحول سخت‌افزاری پاسخی مستقیم به رشد تصاعدی تقاضا برای آموزش مدل‌های زبانی غول‌پیکر است.",
+      "category": "industry",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 23:16",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/new-ai-processors-2026",
+      "tags": [
+        "Nvidia",
+        "Hardware",
+        "Semiconductors",
+        "Data Centers"
+      ]
+    },
+    {
+      "id": "ai-20261007-003",
+      "title": "گسترش کاربرد مدل‌های متن‌باز Qwen در تحلیل داده‌های پزشکی",
+      "summary": "تیم پژوهشی علی‌بابا نسخه بهینه‌شده مدل Qwen را برای تحلیل تصاویر و متون پزشکی منتشر کرد. این ابزار متن‌باز به پزشکان کمک می‌کند تا اسکن‌های رادیولوژی را با دقت و سرعت بیشتری ارزیابی کنند. انتشار این مدل گامی مهم در جهت دموکراتیک‌سازی فناوری‌های پیشرفته سلامت به شمار می‌رود.",
+      "category": "research",
+      "published_at": "1405/08/01 10:45",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Alibaba Research",
+      "source_url": "https://qwenlm.github.io/blog/qwen-medical-2026",
+      "tags": [
+        "Qwen",
+        "Open Source",
+        "Healthcare",
+        "AI Research"
+      ]
+    },
+    {
+      "id": "ai-20261007-004",
+      "title": "تصویب دستورالعمل‌های جدید ایمنی هوش مصنوعی در پارلمان اروپا",
+      "summary": "اتحادیه اروپا چارچوب نظارتی تازه‌ای را برای ارزیابی ریسک مدل‌های مولد پیشرفته به تصویب رساند. این مقررات شرکت‌ها را ملزم به شفاف‌سازی داده‌های آموزشی و رعایت استانداردهای ایمنی سخت‌گیرانه می‌کند. هدف اصلی این قوانین حمایت از حقوق شهروندان در برابر خطرات احتمالی فناوری‌های خودکار است.",
+      "category": "regulation",
+      "published_at": "1405/08/01 11:20",
+      "collected_at": "1405/08/01 23:16",
+      "source": "European Commission",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-updates",
+      "tags": [
+        "Regulation",
+        "EU",
+        "AI Safety",
+        "Policy"
+      ]
+    },
+    {
+      "id": "ai-20261007-005",
+      "title": "معرفی پلتفرم جدید مایکروسافت برای مدیریت خودکار وظایف اداری",
+      "summary": "مایکروسافت از سرویس ابری جدیدی برای مدیریت عامل‌های خودکار در سازمان‌ها پرده برداشت. این پلتفرم به کارکنان اجازه می‌دهد فرآیندهای اداری تکرارپذیر را بدون نیاز به دانش برنامه‌نویسی اتوماتیک کنند. این راه‌کار جدید بهره‌وری شرکت‌های بزرگ را به میزان قابل توجهی ارتقا می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 12:00",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Microsoft News Center",
+      "source_url": "https://news.microsoft.com/transformation-ai-agents-2026",
+      "tags": [
+        "Microsoft",
+        "Automation",
+        "Enterprise AI",
+        "Copilot"
+      ]
+    },
+    {
+      "id": "ai-20261007-006",
+      "title": "رشد سرمایه‌گذاری خطرپذیر در استارتاپ‌های انرژی هسته‌ای برای هوش مصنوعی",
+      "summary": "تعدادی از غول‌های فناوری جهان سرمایه‌گذاری مشترکی را روی راکتورهای کوچک هسته‌ای آغاز کردند. این اقدام برای تأمین پایدار انرژی الکتریکی مورد نیاز مراکز داده مقیاس بزرگ انجام می‌شود. بحران مصرف برق در صنعت هوش مصنوعی اکنون به یکی از دغدغه‌های اصلی سرمایه‌گذاران تبدیل شده است.",
+      "category": "economy",
+      "published_at": "1405/08/01 13:10",
+      "collected_at": "1405/08/01 23:16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/nuclear-energy-ai-data-centers",
+      "tags": [
+        "Energy",
+        "Data Centers",
+        "Investment",
+        "Infrastructure"
+      ]
+    },
+    {
+      "id": "ai-20261007-007",
+      "title": "توسعه مدل زبانی سبک Mistral Nano برای اجرای روی دستگاه‌های لبه شبکه",
+      "summary": "شرکت فرانسوی Mistral AI از مدل فوق‌العاده سبک وزن خود با نام Mistral Nano رونمایی کرد. این مدل با حجم کم و کارایی بالا به طور ویژه برای اجرا روی تلفن‌های هوشمند و اینترنت اشیاء بهینه‌سازی شده است. کاربران اکنون می‌توانند بدون نیاز به اتصال مداوم به اینترنت از قابلیت‌های هوش مصنوعی بهره‌مند شوند.",
+      "category": "product",
+      "published_at": "1405/08/01 14:30",
+      "collected_at": "1405/08/01 23:16",
+      "source": "Mistral AI",
+      "source_url": "https://mistral.ai/news/mistral-nano-release",
+      "tags": [
+        "Mistral AI",
+        "Edge AI",
+        "Mobile",
+        "Lightweight Models"
+      ]
+    },
+    {
+      "id": "ai-20261007-008",
+      "title": "انتشار گزارش جامع سازمان ملل درباره تأثیر هوش مصنوعی بر اشتغال جهانی",
+      "summary": "سازمان بین‌المللی کار در گزارشی جدید به بررسی چالش‌های بازار کار در عصر اتوماسیون هوشمند پرداخت. این سند بر لزوم بازآموزی مهارت‌های نیروی کار در صنایع سنتی تأکید می‌کند. دولت‌ها تشویق شده‌اند تا سیاست‌های حمایتی جدیدی را برای کارگران در معرض خطر تدوین کنند.",
+      "category": "society",
+      "published_at": "1405/08/01 15:45",
+      "collected_at": "1405/08/01 23:16",
+      "source": "United Nations News",
+      "source_url": "https://news.un.org/en/story/2026/ai-labor-market-report",
+      "tags": [
+        "UN",
+        "Labor Market",
+        "Economy",
+        "Employment"
+      ]
+    },
+    {
+      "id": "ai-20261007-009",
+      "title": "ارتقای سیستم‌های ترجمه ماشینی همزمان با مدل‌های عصبی پیشرفته",
+      "summary": "پژوهشگران حوزه پردازش زبان طبیعی موفق به ساخت مدل مترجمی با دقت بالا برای زبان‌های کمتر شناخته شده شدند. این فناوری جدید با استفاده از معماری ترنسفورمر چندزبانه می‌تواند گویش‌های محلی را با کمترین خطا ترجمه کند. این دستاورد ارتباطات بین‌المللی و دسترسی به اطلاعات را بهبود می‌بخشد.",
+      "category": "research",
+      "published_at": "1405/08/01 16:20",
+      "collected_at": "1405/08/01 23:16",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/neural-translation-advances",
+      "tags": [
+        "NLP",
+        "Translation",
+        "Research",
+        "Neural Networks"
+      ]
+    },
+    {
+      "id": "ai-20261007-010",
+      "title": "توسعه پروتکل امنیتی جدید برای مقابله با تصاویر جعلی عمیق",
+      "summary": "کنسرسیومی از شرکت‌های فناوری بزرگ پروتکل استانداردی را برای امضأ دیجیتال محتوای دیجیتال منتشر کردند. این فناوری به کاربران امکان می‌دهد اصالت ویدیوها و تصاویر منتشر شده در فضای مجازی را به راحتی بررسی کنند. این ابزار گامی مؤثر در جهت مبارزه با انتشار اخبار کذب و فریب عمومی محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/01 17:50",
+      "collected_at": "1405/08/01 23:16",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/2026/deepfake-detection-protocol-standard",
+      "tags": [
+        "Deepfake",
+        "Security",
+        "Verification",
+        "C2PA"
       ]
     }
   ]
