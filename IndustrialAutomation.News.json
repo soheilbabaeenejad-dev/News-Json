@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 170,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/08/01 20:02",
+  "count": 180,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 20:05",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2606,6 +2606,166 @@
         "DCS",
         "PCS 7",
         "Renewable Energy"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "یکپارچه‌سازی هوش مصنوعی مولد در محیط مهندسی TIA Portal V19",
+      "summary": "شرکت زیمنس از قابلیت‌های پیشرفته هوش مصنوعی مولد در نسخه جدید TIA Portal V19 رونمایی کرد. این ابزار به مهندسان اتوماسیون کمک می‌کند تا کدهای کنترلی را با سرعت بیشتری تولید کرده و خطاهای برنامه‌نویسی را کاهش دهند. این فناوری گامی مهم در جهت افزایش بهره‌وری و ساده‌سازی فرآیندهای پیچیده مهندسی در صنایع مختلف محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 20:05",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/tia-portal-v19-ai",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "هوش مصنوعی",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش راهکارهای امنیت سایبری OT با محصولات جدید SIMATIC",
+      "summary": "سیستم‌های کنترل صنعتی زیمنس به لایه‌های جدیدی از امنیت سایبری بر اساس استاندارد IEC 62443 مجهز شدند. این به‌روزرسانی سخت‌افزاری و نرم‌افزاری برای کنترلرهای SIMATIC S7-1500 طراحی شده است تا از زیرساخت‌های حیاتی در برابر تهدیدات سایبری پیچیده محافظت کند. این اقدام امنیت شبکه‌های صنعتی را به‌طور چشمگیری ارتقا می‌دهد.",
+      "category": "news",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 20:05",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/siemens-simatic-security-update",
+      "tags": [
+        "SIMATIC",
+        "امنیت سایبری",
+        "IEC 62443",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با پلتفرم Insights Hub",
+      "summary": "پلتفرم ابری Insights Hub زیمنس ابزارهای جدیدی برای پایش و کاهش مصرف انرژی در واحدهای تولیدی معرفی کرد. این سیستم با تحلیل داده‌های بلادرنگ تجهیزات، نقاط اتلاف انرژی را شناسایی کرده و راهکارهای بهینه‌سازی ارائه می‌دهد. این راهکار به صنایع کمک می‌کند تا به اهداف پایداری خود دست یابند.",
+      "category": "product",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 20:05",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/software/insights-hub-energy-management",
+      "tags": [
+        "Insights Hub",
+        "مدیریت انرژی",
+        "MindSphere",
+        "پایداری"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "نقش کنترلرهای توزیع‌شده SIMATIC ET 200SP در انعطاف‌پذیری خطوط تولید",
+      "summary": "نسخه جدید سیستم I/O توزیع‌شده SIMATIC ET 200SP با سرعت پردازش بالاتر و ماژول‌های ارتباطی جدید عرضه شد. این تجهیزات به سازندگان ماشین‌آلات اجازه می‌دهد تا معماری سیستم‌های اتوماسیون خود را با انعطاف بیشتری طراحی کنند. این محصول نقش کلیدی در کاهش فضای تابلوهای برق و سیم‌کشی دارد.",
+      "category": "product",
+      "published_at": "1405/08/01 11:20",
+      "collected_at": "1405/08/01 20:05",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://www.iebmedia.com/siemens-simatic-et200sp-update",
+      "tags": [
+        "SIMATIC ET 200SP",
+        "اتوماسیون",
+        "I/O",
+        "سخت‌افزار"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "توسعه قابلیت‌های Industrial Edge برای پردازش لبه در خطوط مونتاژ",
+      "summary": "زیمنس پلتفرم Industrial Edge را با اپلیکیشن‌های جدید برای تحلیل داده‌های سنسورهای صنعتی به‌روزرسانی کرد. این فناوری امکان پردازش محلی داده‌ها با تاخیر بسیار کم را فراهم کرده و وابستگی به ابر را کاهش می‌دهد. این راهکار برای صنایع خودروسازی و الکترونیک کاربرد فراوانی دارد.",
+      "category": "product",
+      "published_at": "1405/08/01 12:45",
+      "collected_at": "1405/08/01 20:05",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/edge-computing/siemens-industrial-edge-updates",
+      "tags": [
+        "Industrial Edge",
+        "لبه فناوری",
+        "IIoT",
+        "تحلیل داده"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "همکاری زیمنس و فستو برای استانداردسازی اتوماسیون پنوماتیک",
+      "summary": "شرکت‌های زیمنس و Festo در پروژه‌ای مشترک برای یکپارچه‌سازی تجهیزات پنوماتیک با کنترلرهای SIMATIC به توافق رسیدند. این همکاری به مهندسان اجازه می‌دهد تا سیستم‌های مکانیکی و پنوماتیک را به‌طور مستقیم از طریق پلتفرم TIA Portal مدیریت کنند. این امر زمان راه‌اندازی خطوط تولید را به حداقل می‌رساند.",
+      "category": "news",
+      "published_at": "1405/08/01 13:30",
+      "collected_at": "1405/08/01 20:05",
+      "source": "Manufacturing Tomorrow",
+      "source_url": "https://www.manufacturingtomorrow.com/siemens-festo-partnership",
+      "tags": [
+        "همکاری",
+        "پنوماتیک",
+        "TIA Portal",
+        "Festo"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "معرفی نسل جدید درایوهای SINAMICS G220 برای کاربردهای عمومی",
+      "summary": "زیمنس خانواده درایوهای فرکانس متغیر SINAMICS G220 را با قابلیت‌های اتصال ابری معرفی کرد. این درایوها دارای ویژگی‌های امنیتی پیشرفته و راندمان انرژی بالا برای کنترل دور موتورهای صنعتی هستند. این محصول نقش مهمی در کاهش هزینه‌های عملیاتی و مصرف برق کارخانه‌ها دارد.",
+      "category": "product",
+      "published_at": "1405/08/01 14:15",
+      "collected_at": "1405/08/01 20:05",
+      "source": "Drives and Controls",
+      "source_url": "https://www.drivesncontrols.com/news/fullstory.php/A-new-era-for-sinamics-g220",
+      "tags": [
+        "SINAMICS",
+        "درایو",
+        "بهینه‌سازی انرژی",
+        "موتور"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "پیشرفت در شبیه‌سازی کارخانه‌ها با نرم‌افزار Tecnomatix و دوقلوی دیجیتال",
+      "summary": "نسخه جدید نرم‌افزار Tecnomatix از مجموعه Siemens Xcelerator قابلیت‌های شبیه‌سازی سه‌بعدی را ارتقا داد. این ابزار به طراحان خطوط تولید کمک می‌کند تا رفتار ربات‌ها و تجهیزات لجستیکی را پیش از راه‌اندازی فیزیکی بررسی کنند. این فناوری خطاهای طراحی را کاهش داده و زمان ورود محصول به بازار را تسریع می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/01 15:50",
+      "collected_at": "1405/08/01 20:05",
+      "source": "Engineering.com",
+      "source_url": "https://www.engineering.com/siemens-tecnomatix-update",
+      "tags": [
+        "Xcelerator",
+        "دوقلوی دیجیتال",
+        "Tecnomatix",
+        "شبیه‌سازی"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "رشد بازار سیستم‌های کنترل صنعتی DCS با تمرکز بر پلتفرم PCS neo",
+      "summary": "سیستم کنترل توزیع‌شده SIMATIC PCS neo زیمنس سهم بیشتری از بازار پروژه‌های فرآیندی را به خود اختصاص داد. این سیستم مبتنی بر وب، امکان مهندسی همکارانه از راه دور را بدون نیاز به نصب نرم‌افزار محلی فراهم می‌کند. این ویژگی به مجریان پروژه‌های نفت، گاز و پتروشیمی انعطاف‌پذیری بی‌نظیری می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/08/01 17:10",
+      "collected_at": "1405/08/01 20:05",
+      "source": "Process Worldwide",
+      "source_url": "https://www.process-worldwide.com/siemens-pcs-neo-market-growth",
+      "tags": [
+        "PCS neo",
+        "DCS",
+        "نفت و گاز",
+        "کنترل فرآیند"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "استانداردسازی ارتباطات صنعتی با توسعه ماژول‌های TSN برای SIMATIC",
+      "summary": "زیمنس ماژول‌های ارتباطی جدید مجهز به فناوری Time-Sensitive Networking (TSN) را برای کنترلرهای صنعتی عرضه کرد. این فناوری امکان انتقال داده‌ها با قطعی صفر و تاخیر زمانی معین را در شبکه‌های اترنت صنعتی فراهم می‌سازد. این استاندارد زیرساخت لازم برای همگرایی فناوری اطلاعات (IT) و فناوری عملیاتی (OT) را ایجاد می‌کند.",
+      "category": "news",
+      "published_at": "1405/08/01 18:40",
+      "collected_at": "1405/08/01 20:05",
+      "source": "Industrial Communication",
+      "source_url": "https://www.industrial-communication.com/siemens-tsn-modules",
+      "tags": [
+        "TSN",
+        "شبکه صنعتی",
+        "اترنت",
+        "ارتباطات"
       ]
     }
   ]
