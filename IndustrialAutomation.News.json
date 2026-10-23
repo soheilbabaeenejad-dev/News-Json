@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 198,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/08/01 22:04",
+  "count": 208,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/08/01 22:09",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3051,6 +3051,166 @@
         "TSN",
         "Networking",
         "Smart Factory"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "توسعه قابلیت‌های پردازش ابری در TIA Portal V20",
+      "summary": "شرکت زیمنس با معرفی نسخه جدید TIA Portal V20، امکانات یکپارچه‌سازی با سرویس‌های ابری را به طور چشمگیری گسترش داده است. این به‌روزرسانی به مهندسان اجازه می‌دهد تا پروژه‌های پیچیده اتوماسیون را مستقیماً در محیط ابری مدیریت و عیب‌یابی کنند. این تحول باعث کاهش زمان طراحی و افزایش انعطاف‌پذیری در پروژه‌های بزرگ صنعتی می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 22:09",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry-software/tia-portal.html",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "Cloud",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "ارتقای امنیت سایبری در ماژول‌های ارتباطی SIMATIC",
+      "summary": "زیمنس استانداردهای امنیتی جدیدی را برای ماژول‌های ارتباطی خانواده SIMATIC S7-1500 پیاده‌سازی کرده است. این پروتکل‌های جدید با هدف مقابله با تهدیدات سایبری مدرن در شبکه‌های OT طراحی شده‌اند و از رمزنگاری پیشرفته برای محافظت از داده‌های حیاتی استفاده می‌کنند. این اقدام گامی مهم در جهت انطباق کامل با استانداردهای IEC 62443 است.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:30",
+      "collected_at": "1405/08/01 22:09",
+      "source": "Industrial Cybersecurity News",
+      "source_url": "https://www.siemens.com/cybersecurity",
+      "tags": [
+        "SIMATIC",
+        "Security",
+        "OT",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "بهینه‌سازی مصرف انرژی با درایوهای SINAMICS نسل جدید",
+      "summary": "نسل جدید درایوهای فرکانس متغیر SINAMICS زیمنس با بهره‌گیری از الگوریتم‌های هوشمند، مصرف انرژی موتورهای صنعتی را تا ۱۵ درصد کاهش داده‌اند. این درایوها با قابلیت اتصال به پلتفرم Insights Hub، داده‌های مصرف را به صورت بلادرنگ تحلیل می‌کنند. این فناوری به کارخانه‌ها کمک می‌کند تا به اهداف پایداری و کاهش کربن خود دست یابند.",
+      "category": "product",
+      "published_at": "1405/08/01 11:45",
+      "collected_at": "1405/08/01 22:09",
+      "source": "Automation World",
+      "source_url": "https://www.siemens.com/drives",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Sustainability",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "همکاری زیمنس و انویدیا برای شبیه‌سازی دقیق کارخانه‌ها",
+      "summary": "زیمنس و انویدیا همکاری خود را برای توسعه دوقلوهای دیجیتال فوتورالیستیک در پلتفرم Xcelerator گسترش داده‌اند. این همکاری به کاربران اجازه می‌دهد تا فرآیندهای تولید را با دقت فیزیکی بسیار بالا در محیط Omniverse شبیه‌سازی کنند. این فناوری به ویژه در صنایع خودروسازی برای کاهش هزینه‌های راه‌اندازی خطوط تولید جدید بسیار حیاتی است.",
+      "category": "industry",
+      "published_at": "1405/08/01 13:00",
+      "collected_at": "1405/08/01 22:09",
+      "source": "TechCrunch",
+      "source_url": "https://blogs.nvidia.com/blog/siemens-digital-twin/",
+      "tags": [
+        "NVIDIA",
+        "Siemens",
+        "Xcelerator",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "گسترش راهکار Industrial Edge در صنایع داروسازی",
+      "summary": "زیمنس با پیاده‌سازی راهکار Industrial Edge در خطوط تولید دارویی، امکان نظارت بر کیفیت محصولات را در لحظه فراهم کرده است. این سیستم با استفاده از تحلیل‌های محلی (Edge Computing)، انحرافات فرآیندی را شناسایی و از هدررفت مواد اولیه جلوگیری می‌کند. این راهکار به تولیدکنندگان کمک می‌کند تا استانداردهای سخت‌گیرانه سازمان‌های بهداشتی را رعایت کنند.",
+      "category": "industry",
+      "published_at": "1405/08/01 14:20",
+      "collected_at": "1405/08/01 22:09",
+      "source": "Pharmaceutical Manufacturing",
+      "source_url": "https://www.siemens.com/industrial-edge",
+      "tags": [
+        "Industrial Edge",
+        "Pharma",
+        "Digitalization",
+        "Quality Control"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "نقش هوش مصنوعی در نگهداری پیش‌بینانه سیستم‌های DCS",
+      "summary": "استفاده از هوش مصنوعی در سیستم‌های کنترل توزیع‌یافته (DCS) زیمنس، دقت پیش‌بینی خرابی تجهیزات را به میزان قابل توجهی افزایش داده است. با تحلیل داده‌های ارتعاشی و حرارتی توسط مدل‌های یادگیری ماشین، سیستم می‌تواند پیش از وقوع خرابی، هشدارهای لازم را صادر کند. این رویکرد باعث کاهش زمان توقف ناخواسته خطوط تولید در صنایع سنگین می‌شود.",
+      "category": "research",
+      "published_at": "1405/08/01 15:50",
+      "collected_at": "1405/08/01 22:09",
+      "source": "Control Engineering",
+      "source_url": "https://www.siemens.com/dcs",
+      "tags": [
+        "DCS",
+        "AI",
+        "Predictive Maintenance",
+        "Industry 4.0"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "توسعه پروتکل‌های ارتباطی TSN در تجهیزات شبکه زیمنس",
+      "summary": "زیمنس با معرفی سوئیچ‌های صنعتی جدید، پشتیبانی از استاندارد TSN (شبکه حساس به زمان) را برای ارتباطات بلادرنگ در کارخانه‌ها نهایی کرده است. این فناوری امکان همگام‌سازی دقیق بین ربات‌ها و کنترلرها را در شبکه‌های اترنت صنعتی فراهم می‌کند. این پیشرفت برای کاربردهای حساس که نیاز به تاخیر بسیار کم دارند، یک ضرورت فنی محسوب می‌شود.",
+      "category": "product",
+      "published_at": "1405/08/01 17:10",
+      "collected_at": "1405/08/01 22:09",
+      "source": "Industrial Ethernet News",
+      "source_url": "https://www.siemens.com/industrial-communication",
+      "tags": [
+        "TSN",
+        "Networking",
+        "Ethernet",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "راهکار جدید SiGreen برای ردیابی ردپای کربن",
+      "summary": "پلتفرم SiGreen زیمنس اکنون به تولیدکنندگان اجازه می‌دهد تا ردپای کربن محصولات خود را در سراسر زنجیره تامین به دقت ردیابی کنند. این ابزار با جمع‌آوری داده‌های واقعی از تجهیزات کارخانه، گزارش‌های شفافی برای انطباق با قوانین زیست‌محیطی ارائه می‌دهد. این اقدام به شرکت‌ها کمک می‌کند تا در بازارهای جهانی که به پایداری اهمیت می‌دهند، رقابتی باقی بمانند.",
+      "category": "regulation",
+      "published_at": "1405/08/01 18:30",
+      "collected_at": "1405/08/01 22:09",
+      "source": "Sustainability Today",
+      "source_url": "https://www.siemens.com/sigreen",
+      "tags": [
+        "SiGreen",
+        "Sustainability",
+        "Supply Chain",
+        "Carbon Footprint"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "به‌روزرسانی Siemens Industrial Copilot برای برنامه‌نویسی خودکار",
+      "summary": "دستیار هوشمند Siemens Industrial Copilot اکنون قابلیت تولید کدهای SCL برای PLCهای سری S7-1500 را بهبود بخشیده است. این ابزار با درک زبان طبیعی، به مهندسان کمک می‌کند تا ساختارهای برنامه‌نویسی پیچیده را سریع‌تر ایجاد کنند. این فناوری با کاهش خطاهای انسانی، سرعت توسعه نرم‌افزار در پروژه‌های اتوماسیون را به شدت افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/01 19:55",
+      "collected_at": "1405/08/01 22:09",
+      "source": "Automation World",
+      "source_url": "https://www.siemens.com/industrial-copilot",
+      "tags": [
+        "AI",
+        "Industrial Copilot",
+        "PLC",
+        "Programming"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "گسترش همکاری زیمنس با شرکت‌های لجستیکی در حوزه AMR",
+      "summary": "زیمنس در همکاری جدید خود با تولیدکنندگان ربات‌های متحرک خودگردان (AMR)، سیستم‌های ناوبری هوشمند را در این ربات‌ها ادغام کرده است. این ربات‌ها اکنون می‌توانند با سیستم‌های مدیریت انبار (WMS) زیمنس به صورت یکپارچه ارتباط برقرار کنند. این همکاری باعث بهبود بهره‌وری لجستیک داخلی در کارخانه‌های هوشمند و کاهش نیاز به جابه‌جایی دستی کالاها می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/01 21:10",
+      "collected_at": "1405/08/01 22:09",
+      "source": "Logistics Management",
+      "source_url": "https://www.siemens.com/robotics",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "Robotics",
+        "Automation"
       ]
     }
   ]
