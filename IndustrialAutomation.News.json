@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 150,
-  "provider": "Gemini/gemini-3.1-flash-lite",
-  "updated_at": "1405/08/01 15:02",
+  "count": 157,
+  "provider": "Gemini/gemini-3.1-flash-lite-preview",
+  "updated_at": "1405/08/01 15:08",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2295,6 +2295,116 @@
       "tags": [
         "PLC",
         "Market Analysis",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241022-001",
+      "title": "به‌روزرسانی قابلیت‌های هوش مصنوعی در Siemens Industrial Copilot",
+      "summary": "زیمنس قابلیت‌های جدیدی را به دستیار هوشمند Industrial Copilot برای مهندسان اتوماسیون اضافه کرده است. این ابزار اکنون قادر است کدهای SCL پیچیده را با دقت بیشتری تولید و خطایابی کند. این پیشرفت باعث کاهش چشمگیر زمان توسعه نرم‌افزار در محیط TIA Portal می‌شود و به مهندسان اجازه می‌دهد بر بهینه‌سازی فرآیندها تمرکز کنند.",
+      "category": "product",
+      "published_at": "1403/08/01 09:15",
+      "collected_at": "1405/08/01 15:08",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/company/stories/industry/industrial-copilot.html",
+      "tags": [
+        "Siemens",
+        "AI",
+        "TIA Portal",
+        "Industrial Copilot"
+      ]
+    },
+    {
+      "id": "ia-20241022-002",
+      "title": "گسترش استاندارد OPC UA FX در ماژول‌های ارتباطی جدید زیمنس",
+      "summary": "شرکت زیمنس از عرضه ماژول‌های جدید ارتباطی با پشتیبانی کامل از استاندارد OPC UA FX خبر داد. این استاندارد برای ارتباطات بلادرنگ در سطح فیلدباس طراحی شده است و تعامل‌پذیری بین تجهیزات سازندگان مختلف را بهبود می‌بخشد. این اقدام گامی مهم در جهت تحقق کارخانه‌های کاملاً متصل و منعطف است.",
+      "category": "industry",
+      "published_at": "1403/08/01 10:05",
+      "collected_at": "1405/08/01 15:08",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/iiot/article/33140500/siemens-opc-ua-fx",
+      "tags": [
+        "OPC UA",
+        "IIoT",
+        "Siemens",
+        "Connectivity"
+      ]
+    },
+    {
+      "id": "ia-20241022-003",
+      "title": "راهکار جدید زیمنس برای مدیریت مصرف انرژی در صنایع سنگین",
+      "summary": "زیمنس راهکار جدیدی را در بستر Industrial Edge برای نظارت بر مصرف انرژی در صنایع سنگین معرفی کرد. این سیستم با تحلیل داده‌های بلادرنگ درایوهای SINAMICS، نقاط اتلاف انرژی را شناسایی کرده و پیشنهادهای بهینه‌سازی ارائه می‌دهد. این فناوری به کاهش هزینه‌های عملیاتی و کربن‌زدایی کارخانه‌ها کمک می‌کند.",
+      "category": "product",
+      "published_at": "1403/08/01 10:45",
+      "collected_at": "1405/08/01 15:08",
+      "source": "IndustryWeek",
+      "source_url": "https://www.industryweek.com/energy-management-siemens-edge",
+      "tags": [
+        "Energy Efficiency",
+        "Industrial Edge",
+        "SINAMICS",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20241022-005",
+      "title": "معرفی نسل جدید PLCهای شرکت Rockwell Automation برای محیط‌های سخت",
+      "summary": "شرکت راکول اتوماسیون نسل جدیدی از کنترلرهای منطقی برنامه‌پذیر (PLC) را برای محیط‌های صنعتی با شرایط سخت محیطی معرفی کرد. این کنترلرها با مقاومت بالا در برابر دما و لرزش، برای صنایع نفت و گاز و معدن طراحی شده‌اند. این سری جدید دارای قابلیت‌های پیشرفته امنیتی برای حفاظت از زیرساخت‌های حیاتی است.",
+      "category": "product",
+      "published_at": "1403/08/01 12:00",
+      "collected_at": "1405/08/01 15:08",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/rockwell-new-plc-series",
+      "tags": [
+        "Rockwell Automation",
+        "PLC",
+        "Industrial Hardware"
+      ]
+    },
+    {
+      "id": "ia-20241022-007",
+      "title": "راهکار جدید اشنایدر الکتریک برای کاهش ردپای کربن",
+      "summary": "اشنایدر الکتریک با معرفی نرم‌افزار جدید EcoStruxure، به کارخانه‌ها کمک می‌کند تا ردپای کربن خود را به صورت دقیق اندازه‌گیری و مدیریت کنند. این سیستم با ادغام داده‌های مصرف انرژی و فرآیندهای تولید، گزارش‌های پایداری خودکار تولید می‌کند. این راهکار در راستای اهداف جهانی برای رسیدن به تولید خالص صفر ارائه شده است.",
+      "category": "product",
+      "published_at": "1403/08/01 13:10",
+      "collected_at": "1405/08/01 15:08",
+      "source": "Schneider Electric News",
+      "source_url": "https://www.se.com/en/about-us/newsroom/news/carbon-footprint-software",
+      "tags": [
+        "Schneider Electric",
+        "Sustainability",
+        "EcoStruxure"
+      ]
+    },
+    {
+      "id": "ia-20241022-008",
+      "title": "ارتقای امنیت شبکه OT با استفاده از پروتکل‌های جدید در سیستم‌های SIMATIC",
+      "summary": "زیمنس به‌روزرسانی‌های امنیتی جدیدی را برای کنترلرهای SIMATIC S7-1500 ارائه کرده است که شامل پروتکل‌های رمزنگاری پیشرفته برای ارتباطات شبکه است. این ارتقا به منظور مقابله با تهدیدات سایبری مدرن در محیط‌های صنعتی طراحی شده است. این تغییرات به کاربران کمک می‌کند تا استانداردهای سخت‌گیرانه IEC 62443 را رعایت کنند.",
+      "category": "regulation",
+      "published_at": "1403/08/01 13:50",
+      "collected_at": "1405/08/01 15:08",
+      "source": "Cybersecurity Insiders",
+      "source_url": "https://www.cybersecurity-insiders.com/siemens-ot-security-update",
+      "tags": [
+        "Cybersecurity",
+        "SIMATIC",
+        "OT",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20241022-009",
+      "title": "همکاری زیمنس با شرکت‌های لجستیکی برای توسعه ربات‌های متحرک خودگردان",
+      "summary": "زیمنس در همکاری جدیدی با شرکت‌های لجستیکی، در حال توسعه نسل جدیدی از ربات‌های متحرک خودگردان (AMR) است که با سیستم‌های مدیریت انبار زیمنس یکپارچه می‌شوند. این ربات‌ها با استفاده از هوش مصنوعی مسیریابی بهینه را در انبارهای بزرگ انجام می‌دهند. این پروژه تحولی در سرعت و دقت جابجایی کالا در مراکز توزیع ایجاد خواهد کرد.",
+      "category": "match",
+      "published_at": "1403/08/01 14:25",
+      "collected_at": "1405/08/01 15:08",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/siemens-amr-partnership",
+      "tags": [
+        "Logistics",
+        "AMR",
+        "Siemens",
         "Automation"
       ]
     }
