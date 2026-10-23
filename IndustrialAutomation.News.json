@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 157,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/08/01 15:08",
+  "count": 167,
+  "provider": "Gemini/gemini-3.5-flash-lite",
+  "updated_at": "1405/08/01 16:00",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2406,6 +2406,166 @@
         "AMR",
         "Siemens",
         "Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-001",
+      "title": "یکپارچه‌سازی هوش مصنوعی مولد در محیط TIA Portal V19",
+      "summary": "شرکت زیمنس از قابلیت‌های پیشرفته هوش مصنوعی مولد در نسخه جدید TIA Portal V19 رونمایی کرد که امکان تولید خودکار کدهای کنترلی را فراهم می‌سازد. این ابزار جدید با کاهش خطاهای انسانی، سرعت توسعه پروژه‌های اتوماسیون صنعتی را به طور چشمگیری افزایش می‌دهد. مهندسان می‌توانند با استفاده از این فناوری، کدهای پیچیده SCL را سریع‌تر و با دقت بالاتر پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/08/01 08:30",
+      "collected_at": "1405/08/01 16:00",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/siemens-tia-portal-v19-ai-update",
+      "tags": [
+        "TIA Portal",
+        "Siemens",
+        "PLC",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-002",
+      "title": "گسترش ماژول‌های امنیتی جدید در خانواده SIMATIC S7-1500",
+      "summary": "زیمنس سری جدیدی از ماژول‌های سخت‌افزاری مقاوم در برابر تهدیدات سایبری را برای کنترلرهای SIMATIC S7-1500 معرفی نمود. این تجهیزات با پشتیبانی از استانداردهای سخت‌گیرانه IEC 62443، امنیت شبکه‌های صنعتی را در برابر حملات پیچیده تضمین می‌کنند. این اقدام گامی مهم در جهت حفاظت از زیرساخت‌های حیاتی و سامانه‌های اسکادا به شمار می‌رود.",
+      "category": "product",
+      "published_at": "1405/08/01 09:15",
+      "collected_at": "1405/08/01 16:00",
+      "source": "Control Global",
+      "source_url": "https://www.controlglobal.com/siemens-simatic-s7-1500-security-update",
+      "tags": [
+        "SIMATIC",
+        "Siemens",
+        "Cybersecurity",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261007-003",
+      "title": "توسعه دوقلوهای دیجیتال پیشرفته با قابلیت‌های ابری زیمنس",
+      "summary": "پلتفرم Siemens Xcelerator اکنون از قابلیت‌های ابری جدیدی برای شبیه‌سازی دقیق خطوط تولید پیشرفته پشتیبانی می‌کند. این فناوری به مدیران کارخانه‌ها اجازه می‌دهد تا فرآیندهای تولیدی را پیش از اجرای واقعی، در محیطی مجازی بهینه‌سازی کنند. این راهکار نقش کلیدی در کاهش هزینه‌های عملیاتی و افزایش بهره‌وری کلی کارخانه‌ها دارد.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:00",
+      "collected_at": "1405/08/01 16:00",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.industrialiotnews.com/siemens-xcelerator-cloud-digital-twin",
+      "tags": [
+        "Xcelerator",
+        "Siemens",
+        "Digital Twin",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ia-20261007-004",
+      "title": "بهینه‌سازی مصرف انرژی در کارخانه‌ها با درایوهای SINAMICS",
+      "summary": "نسخه جدید درایوهای صنعتی SINAMICS شرکت زیمنس با الگوریتم‌های هوشمند مدیریت انرژی معرفی شد. این تجهیزات می‌توانند تلفات توان الکتریکی را در موتورهای سنگین صنعتی به میزان قابل توجهی کاهش دهند. استفاده از این درایوها به شرکت‌ها کمک می‌کند تا اهداف پایداری و کاهش انتشار کربن را راحت‌تر محقق سازند.",
+      "category": "product",
+      "published_at": "1405/08/01 10:45",
+      "collected_at": "1405/08/01 16:00",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drivesncontrols.com/siemens-sinamics-energy-efficiency",
+      "tags": [
+        "SINAMICS",
+        "Siemens",
+        "Energy Efficiency",
+        "Drives"
+      ]
+    },
+    {
+      "id": "ia-20261007-005",
+      "title": "ارتقای پلتفرم Industrial Edge برای پردازش بلادرنگ داده‌های OT",
+      "summary": "زیمنس نسخه بروزرسانی شده پلتفرم Industrial Edge را با قابلیت‌های پیشرفته تحلیلی برای لبه شبکه عرضه کرد. این راهکار امکان پردازش حجم عظیمی از داده‌های حسگرها را به صورت بلادرنگ و بدون نیاز به فضای ابری فراهم می‌کند. صنایع سنگین از این ابزار برای اجرای الگوریتم‌های نگهداری پیش‌بینانه بهره می‌برند.",
+      "category": "product",
+      "published_at": "1405/08/01 11:30",
+      "collected_at": "1405/08/01 16:00",
+      "source": "IoT World Today",
+      "source_url": "https://www.iotworldtoday.com/siemens-industrial-edge-update",
+      "tags": [
+        "Industrial Edge",
+        "Siemens",
+        "Edge Computing",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261007-006",
+      "title": "همکاری راکول اتوماسیون و مایکروسافت در توسعه رباتیک هوشمند",
+      "summary": "شرکت Rockwell Automation با همکاری مایکروسافت از ابزارهای جدید مبتنی بر هوش مصنوعی برای مدیریت ربات‌های صنعتی پرده برداشت. این پلتفرم جدید به اپراتورها اجازه می‌دهد با دستورات صوتی ساده، مسیرهای حرکتی ربات‌ها را تغییر دهند. این نوآوری زمان راه‌اندازی سلول‌های رباتیک را در خطوط مونتاژ به شدت کاهش می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/08/01 12:10",
+      "collected_at": "1405/08/01 16:00",
+      "source": "Robotics Business Review",
+      "source_url": "https://www.roboticsbusinessreview.com/rockwell-microsoft-ai-robotics",
+      "tags": [
+        "Rockwell Automation",
+        "Microsoft",
+        "Robotics",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261007-007",
+      "title": "گسترش پروتکل استاندارد TSN در تجهیزات شبکه صنعتی اشنایدر",
+      "summary": "شرکت Schneider Electric خط تولید جدید سوئیچ‌های شبکه صنعتی مجهز به فناوری Time-Sensitive Networking را معرفی کرد. این فناوری امکان انتقال همزمان داده‌های کنترل بحرانی و اطلاعات IT را روی یک بستر واحد فراهم می‌سازد. استاندارد TSN زیرساخت لازم برای ارتباطات یکپارچه در کارخانه‌های کاملاً هوشمند را تامین می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/01 13:00",
+      "collected_at": "1405/08/01 16:00",
+      "source": "Automation.com",
+      "source_url": "https://www.automation.com/schneider-electric-tsn-network-switches",
+      "tags": [
+        "Schneider Electric",
+        "TSN",
+        "Industrial Networking",
+        "Ethernet"
+      ]
+    },
+    {
+      "id": "ia-20261007-008",
+      "title": "راهکار جدید ABB برای مدیریت ربات‌های متحرک خودگردان در انبارها",
+      "summary": "شرکت ABB نرم‌افزار مدیریت ناوگان جدیدی را برای هماهنگی ربات‌های متحرک خودگردان (AMR) در انبارهای بزرگ ارائه داد. این نرم‌افزار از الگوریتم‌های یادگیری ماشین برای مسیریابی بهینه و جلوگیری از ازدحام در محیط‌های لجستیکی استفاده می‌کند. این سیستم قابلیت اتصال به نرم‌افزارهای ERP و SCADA موجود در کارخانه را داراست.",
+      "category": "product",
+      "published_at": "1405/08/01 13:45",
+      "collected_at": "1405/08/01 16:00",
+      "source": "Logistics Management",
+      "source_url": "https://www.logisticsmgmt.com/abb-new-amr-fleet-management",
+      "tags": [
+        "ABB",
+        "AMR",
+        "Logistics",
+        "Warehouse Automation"
+      ]
+    },
+    {
+      "id": "ia-20261007-009",
+      "title": "استفاده از سیستم‌های بینایی ماشین پیشرفته در خطوط بسته‌بندی",
+      "summary": "تکنولوژی جدید بینایی ماشین زیمنس مبتنی بر هوش مصنوعی برای کنترل کیفیت خطوط بسته‌بندی دارویی معرفی شد. این سیستم قادر است عیوب میکروسکوپی محصولات را با سرعت بالا و بدون توقف خط تولید شناسایی کند. دقت بالای این تجهیزات از بروز خسارات مالی ناشی از مرجوعی محصولات جلوگیری می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/01 14:30",
+      "collected_at": "1405/08/01 16:00",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-machine-vision-pharma",
+      "tags": [
+        "Siemens",
+        "Machine Vision",
+        "Quality Control",
+        "Pharma"
+      ]
+    },
+    {
+      "id": "ia-20261007-010",
+      "title": "توسعه راهکارهای ابری برای نظارت بر سیستم‌های DCS در صنایع نفت و گاز",
+      "summary": "سیستم کنترل توزیع‌شده (DCS) زیمنس اکنون به ابزارهای جدید نظارت ابری برای پایش از راه دور پالایشگاه‌ها مجهز شده است. این ماژول‌های نرم‌افزاری امکان رصد پارامترهای حیاتی فرآیند را برای مهندسان از هر نقطه‌ای فراهم می‌کنند. این رویکرد زمان پاسخگویی به هشدارها را کاهش داده و ایمنی مجتمع‌های پتروشیمی را بالا می‌برد.",
+      "category": "industry",
+      "published_at": "1405/08/01 15:15",
+      "collected_at": "1405/08/01 16:00",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/siemens-dcs-cloud-monitoring",
+      "tags": [
+        "Siemens",
+        "DCS",
+        "Oil & Gas",
+        "Cloud Monitoring"
       ]
     }
   ]
