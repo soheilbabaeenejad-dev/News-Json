@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 195,
-  "provider": "Gemini/gemini-3.1-flash-lite-preview",
-  "updated_at": "1405/08/02 02:00",
+  "count": 205,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/08/02 02:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3009,6 +3009,161 @@
         "Ruggedized",
         "Industrial Control",
         "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20241023-001",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم Insights Hub زیمنس",
+      "summary": "زیمنس با به‌روزرسانی اخیر پلتفرم Insights Hub، ابزارهای پیشرفته‌تری برای تحلیل داده‌های صنعتی مبتنی بر اینترنت اشیا ارائه داده است. این ارتقا به کاربران اجازه می‌دهد تا الگوهای مصرف انرژی را با دقت بالاتری شناسایی کرده و خرابی تجهیزات را پیش‌بینی کنند. این تغییرات به ویژه برای صنایع تولیدی که به دنبال کاهش هزینه‌های عملیاتی هستند، بسیار حیاتی است.",
+      "category": "product",
+      "published_at": "1403/08/02 08:30",
+      "collected_at": "1405/08/02 02:01",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/iot/insights-hub.html",
+      "tags": [
+        "Insights Hub",
+        "IIoT",
+        "Siemens",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ia-20241023-002",
+      "title": "بهره‌گیری از پردازنده‌های جدید در کنترلرهای SIMATIC S7-1500",
+      "summary": "شرکت زیمنس نسل جدیدی از پردازنده‌های مرکزی را برای سری کنترلرهای SIMATIC S7-1500 معرفی کرده است که سرعت پردازش منطقی را تا ۳۰ درصد افزایش می‌دهد. این بهبود سخت‌افزاری به مهندسان اجازه می‌دهد تا فرآیندهای پیچیده اتوماسیون را با زمان پاسخ‌دهی بسیار کوتاه‌تری اجرا کنند. این قطعات جدید اکنون برای سفارش در بازارهای جهانی در دسترس قرار گرفته‌اند.",
+      "category": "product",
+      "published_at": "1403/08/02 09:15",
+      "collected_at": "1405/08/02 02:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/plc/article/215432",
+      "tags": [
+        "SIMATIC",
+        "PLC",
+        "Siemens",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "ia-20241023-003",
+      "title": "استانداردسازی ارتباطات شبکه با پروتکل PROFINET در صنایع سنگین",
+      "summary": "گروه کاربران پروفینت (PI) استانداردهای جدیدی را برای افزایش پایداری شبکه در محیط‌های صنعتی پرنویز منتشر کرد که زیمنس پیشگام اجرای آن در تجهیزات خود است. این پروتکل جدید باعث کاهش تداخلات سیگنالی در کارخانه‌های بزرگ فولاد و سیمان می‌شود. پیاده‌سازی این استاندارد به پایداری بیشتر سیستم‌های کنترل توزیع‌شده کمک شایانی می‌کند.",
+      "category": "industry",
+      "published_at": "1403/08/02 10:00",
+      "collected_at": "1405/08/02 02:01",
+      "source": "Industrial Ethernet Book",
+      "source_url": "https://iebmedia.com/profinet-standard-update",
+      "tags": [
+        "PROFINET",
+        "Networking",
+        "Industrial Communication"
+      ]
+    },
+    {
+      "id": "ia-20241023-004",
+      "title": "همکاری زیمنس و شرکت‌های انرژی برای بهینه‌سازی شبکه هوشمند",
+      "summary": "زیمنس در پروژه‌ای جدید با همکاری تامین‌کنندگان بزرگ برق، سیستم‌های مدیریت شبکه هوشمند خود را برای پایداری بیشتر در برابر نوسانات بار ارتقا داده است. این راهکار از الگوریتم‌های پیشرفته برای تعادل‌بخشی به توزیع انرژی در مقیاس صنعتی استفاده می‌کند. این همکاری گامی مهم در جهت کاهش اتلاف انرژی در زیرساخت‌های ملی محسوب می‌شود.",
+      "category": "industry",
+      "published_at": "1403/08/02 11:20",
+      "collected_at": "1405/08/02 02:01",
+      "source": "Energy Global",
+      "source_url": "https://www.energyglobal.com/siemens-grid-solutions",
+      "tags": [
+        "Smart Grid",
+        "Energy Management",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241023-005",
+      "title": "ارتقای امنیت سایبری در سیستم‌های کنترل صنعتی با استاندارد IEC 62443",
+      "summary": "زیمنس با انتشار راهنمای جدید امنیتی، بر انطباق کامل محصولات خود با استاندارد بین‌المللی IEC 62443 تاکید کرده است. این اقدام شامل به‌روزرسانی‌های نرم‌افزاری برای سیستم‌های SCADA و کنترلرهای منطقی جهت مقابله با تهدیدات سایبری مدرن است. این استاندارد به عنوان سنگ‌بنای امنیت در شبکه‌های OT شناخته می‌شود.",
+      "category": "regulation",
+      "published_at": "1403/08/02 12:45",
+      "collected_at": "1405/08/02 02:01",
+      "source": "Cybersecurity News",
+      "source_url": "https://www.cybersecurity-industrial.com/iec62443",
+      "tags": [
+        "Cybersecurity",
+        "IEC 62443",
+        "SCADA",
+        "OT Security"
+      ]
+    },
+    {
+      "id": "ia-20241023-006",
+      "title": "توسعه قابلیت‌های بینایی ماشین در ربات‌های صنعتی",
+      "summary": "شرکت‌های فعال در حوزه رباتیک با ادغام سیستم‌های بینایی ماشین زیمنس، دقت تشخیص قطعات را در خطوط مونتاژ به میزان قابل توجهی افزایش داده‌اند. این فناوری به ربات‌ها اجازه می‌دهد تا قطعات را با اشکال نامنظم در محیط‌های پویا شناسایی و دسته‌بندی کنند. این پیشرفت باعث کاهش خطاهای انسانی در فرآیندهای بسته‌بندی و کنترل کیفیت می‌شود.",
+      "category": "research",
+      "published_at": "1403/08/02 13:10",
+      "collected_at": "1405/08/02 02:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/machine-vision-integration",
+      "tags": [
+        "Robotics",
+        "Machine Vision",
+        "Automation"
+      ]
+    },
+    {
+      "id": "ia-20241023-007",
+      "title": "گسترش راهکارهای ابری در مدیریت چرخه حیات محصول",
+      "summary": "پلتفرم Xcelerator زیمنس اکنون قابلیت‌های جدیدی برای مدیریت داده‌های مهندسی در فضای ابری ارائه می‌دهد که همکاری تیم‌های طراحی در نقاط مختلف جهان را تسهیل می‌کند. این ابزارها امکان دسترسی بلادرنگ به نقشه‌ها و مدل‌های سه‌بعدی را فراهم می‌سازند. این یکپارچگی باعث کاهش زمان عرضه محصولات جدید به بازار (Time-to-Market) می‌شود.",
+      "category": "product",
+      "published_at": "1403/08/02 14:30",
+      "collected_at": "1405/08/02 02:01",
+      "source": "Digital Engineering",
+      "source_url": "https://www.digitaleng.news/xcelerator-cloud",
+      "tags": [
+        "Xcelerator",
+        "Cloud Computing",
+        "PLM",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241023-008",
+      "title": "رشد تقاضا برای درایوهای فرکانس متغیر سری SINAMICS",
+      "summary": "بازار جهانی درایوهای صنعتی شاهد افزایش تقاضا برای سری SINAMICS زیمنس به دلیل بهره‌وری بالای انرژی و قابلیت‌های ارتباطی پیشرفته است. این درایوها با کاهش مصرف برق در موتورهای الکتریکی بزرگ، به کارخانه‌ها در کاهش هزینه‌های انرژی کمک می‌کنند. مدل‌های جدید اکنون با قابلیت‌های عیب‌یابی داخلی عرضه می‌شوند.",
+      "category": "economy",
+      "published_at": "1403/08/02 15:05",
+      "collected_at": "1405/08/02 02:01",
+      "source": "Industrial Market Report",
+      "source_url": "https://www.ind-market-report.com/drives-demand",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Energy Efficiency",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20241023-009",
+      "title": "بهینه‌سازی مصرف آب در صنایع شیمیایی با سیستم‌های DCS",
+      "summary": "با استفاده از سیستم‌های کنترل توزیع‌شده (DCS) زیمنس، کارخانه‌های شیمیایی موفق به کاهش ۲۰ درصدی مصرف آب در فرآیندهای خنک‌کننده شده‌اند. این سیستم‌ها با پایش مداوم پارامترهای محیطی، جریان آب را به صورت هوشمند کنترل می‌کنند. این راهکار نمونه‌ای موفق از کاربرد اتوماسیون در حفظ محیط‌زیست است.",
+      "category": "industry",
+      "published_at": "1403/08/02 16:15",
+      "collected_at": "1405/08/02 02:01",
+      "source": "Chemical Engineering Journal",
+      "source_url": "https://www.chemengonline.com/dcs-water-optimization",
+      "tags": [
+        "DCS",
+        "Sustainability",
+        "Process Automation"
+      ]
+    },
+    {
+      "id": "ia-20241023-010",
+      "title": "نقش هوش مصنوعی در پیش‌بینی خرابی تجهیزات در سیستم‌های صنعتی",
+      "summary": "الگوریتم‌های یادگیری ماشین زیمنس اکنون در سیستم‌های نظارتی ادغام شده‌اند تا خرابی تجهیزات را پیش از وقوع شناسایی کنند. این فناوری با تحلیل داده‌های ارتعاش و دما، زمان دقیق سرویس‌دهی را به اپراتورها اعلام می‌کند. این رویکرد پیش‌گیرانه باعث کاهش توقفات ناخواسته خط تولید و افزایش طول عمر دستگاه‌ها می‌شود.",
+      "category": "research",
+      "published_at": "1403/08/02 17:00",
+      "collected_at": "1405/08/02 02:01",
+      "source": "AI in Industry",
+      "source_url": "https://www.ai-industry.com/predictive-maintenance",
+      "tags": [
+        "AI",
+        "Predictive Maintenance",
+        "Siemens"
       ]
     }
   ]
