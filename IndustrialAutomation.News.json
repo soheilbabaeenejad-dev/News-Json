@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 167,
-  "provider": "Gemini/gemini-3.5-flash-lite",
-  "updated_at": "1405/08/01 16:00",
+  "count": 177,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/08/01 16:02",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -2566,6 +2566,156 @@
         "DCS",
         "Oil & Gas",
         "Cloud Monitoring"
+      ]
+    },
+    {
+      "id": "ia-20261023-001",
+      "title": "توسعه قابلیت‌های تحلیل داده در پلتفرم Insights Hub زیمنس",
+      "summary": "شرکت زیمنس به‌تازگی قابلیت‌های جدیدی را به پلتفرم Insights Hub اضافه کرده است که امکان تحلیل پیش‌بینانه داده‌های سنسورها را با دقت بالاتری فراهم می‌کند. این به‌روزرسانی به مدیران کارخانه‌ها کمک می‌کند تا خرابی تجهیزات را پیش از وقوع شناسایی کرده و هزینه‌های تعمیر و نگهداری را به طور چشمگیری کاهش دهند. این ابزار اکنون با الگوریتم‌های یادگیری ماشین بهینه‌سازی شده است.",
+      "category": "product",
+      "published_at": "1405/08/01 09:00",
+      "collected_at": "1405/08/01 16:02",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/feature/insights-hub-updates",
+      "tags": [
+        "Insights Hub",
+        "IIoT",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "id": "ia-20261023-002",
+      "title": "یکپارچه‌سازی سیستم‌های کنترل حرکت در TIA Portal V20",
+      "summary": "نسخه جدید TIA Portal V20 با تمرکز بر یکپارچه‌سازی پیشرفته سیستم‌های کنترل حرکت (Motion Control) معرفی شد. این نسخه به مهندسان اجازه می‌دهد تا درایوهای SINAMICS را با سرعت بیشتری پیکربندی کرده و هماهنگی دقیق‌تری میان محورهای رباتیک ایجاد کنند. این تغییرات باعث کاهش زمان راه‌اندازی خطوط تولید در صنایع بسته‌بندی شده است.",
+      "category": "product",
+      "published_at": "1405/08/01 09:30",
+      "collected_at": "1405/08/01 16:02",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/tia-portal-v20-release",
+      "tags": [
+        "TIA Portal",
+        "Motion Control",
+        "SINAMICS"
+      ]
+    },
+    {
+      "id": "ia-20261023-003",
+      "title": "ارتقای امنیت سایبری در ماژول‌های ارتباطی SIMATIC S7-1500",
+      "summary": "زیمنس از عرضه نسل جدید ماژول‌های ارتباطی برای کنترلرهای SIMATIC S7-1500 خبر داد که از پروتکل‌های رمزنگاری پیشرفته‌تری پشتیبانی می‌کنند. این ماژول‌ها با استانداردهای امنیتی جدید IEC 62443 سازگاری کامل دارند و از حملات نفوذ به شبکه OT جلوگیری می‌کنند. این اقدام گامی مهم برای ایمن‌سازی زیرساخت‌های حیاتی در برابر تهدیدات سایبری مدرن است.",
+      "category": "industry",
+      "published_at": "1405/08/01 10:15",
+      "collected_at": "1405/08/01 16:02",
+      "source": "Industrial Cybersecurity News",
+      "source_url": "https://www.ics-cybersecurity.com/siemens-s7-1500-security",
+      "tags": [
+        "SIMATIC",
+        "Cybersecurity",
+        "IEC 62443"
+      ]
+    },
+    {
+      "id": "ia-20261023-004",
+      "title": "همکاری زیمنس و شرکت‌های خودروسازی برای بهینه‌سازی مصرف انرژی",
+      "summary": "زیمنس با همکاری چندین تولیدکننده بزرگ خودرو، راهکار جدیدی برای مدیریت انرژی مبتنی بر Industrial Edge پیاده‌سازی کرده است. این سیستم با پایش لحظه‌ای مصرف انرژی در خطوط پرس و جوشکاری، نقاط هدررفت را شناسایی و بهینه می‌کند. این راهکار به کاهش ۱۵ درصدی مصرف برق در کارخانه‌های بزرگ خودروسازی کمک کرده است.",
+      "category": "company",
+      "published_at": "1405/08/01 11:00",
+      "collected_at": "1405/08/01 16:02",
+      "source": "Industry Week",
+      "source_url": "https://www.industryweek.com/siemens-automotive-energy",
+      "tags": [
+        "Industrial Edge",
+        "Energy Efficiency",
+        "Automotive"
+      ]
+    },
+    {
+      "id": "ia-20261023-005",
+      "title": "استفاده از هوش مصنوعی مولد در طراحی تجهیزات صنعتی",
+      "summary": "پلتفرم Xcelerator زیمنس اکنون از قابلیت‌های هوش مصنوعی مولد برای طراحی سریع‌تر قطعات مکانیکی بهره می‌برد. طراحان می‌توانند با وارد کردن پارامترهای فنی، مدل‌های بهینه را در زمان کوتاهی دریافت کنند. این فناوری باعث کاهش زمان ورود محصول به بازار و افزایش بهره‌وری تیم‌های تحقیق و توسعه در صنایع سنگین شده است.",
+      "category": "research",
+      "published_at": "1405/08/01 11:45",
+      "collected_at": "1405/08/01 16:02",
+      "source": "Engineering News",
+      "source_url": "https://www.engineeringnews.com/siemens-generative-ai",
+      "tags": [
+        "Xcelerator",
+        "Generative AI",
+        "Design"
+      ]
+    },
+    {
+      "id": "ia-20261023-006",
+      "title": "توسعه استانداردهای ارتباطی برای ربات‌های متحرک خودگردان",
+      "summary": "گروهی از تولیدکنندگان رباتیک به رهبری زیمنس در حال تدوین استانداردهای جدید برای ارتباطات بین ربات‌های متحرک خودگردان (AMR) در محیط‌های کارخانه هستند. این استانداردها بر پایه پروتکل‌های باز بنا شده‌اند تا امکان تعامل میان ربات‌های برندهای مختلف را فراهم کنند. این پیشرفت باعث انعطاف‌پذیری بیشتر در لجستیک هوشمند کارخانه‌ها می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/01 12:30",
+      "collected_at": "1405/08/01 16:02",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/amr-standardization",
+      "tags": [
+        "AMR",
+        "Robotics",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "ia-20261023-007",
+      "title": "معرفی درایوهای SINAMICS G220 برای کاربردهای سنگین",
+      "summary": "زیمنس نسل جدید درایوهای SINAMICS G220 را با قابلیت‌های پیشرفته مدیریت انرژی و اتصال به ابر معرفی کرد. این درایوها برای کار در محیط‌های صنعتی سخت طراحی شده‌اند و با استفاده از سیستم‌های هوشمند، عمر مفید موتورها را افزایش می‌دهند. این محصول جدید به ویژه برای صنایع سیمان و فولاد که نیاز به گشتاور بالا دارند، مناسب است.",
+      "category": "product",
+      "published_at": "1405/08/01 13:15",
+      "collected_at": "1405/08/01 16:02",
+      "source": "Drives & Controls",
+      "source_url": "https://www.drives-controls.com/sinamics-g220-launch",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Industrial Automation"
+      ]
+    },
+    {
+      "id": "ia-20261023-008",
+      "title": "نقش دوقلوی دیجیتال در مدیریت زنجیره تامین دارویی",
+      "summary": "شرکت زیمنس با استفاده از تکنولوژی دوقلوی دیجیتال، به شرکت‌های داروسازی کمک می‌کند تا زنجیره تامین خود را در برابر نوسانات بازار مقاوم کنند. با شبیه‌سازی فرآیندهای تولید و توزیع، مدیران می‌توانند گلوگاه‌های احتمالی را شناسایی و رفع کنند. این راهکار دقت برنامه‌ریزی تولید را تا ۳۰ درصد افزایش داده است.",
+      "category": "industry",
+      "published_at": "1405/08/01 14:00",
+      "collected_at": "1405/08/01 16:02",
+      "source": "Pharma Manufacturing",
+      "source_url": "https://www.pharmamanufacturing.com/siemens-digital-twin",
+      "tags": [
+        "Digital Twin",
+        "Supply Chain",
+        "Pharma"
+      ]
+    },
+    {
+      "id": "ia-20261023-009",
+      "title": "گسترش راهکارهای ابری زیمنس در صنایع کوچک و متوسط",
+      "summary": "زیمنس استراتژی جدیدی را برای ارائه خدمات ابری مقرون‌به‌صرفه به صنایع کوچک و متوسط (SME) آغاز کرده است. این خدمات شامل ابزارهای مدیریت تولید و کنترل کیفیت مبتنی بر ابر است که نیاز به سرمایه‌گذاری سنگین در زیرساخت‌های محلی را حذف می‌کند. هدف از این طرح، تسریع تحول دیجیتال در بخش تولیدات کوچک است.",
+      "category": "economy",
+      "published_at": "1405/08/01 14:45",
+      "collected_at": "1405/08/01 16:02",
+      "source": "SME Digital News",
+      "source_url": "https://www.sme-digital.com/siemens-cloud-sme",
+      "tags": [
+        "SME",
+        "Cloud Computing",
+        "Digital Transformation"
+      ]
+    },
+    {
+      "id": "ia-20261023-010",
+      "title": "پیاده‌سازی پروتکل TSN در شبکه کارخانه‌های هوشمند",
+      "summary": "تکنولوژی شبکه حساس به زمان (TSN) اکنون به طور کامل در تجهیزات شبکه صنعتی زیمنس ادغام شده است. این فناوری امکان انتقال داده‌های کنترلی و داده‌های IT را در یک بستر واحد با تاخیر بسیار کم فراهم می‌کند. این یکپارچگی برای کارخانه‌هایی که از سیستم‌های بلادرنگ و هوش مصنوعی استفاده می‌کنند، حیاتی است.",
+      "category": "industry",
+      "published_at": "1405/08/01 15:30",
+      "collected_at": "1405/08/01 16:02",
+      "source": "Industrial Ethernet Journal",
+      "source_url": "https://www.ie-journal.com/tsn-siemens-integration",
+      "tags": [
+        "TSN",
+        "Networking",
+        "Industrial Ethernet"
       ]
     }
   ]
