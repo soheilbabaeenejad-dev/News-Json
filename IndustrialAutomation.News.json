@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 239,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/08/02 06:38",
+  "count": 249,
+  "provider": "Gemini/gemini-3.8-flash",
+  "updated_at": "1405/08/02 08:03",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3694,6 +3694,176 @@
         "AI",
         "SCL",
         "TIA Portal"
+      ]
+    },
+    {
+      "id": "ia-20261024-001",
+      "title": "همکاری زیمنس و دانفوس برای یکپارچه‌سازی پروتکل‌های درایوهای هوشمند",
+      "summary": "زیمنس و دانفوس تفاهم‌نامه‌ای راهبردی برای استانداردسازی ارتباطات درایوهای صنعتی با پلتفرم SIMATIC امضا کردند. این اقدام باعث تسهیل پیکربندی تجهیزات و کاهش ۳۰ درصدی زمان راه‌اندازی خطوط تولید می‌شود. بر اساس این توافق، درایوهای VLT به صورت بومی از طریق پروتکل PROFINET با نرم‌افزار TIA Portal یکپارچه خواهند شد.",
+      "category": "industry",
+      "published_at": "1405/08/02 07:50",
+      "collected_at": "1405/08/02 08:03",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-danfoss-partnership-drive-integration",
+      "tags": [
+        "Siemens",
+        "Danfoss",
+        "PROFINET",
+        "TIA Portal",
+        "SINAMICS"
+      ]
+    },
+    {
+      "id": "ia-20261024-002",
+      "title": "رونمایی زیمنس از روتر صنعتی SCALANCE MUM500 برای ارتباطات خصوصی نسل پنج",
+      "summary": "شرکت زیمنس روتر صنعتی جدید SCALANCE MUM500 را با هدف ایجاد شبکه‌های خصوصی 5G در محیط‌های خشن کارخانه‌ای معرفی کرد. این سخت‌افزار تاخیر تبادل داده‌ها را به زیر چند میلی‌ثانیه رسانده و امکان اتصال بلادرنگ ربات‌های متحرک خودگردان به سرور مرکزی را فراهم می‌آورد. این روتر دارای استاندارد حفاظتی IP65 بوده و از بسترهای ابری پشتیبانی می‌کند.",
+      "category": "product",
+      "published_at": "1405/08/02 07:25",
+      "collected_at": "1405/08/02 08:03",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/industrial-5g-siemens-scalance-router",
+      "tags": [
+        "Siemens",
+        "5G",
+        "SCALANCE",
+        "Industrial Networks",
+        "AMR"
+      ]
+    },
+    {
+      "id": "ia-20261024-003",
+      "title": "انتشار به‌روزرسانی سیستم مانیتورینگ SIMATIC WinCC Unified با تمرکز بر امنیت وب",
+      "summary": "زیمنس نسخه جدید سامانه اسکادای تحت وب SIMATIC WinCC Unified را با معماری ارتقایافته امنیت داده‌ها روانه بازار کرد. این نگارش با بهره‌گیری از گواهینامه‌های اعتبارسنجی پیشرفته، دسترسی امن اپراتورها از طریق مرورگرهای وب به خط تولید را تضمین می‌کند. همچنین امکان ایجاد داشبوردهای پویا بر پایه جاوا اسکریپت و فناوری HTML5 برای کاربران محلی فراهم شده است.",
+      "category": "product",
+      "published_at": "1405/08/02 06:40",
+      "collected_at": "1405/08/02 08:03",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-wincc-unified-scada-update",
+      "tags": [
+        "SIMATIC",
+        "WinCC Unified",
+        "SCADA",
+        "Web Security",
+        "HMI"
+      ]
+    },
+    {
+      "id": "ia-20261024-004",
+      "title": "توسعه سامانه‌های امنیتی مشترک راکول اتوماسیون و سیسکو برای حفاظت از شبکه‌های صنعتی",
+      "summary": "راکول اتوماسیون با همکاری سیسکو از ابزار جامع جدیدی برای تحلیل ناهنجاری‌ها در سطح شبکه OT پرده‌برداری کرد. این راهکار به صنایع سنگین اجازه می‌دهد تا نفوذهای بدافزاری به تجهیزات کنترل منطقی قابل‌برنامه‌ریزی (PLC) را سریعاً ردیابی کنند. این سیستم مبتنی بر راهکار Cyber Vision سیسکو طراحی شده و دید کاملی از دارایی‌های اتوماسیون ارائه می‌دهد.",
+      "category": "industry",
+      "published_at": "1405/08/02 06:05",
+      "collected_at": "1405/08/02 08:03",
+      "source": "Rockwell Automation Newsroom",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/news/press-releases/cisco-partnership-ot-security.html",
+      "tags": [
+        "Rockwell Automation",
+        "Cisco",
+        "Cybersecurity",
+        "OT Security",
+        "PLC"
+      ]
+    },
+    {
+      "id": "ia-20261024-005",
+      "title": "پیاده‌سازی سیستم کنترل فرآیند SIMATIC PCS neo در مجتمع‌های پتروشیمی مدرن",
+      "summary": "زیمنس بهره‌برداری تجاری از سیستم کنترل توزیع‌شده کاملاً تحت وب SIMATIC PCS neo را در چندین پالایشگاه آغاز کرد. این معماری نوین مهندسی مشترک به تیم‌های توزیع‌شده اجازه می‌دهد تا به شکل همزمان روی یک پروژه واحد بدون تداخل تغییرات کار کنند. پشتیبانی بومی از ماژول‌های MTP زمان اتصال تجهیزات جدید به چرخه تولید را تا ۴۰ درصد کاهش داده است.",
+      "category": "company",
+      "published_at": "1405/08/02 05:20",
+      "collected_at": "1405/08/02 08:03",
+      "source": "Hydrocarbon Processing",
+      "source_url": "https://www.hydrocarbonprocessing.com/news/siemens-simatic-pcs-neo-petrochemical",
+      "tags": [
+        "Siemens",
+        "PCS neo",
+        "DCS",
+        "Process Automation",
+        "MTP"
+      ]
+    },
+    {
+      "id": "ia-20261024-006",
+      "title": "معرفی پلتفرم جدید یوکوگاوا برای دستیابی به عملیات کاملاً خودران در صنایع شیمیایی",
+      "summary": "شرکت یوکوگاوا از راهکار هوش مصنوعی جدیدی برای بهینه‌سازی مداوم واحدهای تقطیر و فرآیندهای پیچیده پتروشیمی رونمایی کرد. این سیستم به عنوان مکمل تجهیزات DCS عمل کرده و تصمیمات کنترلی بهینه را بدون نیاز به دخالت دستی اپراتور اتخاذ می‌نماید. داده‌های اولیه از کاهش هشت درصدی مصرف سوخت کوره و تثبیت کیفیت خروجی محصول در این پایلوت حکایت دارد.",
+      "category": "product",
+      "published_at": "1405/08/02 04:35",
+      "collected_at": "1405/08/02 08:03",
+      "source": "Yokogawa Electric",
+      "source_url": "https://www.yokogawa.com/news/press-releases/autonomous-operations-chemical-plant-ai",
+      "tags": [
+        "Yokogawa",
+        "Autonomous Operations",
+        "DCS",
+        "AI",
+        "Chemical"
+      ]
+    },
+    {
+      "id": "ia-20261024-007",
+      "title": "افزونه جدید مدیریت بهره‌وری انرژی در پلتفرم ابری Insights Hub زیمنس",
+      "summary": "شرکت زیمنس ماژول جدید تحلیل مصرف حامل‌های انرژی را در پلتفرم صنعتی Insights Hub در دسترس کاربران قرار داد. این افزونه با خواندن لحظه‌ای پارامترهای الکتریکی درایوها و سنسورها، نقاط اتلاف انرژی در خطوط مونتاژ را به صورت خودکار شناسایی می‌کند. این راهکار به صنایع بزرگ کمک می‌کند گزارش‌های پایداری و ردپای کربن را مطابق استانداردهای ISO 50001 تدوین نمایند.",
+      "category": "product",
+      "published_at": "1405/08/02 03:45",
+      "collected_at": "1405/08/02 08:03",
+      "source": "Siemens Digital Industries",
+      "source_url": "https://www.siemens.com/global/en/products/software/insights-hub/energy-management-app.html",
+      "tags": [
+        "Siemens",
+        "Insights Hub",
+        "MindSphere",
+        "Energy Efficiency",
+        "IIoT"
+      ]
+    },
+    {
+      "id": "ia-20261024-008",
+      "title": "به‌کارگیری ربات‌های مفصلی سبک‌وزن کوکا در فرآیندهای تولید میکروالکترونیک",
+      "summary": "شرکت کوکا نسل نوینی از بازوهای رباتیک فشرده سری KR CYBERTECH را ویژه استفاده در اتاق‌های تمیز صنایع الکترونیک عرضه کرد. این ربات‌ها با داشتن استاندارد اتاق تمیز ISO Class 5، مونتاژ بردهای ظریف را با دقت تکرارپذیری ۰.۰۲ میلی‌متر به انجام می‌رسانند. هدف از این توسعه، پاسخگویی به تقاضای فزاینده خطوط بسته‌بندی چیپ‌های نیمه‌هادی در آسیا و اروپاست.",
+      "category": "product",
+      "published_at": "1405/08/02 02:30",
+      "collected_at": "1405/08/02 08:03",
+      "source": "Robotics World",
+      "source_url": "https://www.roboticsbusinessreview.com/manufacturing/kuka-cleanroom-robots-microelectronics",
+      "tags": [
+        "KUKA",
+        "Robotics",
+        "Cleanroom",
+        "Electronics",
+        "Precision"
+      ]
+    },
+    {
+      "id": "ia-20261024-009",
+      "title": "شتاب‌گیری استاندارد MTP برای ایجاد واحدهای تولید ماژولار در صنایع بیوتکنولوژی",
+      "summary": "ائتلافی از پیشگامان اتوماسیون از جمله زیمنس و امرسون، بر شتاب‌گیری در به‌کارگیری استاندارد Module Type Package تاکید کردند. این پروتکل امکان اتصال سریع تجهیزات فرآیندی Plug & Produce را به ساختار مانیتورینگ کارخانه می‌دهد. در صنعت تولید واکسن و دارو، پیاده‌سازی MTP باعث کاهش چشمگیر زمان راه‌اندازی خطوط از چند ماه به چند روز شده است.",
+      "category": "industry",
+      "published_at": "1405/08/02 01:15",
+      "collected_at": "1405/08/02 08:03",
+      "source": "NAMUR Industry Forum",
+      "source_url": "https://www.namur.net/en/news/module-type-package-biotech-pharma-adoption",
+      "tags": [
+        "MTP",
+        "Siemens",
+        "Emerson",
+        "Pharma",
+        "Modular Automation"
+      ]
+    },
+    {
+      "id": "ia-20261024-010",
+      "title": "ورود درایو سروو SINAMICS S200 زیمنس به حوزه ماشین‌آلات بسته‌بندی پرسرعت",
+      "summary": "زیمنس توزیع گسترده سیستم سروو درایو SINAMICS S200 را برای کاربردهای کنترل حرکت دقیق در خطوط بسته‌بندی آغاز نمود. این سیستم با هماهنگی کامل کنترلرهای SIMATIC S7-1500 و کابل‌های تک‌رشته‌ای، حجم تابلو برق و پیچیدگی سیم‌کشی را به نصف کاهش می‌دهد. سرعت پاسخگویی گشتاور و تیونینگ خودکار درایو، بهره‌وری ماشین‌ها را به طرز چشمگیری بهبود بخشیده است.",
+      "category": "product",
+      "published_at": "1405/08/01 23:40",
+      "collected_at": "1405/08/02 08:03",
+      "source": "Packaging Machinery Manufacturer",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/sinamics-s200-servo-drive-system-packaging",
+      "tags": [
+        "Siemens",
+        "SINAMICS",
+        "Motion Control",
+        "Servo Drives",
+        "Packaging"
       ]
     }
   ]
