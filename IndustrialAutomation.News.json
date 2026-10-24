@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 248,
-  "provider": "Gemini/gemma-4-31b-it",
-  "updated_at": "1405/08/02 07:41",
+  "count": 258,
+  "provider": "Gemini/gemini-3-flash-preview",
+  "updated_at": "1405/08/02 09:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3829,6 +3829,166 @@
         "EcoStruxure",
         "Water Management",
         "IoT"
+      ]
+    },
+    {
+      "id": "ia-20261024-001",
+      "title": "همکاری زیمنس و سونی برای توسعه مهندسی فضایی در متاورس صنعتی",
+      "summary": "زیمنس و سونی با ترکیب پلتفرم Xcelerator و هدست‌های واقعیت ترکیبی جدید، راهکاری برای طراحی سه‌بعدی و مهندسی فضایی ارائه کرده‌اند. این همکاری به مهندسان اجازه می‌دهد تا مدل‌های پیچیده صنعتی را در محیطی کاملاً غوطه‌ور بررسی و ویرایش کنند. هدف اصلی این پروژه کاهش زمان توسعه محصول و بهبود همکاری تیم‌های مهندسی در پروژه‌های بزرگ زیرساختی و تولیدی است که به دقت بسیار بالایی نیاز دارند.",
+      "category": "industry",
+      "published_at": "1405/08/02 08:15",
+      "collected_at": "1405/08/02 09:01",
+      "source": "Siemens Press",
+      "source_url": "https://press.siemens.com/global/en/pressrelease/siemens-and-sony-partner-enable-spatial-engineering",
+      "tags": [
+        "Xcelerator",
+        "Sony",
+        "Industrial Metaverse",
+        "Digital Twin"
+      ]
+    },
+    {
+      "id": "ia-20261024-002",
+      "title": "معرفی ماژول پردازش عصبی SIMATIC S7-1500 برای کاربردهای هوش مصنوعی",
+      "summary": "زیمنس ماژول جدید TM NPU را برای کنترلرهای S7-1500 معرفی کرد که امکان اجرای الگوریتم‌های یادگیری ماشین را مستقیماً در سطح PLC فراهم می‌کند. این سخت‌افزار از شبکه‌های عصبی برای پردازش داده‌های سنسورها و بهینه‌سازی فرآیندهای تولید در زمان واقعی استفاده می‌کند. با این فناوری، دقت در شناسایی عیوب محصول و کنترل کیفیت در خطوط بسته‌بندی به شکل چشمگیری افزایش یافته و نیاز به سرورهای خارجی کاهش می‌یابد.",
+      "category": "product",
+      "published_at": "1405/08/02 07:40",
+      "collected_at": "1405/08/02 09:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/products/control/article/siemens-simatic-s71500-npu",
+      "tags": [
+        "SIMATIC",
+        "AI",
+        "PLC",
+        "Neural Processing"
+      ]
+    },
+    {
+      "id": "ia-20261024-003",
+      "title": "ارتقای مدیریت ناوگان در پلتفرم Siemens Industrial Edge",
+      "summary": "نسخه جدید سیستم مدیریت Industrial Edge زیمنس با قابلیت‌های پیشرفته برای کنترل متمرکز هزاران دستگاه متصل در کارخانه‌های توزیع‌شده عرضه شد. این به‌روزرسانی شامل ابزارهای جدیدی برای استقرار خودکار برنامه‌ها و مانیتورینگ وضعیت سخت‌افزارها در محیط‌های OT است. این راهکار به مدیران IT و OT اجازه می‌دهد تا امنیت و کارایی برنامه‌های لبه را با کمترین وقفه در تولید مدیریت کرده و از راه دور به‌روزرسانی‌های امنیتی را اعمال کنند.",
+      "category": "news",
+      "published_at": "1405/08/02 06:55",
+      "collected_at": "1405/08/02 09:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-updates-industrial-edge-management/",
+      "tags": [
+        "Industrial Edge",
+        "Fleet Management",
+        "OT",
+        "Cloud Integration"
+      ]
+    },
+    {
+      "id": "ia-20261024-004",
+      "title": "راهکار جدید اشنایدر الکتریک برای پایداری در صنایع فرآیندی",
+      "summary": "شرکت اشنایدر الکتریک با همکاری AVEVA پلتفرم جدیدی را برای مانیتورینگ لحظه‌ای انتشار کربن و مصرف انرژی در صنایع نفت و گاز معرفی کرده است. این سیستم با استفاده از داده‌های سنسورهای فیلد، الگوهای مصرف انرژی را تحلیل کرده و پیشنهاداتی برای کاهش ضایعات ارائه می‌دهد. این ابزار به شرکت‌ها کمک می‌کند تا به اهداف توسعه پایدار و استانداردهای زیست‌محیطی جدید دست یابند و هزینه‌های عملیاتی خود را بهینه کنند.",
+      "category": "industry",
+      "published_at": "1405/08/02 06:20",
+      "collected_at": "1405/08/02 09:01",
+      "source": "Reuters Industry",
+      "source_url": "https://www.reuters.com/business/sustainable-business/schneider-electric-aveva-sustainability-software/",
+      "tags": [
+        "Schneider Electric",
+        "Sustainability",
+        "AVEVA",
+        "Energy Management"
+      ]
+    },
+    {
+      "id": "ia-20261024-005",
+      "title": "رونمایی ABB از ربات‌های پرسرعت Delta برای صنعت بسته‌بندی",
+      "summary": "شرکت ABB نسل جدید ربات‌های سری IRB 360 را با ظرفیت حمل بالاتر و سرعت پردازش بیشتر برای خطوط بسته‌بندی مواد غذایی و دارویی معرفی کرد. این ربات‌ها با استفاده از سیستم‌های بینایی ماشین پیشرفته، قادر به تشخیص و دسته‌بندی محصولات با دقت میلی‌متری در سرعت‌های بسیار بالا هستند. طراحی بهداشتی و بدنه ضدزنگ این ربات‌ها، استانداردهای سخت‌گیرانه صنایع غذایی را به خوبی پوشش داده و بهره‌وری خطوط را تا ۲۰ درصد افزایش می‌دهد.",
+      "category": "product",
+      "published_at": "1405/08/02 05:45",
+      "collected_at": "1405/08/02 09:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/news/abb-launches-new-delta-robots-for-packaging/",
+      "tags": [
+        "ABB",
+        "Robotics",
+        "Packaging",
+        "Delta Robot"
+      ]
+    },
+    {
+      "id": "ia-20261024-006",
+      "title": "تحول در مدیریت تصفیه‌خانه‌های آب با دوقلوی دیجیتال زیمنس",
+      "summary": "زیمنس راهکار جدیدی مبتنی بر دوقلوی دیجیتال برای بهینه‌سازی عملکرد تصفیه‌خانه‌های آب شهری و صنعتی ارائه داده است که مصرف مواد شیمیایی را تا ۱۵ درصد کاهش می‌دهد. این سیستم با شبیه‌سازی فرآیندهای هیدرولیکی و شیمیایی، خرابی‌های احتمالی پمپ‌ها و تجهیزات را پیش‌بینی کرده و هزینه‌های نگهداری را به حداقل می‌رساند. استفاده از این فناوری در پروژه‌های بزرگ زیرساختی اروپا آغاز شده و نتایج مثبتی در کاهش مصرف انرژی داشته است.",
+      "category": "research",
+      "published_at": "1405/08/02 05:10",
+      "collected_at": "1405/08/02 09:01",
+      "source": "Water Technology",
+      "source_url": "https://www.watertechonline.com/siemens-digital-twin-water-treatment/",
+      "tags": [
+        "Water Industry",
+        "Digital Twin",
+        "Sustainability",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261024-007",
+      "title": "همکاری راکول اتوماسیون و دراگوس برای تقویت امنیت سایبری OT",
+      "summary": "شرکت Rockwell Automation و Dragos توافق‌نامه جدیدی را برای ادغام پلتفرم‌های شناسایی تهدید در شبکه‌های کنترل صنعتی (ICS) امضا کردند. این همکاری با هدف مقابله با حملات باج‌افزاری در بخش‌های انرژی و تولید برق صورت گرفته و شامل ابزارهای مانیتورینگ عمیق ترافیک شبکه است. این راهکار به اپراتورها اجازه می‌دهد تا نفوذهای غیرمجاز و رفتارهای مشکوک را در مراحل اولیه شناسایی کرده و از توقف خطوط تولید جلوگیری کنند.",
+      "category": "news",
+      "published_at": "1405/08/02 04:30",
+      "collected_at": "1405/08/02 09:01",
+      "source": "SecurityWeek",
+      "source_url": "https://www.securityweek.com/rockwell-automation-dragos-partnership-ot-security/",
+      "tags": [
+        "Rockwell Automation",
+        "Cybersecurity",
+        "Dragos",
+        "ICS Security"
+      ]
+    },
+    {
+      "id": "ia-20261024-008",
+      "title": "معرفی درایوهای SINAMICS G220 زیمنس با امنیت سایبری یکپارچه",
+      "summary": "زیمنس خانواده جدید درایوهای فرکانس متغیر SINAMICS G220 را معرفی کرد که اولین درایوهای این شرکت با قابلیت‌های امنیتی داخلی مطابق با استاندارد IEC 62443 هستند. این تجهیزات علاوه بر بهینه‌سازی مصرف انرژی موتورها، دارای ویژگی‌های حفاظتی برای جلوگیری از دسترسی‌های غیرمجاز به پارامترهای کنترلی می‌باشند. این درایوها برای استفاده در صنایع خودروسازی و ماشین‌سازی عمومی طراحی شده و نصب و راه‌اندازی بسیار ساده‌ای دارند.",
+      "category": "product",
+      "published_at": "1405/08/02 03:50",
+      "collected_at": "1405/08/02 09:01",
+      "source": "Design World",
+      "source_url": "https://www.designworldonline.com/siemens-introduces-sinamics-g220-drives/",
+      "tags": [
+        "SINAMICS",
+        "Drives",
+        "Cybersecurity",
+        "Energy Efficiency"
+      ]
+    },
+    {
+      "id": "ia-20261024-009",
+      "title": "استفاده از هوش مصنوعی در سیستم‌های CNC فانوک برای افزایش دقت",
+      "summary": "شرکت FANUC از قابلیت جدید AI Path Control در کنترلرهای CNC خود رونمایی کرد که خطاهای ناشی از لرزش و حرارت را در حین برش فلزات جبران می‌کند. این فناوری با یادگیری رفتار ماشین در شرایط مختلف، مسیر حرکت ابزار را به صورت خودکار اصلاح کرده و کیفیت سطح قطعات تولیدی را بهبود می‌بخشد. این نوآوری باعث کاهش ضایعات در تولید قطعات حساس هوافضا و تجهیزات پزشکی شده و عمر ابزار برش را نیز افزایش می‌دهد.",
+      "category": "news",
+      "published_at": "1405/08/02 03:15",
+      "collected_at": "1405/08/02 09:01",
+      "source": "Modern Machine Shop",
+      "source_url": "https://www.mmsonline.com/fanuc-ai-path-control-cnc/",
+      "tags": [
+        "FANUC",
+        "CNC",
+        "AI",
+        "Machining"
+      ]
+    },
+    {
+      "id": "ia-20261024-010",
+      "title": "ادغام هوش مصنوعی مولد در سیستم‌های نگهداری پیش‌بینانه زیمنس",
+      "summary": "زیمنس و مایکروسافت از یکپارچگی جدیدی بین Azure AI و پلتفرم Senseye Predictive Maintenance خبر دادند که به تکنسین‌ها اجازه می‌دهد با زبان طبیعی از وضعیت دستگاه‌ها سوال کنند. این سیستم گزارش‌های فنی پیچیده را تحلیل کرده و راهکارهای تعمیراتی را به صورت گام‌به‌گام به اپراتورها ارائه می‌دهد. این رویکرد جدید باعث کاهش زمان توقف ناخواسته تولید و بهبود بهره‌وری تیم‌های نگهداری و تعمیرات در کارخانه‌های هوشمند می‌شود.",
+      "category": "news",
+      "published_at": "1405/08/02 02:40",
+      "collected_at": "1405/08/02 09:01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2024/siemens-microsoft-generative-ai-maintenance/",
+      "tags": [
+        "Generative AI",
+        "Senseye",
+        "Microsoft",
+        "Predictive Maintenance"
       ]
     }
   ]
