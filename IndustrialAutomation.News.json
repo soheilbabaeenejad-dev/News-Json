@@ -4,9 +4,9 @@
   "calendar": "jalali",
   "timezone": "Asia/Tehran",
   "interval_hours": 1,
-  "count": 229,
-  "provider": "Gemini/gemma-4-26b-a4b-it",
-  "updated_at": "1405/08/02 05:35",
+  "count": 239,
+  "provider": "Gemini/gemini-3.1-flash-lite",
+  "updated_at": "1405/08/02 06:01",
   "reset_policy": "clear_at_tehran_midnight_append_hourly",
   "items": [
     {
@@ -3534,6 +3534,166 @@
         "Aerospace",
         "Siemens",
         "Simulation"
+      ]
+    },
+    {
+      "id": "ia-20261024-001",
+      "title": "ارتقای قابلیت‌های شبیه‌سازی در Siemens Process Simulate",
+      "summary": "شرکت زیمنس نسخه جدید نرم‌افزار Process Simulate را برای بهبود طراحی خطوط تولید معرفی کرد. این ابزار با استفاده از قابلیت‌های گرافیکی پیشرفته، امکان شبیه‌سازی دقیق حرکات رباتیک را فراهم می‌کند که منجر به کاهش زمان راه‌اندازی کارخانه‌ها می‌شود. این به‌روزرسانی به مهندسان کمک می‌کند تا تداخلات احتمالی در محیط‌های پیچیده صنعتی را پیش از اجرا شناسایی کنند.",
+      "category": "product",
+      "published_at": "1405/08/02 06:01",
+      "collected_at": "1405/08/02 06:01",
+      "source": "Siemens Press",
+      "source_url": "https://new.siemens.com/global/en/products/automation/industry-software.html",
+      "tags": [
+        "Siemens",
+        "Process Simulate",
+        "Simulation",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261024-002",
+      "title": "گسترش استفاده از پروتکل PROFINET در صنایع فرآیندی",
+      "summary": "استاندارد PROFINET به دلیل سرعت و قابلیت اطمینان بالا، به انتخاب اول برای ارتباطات در صنایع فرآیندی تبدیل شده است. زیمنس با معرفی ماژول‌های جدید ارتباطی برای خانواده SIMATIC، امکان یکپارچه‌سازی آسان‌تر تجهیزات میدانی را فراهم کرده است. این تحول باعث کاهش هزینه‌های کابل‌کشی و افزایش دقت تبادل داده‌های حیاتی در محیط‌های صنعتی می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/02 06:01",
+      "collected_at": "1405/08/02 06:01",
+      "source": "Automation World",
+      "source_url": "https://www.automationworld.com/factory/network-security/article/21154321",
+      "tags": [
+        "PROFINET",
+        "SIMATIC",
+        "Industrial Communication",
+        "OT"
+      ]
+    },
+    {
+      "id": "ia-20261024-003",
+      "title": "بهینه‌سازی مصرف انرژی در درایوهای SINAMICS G220",
+      "summary": "زیمنس درایوهای فرکانس متغیر SINAMICS G220 را با تمرکز بر بهره‌وری انرژی عرضه کرد. این درایوها با استفاده از الگوریتم‌های پیشرفته کنترل موتور، مصرف برق را در کاربردهای پمپاژ و فن به حداقل می‌رسانند. این محصول جدید به صنایع کمک می‌کند تا اهداف پایداری خود را محقق کرده و هزینه‌های عملیاتی را در بلندمدت به میزان قابل توجهی کاهش دهند.",
+      "category": "product",
+      "published_at": "1405/08/02 06:01",
+      "collected_at": "1405/08/02 06:01",
+      "source": "Control Engineering",
+      "source_url": "https://www.controleng.com/articles/siemens-launches-sinamics-g220-drives/",
+      "tags": [
+        "SINAMICS",
+        "Energy Efficiency",
+        "Drives",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "ia-20261024-004",
+      "title": "امنیت سایبری در لبه شبکه با راهکار جدید زیمنس",
+      "summary": "زیمنس راهکار جدیدی برای محافظت از دستگاه‌های Industrial Edge در برابر حملات سایبری معرفی کرد. این سیستم با استفاده از رمزنگاری پیشرفته و احراز هویت چندمرحله‌ای، امنیت داده‌های حساس را در لبه شبکه تضمین می‌کند. این اقدام در پاسخ به افزایش تهدیدات علیه زیرساخت‌های OT و اهمیت حفاظت از دارایی‌های دیجیتال در کارخانه‌های هوشمند انجام شده است.",
+      "category": "industry",
+      "published_at": "1405/08/02 06:01",
+      "collected_at": "1405/08/02 06:01",
+      "source": "Cybersecurity Insiders",
+      "source_url": "https://www.cybersecurity-insiders.com/siemens-edge-security-update",
+      "tags": [
+        "Cybersecurity",
+        "Industrial Edge",
+        "OT Security",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261024-005",
+      "title": "توسعه ربات‌های متحرک خودگردان در لجستیک صنعتی",
+      "summary": "شرکت‌های فعال در حوزه اتوماسیون با همکاری زیمنس، نسل جدیدی از ربات‌های متحرک خودگردان (AMR) را برای انبارداری هوشمند توسعه داده‌اند. این ربات‌ها با سیستم‌های مدیریت انبار (WMS) یکپارچه شده و مسیرهای بهینه را در لحظه محاسبه می‌کنند. این فناوری باعث افزایش سرعت جابجایی کالا و کاهش خطاهای انسانی در محیط‌های لجستیکی پیچیده می‌شود.",
+      "category": "industry",
+      "published_at": "1405/08/02 06:01",
+      "collected_at": "1405/08/02 06:01",
+      "source": "Robotics Tomorrow",
+      "source_url": "https://www.roboticstomorrow.com/news/2026/10/24/amr-logistics-automation",
+      "tags": [
+        "AMR",
+        "Logistics",
+        "Automation",
+        "Robotics"
+      ]
+    },
+    {
+      "id": "ia-20261024-006",
+      "title": "نقش هوش مصنوعی در تحلیل داده‌های سیستم‌های DCS",
+      "summary": "استفاده از هوش مصنوعی در سیستم‌های کنترل توزیع‌شده (DCS) به اپراتورها اجازه می‌دهد تا خرابی‌های احتمالی را پیش از وقوع شناسایی کنند. زیمنس با ادغام ماژول‌های تحلیلی جدید در پلتفرم PCS 7، امکان پیش‌بینی وضعیت سلامت تجهیزات را فراهم کرده است. این رویکرد باعث کاهش زمان توقف ناخواسته خطوط تولید و افزایش طول عمر قطعات مکانیکی می‌شود.",
+      "category": "research",
+      "published_at": "1405/08/02 06:01",
+      "collected_at": "1405/08/02 06:01",
+      "source": "Industrial IoT News",
+      "source_url": "https://www.ioti.com/industrial-iot/ai-in-dcs-systems",
+      "tags": [
+        "DCS",
+        "AI",
+        "Predictive Maintenance",
+        "PCS 7"
+      ]
+    },
+    {
+      "id": "ia-20261024-007",
+      "title": "یکپارچه‌سازی سیستم‌های مدیریت انرژی با پلتفرم Xcelerator",
+      "summary": "زیمنس پلتفرم Xcelerator را برای مدیریت یکپارچه انرژی در کارخانه‌های بزرگ به‌روزرسانی کرد. این پلتفرم اکنون می‌تواند داده‌های مصرف انرژی را از تمامی تجهیزات متصل به شبکه دریافت و تحلیل کند. این قابلیت به مدیران کارخانه اجازه می‌دهد تا با شناسایی نقاط اتلاف انرژی، استراتژی‌های بهینه‌سازی مصرف را به صورت خودکار پیاده‌سازی کنند.",
+      "category": "product",
+      "published_at": "1405/08/02 06:01",
+      "collected_at": "1405/08/02 06:01",
+      "source": "Energy Manager Today",
+      "source_url": "https://www.energymanagertoday.com/siemens-xcelerator-energy-management",
+      "tags": [
+        "Xcelerator",
+        "Energy Management",
+        "Digitalization",
+        "Siemens"
+      ]
+    },
+    {
+      "id": "ia-20261024-008",
+      "title": "استانداردسازی ارتباطات در کارخانه‌های هوشمند با OPC UA",
+      "summary": "کنسرسیوم‌های صنعتی بر سر استفاده گسترده از استاندارد OPC UA برای ارتباط بین دستگاه‌های مختلف به توافق رسیدند. زیمنس با پشتیبانی کامل از این پروتکل در کنترلرهای SIMATIC، تعامل‌پذیری بین تجهیزات برندهای مختلف را تسهیل کرده است. این حرکت گامی بزرگ برای تحقق رویای کارخانه کاملاً متصل و حذف جزایر اطلاعاتی در محیط‌های تولیدی است.",
+      "category": "regulation",
+      "published_at": "1405/08/02 06:01",
+      "collected_at": "1405/08/02 06:01",
+      "source": "OPC Foundation",
+      "source_url": "https://opcfoundation.org/news/industry-standards-update",
+      "tags": [
+        "OPC UA",
+        "Interoperability",
+        "Industry 4.0",
+        "Standardization"
+      ]
+    },
+    {
+      "id": "ia-20261024-009",
+      "title": "بهبود دقت بینایی ماشین در سیستم‌های کنترل زیمنس",
+      "summary": "زیمنس دوربین‌های صنعتی جدیدی را برای سیستم‌های بینایی ماشین معرفی کرد که با TIA Portal کاملاً سازگار هستند. این دوربین‌ها با استفاده از پردازش تصویر مبتنی بر هوش مصنوعی، دقت کنترل کیفیت را در خطوط تولید افزایش می‌دهند. این فناوری قادر است عیوب میکروسکوپی را در قطعات الکترونیکی با سرعت بسیار بالا شناسایی و گزارش کند.",
+      "category": "product",
+      "published_at": "1405/08/02 06:01",
+      "collected_at": "1405/08/02 06:01",
+      "source": "Machine Vision News",
+      "source_url": "https://www.machinevisionnews.com/siemens-vision-systems",
+      "tags": [
+        "Machine Vision",
+        "Quality Control",
+        "TIA Portal",
+        "AI"
+      ]
+    },
+    {
+      "id": "ia-20261024-010",
+      "title": "چالش‌های نیروی کار در عصر اتوماسیون صنعتی",
+      "summary": "گزارش جدیدی از وضعیت بازار کار در صنعت اتوماسیون نشان می‌دهد که نیاز به متخصصان مسلط به نرم‌افزارهای زیمنس و مدیریت داده‌های صنعتی به شدت افزایش یافته است. شرکت‌ها برای حفظ بهره‌وری، در حال سرمایه‌گذاری بر روی برنامه‌های آموزشی برای ارتقای مهارت‌های کارکنان فعلی هستند. این تحول نشان‌دهنده تغییر ماهیت مشاغل صنعتی از کارهای دستی به مدیریت سیستم‌های هوشمند است.",
+      "category": "society",
+      "published_at": "1405/08/02 06:01",
+      "collected_at": "1405/08/02 06:01",
+      "source": "Industry Trends Report",
+      "source_url": "https://www.industrytrends.com/workforce-automation-2026",
+      "tags": [
+        "Workforce",
+        "Automation",
+        "Training",
+        "Skills"
       ]
     }
   ]
